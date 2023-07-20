@@ -6,17 +6,6 @@
     "description": "mpv on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46796031?u=250eda0977ec227cc8d23eaecaa9e3b5f83ff12b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>compilation of dotfiles for the i3 window manager environment</div>",
-            "url": "https://github.com/mrdotx/dotfiles",
-            "title": "mrdotx/dotfiles: compilation of dotfiles for the i3 window manager environment",
-            "date_modified": "2023-04-29T14:15:09.000Z",
-            "date_published": "2019-10-09T11:25:30.000Z",
-            "author": {
-                "name": "mrdotx",
-                "url": "https://github.com/mrdotx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Third-party native Jellyfin client for Nintendo Switch</div>",
             "url": "https://github.com/dragonflylee/switchfin",
             "title": "dragonflylee/switchfin: Third-party native Jellyfin client for Nintendo Switch",
@@ -25,6 +14,50 @@
             "author": {
                 "name": "dragonflylee",
                 "url": "https://github.com/dragonflylee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50797982?u=89a5228fd3c733568fffe50d9d6342e05d1d71a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Componentized Rec.2100 to Rec.709 conversion shader for mpv-player, featuring dynamic curves and a uniform color space.</div>",
+            "url": "https://github.com/natural-harmonia-gropius/hdr-toys",
+            "title": "natural-harmonia-gropius/hdr-toys: Componentized Rec.2100 to Rec.709 conversion shader for mpv-player, featuring dynamic curves and a uniform color space.",
+            "date_modified": "2023-07-17T04:58:49.000Z",
+            "date_published": "2023-02-09T14:52:50.000Z",
+            "author": {
+                "name": "natural-harmonia-gropius",
+                "url": "https://github.com/natural-harmonia-gropius"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50797982?u=89a5228fd3c733568fffe50d9d6342e05d1d71a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal config for mpv-player.</div>",
+            "url": "https://github.com/natural-harmonia-gropius/mpv-config",
+            "title": "natural-harmonia-gropius/mpv-config: Personal config for mpv-player.",
+            "date_modified": "2023-07-17T05:12:19.000Z",
+            "date_published": "2021-09-26T08:38:36.000Z",
+            "author": {
+                "name": "natural-harmonia-gropius",
+                "url": "https://github.com/natural-harmonia-gropius"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"movie_camera\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png\">🎥</g-emoji> Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2023-07-20T16:16:36.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46796031?u=250eda0977ec227cc8d23eaecaa9e3b5f83ff12b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>compilation of dotfiles for the i3 window manager environment</div>",
+            "url": "https://github.com/mrdotx/dotfiles",
+            "title": "mrdotx/dotfiles: compilation of dotfiles for the i3 window manager environment",
+            "date_modified": "2023-04-29T14:15:09.000Z",
+            "date_published": "2019-10-09T11:25:30.000Z",
+            "author": {
+                "name": "mrdotx",
+                "url": "https://github.com/mrdotx"
             }
         },
         {
@@ -127,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50797982?u=89a5228fd3c733568fffe50d9d6342e05d1d71a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal config for mpv-player.</div>",
-            "url": "https://github.com/natural-harmonia-gropius/mpv-config",
-            "title": "natural-harmonia-gropius/mpv-config: Personal config for mpv-player.",
-            "date_modified": "2023-07-17T05:12:19.000Z",
-            "date_published": "2021-09-26T08:38:36.000Z",
-            "author": {
-                "name": "natural-harmonia-gropius",
-                "url": "https://github.com/natural-harmonia-gropius"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5253997?u=7fb6ebda4b730bac22f996a50e636a01ec1f7a66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]</div>",
             "url": "https://github.com/gerardbm/dotfiles",
             "title": "gerardbm/dotfiles: My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "chapmanjacobd",
                 "url": "https://github.com/chapmanjacobd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35151645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The modern video player for macOS.</div>",
-            "url": "https://github.com/iina/iina",
-            "title": "iina/iina: The modern video player for macOS.",
-            "date_modified": "2023-07-20T13:26:33.000Z",
-            "date_published": "2016-12-19T07:18:45.000Z",
-            "author": {
-                "name": "iina",
-                "url": "https://github.com/iina"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1343411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MPV Player Win64 Auto Build Bot</div>",
-            "url": "https://github.com/nyfair/mpv-win64",
-            "title": "nyfair/mpv-win64: MPV Player Win64 Auto Build Bot",
-            "date_modified": "2023-07-06T09:56:53.000Z",
-            "date_published": "2015-09-23T18:22:27.000Z",
-            "author": {
-                "name": "nyfair",
-                "url": "https://github.com/nyfair"
             }
         }
     ]
