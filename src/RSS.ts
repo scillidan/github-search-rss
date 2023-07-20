@@ -15,12 +15,12 @@ export const SEARCH_ITEMS: RSSItem[] = [
         title: "keypirinha",
         query: "keypirinha sort:updated-desc",
         TYPE: "REPOSITORY",
-        link: `${BASE_URL}/lightweight-javascript-repo.json`
+        link: `${BASE_URL}/keypirinha-repo.json`
     },
     {
         title: "mpv",
         query: "mpv sort:updated-desc",
         TYPE: "REPOSITORY",
-        link: `/mpv-repo.json`
+        link: `${BASE_URL}/mpv-repo.json`
     },
 ];
