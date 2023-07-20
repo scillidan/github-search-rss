@@ -1,10 +1,21 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "mpv",
-    "home_page_url": "/mpv-repo.json",
-    "feed_url": "/mpv-repo.json",
+    "home_page_url": "https://azu.github.io/github-search-rss/mpv-repo.json",
+    "feed_url": "https://azu.github.io/github-search-rss/mpv-repo.json",
     "description": "mpv on GitHub",
     "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7908073?u=1157429b1969cf3895076471546b60bf1748724b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>xk media library</div>",
+            "url": "https://github.com/chapmanjacobd/library",
+            "title": "chapmanjacobd/library: xk media library",
+            "date_modified": "2023-07-17T05:17:30.000Z",
+            "date_published": "2021-12-05T06:37:19.000Z",
+            "author": {
+                "name": "chapmanjacobd",
+                "url": "https://github.com/chapmanjacobd"
+            }
+        },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Third-party native Jellyfin client for Nintendo Switch</div>",
             "url": "https://github.com/dragonflylee/switchfin",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "natural-harmonia-gropius",
                 "url": "https://github.com/natural-harmonia-gropius"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61936050?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>userscripts for mpv</div>",
-            "url": "https://github.com/dyphire/mpv-scripts",
-            "title": "dyphire/mpv-scripts: userscripts for mpv",
-            "date_modified": "2023-07-18T02:57:19.000Z",
-            "date_published": "2022-04-28T11:23:25.000Z",
-            "author": {
-                "name": "dyphire",
-                "url": "https://github.com/dyphire"
             }
         }
     ]
