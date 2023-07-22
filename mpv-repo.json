@@ -6,6 +6,61 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8470684?u=1ad8f8319b9048015c677c9ab08da750d36a1d05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A userscript for MPV that allows you to play \"up next\"/recommended youtube videos <g-emoji class=\"g-emoji\" alias=\"next_track_button\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/23ed.png\">⏭️</g-emoji></div>",
+            "url": "https://github.com/cvzi/mpv-youtube-upnext",
+            "title": "cvzi/mpv-youtube-upnext: A userscript for MPV that allows you to play \"up next\"/recommended youtube videos ⏭️",
+            "date_modified": "2023-07-22T20:10:52.000Z",
+            "date_published": "2020-04-13T09:56:14.000Z",
+            "author": {
+                "name": "cvzi",
+                "url": "https://github.com/cvzi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
+            "url": "https://github.com/zhongfly/mpv-winbuild",
+            "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
+            "date_modified": "2023-07-18T13:43:19.000Z",
+            "date_published": "2021-10-01T08:09:13.000Z",
+            "author": {
+                "name": "zhongfly",
+                "url": "https://github.com/zhongfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9623615?u=6bc92bc0db35022227a3730d8644d1ef06e3f0d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CMake-based MinGW-w64 Cross Toolchain </div>",
+            "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
+            "title": "shinchiro/mpv-winbuild-cmake:  CMake-based MinGW-w64 Cross Toolchain ",
+            "date_modified": "2023-07-18T17:29:58.000Z",
+            "date_published": "2018-07-15T11:58:39.000Z",
+            "author": {
+                "name": "shinchiro",
+                "url": "https://github.com/shinchiro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38305613?u=1ba2a279cb502e1437d46bcb891f08fe59508145&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"house_with_garden\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f3e1.png\">🏡</g-emoji> /.<g-emoji class=\"g-emoji\" alias=\"sparkling_heart\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f496.png\">💖</g-emoji></div>",
+            "url": "https://github.com/F7YYY/dotfiles",
+            "title": "F7YYY/dotfiles: 🏡 /.💖",
+            "date_modified": "2023-07-18T09:23:49.000Z",
+            "date_published": "2023-03-05T17:26:51.000Z",
+            "author": {
+                "name": "F7YYY",
+                "url": "https://github.com/F7YYY"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"movie_camera\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png\">🎥</g-emoji> Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2023-07-22T22:32:45.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58743577?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AV1/HEVC/VP9/H264 parallel encoder GUI for FFmpeg with preview/comparison</div>",
             "url": "https://github.com/porcino/Av1ador",
             "title": "porcino/Av1ador: AV1/HEVC/VP9/H264 parallel encoder GUI for FFmpeg with preview/comparison",
@@ -14,6 +69,17 @@
             "author": {
                 "name": "porcino",
                 "url": "https://github.com/porcino"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35151645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The modern video player for macOS.</div>",
+            "url": "https://github.com/iina/iina",
+            "title": "iina/iina: The modern video player for macOS.",
+            "date_modified": "2023-07-22T22:11:16.000Z",
+            "date_published": "2016-12-19T07:18:45.000Z",
+            "author": {
+                "name": "iina",
+                "url": "https://github.com/iina"
             }
         },
         {
@@ -58,28 +124,6 @@
             "author": {
                 "name": "karaokemugen",
                 "url": "https://github.com/karaokemugen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38305613?u=1ba2a279cb502e1437d46bcb891f08fe59508145&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"house_with_garden\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f3e1.png\">🏡</g-emoji> /.<g-emoji class=\"g-emoji\" alias=\"sparkling_heart\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f496.png\">💖</g-emoji></div>",
-            "url": "https://github.com/F7YYY/dotfiles",
-            "title": "F7YYY/dotfiles: 🏡 /.💖",
-            "date_modified": "2023-07-18T09:23:49.000Z",
-            "date_published": "2023-03-05T17:26:51.000Z",
-            "author": {
-                "name": "F7YYY",
-                "url": "https://github.com/F7YYY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div><g-emoji class=\"g-emoji\" alias=\"movie_camera\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png\">🎥</g-emoji> Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2023-07-22T17:44:04.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "URUWorks",
                 "url": "https://github.com/URUWorks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149047?u=7f451beec35c7bf72ca64e7adcc0e3966d6267fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official mirror of libplacebo</div>",
-            "url": "https://github.com/haasn/libplacebo",
-            "title": "haasn/libplacebo: Official mirror of libplacebo",
-            "date_modified": "2023-07-20T22:20:07.000Z",
-            "date_published": "2017-10-07T06:00:38.000Z",
-            "author": {
-                "name": "haasn",
-                "url": "https://github.com/haasn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87846149?u=433f75251615eb6465ca451c29af0babd9fede48&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dotfiles for ZoidBerg</div>",
-            "url": "https://github.com/chiefdinkan/dotfiles",
-            "title": "chiefdinkan/dotfiles: Dotfiles for ZoidBerg",
-            "date_modified": "2023-07-20T18:25:14.000Z",
-            "date_published": "2022-04-13T09:24:08.000Z",
-            "author": {
-                "name": "chiefdinkan",
-                "url": "https://github.com/chiefdinkan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88003829?u=5e6473f429a95d055aa3c72187aee442b14e3c64&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My configuration files for linux, commonly known as dotfiles.</div>",
-            "url": "https://github.com/mattialancellotti/dotfiles",
-            "title": "mattialancellotti/dotfiles: My configuration files for linux, commonly known as dotfiles.",
-            "date_modified": "2022-06-16T09:24:13.000Z",
-            "date_published": "2021-08-29T14:55:09.000Z",
-            "author": {
-                "name": "mattialancellotti",
-                "url": "https://github.com/mattialancellotti"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87017397?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Media Player Classic Qute Theater</div>",
-            "url": "https://github.com/mpc-qt/mpc-qt",
-            "title": "mpc-qt/mpc-qt: Media Player Classic Qute Theater",
-            "date_modified": "2023-07-22T07:36:20.000Z",
-            "date_published": "2021-07-06T11:48:59.000Z",
-            "author": {
-                "name": "mpc-qt",
-                "url": "https://github.com/mpc-qt"
             }
         }
     ]
