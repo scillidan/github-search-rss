@@ -6,14 +6,47 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84926938?u=796676b4e43ddc37807771c2f3cdbd7d5e3d03ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Forked from <a href=\"https://github.com/nyfair/mpv-win64\">https://github.com/nyfair/mpv-win64</a></div>",
+            "url": "https://github.com/eko5624/mpv-win64",
+            "title": "eko5624/mpv-win64: Forked from https://github.com/nyfair/mpv-win64",
+            "date_modified": "2023-07-10T14:23:27.000Z",
+            "date_published": "2021-08-31T08:18:39.000Z",
+            "author": {
+                "name": "eko5624",
+                "url": "https://github.com/eko5624"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3014203?u=d8c1e56ceee8d42a817823587e8f948fe55e6cbe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>see streaming with mpv</div>",
+            "url": "https://github.com/EvinceMoi/see",
+            "title": "EvinceMoi/see: see streaming with mpv",
+            "date_modified": "2023-06-14T14:03:41.000Z",
+            "date_published": "2023-05-18T02:12:35.000Z",
+            "author": {
+                "name": "EvinceMoi",
+                "url": "https://github.com/EvinceMoi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45698031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MPV Cast Client for Jellyfin</div>",
             "url": "https://github.com/jellyfin/jellyfin-mpv-shim",
             "title": "jellyfin/jellyfin-mpv-shim: MPV Cast Client for Jellyfin",
-            "date_modified": "2023-08-02T01:19:54.000Z",
+            "date_modified": "2023-08-04T10:58:34.000Z",
             "date_published": "2020-01-11T18:44:41.000Z",
             "author": {
                 "name": "jellyfin",
                 "url": "https://github.com/jellyfin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30563826?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>获取斗鱼，虎牙，哔哩哔哩，抖音，网易CC，快手，花椒，映客 等直播平台的真实流媒体地址（直播源），可在mpv，PotPlayer、flv.js等播放器中播放。将针对性推出不同侧重点的 cli， gui， server 程序</div>",
+            "url": "https://github.com/Borber/seam",
+            "title": "Borber/seam: 获取斗鱼，虎牙，哔哩哔哩，抖音，网易CC，快手，花椒，映客 等直播平台的真实流媒体地址（直播源），可在mpv，PotPlayer、flv.js等播放器中播放。将针对性推出不同侧重点的 cli， gui， server 程序",
+            "date_modified": "2023-08-04T10:34:47.000Z",
+            "date_published": "2020-03-24T12:05:24.000Z",
+            "author": {
+                "name": "Borber",
+                "url": "https://github.com/Borber"
             }
         },
         {
@@ -36,17 +69,6 @@
             "author": {
                 "name": "ksyasuda",
                 "url": "https://github.com/ksyasuda"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3014203?u=d8c1e56ceee8d42a817823587e8f948fe55e6cbe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>see streaming with mpv</div>",
-            "url": "https://github.com/EvinceMoi/see",
-            "title": "EvinceMoi/see: see streaming with mpv",
-            "date_modified": "2023-06-14T14:03:41.000Z",
-            "date_published": "2023-05-18T02:12:35.000Z",
-            "author": {
-                "name": "EvinceMoi",
-                "url": "https://github.com/EvinceMoi"
             }
         },
         {
@@ -97,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35151645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The modern video player for macOS.</div>",
             "url": "https://github.com/iina/iina",
             "title": "iina/iina: The modern video player for macOS.",
-            "date_modified": "2023-08-04T09:52:57.000Z",
+            "date_modified": "2023-08-04T10:38:13.000Z",
             "date_published": "2016-12-19T07:18:45.000Z",
             "author": {
                 "name": "iina",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "qwerty12",
                 "url": "https://github.com/qwerty12"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>test mpv plugin written in the Zig mpv plugin</div>",
-            "url": "https://github.com/eNV25/zig-mpv-plugin",
-            "title": "eNV25/zig-mpv-plugin: test mpv plugin written in the Zig mpv plugin",
-            "date_modified": "2023-08-03T17:50:47.000Z",
-            "date_published": "2023-08-03T17:50:17.000Z",
-            "author": {
-                "name": "eNV25",
-                "url": "https://github.com/eNV25"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22550919?u=2b1184414c5c3a9960017707b084f75398a8cb3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.</div>",
-            "url": "https://github.com/BazzaCuda/MinimalistMediaPlayerX",
-            "title": "BazzaCuda/MinimalistMediaPlayerX: An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.",
-            "date_modified": "2023-08-02T23:03:04.000Z",
-            "date_published": "2023-07-08T16:26:50.000Z",
-            "author": {
-                "name": "BazzaCuda",
-                "url": "https://github.com/BazzaCuda"
             }
         }
     ]
