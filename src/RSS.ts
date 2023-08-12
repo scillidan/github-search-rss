@@ -23,4 +23,10 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/mpv-repo.json`
     },
+    {
+        title: "datasette",
+        query: "datasette sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/datasette-repo.json`
+    },
 ];
