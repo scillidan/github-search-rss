@@ -29,4 +29,10 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/datasette-repo.json`
     },
+    {
+        title: "autohotkey",
+        query: "autohotkey sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/autohotkey-repo.json`
+    },
 ];
