@@ -6,6 +6,28 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/408915?u=0912c32a0c0ce1b2ecfccd1df0b54f89b33d529b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Video playback Effects/Filters (DirectX .hlsl pixel shaders, mpv .hook)</div>",
+            "url": "https://github.com/butterw/bShaders",
+            "title": "butterw/bShaders: Video playback Effects/Filters (DirectX .hlsl pixel shaders, mpv .hook)",
+            "date_modified": "2023-08-18T20:28:08.000Z",
+            "date_published": "2020-06-23T09:27:36.000Z",
+            "author": {
+                "name": "butterw",
+                "url": "https://github.com/butterw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42466980?u=c19947311f7658fc069c4acf06bd83679ec648d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A recent files menu for mpv</div>",
+            "url": "https://github.com/po5/memo",
+            "title": "po5/memo: A recent files menu for mpv",
+            "date_modified": "2023-08-18T20:47:19.000Z",
+            "date_published": "2023-05-05T09:01:33.000Z",
+            "author": {
+                "name": "po5",
+                "url": "https://github.com/po5"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32032905?u=7be4c7a92d6349358dcec48aa867e223af3e5ca3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configuration files and automation wizard for *nix meta distribution</div>",
             "url": "https://github.com/oniani/dot",
             "title": "oniani/dot: Configuration files and automation wizard for *nix meta distribution",
@@ -119,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35151645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The modern video player for macOS.</div>",
             "url": "https://github.com/iina/iina",
             "title": "iina/iina: The modern video player for macOS.",
-            "date_modified": "2023-08-18T17:03:40.000Z",
+            "date_modified": "2023-08-18T20:16:36.000Z",
             "date_published": "2016-12-19T07:18:45.000Z",
             "author": {
                 "name": "iina",
@@ -135,6 +157,17 @@
             "author": {
                 "name": "prayag17",
                 "url": "https://github.com/prayag17"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
+            "url": "https://github.com/zhongfly/mpv-winbuild",
+            "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
+            "date_modified": "2023-08-18T21:00:18.000Z",
+            "date_published": "2021-10-01T08:09:13.000Z",
+            "author": {
+                "name": "zhongfly",
+                "url": "https://github.com/zhongfly"
             }
         },
         {
@@ -185,44 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50797982?u=89a5228fd3c733568fffe50d9d6342e05d1d71a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal config for mpv-player.</div>",
             "url": "https://github.com/natural-harmonia-gropius/mpv-config",
             "title": "natural-harmonia-gropius/mpv-config: Personal config for mpv-player.",
-            "date_modified": "2023-08-10T18:18:30.000Z",
+            "date_modified": "2023-08-18T20:57:42.000Z",
             "date_published": "2021-09-26T08:38:36.000Z",
             "author": {
                 "name": "natural-harmonia-gropius",
                 "url": "https://github.com/natural-harmonia-gropius"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6236829?u=c34d8ed4c90b736e315beeaa078db36bd4598ddc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a mpv frontend built with nvim facilities</div>",
-            "url": "https://github.com/haolian9/cricket.nvim",
-            "title": "haolian9/cricket.nvim: a mpv frontend built with nvim facilities",
-            "date_modified": "2023-08-16T03:33:14.000Z",
-            "date_published": "2023-08-09T01:39:09.000Z",
-            "author": {
-                "name": "haolian9",
-                "url": "https://github.com/haolian9"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30563826?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>获取斗鱼，虎牙，哔哩哔哩，抖音，网易CC，快手，花椒，映客 等直播平台的真实流媒体地址（直播源），可在mpv，PotPlayer、flv.js等播放器中播放。将针对性推出不同侧重点的 cli， gui， server 程序</div>",
-            "url": "https://github.com/Borber/seam",
-            "title": "Borber/seam: 获取斗鱼，虎牙，哔哩哔哩，抖音，网易CC，快手，花椒，映客 等直播平台的真实流媒体地址（直播源），可在mpv，PotPlayer、flv.js等播放器中播放。将针对性推出不同侧重点的 cli， gui， server 程序",
-            "date_modified": "2023-08-18T15:49:03.000Z",
-            "date_published": "2020-03-24T12:05:24.000Z",
-            "author": {
-                "name": "Borber",
-                "url": "https://github.com/Borber"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Third-party native Jellyfin client for Nintendo Switch</div>",
-            "url": "https://github.com/dragonflylee/switchfin",
-            "title": "dragonflylee/switchfin: Third-party native Jellyfin client for Nintendo Switch",
-            "date_modified": "2023-08-18T14:12:28.000Z",
-            "date_published": "2023-06-12T08:40:59.000Z",
-            "author": {
-                "name": "dragonflylee",
-                "url": "https://github.com/dragonflylee"
             }
         }
     ]
