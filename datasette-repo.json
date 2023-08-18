@@ -6,6 +6,50 @@
     "description": "datasette on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1238873?u=fe1506b04debf76241447741b8da2136f2e5e8c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin providing data dashboards from metadata</div>",
+            "url": "https://github.com/rclement/datasette-dashboards",
+            "title": "rclement/datasette-dashboards: Datasette plugin providing data dashboards from metadata",
+            "date_modified": "2023-08-18T02:44:13.000Z",
+            "date_published": "2021-04-23T21:56:48.000Z",
+            "author": {
+                "name": "rclement",
+                "url": "https://github.com/rclement"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1238873?u=fe1506b04debf76241447741b8da2136f2e5e8c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Datasette plugin providing an MLOps platform to train, eval and predict machine learning models</div>",
+            "url": "https://github.com/rclement/datasette-ml",
+            "title": "rclement/datasette-ml: A Datasette plugin providing an MLOps platform to train, eval and predict machine learning models",
+            "date_modified": "2023-07-26T12:52:39.000Z",
+            "date_published": "2023-03-25T11:18:48.000Z",
+            "author": {
+                "name": "rclement",
+                "url": "https://github.com/rclement"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187135?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An experiment of publishing articles and variable metadata as a datasette instance</div>",
+            "url": "https://github.com/owid/owid-datasette",
+            "title": "owid/owid-datasette: An experiment of publishing articles and variable metadata as a datasette instance",
+            "date_modified": "2023-05-10T11:53:34.000Z",
+            "date_published": "2021-12-29T16:22:00.000Z",
+            "author": {
+                "name": "owid",
+                "url": "https://github.com/owid"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin for modifying table schemas</div>",
+            "url": "https://github.com/simonw/datasette-edit-schema",
+            "title": "simonw/datasette-edit-schema: Datasette plugin for modifying table schemas",
+            "date_modified": "2023-04-03T13:14:12.000Z",
+            "date_published": "2020-03-15T18:34:06.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archive PyPI JSON information for all Datasette related packages</div>",
             "url": "https://github.com/simonw/pypi-datasette-packages",
             "title": "simonw/pypi-datasette-packages: Archive PyPI JSON information for all Datasette related packages",
@@ -83,28 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1238873?u=fe1506b04debf76241447741b8da2136f2e5e8c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin providing data dashboards from metadata</div>",
-            "url": "https://github.com/rclement/datasette-dashboards",
-            "title": "rclement/datasette-dashboards: Datasette plugin providing data dashboards from metadata",
-            "date_modified": "2023-08-18T02:44:13.000Z",
-            "date_published": "2021-04-23T21:56:48.000Z",
-            "author": {
-                "name": "rclement",
-                "url": "https://github.com/rclement"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187135?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An experiment of publishing articles and variable metadata as a datasette instance</div>",
-            "url": "https://github.com/owid/owid-datasette",
-            "title": "owid/owid-datasette: An experiment of publishing articles and variable metadata as a datasette instance",
-            "date_modified": "2023-05-10T11:53:34.000Z",
-            "date_published": "2021-12-29T16:22:00.000Z",
-            "author": {
-                "name": "owid",
-                "url": "https://github.com/owid"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Today I Learned</div>",
             "url": "https://github.com/simonw/til",
             "title": "simonw/til: Today I Learned",
@@ -124,17 +146,6 @@
             "author": {
                 "name": "simonw",
                 "url": "https://github.com/simonw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1238873?u=fe1506b04debf76241447741b8da2136f2e5e8c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Datasette plugin providing an MLOps platform to train, eval and predict machine learning models</div>",
-            "url": "https://github.com/rclement/datasette-ml",
-            "title": "rclement/datasette-ml: A Datasette plugin providing an MLOps platform to train, eval and predict machine learning models",
-            "date_modified": "2023-07-26T12:52:39.000Z",
-            "date_published": "2023-03-25T11:18:48.000Z",
-            "author": {
-                "name": "rclement",
-                "url": "https://github.com/rclement"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "simonw",
                 "url": "https://github.com/simonw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84364688?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette Warehouse</div>",
-            "url": "https://github.com/labordata/warehouse",
-            "title": "labordata/warehouse: Datasette Warehouse",
-            "date_modified": "2022-09-26T21:03:45.000Z",
-            "date_published": "2021-07-21T16:54:08.000Z",
-            "author": {
-                "name": "labordata",
-                "url": "https://github.com/labordata"
             }
         }
     ]
