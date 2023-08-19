@@ -35,4 +35,22 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/autohotkey-repo.json`
     },
+    {
+        title: "sublime plugin",
+        query: "sublime plugin sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/sublime-plugin-repo.json`
+    },
+    {
+        title: "obsidian plugin",
+        query: "obsidian plugin sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/obsidian-plugin-repo.json`
+    },
+    {
+        title: "renpy",
+        query: "renpy sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/renpy-repo.json`
+    },
 ];
