@@ -53,4 +53,10 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/renpy-repo.json`
     },
+    {
+        title: "mkdocs plugin",
+        query: "mkdocs plugin sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/mkdocs-plugin.json`
+    },
 ];
