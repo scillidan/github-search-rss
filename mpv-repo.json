@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149047?u=7f451beec35c7bf72ca64e7adcc0e3966d6267fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official mirror of libplacebo</div>",
+            "url": "https://github.com/haasn/libplacebo",
+            "title": "haasn/libplacebo: Official mirror of libplacebo",
+            "date_modified": "2023-08-22T02:54:25.000Z",
+            "date_published": "2017-10-07T06:00:38.000Z",
+            "author": {
+                "name": "haasn",
+                "url": "https://github.com/haasn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7804791?u=0d2b50ed53cda59faa3e2770599a7d942da63ea9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>personal websocket-based currently playing web server</div>",
+            "url": "https://github.com/seanbreckenridge/currently_listening",
+            "title": "seanbreckenridge/currently_listening: personal websocket-based currently playing web server",
+            "date_modified": "2023-02-01T09:21:04.000Z",
+            "date_published": "2023-01-30T12:20:23.000Z",
+            "author": {
+                "name": "seanbreckenridge",
+                "url": "https://github.com/seanbreckenridge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6236829?u=c34d8ed4c90b736e315beeaa078db36bd4598ddc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a mpv frontend built with nvim facilities</div>",
+            "url": "https://github.com/haolian9/cricket.nvim",
+            "title": "haolian9/cricket.nvim: a mpv frontend built with nvim facilities",
+            "date_modified": "2023-08-26T15:21:00.000Z",
+            "date_published": "2023-08-09T01:39:09.000Z",
+            "author": {
+                "name": "haolian9",
+                "url": "https://github.com/haolian9"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28832235?u=b333cc367eddd1a1f72f66f7d876ed866a3f6c3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Synchronized torrent streaming for distributed watch parties.</div>",
+            "url": "https://github.com/pojntfx/multiplex",
+            "title": "pojntfx/multiplex: Synchronized torrent streaming for distributed watch parties.",
+            "date_modified": "2023-08-26T15:07:25.000Z",
+            "date_published": "2022-06-18T17:08:13.000Z",
+            "author": {
+                "name": "pojntfx",
+                "url": "https://github.com/pojntfx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7804791?u=0d2b50ed53cda59faa3e2770599a7d942da63ea9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Daemon which connects to active mpv instances, saving a history of what I watch/listen to</div>",
             "url": "https://github.com/seanbreckenridge/mpv-history-daemon",
             "title": "seanbreckenridge/mpv-history-daemon: Daemon which connects to active mpv instances, saving a history of what I watch/listen to",
@@ -28,17 +72,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149047?u=7f451beec35c7bf72ca64e7adcc0e3966d6267fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official mirror of libplacebo</div>",
-            "url": "https://github.com/haasn/libplacebo",
-            "title": "haasn/libplacebo: Official mirror of libplacebo",
-            "date_modified": "2023-08-22T02:54:25.000Z",
-            "date_published": "2017-10-07T06:00:38.000Z",
-            "author": {
-                "name": "haasn",
-                "url": "https://github.com/haasn"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Third-party native Jellyfin client for Nintendo Switch</div>",
             "url": "https://github.com/dragonflylee/switchfin",
             "title": "dragonflylee/switchfin: Third-party native Jellyfin client for Nintendo Switch",
@@ -58,17 +91,6 @@
             "author": {
                 "name": "eko5624",
                 "url": "https://github.com/eko5624"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28832235?u=b333cc367eddd1a1f72f66f7d876ed866a3f6c3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Synchronized torrent streaming for distributed watch parties.</div>",
-            "url": "https://github.com/pojntfx/vintangle",
-            "title": "pojntfx/vintangle: Synchronized torrent streaming for distributed watch parties.",
-            "date_modified": "2023-08-25T21:24:43.000Z",
-            "date_published": "2022-06-18T17:08:13.000Z",
-            "author": {
-                "name": "pojntfx",
-                "url": "https://github.com/pojntfx"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "dyphire",
                 "url": "https://github.com/dyphire"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9623615?u=6bc92bc0db35022227a3730d8644d1ef06e3f0d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CMake-based MinGW-w64 Cross Toolchain </div>",
-            "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
-            "title": "shinchiro/mpv-winbuild-cmake:  CMake-based MinGW-w64 Cross Toolchain ",
-            "date_modified": "2023-08-22T17:56:24.000Z",
-            "date_published": "2018-07-15T11:58:39.000Z",
-            "author": {
-                "name": "shinchiro",
-                "url": "https://github.com/shinchiro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6702585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/deus0ww/mpv-conf",
-            "title": "deus0ww/mpv-conf",
-            "date_modified": "2023-08-20T02:21:47.000Z",
-            "date_published": "2019-01-23T14:33:40.000Z",
-            "author": {
-                "name": "deus0ww",
-                "url": "https://github.com/deus0ww"
             }
         }
     ]
