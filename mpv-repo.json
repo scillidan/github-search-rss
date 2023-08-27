@@ -6,14 +6,14 @@
     "description": "mpv on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust implementation of the MPRIS v2 DBus interface for the mpv media player.</div>",
-            "url": "https://github.com/eNV25/mpv-mpris2",
-            "title": "eNV25/mpv-mpris2: Rust implementation of the MPRIS v2 DBus interface for the mpv media player.",
-            "date_modified": "2023-08-23T13:09:47.000Z",
-            "date_published": "2023-08-23T10:40:56.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37484974?u=dc402b1b5c34eda2b7727ec0d03349a74b825d16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet Another LibMPV Wrapper/PInvoke library</div>",
+            "url": "https://github.com/Sekoree/YALibMPV",
+            "title": "Sekoree/YALibMPV: Yet Another LibMPV Wrapper/PInvoke library",
+            "date_modified": "2023-08-25T19:48:07.000Z",
+            "date_published": "2023-08-25T19:40:39.000Z",
             "author": {
-                "name": "eNV25",
-                "url": "https://github.com/eNV25"
+                "name": "Sekoree",
+                "url": "https://github.com/Sekoree"
             }
         },
         {
@@ -25,6 +25,39 @@
             "author": {
                 "name": "dragonflylee",
                 "url": "https://github.com/dragonflylee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83491030?u=a6a00f9fe0bca9c09553b7912d49bcaf672aeb34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv script aimed at saving live streams and clipping online videos without encoding.</div>",
+            "url": "https://github.com/Sagnac/streamsave",
+            "title": "Sagnac/streamsave: mpv script aimed at saving live streams and clipping online videos without encoding.",
+            "date_modified": "2023-08-27T19:04:01.000Z",
+            "date_published": "2021-05-01T10:05:46.000Z",
+            "author": {
+                "name": "Sagnac",
+                "url": "https://github.com/Sagnac"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Desktop Jellyfin Client made with Rust 🦀 and React ⚛️ [WIP]</div>",
+            "url": "https://github.com/prayag17/JellyPlayer",
+            "title": "prayag17/JellyPlayer: Modern Desktop Jellyfin Client made with Rust :crab: and React :atom_symbol: [WIP]",
+            "date_modified": "2023-08-27T17:49:13.000Z",
+            "date_published": "2022-03-05T14:56:10.000Z",
+            "author": {
+                "name": "prayag17",
+                "url": "https://github.com/prayag17"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust implementation of the MPRIS v2 DBus interface for the mpv media player.</div>",
+            "url": "https://github.com/eNV25/mpv-mpris2",
+            "title": "eNV25/mpv-mpris2: Rust implementation of the MPRIS v2 DBus interface for the mpv media player.",
+            "date_modified": "2023-08-23T13:09:47.000Z",
+            "date_published": "2023-08-23T10:40:56.000Z",
+            "author": {
+                "name": "eNV25",
+                "url": "https://github.com/eNV25"
             }
         },
         {
@@ -42,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
             "url": "https://github.com/mpv-player/mpv",
             "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2023-08-27T18:06:27.000Z",
+            "date_modified": "2023-08-27T18:59:24.000Z",
             "date_published": "2012-10-13T08:08:44.000Z",
             "author": {
                 "name": "mpv-player",
@@ -127,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Desktop Jellyfin Client made with Rust 🦀 and React ⚛️ [WIP]</div>",
-            "url": "https://github.com/prayag17/JellyPlayer",
-            "title": "prayag17/JellyPlayer: Modern Desktop Jellyfin Client made with Rust :crab: and React :atom_symbol: [WIP]",
-            "date_modified": "2023-08-27T17:49:13.000Z",
-            "date_published": "2022-03-05T14:56:10.000Z",
-            "author": {
-                "name": "prayag17",
-                "url": "https://github.com/prayag17"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17702502?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>cloned from <a href=\"https://github.com/shinchiro/mpv-winbuild-cmake\">https://github.com/shinchiro/mpv-winbuild-cmake</a> with custom patches and smaller binaries</div>",
             "url": "https://github.com/myfreeer/mpv-build-lite",
             "title": "myfreeer/mpv-build-lite: cloned from https://github.com/shinchiro/mpv-winbuild-cmake with custom patches and smaller binaries",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "natural-harmonia-gropius",
                 "url": "https://github.com/natural-harmonia-gropius"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11097767?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers</div>",
-            "url": "https://github.com/Syncplay/syncplay",
-            "title": "Syncplay/syncplay: Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers",
-            "date_modified": "2023-08-27T15:04:26.000Z",
-            "date_published": "2012-06-20T22:49:36.000Z",
-            "author": {
-                "name": "Syncplay",
-                "url": "https://github.com/Syncplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69866302?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my plants vs zombie exp</div>",
-            "url": "https://github.com/csorexr/mpvzexp",
-            "title": "csorexr/mpvzexp: my plants vs zombie exp",
-            "date_modified": "2023-08-27T08:54:36.000Z",
-            "date_published": "2023-08-27T08:54:01.000Z",
-            "author": {
-                "name": "csorexr",
-                "url": "https://github.com/csorexr"
             }
         }
     ]
