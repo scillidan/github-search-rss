@@ -6,6 +6,28 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81058666?u=1838afd25a1a3db4a68799ca6adec239c95d21f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian plugin designed to assist you in taking notes for your literature.   这是一个 Obsidian 插件帮助你记录文献笔记。</div>",
+            "url": "https://github.com/hucorz/obsidian-autoLiterature",
+            "title": "hucorz/obsidian-autoLiterature: Obsidian plugin designed to assist you in taking notes for your literature.   这是一个 Obsidian 插件帮助你记录文献笔记。",
+            "date_modified": "2023-08-27T05:45:27.000Z",
+            "date_published": "2023-08-21T03:26:32.000Z",
+            "author": {
+                "name": "hucorz",
+                "url": "https://github.com/hucorz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14358394?u=8b35a915119ac21a5753d57c3b79bc1981ff39a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to edit and view Excalidraw drawings in Obsidian</div>",
+            "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+            "title": "zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings in Obsidian",
+            "date_modified": "2023-08-27T06:09:35.000Z",
+            "date_published": "2021-04-17T18:43:09.000Z",
+            "author": {
+                "name": "zsviczian",
+                "url": "https://github.com/zsviczian"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17660922?u=953bd46239cf5b96c34653e256822f8f7047c2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Monorepo for Obsidian repositories.</div>",
             "url": "https://github.com/polyipseity/obsidian-monorepo",
             "title": "polyipseity/obsidian-monorepo: Monorepo for Obsidian repositories.",
@@ -31,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17660922?u=953bd46239cf5b96c34653e256822f8f7047c2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Load JavaScript and related languages like TypeScript modules from the vault and the Internet.</div>",
             "url": "https://github.com/polyipseity/obsidian-modules",
             "title": "polyipseity/obsidian-modules: Load JavaScript and related languages like TypeScript modules from the vault and the Internet.",
-            "date_modified": "2023-08-27T03:21:23.000Z",
+            "date_modified": "2023-08-27T05:23:13.000Z",
             "date_published": "2023-07-23T01:30:58.000Z",
             "author": {
                 "name": "polyipseity",
@@ -94,6 +116,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65011256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Community plugins list, theme list, and releases of Obsidian.</div>",
+            "url": "https://github.com/obsidianmd/obsidian-releases",
+            "title": "obsidianmd/obsidian-releases: Community plugins list, theme list, and releases of Obsidian.",
+            "date_modified": "2023-08-27T05:55:02.000Z",
+            "date_published": "2020-05-08T14:18:27.000Z",
+            "author": {
+                "name": "obsidianmd",
+                "url": "https://github.com/obsidianmd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82884158?u=067bb49ea93508858b435b17c6f7682aed830dae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Obsidian plugin for viewing an image.</div>",
             "url": "https://github.com/sissilab/obsidian-image-toolkit",
             "title": "sissilab/obsidian-image-toolkit: An Obsidian plugin for viewing an image.",
@@ -149,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65011256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Community plugins list, theme list, and releases of Obsidian.</div>",
-            "url": "https://github.com/obsidianmd/obsidian-releases",
-            "title": "obsidianmd/obsidian-releases: Community plugins list, theme list, and releases of Obsidian.",
-            "date_modified": "2023-08-26T19:56:01.000Z",
-            "date_published": "2020-05-08T14:18:27.000Z",
-            "author": {
-                "name": "obsidianmd",
-                "url": "https://github.com/obsidianmd"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28496988?u=53cc6a99bde88aa93492ef6f089f7a20069f719e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian plugin to create high-quality transcriptions from markdown linked audio files</div>",
             "url": "https://github.com/djmango/obsidian-transcription",
             "title": "djmango/obsidian-transcription: Obsidian plugin to create high-quality transcriptions from markdown linked audio files",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Fevol",
                 "url": "https://github.com/Fevol"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8179397?u=41b7497c49b8f9c5498e6447493316888be35da8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tiny Svelte component library for usage in the development of Obsidian plugins</div>",
-            "url": "https://github.com/Fevol/obsidian-svelte-component-library",
-            "title": "Fevol/obsidian-svelte-component-library: A tiny Svelte component library for usage in the development of Obsidian plugins",
-            "date_modified": "2023-08-11T15:45:56.000Z",
-            "date_published": "2023-08-11T15:40:18.000Z",
-            "author": {
-                "name": "Fevol",
-                "url": "https://github.com/Fevol"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29592214?u=c3a0c28ff6947276876ac059388861723e78af5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create forms that modify data in existing notes; the dataview plugin for data entry.</div>",
-            "url": "https://github.com/waynevanson/data-entry-obsidian-plugin",
-            "title": "waynevanson/data-entry-obsidian-plugin: Create forms that modify data in existing notes; the dataview plugin for data entry.",
-            "date_modified": "2023-08-26T17:40:43.000Z",
-            "date_published": "2023-07-30T00:56:40.000Z",
-            "author": {
-                "name": "waynevanson",
-                "url": "https://github.com/waynevanson"
             }
         }
     ]
