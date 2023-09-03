@@ -6,17 +6,6 @@
     "description": "mkdocs plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107352364?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Documentation for Obsidian Mkdocs Publisher</div>",
-            "url": "https://github.com/ObsidianPublisher/docs",
-            "title": "ObsidianPublisher/docs: Documentation for Obsidian Mkdocs Publisher",
-            "date_modified": "2023-07-05T05:13:25.000Z",
-            "date_published": "2022-04-18T14:17:18.000Z",
-            "author": {
-                "name": "ObsidianPublisher",
-                "url": "https://github.com/ObsidianPublisher"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89418790?u=d204c916d70b41e6f473c07e42ea2566b083f104&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A MkDocs plugin that encrypt/decrypt markdown content with AES</div>",
             "url": "https://github.com/unverbuggt/mkdocs-encryptcontent-plugin",
             "title": "unverbuggt/mkdocs-encryptcontent-plugin: A MkDocs plugin that encrypt/decrypt markdown content with AES",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "unverbuggt",
                 "url": "https://github.com/unverbuggt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107352364?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Documentation for Obsidian Mkdocs Publisher</div>",
+            "url": "https://github.com/ObsidianPublisher/docs",
+            "title": "ObsidianPublisher/docs: Documentation for Obsidian Mkdocs Publisher",
+            "date_modified": "2023-07-05T05:13:25.000Z",
+            "date_published": "2022-04-18T14:17:18.000Z",
+            "author": {
+                "name": "ObsidianPublisher",
+                "url": "https://github.com/ObsidianPublisher"
             }
         },
         {
@@ -58,17 +58,6 @@
             "author": {
                 "name": "prcr",
                 "url": "https://github.com/prcr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16827130?u=2e992277bd181dc4bae8582ec90f178c11243632&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A MkDocs plugin for citation management using bibtex</div>",
-            "url": "https://github.com/shyamd/mkdocs-bibtex",
-            "title": "shyamd/mkdocs-bibtex: A MkDocs plugin for citation management using bibtex",
-            "date_modified": "2023-08-04T14:40:56.000Z",
-            "date_published": "2019-05-29T04:43:44.000Z",
-            "author": {
-                "name": "shyamd",
-                "url": "https://github.com/shyamd"
             }
         },
         {
@@ -152,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9692741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏆 📚 A list of awesome MkDocs projects and plugins. </div>",
             "url": "https://github.com/mkdocs/catalog",
             "title": "mkdocs/catalog: :trophy: :books: A list of awesome MkDocs projects and plugins. ",
-            "date_modified": "2023-09-02T16:28:44.000Z",
+            "date_modified": "2023-09-03T08:30:12.000Z",
             "date_published": "2022-04-17T07:48:22.000Z",
             "author": {
                 "name": "mkdocs",
@@ -168,17 +157,6 @@
             "author": {
                 "name": "DerwenAI",
                 "url": "https://github.com/DerwenAI"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5570380?u=529954242ffa63610fed217738dc15f81ef99674&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mkdocs plugin to add charts to your pages</div>",
-            "url": "https://github.com/timvink/mkdocs-charts-plugin",
-            "title": "timvink/mkdocs-charts-plugin: Mkdocs plugin to add charts to your pages",
-            "date_modified": "2023-08-30T06:07:52.000Z",
-            "date_published": "2021-12-07T21:53:15.000Z",
-            "author": {
-                "name": "timvink",
-                "url": "https://github.com/timvink"
             }
         },
         {
@@ -223,6 +201,28 @@
             "author": {
                 "name": "chrieke",
                 "url": "https://github.com/chrieke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/474389?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs i18n plugin using static translation markdown files</div>",
+            "url": "https://github.com/ultrabug/mkdocs-static-i18n",
+            "title": "ultrabug/mkdocs-static-i18n: MkDocs i18n plugin using static translation markdown files",
+            "date_modified": "2023-08-30T07:42:12.000Z",
+            "date_published": "2021-02-07T17:33:36.000Z",
+            "author": {
+                "name": "ultrabug",
+                "url": "https://github.com/ultrabug"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26833451?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for Ultralytics Docs at <a href=\"https://docs.ultralytics.com\" rel=\"nofollow\">https://docs.ultralytics.com</a></div>",
+            "url": "https://github.com/ultralytics/mkdocs",
+            "title": "ultralytics/mkdocs: MkDocs plugin for Ultralytics Docs at https://docs.ultralytics.com",
+            "date_modified": "2023-08-23T17:23:31.000Z",
+            "date_published": "2023-05-08T15:33:57.000Z",
+            "author": {
+                "name": "ultralytics",
+                "url": "https://github.com/ultralytics"
             }
         }
     ]
