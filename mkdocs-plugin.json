@@ -6,6 +6,28 @@
     "description": "mkdocs plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1596222?u=d592209a20254bc71f5595cc14a1f7151f6d5d1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).</div>",
+            "url": "https://github.com/Guts/mkdocs-rss-plugin",
+            "title": "Guts/mkdocs-rss-plugin: MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).",
+            "date_modified": "2023-07-06T04:31:09.000Z",
+            "date_published": "2020-07-06T13:48:11.000Z",
+            "author": {
+                "name": "Guts",
+                "url": "https://github.com/Guts"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105446068?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Zettelkasten theme and plugin for MkDocs. It renders the MkDocs pages as cards (zettels).</div>",
+            "url": "https://github.com/buvis/mkdocs-zettelkasten",
+            "title": "buvis/mkdocs-zettelkasten: This is a Zettelkasten theme and plugin for MkDocs. It renders the MkDocs pages as cards (zettels).",
+            "date_modified": "2023-08-15T08:38:13.000Z",
+            "date_published": "2021-11-24T19:48:08.000Z",
+            "author": {
+                "name": "buvis",
+                "url": "https://github.com/buvis"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5385290?u=317613ae954fedcecbcd7887948877100e23fc0d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for displaying a list of GitHub (.com or Enterprise) contributors on each page. Encourages contributions to the documentation!</div>",
             "url": "https://github.com/ojacques/mkdocs-git-committers-plugin-2",
             "title": "ojacques/mkdocs-git-committers-plugin-2: MkDocs plugin for displaying a list of GitHub (.com or Enterprise) contributors on each page. Encourages contributions to the documentation!",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "conda-forge",
                 "url": "https://github.com/conda-forge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23049315?u=ffd7e3d6399a8e75c6de66fdfd996c13938e8432&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mkdocs Markdown includer plugin</div>",
-            "url": "https://github.com/mondeja/mkdocs-include-markdown-plugin",
-            "title": "mondeja/mkdocs-include-markdown-plugin: Mkdocs Markdown includer plugin",
-            "date_modified": "2023-08-31T22:40:30.000Z",
-            "date_published": "2020-12-04T08:09:34.000Z",
-            "author": {
-                "name": "mondeja",
-                "url": "https://github.com/mondeja"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38992803?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to generate semantic reference Markdown pages from a knowledge graph</div>",
-            "url": "https://github.com/DerwenAI/mkrefs",
-            "title": "DerwenAI/mkrefs: MkDocs plugin to generate semantic reference Markdown pages from a knowledge graph",
-            "date_modified": "2023-08-31T15:33:12.000Z",
-            "date_published": "2021-05-10T15:58:53.000Z",
-            "author": {
-                "name": "DerwenAI",
-                "url": "https://github.com/DerwenAI"
             }
         }
     ]
