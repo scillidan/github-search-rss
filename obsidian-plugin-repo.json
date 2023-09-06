@@ -6,17 +6,6 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13208?u=d760264ba43e3c6444da864cf18c04f8b02feae1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to let you change the case (camelCase, snake_case, etc) of the current selection.</div>",
-            "url": "https://github.com/dbrockman/obsidian-change-case",
-            "title": "dbrockman/obsidian-change-case: Plugin to let you change the case (camelCase, snake_case, etc) of the current selection.",
-            "date_modified": "2023-09-06T11:51:46.000Z",
-            "date_published": "2023-09-06T11:30:31.000Z",
-            "author": {
-                "name": "dbrockman",
-                "url": "https://github.com/dbrockman"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40695473?u=98a0342352031e9592a46886e541e449fe57b13e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Embeddable Pikchr(<a href=\"https://pikchr.org\" rel=\"nofollow\">https://pikchr.org</a>) diagrams renderer plugin for Obsidian(<a href=\"https://obsidian.md\" rel=\"nofollow\">https://obsidian.md</a>)</div>",
             "url": "https://github.com/notlibrary/obsidian-adamantine-pick",
             "title": "notlibrary/obsidian-adamantine-pick: Embeddable Pikchr(https://pikchr.org) diagrams renderer plugin for Obsidian(https://obsidian.md)",
@@ -25,6 +14,39 @@
             "author": {
                 "name": "notlibrary",
                 "url": "https://github.com/notlibrary"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17660922?u=953bd46239cf5b96c34653e256822f8f7047c2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Monorepo for Obsidian repositories.</div>",
+            "url": "https://github.com/polyipseity/obsidian-monorepo",
+            "title": "polyipseity/obsidian-monorepo: Monorepo for Obsidian repositories.",
+            "date_modified": "2023-08-30T17:36:19.000Z",
+            "date_published": "2023-05-11T06:54:59.000Z",
+            "author": {
+                "name": "polyipseity",
+                "url": "https://github.com/polyipseity"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17660922?u=953bd46239cf5b96c34653e256822f8f7047c2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Load JavaScript and related languages like TypeScript modules from the vault and the Internet.</div>",
+            "url": "https://github.com/polyipseity/obsidian-modules",
+            "title": "polyipseity/obsidian-modules: Load JavaScript and related languages like TypeScript modules from the vault and the Internet.",
+            "date_modified": "2023-09-05T10:56:05.000Z",
+            "date_published": "2023-07-23T01:30:58.000Z",
+            "author": {
+                "name": "polyipseity",
+                "url": "https://github.com/polyipseity"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13208?u=d760264ba43e3c6444da864cf18c04f8b02feae1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to let you change the case (camelCase, snake_case, etc) of the current selection.</div>",
+            "url": "https://github.com/dbrockman/obsidian-change-case",
+            "title": "dbrockman/obsidian-change-case: Plugin to let you change the case (camelCase, snake_case, etc) of the current selection.",
+            "date_modified": "2023-09-06T11:51:46.000Z",
+            "date_published": "2023-09-06T11:30:31.000Z",
+            "author": {
+                "name": "dbrockman",
+                "url": "https://github.com/dbrockman"
             }
         },
         {
@@ -138,10 +160,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8812459?u=0b9dc6437f9404ece04bbbb94205159078f307ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Obsidian, written in Lua</div>",
+            "url": "https://github.com/epwalsh/obsidian.nvim",
+            "title": "epwalsh/obsidian.nvim: Neovim plugin for Obsidian, written in Lua",
+            "date_modified": "2023-09-06T12:20:04.000Z",
+            "date_published": "2022-07-31T17:37:11.000Z",
+            "author": {
+                "name": "epwalsh",
+                "url": "https://github.com/epwalsh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65011256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Community plugins list, theme list, and releases of Obsidian.</div>",
             "url": "https://github.com/obsidianmd/obsidian-releases",
             "title": "obsidianmd/obsidian-releases: Community plugins list, theme list, and releases of Obsidian.",
-            "date_modified": "2023-09-06T11:44:00.000Z",
+            "date_modified": "2023-09-06T13:03:37.000Z",
             "date_published": "2020-05-08T14:18:27.000Z",
             "author": {
                 "name": "obsidianmd",
@@ -157,6 +190,17 @@
             "author": {
                 "name": "AlephZ-ai",
                 "url": "https://github.com/AlephZ-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21282515?u=0df779a7bc4a0eb507a4384b4c31b8dd7ae4f1fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Obsidian plugin that adds banners to your notes</div>",
+            "url": "https://github.com/noatpad/obsidian-banners",
+            "title": "noatpad/obsidian-banners: An Obsidian plugin that adds banners to your notes",
+            "date_modified": "2023-09-06T12:43:49.000Z",
+            "date_published": "2021-08-26T03:41:31.000Z",
+            "author": {
+                "name": "noatpad",
+                "url": "https://github.com/noatpad"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Ubikuiity",
                 "url": "https://github.com/Ubikuiity"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18665585?u=f4668bb4e7de22085ade1fdf0f702a382667e461&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian-like NeoVim plugin.</div>",
-            "url": "https://github.com/IlyasYOY/obs.nvim",
-            "title": "IlyasYOY/obs.nvim: Obsidian-like NeoVim plugin.",
-            "date_modified": "2023-09-05T11:42:46.000Z",
-            "date_published": "2023-03-05T16:56:12.000Z",
-            "author": {
-                "name": "IlyasYOY",
-                "url": "https://github.com/IlyasYOY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131289534?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The ultimate Obsidian plugin for crafting mind-bending fantasy and sci-fi calendars</div>",
-            "url": "https://github.com/javalent/the-calendarium",
-            "title": "javalent/the-calendarium: The ultimate Obsidian plugin for crafting mind-bending fantasy and sci-fi calendars",
-            "date_modified": "2023-09-04T09:10:27.000Z",
-            "date_published": "2023-05-16T17:27:21.000Z",
-            "author": {
-                "name": "javalent",
-                "url": "https://github.com/javalent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40173937?u=e1180d79a2ebbf89909816ef9e70db188024a29f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Obsidian plugin to create and manage dedicated Markdown pages for tags, with features to automatically populate and refresh content based on user-defined settings.</div>",
-            "url": "https://github.com/mjsumpter/obsidian-tag-page",
-            "title": "mjsumpter/obsidian-tag-page: An Obsidian plugin to create and manage dedicated Markdown pages for tags, with features to automatically populate and refresh content based on user-defined settings.",
-            "date_modified": "2023-09-03T10:21:01.000Z",
-            "date_published": "2023-09-02T09:34:24.000Z",
-            "author": {
-                "name": "mjsumpter",
-                "url": "https://github.com/mjsumpter"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139499?u=0def2440da065cdd14912555be33761e46be5156&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian plugin to find orphaned block references and broken links.</div>",
-            "url": "https://github.com/dashed/obsidian-find-orphan-block-identifiers",
-            "title": "dashed/obsidian-find-orphan-block-identifiers: Obsidian plugin to find orphaned block references and broken links.",
-            "date_modified": "2023-09-04T07:24:39.000Z",
-            "date_published": "2023-09-03T23:13:06.000Z",
-            "author": {
-                "name": "dashed",
-                "url": "https://github.com/dashed"
             }
         }
     ]
