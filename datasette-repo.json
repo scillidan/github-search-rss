@@ -6,6 +6,50 @@
     "description": "datasette on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79087?u=c903749964ccac57616bda1c0e59b7dc32a84137&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create an SQLite database from your Firefox data</div>",
+            "url": "https://github.com/cadeef/firefox-to-sqlite",
+            "title": "cadeef/firefox-to-sqlite: Create an SQLite database from your Firefox data",
+            "date_modified": "2023-09-03T03:56:39.000Z",
+            "date_published": "2023-08-27T20:28:13.000Z",
+            "author": {
+                "name": "cadeef",
+                "url": "https://github.com/cadeef"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139249755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Datasette plugin that outputs debug information about permission checks</div>",
+            "url": "https://github.com/datasette/datasette-debug-permissions",
+            "title": "datasette/datasette-debug-permissions: A Datasette plugin that outputs debug information about permission checks",
+            "date_modified": "2023-08-24T04:26:16.000Z",
+            "date_published": "2023-08-23T22:26:51.000Z",
+            "author": {
+                "name": "datasette",
+                "url": "https://github.com/datasette"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139249755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin for fetching details of actors from a remote endpoint</div>",
+            "url": "https://github.com/datasette/datasette-remote-actors",
+            "title": "datasette/datasette-remote-actors: Datasette plugin for fetching details of actors from a remote endpoint",
+            "date_modified": "2023-09-08T03:04:12.000Z",
+            "date_published": "2023-09-08T02:51:01.000Z",
+            "author": {
+                "name": "datasette",
+                "url": "https://github.com/datasette"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette</div>",
+            "url": "https://github.com/simonw/register-of-members-interests-datasette",
+            "title": "simonw/register-of-members-interests-datasette: Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette",
+            "date_modified": "2023-05-18T11:01:37.000Z",
+            "date_published": "2018-04-25T05:37:51.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6523121?u=017448c52d1fee302f9c1f38f12ff60e5a1d0935&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>legal data in machine-readable form</div>",
             "url": "https://github.com/hueyy/law-archive-data",
             "title": "hueyy/law-archive-data: legal data in machine-readable form",
@@ -42,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An open source multi-tool for exploring and publishing data</div>",
             "url": "https://github.com/simonw/datasette",
             "title": "simonw/datasette: An open source multi-tool for exploring and publishing data",
-            "date_modified": "2023-09-08T01:58:44.000Z",
+            "date_modified": "2023-09-08T02:59:17.000Z",
             "date_published": "2017-10-23T00:39:03.000Z",
             "author": {
                 "name": "simonw",
@@ -138,28 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette</div>",
-            "url": "https://github.com/simonw/register-of-members-interests-datasette",
-            "title": "simonw/register-of-members-interests-datasette: Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette",
-            "date_modified": "2023-05-18T11:01:37.000Z",
-            "date_published": "2018-04-25T05:37:51.000Z",
-            "author": {
-                "name": "simonw",
-                "url": "https://github.com/simonw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79087?u=c903749964ccac57616bda1c0e59b7dc32a84137&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create an SQLite database from your Firefox data</div>",
-            "url": "https://github.com/cadeef/firefox-to-sqlite",
-            "title": "cadeef/firefox-to-sqlite: Create an SQLite database from your Firefox data",
-            "date_modified": "2023-09-03T03:56:39.000Z",
-            "date_published": "2023-08-27T20:28:13.000Z",
-            "author": {
-                "name": "cadeef",
-                "url": "https://github.com/cadeef"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python CLI utility and library for manipulating SQLite databases</div>",
             "url": "https://github.com/simonw/sqlite-utils",
             "title": "simonw/sqlite-utils: Python CLI utility and library for manipulating SQLite databases",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "simonw",
                 "url": "https://github.com/simonw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1238873?u=fe1506b04debf76241447741b8da2136f2e5e8c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin providing data dashboards from metadata</div>",
-            "url": "https://github.com/rclement/datasette-dashboards",
-            "title": "rclement/datasette-dashboards: Datasette plugin providing data dashboards from metadata",
-            "date_modified": "2023-09-04T14:21:40.000Z",
-            "date_published": "2021-04-23T21:56:48.000Z",
-            "author": {
-                "name": "rclement",
-                "url": "https://github.com/rclement"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53015001?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Export Apple Notes to SQLite</div>",
-            "url": "https://github.com/dogsheep/apple-notes-to-sqlite",
-            "title": "dogsheep/apple-notes-to-sqlite: Export Apple Notes to SQLite",
-            "date_modified": "2023-09-06T15:25:25.000Z",
-            "date_published": "2023-03-09T03:44:10.000Z",
-            "author": {
-                "name": "dogsheep",
-                "url": "https://github.com/dogsheep"
             }
         }
     ]
