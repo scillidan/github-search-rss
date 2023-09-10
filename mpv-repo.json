@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77244135?u=0a890fdae49071e891c16261adf6b2262385504d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, ffmpeg, aria2.</div>",
+            "url": "https://github.com/rorgoroth/mingw-cmake-env",
+            "title": "rorgoroth/mingw-cmake-env: Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, ffmpeg, aria2.",
+            "date_modified": "2023-09-09T09:24:25.000Z",
+            "date_published": "2021-05-18T09:34:24.000Z",
+            "author": {
+                "name": "rorgoroth",
+                "url": "https://github.com/rorgoroth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust implementation of the MPRIS v2 DBus interface for the mpv media player.</div>",
+            "url": "https://github.com/eNV25/mpv-mpris2",
+            "title": "eNV25/mpv-mpris2: Rust implementation of the MPRIS v2 DBus interface for the mpv media player.",
+            "date_modified": "2023-08-30T15:33:31.000Z",
+            "date_published": "2023-08-23T10:40:56.000Z",
+            "author": {
+                "name": "eNV25",
+                "url": "https://github.com/eNV25"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
+            "url": "https://github.com/zhongfly/mpv-winbuild",
+            "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
+            "date_modified": "2023-09-06T09:02:14.000Z",
+            "date_published": "2021-10-01T08:09:13.000Z",
+            "author": {
+                "name": "zhongfly",
+                "url": "https://github.com/zhongfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19515662?u=cf2f4e33f43ae09cb0c7a26dfe082a63507db948&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tero Subtitler is an open source, cross-platform, and free subtitle editing software.</div>",
+            "url": "https://github.com/URUWorks/TeroSubtitler",
+            "title": "URUWorks/TeroSubtitler: Tero Subtitler is an open source, cross-platform, and free subtitle editing software.",
+            "date_modified": "2023-09-05T22:07:40.000Z",
+            "date_published": "2023-04-03T12:40:39.000Z",
+            "author": {
+                "name": "URUWorks",
+                "url": "https://github.com/URUWorks"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110025665?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Emby 调用外部本地播放器，并回传播放记录。适配 Jellyfin Plex。</div>",
             "url": "https://github.com/kjtsune/embyToLocalPlayer",
             "title": "kjtsune/embyToLocalPlayer: Emby 调用外部本地播放器，并回传播放记录。适配 Jellyfin Plex。",
@@ -138,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust implementation of the MPRIS v2 DBus interface for the mpv media player.</div>",
-            "url": "https://github.com/eNV25/mpv-mpris2",
-            "title": "eNV25/mpv-mpris2: Rust implementation of the MPRIS v2 DBus interface for the mpv media player.",
-            "date_modified": "2023-08-30T15:33:31.000Z",
-            "date_published": "2023-08-23T10:40:56.000Z",
-            "author": {
-                "name": "eNV25",
-                "url": "https://github.com/eNV25"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227121?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local Desktop Environment setup - X11 WM, conky, mpv, systemd --user and such</div>",
             "url": "https://github.com/mk-fg/de-setup",
             "title": "mk-fg/de-setup: Local Desktop Environment setup - X11 WM, conky, mpv, systemd --user and such",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "porcino",
                 "url": "https://github.com/porcino"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11004353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contain scripts I have made for mpv media player...</div>",
-            "url": "https://github.com/Eisa01/mpv-scripts",
-            "title": "Eisa01/mpv-scripts: This repository contain scripts I have made for mpv media player...",
-            "date_modified": "2023-09-09T09:26:12.000Z",
-            "date_published": "2018-10-18T13:13:55.000Z",
-            "author": {
-                "name": "Eisa01",
-                "url": "https://github.com/Eisa01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60193883?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An mpc-like CLI tool for mpv</div>",
-            "url": "https://github.com/neeshy/mpvc",
-            "title": "neeshy/mpvc: An mpc-like CLI tool for mpv",
-            "date_modified": "2023-08-05T16:04:40.000Z",
-            "date_published": "2023-03-25T22:10:25.000Z",
-            "author": {
-                "name": "neeshy",
-                "url": "https://github.com/neeshy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20313424?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv utilities</div>",
-            "url": "https://github.com/BernardBurke/mpv_utils",
-            "title": "BernardBurke/mpv_utils: mpv utilities",
-            "date_modified": "2022-11-15T11:45:08.000Z",
-            "date_published": "2022-11-15T08:53:18.000Z",
-            "author": {
-                "name": "BernardBurke",
-                "url": "https://github.com/BernardBurke"
             }
         }
     ]
