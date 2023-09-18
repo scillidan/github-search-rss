@@ -6,6 +6,28 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42556436?u=caca17f481148e6c2a5f548c2f60080765cf82f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Music player (fzf + mpv) designed for screen-less, numpad-controlled playback on the Raspberry Pi for car and home stereo use. 🐡🐧</div>",
+            "url": "https://github.com/speguero/pimp",
+            "title": "speguero/pimp: Music player (fzf + mpv) designed for screen-less, numpad-controlled playback on the Raspberry Pi for car and home stereo use. 🐡🐧",
+            "date_modified": "2023-08-21T20:57:04.000Z",
+            "date_published": "2022-12-04T02:15:41.000Z",
+            "author": {
+                "name": "speguero",
+                "url": "https://github.com/speguero"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77244135?u=0a890fdae49071e891c16261adf6b2262385504d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, ffmpeg, aria2.</div>",
+            "url": "https://github.com/rorgoroth/mingw-cmake-env",
+            "title": "rorgoroth/mingw-cmake-env: Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, ffmpeg, aria2.",
+            "date_modified": "2023-09-15T09:06:04.000Z",
+            "date_published": "2021-05-18T09:34:24.000Z",
+            "author": {
+                "name": "rorgoroth",
+                "url": "https://github.com/rorgoroth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79128556?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Video looping system to run and mangement ambient displays.</div>",
             "url": "https://github.com/ClueMaster-LLC/VideoPlayer-MPV",
             "title": "ClueMaster-LLC/VideoPlayer-MPV: Video looping system to run and mangement ambient displays.",
@@ -14,6 +36,17 @@
             "author": {
                 "name": "ClueMaster-LLC",
                 "url": "https://github.com/ClueMaster-LLC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37136490?u=cc88e02ba68db1b95790fd8bdf81e886aed22c9c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository that contains my configuration files of working arch machine </div>",
+            "url": "https://github.com/touhidulshawan/dotfiles",
+            "title": "touhidulshawan/dotfiles: Repository that contains my configuration files of working arch machine ",
+            "date_modified": "2023-06-13T19:21:04.000Z",
+            "date_published": "2022-09-12T12:04:36.000Z",
+            "author": {
+                "name": "touhidulshawan",
+                "url": "https://github.com/touhidulshawan"
             }
         },
         {
@@ -119,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47283320?u=39b71901b18190231b92c1169a8024ad25585001&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Feature-rich minimalist proximity-based UI for MPV player.</div>",
             "url": "https://github.com/tomasklaen/uosc",
             "title": "tomasklaen/uosc: Feature-rich minimalist proximity-based UI for MPV player.",
-            "date_modified": "2023-09-18T19:03:26.000Z",
+            "date_modified": "2023-09-18T19:41:35.000Z",
             "date_published": "2020-03-02T17:57:36.000Z",
             "author": {
                 "name": "tomasklaen",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "zhongfly",
                 "url": "https://github.com/zhongfly"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust implementation of the MPRIS v2 DBus interface for the mpv media player.</div>",
-            "url": "https://github.com/eNV25/mpv-mpris2",
-            "title": "eNV25/mpv-mpris2: Rust implementation of the MPRIS v2 DBus interface for the mpv media player.",
-            "date_modified": "2023-08-30T15:33:31.000Z",
-            "date_published": "2023-08-23T10:40:56.000Z",
-            "author": {
-                "name": "eNV25",
-                "url": "https://github.com/eNV25"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Desktop Jellyfin Client made with Rust 🦀 and React ⚛️ [WIP]</div>",
-            "url": "https://github.com/prayag17/JellyPlayer",
-            "title": "prayag17/JellyPlayer: Modern Desktop Jellyfin Client made with Rust :crab: and React :atom_symbol: [WIP]",
-            "date_modified": "2023-09-18T06:46:50.000Z",
-            "date_published": "2022-03-05T14:56:10.000Z",
-            "author": {
-                "name": "prayag17",
-                "url": "https://github.com/prayag17"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45698031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MPV Cast Client for Jellyfin</div>",
-            "url": "https://github.com/jellyfin/jellyfin-mpv-shim",
-            "title": "jellyfin/jellyfin-mpv-shim: MPV Cast Client for Jellyfin",
-            "date_modified": "2023-09-18T15:46:47.000Z",
-            "date_published": "2020-01-11T18:44:41.000Z",
-            "author": {
-                "name": "jellyfin",
-                "url": "https://github.com/jellyfin"
             }
         }
     ]
