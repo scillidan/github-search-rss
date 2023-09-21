@@ -6,14 +6,36 @@
     "description": "mpv on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/686289?u=eb6468cb8cadf2b04b8c9ed35a5ada99f0d720c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unofficial mpv builds for macOS 10.13 and later</div>",
-            "url": "https://github.com/dafyk/mpv-macos-builds",
-            "title": "dafyk/mpv-macos-builds: Unofficial mpv builds for macOS 10.13 and later",
-            "date_modified": "2023-09-21T09:04:17.000Z",
-            "date_published": "2022-04-20T15:51:46.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67936038?u=e8cd305e6b3a1829509261598dff7dc7f2904c9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Icey-Glitch/mpv-nighly",
+            "title": "Icey-Glitch/mpv-nighly",
+            "date_modified": "2023-09-21T22:32:47.000Z",
+            "date_published": "2023-09-21T22:32:42.000Z",
             "author": {
-                "name": "dafyk",
-                "url": "https://github.com/dafyk"
+                "name": "Icey-Glitch",
+                "url": "https://github.com/Icey-Glitch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24554850?u=735da50b642ab0afff2244aef6a2f074ac04d919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Seme4eg/mpv-scripts",
+            "title": "Seme4eg/mpv-scripts",
+            "date_modified": "2023-09-19T21:41:37.000Z",
+            "date_published": "2022-04-20T14:14:58.000Z",
+            "author": {
+                "name": "Seme4eg",
+                "url": "https://github.com/Seme4eg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32032905?u=7be4c7a92d6349358dcec48aa867e223af3e5ca3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configuration files and automation wizard for *nix meta distribution</div>",
+            "url": "https://github.com/oniani/dot",
+            "title": "oniani/dot: Configuration files and automation wizard for *nix meta distribution",
+            "date_modified": "2023-09-20T20:13:44.000Z",
+            "date_published": "2019-04-10T22:14:23.000Z",
+            "author": {
+                "name": "oniani",
+                "url": "https://github.com/oniani"
             }
         },
         {
@@ -25,6 +47,17 @@
             "author": {
                 "name": "mpv-player",
                 "url": "https://github.com/mpv-player"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/686289?u=eb6468cb8cadf2b04b8c9ed35a5ada99f0d720c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unofficial mpv builds for macOS 10.13 and later</div>",
+            "url": "https://github.com/dafyk/mpv-macos-builds",
+            "title": "dafyk/mpv-macos-builds: Unofficial mpv builds for macOS 10.13 and later",
+            "date_modified": "2023-09-21T09:04:17.000Z",
+            "date_published": "2022-04-20T15:51:46.000Z",
+            "author": {
+                "name": "dafyk",
+                "url": "https://github.com/dafyk"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "FunctionalHacker",
                 "url": "https://github.com/FunctionalHacker"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105133551?u=577f5e549a36b4ced8213ead545dc450b7b8664e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Zewia mpv config</div>",
-            "url": "https://github.com/wiwaz/mpv-conf",
-            "title": "wiwaz/mpv-conf: Zewia mpv config",
-            "date_modified": "2023-08-16T13:19:56.000Z",
-            "date_published": "2023-08-16T12:51:25.000Z",
-            "author": {
-                "name": "wiwaz",
-                "url": "https://github.com/wiwaz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61936050?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)</div>",
-            "url": "https://github.com/dyphire/mpv-config",
-            "title": "dyphire/mpv-config: 本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)",
-            "date_modified": "2023-09-20T12:46:09.000Z",
-            "date_published": "2021-05-08T02:32:20.000Z",
-            "author": {
-                "name": "dyphire",
-                "url": "https://github.com/dyphire"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
-            "url": "https://github.com/zhongfly/mpv-winbuild",
-            "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
-            "date_modified": "2023-09-18T14:50:24.000Z",
-            "date_published": "2021-10-01T08:09:13.000Z",
-            "author": {
-                "name": "zhongfly",
-                "url": "https://github.com/zhongfly"
             }
         }
     ]
