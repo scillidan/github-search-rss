@@ -6,6 +6,28 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16300425?u=ce936321be23f4f9eb4c0284e0b0813f52af639a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/fishyer/obsidian-plugin-init",
+            "title": "fishyer/obsidian-plugin-init",
+            "date_modified": "2023-09-16T15:02:58.000Z",
+            "date_published": "2023-09-16T14:17:38.000Z",
+            "author": {
+                "name": "fishyer",
+                "url": "https://github.com/fishyer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133434840?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Powerful Obsidian Plugin template with Svelte and TailwindCSS.</div>",
+            "url": "https://github.com/emilio-toledo/obsidian-svelte-plugin",
+            "title": "emilio-toledo/obsidian-svelte-plugin: Powerful Obsidian Plugin template with Svelte and TailwindCSS.",
+            "date_modified": "2023-07-27T22:14:21.000Z",
+            "date_published": "2023-07-01T20:22:16.000Z",
+            "author": {
+                "name": "emilio-toledo",
+                "url": "https://github.com/emilio-toledo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17660922?u=953bd46239cf5b96c34653e256822f8f7047c2b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Monorepo for Obsidian repositories.</div>",
             "url": "https://github.com/polyipseity/obsidian-monorepo",
             "title": "polyipseity/obsidian-monorepo: Monorepo for Obsidian repositories.",
@@ -108,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65011256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Community plugins list, theme list, and releases of Obsidian.</div>",
             "url": "https://github.com/obsidianmd/obsidian-releases",
             "title": "obsidianmd/obsidian-releases: Community plugins list, theme list, and releases of Obsidian.",
-            "date_modified": "2023-09-21T20:16:38.000Z",
+            "date_modified": "2023-09-22T03:33:00.000Z",
             "date_published": "2020-05-08T14:18:27.000Z",
             "author": {
                 "name": "obsidianmd",
@@ -127,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133434840?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Powerful Obsidian Plugin template with Svelte and TailwindCSS.</div>",
-            "url": "https://github.com/emilio-toledo/obsidian-svelte-plugin",
-            "title": "emilio-toledo/obsidian-svelte-plugin: Powerful Obsidian Plugin template with Svelte and TailwindCSS.",
-            "date_modified": "2023-07-27T22:14:21.000Z",
-            "date_published": "2023-07-01T20:22:16.000Z",
-            "author": {
-                "name": "emilio-toledo",
-                "url": "https://github.com/emilio-toledo"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8812459?u=0b9dc6437f9404ece04bbbb94205159078f307ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Obsidian, written in Lua</div>",
             "url": "https://github.com/epwalsh/obsidian.nvim",
             "title": "epwalsh/obsidian.nvim: Neovim plugin for Obsidian, written in Lua",
@@ -146,6 +157,17 @@
             "author": {
                 "name": "epwalsh",
                 "url": "https://github.com/epwalsh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69591376?u=84b8b4e0a6530ab477a63d152d9a079ff768940d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Obsidian.md for styling codeblocks and inline code</div>",
+            "url": "https://github.com/mayurankv/Obsidian-Code-Styler",
+            "title": "mayurankv/Obsidian-Code-Styler: A plugin for Obsidian.md for styling codeblocks and inline code",
+            "date_modified": "2023-09-22T03:42:02.000Z",
+            "date_published": "2023-07-06T22:54:00.000Z",
+            "author": {
+                "name": "mayurankv",
+                "url": "https://github.com/mayurankv"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "PKM-er",
                 "url": "https://github.com/PKM-er"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35656100?u=bbdc0f67d6764784cea4e210e00486882bcdf321&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin that tries to solve all the trivial problems most people usually encountered in obsidian. 旨在解决大多数人在Obsidian中遇到的所有琐碎问题</div>",
-            "url": "https://github.com/JuckZ/awesome-brain-manager",
-            "title": "JuckZ/awesome-brain-manager: A plugin that tries to solve all the trivial problems most people usually encountered in obsidian. 旨在解决大多数人在Obsidian中遇到的所有琐碎问题",
-            "date_modified": "2023-09-16T01:56:16.000Z",
-            "date_published": "2023-02-10T14:35:50.000Z",
-            "author": {
-                "name": "JuckZ",
-                "url": "https://github.com/JuckZ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47162464?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>obsidian.md plugin to grab data from public movie Databases and make them into a note that can be used with dataview querries</div>",
-            "url": "https://github.com/Superschnizel/Obsidian-Moviegrabber",
-            "title": "Superschnizel/Obsidian-Moviegrabber: obsidian.md plugin to grab data from public movie Databases and make them into a note that can be used with dataview querries",
-            "date_modified": "2023-09-21T17:56:57.000Z",
-            "date_published": "2023-09-20T13:37:50.000Z",
-            "author": {
-                "name": "Superschnizel",
-                "url": "https://github.com/Superschnizel"
             }
         }
     ]
