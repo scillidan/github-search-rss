@@ -6,14 +6,36 @@
     "description": "mpv on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 static build of <a href=\"https://github.com/mpv-player/mpv.io\">https://github.com/mpv-player/mpv.io</a> by TravisCI</div>",
-            "url": "https://github.com/mpv-player/mpv-player.github.io",
-            "title": "mpv-player/mpv-player.github.io: 🤖 static build of https://github.com/mpv-player/mpv.io by TravisCI",
-            "date_modified": "2023-08-08T18:54:53.000Z",
-            "date_published": "2013-03-07T16:49:49.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16631584?u=61ec67a2a0ef561b2a8e9b01d49833f9906f78ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita 和 Nintendo Switch上  |   Yet another Bilibili client</div>",
+            "url": "https://github.com/xfangfang/wiliwili",
+            "title": "xfangfang/wiliwili: 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita 和 Nintendo Switch上  |   Yet another Bilibili client",
+            "date_modified": "2023-09-22T09:00:53.000Z",
+            "date_published": "2021-01-17T09:27:58.000Z",
             "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
+                "name": "xfangfang",
+                "url": "https://github.com/xfangfang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22550919?u=2b1184414c5c3a9960017707b084f75398a8cb3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.</div>",
+            "url": "https://github.com/BazzaCuda/MinimalistMediaPlayerX",
+            "title": "BazzaCuda/MinimalistMediaPlayerX: An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.",
+            "date_modified": "2023-09-18T00:20:48.000Z",
+            "date_published": "2023-07-08T16:26:50.000Z",
+            "author": {
+                "name": "BazzaCuda",
+                "url": "https://github.com/BazzaCuda"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust implementation of the MPRIS v2 DBus interface for the mpv media player.</div>",
+            "url": "https://github.com/eNV25/mpv-mpris2",
+            "title": "eNV25/mpv-mpris2: Rust implementation of the MPRIS v2 DBus interface for the mpv media player.",
+            "date_modified": "2023-08-30T15:33:31.000Z",
+            "date_published": "2023-08-23T10:40:56.000Z",
+            "author": {
+                "name": "eNV25",
+                "url": "https://github.com/eNV25"
             }
         },
         {
@@ -25,6 +47,17 @@
             "author": {
                 "name": "shinchiro",
                 "url": "https://github.com/shinchiro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 static build of <a href=\"https://github.com/mpv-player/mpv.io\">https://github.com/mpv-player/mpv.io</a> by TravisCI</div>",
+            "url": "https://github.com/mpv-player/mpv-player.github.io",
+            "title": "mpv-player/mpv-player.github.io: 🤖 static build of https://github.com/mpv-player/mpv.io by TravisCI",
+            "date_modified": "2023-08-08T18:54:53.000Z",
+            "date_published": "2013-03-07T16:49:49.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "semanticdata",
                 "url": "https://github.com/semanticdata"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2023-09-22T07:01:44.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
-            "url": "https://github.com/zhongfly/mpv-winbuild",
-            "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
-            "date_modified": "2023-09-18T14:50:24.000Z",
-            "date_published": "2021-10-01T08:09:13.000Z",
-            "author": {
-                "name": "zhongfly",
-                "url": "https://github.com/zhongfly"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45698031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MPV Cast Client for Jellyfin</div>",
-            "url": "https://github.com/jellyfin/jellyfin-mpv-shim",
-            "title": "jellyfin/jellyfin-mpv-shim: MPV Cast Client for Jellyfin",
-            "date_modified": "2023-09-21T13:06:30.000Z",
-            "date_published": "2020-01-11T18:44:41.000Z",
-            "author": {
-                "name": "jellyfin",
-                "url": "https://github.com/jellyfin"
             }
         }
     ]
