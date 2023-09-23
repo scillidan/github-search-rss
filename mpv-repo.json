@@ -6,6 +6,17 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust implementation of the MPRIS v2 DBus interface for the mpv media player.</div>",
+            "url": "https://github.com/eNV25/mpv-mpris2",
+            "title": "eNV25/mpv-mpris2: Rust implementation of the MPRIS v2 DBus interface for the mpv media player.",
+            "date_modified": "2023-08-30T15:33:31.000Z",
+            "date_published": "2023-08-23T10:40:56.000Z",
+            "author": {
+                "name": "eNV25",
+                "url": "https://github.com/eNV25"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61936050?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv-win with latest commit.</div>",
             "url": "https://github.com/dyphire/mpv-winbuild",
             "title": "dyphire/mpv-winbuild: Use Github Action to build mpv-win with latest commit.",
@@ -14,17 +25,6 @@
             "author": {
                 "name": "dyphire",
                 "url": "https://github.com/dyphire"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43822022?u=242e416e2b33131941207b4d1aa850e542e0eceb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Emby &amp; Jellyfin command line client, powered by mpv. Written in Rust.</div>",
-            "url": "https://github.com/Vernoxvernax/Puddler-RS",
-            "title": "Vernoxvernax/Puddler-RS: Emby & Jellyfin command line client, powered by mpv. Written in Rust.",
-            "date_modified": "2023-09-22T16:15:07.000Z",
-            "date_published": "2022-07-18T18:34:09.000Z",
-            "author": {
-                "name": "Vernoxvernax",
-                "url": "https://github.com/Vernoxvernax"
             }
         },
         {
@@ -39,10 +39,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7804791?u=0d2b50ed53cda59faa3e2770599a7d942da63ea9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a personal websocket-based currently playing web server</div>",
+            "url": "https://github.com/seanbreckenridge/currently_listening",
+            "title": "seanbreckenridge/currently_listening: a personal websocket-based currently playing web server",
+            "date_modified": "2023-08-26T18:56:05.000Z",
+            "date_published": "2023-01-30T12:20:23.000Z",
+            "author": {
+                "name": "seanbreckenridge",
+                "url": "https://github.com/seanbreckenridge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43822022?u=242e416e2b33131941207b4d1aa850e542e0eceb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Emby &amp; Jellyfin command line client, powered by mpv. Written in Rust.</div>",
+            "url": "https://github.com/Vernoxvernax/Puddler-RS",
+            "title": "Vernoxvernax/Puddler-RS: Emby & Jellyfin command line client, powered by mpv. Written in Rust.",
+            "date_modified": "2023-09-22T16:15:07.000Z",
+            "date_published": "2022-07-18T18:34:09.000Z",
+            "author": {
+                "name": "Vernoxvernax",
+                "url": "https://github.com/Vernoxvernax"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
             "url": "https://github.com/mpv-player/mpv",
             "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2023-09-23T10:39:01.000Z",
+            "date_modified": "2023-09-23T11:22:05.000Z",
             "date_published": "2012-10-13T08:08:44.000Z",
             "author": {
                 "name": "mpv-player",
@@ -182,6 +204,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47283320?u=39b71901b18190231b92c1169a8024ad25585001&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Feature-rich minimalist proximity-based UI for MPV player.</div>",
+            "url": "https://github.com/tomasklaen/uosc",
+            "title": "tomasklaen/uosc: Feature-rich minimalist proximity-based UI for MPV player.",
+            "date_modified": "2023-09-23T11:11:07.000Z",
+            "date_published": "2020-03-02T17:57:36.000Z",
+            "author": {
+                "name": "tomasklaen",
+                "url": "https://github.com/tomasklaen"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61097808?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/radar-duker/mpv2",
             "title": "radar-duker/mpv2",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "radar-duker",
                 "url": "https://github.com/radar-duker"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11004353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contain scripts I have made for mpv media player...</div>",
-            "url": "https://github.com/Eisa01/mpv-scripts",
-            "title": "Eisa01/mpv-scripts: This repository contain scripts I have made for mpv media player...",
-            "date_modified": "2023-09-22T06:46:37.000Z",
-            "date_published": "2018-10-18T13:13:55.000Z",
-            "author": {
-                "name": "Eisa01",
-                "url": "https://github.com/Eisa01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
-            "url": "https://github.com/zhongfly/mpv-winbuild",
-            "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
-            "date_modified": "2023-09-18T14:50:24.000Z",
-            "date_published": "2021-10-01T08:09:13.000Z",
-            "author": {
-                "name": "zhongfly",
-                "url": "https://github.com/zhongfly"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71519684?u=6abcda11f5ea53687bc434353e2ccdf3167e301a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MPV script for extracting subtitles, images, and audio to Anki-supported formats.</div>",
-            "url": "https://github.com/katsura-jpn/anki_suketto",
-            "title": "katsura-jpn/anki_suketto: MPV script for extracting subtitles, images, and audio to Anki-supported formats.",
-            "date_modified": "2023-06-20T17:14:05.000Z",
-            "date_published": "2022-09-29T23:14:47.000Z",
-            "author": {
-                "name": "katsura-jpn",
-                "url": "https://github.com/katsura-jpn"
             }
         }
     ]
