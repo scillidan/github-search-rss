@@ -6,6 +6,39 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12019987?u=9896dd84a1b106d22ec554e40220dba0effd86fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>tk mpv player</div>",
+            "url": "https://github.com/slair/tkmpvf",
+            "title": "slair/tkmpvf: tk mpv player",
+            "date_modified": "2023-04-16T12:19:47.000Z",
+            "date_published": "2023-04-16T12:18:26.000Z",
+            "author": {
+                "name": "slair",
+                "url": "https://github.com/slair"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust implementation of the MPRIS v2 DBus interface for the mpv media player.</div>",
+            "url": "https://github.com/eNV25/mpv-mpris2",
+            "title": "eNV25/mpv-mpris2: Rust implementation of the MPRIS v2 DBus interface for the mpv media player.",
+            "date_modified": "2023-09-25T21:56:53.000Z",
+            "date_published": "2023-08-23T10:40:56.000Z",
+            "author": {
+                "name": "eNV25",
+                "url": "https://github.com/eNV25"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Package scripts for MPV build under MSYS2.</div>",
+            "url": "https://github.com/dragonflylee/mingw64-packages",
+            "title": "dragonflylee/mingw64-packages: Package scripts for MPV build under MSYS2.",
+            "date_modified": "2023-09-26T07:02:56.000Z",
+            "date_published": "2023-09-26T06:38:19.000Z",
+            "author": {
+                "name": "dragonflylee",
+                "url": "https://github.com/dragonflylee"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/686289?u=eb6468cb8cadf2b04b8c9ed35a5ada99f0d720c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unofficial mpv builds for macOS 10.13 and later</div>",
             "url": "https://github.com/dafyk/mpv-macos-builds",
             "title": "dafyk/mpv-macos-builds: Unofficial mpv builds for macOS 10.13 and later",
@@ -47,17 +80,6 @@
             "author": {
                 "name": "Sad-Soul-Eater",
                 "url": "https://github.com/Sad-Soul-Eater"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Package scripts for MPV build under MSYS2.</div>",
-            "url": "https://github.com/dragonflylee/mingw64-packages",
-            "title": "dragonflylee/mingw64-packages: Package scripts for MPV build under MSYS2.",
-            "date_modified": "2023-09-26T07:02:56.000Z",
-            "date_published": "2023-09-26T06:38:19.000Z",
-            "author": {
-                "name": "dragonflylee",
-                "url": "https://github.com/dragonflylee"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "zenwarr",
                 "url": "https://github.com/zenwarr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30290300?u=f5c6e6c187d302d67570be4606ef89fc4e0d30e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LUA script to adjust timing of an SRT subtitle while playing on MPV</div>",
-            "url": "https://github.com/alfred-hantsch/mpv-fix-sub-timing",
-            "title": "alfred-hantsch/mpv-fix-sub-timing: LUA script to adjust timing of an SRT subtitle while playing on MPV",
-            "date_modified": "2023-02-07T13:54:23.000Z",
-            "date_published": "2023-02-07T13:51:05.000Z",
-            "author": {
-                "name": "alfred-hantsch",
-                "url": "https://github.com/alfred-hantsch"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9623615?u=6bc92bc0db35022227a3730d8644d1ef06e3f0d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CMake-based MinGW-w64 Cross Toolchain </div>",
-            "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
-            "title": "shinchiro/mpv-winbuild-cmake:  CMake-based MinGW-w64 Cross Toolchain ",
-            "date_modified": "2023-09-24T22:04:59.000Z",
-            "date_published": "2018-07-15T11:58:39.000Z",
-            "author": {
-                "name": "shinchiro",
-                "url": "https://github.com/shinchiro"
             }
         }
     ]
