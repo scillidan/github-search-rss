@@ -6,6 +6,39 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2023-10-01T11:27:47.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84926938?u=796676b4e43ddc37807771c2f3cdbd7d5e3d03ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Forked from <a href=\"https://github.com/nyfair/mpv-win64\">https://github.com/nyfair/mpv-win64</a></div>",
+            "url": "https://github.com/eko5624/mpv-win64",
+            "title": "eko5624/mpv-win64: Forked from https://github.com/nyfair/mpv-win64",
+            "date_modified": "2023-07-10T14:23:27.000Z",
+            "date_published": "2021-08-31T08:18:39.000Z",
+            "author": {
+                "name": "eko5624",
+                "url": "https://github.com/eko5624"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84926938?u=796676b4e43ddc37807771c2f3cdbd7d5e3d03ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross Compile MPV Win64 On Archlinux Docker</div>",
+            "url": "https://github.com/eko5624/mpv-winbuild",
+            "title": "eko5624/mpv-winbuild: Cross Compile MPV Win64 On Archlinux Docker",
+            "date_modified": "2023-09-08T16:11:21.000Z",
+            "date_published": "2023-07-29T13:23:28.000Z",
+            "author": {
+                "name": "eko5624",
+                "url": "https://github.com/eko5624"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust implementation of the MPRIS v2 DBus interface for the mpv media player.</div>",
             "url": "https://github.com/eNV25/mpv-mpris2",
             "title": "eNV25/mpv-mpris2: Rust implementation of the MPRIS v2 DBus interface for the mpv media player.",
@@ -83,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2023-10-01T11:27:47.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8448483?u=956f3557730585599716bbaa7a91a2831e95db17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/ThomasStock/mpv2",
             "title": "ThomasStock/mpv2",
@@ -116,10 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77244135?u=0a890fdae49071e891c16261adf6b2262385504d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, ffmpeg, aria2.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77244135?u=0a890fdae49071e891c16261adf6b2262385504d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.</div>",
             "url": "https://github.com/rorgoroth/mingw-cmake-env",
-            "title": "rorgoroth/mingw-cmake-env: Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, ffmpeg, aria2.",
-            "date_modified": "2023-09-20T19:56:42.000Z",
+            "title": "rorgoroth/mingw-cmake-env: Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.",
+            "date_modified": "2023-10-01T13:43:40.000Z",
             "date_published": "2021-05-18T09:34:24.000Z",
             "author": {
                 "name": "rorgoroth",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "diffficult",
                 "url": "https://github.com/diffficult"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8078788?u=f391389fb443a95ac2b4bbf714c2e4f2c4edf54f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cast media from Plex Mobile and Web apps to MPV. (Unofficial)</div>",
-            "url": "https://github.com/iwalton3/plex-mpv-shim",
-            "title": "iwalton3/plex-mpv-shim: Cast media from Plex Mobile and Web apps to MPV. (Unofficial)",
-            "date_modified": "2023-09-26T13:06:01.000Z",
-            "date_published": "2019-08-17T08:26:12.000Z",
-            "author": {
-                "name": "iwalton3",
-                "url": "https://github.com/iwalton3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63326494?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>bilibili命令行客户端 Bilibili command line client.</div>",
-            "url": "https://github.com/12345-mcpython/bilibili-console",
-            "title": "12345-mcpython/bilibili-console: bilibili命令行客户端 Bilibili command line client.",
-            "date_modified": "2023-09-03T13:40:23.000Z",
-            "date_published": "2022-08-10T10:40:53.000Z",
-            "author": {
-                "name": "12345-mcpython",
-                "url": "https://github.com/12345-mcpython"
             }
         }
     ]
