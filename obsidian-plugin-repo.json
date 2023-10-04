@@ -6,17 +6,6 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11924043?u=93e62367f50ba9578f72c74025f9fb44bbcca125&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ZettelFlow is a plugin for Obsidian that helps you to create and manage your notes in a Zettelkasten way.</div>",
-            "url": "https://github.com/RafaelGB/Obsidian-ZettelFlow",
-            "title": "RafaelGB/Obsidian-ZettelFlow: ZettelFlow is a plugin for Obsidian that helps you to create and manage your notes in a Zettelkasten way.",
-            "date_modified": "2023-09-29T20:27:03.000Z",
-            "date_published": "2023-07-30T16:31:05.000Z",
-            "author": {
-                "name": "RafaelGB",
-                "url": "https://github.com/RafaelGB"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65011256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Community plugins list, theme list, and releases of Obsidian.</div>",
             "url": "https://github.com/obsidianmd/obsidian-releases",
             "title": "obsidianmd/obsidian-releases: Community plugins list, theme list, and releases of Obsidian.",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "obsidianmd",
                 "url": "https://github.com/obsidianmd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61631665?u=f3f87e7a275e11bf71013248429e75ddc96eb611&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📃 • updated list of community themes &amp; plugins for obsidian.md!</div>",
+            "url": "https://github.com/konhi/obsidian-community-list",
+            "title": "konhi/obsidian-community-list: 📃 • updated list of community themes & plugins for obsidian.md!",
+            "date_modified": "2023-09-26T11:06:54.000Z",
+            "date_published": "2021-08-27T16:44:49.000Z",
+            "author": {
+                "name": "konhi",
+                "url": "https://github.com/konhi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11924043?u=93e62367f50ba9578f72c74025f9fb44bbcca125&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ZettelFlow is a plugin for Obsidian that helps you to create and manage your notes in a Zettelkasten way.</div>",
+            "url": "https://github.com/RafaelGB/Obsidian-ZettelFlow",
+            "title": "RafaelGB/Obsidian-ZettelFlow: ZettelFlow is a plugin for Obsidian that helps you to create and manage your notes in a Zettelkasten way.",
+            "date_modified": "2023-09-29T20:27:03.000Z",
+            "date_published": "2023-07-30T16:31:05.000Z",
+            "author": {
+                "name": "RafaelGB",
+                "url": "https://github.com/RafaelGB"
             }
         },
         {
@@ -171,10 +182,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55222315?u=37c0be5b7b15779838d42a3a0018cff02d71c31c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Back-end APIs based on Obsidian S3 storage or CouchDb can save messages to the Obsidian library with the help of the Obsidian plugin Remotely-Save plugin, S3 mode, or Self-hosted LiveSync (ex:Obsidian-livesync) plugin CouchDb mode.| 基于 Obsidian S3 存储或 CouchDb 的后端 API </div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55222315?u=37c0be5b7b15779838d42a3a0018cff02d71c31c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Back-end APIs based on WebDAV, S3 storage or CouchDb can save messages to the local file floder md files with sync tools or Obsidian with the help of the Obsidian plugin Remotely-Save plugin, Self-hosted LiveSync (ex:Obsidian-livesync) plugin CouchDb mode or editor that uses file floder. | 基于 WebDAV，S3 存储或 CouchDb 的后端 API ，Obsidian 笔记的 API </div>",
             "url": "https://github.com/kkbt0/obcsapi-go",
-            "title": "kkbt0/obcsapi-go: Back-end APIs based on Obsidian S3 storage or CouchDb can save messages to the Obsidian library with the help of the Obsidian plugin Remotely-Save plugin, S3 mode, or Self-hosted LiveSync (ex:Obsidian-livesync) plugin CouchDb mode.| 基于 Obsidian S3 存储或 CouchDb 的后端 API ",
-            "date_modified": "2023-07-30T10:29:57.000Z",
+            "title": "kkbt0/obcsapi-go: Back-end APIs based on WebDAV, S3 storage or CouchDb can save messages to the local file floder md files with sync tools or Obsidian with the help of the Obsidian plugin Remotely-Save plugin, Self-hosted LiveSync (ex:Obsidian-livesync) plugin CouchDb mode or editor that uses file floder. | 基于 WebDAV，S3 存储或 CouchDb 的后端 API ，Obsidian 笔记的 API ",
+            "date_modified": "2023-10-03T23:55:34.000Z",
             "date_published": "2023-03-31T12:34:28.000Z",
             "author": {
                 "name": "kkbt0",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Xlinka",
                 "url": "https://github.com/Xlinka"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41428836?u=4042049a001c4dd7c6a59712fd4241768955e146&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.</div>",
-            "url": "https://github.com/ivan-lednev/obsidian-day-planner",
-            "title": "ivan-lednev/obsidian-day-planner: An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.",
-            "date_modified": "2023-10-03T21:36:37.000Z",
-            "date_published": "2020-11-03T08:34:56.000Z",
-            "author": {
-                "name": "ivan-lednev",
-                "url": "https://github.com/ivan-lednev"
             }
         }
     ]
