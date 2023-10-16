@@ -6,14 +6,69 @@
     "description": "mkdocs plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44143748?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A super simple plugin to convert the edit_uri for GitHub submodules</div>",
-            "url": "https://github.com/sondregronas/mkdocs-submodule-edit-uri",
-            "title": "sondregronas/mkdocs-submodule-edit-uri: A super simple plugin to convert the edit_uri for GitHub submodules",
-            "date_modified": "2022-08-27T03:57:19.000Z",
-            "date_published": "2022-08-16T14:15:30.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3999221?u=b030e4c89df2f3a36bc4710b925bdeb6745c9856&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A gallery of MkDocs themes, showing off a few plugins and extensions.</div>",
+            "url": "https://github.com/pawamoy/mkdocs-gallery",
+            "title": "pawamoy/mkdocs-gallery: A gallery of MkDocs themes, showing off a few plugins and extensions.",
+            "date_modified": "2023-10-09T20:38:09.000Z",
+            "date_published": "2023-09-27T10:01:11.000Z",
+            "author": {
+                "name": "pawamoy",
+                "url": "https://github.com/pawamoy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44143748?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple MkDocs plugin that converts Obsidian callout blocks to mkdocs supported Admonitions.</div>",
+            "url": "https://github.com/sondregronas/mkdocs-callouts",
+            "title": "sondregronas/mkdocs-callouts: A simple MkDocs plugin that converts Obsidian callout blocks to mkdocs supported Admonitions.",
+            "date_modified": "2023-09-30T12:06:53.000Z",
+            "date_published": "2022-05-07T05:18:28.000Z",
             "author": {
                 "name": "sondregronas",
                 "url": "https://github.com/sondregronas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44143748?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to extract authors, created date and updated date from YAML frontmatter</div>",
+            "url": "https://github.com/sondregronas/mkdocs-footermatter",
+            "title": "sondregronas/mkdocs-footermatter: A plugin to extract authors, created date and updated date from YAML frontmatter",
+            "date_modified": "2023-09-17T17:26:23.000Z",
+            "date_published": "2022-08-13T17:36:11.000Z",
+            "author": {
+                "name": "sondregronas",
+                "url": "https://github.com/sondregronas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44143748?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mkdocs plugin to add relative paths to Google Translate queries</div>",
+            "url": "https://github.com/sondregronas/mkdocs-google-translate",
+            "title": "sondregronas/mkdocs-google-translate: A mkdocs plugin to add relative paths to Google Translate queries",
+            "date_modified": "2023-09-10T21:46:49.000Z",
+            "date_published": "2022-08-15T18:00:35.000Z",
+            "author": {
+                "name": "sondregronas",
+                "url": "https://github.com/sondregronas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36767124?u=879a82f0cbb1f4bcccff78100a3e85f2b29a09d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.</div>",
+            "url": "https://github.com/fralau/mkdocs_macros_plugin",
+            "title": "fralau/mkdocs_macros_plugin: Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.",
+            "date_modified": "2023-10-16T16:04:53.000Z",
+            "date_published": "2018-06-27T15:24:40.000Z",
+            "author": {
+                "name": "fralau",
+                "url": "https://github.com/fralau"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110931?u=e3851949ecc9c096875fdd72e4ffbe5368444177&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A MkDocs plugin for MkNodes.</div>",
+            "url": "https://github.com/phil65/mkdocs_mknodes",
+            "title": "phil65/mkdocs_mknodes: A MkDocs plugin for MkNodes.",
+            "date_modified": "2023-09-30T14:35:41.000Z",
+            "date_published": "2023-09-30T05:19:25.000Z",
+            "author": {
+                "name": "phil65",
+                "url": "https://github.com/phil65"
             }
         },
         {
@@ -28,201 +83,146 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to programmatically generate documentation pages during the build</div>",
-            "url": "https://github.com/oprypin/mkdocs-gen-files",
-            "title": "oprypin/mkdocs-gen-files: MkDocs plugin to programmatically generate documentation pages during the build",
-            "date_modified": "2023-10-10T20:14:23.000Z",
-            "date_published": "2020-12-07T21:19:53.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23049315?u=ffd7e3d6399a8e75c6de66fdfd996c13938e8432&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mkdocs Markdown includer plugin</div>",
+            "url": "https://github.com/mondeja/mkdocs-include-markdown-plugin",
+            "title": "mondeja/mkdocs-include-markdown-plugin: Mkdocs Markdown includer plugin",
+            "date_modified": "2023-10-13T15:40:59.000Z",
+            "date_published": "2020-12-04T08:09:34.000Z",
+            "author": {
+                "name": "mondeja",
+                "url": "https://github.com/mondeja"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107352364?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Documentation for Obsidian Mkdocs Publisher</div>",
+            "url": "https://github.com/ObsidianPublisher/docs",
+            "title": "ObsidianPublisher/docs: Documentation for Obsidian Mkdocs Publisher",
+            "date_modified": "2023-09-08T18:33:44.000Z",
+            "date_published": "2022-04-18T14:17:18.000Z",
+            "author": {
+                "name": "ObsidianPublisher",
+                "url": "https://github.com/ObsidianPublisher"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11897326?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A conda-smithy repository for mkdocs-git-revision-date-localized-plugin.</div>",
+            "url": "https://github.com/conda-forge/mkdocs-git-revision-date-localized-plugin-feedstock",
+            "title": "conda-forge/mkdocs-git-revision-date-localized-plugin-feedstock: A conda-smithy repository for mkdocs-git-revision-date-localized-plugin.",
+            "date_modified": "2022-05-02T13:01:41.000Z",
+            "date_published": "2022-05-02T13:01:41.000Z",
+            "author": {
+                "name": "conda-forge",
+                "url": "https://github.com/conda-forge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5570380?u=529954242ffa63610fed217738dc15f81ef99674&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page</div>",
+            "url": "https://github.com/timvink/mkdocs-table-reader-plugin",
+            "title": "timvink/mkdocs-table-reader-plugin: MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page",
+            "date_modified": "2023-09-21T11:09:21.000Z",
+            "date_published": "2020-03-06T09:42:26.000Z",
+            "author": {
+                "name": "timvink",
+                "url": "https://github.com/timvink"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5570380?u=529954242ffa63610fed217738dc15f81ef99674&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to add a last updated date to your site pages</div>",
+            "url": "https://github.com/timvink/mkdocs-git-revision-date-localized-plugin",
+            "title": "timvink/mkdocs-git-revision-date-localized-plugin: MkDocs plugin to add a last updated date to your site pages",
+            "date_modified": "2023-10-16T02:04:59.000Z",
+            "date_published": "2019-11-26T12:11:05.000Z",
+            "author": {
+                "name": "timvink",
+                "url": "https://github.com/timvink"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11897326?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A conda-smithy repository for mkdocs-include-markdown-plugin.</div>",
+            "url": "https://github.com/conda-forge/mkdocs-include-markdown-plugin-feedstock",
+            "title": "conda-forge/mkdocs-include-markdown-plugin-feedstock: A conda-smithy repository for mkdocs-include-markdown-plugin.",
+            "date_modified": "2023-03-01T23:15:56.000Z",
+            "date_published": "2023-03-01T23:15:56.000Z",
+            "author": {
+                "name": "conda-forge",
+                "url": "https://github.com/conda-forge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to allow clickable sections that lead to an index page</div>",
+            "url": "https://github.com/oprypin/mkdocs-section-index",
+            "title": "oprypin/mkdocs-section-index: MkDocs plugin to allow clickable sections that lead to an index page",
+            "date_modified": "2023-09-14T14:01:58.000Z",
+            "date_published": "2020-11-19T23:59:30.000Z",
             "author": {
                 "name": "oprypin",
                 "url": "https://github.com/oprypin"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9740637?u=6f4b3d3e90a84d5cd9d2a5ef53ede6eb063533b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Publisher for MkDocs - a set of plugins for content creators</div>",
-            "url": "https://github.com/mkusz/mkdocs-publisher",
-            "title": "mkusz/mkdocs-publisher: Publisher for MkDocs - a set of plugins for content creators",
-            "date_modified": "2023-10-13T10:09:39.000Z",
-            "date_published": "2023-02-02T15:47:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation</div>",
+            "url": "https://github.com/oprypin/mkdocs-same-dir",
+            "title": "oprypin/mkdocs-same-dir: MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation",
+            "date_modified": "2023-10-03T22:32:44.000Z",
+            "date_published": "2020-04-26T17:38:21.000Z",
             "author": {
-                "name": "mkusz",
-                "url": "https://github.com/mkusz"
+                "name": "oprypin",
+                "url": "https://github.com/oprypin"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6098197?u=41f5782e1e175757f0fd83df0f934ec6966d13f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Build documentation files inside your code into a MkDocs site.</div>",
-            "url": "https://github.com/athackst/mkdocs-simple-plugin",
-            "title": "athackst/mkdocs-simple-plugin: Build documentation files inside your code into a MkDocs site.",
-            "date_modified": "2023-07-29T08:01:25.000Z",
-            "date_published": "2020-05-03T16:09:24.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58023578?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An MkDocs plugin that lets you do Literate Programming through Entangled.</div>",
+            "url": "https://github.com/entangled/mkdocs-plugin",
+            "title": "entangled/mkdocs-plugin: An MkDocs plugin that lets you do Literate Programming through Entangled.",
+            "date_modified": "2023-05-24T11:48:31.000Z",
+            "date_published": "2023-04-11T13:06:53.000Z",
             "author": {
-                "name": "athackst",
-                "url": "https://github.com/athackst"
+                "name": "entangled",
+                "url": "https://github.com/entangled"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78326341?u=8c55653d875d0b3c4a4791d81ac15ea2bf862ac1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Enecode/mkdocs-strapi-plugin",
-            "title": "Enecode/mkdocs-strapi-plugin",
-            "date_modified": "2023-10-06T22:32:04.000Z",
-            "date_published": "2023-10-06T16:26:34.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to specify the navigation in Markdown instead of YAML</div>",
+            "url": "https://github.com/oprypin/mkdocs-literate-nav",
+            "title": "oprypin/mkdocs-literate-nav: MkDocs plugin to specify the navigation in Markdown instead of YAML",
+            "date_modified": "2023-10-07T10:28:08.000Z",
+            "date_published": "2020-04-26T17:38:52.000Z",
             "author": {
-                "name": "Enecode",
-                "url": "https://github.com/Enecode"
+                "name": "oprypin",
+                "url": "https://github.com/oprypin"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6966193?u=ddcdac31dbd15b30c77ae7b738935a9d57c2c71a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for uploading markdown documentation to Confluence via Confluence REST API</div>",
-            "url": "https://github.com/pawelsikora/mkdocs-with-confluence",
-            "title": "pawelsikora/mkdocs-with-confluence: MkDocs plugin for uploading markdown documentation to Confluence via Confluence REST API",
-            "date_modified": "2023-10-06T12:01:38.000Z",
-            "date_published": "2021-04-14T20:48:59.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42605220?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for Kroki-Diagrams</div>",
+            "url": "https://github.com/AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin",
+            "title": "AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin: MkDocs plugin for Kroki-Diagrams",
+            "date_modified": "2023-10-14T05:41:21.000Z",
+            "date_published": "2021-04-13T09:57:17.000Z",
             "author": {
-                "name": "pawelsikora",
-                "url": "https://github.com/pawelsikora"
+                "name": "AVATEAM-IT-SYSTEMHAUS",
+                "url": "https://github.com/AVATEAM-IT-SYSTEMHAUS"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31479857?u=ba43ad5a59155b4a4ffbd519078f15cf232ad8f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatically insert code snippets to run API calls</div>",
-            "url": "https://github.com/asiffer/mkdocs-apicall-plugin",
-            "title": "asiffer/mkdocs-apicall-plugin: Automatically insert code snippets to run API calls",
-            "date_modified": "2023-08-01T08:47:07.000Z",
-            "date_published": "2022-07-21T14:28:54.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/474389?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs i18n plugin using static translation markdown files</div>",
+            "url": "https://github.com/ultrabug/mkdocs-static-i18n",
+            "title": "ultrabug/mkdocs-static-i18n: MkDocs i18n plugin using static translation markdown files",
+            "date_modified": "2023-10-13T08:25:31.000Z",
+            "date_published": "2021-02-07T17:33:36.000Z",
             "author": {
-                "name": "asiffer",
-                "url": "https://github.com/asiffer"
+                "name": "ultrabug",
+                "url": "https://github.com/ultrabug"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/397106?u=7c5bf79a1e1d029c1c77936dee921544d71f5338&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A MkDocs plugin that injects the mkdocs.yml extra variables into the markdown template</div>",
-            "url": "https://github.com/rosscdh/mkdocs-markdownextradata-plugin",
-            "title": "rosscdh/mkdocs-markdownextradata-plugin: A MkDocs plugin that injects the mkdocs.yml extra variables into the markdown template",
-            "date_modified": "2023-10-13T06:03:50.000Z",
-            "date_published": "2018-05-01T17:18:40.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13437951?u=06ad6d1d647145f7a007a5e5ed446b96a1941093&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for the MkDocs documentation site generator which automatically generates and embeds D2 diagrams.</div>",
+            "url": "https://github.com/landmaj/mkdocs-d2-plugin",
+            "title": "landmaj/mkdocs-d2-plugin: A plugin for the MkDocs documentation site generator which automatically generates and embeds D2 diagrams.",
+            "date_modified": "2023-09-27T20:01:09.000Z",
+            "date_published": "2023-09-22T20:56:00.000Z",
             "author": {
-                "name": "rosscdh",
-                "url": "https://github.com/rosscdh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111569?u=64343adfda69ed06ff93f8571994afe6c4fe9fad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>To reproduce the mkdocs-mermaid2-plugin gitch with <a href=\"https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations\" rel=\"nofollow\">https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations</a></div>",
-            "url": "https://github.com/elgalu/mermaid2-content.code.annotate",
-            "title": "elgalu/mermaid2-content.code.annotate: To reproduce the mkdocs-mermaid2-plugin gitch with https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-annotations",
-            "date_modified": "2023-09-09T05:40:24.000Z",
-            "date_published": "2023-09-09T05:40:23.000Z",
-            "author": {
-                "name": "elgalu",
-                "url": "https://github.com/elgalu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20253663?u=baa29ca8b28d54a5c5eb242e2d712ff66b5b3e42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Toggle the navigation and/or TOC sidebars on your MkDocs site</div>",
-            "url": "https://github.com/six-two/mkdocs-toggle-sidebar-plugin",
-            "title": "six-two/mkdocs-toggle-sidebar-plugin: Toggle the navigation and/or TOC sidebars on your MkDocs site",
-            "date_modified": "2023-09-21T16:34:56.000Z",
-            "date_published": "2023-09-04T17:41:57.000Z",
-            "author": {
-                "name": "six-two",
-                "url": "https://github.com/six-two"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89418790?u=d204c916d70b41e6f473c07e42ea2566b083f104&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A MkDocs plugin that encrypt/decrypt markdown content with AES</div>",
-            "url": "https://github.com/unverbuggt/mkdocs-encryptcontent-plugin",
-            "title": "unverbuggt/mkdocs-encryptcontent-plugin: A MkDocs plugin that encrypt/decrypt markdown content with AES",
-            "date_modified": "2023-09-26T13:46:19.000Z",
-            "date_published": "2019-12-15T22:42:26.000Z",
-            "author": {
-                "name": "unverbuggt",
-                "url": "https://github.com/unverbuggt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5385290?u=317613ae954fedcecbcd7887948877100e23fc0d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for displaying a list of GitHub (.com or Enterprise) contributors on each page. Encourages contributions to the documentation!</div>",
-            "url": "https://github.com/ojacques/mkdocs-git-committers-plugin-2",
-            "title": "ojacques/mkdocs-git-committers-plugin-2: MkDocs plugin for displaying a list of GitHub (.com or Enterprise) contributors on each page. Encourages contributions to the documentation!",
-            "date_modified": "2023-09-08T03:37:57.000Z",
-            "date_published": "2019-11-25T20:50:44.000Z",
-            "author": {
-                "name": "ojacques",
-                "url": "https://github.com/ojacques"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139073969?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for rzk proof assistant (inserts diagram renders).</div>",
-            "url": "https://github.com/rzk-lang/mkdocs-plugin-rzk",
-            "title": "rzk-lang/mkdocs-plugin-rzk: MkDocs plugin for rzk proof assistant (inserts diagram renders).",
-            "date_modified": "2023-07-10T20:39:24.000Z",
-            "date_published": "2023-06-25T11:23:39.000Z",
-            "author": {
-                "name": "rzk-lang",
-                "url": "https://github.com/rzk-lang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1191767?u=e3961dc9bd7226744e0150706a79948e747eea59&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A MkDocs plugin that validates URL in rendered html files</div>",
-            "url": "https://github.com/manuzhang/mkdocs-htmlproofer-plugin",
-            "title": "manuzhang/mkdocs-htmlproofer-plugin: A MkDocs plugin that validates URL in rendered html files",
-            "date_modified": "2023-09-04T08:53:12.000Z",
-            "date_published": "2018-08-26T23:48:13.000Z",
-            "author": {
-                "name": "manuzhang",
-                "url": "https://github.com/manuzhang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122446713?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>专门用在 TuringCourses 的 mkdocs 插件集合</div>",
-            "url": "https://github.com/ZJU-Turing/TuringPlugins",
-            "title": "ZJU-Turing/TuringPlugins: 专门用在 TuringCourses 的 mkdocs 插件集合",
-            "date_modified": "2023-10-11T17:02:36.000Z",
-            "date_published": "2023-07-17T11:37:40.000Z",
-            "author": {
-                "name": "ZJU-Turing",
-                "url": "https://github.com/ZJU-Turing"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9260483?u=e43e208aff1e828abe016df4050fd74e7fab0689&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mkdocs plugin to show \"classy\" views</div>",
-            "url": "https://github.com/itdependsnetworks/mkdocs-python-classy",
-            "title": "itdependsnetworks/mkdocs-python-classy: A mkdocs plugin to show \"classy\" views",
-            "date_modified": "2023-07-28T02:55:59.000Z",
-            "date_published": "2023-04-19T02:36:56.000Z",
-            "author": {
-                "name": "itdependsnetworks",
-                "url": "https://github.com/itdependsnetworks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/27428050?u=733f45228f5b3424eb50b28c88705cc37fb1d18b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/AngryMane/mkdocs-glossary-plugin",
-            "title": "AngryMane/mkdocs-glossary-plugin",
-            "date_modified": "2022-11-15T12:59:03.000Z",
-            "date_published": "2022-04-07T13:59:47.000Z",
-            "author": {
-                "name": "AngryMane",
-                "url": "https://github.com/AngryMane"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20253663?u=baa29ca8b28d54a5c5eb242e2d712ff66b5b3e42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Add tags to MkDocs pages based on their location or file name</div>",
-            "url": "https://github.com/six-two/mkdocs-auto-tag-plugin",
-            "title": "six-two/mkdocs-auto-tag-plugin: Add tags to MkDocs pages based on their location or file name",
-            "date_modified": "2022-12-17T16:14:01.000Z",
-            "date_published": "2022-12-17T12:56:09.000Z",
-            "author": {
-                "name": "six-two",
-                "url": "https://github.com/six-two"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28429?u=161f22c8b12f9160d8e6089b43fab78f7f31f755&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mkdocs plugin to minify the HTML of a page before it is written to disk.</div>",
-            "url": "https://github.com/byrnereese/mkdocs-minify-plugin",
-            "title": "byrnereese/mkdocs-minify-plugin: A mkdocs plugin to minify the HTML of a page before it is written to disk.",
-            "date_modified": "2023-10-05T14:32:56.000Z",
-            "date_published": "2018-12-19T16:35:00.000Z",
-            "author": {
-                "name": "byrnereese",
-                "url": "https://github.com/byrnereese"
+                "name": "landmaj",
+                "url": "https://github.com/landmaj"
             }
         }
     ]
