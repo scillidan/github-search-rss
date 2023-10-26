@@ -59,4 +59,10 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/mkdocs-plugin.json`
     },
+    {
+        title: "goldendict",
+        query: "goldendict sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/goldendict.json`
+    },
 ];
