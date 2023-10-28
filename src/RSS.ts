@@ -65,4 +65,16 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/goldendict.json`
     },
+    {
+        title: "logseq",
+        query: "logseq sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/logseq.json`
+    },
+    {
+        title: "notion",
+        query: "notion sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/notion.json`
+    },
 ];
