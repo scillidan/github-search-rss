@@ -77,4 +77,10 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/notion-plugin.json`
     },
+    {
+        title: "sd-webui",
+        query: "sd-webui sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/sd-webui.json`
+    },
 ];
