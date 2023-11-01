@@ -6,6 +6,83 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77244135?u=0a890fdae49071e891c16261adf6b2262385504d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.</div>",
+            "url": "https://github.com/rorgoroth/mingw-cmake-env",
+            "title": "rorgoroth/mingw-cmake-env: Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.",
+            "date_modified": "2023-11-01T15:39:05.000Z",
+            "date_published": "2021-05-18T09:34:24.000Z",
+            "author": {
+                "name": "rorgoroth",
+                "url": "https://github.com/rorgoroth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102166253?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark-themed interface for the mpv player</div>",
+            "url": "https://github.com/longtermfree/oscc",
+            "title": "longtermfree/oscc: Dark-themed interface for the mpv player",
+            "date_modified": "2023-10-28T16:33:06.000Z",
+            "date_published": "2022-03-23T12:01:48.000Z",
+            "author": {
+                "name": "longtermfree",
+                "url": "https://github.com/longtermfree"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47283320?u=39b71901b18190231b92c1169a8024ad25585001&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Feature-rich minimalist proximity-based UI for MPV player.</div>",
+            "url": "https://github.com/tomasklaen/uosc",
+            "title": "tomasklaen/uosc: Feature-rich minimalist proximity-based UI for MPV player.",
+            "date_modified": "2023-11-01T10:05:35.000Z",
+            "date_published": "2020-03-02T17:57:36.000Z",
+            "author": {
+                "name": "tomasklaen",
+                "url": "https://github.com/tomasklaen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38372270?u=5dfac45e2fa0a450b6ba45c8da8795b13d4b0681&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>command line tool to watch movies and series</div>",
+            "url": "https://github.com/hasanpasha/shizuka",
+            "title": "hasanpasha/shizuka: command line tool to watch movies and series",
+            "date_modified": "2022-01-07T13:40:07.000Z",
+            "date_published": "2021-12-05T17:28:39.000Z",
+            "author": {
+                "name": "hasanpasha",
+                "url": "https://github.com/hasanpasha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110048435?u=f22d5f62b004860da891b8f12d34c78c19903d95&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>yt-mpv is a bash script to play, download video and audio from YouTube</div>",
+            "url": "https://github.com/sergey-samoylov/yt-mpv",
+            "title": "sergey-samoylov/yt-mpv: yt-mpv is a bash script to play, download video and audio from YouTube",
+            "date_modified": "2023-11-01T13:03:34.000Z",
+            "date_published": "2023-11-01T10:39:15.000Z",
+            "author": {
+                "name": "sergey-samoylov",
+                "url": "https://github.com/sergey-samoylov"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11802175?u=18b3eaadec5d5e2024582c41d2244bd1f97b6625&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Listen to internet radio stations from the terminal</div>",
+            "url": "https://github.com/sepen/arradio",
+            "title": "sepen/arradio: Listen to internet radio stations from the terminal",
+            "date_modified": "2023-10-16T13:06:14.000Z",
+            "date_published": "2018-10-10T11:24:49.000Z",
+            "author": {
+                "name": "sepen",
+                "url": "https://github.com/sepen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9336788?u=02424696c5fcb241b6ae15c870423b540662ba6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible-powered dotfiles</div>",
+            "url": "https://github.com/claha/dotfiles",
+            "title": "claha/dotfiles: Ansible-powered dotfiles",
+            "date_modified": "2023-07-08T21:09:40.000Z",
+            "date_published": "2020-12-28T21:01:12.000Z",
+            "author": {
+                "name": "claha",
+                "url": "https://github.com/claha"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10477373?u=6bdbda7e4e7842db2eddbe518b573a4296dc9dd7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Electron app to wrap around MPV to play VRCDN streams without any buffer.</div>",
             "url": "https://github.com/jazzy348/VRCDN-LowLatency-Player",
             "title": "jazzy348/VRCDN-LowLatency-Player: A simple Electron app to wrap around MPV to play VRCDN streams without any buffer.",
@@ -20,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71256557?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A script for mpv that allows temporary playback speed adjustment with a key press.</div>",
             "url": "https://github.com/gaesa/mpv-hold-accelerate",
             "title": "gaesa/mpv-hold-accelerate: A script for mpv that allows temporary playback speed adjustment with a key press.",
-            "date_modified": "2023-11-01T16:19:46.000Z",
+            "date_modified": "2023-11-01T17:37:05.000Z",
             "date_published": "2023-11-01T16:04:21.000Z",
             "author": {
                 "name": "gaesa",
@@ -42,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71256557?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A TypeScript implementation of mpv’s autoload.lua. It is optimized for modularity, readability and and simplicity.</div>",
             "url": "https://github.com/gaesa/mpv-autoload",
             "title": "gaesa/mpv-autoload: A TypeScript implementation of mpv’s autoload.lua. It is optimized for modularity, readability and and simplicity.",
-            "date_modified": "2023-11-01T09:16:33.000Z",
+            "date_modified": "2023-11-01T17:16:57.000Z",
             "date_published": "2023-09-23T17:11:33.000Z",
             "author": {
                 "name": "gaesa",
@@ -58,17 +135,6 @@
             "author": {
                 "name": "redomCL",
                 "url": "https://github.com/redomCL"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11802175?u=18b3eaadec5d5e2024582c41d2244bd1f97b6625&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Listen to internet radio stations from the terminal</div>",
-            "url": "https://github.com/sepen/arradio",
-            "title": "sepen/arradio: Listen to internet radio stations from the terminal",
-            "date_modified": "2023-10-16T13:06:14.000Z",
-            "date_published": "2018-10-10T11:24:49.000Z",
-            "author": {
-                "name": "sepen",
-                "url": "https://github.com/sepen"
             }
         },
         {
@@ -105,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77244135?u=0a890fdae49071e891c16261adf6b2262385504d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.</div>",
-            "url": "https://github.com/rorgoroth/mingw-cmake-env",
-            "title": "rorgoroth/mingw-cmake-env: Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.",
-            "date_modified": "2023-11-01T15:39:05.000Z",
-            "date_published": "2021-05-18T09:34:24.000Z",
-            "author": {
-                "name": "rorgoroth",
-                "url": "https://github.com/rorgoroth"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16631584?u=61ec67a2a0ef561b2a8e9b01d49833f9906f78ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 和 Nintendo Switch上  |   Yet another Bilibili client</div>",
             "url": "https://github.com/xfangfang/wiliwili",
             "title": "xfangfang/wiliwili: 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 和 Nintendo Switch上  |   Yet another Bilibili client",
@@ -149,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47283320?u=39b71901b18190231b92c1169a8024ad25585001&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Feature-rich minimalist proximity-based UI for MPV player.</div>",
-            "url": "https://github.com/tomasklaen/uosc",
-            "title": "tomasklaen/uosc: Feature-rich minimalist proximity-based UI for MPV player.",
-            "date_modified": "2023-11-01T10:05:35.000Z",
-            "date_published": "2020-03-02T17:57:36.000Z",
-            "author": {
-                "name": "tomasklaen",
-                "url": "https://github.com/tomasklaen"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/103729387?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Project-MPV/Project-MPV-Customs",
             "title": "Project-MPV/Project-MPV-Customs",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "MarkusFKarlsen",
                 "url": "https://github.com/MarkusFKarlsen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12019987?u=9896dd84a1b106d22ec554e40220dba0effd86fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>tk mpv player</div>",
-            "url": "https://github.com/slair/tkmpvf",
-            "title": "slair/tkmpvf: tk mpv player",
-            "date_modified": "2023-04-16T12:19:47.000Z",
-            "date_published": "2023-04-16T12:18:26.000Z",
-            "author": {
-                "name": "slair",
-                "url": "https://github.com/slair"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110048435?u=f22d5f62b004860da891b8f12d34c78c19903d95&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>yt-mpv is a bash script to play, download video and audio from YouTube</div>",
-            "url": "https://github.com/sergey-samoylov/yt-mpv",
-            "title": "sergey-samoylov/yt-mpv: yt-mpv is a bash script to play, download video and audio from YouTube",
-            "date_modified": "2023-11-01T13:03:34.000Z",
-            "date_published": "2023-11-01T10:39:15.000Z",
-            "author": {
-                "name": "sergey-samoylov",
-                "url": "https://github.com/sergey-samoylov"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88035011?u=771cea357aa512c0b4c15a2641fa6fb0e4a6f871&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VVCEasy is that you don't have to compile or/and coding to encode VVC (known as Versatile Video Codec). Simple. Easy. Encode. Decode</div>",
-            "url": "https://github.com/MartinEesmaa/VVCEasy",
-            "title": "MartinEesmaa/VVCEasy: VVCEasy is that you don't have to compile or/and coding to encode VVC (known as Versatile Video Codec). Simple. Easy. Encode. Decode",
-            "date_modified": "2023-10-28T17:31:36.000Z",
-            "date_published": "2021-10-20T03:37:55.000Z",
-            "author": {
-                "name": "MartinEesmaa",
-                "url": "https://github.com/MartinEesmaa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46796031?u=250eda0977ec227cc8d23eaecaa9e3b5f83ff12b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>compilation of dotfiles for the i3 window manager environment</div>",
-            "url": "https://github.com/mrdotx/dotfiles",
-            "title": "mrdotx/dotfiles: compilation of dotfiles for the i3 window manager environment",
-            "date_modified": "2023-04-29T14:15:09.000Z",
-            "date_published": "2019-10-09T11:25:30.000Z",
-            "author": {
-                "name": "mrdotx",
-                "url": "https://github.com/mrdotx"
             }
         }
     ]
