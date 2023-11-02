@@ -6,6 +6,39 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8454096?u=17e5ac016223a2e9d84fe894efe779bd39fe086f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An mpc-like control interface for mpv.</div>",
+            "url": "https://github.com/lwilletts/mpvc",
+            "title": "lwilletts/mpvc: An mpc-like control interface for mpv.",
+            "date_modified": "2023-10-27T07:30:18.000Z",
+            "date_published": "2016-01-13T02:01:26.000Z",
+            "author": {
+                "name": "lwilletts",
+                "url": "https://github.com/lwilletts"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2023-11-02T15:07:13.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22550919?u=2b1184414c5c3a9960017707b084f75398a8cb3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.</div>",
+            "url": "https://github.com/BazzaCuda/MinimalistMediaPlayerX",
+            "title": "BazzaCuda/MinimalistMediaPlayerX: An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.",
+            "date_modified": "2023-09-18T00:20:48.000Z",
+            "date_published": "2023-07-08T16:26:50.000Z",
+            "author": {
+                "name": "BazzaCuda",
+                "url": "https://github.com/BazzaCuda"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117554485?u=c1563bece43834cd4922c1458a825779502c2001&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>自用mpv媒体播放库C++框架</div>",
             "url": "https://github.com/Lubism/Libmpvcpp",
             "title": "Lubism/Libmpvcpp: 自用mpv媒体播放库C++框架",
@@ -25,17 +58,6 @@
             "author": {
                 "name": "univrsal",
                 "url": "https://github.com/univrsal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2023-11-02T15:07:13.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "gaesa",
                 "url": "https://github.com/gaesa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32032905?u=7be4c7a92d6349358dcec48aa867e223af3e5ca3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configuration files and automation wizard for *nix meta distribution</div>",
-            "url": "https://github.com/oniani/dot",
-            "title": "oniani/dot: Configuration files and automation wizard for *nix meta distribution",
-            "date_modified": "2023-10-22T08:29:01.000Z",
-            "date_published": "2019-04-10T22:14:23.000Z",
-            "author": {
-                "name": "oniani",
-                "url": "https://github.com/oniani"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/438944?u=946c46c42be2eef5be680873e063f86e0c212cf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Reduces MPV cache for streams by increasing playback speed.</div>",
-            "url": "https://github.com/divout/mpv_reduce_stream_cache",
-            "title": "divout/mpv_reduce_stream_cache: Reduces MPV cache for streams by increasing playback speed.",
-            "date_modified": "2023-10-22T12:23:42.000Z",
-            "date_published": "2022-01-01T15:26:33.000Z",
-            "author": {
-                "name": "divout",
-                "url": "https://github.com/divout"
             }
         }
     ]
