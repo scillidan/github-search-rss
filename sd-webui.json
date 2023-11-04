@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An A1111 extension to automatically find the inpaint mask to use based on the difference between an image and an altered version of the same image. </div>",
+            "url": "https://github.com/John-WL/sd-webui-inpaint-difference",
+            "title": "John-WL/sd-webui-inpaint-difference: An A1111 extension to automatically find the inpaint mask to use based on the difference between an image and an altered version of the same image. ",
+            "date_modified": "2023-11-03T19:46:41.000Z",
+            "date_published": "2023-10-30T16:17:34.000Z",
+            "author": {
+                "name": "John-WL",
+                "url": "https://github.com/John-WL"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
@@ -94,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An A1111 extension to automatically find the inpaint mask to use based on the difference between an image and an altered version of the same image. </div>",
-            "url": "https://github.com/John-WL/sd-webui-inpaint-difference",
-            "title": "John-WL/sd-webui-inpaint-difference: An A1111 extension to automatically find the inpaint mask to use based on the difference between an image and an altered version of the same image. ",
-            "date_modified": "2023-11-03T19:46:41.000Z",
-            "date_published": "2023-10-30T16:17:34.000Z",
-            "author": {
-                "name": "John-WL",
-                "url": "https://github.com/John-WL"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141602933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto masking and inpainting for person, face, hand. Resizing image using detection model.</div>",
             "url": "https://github.com/portu-sim/sd-webui-bmab",
             "title": "portu-sim/sd-webui-bmab: Auto masking and inpainting for person, face, hand. Resizing image using detection model.",
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25168945?u=b339e042b92fd25e3d63e7a08ae8ff6096ce96ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SD-WEBUI-DISCORD is a Discord bot developed in Go language for stable-diffusion-webui. It utilizes the sd-webui-go to invoke the sd-webui API and supports cluster deployment of multiple sd-webui nodes with automatic scheduling and allocation.</div>",
             "url": "https://github.com/SpenserCai/sd-webui-discord",
             "title": "SpenserCai/sd-webui-discord: SD-WEBUI-DISCORD is a Discord bot developed in Go language for stable-diffusion-webui. It utilizes the sd-webui-go to invoke the sd-webui API and supports cluster deployment of multiple sd-webui nodes with automatic scheduling and allocation.",
-            "date_modified": "2023-11-04T04:41:52.000Z",
+            "date_modified": "2023-11-04T05:34:30.000Z",
             "date_published": "2023-08-17T11:10:50.000Z",
             "author": {
                 "name": "SpenserCai",
