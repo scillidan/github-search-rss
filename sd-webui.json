@@ -6,6 +6,39 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6035916?u=671fc738751372ba2fec583eb17a3c60f502e6f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatic store your generation info with image and apply back anytime.</div>",
+            "url": "https://github.com/namkazt/sd-webui-prompt-history",
+            "title": "namkazt/sd-webui-prompt-history: Automatic store your generation info with image and apply back anytime.",
+            "date_modified": "2023-10-27T15:26:33.000Z",
+            "date_published": "2023-06-14T18:06:33.000Z",
+            "author": {
+                "name": "namkazt",
+                "url": "https://github.com/namkazt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An A1111 extension to automatically find the inpaint mask to use based on the difference between an image and an altered version of the same image. </div>",
+            "url": "https://github.com/John-WL/sd-webui-inpaint-difference",
+            "title": "John-WL/sd-webui-inpaint-difference: An A1111 extension to automatically find the inpaint mask to use based on the difference between an image and an altered version of the same image. ",
+            "date_modified": "2023-11-03T19:46:41.000Z",
+            "date_published": "2023-10-30T16:17:34.000Z",
+            "author": {
+                "name": "John-WL",
+                "url": "https://github.com/John-WL"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5777085?u=0903f03110dc2ecd2d757d0ed17c4a84d3478aa9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension-separated translation source for Stable Diffusion web UI by AUTOMATIC1111</div>",
+            "url": "https://github.com/harukaxxxx/stable-diffusion-webui-localization-source",
+            "title": "harukaxxxx/stable-diffusion-webui-localization-source: Extension-separated translation source for Stable Diffusion web UI by AUTOMATIC1111",
+            "date_modified": "2023-07-07T12:16:48.000Z",
+            "date_published": "2023-03-17T03:01:44.000Z",
+            "author": {
+                "name": "harukaxxxx",
+                "url": "https://github.com/harukaxxxx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141602933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto masking and inpainting for person, face, hand. Resizing image using detection model.</div>",
             "url": "https://github.com/portu-sim/sd-webui-bmab",
             "title": "portu-sim/sd-webui-bmab: Auto masking and inpainting for person, face, hand. Resizing image using detection model.",
@@ -50,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An A1111 extension to automatically find the inpaint mask to use based on the difference between an image and an altered version of the same image. </div>",
-            "url": "https://github.com/John-WL/sd-webui-inpaint-difference",
-            "title": "John-WL/sd-webui-inpaint-difference: An A1111 extension to automatically find the inpaint mask to use based on the difference between an image and an altered version of the same image. ",
-            "date_modified": "2023-11-03T19:46:41.000Z",
-            "date_published": "2023-10-30T16:17:34.000Z",
-            "author": {
-                "name": "John-WL",
-                "url": "https://github.com/John-WL"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/John-WL/sd-webui-inpaint-background",
             "title": "John-WL/sd-webui-inpaint-background",
@@ -86,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2023-11-04T15:44:32.000Z",
+            "date_modified": "2023-11-04T16:44:27.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -182,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5777085?u=0903f03110dc2ecd2d757d0ed17c4a84d3478aa9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension-separated translation source for Stable Diffusion web UI by AUTOMATIC1111</div>",
-            "url": "https://github.com/harukaxxxx/stable-diffusion-webui-localization-source",
-            "title": "harukaxxxx/stable-diffusion-webui-localization-source: Extension-separated translation source for Stable Diffusion web UI by AUTOMATIC1111",
-            "date_modified": "2023-07-07T12:16:48.000Z",
-            "date_published": "2023-03-17T03:01:44.000Z",
-            "author": {
-                "name": "harukaxxxx",
-                "url": "https://github.com/harukaxxxx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>model merge extention for stable diffusion web ui</div>",
             "url": "https://github.com/hako-mikan/sd-webui-supermerger",
             "title": "hako-mikan/sd-webui-supermerger: model merge extention for stable diffusion web ui",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
             "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
             "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
-            "date_modified": "2023-11-04T14:56:39.000Z",
+            "date_modified": "2023-11-04T16:11:42.000Z",
             "date_published": "2023-08-28T10:46:27.000Z",
             "author": {
                 "name": "aigc-apps",
                 "url": "https://github.com/aigc-apps"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25168945?u=b339e042b92fd25e3d63e7a08ae8ff6096ce96ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SD-WEBUI-DISCORD is a Discord bot developed in Go language for stable-diffusion-webui. It utilizes the sd-webui-go to invoke the sd-webui API and supports cluster deployment of multiple sd-webui nodes with automatic scheduling and allocation.</div>",
-            "url": "https://github.com/SpenserCai/sd-webui-discord",
-            "title": "SpenserCai/sd-webui-discord: SD-WEBUI-DISCORD is a Discord bot developed in Go language for stable-diffusion-webui. It utilizes the sd-webui-go to invoke the sd-webui API and supports cluster deployment of multiple sd-webui nodes with automatic scheduling and allocation.",
-            "date_modified": "2023-11-04T10:05:06.000Z",
-            "date_published": "2023-08-17T11:10:50.000Z",
-            "author": {
-                "name": "SpenserCai",
-                "url": "https://github.com/SpenserCai"
             }
         }
     ]
