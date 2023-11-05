@@ -6,6 +6,17 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61602848?u=1f1f59163246556e235958801f0b27e30412d346&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Obsidian that can create input fields inside your notes and bind them to metadata fields.</div>",
+            "url": "https://github.com/mProjectsCode/obsidian-meta-bind-plugin",
+            "title": "mProjectsCode/obsidian-meta-bind-plugin: A plugin for Obsidian that can create input fields inside your notes and bind them to metadata fields.",
+            "date_modified": "2023-10-30T10:49:05.000Z",
+            "date_published": "2022-06-08T10:18:04.000Z",
+            "author": {
+                "name": "mProjectsCode",
+                "url": "https://github.com/mProjectsCode"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9850722?u=fcffe02420e7ad37876c21b1bf1b76721161db1d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).</div>",
             "url": "https://github.com/nhaouari/obsidian-textgenerator-plugin",
             "title": "nhaouari/obsidian-textgenerator-plugin: Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).",
@@ -47,6 +58,17 @@
             "author": {
                 "name": "oflisback",
                 "url": "https://github.com/oflisback"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/149179?u=e55b83bf150d331974f50749fe50c16443e6a649&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Streamline your note-taking workflow with ease. This Obsidian plugin combines customizable note templates, event management, and implementation following DDD (Domain Driven Design) principles.</div>",
+            "url": "https://github.com/jesuserro/obsigen",
+            "title": "jesuserro/obsigen: Streamline your note-taking workflow with ease. This Obsidian plugin combines customizable note templates, event management, and implementation following DDD (Domain Driven Design) principles.",
+            "date_modified": "2023-11-05T17:58:56.000Z",
+            "date_published": "2023-06-08T16:45:25.000Z",
+            "author": {
+                "name": "jesuserro",
+                "url": "https://github.com/jesuserro"
             }
         },
         {
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99481461?u=000881fc02abc30e22343b4e4fe03197297423c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A obsidian plugin to manage the front matter in obsidian notes.</div>",
             "url": "https://github.com/qql2/front-matter-manager",
             "title": "qql2/front-matter-manager: A obsidian plugin to manage the front matter in obsidian notes.",
-            "date_modified": "2023-11-05T07:56:41.000Z",
+            "date_modified": "2023-11-05T17:11:22.000Z",
             "date_published": "2023-11-05T07:56:36.000Z",
             "author": {
                 "name": "qql2",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37220977?u=42afaf27237d927e5523abab7cca77ab3ec700ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for Obsidian that queries Wikipedia APIs to add data like an image, article summary, etc. to your Obsidian notes. Includes customizable templates.</div>",
             "url": "https://github.com/evanharmon1/obsidian-wikipedia-data",
             "title": "evanharmon1/obsidian-wikipedia-data: Plugin for Obsidian that queries Wikipedia APIs to add data like an image, article summary, etc. to your Obsidian notes. Includes customizable templates.",
-            "date_modified": "2023-11-04T04:02:29.000Z",
+            "date_modified": "2023-11-05T18:01:14.000Z",
             "date_published": "2023-11-01T00:10:25.000Z",
             "author": {
                 "name": "evanharmon1",
@@ -174,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63241408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An obsidian plugin that helps to make an image slider in obsidian notes.</div>",
             "url": "https://github.com/amatya-aditya/obsidian-image-slider",
             "title": "amatya-aditya/obsidian-image-slider: An obsidian plugin that helps to make an image slider in obsidian notes.",
-            "date_modified": "2023-11-05T03:08:31.000Z",
+            "date_modified": "2023-11-05T17:12:23.000Z",
             "date_published": "2023-11-04T07:46:18.000Z",
             "author": {
                 "name": "amatya-aditya",
@@ -185,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99481461?u=000881fc02abc30e22343b4e4fe03197297423c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A obsidian plugin to verify the YAML in obsidian notes.</div>",
             "url": "https://github.com/qql2/yaml-checker",
             "title": "qql2/yaml-checker: A obsidian plugin to verify the YAML in obsidian notes.",
-            "date_modified": "2023-11-05T02:53:33.000Z",
+            "date_modified": "2023-11-05T17:11:18.000Z",
             "date_published": "2023-11-05T02:53:27.000Z",
             "author": {
                 "name": "qql2",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ophidian-lib",
                 "url": "https://github.com/ophidian-lib"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109485461?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Build and publish Obsidian plugins with minimal configuration</div>",
-            "url": "https://github.com/ophidian-lib/build",
-            "title": "ophidian-lib/build: Build and publish Obsidian plugins with minimal configuration",
-            "date_modified": "2023-09-29T20:14:45.000Z",
-            "date_published": "2022-07-17T21:15:11.000Z",
-            "author": {
-                "name": "ophidian-lib",
-                "url": "https://github.com/ophidian-lib"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38220764?u=6ae935ce0e02b53cedaceed127365877496ea036&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/4Source/DrawEnablePlus-Obsidian-Plugin",
-            "title": "4Source/DrawEnablePlus-Obsidian-Plugin",
-            "date_modified": "2023-11-05T16:35:08.000Z",
-            "date_published": "2023-10-25T14:38:13.000Z",
-            "author": {
-                "name": "4Source",
-                "url": "https://github.com/4Source"
             }
         }
     ]
