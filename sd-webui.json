@@ -6,14 +6,25 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136279213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Platform Package Manager for Stable Diffusion</div>",
-            "url": "https://github.com/LykosAI/StabilityMatrix",
-            "title": "LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion",
-            "date_modified": "2023-11-05T22:11:07.000Z",
-            "date_published": "2023-06-13T05:20:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28695009?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An implementation of the method in CADS: Unleashing the Diversity of Diffusion Models through Condition-Annealed Sampling in Automatic1111 WebUI.</div>",
+            "url": "https://github.com/v0xie/sd-webui-cads",
+            "title": "v0xie/sd-webui-cads: An implementation of the method in CADS: Unleashing the Diversity of Diffusion Models through Condition-Annealed Sampling in Automatic1111 WebUI.",
+            "date_modified": "2023-11-05T12:24:23.000Z",
+            "date_published": "2023-10-31T22:36:03.000Z",
             "author": {
-                "name": "LykosAI",
-                "url": "https://github.com/LykosAI"
+                "name": "v0xie",
+                "url": "https://github.com/v0xie"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI</div>",
+            "url": "https://github.com/continue-revolution/sd-webui-animatediff",
+            "title": "continue-revolution/sd-webui-animatediff: AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI",
+            "date_modified": "2023-11-06T00:07:37.000Z",
+            "date_published": "2023-07-18T02:59:45.000Z",
+            "author": {
+                "name": "continue-revolution",
+                "url": "https://github.com/continue-revolution"
             }
         },
         {
@@ -25,6 +36,17 @@
             "author": {
                 "name": "Iniquitatis",
                 "url": "https://github.com/Iniquitatis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136279213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Platform Package Manager for Stable Diffusion</div>",
+            "url": "https://github.com/LykosAI/StabilityMatrix",
+            "title": "LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion",
+            "date_modified": "2023-11-05T22:11:07.000Z",
+            "date_published": "2023-06-13T05:20:38.000Z",
+            "author": {
+                "name": "LykosAI",
+                "url": "https://github.com/LykosAI"
             }
         },
         {
@@ -64,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34448969?u=cee65453d65defd7fd49b70392f95af6030c6934&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI</div>",
             "url": "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete",
             "title": "DominikDoom/a1111-sd-webui-tagcomplete: Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI",
-            "date_modified": "2023-11-05T16:39:45.000Z",
+            "date_modified": "2023-11-06T00:33:04.000Z",
             "date_published": "2022-10-11T17:33:14.000Z",
             "author": {
                 "name": "DominikDoom",
@@ -80,17 +102,6 @@
             "author": {
                 "name": "John-WL",
                 "url": "https://github.com/John-WL"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI</div>",
-            "url": "https://github.com/continue-revolution/sd-webui-animatediff",
-            "title": "continue-revolution/sd-webui-animatediff: AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI",
-            "date_modified": "2023-11-05T21:45:49.000Z",
-            "date_published": "2023-07-18T02:59:45.000Z",
-            "author": {
-                "name": "continue-revolution",
-                "url": "https://github.com/continue-revolution"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "namkazt",
                 "url": "https://github.com/namkazt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85128026?u=a21af6b40396f4b69c0f3973ff0a738baddc609d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Fast and Simple Face Swap Extension for StableDiffusion WebUI (A1111, SD.Next, Cagliostro) with NVIDIA GPU Support</div>",
-            "url": "https://github.com/Gourieff/sd-webui-reactor-force",
-            "title": "Gourieff/sd-webui-reactor-force: Fast and Simple Face Swap Extension for StableDiffusion WebUI (A1111, SD.Next, Cagliostro) with NVIDIA GPU Support",
-            "date_modified": "2023-11-05T19:21:30.000Z",
-            "date_published": "2023-09-23T05:22:12.000Z",
-            "author": {
-                "name": "Gourieff",
-                "url": "https://github.com/Gourieff"
             }
         }
     ]
