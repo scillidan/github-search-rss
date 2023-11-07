@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32277961?u=d36bd8fcf762389289d0cd6c6d93baed179ef860&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A1111 webui extension for <a href=\"https://github.com/YingqingHe/ScaleCrafter\">https://github.com/YingqingHe/ScaleCrafter</a></div>",
+            "url": "https://github.com/ljleb/sd-webui-scalecrafter",
+            "title": "ljleb/sd-webui-scalecrafter: A1111 webui extension for https://github.com/YingqingHe/ScaleCrafter",
+            "date_modified": "2023-11-04T13:30:31.000Z",
+            "date_published": "2023-11-03T17:15:06.000Z",
+            "author": {
+                "name": "ljleb",
+                "url": "https://github.com/ljleb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141602933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto masking and inpainting for person, face, hand. Resizing image using detection model.</div>",
             "url": "https://github.com/portu-sim/sd-webui-bmab",
             "title": "portu-sim/sd-webui-bmab: Auto masking and inpainting for person, face, hand. Resizing image using detection model.",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12066768?u=5ebd8294103633c8526ed3aff6b5852dca253dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。</div>",
             "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
             "title": "Physton/sd-webui-prompt-all-in-one: This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。",
-            "date_modified": "2023-11-07T12:59:05.000Z",
+            "date_modified": "2023-11-07T20:01:30.000Z",
             "date_published": "2023-05-08T12:23:21.000Z",
             "author": {
                 "name": "Physton",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "harukaxxxx",
                 "url": "https://github.com/harukaxxxx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An A1111 extension to automatically find the inpaint mask to use based on the difference between an image and an altered version of the same image. </div>",
-            "url": "https://github.com/John-WL/sd-webui-inpaint-difference",
-            "title": "John-WL/sd-webui-inpaint-difference: An A1111 extension to automatically find the inpaint mask to use based on the difference between an image and an altered version of the same image. ",
-            "date_modified": "2023-11-07T10:21:20.000Z",
-            "date_published": "2023-10-30T16:17:34.000Z",
-            "author": {
-                "name": "John-WL",
-                "url": "https://github.com/John-WL"
             }
         }
     ]
