@@ -6,198 +6,11 @@
     "description": "sublime plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/634230?u=598d4ff7165516f0190277c58e1852e218ab8283&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text plugin that shows selected text on remote GitHub or Bitbucket repo</div>",
-            "url": "https://github.com/ehamiter/GitHubinator",
-            "title": "ehamiter/GitHubinator: Sublime Text plugin that shows selected text on remote GitHub or Bitbucket repo",
-            "date_modified": "2023-09-10T09:54:08.000Z",
-            "date_published": "2011-08-23T02:04:50.000Z",
-            "author": {
-                "name": "ehamiter",
-                "url": "https://github.com/ehamiter"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4263831?u=c232d8cee0680b19542e242041744af25fc30d60&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text generic formatter plugin; formats arbitrary code by calling arbitrary executables, such as `gofmt`</div>",
-            "url": "https://github.com/mitranim/sublime-fmt",
-            "title": "mitranim/sublime-fmt: Sublime Text generic formatter plugin; formats arbitrary code by calling arbitrary executables, such as `gofmt`",
-            "date_modified": "2023-09-01T14:30:00.000Z",
-            "date_published": "2020-10-21T07:02:59.000Z",
-            "author": {
-                "name": "mitranim",
-                "url": "https://github.com/mitranim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33017423?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text plugin for python project</div>",
-            "url": "https://github.com/ginanjarn/pythontools",
-            "title": "ginanjarn/pythontools: Sublime Text plugin for python project",
-            "date_modified": "2023-03-31T07:52:35.000Z",
-            "date_published": "2022-10-28T15:56:16.000Z",
-            "author": {
-                "name": "ginanjarn",
-                "url": "https://github.com/ginanjarn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48095564?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python support for Sublime's LSP plugin provided through microsoft/pyright.</div>",
-            "url": "https://github.com/sublimelsp/LSP-pyright",
-            "title": "sublimelsp/LSP-pyright: Python support for Sublime's LSP plugin provided through microsoft/pyright.",
-            "date_modified": "2023-11-04T19:33:26.000Z",
-            "date_published": "2020-07-30T15:55:47.000Z",
-            "author": {
-                "name": "sublimelsp",
-                "url": "https://github.com/sublimelsp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13447930?u=e0319974bae2574a1b9a952101eb86a0afad1eb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Xcode extension, Implemented single-line comment style like Sublime Text.</div>",
-            "url": "https://github.com/chunqian/CommentsPlugin",
-            "title": "chunqian/CommentsPlugin: Xcode extension, Implemented single-line comment style like Sublime Text.",
-            "date_modified": "2023-05-29T10:25:13.000Z",
-            "date_published": "2023-04-23T04:09:20.000Z",
-            "author": {
-                "name": "chunqian",
-                "url": "https://github.com/chunqian"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48095564?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LaTeX support for Sublime's LSP plugin provided through latex-lsp/texlab.</div>",
             "url": "https://github.com/sublimelsp/LSP-TexLab",
             "title": "sublimelsp/LSP-TexLab: LaTeX support for Sublime's LSP plugin provided through latex-lsp/texlab.",
             "date_modified": "2023-09-24T10:41:16.000Z",
             "date_published": "2020-07-09T16:48:34.000Z",
-            "author": {
-                "name": "sublimelsp",
-                "url": "https://github.com/sublimelsp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226837?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JsPrettier is a Sublime Text Plug-in for Prettier, the opinionated code formatter.</div>",
-            "url": "https://github.com/jonlabelle/SublimeJsPrettier",
-            "title": "jonlabelle/SublimeJsPrettier: JsPrettier is a Sublime Text Plug-in for Prettier, the opinionated code formatter.",
-            "date_modified": "2023-10-15T22:53:22.000Z",
-            "date_published": "2017-01-14T08:37:03.000Z",
-            "author": {
-                "name": "jonlabelle",
-                "url": "https://github.com/jonlabelle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48095564?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PHP support for Sublime's LSP plugin provided through intelephense.</div>",
-            "url": "https://github.com/sublimelsp/LSP-intelephense",
-            "title": "sublimelsp/LSP-intelephense: PHP support for Sublime's LSP plugin provided through intelephense.",
-            "date_modified": "2023-11-02T04:16:35.000Z",
-            "date_published": "2019-04-03T16:39:36.000Z",
-            "author": {
-                "name": "sublimelsp",
-                "url": "https://github.com/sublimelsp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/950813?u=df2ff9351bf79d9049475e8343d23db1c9101414&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text Plugin development: 🏹 RunSnippet - run python code snippet from md file. 🏹JumpTo - fast to locate doc position, like Vim CTags in-file jump. 🏹IndexRow - generate row number for selected contents. 🏹  SendTo: Send file between windows... </div>",
-            "url": "https://github.com/jimboyeah/run-snippet",
-            "title": "jimboyeah/run-snippet: Sublime Text Plugin development: 🏹 RunSnippet - run python code snippet from md file. 🏹JumpTo - fast to locate doc position, like Vim CTags in-file jump. 🏹IndexRow - generate row number for selected contents. 🏹  SendTo: Send file between windows... ",
-            "date_modified": "2022-06-12T10:15:40.000Z",
-            "date_published": "2022-03-19T20:35:11.000Z",
-            "author": {
-                "name": "jimboyeah",
-                "url": "https://github.com/jimboyeah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104039397?u=109f91f656556089d9ce7c641fae512d1efb0b06&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create JWPUBs files easily and quickly for JW Library. Reviw is a Plugin for Sublime Text. And a powerful collection of HTML components, packed with features.</div>",
-            "url": "https://github.com/livrasand/Reviw",
-            "title": "livrasand/Reviw: Create JWPUBs files easily and quickly for JW Library. Reviw is a Plugin for Sublime Text. And a powerful collection of HTML components, packed with features.",
-            "date_modified": "2023-11-02T15:34:41.000Z",
-            "date_published": "2023-06-25T19:48:30.000Z",
-            "author": {
-                "name": "livrasand",
-                "url": "https://github.com/livrasand"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1055125?u=8e71d9761a5c99efb7d0eeb173f52757a6ed6aff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime plugin to make finding and the cursor(s) quick and easy. <a href=\"https://facelessuser.github.io/FindCursor/\" rel=\"nofollow\">https://facelessuser.github.io/FindCursor/</a></div>",
-            "url": "https://github.com/facelessuser/FindCursor",
-            "title": "facelessuser/FindCursor: Sublime plugin to make finding and the cursor(s) quick and easy. https://facelessuser.github.io/FindCursor/",
-            "date_modified": "2023-11-03T14:45:47.000Z",
-            "date_published": "2014-02-24T01:48:34.000Z",
-            "author": {
-                "name": "facelessuser",
-                "url": "https://github.com/facelessuser"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48095564?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Elixir support for Sublime LSP plugin</div>",
-            "url": "https://github.com/sublimelsp/LSP-elixir",
-            "title": "sublimelsp/LSP-elixir: Elixir support for Sublime LSP plugin",
-            "date_modified": "2023-10-17T01:50:23.000Z",
-            "date_published": "2020-05-23T13:43:04.000Z",
-            "author": {
-                "name": "sublimelsp",
-                "url": "https://github.com/sublimelsp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/366640?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text plugin to return to a marked file</div>",
-            "url": "https://github.com/ssanj/TakeMeHome",
-            "title": "ssanj/TakeMeHome: Sublime Text plugin to return to a marked file",
-            "date_modified": "2023-11-01T18:50:34.000Z",
-            "date_published": "2023-10-28T22:36:20.000Z",
-            "author": {
-                "name": "ssanj",
-                "url": "https://github.com/ssanj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/603863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Super Nim Plugin for Sublime Text 2/3</div>",
-            "url": "https://github.com/nim-lang/NimLime",
-            "title": "nim-lang/NimLime: Super Nim Plugin for Sublime Text 2/3",
-            "date_modified": "2023-10-27T19:11:49.000Z",
-            "date_published": "2013-12-03T20:02:28.000Z",
-            "author": {
-                "name": "nim-lang",
-                "url": "https://github.com/nim-lang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16612247?u=141f8037eced217b017791c0f739a3133a33bb05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text OpenAI completion plugin with GPT-4 support!</div>",
-            "url": "https://github.com/yaroslavyaroslav/OpenAI-sublime-text",
-            "title": "yaroslavyaroslav/OpenAI-sublime-text: Sublime Text OpenAI completion plugin with GPT-4 support!",
-            "date_modified": "2023-11-03T07:26:16.000Z",
-            "date_published": "2022-12-11T15:27:14.000Z",
-            "author": {
-                "name": "yaroslavyaroslav",
-                "url": "https://github.com/yaroslavyaroslav"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48095564?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Astro support for Sublime's LSP plugin </div>",
-            "url": "https://github.com/sublimelsp/LSP-astro",
-            "title": "sublimelsp/LSP-astro: Astro support for Sublime's LSP plugin ",
-            "date_modified": "2023-08-19T05:18:03.000Z",
-            "date_published": "2022-07-23T15:00:46.000Z",
-            "author": {
-                "name": "sublimelsp",
-                "url": "https://github.com/sublimelsp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7621526?u=c60205c9ab52400f33b7e4a9161e1164a669e7f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sublime Text plugin that combines multiple useful features for web developers.</div>",
-            "url": "https://github.com/saaqi/SaaqiPlugins",
-            "title": "saaqi/SaaqiPlugins: A Sublime Text plugin that combines multiple useful features for web developers.",
-            "date_modified": "2023-04-28T04:03:24.000Z",
-            "date_published": "2023-04-07T03:59:13.000Z",
-            "author": {
-                "name": "saaqi",
-                "url": "https://github.com/saaqi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48095564?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vue support for Sublime's LSP plugin</div>",
-            "url": "https://github.com/sublimelsp/LSP-volar",
-            "title": "sublimelsp/LSP-volar: Vue support for Sublime's LSP plugin",
-            "date_modified": "2023-10-10T17:27:39.000Z",
-            "date_published": "2021-07-30T17:34:12.000Z",
             "author": {
                 "name": "sublimelsp",
                 "url": "https://github.com/sublimelsp"
@@ -215,14 +28,201 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48095564?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TypeScript, JavaScript support for Sublime LSP plugin</div>",
-            "url": "https://github.com/sublimelsp/LSP-typescript",
-            "title": "sublimelsp/LSP-typescript: TypeScript, JavaScript support for Sublime LSP plugin",
-            "date_modified": "2023-11-05T14:44:39.000Z",
-            "date_published": "2019-08-17T22:33:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33017423?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text plugin CMake tools</div>",
+            "url": "https://github.com/ginanjarn/cmaketools",
+            "title": "ginanjarn/cmaketools: Sublime Text plugin CMake tools",
+            "date_modified": "2022-06-06T14:53:02.000Z",
+            "date_published": "2021-11-15T06:32:19.000Z",
             "author": {
-                "name": "sublimelsp",
-                "url": "https://github.com/sublimelsp"
+                "name": "ginanjarn",
+                "url": "https://github.com/ginanjarn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5798516?u=230c28f2b4c9a5c077517ef6f4ef2e3ab37defca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code formatter plugin for Sublime Text</div>",
+            "url": "https://github.com/Rypac/sublime-format",
+            "title": "Rypac/sublime-format: Code formatter plugin for Sublime Text",
+            "date_modified": "2023-06-04T06:53:40.000Z",
+            "date_published": "2017-01-12T09:59:21.000Z",
+            "author": {
+                "name": "Rypac",
+                "url": "https://github.com/Rypac"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46250484?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sublime Text 3 &amp; 4 plugin to beautify and minify source code. Run interactive REPL Terminal inside ST and more. </div>",
+            "url": "https://github.com/bitst0rm-pub/Formatter",
+            "title": "bitst0rm-pub/Formatter: A Sublime Text 3 & 4 plugin to beautify and minify source code. Run interactive REPL Terminal inside ST and more. ",
+            "date_modified": "2023-10-23T04:45:45.000Z",
+            "date_published": "2019-01-17T16:21:56.000Z",
+            "author": {
+                "name": "bitst0rm-pub",
+                "url": "https://github.com/bitst0rm-pub"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/681260?u=4d58d8d263f5a717d21aa37e2e44ab277686fd4c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SublimeLinter plugin for Makefiles</div>",
+            "url": "https://github.com/giampaolo/SublimeLinter-contrib-makefile",
+            "title": "giampaolo/SublimeLinter-contrib-makefile: SublimeLinter plugin for Makefiles",
+            "date_modified": "2023-10-12T22:21:05.000Z",
+            "date_published": "2023-10-08T11:38:09.000Z",
+            "author": {
+                "name": "giampaolo",
+                "url": "https://github.com/giampaolo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14994179?u=08ca3dd1d68fade217929b7ffc86d268d31fed10&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sublime Text 3 plugin to insert emoji</div>",
+            "url": "https://github.com/alanjaouen/sublimeGitMoji",
+            "title": "alanjaouen/sublimeGitMoji: A Sublime Text 3 plugin to insert emoji",
+            "date_modified": "2023-11-03T20:43:18.000Z",
+            "date_published": "2020-04-10T14:17:55.000Z",
+            "author": {
+                "name": "alanjaouen",
+                "url": "https://github.com/alanjaouen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60471784?u=4cea412c22b10c00d756e4b79a1a400dd766a45f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text plugin to format files faster using prettierd</div>",
+            "url": "https://github.com/smastrom/sublime-prettierd-format",
+            "title": "smastrom/sublime-prettierd-format: Sublime Text plugin to format files faster using prettierd",
+            "date_modified": "2023-10-11T19:23:19.000Z",
+            "date_published": "2023-09-15T10:17:22.000Z",
+            "author": {
+                "name": "smastrom",
+                "url": "https://github.com/smastrom"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1055125?u=8e71d9761a5c99efb7d0eeb173f52757a6ed6aff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An intuitive context menu based diff plugin for Sublime Text <a href=\"http://facelessuser.github.io/EasyDiff/\" rel=\"nofollow\">http://facelessuser.github.io/EasyDiff/</a></div>",
+            "url": "https://github.com/facelessuser/EasyDiff",
+            "title": "facelessuser/EasyDiff: An intuitive context menu based diff plugin for Sublime Text http://facelessuser.github.io/EasyDiff/",
+            "date_modified": "2023-10-11T17:03:40.000Z",
+            "date_published": "2013-10-22T23:58:21.000Z",
+            "author": {
+                "name": "facelessuser",
+                "url": "https://github.com/facelessuser"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1355481?u=ee73450c0044fe083312d270d230dc547dfbee08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sublime Text 2/3 plugin to see git diff in gutter</div>",
+            "url": "https://github.com/jisaacks/GitGutter",
+            "title": "jisaacks/GitGutter: A Sublime Text 2/3 plugin to see git diff in gutter",
+            "date_modified": "2023-11-05T21:47:30.000Z",
+            "date_published": "2012-12-08T05:29:00.000Z",
+            "author": {
+                "name": "jisaacks",
+                "url": "https://github.com/jisaacks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8946904?u=b5705a1e92774d76801bf80a13218cd0336b8957&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Framework for debugging and unit testing sublime text plugins.</div>",
+            "url": "https://github.com/cepthomas/StPluginTester",
+            "title": "cepthomas/StPluginTester: Framework for debugging and unit testing sublime text plugins.",
+            "date_modified": "2023-10-24T23:31:54.000Z",
+            "date_published": "2023-05-24T14:49:28.000Z",
+            "author": {
+                "name": "cepthomas",
+                "url": "https://github.com/cepthomas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18554923?u=e5a503bfe3420a9d4e7551a19d48824c87ff04fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text plugin to generate python import statements</div>",
+            "url": "https://github.com/abhishek72850/pyrock",
+            "title": "abhishek72850/pyrock: Sublime Text plugin to generate python import statements",
+            "date_modified": "2023-11-04T21:17:02.000Z",
+            "date_published": "2023-05-05T14:14:29.000Z",
+            "author": {
+                "name": "abhishek72850",
+                "url": "https://github.com/abhishek72850"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/366640?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text Plugin for creating a Post</div>",
+            "url": "https://github.com/ssanj/BlogTools",
+            "title": "ssanj/BlogTools: Sublime Text Plugin for creating a Post",
+            "date_modified": "2022-07-17T11:37:39.000Z",
+            "date_published": "2022-07-17T11:36:09.000Z",
+            "author": {
+                "name": "ssanj",
+                "url": "https://github.com/ssanj"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2333988?u=a8a4dc1f229cda92f02462567dbe409482e68dee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sublime Text plugin to move the cursor by a relative number of lines.</div>",
+            "url": "https://github.com/BrandonTheHamm/MoveRelativeLines",
+            "title": "BrandonTheHamm/MoveRelativeLines: A Sublime Text plugin to move the cursor by a relative number of lines.",
+            "date_modified": "2023-09-20T15:49:26.000Z",
+            "date_published": "2023-09-20T15:46:57.000Z",
+            "author": {
+                "name": "BrandonTheHamm",
+                "url": "https://github.com/BrandonTheHamm"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1393639?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Syntax highlighting and Coq interactivity for Sublime Text 3</div>",
+            "url": "https://github.com/Calvin-L/sublime-coq-plugin",
+            "title": "Calvin-L/sublime-coq-plugin: Syntax highlighting and Coq interactivity for Sublime Text 3",
+            "date_modified": "2022-10-19T20:59:41.000Z",
+            "date_published": "2015-01-05T22:42:20.000Z",
+            "author": {
+                "name": "Calvin-L",
+                "url": "https://github.com/Calvin-L"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25397585?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime Text plugin for running shell commands and utilising the returned text</div>",
+            "url": "https://github.com/phughes3866/ShellRunner",
+            "title": "phughes3866/ShellRunner: Sublime Text plugin for running shell commands and utilising the returned text",
+            "date_modified": "2022-01-29T08:01:37.000Z",
+            "date_published": "2022-01-27T14:28:17.000Z",
+            "author": {
+                "name": "phughes3866",
+                "url": "https://github.com/phughes3866"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5969120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for Sublime Text to support code folding on sections, subsections, and subsubsections</div>",
+            "url": "https://github.com/Lucasljungberg/latex-section-fold",
+            "title": "Lucasljungberg/latex-section-fold: Plugin for Sublime Text to support code folding on sections, subsections, and subsubsections",
+            "date_modified": "2023-09-21T10:08:51.000Z",
+            "date_published": "2023-09-20T17:32:45.000Z",
+            "author": {
+                "name": "Lucasljungberg",
+                "url": "https://github.com/Lucasljungberg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3009?u=951a4f4b949afb51e006f6d80b1a6075f99e48cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sublime Text plugin that allows applying code formatting with minimum configuration.</div>",
+            "url": "https://github.com/fnando/sublime-codefmt",
+            "title": "fnando/sublime-codefmt: A Sublime Text plugin that allows applying code formatting with minimum configuration.",
+            "date_modified": "2023-03-14T18:58:10.000Z",
+            "date_published": "2020-12-03T22:19:31.000Z",
+            "author": {
+                "name": "fnando",
+                "url": "https://github.com/fnando"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22328867?u=470e2ce54a9a181507e3a97bb728b9eaf4e130a9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sublime plugin that does math operations with numbers found in text (summarize, calculate expression, etc.)</div>",
+            "url": "https://github.com/Pau1R/simpleMath",
+            "title": "Pau1R/simpleMath: Sublime plugin that does math operations with numbers found in text (summarize, calculate expression, etc.)",
+            "date_modified": "2023-10-25T08:11:17.000Z",
+            "date_published": "2023-09-02T17:09:23.000Z",
+            "author": {
+                "name": "Pau1R",
+                "url": "https://github.com/Pau1R"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69086302?u=529bf145069447dd8f7892a454e05fad8110c69b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Three scripts for Linux, macOs, Windows for configuring Sublime and some plugins.</div>",
+            "url": "https://github.com/andredev00/sublimeConfig",
+            "title": "andredev00/sublimeConfig: Three scripts for Linux, macOs, Windows for configuring Sublime and some plugins.",
+            "date_modified": "2023-09-17T15:08:07.000Z",
+            "date_published": "2023-09-17T15:06:30.000Z",
+            "author": {
+                "name": "andredev00",
+                "url": "https://github.com/andredev00"
             }
         }
     ]
