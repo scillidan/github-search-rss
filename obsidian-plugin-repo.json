@@ -6,6 +6,61 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1399443?u=00e36361d3f725ec64e9c80e3b67b3c00300337e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars</div>",
+            "url": "https://github.com/sytone/obsidian-queryallthethings",
+            "title": "sytone/obsidian-queryallthethings: Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars",
+            "date_modified": "2023-11-10T16:51:27.000Z",
+            "date_published": "2023-05-02T18:21:58.000Z",
+            "author": {
+                "name": "sytone",
+                "url": "https://github.com/sytone"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84927447?u=ee1c34a67723a0d1f98c7c99bdb24fbd44b85b75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable version of the obsidian-excalidraw-plugin</div>",
+            "url": "https://github.com/literally-bug-creator/obsidian-excalidraw-stable-version",
+            "title": "literally-bug-creator/obsidian-excalidraw-stable-version: Stable version of the obsidian-excalidraw-plugin",
+            "date_modified": "2023-11-10T17:01:30.000Z",
+            "date_published": "2023-11-10T16:12:11.000Z",
+            "author": {
+                "name": "literally-bug-creator",
+                "url": "https://github.com/literally-bug-creator"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8812459?u=0b9dc6437f9404ece04bbbb94205159078f307ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Obsidian, written in Lua</div>",
+            "url": "https://github.com/epwalsh/obsidian.nvim",
+            "title": "epwalsh/obsidian.nvim: Neovim plugin for Obsidian, written in Lua",
+            "date_modified": "2023-11-08T16:35:16.000Z",
+            "date_published": "2022-07-31T17:37:11.000Z",
+            "author": {
+                "name": "epwalsh",
+                "url": "https://github.com/epwalsh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61602848?u=1f1f59163246556e235958801f0b27e30412d346&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/mProjectsCode/obsidian-js-engine-plugin",
+            "title": "mProjectsCode/obsidian-js-engine-plugin",
+            "date_modified": "2023-11-07T13:17:40.000Z",
+            "date_published": "2023-06-28T19:23:53.000Z",
+            "author": {
+                "name": "mProjectsCode",
+                "url": "https://github.com/mProjectsCode"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11924043?u=93e62367f50ba9578f72c74025f9fb44bbcca125&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ZettelFlow is a plugin for Obsidian that helps you to create and manage your notes in a Zettelkasten way.</div>",
+            "url": "https://github.com/RafaelGB/Obsidian-ZettelFlow",
+            "title": "RafaelGB/Obsidian-ZettelFlow: ZettelFlow is a plugin for Obsidian that helps you to create and manage your notes in a Zettelkasten way.",
+            "date_modified": "2023-11-07T04:22:56.000Z",
+            "date_published": "2023-07-30T16:31:05.000Z",
+            "author": {
+                "name": "RafaelGB",
+                "url": "https://github.com/RafaelGB"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53229974?u=b23f68e85de90faf647aa32d1b9de1c01d2f6386&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>绘自用的 Obsidian 插件</div>",
             "url": "https://github.com/ChangeSuger/obsidian-plugin-camille",
             "title": "ChangeSuger/obsidian-plugin-camille: 绘自用的 Obsidian 插件",
@@ -69,17 +124,6 @@
             "author": {
                 "name": "Superschnizel",
                 "url": "https://github.com/Superschnizel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11924043?u=93e62367f50ba9578f72c74025f9fb44bbcca125&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ZettelFlow is a plugin for Obsidian that helps you to create and manage your notes in a Zettelkasten way.</div>",
-            "url": "https://github.com/RafaelGB/Obsidian-ZettelFlow",
-            "title": "RafaelGB/Obsidian-ZettelFlow: ZettelFlow is a plugin for Obsidian that helps you to create and manage your notes in a Zettelkasten way.",
-            "date_modified": "2023-11-07T04:22:56.000Z",
-            "date_published": "2023-07-30T16:31:05.000Z",
-            "author": {
-                "name": "RafaelGB",
-                "url": "https://github.com/RafaelGB"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Cutaiar",
                 "url": "https://github.com/Cutaiar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70113176?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian plugin to fetch articles and highlights from Omnivore</div>",
-            "url": "https://github.com/omnivore-app/obsidian-omnivore",
-            "title": "omnivore-app/obsidian-omnivore: Obsidian plugin to fetch articles and highlights from Omnivore",
-            "date_modified": "2023-11-10T03:29:20.000Z",
-            "date_published": "2022-12-21T06:42:25.000Z",
-            "author": {
-                "name": "omnivore-app",
-                "url": "https://github.com/omnivore-app"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1683041?u=b681ed1024ac28972c459f40473a64ea8a65f543&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fully featured replacement for the built-in daily notes plugin. Obligator functions like a virtual bullet journal by copying over unchecked to-do items to your new daily note, along with adding any scheduled items you've set up</div>",
-            "url": "https://github.com/Newbrict/obsidian-obligator",
-            "title": "Newbrict/obsidian-obligator: A fully featured replacement for the built-in daily notes plugin. Obligator functions like a virtual bullet journal by copying over unchecked to-do items to your new daily note, along with adding any scheduled items you've set up",
-            "date_modified": "2023-11-10T06:03:03.000Z",
-            "date_published": "2023-06-08T20:52:12.000Z",
-            "author": {
-                "name": "Newbrict",
-                "url": "https://github.com/Newbrict"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43114494?u=f5a509651d5901cbcfa871da8b5394325f9a8834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal plugin for obsidian that implements a subset of the cooklang instruction set.</div>",
-            "url": "https://github.com/Robert-MacWha/minimalist-cooklang-obsidian",
-            "title": "Robert-MacWha/minimalist-cooklang-obsidian: Minimal plugin for obsidian that implements a subset of the cooklang instruction set.",
-            "date_modified": "2023-11-08T18:13:33.000Z",
-            "date_published": "2023-11-08T18:13:26.000Z",
-            "author": {
-                "name": "Robert-MacWha",
-                "url": "https://github.com/Robert-MacWha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79114425?u=44e5836fe6ce887ea332ab424a65b9cc594f18f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A better alternative to Chrome Bookmarks for Obsidian users. Customize templates on the fly and either append to existing notes, create new notes, or do both!</div>",
-            "url": "https://github.com/bhulston/bookmark_plugin",
-            "title": "bhulston/bookmark_plugin: A better alternative to Chrome Bookmarks for Obsidian users. Customize templates on the fly and either append to existing notes, create new notes, or do both!",
-            "date_modified": "2023-11-09T21:15:57.000Z",
-            "date_published": "2023-09-23T20:42:19.000Z",
-            "author": {
-                "name": "bhulston",
-                "url": "https://github.com/bhulston"
             }
         }
     ]
