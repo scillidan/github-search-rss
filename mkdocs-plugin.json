@@ -39,39 +39,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9692741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏆 📚 A list of awesome MkDocs projects and plugins. </div>",
-            "url": "https://github.com/mkdocs/catalog",
-            "title": "mkdocs/catalog: :trophy: :books: A list of awesome MkDocs projects and plugins. ",
-            "date_modified": "2023-11-10T16:48:18.000Z",
-            "date_published": "2022-04-17T07:48:22.000Z",
-            "author": {
-                "name": "mkdocs",
-                "url": "https://github.com/mkdocs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52749936?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for mkdocs that inlines select SVG markdown images (`![](foo.svg)`) so that links in the SVG work without breaking SVG icons</div>",
-            "url": "https://github.com/temperlang/svg-inline-mkdocs-plugin",
-            "title": "temperlang/svg-inline-mkdocs-plugin: A plugin for mkdocs that inlines select SVG markdown images (`![](foo.svg)`) so that links in the SVG work without breaking SVG icons",
-            "date_modified": "2023-11-09T00:27:30.000Z",
-            "date_published": "2023-11-07T16:40:29.000Z",
-            "author": {
-                "name": "temperlang",
-                "url": "https://github.com/temperlang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13437951?u=06ad6d1d647145f7a007a5e5ed446b96a1941093&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for embedding D2 diagrams in MkDocs.</div>",
-            "url": "https://github.com/landmaj/mkdocs-d2-plugin",
-            "title": "landmaj/mkdocs-d2-plugin: A plugin for embedding D2 diagrams in MkDocs.",
-            "date_modified": "2023-11-04T22:55:47.000Z",
-            "date_published": "2023-09-22T20:56:00.000Z",
-            "author": {
-                "name": "landmaj",
-                "url": "https://github.com/landmaj"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110931?u=e3851949ecc9c096875fdd72e4ffbe5368444177&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A MkDocs plugin for MkNodes.</div>",
             "url": "https://github.com/phil65/mkdocs-mknodes",
             "title": "phil65/mkdocs-mknodes: A MkDocs plugin for MkNodes.",
@@ -91,17 +58,6 @@
             "author": {
                 "name": "Smeds",
                 "url": "https://github.com/Smeds"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16417432?u=5aef4d3bf4c47543e4a42fe58ab8890c4a8ea4ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mkdocs-material tag plugin with all insiders features for free (+ some new ones)</div>",
-            "url": "https://github.com/rzig/bettertags",
-            "title": "rzig/bettertags: mkdocs-material tag plugin with all insiders features for free (+ some new ones)",
-            "date_modified": "2023-11-08T02:08:21.000Z",
-            "date_published": "2023-11-05T21:41:14.000Z",
-            "author": {
-                "name": "rzig",
-                "url": "https://github.com/rzig"
             }
         },
         {
@@ -160,28 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107352364?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository containing all github actions needed for the plugin</div>",
-            "url": "https://github.com/ObsidianPublisher/actions",
-            "title": "ObsidianPublisher/actions: Repository containing all github actions needed for the plugin",
-            "date_modified": "2023-07-11T17:34:16.000Z",
-            "date_published": "2023-05-27T15:52:39.000Z",
-            "author": {
-                "name": "ObsidianPublisher",
-                "url": "https://github.com/ObsidianPublisher"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1596222?u=d592209a20254bc71f5595cc14a1f7151f6d5d1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).</div>",
-            "url": "https://github.com/Guts/mkdocs-rss-plugin",
-            "title": "Guts/mkdocs-rss-plugin: MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).",
-            "date_modified": "2023-09-10T18:36:00.000Z",
-            "date_published": "2020-07-06T13:48:11.000Z",
-            "author": {
-                "name": "Guts",
-                "url": "https://github.com/Guts"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28429?u=161f22c8b12f9160d8e6089b43fab78f7f31f755&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mkdocs plugin for displaying the last commit and a list of a file's contributors.</div>",
             "url": "https://github.com/byrnereese/mkdocs-git-committers-plugin",
             "title": "byrnereese/mkdocs-git-committers-plugin: A mkdocs plugin for displaying the last commit and a list of a file's contributors.",
@@ -223,6 +157,72 @@
             "author": {
                 "name": "KyleKing",
                 "url": "https://github.com/KyleKing"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20253663?u=baa29ca8b28d54a5c5eb242e2d712ff66b5b3e42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Generate a page with all listings and/or a search page for listings</div>",
+            "url": "https://github.com/six-two/mkdocs-extract-listings-plugin",
+            "title": "six-two/mkdocs-extract-listings-plugin: Generate a page with all listings and/or a search page for listings",
+            "date_modified": "2023-11-05T18:26:24.000Z",
+            "date_published": "2023-11-03T19:21:57.000Z",
+            "author": {
+                "name": "six-two",
+                "url": "https://github.com/six-two"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to specify the navigation in Markdown instead of YAML</div>",
+            "url": "https://github.com/oprypin/mkdocs-literate-nav",
+            "title": "oprypin/mkdocs-literate-nav: MkDocs plugin to specify the navigation in Markdown instead of YAML",
+            "date_modified": "2023-10-31T21:06:59.000Z",
+            "date_published": "2020-04-26T17:38:52.000Z",
+            "author": {
+                "name": "oprypin",
+                "url": "https://github.com/oprypin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to allow clickable sections that lead to an index page</div>",
+            "url": "https://github.com/oprypin/mkdocs-section-index",
+            "title": "oprypin/mkdocs-section-index: MkDocs plugin to allow clickable sections that lead to an index page",
+            "date_modified": "2023-11-05T19:13:29.000Z",
+            "date_published": "2020-11-19T23:59:30.000Z",
+            "author": {
+                "name": "oprypin",
+                "url": "https://github.com/oprypin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation</div>",
+            "url": "https://github.com/oprypin/mkdocs-same-dir",
+            "title": "oprypin/mkdocs-same-dir: MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation",
+            "date_modified": "2023-11-03T03:41:37.000Z",
+            "date_published": "2020-04-26T17:38:21.000Z",
+            "author": {
+                "name": "oprypin",
+                "url": "https://github.com/oprypin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/474389?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs i18n plugin using static translation markdown files</div>",
+            "url": "https://github.com/ultrabug/mkdocs-static-i18n",
+            "title": "ultrabug/mkdocs-static-i18n: MkDocs i18n plugin using static translation markdown files",
+            "date_modified": "2023-11-06T23:25:05.000Z",
+            "date_published": "2021-02-07T17:33:36.000Z",
+            "author": {
+                "name": "ultrabug",
+                "url": "https://github.com/ultrabug"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72526453?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✚ Build multiple documentation folders in a single Mkdocs. Designed for large codebases.</div>",
+            "url": "https://github.com/backstage/mkdocs-monorepo-plugin",
+            "title": "backstage/mkdocs-monorepo-plugin: ✚ Build multiple documentation folders in a single Mkdocs. Designed for large codebases.",
+            "date_modified": "2023-11-09T19:03:52.000Z",
+            "date_published": "2019-09-19T18:18:32.000Z",
+            "author": {
+                "name": "backstage",
+                "url": "https://github.com/backstage"
             }
         }
     ]
