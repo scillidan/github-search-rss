@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93007558?u=da25ca4940248251f0829edb5136debe2d2b06ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Helper for A1111. Break and re-make animations. Also grid operations.</div>",
+            "url": "https://github.com/LonicaMewinsky/sd-webui-makeframe",
+            "title": "LonicaMewinsky/sd-webui-makeframe: Helper for A1111. Break and re-make animations. Also grid operations.",
+            "date_modified": "2023-11-10T17:17:22.000Z",
+            "date_published": "2023-11-10T17:16:19.000Z",
+            "author": {
+                "name": "LonicaMewinsky",
+                "url": "https://github.com/LonicaMewinsky"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120772120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Embedding Vector Visualization for Stable Diffusion web UI</div>",
+            "url": "https://github.com/hnmr293/sd-webui-evviz2",
+            "title": "hnmr293/sd-webui-evviz2: Embedding Vector Visualization for Stable Diffusion web UI",
+            "date_modified": "2023-09-14T10:41:43.000Z",
+            "date_published": "2023-03-10T15:57:05.000Z",
+            "author": {
+                "name": "hnmr293",
+                "url": "https://github.com/hnmr293"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141602933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto masking and inpainting for person, face, hand. Resizing image using detection model.</div>",
             "url": "https://github.com/portu-sim/sd-webui-bmab",
             "title": "portu-sim/sd-webui-bmab: Auto masking and inpainting for person, face, hand. Resizing image using detection model.",
@@ -174,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A1111 webui extension that splits a mask into components before inpainting. </div>",
             "url": "https://github.com/John-WL/sd-webui-mask-fractioner",
             "title": "John-WL/sd-webui-mask-fractioner: A1111 webui extension that splits a mask into components before inpainting. ",
-            "date_modified": "2023-11-12T04:52:20.000Z",
+            "date_modified": "2023-11-12T16:35:58.000Z",
             "date_published": "2023-11-12T04:49:38.000Z",
             "author": {
                 "name": "John-WL",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "wkpark",
                 "url": "https://github.com/wkpark"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25872019?u=d79d40fb39d0c0d30a54aa81b68964c7e5284064&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fast and powerful image/video browser for Stable Diffusion webui and ComfyUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.</div>",
-            "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing",
-            "title": "zanllp/sd-webui-infinite-image-browsing: A fast and powerful image/video browser for Stable Diffusion webui and ComfyUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.",
-            "date_modified": "2023-11-12T11:03:41.000Z",
-            "date_published": "2023-03-07T18:26:27.000Z",
-            "author": {
-                "name": "zanllp",
-                "url": "https://github.com/zanllp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20545364?u=fe0351783536c337facc4b711bc928b04d9df337&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension for AUTOMATIC1111/stable-diffusion-webui for simplify usage of \"Inpainting conditioning mask strength\", greatly improving \"Highres. fix\" feature for sd-v1-5-inpainting model.</div>",
-            "url": "https://github.com/klimaleksus/stable-diffusion-webui-conditioning-highres-fix",
-            "title": "klimaleksus/stable-diffusion-webui-conditioning-highres-fix: Extension for AUTOMATIC1111/stable-diffusion-webui for simplify usage of \"Inpainting conditioning mask strength\", greatly improving \"Highres. fix\" feature for sd-v1-5-inpainting model.",
-            "date_modified": "2023-09-28T11:43:49.000Z",
-            "date_published": "2022-11-08T17:56:49.000Z",
-            "author": {
-                "name": "klimaleksus",
-                "url": "https://github.com/klimaleksus"
             }
         }
     ]
