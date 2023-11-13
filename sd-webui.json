@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5777085?u=0903f03110dc2ecd2d757d0ed17c4a84d3478aa9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension-separated translation source for Stable Diffusion web UI by AUTOMATIC1111</div>",
+            "url": "https://github.com/harukaxxxx/stable-diffusion-webui-localization-source",
+            "title": "harukaxxxx/stable-diffusion-webui-localization-source: Extension-separated translation source for Stable Diffusion web UI by AUTOMATIC1111",
+            "date_modified": "2023-07-07T12:16:48.000Z",
+            "date_published": "2023-03-17T03:01:44.000Z",
+            "author": {
+                "name": "harukaxxxx",
+                "url": "https://github.com/harukaxxxx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120772120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cutoff - Cutting Off Prompt Effect</div>",
             "url": "https://github.com/hnmr293/sd-webui-cutoff",
             "title": "hnmr293/sd-webui-cutoff: Cutoff - Cutting Off Prompt Effect",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
             "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
             "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
-            "date_modified": "2023-11-13T14:57:31.000Z",
+            "date_modified": "2023-11-13T17:02:35.000Z",
             "date_published": "2023-08-28T10:46:27.000Z",
             "author": {
                 "name": "aigc-apps",
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122321879?u=620c180a401c620269809d778ff183c4e185000b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Latent Consistency Model for AUTOMATIC1111 Stable Diffusion WebUI</div>",
             "url": "https://github.com/0xbitches/sd-webui-lcm",
             "title": "0xbitches/sd-webui-lcm: Latent Consistency Model for AUTOMATIC1111 Stable Diffusion WebUI",
-            "date_modified": "2023-11-13T15:57:04.000Z",
+            "date_modified": "2023-11-13T16:30:23.000Z",
             "date_published": "2023-10-22T11:53:48.000Z",
             "author": {
                 "name": "0xbitches",
@@ -163,11 +174,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2023-11-13T15:18:31.000Z",
+            "date_modified": "2023-11-13T16:57:12.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
                 "url": "https://github.com/Mikubill"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28695009?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Greatly increase the diversity of your generated images in Automatic1111 WebUI through Condition-Annealed Sampling.</div>",
+            "url": "https://github.com/v0xie/sd-webui-cads",
+            "title": "v0xie/sd-webui-cads: Greatly increase the diversity of your generated images in Automatic1111 WebUI through Condition-Annealed Sampling.",
+            "date_modified": "2023-11-13T16:17:39.000Z",
+            "date_published": "2023-10-31T22:36:03.000Z",
+            "author": {
+                "name": "v0xie",
+                "url": "https://github.com/v0xie"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Gerschel",
                 "url": "https://github.com/Gerschel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI</div>",
-            "url": "https://github.com/continue-revolution/sd-webui-animatediff",
-            "title": "continue-revolution/sd-webui-animatediff: AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI",
-            "date_modified": "2023-11-13T15:00:17.000Z",
-            "date_published": "2023-07-18T02:59:45.000Z",
-            "author": {
-                "name": "continue-revolution",
-                "url": "https://github.com/continue-revolution"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28695009?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unofficial implementation of \"SEGA: Instructing Text-to-Image Models using Semantic Guidance\". Semantic Guidance gives you more control over the semantics of an image given an additional text prompt. An extension for Automatic1111 WebUI.</div>",
-            "url": "https://github.com/v0xie/sd-webui-semantic-guidance",
-            "title": "v0xie/sd-webui-semantic-guidance: Unofficial implementation of \"SEGA: Instructing Text-to-Image Models using Semantic Guidance\". Semantic Guidance gives you more control over the semantics of an image given an additional text prompt. An extension for Automatic1111 WebUI.",
-            "date_modified": "2023-11-13T02:58:13.000Z",
-            "date_published": "2023-11-09T23:58:42.000Z",
-            "author": {
-                "name": "v0xie",
-                "url": "https://github.com/v0xie"
             }
         }
     ]
