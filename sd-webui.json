@@ -6,10 +6,32 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12066768?u=5ebd8294103633c8526ed3aff6b5852dca253dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project is an independent version of sd-webui-prompt-all-in-one that does not require the stable-diffusion-webui environment. It allows you to write and maintain your prompts in a web interface.本项目是 sd-webui-prompt-all-in-one 的独立版本，它不需要依赖 stable-diffusion-webui 环境，即可在网页中编写和维护你的提示词。</div>",
+            "url": "https://github.com/Physton/sd-webui-prompt-all-in-one-app",
+            "title": "Physton/sd-webui-prompt-all-in-one-app: This project is an independent version of sd-webui-prompt-all-in-one that does not require the stable-diffusion-webui environment. It allows you to write and maintain your prompts in a web interface.本项目是 sd-webui-prompt-all-in-one 的独立版本，它不需要依赖 stable-diffusion-webui 环境，即可在网页中编写和维护你的提示词。",
+            "date_modified": "2023-11-17T09:58:55.000Z",
+            "date_published": "2023-11-07T03:10:03.000Z",
+            "author": {
+                "name": "Physton",
+                "url": "https://github.com/Physton"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/232347?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checkpoint model mixer/merger extension</div>",
+            "url": "https://github.com/wkpark/sd-webui-model-mixer",
+            "title": "wkpark/sd-webui-model-mixer: Checkpoint model mixer/merger extension",
+            "date_modified": "2023-11-17T09:22:15.000Z",
+            "date_published": "2023-08-28T13:12:51.000Z",
+            "author": {
+                "name": "wkpark",
+                "url": "https://github.com/wkpark"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>model merge extention for stable diffusion web ui</div>",
             "url": "https://github.com/hako-mikan/sd-webui-supermerger",
             "title": "hako-mikan/sd-webui-supermerger: model merge extention for stable diffusion web ui",
-            "date_modified": "2023-11-16T22:45:59.000Z",
+            "date_modified": "2023-11-17T16:43:36.000Z",
             "date_published": "2023-01-18T13:20:58.000Z",
             "author": {
                 "name": "hako-mikan",
@@ -116,21 +138,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/232347?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checkpoint model mixer/merger extension</div>",
-            "url": "https://github.com/wkpark/sd-webui-model-mixer",
-            "title": "wkpark/sd-webui-model-mixer: Checkpoint model mixer/merger extension",
-            "date_modified": "2023-11-17T09:22:15.000Z",
-            "date_published": "2023-08-28T13:12:51.000Z",
-            "author": {
-                "name": "wkpark",
-                "url": "https://github.com/wkpark"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136279213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Platform Package Manager for Stable Diffusion</div>",
             "url": "https://github.com/LykosAI/StabilityMatrix",
             "title": "LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion",
-            "date_modified": "2023-11-17T15:27:00.000Z",
+            "date_modified": "2023-11-17T16:31:15.000Z",
             "date_published": "2023-06-13T05:20:38.000Z",
             "author": {
                 "name": "LykosAI",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7842232?u=b706087930ac8065600cc049287c2e84938d62bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend. </div>",
             "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
             "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin: A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend. ",
-            "date_modified": "2023-11-17T11:15:56.000Z",
+            "date_modified": "2023-11-17T16:39:53.000Z",
             "date_published": "2022-12-20T20:09:54.000Z",
             "author": {
                 "name": "AbdullahAlfaraj",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37621276?u=cd9adbd464534b7ee67ae34ebbbf2b6092a66a7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto detecting, masking and inpainting with detection model.</div>",
             "url": "https://github.com/Bing-su/adetailer",
             "title": "Bing-su/adetailer: Auto detecting, masking and inpainting with detection model.",
-            "date_modified": "2023-11-17T07:43:56.000Z",
+            "date_modified": "2023-11-17T17:04:22.000Z",
             "date_published": "2023-04-26T07:54:51.000Z",
             "author": {
                 "name": "Bing-su",
@@ -209,17 +220,6 @@
             "title": "Carzit/sd-webui-samplers-scheduler-for-v1.6: a samplers scheduler for stable diffusion webui version 1.6.x",
             "date_modified": "2023-11-17T13:23:27.000Z",
             "date_published": "2023-11-16T17:00:54.000Z",
-            "author": {
-                "name": "Carzit",
-                "url": "https://github.com/Carzit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126076978?u=6ce67716a2954e80c9f4b16bf1423a3879031a2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a samplers scheduler for stable diffusion webui</div>",
-            "url": "https://github.com/Carzit/sd-webui-samplers-scheduler",
-            "title": "Carzit/sd-webui-samplers-scheduler: a samplers scheduler for stable diffusion webui",
-            "date_modified": "2023-11-17T06:41:37.000Z",
-            "date_published": "2023-09-22T21:52:15.000Z",
             "author": {
                 "name": "Carzit",
                 "url": "https://github.com/Carzit"
