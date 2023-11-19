@@ -6,10 +6,43 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=8fd880b3a53d0cb0720d3259dc383e0d9632b763&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that performs color grading based on the latent tensor value range</div>",
+            "url": "https://github.com/Haoming02/sd-webui-diffusion-cg",
+            "title": "Haoming02/sd-webui-diffusion-cg: An Extension for Automatic1111 Webui that performs color grading based on the latent tensor value range",
+            "date_modified": "2023-11-18T01:43:10.000Z",
+            "date_published": "2023-11-15T07:15:51.000Z",
+            "author": {
+                "name": "Haoming02",
+                "url": "https://github.com/Haoming02"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5585984?u=9eabe32e7572fd4afb184cda7b7283a433161cdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A \"loopback on steroids\" type of extension for the Stable Diffusion Web UI.</div>",
+            "url": "https://github.com/Iniquitatis/sd-webui-temporal",
+            "title": "Iniquitatis/sd-webui-temporal: A \"loopback on steroids\" type of extension for the Stable Diffusion Web UI.",
+            "date_modified": "2023-11-19T15:50:19.000Z",
+            "date_published": "2023-10-15T18:49:12.000Z",
+            "author": {
+                "name": "Iniquitatis",
+                "url": "https://github.com/Iniquitatis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120546502?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extension to integrate ComfyUI workflows into the Webui's pipeline</div>",
+            "url": "https://github.com/ModelSurge/sd-webui-comfyui",
+            "title": "ModelSurge/sd-webui-comfyui: An extension to integrate ComfyUI workflows into the Webui's pipeline",
+            "date_modified": "2023-11-17T10:23:05.000Z",
+            "date_published": "2023-03-19T10:13:42.000Z",
+            "author": {
+                "name": "ModelSurge",
+                "url": "https://github.com/ModelSurge"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37621276?u=cd9adbd464534b7ee67ae34ebbbf2b6092a66a7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto detecting, masking and inpainting with detection model.</div>",
             "url": "https://github.com/Bing-su/adetailer",
             "title": "Bing-su/adetailer: Auto detecting, masking and inpainting with detection model.",
-            "date_modified": "2023-11-19T12:42:27.000Z",
+            "date_modified": "2023-11-19T15:22:03.000Z",
             "date_published": "2023-04-26T07:54:51.000Z",
             "author": {
                 "name": "Bing-su",
@@ -47,17 +80,6 @@
             "author": {
                 "name": "portu-sim",
                 "url": "https://github.com/portu-sim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120546502?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extension to integrate ComfyUI workflows into the Webui's pipeline</div>",
-            "url": "https://github.com/ModelSurge/sd-webui-comfyui",
-            "title": "ModelSurge/sd-webui-comfyui: An extension to integrate ComfyUI workflows into the Webui's pipeline",
-            "date_modified": "2023-11-17T10:23:05.000Z",
-            "date_published": "2023-03-19T10:13:42.000Z",
-            "author": {
-                "name": "ModelSurge",
-                "url": "https://github.com/ModelSurge"
             }
         },
         {
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2023-11-19T13:39:11.000Z",
+            "date_modified": "2023-11-19T15:51:29.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -182,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5585984?u=9eabe32e7572fd4afb184cda7b7283a433161cdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A \"loopback on steroids\" type of extension for the Stable Diffusion Web UI.</div>",
-            "url": "https://github.com/Iniquitatis/sd-webui-temporal",
-            "title": "Iniquitatis/sd-webui-temporal: A \"loopback on steroids\" type of extension for the Stable Diffusion Web UI.",
-            "date_modified": "2023-11-15T14:38:18.000Z",
-            "date_published": "2023-10-15T18:49:12.000Z",
-            "author": {
-                "name": "Iniquitatis",
-                "url": "https://github.com/Iniquitatis"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5777085?u=0903f03110dc2ecd2d757d0ed17c4a84d3478aa9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension-separated translation source for Stable Diffusion web UI by AUTOMATIC1111</div>",
             "url": "https://github.com/harukaxxxx/stable-diffusion-webui-localization-source",
             "title": "harukaxxxx/stable-diffusion-webui-localization-source: Extension-separated translation source for Stable Diffusion web UI by AUTOMATIC1111",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "VivusAI",
                 "url": "https://github.com/VivusAI"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
-            "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
-            "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
-            "date_modified": "2023-11-19T14:19:11.000Z",
-            "date_published": "2023-08-28T10:46:27.000Z",
-            "author": {
-                "name": "aigc-apps",
-                "url": "https://github.com/aigc-apps"
             }
         }
     ]
