@@ -6,6 +6,61 @@
     "description": "mkdocs plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to allow clickable sections that lead to an index page</div>",
+            "url": "https://github.com/oprypin/mkdocs-section-index",
+            "title": "oprypin/mkdocs-section-index: MkDocs plugin to allow clickable sections that lead to an index page",
+            "date_modified": "2023-11-23T02:36:05.000Z",
+            "date_published": "2020-11-19T23:59:30.000Z",
+            "author": {
+                "name": "oprypin",
+                "url": "https://github.com/oprypin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation</div>",
+            "url": "https://github.com/oprypin/mkdocs-same-dir",
+            "title": "oprypin/mkdocs-same-dir: MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation",
+            "date_modified": "2023-11-15T15:50:21.000Z",
+            "date_published": "2020-04-26T17:38:21.000Z",
+            "author": {
+                "name": "oprypin",
+                "url": "https://github.com/oprypin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to programmatically generate documentation pages during the build</div>",
+            "url": "https://github.com/oprypin/mkdocs-gen-files",
+            "title": "oprypin/mkdocs-gen-files: MkDocs plugin to programmatically generate documentation pages during the build",
+            "date_modified": "2023-11-23T03:25:25.000Z",
+            "date_published": "2020-12-07T21:19:53.000Z",
+            "author": {
+                "name": "oprypin",
+                "url": "https://github.com/oprypin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to specify the navigation in Markdown instead of YAML</div>",
+            "url": "https://github.com/oprypin/mkdocs-literate-nav",
+            "title": "oprypin/mkdocs-literate-nav: MkDocs plugin to specify the navigation in Markdown instead of YAML",
+            "date_modified": "2023-11-20T19:04:35.000Z",
+            "date_published": "2020-04-26T17:38:52.000Z",
+            "author": {
+                "name": "oprypin",
+                "url": "https://github.com/oprypin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9692741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hatch plugin to integrate MkDocs and infer dependencies into an env</div>",
+            "url": "https://github.com/mkdocs/hatch-mkdocs",
+            "title": "mkdocs/hatch-mkdocs: Hatch plugin to integrate MkDocs and infer dependencies into an env",
+            "date_modified": "2023-11-21T02:52:16.000Z",
+            "date_published": "2023-11-20T17:51:44.000Z",
+            "author": {
+                "name": "mkdocs",
+                "url": "https://github.com/mkdocs"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76561516?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for minification using minify-html, an extremely fast HTML + JS + CSS minifier.</div>",
             "url": "https://github.com/monosans/mkdocs-minify-html-plugin",
             "title": "monosans/mkdocs-minify-html-plugin: MkDocs plugin for minification using minify-html, an extremely fast HTML + JS + CSS minifier.",
@@ -127,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/371383?u=15bebff6355ea30ca42820fd1c775466ddd85b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to specify the navigation in Markdown instead of YAML</div>",
-            "url": "https://github.com/oprypin/mkdocs-literate-nav",
-            "title": "oprypin/mkdocs-literate-nav: MkDocs plugin to specify the navigation in Markdown instead of YAML",
-            "date_modified": "2023-11-20T19:04:35.000Z",
-            "date_published": "2020-04-26T17:38:52.000Z",
-            "author": {
-                "name": "oprypin",
-                "url": "https://github.com/oprypin"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107352364?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository containing all github actions needed for the plugin</div>",
             "url": "https://github.com/ObsidianPublisher/actions",
             "title": "ObsidianPublisher/actions: Repository containing all github actions needed for the plugin",
@@ -160,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9692741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hatch plugin to integrate MkDocs and infer dependencies into an env</div>",
-            "url": "https://github.com/mkdocs/hatch-mkdocs",
-            "title": "mkdocs/hatch-mkdocs: Hatch plugin to integrate MkDocs and infer dependencies into an env",
-            "date_modified": "2023-11-21T02:52:16.000Z",
-            "date_published": "2023-11-20T17:51:44.000Z",
-            "author": {
-                "name": "mkdocs",
-                "url": "https://github.com/mkdocs"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9692741?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extra command for MkDocs that infers required PyPI packages from `plugins` in mkdocs.yml</div>",
             "url": "https://github.com/mkdocs/get-deps",
             "title": "mkdocs/get-deps: An extra command for MkDocs that infers required PyPI packages from `plugins` in mkdocs.yml",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "pawamoy",
                 "url": "https://github.com/pawamoy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28429?u=161f22c8b12f9160d8e6089b43fab78f7f31f755&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mkdocs plugin to minify the HTML of a page before it is written to disk.</div>",
-            "url": "https://github.com/byrnereese/mkdocs-minify-plugin",
-            "title": "byrnereese/mkdocs-minify-plugin: A mkdocs plugin to minify the HTML of a page before it is written to disk.",
-            "date_modified": "2023-11-23T01:54:50.000Z",
-            "date_published": "2018-12-19T16:35:00.000Z",
-            "author": {
-                "name": "byrnereese",
-                "url": "https://github.com/byrnereese"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73690588?u=63bd380254bcbee31ca2dfabb47ee9ee3cdb4da1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to add captions and easy element numbering</div>",
-            "url": "https://github.com/tobiasah/mkdocs-caption",
-            "title": "tobiasah/mkdocs-caption: MkDocs plugin to add captions and easy element numbering",
-            "date_modified": "2023-08-31T05:12:42.000Z",
-            "date_published": "2023-06-05T14:16:51.000Z",
-            "author": {
-                "name": "tobiasah",
-                "url": "https://github.com/tobiasah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26833451?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for Ultralytics Docs at <a href=\"https://docs.ultralytics.com\" rel=\"nofollow\">https://docs.ultralytics.com</a></div>",
-            "url": "https://github.com/ultralytics/mkdocs",
-            "title": "ultralytics/mkdocs: MkDocs plugin for Ultralytics Docs at https://docs.ultralytics.com",
-            "date_modified": "2023-11-20T01:26:11.000Z",
-            "date_published": "2023-05-08T15:33:57.000Z",
-            "author": {
-                "name": "ultralytics",
-                "url": "https://github.com/ultralytics"
             }
         }
     ]
