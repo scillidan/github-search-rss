@@ -6,10 +6,10 @@
     "description": "mpv on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22269254?u=6a3763cc0c4d7f3258fb1d0fac632844f675d054&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于mpv player/mpv_lazy重新组装（Repack based on mpv player/mpv_lazy）</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22269254?u=6a3763cc0c4d7f3258fb1d0fac632844f675d054&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于mpv player，mpv_lazy，dyphire/mpv-config重新组装</div>",
             "url": "https://github.com/redomCL/mpv_fruit",
-            "title": "redomCL/mpv_fruit: 基于mpv player/mpv_lazy重新组装（Repack based on mpv player/mpv_lazy）",
-            "date_modified": "2023-11-29T05:55:18.000Z",
+            "title": "redomCL/mpv_fruit: 基于mpv player，mpv_lazy，dyphire/mpv-config重新组装",
+            "date_modified": "2023-11-29T08:12:57.000Z",
             "date_published": "2023-08-07T11:54:19.000Z",
             "author": {
                 "name": "redomCL",
@@ -17,14 +17,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2023-11-29T08:08:40.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6039281?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sfvip All wraps Sfvip Player with a local proxy that inserts an All category into Live, Series and Vod. So you can easily search your entire catalog. It also updates mpv player dll so you can enjoy its lastest features.</div>",
+            "url": "https://github.com/sebdelsol/sfvip-all",
+            "title": "sebdelsol/sfvip-all: Sfvip All wraps Sfvip Player with a local proxy that inserts an All category into Live, Series and Vod. So you can easily search your entire catalog. It also updates mpv player dll so you can enjoy its lastest features.",
+            "date_modified": "2023-11-28T22:05:38.000Z",
+            "date_published": "2023-05-03T13:26:28.000Z",
             "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
+                "name": "sebdelsol",
+                "url": "https://github.com/sebdelsol"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/523980?u=6102fe7f47d601e63ebf15559815e21f06d71f66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>libmpv bindings for macOS, iOS, iPadOS and tvOS in Swift</div>",
+            "url": "https://github.com/karelrooted/MPVKit",
+            "title": "karelrooted/MPVKit: libmpv bindings for macOS, iOS, iPadOS and tvOS in Swift",
+            "date_modified": "2023-11-29T08:37:28.000Z",
+            "date_published": "2023-10-30T14:46:08.000Z",
+            "author": {
+                "name": "karelrooted",
+                "url": "https://github.com/karelrooted"
             }
         },
         {
@@ -36,6 +47,17 @@
             "author": {
                 "name": "MartinEesmaa",
                 "url": "https://github.com/MartinEesmaa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2023-11-29T08:08:40.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
             }
         },
         {
@@ -182,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6039281?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sfvip All wraps Sfvip Player with a local proxy that inserts an All category into Live, Series and Vod. So you can easily search your entire catalog. It also updates mpv player dll so you can enjoy its lastest features.</div>",
-            "url": "https://github.com/sebdelsol/sfvip-all",
-            "title": "sebdelsol/sfvip-all: Sfvip All wraps Sfvip Player with a local proxy that inserts an All category into Live, Series and Vod. So you can easily search your entire catalog. It also updates mpv player dll so you can enjoy its lastest features.",
-            "date_modified": "2023-11-28T22:05:38.000Z",
-            "date_published": "2023-05-03T13:26:28.000Z",
-            "author": {
-                "name": "sebdelsol",
-                "url": "https://github.com/sebdelsol"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25811902?u=d2263328e852345e06b43209ea1b1f801530af29&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models</div>",
             "url": "https://github.com/the-database/mpv-upscale-2x_animejanai",
             "title": "the-database/mpv-upscale-2x_animejanai: Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18583292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>#mpv-android @ libera.chat</div>",
             "url": "https://github.com/mpv-android/mpv-android",
             "title": "mpv-android/mpv-android: #mpv-android @ libera.chat",
-            "date_modified": "2023-11-29T05:38:22.000Z",
+            "date_modified": "2023-11-29T08:58:50.000Z",
             "date_published": "2016-04-20T21:29:44.000Z",
             "author": {
                 "name": "mpv-android",
                 "url": "https://github.com/mpv-android"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14312869?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MpvQt is a libmpv wrapper for QtQuick2 and QML</div>",
-            "url": "https://github.com/KDE/mpvqt",
-            "title": "KDE/mpvqt: MpvQt is a libmpv wrapper for QtQuick2 and QML",
-            "date_modified": "2023-09-25T03:29:03.000Z",
-            "date_published": "2023-08-25T19:10:31.000Z",
-            "author": {
-                "name": "KDE",
-                "url": "https://github.com/KDE"
             }
         }
     ]
