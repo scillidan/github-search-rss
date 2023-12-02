@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>model merge extention for stable diffusion web ui</div>",
+            "url": "https://github.com/hako-mikan/sd-webui-supermerger",
+            "title": "hako-mikan/sd-webui-supermerger: model merge extention for stable diffusion web ui",
+            "date_modified": "2023-12-01T05:13:44.000Z",
+            "date_published": "2023-01-18T13:20:58.000Z",
+            "author": {
+                "name": "hako-mikan",
+                "url": "https://github.com/hako-mikan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6293935?u=7a01bfacb718f3b90c44b9eee020eb4647201b8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion WebUI extension to send content to the negative prompt from wildcards on the prompt.</div>",
+            "url": "https://github.com/acorderob/sd-webui-prompt-postprocessor",
+            "title": "acorderob/sd-webui-prompt-postprocessor: Stable Diffusion WebUI extension to send content to the negative prompt from wildcards on the prompt.",
+            "date_modified": "2023-12-02T10:20:15.000Z",
+            "date_published": "2023-05-13T19:08:52.000Z",
+            "author": {
+                "name": "acorderob",
+                "url": "https://github.com/acorderob"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127380484?u=fb2ed1a1e78fdfba4ca43087a2245327a2974add&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/RunawayOrange/SD-WebUI-Localization_ZH_CN",
             "title": "RunawayOrange/SD-WebUI-Localization_ZH_CN",
@@ -28,17 +50,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>model merge extention for stable diffusion web ui</div>",
-            "url": "https://github.com/hako-mikan/sd-webui-supermerger",
-            "title": "hako-mikan/sd-webui-supermerger: model merge extention for stable diffusion web ui",
-            "date_modified": "2023-12-01T05:13:44.000Z",
-            "date_published": "2023-01-18T13:20:58.000Z",
-            "author": {
-                "name": "hako-mikan",
-                "url": "https://github.com/hako-mikan"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117971281?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a1111/webui client for nodejs/browser</div>",
             "url": "https://github.com/StableCanvas/sd-webui-a1111-client",
             "title": "StableCanvas/sd-webui-a1111-client: a1111/webui client for nodejs/browser",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95403634?u=52a7ad1cd813d1d1a25740ac5f3999a298a73848&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple extension for the Stable Diffusion WebUI that adds a breadcrumb trail and improves the Quicksettings menu.</div>",
             "url": "https://github.com/ThereforeGames/sd-webui-breadcrumbs",
             "title": "ThereforeGames/sd-webui-breadcrumbs: A simple extension for the Stable Diffusion WebUI that adds a breadcrumb trail and improves the Quicksettings menu.",
-            "date_modified": "2023-12-02T10:05:05.000Z",
+            "date_modified": "2023-12-02T10:20:27.000Z",
             "date_published": "2023-12-01T15:40:17.000Z",
             "author": {
                 "name": "ThereforeGames",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Segment Anything for Stable Diffusion WebUI</div>",
             "url": "https://github.com/continue-revolution/sd-webui-segment-anything",
             "title": "continue-revolution/sd-webui-segment-anything: Segment Anything for Stable Diffusion WebUI",
-            "date_modified": "2023-12-02T04:55:45.000Z",
+            "date_modified": "2023-12-02T10:53:09.000Z",
             "date_published": "2023-04-10T13:52:55.000Z",
             "author": {
                 "name": "continue-revolution",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "thisjam",
                 "url": "https://github.com/thisjam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12066768?u=5ebd8294103633c8526ed3aff6b5852dca253dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project is an independent version of sd-webui-prompt-all-in-one that does not require the stable-diffusion-webui environment. It allows you to write and maintain your prompts in a web interface.本项目是 sd-webui-prompt-all-in-one 的独立版本，它不需要依赖 stable-diffusion-webui 环境，即可在网页中编写和维护你的提示词。</div>",
-            "url": "https://github.com/Physton/sd-webui-prompt-all-in-one-app",
-            "title": "Physton/sd-webui-prompt-all-in-one-app: This project is an independent version of sd-webui-prompt-all-in-one that does not require the stable-diffusion-webui environment. It allows you to write and maintain your prompts in a web interface.本项目是 sd-webui-prompt-all-in-one 的独立版本，它不需要依赖 stable-diffusion-webui 环境，即可在网页中编写和维护你的提示词。",
-            "date_modified": "2023-12-01T16:29:40.000Z",
-            "date_published": "2023-11-07T03:10:03.000Z",
-            "author": {
-                "name": "Physton",
-                "url": "https://github.com/Physton"
             }
         }
     ]
