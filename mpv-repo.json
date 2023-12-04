@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84926938?u=796676b4e43ddc37807771c2f3cdbd7d5e3d03ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross Compile MPV Win64 On Archlinux Docker</div>",
+            "url": "https://github.com/eko5624/mpv-winbuild",
+            "title": "eko5624/mpv-winbuild: Cross Compile MPV Win64 On Archlinux Docker",
+            "date_modified": "2023-09-08T16:11:21.000Z",
+            "date_published": "2023-07-29T13:23:28.000Z",
+            "author": {
+                "name": "eko5624",
+                "url": "https://github.com/eko5624"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2023-12-04T07:39:56.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9623615?u=6bc92bc0db35022227a3730d8644d1ef06e3f0d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CMake-based MinGW-w64 Cross Toolchain </div>",
+            "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
+            "title": "shinchiro/mpv-winbuild-cmake:  CMake-based MinGW-w64 Cross Toolchain ",
+            "date_modified": "2023-12-03T00:57:27.000Z",
+            "date_published": "2018-07-15T11:58:39.000Z",
+            "author": {
+                "name": "shinchiro",
+                "url": "https://github.com/shinchiro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16839187?u=864a6721f5b188987a6dace1b0d6bbbb21066bda&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mirror of <a href=\"https://git.korhonen.cc/FunctionalHacker/dotfiles\" rel=\"nofollow\">https://git.korhonen.cc/FunctionalHacker/dotfiles</a></div>",
+            "url": "https://github.com/FunctionalHacker/dotfiles",
+            "title": "FunctionalHacker/dotfiles: Mirror of https://git.korhonen.cc/FunctionalHacker/dotfiles",
+            "date_modified": "2023-05-31T02:43:56.000Z",
+            "date_published": "2019-06-19T08:16:11.000Z",
+            "author": {
+                "name": "FunctionalHacker",
+                "url": "https://github.com/FunctionalHacker"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11410540?u=39b03018cdc31df9117e893615b92ebbcbabc0c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of awesome mpv resources.</div>",
             "url": "https://github.com/stax76/awesome-mpv",
             "title": "stax76/awesome-mpv: A curated list of awesome mpv resources.",
@@ -149,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2023-12-04T07:39:56.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44363049?u=993164904fd4366d964ef35780fc9fe6466bc969&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Desktop server component for SpMp. Uses MPV for audio streaming and playback. Currently in-progress and mostly not functional.</div>",
             "url": "https://github.com/toasterofbread/spmp-server",
             "title": "toasterofbread/spmp-server: Desktop server component for SpMp. Uses MPV for audio streaming and playback. Currently in-progress and mostly not functional.",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Ultra-Code",
                 "url": "https://github.com/Ultra-Code"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47739558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>libmpv based application for quality control of videos</div>",
-            "url": "https://github.com/mpvqc/mpvQC",
-            "title": "mpvqc/mpvQC: libmpv based application for quality control of videos",
-            "date_modified": "2023-11-30T08:24:32.000Z",
-            "date_published": "2016-02-03T15:21:54.000Z",
-            "author": {
-                "name": "mpvqc",
-                "url": "https://github.com/mpvqc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95031751?u=c85ed205ea716b92b517830048f0f7c1a5387bd2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>the simple cli radio written in go</div>",
-            "url": "https://github.com/neptunsk1y/goradio",
-            "title": "neptunsk1y/goradio: the simple cli radio written in go",
-            "date_modified": "2023-12-03T18:21:42.000Z",
-            "date_published": "2023-11-17T12:45:27.000Z",
-            "author": {
-                "name": "neptunsk1y",
-                "url": "https://github.com/neptunsk1y"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98917903?u=bdf0ba599eab572f7cf7ebdb0c883e007eed2822&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic mpv TUI wrapper for playing internet radio stations.</div>",
-            "url": "https://github.com/glyphek/cradio",
-            "title": "glyphek/cradio: Basic mpv TUI wrapper for playing internet radio stations.",
-            "date_modified": "2023-01-15T08:46:18.000Z",
-            "date_published": "2023-01-15T08:44:32.000Z",
-            "author": {
-                "name": "glyphek",
-                "url": "https://github.com/glyphek"
             }
         }
     ]
