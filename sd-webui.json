@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129350308?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SD-WebUI 简体中文翻译扩展 Simplified Chinese Localization for AUTOMATIC1111 Stable Diffusion WebUI</div>",
+            "url": "https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans",
+            "title": "hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans: SD-WebUI 简体中文翻译扩展 Simplified Chinese Localization for AUTOMATIC1111 Stable Diffusion WebUI",
+            "date_modified": "2023-12-02T19:59:57.000Z",
+            "date_published": "2023-02-25T04:48:34.000Z",
+            "author": {
+                "name": "hanamizuki-ai",
+                "url": "https://github.com/hanamizuki-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93578501?u=78e2643dcbcc8ac7b1ead903d0aabfc5336d7ac0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>stable-diffusion-webui on SageMaker</div>",
+            "url": "https://github.com/anxety-solo/sd-webui-sagemaker",
+            "title": "anxety-solo/sd-webui-sagemaker: stable-diffusion-webui on SageMaker",
+            "date_modified": "2023-11-28T23:40:35.000Z",
+            "date_published": "2023-08-16T12:08:41.000Z",
+            "author": {
+                "name": "anxety-solo",
+                "url": "https://github.com/anxety-solo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 Feature Edit with sliders</div>",
             "url": "https://github.com/aigc-apps/sd-webui-sliders",
             "title": "aigc-apps/sd-webui-sliders: 📷 Feature Edit with sliders",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
             "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
             "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
-            "date_modified": "2023-12-04T07:02:55.000Z",
+            "date_modified": "2023-12-04T07:41:10.000Z",
             "date_published": "2023-08-28T10:46:27.000Z",
             "author": {
                 "name": "aigc-apps",
@@ -50,10 +72,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5585984?u=9eabe32e7572fd4afb184cda7b7283a433161cdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A \"loopback on steroids\" type of extension for the Stable Diffusion Web UI.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5585984?u=9eabe32e7572fd4afb184cda7b7283a433161cdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A \"loopback on steroids\" type of extension for Stable Diffusion Web UI.</div>",
             "url": "https://github.com/Iniquitatis/sd-webui-temporal",
-            "title": "Iniquitatis/sd-webui-temporal: A \"loopback on steroids\" type of extension for the Stable Diffusion Web UI.",
-            "date_modified": "2023-11-19T20:18:20.000Z",
+            "title": "Iniquitatis/sd-webui-temporal: A \"loopback on steroids\" type of extension for Stable Diffusion Web UI.",
+            "date_modified": "2023-12-04T08:11:51.000Z",
             "date_published": "2023-10-15T18:49:12.000Z",
             "author": {
                 "name": "Iniquitatis",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "John-WL",
                 "url": "https://github.com/John-WL"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7458082?u=a1f1f912b4f91a15cf61c608bb1b897f9c8989b5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Script that help you generate a batch of Lora, using same prompt &amp; settings.  Helpful for compare Lora, Or just switching Lora easily without switch tab.</div>",
-            "url": "https://github.com/Yinzo/sd-webui-Lora-queue-helper",
-            "title": "Yinzo/sd-webui-Lora-queue-helper: A Script that help you generate a batch of Lora, using same prompt & settings.  Helpful for compare Lora, Or just switching Lora easily without switch tab.",
-            "date_modified": "2023-12-02T00:06:04.000Z",
-            "date_published": "2023-11-25T13:17:02.000Z",
-            "author": {
-                "name": "Yinzo",
-                "url": "https://github.com/Yinzo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6293935?u=7a01bfacb718f3b90c44b9eee020eb4647201b8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion WebUI extension to send content to the negative prompt from wildcards on the prompt.</div>",
-            "url": "https://github.com/acorderob/sd-webui-prompt-postprocessor",
-            "title": "acorderob/sd-webui-prompt-postprocessor: Stable Diffusion WebUI extension to send content to the negative prompt from wildcards on the prompt.",
-            "date_modified": "2023-12-02T10:20:15.000Z",
-            "date_published": "2023-05-13T19:08:52.000Z",
-            "author": {
-                "name": "acorderob",
-                "url": "https://github.com/acorderob"
             }
         }
     ]
