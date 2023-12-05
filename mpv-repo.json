@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42556436?u=caca17f481148e6c2a5f548c2f60080765cf82f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Music player (fzf + mpv) designed for screen-less, numpad-controlled playback on the Raspberry Pi for car and home stereo use. 🐡🐧 </div>",
+            "url": "https://github.com/speguero/rpmp",
+            "title": "speguero/rpmp: Music player (fzf + mpv) designed for screen-less, numpad-controlled playback on the Raspberry Pi for car and home stereo use. 🐡🐧 ",
+            "date_modified": "2023-11-24T17:16:26.000Z",
+            "date_published": "2023-11-24T17:14:20.000Z",
+            "author": {
+                "name": "speguero",
+                "url": "https://github.com/speguero"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6039281?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sfvip All wraps Sfvip Player with a local proxy that inserts an All category into Live, Series and Vod. So you can easily search your entire catalog. It also updates mpv player dll so you can enjoy its lastest features.</div>",
+            "url": "https://github.com/sebdelsol/sfvip-all",
+            "title": "sebdelsol/sfvip-all: Sfvip All wraps Sfvip Player with a local proxy that inserts an All category into Live, Series and Vod. So you can easily search your entire catalog. It also updates mpv player dll so you can enjoy its lastest features.",
+            "date_modified": "2023-11-29T09:16:40.000Z",
+            "date_published": "2023-05-03T13:26:28.000Z",
+            "author": {
+                "name": "sebdelsol",
+                "url": "https://github.com/sebdelsol"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42556436?u=caca17f481148e6c2a5f548c2f60080765cf82f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Music player (fzf + mpv) designed for screen-less, numpad-controlled playback on the Raspberry Pi for car and home stereo use. 🐡🐧</div>",
+            "url": "https://github.com/speguero/pimp",
+            "title": "speguero/pimp: Music player (fzf + mpv) designed for screen-less, numpad-controlled playback on the Raspberry Pi for car and home stereo use. 🐡🐧",
+            "date_modified": "2023-09-21T04:46:35.000Z",
+            "date_published": "2022-12-04T02:15:41.000Z",
+            "author": {
+                "name": "speguero",
+                "url": "https://github.com/speguero"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22550919?u=2b1184414c5c3a9960017707b084f75398a8cb3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.</div>",
+            "url": "https://github.com/BazzaCuda/MinimalistMediaPlayerX",
+            "title": "BazzaCuda/MinimalistMediaPlayerX: An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.",
+            "date_modified": "2023-12-04T14:46:59.000Z",
+            "date_published": "2023-07-08T16:26:50.000Z",
+            "author": {
+                "name": "BazzaCuda",
+                "url": "https://github.com/BazzaCuda"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/408915?u=0912c32a0c0ce1b2ecfccd1df0b54f89b33d529b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Video playback Effects/Filters (DirectX .hlsl pixel shaders, mpv .hook)</div>",
             "url": "https://github.com/butterw/bShaders",
             "title": "butterw/bShaders: Video playback Effects/Filters (DirectX .hlsl pixel shaders, mpv .hook)",
@@ -152,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54144015?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.</div>",
             "url": "https://github.com/m-ab-s/media-autobuild_suite",
             "title": "m-ab-s/media-autobuild_suite: This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.",
-            "date_modified": "2023-12-03T20:07:29.000Z",
+            "date_modified": "2023-12-05T00:20:57.000Z",
             "date_published": "2013-09-28T20:07:11.000Z",
             "author": {
                 "name": "m-ab-s",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "ThomasStock",
                 "url": "https://github.com/ThomasStock"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84926938?u=796676b4e43ddc37807771c2f3cdbd7d5e3d03ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross Compile MPV Win64 On Archlinux Docker</div>",
-            "url": "https://github.com/eko5624/mpv-winbuild",
-            "title": "eko5624/mpv-winbuild: Cross Compile MPV Win64 On Archlinux Docker",
-            "date_modified": "2023-09-08T16:11:21.000Z",
-            "date_published": "2023-07-29T13:23:28.000Z",
-            "author": {
-                "name": "eko5624",
-                "url": "https://github.com/eko5624"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22550919?u=2b1184414c5c3a9960017707b084f75398a8cb3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.</div>",
-            "url": "https://github.com/BazzaCuda/MinimalistMediaPlayerX",
-            "title": "BazzaCuda/MinimalistMediaPlayerX: An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.",
-            "date_modified": "2023-12-04T14:46:59.000Z",
-            "date_published": "2023-07-08T16:26:50.000Z",
-            "author": {
-                "name": "BazzaCuda",
-                "url": "https://github.com/BazzaCuda"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50035498?u=d41946e4d7523ed5cf9bf33c4bbb3157d20ba98e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款采用electron编写的阿里云盘第三方客户端</div>",
-            "url": "https://github.com/odomu/aliyunpan",
-            "title": "odomu/aliyunpan: 一款采用electron编写的阿里云盘第三方客户端",
-            "date_modified": "2023-12-04T18:57:38.000Z",
-            "date_published": "2023-02-24T04:58:41.000Z",
-            "author": {
-                "name": "odomu",
-                "url": "https://github.com/odomu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149047?u=7f451beec35c7bf72ca64e7adcc0e3966d6267fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official mirror of libplacebo</div>",
-            "url": "https://github.com/haasn/libplacebo",
-            "title": "haasn/libplacebo: Official mirror of libplacebo",
-            "date_modified": "2023-12-04T10:11:58.000Z",
-            "date_published": "2017-10-07T06:00:38.000Z",
-            "author": {
-                "name": "haasn",
-                "url": "https://github.com/haasn"
             }
         }
     ]
