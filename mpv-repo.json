@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49844515?u=5ff834074f873a39a656a3d7d665ccf148ad03e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modular script for translating subtitles on the fly into multiple languages.</div>",
+            "url": "https://github.com/EnergoStalin/subtitle-translate-mpv",
+            "title": "EnergoStalin/subtitle-translate-mpv: Modular script for translating subtitles on the fly into multiple languages.",
+            "date_modified": "2023-10-30T00:35:33.000Z",
+            "date_published": "2022-07-28T00:16:54.000Z",
+            "author": {
+                "name": "EnergoStalin",
+                "url": "https://github.com/EnergoStalin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11783568?u=942dc66aa58cabbcf4640fdc5837e98f5c11060d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Select a playlist entry, track, chapter, or subtitle line to seek to in mpv's console</div>",
+            "url": "https://github.com/guidocella/mpv-console-select",
+            "title": "guidocella/mpv-console-select: Select a playlist entry, track, chapter, or subtitle line to seek to in mpv's console",
+            "date_modified": "2023-12-16T17:21:30.000Z",
+            "date_published": "2023-12-16T17:17:45.000Z",
+            "author": {
+                "name": "guidocella",
+                "url": "https://github.com/guidocella"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11783568?u=942dc66aa58cabbcf4640fdc5837e98f5c11060d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lua REPL in mpv's console</div>",
+            "url": "https://github.com/guidocella/mpv-lua-repl",
+            "title": "guidocella/mpv-lua-repl: Lua REPL in mpv's console",
+            "date_modified": "2023-12-16T17:21:26.000Z",
+            "date_published": "2023-12-16T17:13:29.000Z",
+            "author": {
+                "name": "guidocella",
+                "url": "https://github.com/guidocella"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2023-12-16T17:22:13.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9623615?u=6bc92bc0db35022227a3730d8644d1ef06e3f0d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CMake-based MinGW-w64 Cross Toolchain </div>",
             "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
             "title": "shinchiro/mpv-winbuild-cmake:  CMake-based MinGW-w64 Cross Toolchain ",
@@ -50,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2023-12-16T11:32:46.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104710750?u=83fee020df1e3f88fd36b4ea3aeb664fddd33327&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv conf for mpv</div>",
             "url": "https://github.com/Aruh1/mpv-config",
             "title": "Aruh1/mpv-config: mpv conf for mpv",
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Desktop Jellyfin Client made with Rust 🦀 and React ⚛️ [WIP]</div>",
             "url": "https://github.com/prayag17/JellyPlayer",
             "title": "prayag17/JellyPlayer: Modern Desktop Jellyfin Client made with Rust :crab: and React :atom_symbol: [WIP]",
-            "date_modified": "2023-12-14T23:38:04.000Z",
+            "date_modified": "2023-12-16T17:17:47.000Z",
             "date_published": "2022-03-05T14:56:10.000Z",
             "author": {
                 "name": "prayag17",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "GrzegorzKozub",
                 "url": "https://github.com/GrzegorzKozub"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Package scripts for MPV build under MSYS2.</div>",
-            "url": "https://github.com/dragonflylee/mingw-packages",
-            "title": "dragonflylee/mingw-packages: Package scripts for MPV build under MSYS2.",
-            "date_modified": "2023-10-16T07:25:00.000Z",
-            "date_published": "2023-09-26T06:38:19.000Z",
-            "author": {
-                "name": "dragonflylee",
-                "url": "https://github.com/dragonflylee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88035011?u=771cea357aa512c0b4c15a2641fa6fb0e4a6f871&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VVCEasy is that you don't have to compile or/and coding to encode VVC (known as Versatile Video Codec). Simple. Easy. Encode. Decode</div>",
-            "url": "https://github.com/MartinEesmaa/VVCEasy",
-            "title": "MartinEesmaa/VVCEasy: VVCEasy is that you don't have to compile or/and coding to encode VVC (known as Versatile Video Codec). Simple. Easy. Encode. Decode",
-            "date_modified": "2023-12-07T04:32:02.000Z",
-            "date_published": "2021-10-20T03:37:55.000Z",
-            "author": {
-                "name": "MartinEesmaa",
-                "url": "https://github.com/MartinEesmaa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89104690?u=931e116c9a1f7b922144ab57216a1cea1f335a28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>manage playlists for mpv in your Linux terminal</div>",
-            "url": "https://github.com/archusXIV/mpv-playlists-manager",
-            "title": "archusXIV/mpv-playlists-manager: manage playlists for mpv in your Linux terminal",
-            "date_modified": "2023-10-15T01:27:22.000Z",
-            "date_published": "2022-07-24T08:26:31.000Z",
-            "author": {
-                "name": "archusXIV",
-                "url": "https://github.com/archusXIV"
             }
         }
     ]
