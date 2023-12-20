@@ -6,14 +6,36 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86226565?u=662ef7ff9e3fcf26aec51df1c52c064ba061382d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian Plugin that allows you to define workflows with tasks that include prompts. Supports any API designed in the same way as OpenAI. (OpenAI, Perplexity Supported)</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86226565?u=662ef7ff9e3fcf26aec51df1c52c064ba061382d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Workflow is an obsidian plugin that allows you to create and run connected LLM workflows. Each workflow consists of multiple tasks that run sequentially with different LLM Identities.</div>",
             "url": "https://github.com/fauzaanu/workflow",
-            "title": "fauzaanu/workflow: Obsidian Plugin that allows you to define workflows with tasks that include prompts. Supports any API designed in the same way as OpenAI. (OpenAI, Perplexity Supported)",
-            "date_modified": "2023-12-20T19:34:45.000Z",
+            "title": "fauzaanu/workflow: Workflow is an obsidian plugin that allows you to create and run connected LLM workflows. Each workflow consists of multiple tasks that run sequentially with different LLM Identities.",
+            "date_modified": "2023-12-20T22:44:24.000Z",
             "date_published": "2023-12-19T17:44:16.000Z",
             "author": {
                 "name": "fauzaanu",
                 "url": "https://github.com/fauzaanu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5432713?u=a584f9f795e3e8a5b0e4d40f2a49d34c51a16bd8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian canvas plugin for using AI completion with threads of canvas nodes</div>",
+            "url": "https://github.com/rpggio/obsidian-chat-stream",
+            "title": "rpggio/obsidian-chat-stream: Obsidian canvas plugin for using AI completion with threads of canvas nodes",
+            "date_modified": "2023-12-19T14:38:06.000Z",
+            "date_published": "2023-04-29T02:55:22.000Z",
+            "author": {
+                "name": "rpggio",
+                "url": "https://github.com/rpggio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29898683?u=8670a0fea50996b496103b3d0efe8da185154ee0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an Obsidian plugin that works as a simple planner for personal use.</div>",
+            "url": "https://github.com/pjkaufman/obsidian-simple-planner",
+            "title": "pjkaufman/obsidian-simple-planner: This is an Obsidian plugin that works as a simple planner for personal use.",
+            "date_modified": "2023-11-28T00:58:34.000Z",
+            "date_published": "2023-11-28T00:58:27.000Z",
+            "author": {
+                "name": "pjkaufman",
+                "url": "https://github.com/pjkaufman"
             }
         },
         {
@@ -91,17 +113,6 @@
             "author": {
                 "name": "dbrockman",
                 "url": "https://github.com/dbrockman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29898683?u=8670a0fea50996b496103b3d0efe8da185154ee0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an Obsidian plugin that works as a simple planner for personal use.</div>",
-            "url": "https://github.com/pjkaufman/obsidian-simple-planner",
-            "title": "pjkaufman/obsidian-simple-planner: This is an Obsidian plugin that works as a simple planner for personal use.",
-            "date_modified": "2023-11-28T00:58:34.000Z",
-            "date_published": "2023-11-28T00:58:27.000Z",
-            "author": {
-                "name": "pjkaufman",
-                "url": "https://github.com/pjkaufman"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "zabojeb",
                 "url": "https://github.com/zabojeb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/509387?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple plugin to create Notes from a template, and fill in fields defined there</div>",
-            "url": "https://github.com/mo-seph/obsidian-note-from-template",
-            "title": "mo-seph/obsidian-note-from-template: Simple plugin to create Notes from a template, and fill in fields defined there",
-            "date_modified": "2023-10-26T17:26:06.000Z",
-            "date_published": "2021-08-30T12:55:14.000Z",
-            "author": {
-                "name": "mo-seph",
-                "url": "https://github.com/mo-seph"
             }
         }
     ]
