@@ -72,15 +72,15 @@ export const SEARCH_ITEMS: RSSItem[] = [
         link: `${BASE_URL}/logseq-plugin.json`
     },
     {
-        title: "notion plugin",
-        query: "notion plugin sort:updated-desc",
-        TYPE: "REPOSITORY",
-        link: `${BASE_URL}/notion-plugin.json`
-    },
-    {
         title: "sd-webui",
         query: "sd-webui sort:updated-desc",
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/sd-webui.json`
+    },
+    {
+        title: "anki",
+        query: "anki sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/anki.json`
     },
 ];
