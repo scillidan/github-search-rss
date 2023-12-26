@@ -6,6 +6,28 @@
     "description": "datasette on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1238873?u=fe1506b04debf76241447741b8da2136f2e5e8c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Datasette plugin providing an MLOps platform to train, eval and predict machine learning models</div>",
+            "url": "https://github.com/rclement/datasette-ml",
+            "title": "rclement/datasette-ml: A Datasette plugin providing an MLOps platform to train, eval and predict machine learning models",
+            "date_modified": "2023-07-26T12:52:39.000Z",
+            "date_published": "2023-03-25T11:18:48.000Z",
+            "author": {
+                "name": "rclement",
+                "url": "https://github.com/rclement"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1238873?u=fe1506b04debf76241447741b8da2136f2e5e8c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin providing data dashboards from metadata</div>",
+            "url": "https://github.com/rclement/datasette-dashboards",
+            "title": "rclement/datasette-dashboards: Datasette plugin providing data dashboards from metadata",
+            "date_modified": "2023-12-20T04:02:14.000Z",
+            "date_published": "2021-04-23T21:56:48.000Z",
+            "author": {
+                "name": "rclement",
+                "url": "https://github.com/rclement"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11788561?u=db82f9730165de60d18cbba2f64e1b22a5b7b7d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Database app of links to 6,692 online talk videos by cosmology researchers presenting their work to others in the field. Data is from 205 publicly available sources. Database app is hosted on Google Cloud Run at:</div>",
             "url": "https://github.com/jrdmb/cosmotalks-datasette",
             "title": "jrdmb/cosmotalks-datasette: Database app of links to 6,692 online talk videos by cosmology researchers presenting their work to others in the field. Data is from 205 publicly available sources. Database app is hosted on Google Cloud Run at:",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "dla-marbach",
                 "url": "https://github.com/dla-marbach"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1049910?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adds a reconciliation API endpoint to Datasette, based on the Reconciliation Service API specification.</div>",
-            "url": "https://github.com/drkane/datasette-reconcile",
-            "title": "drkane/datasette-reconcile: Adds a reconciliation API endpoint to Datasette, based on the Reconciliation Service API specification.",
-            "date_modified": "2023-09-13T09:47:09.000Z",
-            "date_published": "2020-10-24T21:41:06.000Z",
-            "author": {
-                "name": "drkane",
-                "url": "https://github.com/drkane"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89756096?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental repository for exploring RO-Crates using Datasette -- ATM this is a generic </div>",
-            "url": "https://github.com/Language-Research-Technology/ro-crate-to-datasette",
-            "title": "Language-Research-Technology/ro-crate-to-datasette: Experimental repository for exploring RO-Crates using Datasette -- ATM this is a generic ",
-            "date_modified": "2023-12-22T00:01:18.000Z",
-            "date_published": "2023-12-20T03:33:31.000Z",
-            "author": {
-                "name": "Language-Research-Technology",
-                "url": "https://github.com/Language-Research-Technology"
             }
         }
     ]
