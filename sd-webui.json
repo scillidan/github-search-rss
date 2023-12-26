@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/963961?u=1d0c1c0868696fd4483f6f550472560b3f7f1b5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checker of \"enable\" statuses in SD Web UI</div>",
+            "url": "https://github.com/shirayu/sd-webui-enable-checker",
+            "title": "shirayu/sd-webui-enable-checker: Checker of \"enable\" statuses in SD Web UI",
+            "date_modified": "2023-11-01T10:35:44.000Z",
+            "date_published": "2023-03-06T13:58:32.000Z",
+            "author": {
+                "name": "shirayu",
+                "url": "https://github.com/shirayu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28695009?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Speed up image generation and improve image quality using Agent Attention.</div>",
             "url": "https://github.com/v0xie/sd-webui-agentattention",
             "title": "v0xie/sd-webui-agentattention: Speed up image generation and improve image quality using Agent Attention.",
@@ -31,11 +42,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136279213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Platform Package Manager for Stable Diffusion</div>",
             "url": "https://github.com/LykosAI/StabilityMatrix",
             "title": "LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion",
-            "date_modified": "2023-12-26T00:22:34.000Z",
+            "date_modified": "2023-12-26T04:35:37.000Z",
             "date_published": "2023-06-13T05:20:38.000Z",
             "author": {
                 "name": "LykosAI",
                 "url": "https://github.com/LykosAI"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
+            "url": "https://github.com/Mikubill/sd-webui-controlnet",
+            "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
+            "date_modified": "2023-12-26T05:02:03.000Z",
+            "date_published": "2023-02-12T16:26:27.000Z",
+            "author": {
+                "name": "Mikubill",
+                "url": "https://github.com/Mikubill"
             }
         },
         {
@@ -86,22 +108,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI</div>",
             "url": "https://github.com/continue-revolution/sd-webui-animatediff",
             "title": "continue-revolution/sd-webui-animatediff: AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI",
-            "date_modified": "2023-12-26T02:43:31.000Z",
+            "date_modified": "2023-12-26T04:57:51.000Z",
             "date_published": "2023-07-18T02:59:45.000Z",
             "author": {
                 "name": "continue-revolution",
                 "url": "https://github.com/continue-revolution"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
-            "url": "https://github.com/Mikubill/sd-webui-controlnet",
-            "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2023-12-25T16:47:30.000Z",
-            "date_published": "2023-02-12T16:26:27.000Z",
-            "author": {
-                "name": "Mikubill",
-                "url": "https://github.com/Mikubill"
             }
         },
         {
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18461506?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.</div>",
             "url": "https://github.com/Tencent/LightDiffusionFlow",
             "title": "Tencent/LightDiffusionFlow: This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.",
-            "date_modified": "2023-12-26T01:24:55.000Z",
+            "date_modified": "2023-12-26T04:26:46.000Z",
             "date_published": "2023-09-18T09:41:35.000Z",
             "author": {
                 "name": "Tencent",
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37621276?u=cd9adbd464534b7ee67ae34ebbbf2b6092a66a7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto detecting, masking and inpainting with detection model.</div>",
             "url": "https://github.com/Bing-su/adetailer",
             "title": "Bing-su/adetailer: Auto detecting, masking and inpainting with detection model.",
-            "date_modified": "2023-12-25T22:24:00.000Z",
+            "date_modified": "2023-12-26T04:21:55.000Z",
             "date_published": "2023-04-26T07:54:51.000Z",
             "author": {
                 "name": "Bing-su",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12066768?u=5ebd8294103633c8526ed3aff6b5852dca253dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。</div>",
             "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
             "title": "Physton/sd-webui-prompt-all-in-one: This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。",
-            "date_modified": "2023-12-26T02:49:14.000Z",
+            "date_modified": "2023-12-26T04:38:21.000Z",
             "date_published": "2023-05-08T12:23:21.000Z",
             "author": {
                 "name": "Physton",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wcde",
                 "url": "https://github.com/wcde"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126076978?u=6ce67716a2954e80c9f4b16bf1423a3879031a2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a samplers scheduler for stable diffusion webui version 1.6.x</div>",
-            "url": "https://github.com/Carzit/sd-webui-samplers-scheduler-for-v1.6",
-            "title": "Carzit/sd-webui-samplers-scheduler-for-v1.6: a samplers scheduler for stable diffusion webui version 1.6.x",
-            "date_modified": "2023-12-03T00:42:11.000Z",
-            "date_published": "2023-11-16T17:00:54.000Z",
-            "author": {
-                "name": "Carzit",
-                "url": "https://github.com/Carzit"
             }
         }
     ]
