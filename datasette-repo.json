@@ -6,6 +6,28 @@
     "description": "datasette on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1238873?u=fe1506b04debf76241447741b8da2136f2e5e8c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Datasette plugin providing an MLOps platform to train, eval and predict machine learning models</div>",
+            "url": "https://github.com/rclement/datasette-ml",
+            "title": "rclement/datasette-ml: A Datasette plugin providing an MLOps platform to train, eval and predict machine learning models",
+            "date_modified": "2023-07-26T12:52:39.000Z",
+            "date_published": "2023-03-25T11:18:48.000Z",
+            "author": {
+                "name": "rclement",
+                "url": "https://github.com/rclement"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13301940?u=70e16e6fe4d0b3b811b27c6d1353ac7648fbaac0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code to package pydata/xarray issue tracker data using Datasette.</div>",
+            "url": "https://github.com/andersy005/xarray-datasette",
+            "title": "andersy005/xarray-datasette: Code to package pydata/xarray issue tracker data using Datasette.",
+            "date_modified": "2024-01-02T01:36:55.000Z",
+            "date_published": "2021-01-10T16:22:47.000Z",
+            "author": {
+                "name": "andersy005",
+                "url": "https://github.com/andersy005"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6523121?u=017448c52d1fee302f9c1f38f12ff60e5a1d0935&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>legal data in machine-readable form</div>",
             "url": "https://github.com/hueyy/lacuna-db",
             "title": "hueyy/lacuna-db: legal data in machine-readable form",
@@ -119,22 +141,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Today I Learned</div>",
             "url": "https://github.com/simonw/til",
             "title": "simonw/til: Today I Learned",
-            "date_modified": "2024-01-02T22:22:18.000Z",
+            "date_modified": "2024-01-03T08:53:25.000Z",
             "date_published": "2020-04-19T14:35:59.000Z",
             "author": {
                 "name": "simonw",
                 "url": "https://github.com/simonw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13301940?u=70e16e6fe4d0b3b811b27c6d1353ac7648fbaac0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code to package pydata/xarray issue tracker data using Datasette.</div>",
-            "url": "https://github.com/andersy005/xarray-datasette",
-            "title": "andersy005/xarray-datasette: Code to package pydata/xarray issue tracker data using Datasette.",
-            "date_modified": "2024-01-02T01:36:55.000Z",
-            "date_published": "2021-01-10T16:22:47.000Z",
-            "author": {
-                "name": "andersy005",
-                "url": "https://github.com/andersy005"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "chris48s/datapackage-to-datasette: 📦 Import Frictionless Data Datapackages into SQLite and generate Datasette metadata",
             "date_modified": "2023-04-13T00:47:53.000Z",
             "date_published": "2019-11-08T20:06:05.000Z",
-            "author": {
-                "name": "chris48s",
-                "url": "https://github.com/chris48s"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6025893?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌍 Import geographic and spatial data from files into a SpatiaLite DB</div>",
-            "url": "https://github.com/chris48s/geometry-to-spatialite",
-            "title": "chris48s/geometry-to-spatialite: 🌍 Import geographic and spatial data from files into a SpatiaLite DB",
-            "date_modified": "2023-03-15T17:13:18.000Z",
-            "date_published": "2019-10-08T21:06:57.000Z",
             "author": {
                 "name": "chris48s",
                 "url": "https://github.com/chris48s"
