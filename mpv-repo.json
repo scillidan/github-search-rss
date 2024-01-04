@@ -6,6 +6,61 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110025665?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Emby/Jellyfin 调用外部本地播放器，并回传播放记录。适配 Plex。</div>",
+            "url": "https://github.com/kjtsune/embyToLocalPlayer",
+            "title": "kjtsune/embyToLocalPlayer: Emby/Jellyfin 调用外部本地播放器，并回传播放记录。适配 Plex。",
+            "date_modified": "2024-01-04T06:15:22.000Z",
+            "date_published": "2022-07-29T13:57:48.000Z",
+            "author": {
+                "name": "kjtsune",
+                "url": "https://github.com/kjtsune"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2024-01-04T11:34:52.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50035498?u=d41946e4d7523ed5cf9bf33c4bbb3157d20ba98e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一款采用electron编写的阿里云盘第三方客户端</div>",
+            "url": "https://github.com/odomu/aliyunpan",
+            "title": "odomu/aliyunpan: 一款采用electron编写的阿里云盘第三方客户端",
+            "date_modified": "2024-01-04T11:10:54.000Z",
+            "date_published": "2023-02-24T04:58:41.000Z",
+            "author": {
+                "name": "odomu",
+                "url": "https://github.com/odomu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40745238?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My config for MPV, works both on Windows and Linux.</div>",
+            "url": "https://github.com/Adiker/MyMPVConfig",
+            "title": "Adiker/MyMPVConfig: My config for MPV, works both on Windows and Linux.",
+            "date_modified": "2024-01-04T13:30:25.000Z",
+            "date_published": "2023-12-28T13:00:39.000Z",
+            "author": {
+                "name": "Adiker",
+                "url": "https://github.com/Adiker"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10797357?u=82ff6e80d065098ec40d112c313cf40f81b87336&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mpv based video wallpaper program for wlroots based wayland compositors. (Video Dynamic Wallpaper for Linux).</div>",
+            "url": "https://github.com/lisuke/qt-mpv-bg-wlr",
+            "title": "lisuke/qt-mpv-bg-wlr: A mpv based video wallpaper program for wlroots based wayland compositors. (Video Dynamic Wallpaper for Linux).",
+            "date_modified": "2024-01-02T14:50:59.000Z",
+            "date_published": "2024-01-02T14:41:50.000Z",
+            "author": {
+                "name": "lisuke",
+                "url": "https://github.com/lisuke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13055788?u=efb2698b26a65b04460831d1f8fd33c71f0acd17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Control your PC with an infrared remote</div>",
             "url": "https://github.com/xunoaib/mpvremote",
             "title": "xunoaib/mpvremote: Control your PC with an infrared remote",
@@ -53,22 +108,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47283320?u=39b71901b18190231b92c1169a8024ad25585001&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Feature-rich minimalist proximity-based UI for MPV player.</div>",
             "url": "https://github.com/tomasklaen/uosc",
             "title": "tomasklaen/uosc: Feature-rich minimalist proximity-based UI for MPV player.",
-            "date_modified": "2024-01-04T12:49:15.000Z",
+            "date_modified": "2024-01-04T13:35:24.000Z",
             "date_published": "2020-03-02T17:57:36.000Z",
             "author": {
                 "name": "tomasklaen",
                 "url": "https://github.com/tomasklaen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2024-01-04T11:34:52.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
             }
         },
         {
@@ -80,6 +124,17 @@
             "author": {
                 "name": "zhongfly",
                 "url": "https://github.com/zhongfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Third-party native Jellyfin client for Nintendo Switch</div>",
+            "url": "https://github.com/dragonflylee/switchfin",
+            "title": "dragonflylee/switchfin: Third-party native Jellyfin client for Nintendo Switch",
+            "date_modified": "2024-01-04T13:23:31.000Z",
+            "date_published": "2023-06-12T08:40:59.000Z",
+            "author": {
+                "name": "dragonflylee",
+                "url": "https://github.com/dragonflylee"
             }
         },
         {
@@ -130,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35151645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The modern video player for macOS.</div>",
             "url": "https://github.com/iina/iina",
             "title": "iina/iina: The modern video player for macOS.",
-            "date_modified": "2024-01-04T11:44:44.000Z",
+            "date_modified": "2024-01-04T14:03:03.000Z",
             "date_published": "2016-12-19T07:18:45.000Z",
             "author": {
                 "name": "iina",
@@ -160,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Third-party native Jellyfin client for Nintendo Switch</div>",
-            "url": "https://github.com/dragonflylee/switchfin",
-            "title": "dragonflylee/switchfin: Third-party native Jellyfin client for Nintendo Switch",
-            "date_modified": "2024-01-03T08:00:42.000Z",
-            "date_published": "2023-06-12T08:40:59.000Z",
-            "author": {
-                "name": "dragonflylee",
-                "url": "https://github.com/dragonflylee"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5115805?u=2f92bb08d8594088b3b931d7711b5f8901e269cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My awesome dotfiles 🚀</div>",
             "url": "https://github.com/deathbeam/dotfiles",
             "title": "deathbeam/dotfiles: My awesome dotfiles :rocket:",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "deathbeam",
                 "url": "https://github.com/deathbeam"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1343411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MPV Player Win64 Auto Build Bot</div>",
-            "url": "https://github.com/nyfair/mpv-win64",
-            "title": "nyfair/mpv-win64: MPV Player Win64 Auto Build Bot",
-            "date_modified": "2023-10-23T06:48:28.000Z",
-            "date_published": "2015-09-23T18:22:27.000Z",
-            "author": {
-                "name": "nyfair",
-                "url": "https://github.com/nyfair"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84926938?u=796676b4e43ddc37807771c2f3cdbd7d5e3d03ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross Compile MPV Win64 On Archlinux Docker</div>",
-            "url": "https://github.com/eko5624/mpv-winbuild",
-            "title": "eko5624/mpv-winbuild: Cross Compile MPV Win64 On Archlinux Docker",
-            "date_modified": "2023-09-08T16:11:21.000Z",
-            "date_published": "2023-07-29T13:23:28.000Z",
-            "author": {
-                "name": "eko5624",
-                "url": "https://github.com/eko5624"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100841561?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎞 mpv.net is a media player for Windows that has a modern GUI.</div>",
-            "url": "https://github.com/mpvnet-player/mpv.net",
-            "title": "mpvnet-player/mpv.net: 🎞 mpv.net is a media player for Windows that has a modern GUI.",
-            "date_modified": "2024-01-04T11:28:48.000Z",
-            "date_published": "2017-08-27T07:36:32.000Z",
-            "author": {
-                "name": "mpvnet-player",
-                "url": "https://github.com/mpvnet-player"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69172625?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Speed up the video if no subtitles are visible.</div>",
-            "url": "https://github.com/Ajatt-Tools/sub-transition",
-            "title": "Ajatt-Tools/sub-transition: Speed up the video if no subtitles are visible.",
-            "date_modified": "2023-12-23T23:45:59.000Z",
-            "date_published": "2022-04-04T18:06:39.000Z",
-            "author": {
-                "name": "Ajatt-Tools",
-                "url": "https://github.com/Ajatt-Tools"
             }
         }
     ]
