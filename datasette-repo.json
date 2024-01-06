@@ -6,6 +6,17 @@
     "description": "datasette on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139249755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Upgrade Datasette instance configuration to handle new features</div>",
+            "url": "https://github.com/datasette/datasette-upgrade",
+            "title": "datasette/datasette-upgrade: Upgrade Datasette instance configuration to handle new features",
+            "date_modified": "2023-10-16T16:00:45.000Z",
+            "date_published": "2023-10-12T22:07:48.000Z",
+            "author": {
+                "name": "datasette",
+                "url": "https://github.com/datasette"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette</div>",
             "url": "https://github.com/simonw/register-of-members-interests-datasette",
             "title": "simonw/register-of-members-interests-datasette: Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "simonw",
                 "url": "https://github.com/simonw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53015001?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Save data from GitHub to a SQLite database</div>",
-            "url": "https://github.com/dogsheep/github-to-sqlite",
-            "title": "dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database",
-            "date_modified": "2024-01-04T16:37:33.000Z",
-            "date_published": "2019-09-08T02:50:28.000Z",
-            "author": {
-                "name": "dogsheep",
-                "url": "https://github.com/dogsheep"
             }
         }
     ]
