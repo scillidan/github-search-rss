@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12228142?u=f32e7157c4de4b5d1fd248fe5f2b0323d8720611&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A multiple cursors plugin for Neovim</div>",
+            "url": "https://github.com/brenton-leighton/multiple-cursors.nvim",
+            "title": "brenton-leighton/multiple-cursors.nvim: A multiple cursors plugin for Neovim",
+            "date_modified": "2023-12-28T21:46:19.000Z",
+            "date_published": "2023-11-09T01:53:40.000Z",
+            "author": {
+                "name": "brenton-leighton",
+                "url": "https://github.com/brenton-leighton"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93373310?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugins for Neovim configuration</div>",
+            "url": "https://github.com/chichieinstein/nvimhelper",
+            "title": "chichieinstein/nvimhelper: Plugins for Neovim configuration",
+            "date_modified": "2024-01-07T23:07:15.000Z",
+            "date_published": "2024-01-03T19:03:12.000Z",
+            "author": {
+                "name": "chichieinstein",
+                "url": "https://github.com/chichieinstein"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18647028?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to help embrace the code smell</div>",
+            "url": "https://github.com/ddl004/poop.nvim",
+            "title": "ddl004/poop.nvim: A neovim plugin to help embrace the code smell",
+            "date_modified": "2024-01-07T15:39:20.000Z",
+            "date_published": "2024-01-03T03:31:31.000Z",
+            "author": {
+                "name": "ddl004",
+                "url": "https://github.com/ddl004"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4452113?u=3bafc7803a7b5dd19bc3aa7241937543e9fed275&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing terminal in neovim</div>",
             "url": "https://github.com/marco-souza/term.nvim",
             "title": "marco-souza/term.nvim: Plugin for managing terminal in neovim",
@@ -14,6 +47,28 @@
             "author": {
                 "name": "marco-souza",
                 "url": "https://github.com/marco-souza"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36500473?u=0179d852a7dfd60301ad002ced470dc169b93034&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that will hide your secret variables.</div>",
+            "url": "https://github.com/Kolkhis/streamer-mode.nvim",
+            "title": "Kolkhis/streamer-mode.nvim: A Neovim plugin that will hide your secret variables.",
+            "date_modified": "2023-09-27T16:27:07.000Z",
+            "date_published": "2023-07-18T17:32:48.000Z",
+            "author": {
+                "name": "Kolkhis",
+                "url": "https://github.com/Kolkhis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4656860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A very simple indent guides plugin.</div>",
+            "url": "https://github.com/gravndal/shiftwidth_leadmultispace.nvim",
+            "title": "gravndal/shiftwidth_leadmultispace.nvim: A very simple indent guides plugin.",
+            "date_modified": "2022-08-05T21:54:45.000Z",
+            "date_published": "2022-08-05T21:37:28.000Z",
+            "author": {
+                "name": "gravndal",
+                "url": "https://github.com/gravndal"
             }
         },
         {
@@ -141,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-01-07T21:19:04.000Z",
+            "date_modified": "2024-01-07T22:26:54.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -163,66 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8759777?u=4f6fa1f7078b6cabee997d0206f1db86ef730ff9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Jump back and forth while being in insert mode</div>",
             "url": "https://github.com/AgusDOLARD/backout.nvim",
             "title": "AgusDOLARD/backout.nvim: Jump back and forth while being in insert mode",
-            "date_modified": "2024-01-07T19:54:55.000Z",
+            "date_modified": "2024-01-07T22:47:34.000Z",
             "date_published": "2023-12-28T22:55:01.000Z",
             "author": {
                 "name": "AgusDOLARD",
                 "url": "https://github.com/AgusDOLARD"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85402600?u=b7b88937a15740b992074dfb4540c9d25b69d278&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to control neopixel-leds connected through an arduino/attiny via usb</div>",
-            "url": "https://github.com/arrowtip/vim-mode-leds.nvim",
-            "title": "arrowtip/vim-mode-leds.nvim: Neovim plugin to control neopixel-leds connected through an arduino/attiny via usb",
-            "date_modified": "2024-01-03T12:57:09.000Z",
-            "date_published": "2023-09-20T16:18:50.000Z",
-            "author": {
-                "name": "arrowtip",
-                "url": "https://github.com/arrowtip"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
-            "title": "LongerHV/neovim-plugins-overlay",
-            "date_modified": "2023-08-20T22:40:05.000Z",
-            "date_published": "2022-12-22T21:42:57.000Z",
-            "author": {
-                "name": "LongerHV",
-                "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63654361?u=ae2ef3fe6a7df789c72f26ce7f84c7f4bd54fd0d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for creating template project structures for various languages</div>",
-            "url": "https://github.com/KDesp73/project-starter.nvim",
-            "title": "KDesp73/project-starter.nvim: A neovim plugin for creating template project structures for various languages",
-            "date_modified": "2023-12-29T07:31:00.000Z",
-            "date_published": "2023-12-21T18:18:59.000Z",
-            "author": {
-                "name": "KDesp73",
-                "url": "https://github.com/KDesp73"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17639831?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configs with LSP feature and minimum needed plugins.</div>",
-            "url": "https://github.com/TheKhanj/nvim",
-            "title": "TheKhanj/nvim: My Neovim configs with LSP feature and minimum needed plugins.",
-            "date_modified": "2024-01-04T14:56:53.000Z",
-            "date_published": "2023-03-14T12:44:33.000Z",
-            "author": {
-                "name": "TheKhanj",
-                "url": "https://github.com/TheKhanj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163699?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</div>",
-            "url": "https://github.com/jackMort/ChatGPT.nvim",
-            "title": "jackMort/ChatGPT.nvim: ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
-            "date_modified": "2024-01-07T20:18:57.000Z",
-            "date_published": "2022-12-10T17:27:28.000Z",
-            "author": {
-                "name": "jackMort",
-                "url": "https://github.com/jackMort"
             }
         }
     ]
