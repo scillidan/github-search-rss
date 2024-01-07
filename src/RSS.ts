@@ -83,4 +83,16 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/anki.json`
     },
+    {
+        title: "vim plugin",
+        query: "vim plugin sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/vim.json`
+    },
+    {
+        title: "nvim plugin",
+        query: "nvim plugin sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/nvim.json`
+    }
 ];
