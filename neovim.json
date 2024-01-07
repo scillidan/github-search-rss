@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "nvim plugin",
-    "home_page_url": "https://scillidan.github.io/github-search-rss/nvim.json",
-    "feed_url": "https://scillidan.github.io/github-search-rss/nvim.json",
-    "description": "nvim plugin on GitHub",
+    "title": "neovim plugin",
+    "home_page_url": "https://scillidan.github.io/github-search-rss/neovim.json",
+    "feed_url": "https://scillidan.github.io/github-search-rss/neovim.json",
+    "description": "neovim plugin on GitHub",
     "items": [
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93927273?u=ccfc74c515fad89120a33336f7043ac8a84c26ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ Clarify and beautify your comments using boxes and lines.</div>",
@@ -17,14 +17,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41784264?u=d300cf8becbfebb495634687c971048a63c07d2a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modern and useful UI plugin that wraps lsp operations.</div>",
-            "url": "https://github.com/jinzhongjia/LspUI.nvim",
-            "title": "jinzhongjia/LspUI.nvim: A modern and useful UI plugin that wraps lsp operations.",
-            "date_modified": "2023-12-29T16:03:30.000Z",
-            "date_published": "2023-01-20T02:32:50.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
+            "url": "https://github.com/yutkat/my-neovim-pluginlist",
+            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
+            "date_modified": "2024-01-07T07:31:59.000Z",
+            "date_published": "2022-04-17T14:53:40.000Z",
             "author": {
-                "name": "jinzhongjia",
-                "url": "https://github.com/jinzhongjia"
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
+            "title": "yutkat/new-neovim-plugin-with-category-rss",
+            "date_modified": "2023-08-11T07:03:24.000Z",
+            "date_published": "2023-05-24T19:57:02.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -105,14 +127,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55474353?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vim configuration files and plugins</div>",
-            "url": "https://github.com/shawnmuzick/nvim",
-            "title": "shawnmuzick/nvim: vim configuration files and plugins",
-            "date_modified": "2023-02-03T01:10:52.000Z",
-            "date_published": "2021-08-08T01:47:41.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
+            "url": "https://github.com/yukimemi/dvpm",
+            "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
+            "date_modified": "2023-11-21T02:00:39.000Z",
+            "date_published": "2023-05-14T12:16:02.000Z",
             "author": {
-                "name": "shawnmuzick",
-                "url": "https://github.com/shawnmuzick"
+                "name": "yukimemi",
+                "url": "https://github.com/yukimemi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yukimemi/dps-ahdr",
+            "title": "yukimemi/dps-ahdr",
+            "date_modified": "2022-10-01T16:19:34.000Z",
+            "date_published": "2021-03-07T01:12:25.000Z",
+            "author": {
+                "name": "yukimemi",
+                "url": "https://github.com/yukimemi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80272391?u=f8648f13476e7032252aa040379f657e1b77e2cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configurative Plugins for Neovim in Lua</div>",
+            "url": "https://github.com/Doma-byte/Neovim-config",
+            "title": "Doma-byte/Neovim-config: Configurative Plugins for Neovim in Lua",
+            "date_modified": "2023-12-21T12:12:25.000Z",
+            "date_published": "2023-12-20T13:25:48.000Z",
+            "author": {
+                "name": "Doma-byte",
+                "url": "https://github.com/Doma-byte"
             }
         },
         {
@@ -135,17 +179,6 @@
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49934133?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to manage todos in a codebase</div>",
-            "url": "https://github.com/swims-hjkl/todolist.nvim",
-            "title": "swims-hjkl/todolist.nvim: A plugin to manage todos in a codebase",
-            "date_modified": "2024-01-04T02:13:47.000Z",
-            "date_published": "2024-01-04T02:03:47.000Z",
-            "author": {
-                "name": "swims-hjkl",
-                "url": "https://github.com/swims-hjkl"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "panpansuannai",
                 "url": "https://github.com/panpansuannai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36500473?u=0179d852a7dfd60301ad002ced470dc169b93034&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that will hide your secret variables.</div>",
-            "url": "https://github.com/Kolkhis/streamer-mode.nvim",
-            "title": "Kolkhis/streamer-mode.nvim: A Neovim plugin that will hide your secret variables.",
-            "date_modified": "2023-09-27T16:27:07.000Z",
-            "date_published": "2023-07-18T17:32:48.000Z",
-            "author": {
-                "name": "Kolkhis",
-                "url": "https://github.com/Kolkhis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84185899?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My customized neovim plugins, mappings and more for staying productive as a developer (or wasting time trying to)</div>",
-            "url": "https://github.com/marcos-aparicio/nvim-config",
-            "title": "marcos-aparicio/nvim-config: My customized neovim plugins, mappings and more for staying productive as a developer (or wasting time trying to)",
-            "date_modified": "2023-09-14T22:24:24.000Z",
-            "date_published": "2023-04-24T03:04:21.000Z",
-            "author": {
-                "name": "marcos-aparicio",
-                "url": "https://github.com/marcos-aparicio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-01-07T11:24:57.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
             }
         }
     ]
