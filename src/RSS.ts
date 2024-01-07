@@ -90,9 +90,9 @@ export const SEARCH_ITEMS: RSSItem[] = [
         link: `${BASE_URL}/vim.json`
     },
     {
-        title: "nvim plugin",
-        query: "nvim plugin sort:updated-desc",
+        title: "neovim plugin",
+        query: "neovim plugin sort:updated-desc",
         TYPE: "REPOSITORY",
-        link: `${BASE_URL}/nvim.json`
+        link: `${BASE_URL}/neovim.json`
     }
 ];
