@@ -6,17 +6,6 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🩺 Investigate startup performance of denops plugins</div>",
             "url": "https://github.com/vim-denops/denops-startup-recorder.vim",
             "title": "vim-denops/denops-startup-recorder.vim: 🩺 Investigate startup performance of denops plugins",
@@ -25,6 +14,39 @@
             "author": {
                 "name": "vim-denops",
                 "url": "https://github.com/vim-denops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
+            "url": "https://github.com/vim-denops/denops.vim",
+            "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
+            "date_modified": "2024-01-07T17:56:20.000Z",
+            "date_published": "2021-02-08T15:46:07.000Z",
+            "author": {
+                "name": "vim-denops",
+                "url": "https://github.com/vim-denops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1425636?u=3c8e5c041c2bdfd922d85c91209738c6a88b8806&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal implementation of Golang development plugin for Neovim</div>",
+            "url": "https://github.com/crispgm/nvim-go",
+            "title": "crispgm/nvim-go: A minimal implementation of Golang development plugin for Neovim",
+            "date_modified": "2023-11-04T19:22:09.000Z",
+            "date_published": "2021-03-02T01:53:07.000Z",
+            "author": {
+                "name": "crispgm",
+                "url": "https://github.com/crispgm"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69250723?u=1a5fec3d222c3fc3cac306c5794c569c52292477&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin enabling you to solve LeetCode problems.</div>",
-            "url": "https://github.com/kawre/leetcode.nvim",
-            "title": "kawre/leetcode.nvim: A Neovim plugin enabling you to solve LeetCode problems.",
-            "date_modified": "2024-01-08T07:32:58.000Z",
-            "date_published": "2023-09-16T11:25:17.000Z",
-            "author": {
-                "name": "kawre",
-                "url": "https://github.com/kawre"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
-            "url": "https://github.com/benlubas/molten-nvim",
-            "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
-            "date_modified": "2024-01-07T16:24:57.000Z",
-            "date_published": "2023-10-05T18:25:49.000Z",
-            "author": {
-                "name": "benlubas",
-                "url": "https://github.com/benlubas"
             }
         }
     ]
