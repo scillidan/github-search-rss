@@ -6,6 +6,17 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13349592?u=75edd250e992e87fc4449eafd72240ee904c499f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin to manage projects and sessions</div>",
+            "url": "https://github.com/leafOfTree/vim-project",
+            "title": "leafOfTree/vim-project: A vim plugin to manage projects and sessions",
+            "date_modified": "2023-12-07T15:31:56.000Z",
+            "date_published": "2020-09-26T11:14:41.000Z",
+            "author": {
+                "name": "leafOfTree",
+                "url": "https://github.com/leafOfTree"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🩺 Investigate startup performance of denops plugins</div>",
             "url": "https://github.com/vim-denops/denops-startup-recorder.vim",
             "title": "vim-denops/denops-startup-recorder.vim: 🩺 Investigate startup performance of denops plugins",
@@ -14,6 +25,39 @@
             "author": {
                 "name": "vim-denops",
                 "url": "https://github.com/vim-denops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2023-12-24T17:09:14.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9219562?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Custom build of vim with all the plugins I'm using. </div>",
+            "url": "https://github.com/ValdamireGido/vvim",
+            "title": "ValdamireGido/vvim: Custom build of vim with all the plugins I'm using. ",
+            "date_modified": "2022-08-29T15:44:29.000Z",
+            "date_published": "2019-10-22T14:36:41.000Z",
+            "author": {
+                "name": "ValdamireGido",
+                "url": "https://github.com/ValdamireGido"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16529248?u=312f6aa0d5752e37399b5fa1c48384427cea6373&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Autocompletion of Vimscript functions, variables, and other language features for Vimcomplete plugin.</div>",
+            "url": "https://github.com/girishji/vimscript-complete.vim",
+            "title": "girishji/vimscript-complete.vim: Autocompletion of Vimscript functions, variables, and other language features for Vimcomplete plugin.",
+            "date_modified": "2023-12-01T07:51:24.000Z",
+            "date_published": "2023-07-25T09:49:02.000Z",
+            "author": {
+                "name": "girishji",
+                "url": "https://github.com/girishji"
             }
         },
         {
@@ -47,6 +91,17 @@
             "author": {
                 "name": "lukelbd",
                 "url": "https://github.com/lukelbd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-01-08T10:30:18.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
             }
         },
         {
@@ -149,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2023-12-24T17:09:14.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24732205?u=7d3142d41e11b48de83819b47a24b2e23fb28933&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vimscript unit testing plugin with mocking support</div>",
             "url": "https://github.com/cdelledonne/vim-utest",
             "title": "cdelledonne/vim-utest: Vimscript unit testing plugin with mocking support",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "wakatime",
                 "url": "https://github.com/wakatime"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2842176?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimL plugin for VSCode.</div>",
-            "url": "https://github.com/XadillaX/vscode-language-viml",
-            "title": "XadillaX/vscode-language-viml: VimL plugin for VSCode.",
-            "date_modified": "2023-10-26T10:32:53.000Z",
-            "date_published": "2019-10-12T07:06:40.000Z",
-            "author": {
-                "name": "XadillaX",
-                "url": "https://github.com/XadillaX"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
-            "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
-            "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
-            "date_modified": "2023-07-08T10:01:29.000Z",
-            "date_published": "2023-01-07T09:43:06.000Z",
-            "author": {
-                "name": "ca-mantis-shrimp",
-                "url": "https://github.com/ca-mantis-shrimp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
-            "url": "https://github.com/yukimemi/dvpm",
-            "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
-            "date_modified": "2023-11-21T02:00:39.000Z",
-            "date_published": "2023-05-14T12:16:02.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yukimemi/dps-ahdr",
-            "title": "yukimemi/dps-ahdr",
-            "date_modified": "2022-10-01T16:19:34.000Z",
-            "date_published": "2021-03-07T01:12:25.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
             }
         }
     ]
