@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, which allows you to use Nix language to manage Neovim plugins/options. (WIP)</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, which allows you to use Nix language to manage Neovim plugins/options. (WIP)",
+            "date_modified": "2024-01-07T02:45:03.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
+            "author": {
+                "name": "redyf",
+                "url": "https://github.com/redyf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50913410?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for forester</div>",
+            "url": "https://github.com/kentookura/forester.nvim",
+            "title": "kentookura/forester.nvim: Neovim plugin for forester",
+            "date_modified": "2024-01-06T18:33:26.000Z",
+            "date_published": "2023-12-12T13:57:24.000Z",
+            "author": {
+                "name": "kentookura",
+                "url": "https://github.com/kentookura"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36500473?u=0179d852a7dfd60301ad002ced470dc169b93034&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that will hide your secret variables.</div>",
+            "url": "https://github.com/Kolkhis/streamer-mode.nvim",
+            "title": "Kolkhis/streamer-mode.nvim: A Neovim plugin that will hide your secret variables.",
+            "date_modified": "2024-01-08T16:57:42.000Z",
+            "date_published": "2023-07-18T17:32:48.000Z",
+            "author": {
+                "name": "Kolkhis",
+                "url": "https://github.com/Kolkhis"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/147079913?u=2917735d7c71a9319ad609d7a21a7819951a4496&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugins, colorscheme, themes, remaps and others.</div>",
             "url": "https://github.com/KrvdDvrk/MyNeovimConfigs",
             "title": "KrvdDvrk/MyNeovimConfigs: Plugins, colorscheme, themes, remaps and others.",
@@ -25,17 +58,6 @@
             "author": {
                 "name": "cdelledonne",
                 "url": "https://github.com/cdelledonne"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36500473?u=0179d852a7dfd60301ad002ced470dc169b93034&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that will hide your secret variables.</div>",
-            "url": "https://github.com/Kolkhis/streamer-mode.nvim",
-            "title": "Kolkhis/streamer-mode.nvim: A Neovim plugin that will hide your secret variables.",
-            "date_modified": "2024-01-08T16:57:42.000Z",
-            "date_published": "2023-07-18T17:32:48.000Z",
-            "author": {
-                "name": "Kolkhis",
-                "url": "https://github.com/Kolkhis"
             }
         },
         {
@@ -119,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3979584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Sourcegraph/Cody plugin for Neovim</div>",
             "url": "https://github.com/sourcegraph/sg.nvim",
             "title": "sourcegraph/sg.nvim: The official Sourcegraph/Cody plugin for Neovim",
-            "date_modified": "2024-01-08T15:35:21.000Z",
+            "date_modified": "2024-01-08T18:54:41.000Z",
             "date_published": "2021-02-19T02:15:19.000Z",
             "author": {
                 "name": "sourcegraph",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "vim-denops",
                 "url": "https://github.com/vim-denops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1425636?u=3c8e5c041c2bdfd922d85c91209738c6a88b8806&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal implementation of Golang development plugin for Neovim</div>",
-            "url": "https://github.com/crispgm/nvim-go",
-            "title": "crispgm/nvim-go: A minimal implementation of Golang development plugin for Neovim",
-            "date_modified": "2023-11-04T19:22:09.000Z",
-            "date_published": "2021-03-02T01:53:07.000Z",
-            "author": {
-                "name": "crispgm",
-                "url": "https://github.com/crispgm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12228142?u=f32e7157c4de4b5d1fd248fe5f2b0323d8720611&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A multiple cursors plugin for Neovim</div>",
-            "url": "https://github.com/brenton-leighton/multiple-cursors.nvim",
-            "title": "brenton-leighton/multiple-cursors.nvim: A multiple cursors plugin for Neovim",
-            "date_modified": "2023-12-28T21:46:19.000Z",
-            "date_published": "2023-11-09T01:53:40.000Z",
-            "author": {
-                "name": "brenton-leighton",
-                "url": "https://github.com/brenton-leighton"
             }
         }
     ]
