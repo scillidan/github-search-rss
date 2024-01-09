@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51012201?u=b006fda4ba87fdbe6a517fbfe94eb9eab0d352bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for keyboard shortcut management</div>",
+            "url": "https://github.com/cronJohn/keytex.nvim",
+            "title": "cronJohn/keytex.nvim: A neovim plugin for keyboard shortcut management",
+            "date_modified": "2023-12-07T02:00:59.000Z",
+            "date_published": "2023-12-05T18:57:47.000Z",
+            "author": {
+                "name": "cronJohn",
+                "url": "https://github.com/cronJohn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/430272?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Emoji/Unicode Icons Theme for Vim and Neovim with support for 40+ plugins and 380+ filetypes 🎨💙💛🤍💚</div>",
+            "url": "https://github.com/adelarsq/vim-emoji-icon-theme",
+            "title": "adelarsq/vim-emoji-icon-theme: Emoji/Unicode Icons Theme for Vim and Neovim with support for 40+ plugins and 380+ filetypes 🎨💙💛🤍💚",
+            "date_modified": "2023-12-23T12:50:16.000Z",
+            "date_published": "2020-04-11T15:41:42.000Z",
+            "author": {
+                "name": "adelarsq",
+                "url": "https://github.com/adelarsq"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21000943?u=9226d74957ffbc49ba58d16dcce69cb633f9f92f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.</div>",
+            "url": "https://github.com/RRethy/nvim-base16",
+            "title": "RRethy/nvim-base16: Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.",
+            "date_modified": "2024-01-07T19:59:08.000Z",
+            "date_published": "2021-03-12T19:32:23.000Z",
+            "author": {
+                "name": "RRethy",
+                "url": "https://github.com/RRethy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, which allows you to use Nix language to manage Neovim plugins/options. (WIP)</div>",
             "url": "https://github.com/redyf/Neve",
             "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, which allows you to use Nix language to manage Neovim plugins/options. (WIP)",
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128740042?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Elixir</div>",
             "url": "https://github.com/elixir-tools/elixir-tools.nvim",
             "title": "elixir-tools/elixir-tools.nvim: Neovim plugin for Elixir",
-            "date_modified": "2024-01-09T00:45:06.000Z",
+            "date_modified": "2024-01-09T02:40:12.000Z",
             "date_published": "2022-03-23T13:10:50.000Z",
             "author": {
                 "name": "elixir-tools",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "gravndal",
                 "url": "https://github.com/gravndal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47866330?u=a748ea4400eae53548d1842d80c55d3d8984c93b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that allows you to generate uuid.</div>",
-            "url": "https://github.com/Ofadiman/nvim-uuid",
-            "title": "Ofadiman/nvim-uuid: A neovim plugin that allows you to generate uuid.",
-            "date_modified": "2024-01-08T16:26:29.000Z",
-            "date_published": "2024-01-05T20:05:14.000Z",
-            "author": {
-                "name": "Ofadiman",
-                "url": "https://github.com/Ofadiman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111810539?u=2436e94e42d87b5f0c0a1048baeea20b0511ac31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Enhanded Neovim setup with LazyVim foundation, custom keymaps, essential plugins. Streamline your coding workflow for increased productivity.</div>",
-            "url": "https://github.com/HeyBadAl/nvim",
-            "title": "HeyBadAl/nvim: Enhanded Neovim setup with LazyVim foundation, custom keymaps, essential plugins. Streamline your coding workflow for increased productivity.",
-            "date_modified": "2024-01-01T18:22:42.000Z",
-            "date_published": "2024-01-01T18:22:20.000Z",
-            "author": {
-                "name": "HeyBadAl",
-                "url": "https://github.com/HeyBadAl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-01-09T01:40:11.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
             }
         }
     ]
