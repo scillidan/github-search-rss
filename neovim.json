@@ -6,14 +6,36 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of \"small\" plugins</div>",
-            "url": "https://github.com/altermo/small.nvim",
-            "title": "altermo/small.nvim: A collection of \"small\" plugins",
-            "date_modified": "2023-11-23T10:24:58.000Z",
-            "date_published": "2023-09-15T22:07:14.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-01-11T07:56:12.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
-                "name": "altermo",
-                "url": "https://github.com/altermo"
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64385071?u=bfe221abcccb6c2ed407f55a31bb25c37d2b3329&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple nvim plugin that pops up a notification window to show git contributions</div>",
+            "url": "https://github.com/ronylee11/gitcontrib.nvim",
+            "title": "ronylee11/gitcontrib.nvim: simple nvim plugin that pops up a notification window to show git contributions",
+            "date_modified": "2024-01-11T09:49:31.000Z",
+            "date_published": "2024-01-11T09:30:47.000Z",
+            "author": {
+                "name": "ronylee11",
+                "url": "https://github.com/ronylee11"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Haskell experience in neovim!</div>",
+            "url": "https://github.com/mrcjkb/haskell-tools.nvim",
+            "title": "mrcjkb/haskell-tools.nvim: Supercharge your Haskell experience in neovim!",
+            "date_modified": "2024-01-10T15:50:02.000Z",
+            "date_published": "2022-10-15T14:18:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
             }
         },
         {
@@ -25,6 +47,17 @@
             "author": {
                 "name": "S1M0N38",
                 "url": "https://github.com/S1M0N38"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of \"small\" plugins</div>",
+            "url": "https://github.com/altermo/small.nvim",
+            "title": "altermo/small.nvim: A collection of \"small\" plugins",
+            "date_modified": "2023-11-23T10:24:58.000Z",
+            "date_published": "2023-09-15T22:07:14.000Z",
+            "author": {
+                "name": "altermo",
+                "url": "https://github.com/altermo"
             }
         },
         {
@@ -86,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</div>",
             "url": "https://github.com/folke/neodev.nvim",
             "title": "folke/neodev.nvim: 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",
-            "date_modified": "2024-01-11T08:52:20.000Z",
+            "date_modified": "2024-01-11T09:36:33.000Z",
             "date_published": "2021-05-19T13:21:14.000Z",
             "author": {
                 "name": "folke",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36828703?u=886cb5b9299aeb1eebcfb9a40ad2ff7a4d8df439&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config in lua and testing new plugins for 2022. Let's go!</div>",
-            "url": "https://github.com/pedrofrohmut/nvim-lua",
-            "title": "pedrofrohmut/nvim-lua: My Neovim config in lua and testing new plugins for 2022. Let's go!",
-            "date_modified": "2022-08-09T17:52:32.000Z",
-            "date_published": "2022-08-09T17:47:44.000Z",
-            "author": {
-                "name": "pedrofrohmut",
-                "url": "https://github.com/pedrofrohmut"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.</div>",
-            "url": "https://github.com/hrsh7th/vim-vsnip",
-            "title": "hrsh7th/vim-vsnip: Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.",
-            "date_modified": "2024-01-08T18:30:55.000Z",
-            "date_published": "2019-08-21T18:13:26.000Z",
-            "author": {
-                "name": "hrsh7th",
-                "url": "https://github.com/hrsh7th"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
-            "title": "LongerHV/neovim-plugins-overlay",
-            "date_modified": "2023-08-20T22:40:05.000Z",
-            "date_published": "2022-12-22T21:42:57.000Z",
-            "author": {
-                "name": "LongerHV",
-                "url": "https://github.com/LongerHV"
             }
         }
     ]
