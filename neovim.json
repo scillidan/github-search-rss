@@ -6,25 +6,36 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, which allows you to use Nix language to manage Neovim plugins/options. (WIP)</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tags generator/management for old school vimers in Neovim.</div>",
+            "url": "https://github.com/linrongbin16/gentags.nvim",
+            "title": "linrongbin16/gentags.nvim: Tags generator/management for old school vimers in Neovim.",
+            "date_modified": "2024-01-11T02:57:52.000Z",
+            "date_published": "2023-12-08T01:45:11.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51012201?u=b006fda4ba87fdbe6a517fbfe94eb9eab0d352bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for keyboard shortcut management</div>",
+            "url": "https://github.com/cronJohn/keytex.nvim",
+            "title": "cronJohn/keytex.nvim: A neovim plugin for keyboard shortcut management",
+            "date_modified": "2023-12-07T02:00:59.000Z",
+            "date_published": "2023-12-05T18:57:47.000Z",
+            "author": {
+                "name": "cronJohn",
+                "url": "https://github.com/cronJohn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options. (WIP)</div>",
             "url": "https://github.com/redyf/Neve",
-            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, which allows you to use Nix language to manage Neovim plugins/options. (WIP)",
-            "date_modified": "2024-01-11T02:49:38.000Z",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options. (WIP)",
+            "date_modified": "2024-01-11T03:11:09.000Z",
             "date_published": "2024-01-03T14:38:56.000Z",
             "author": {
                 "name": "redyf",
                 "url": "https://github.com/redyf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A performant lsp progress status for Neovim.</div>",
-            "url": "https://github.com/linrongbin16/lsp-progress.nvim",
-            "title": "linrongbin16/lsp-progress.nvim: A performant lsp progress status for Neovim.",
-            "date_modified": "2024-01-11T03:08:05.000Z",
-            "date_published": "2023-01-31T00:58:42.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
             }
         },
         {
@@ -36,6 +47,17 @@
             "author": {
                 "name": "lyy4758",
                 "url": "https://github.com/lyy4758"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A performant lsp progress status for Neovim.</div>",
+            "url": "https://github.com/linrongbin16/lsp-progress.nvim",
+            "title": "linrongbin16/lsp-progress.nvim: A performant lsp progress status for Neovim.",
+            "date_modified": "2024-01-11T03:08:05.000Z",
+            "date_published": "2023-01-31T00:58:42.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "lambdalisue",
                 "url": "https://github.com/lambdalisue"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2746374?u=119fd2407fa36292bee85ff07671c3367c120311&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.</div>",
-            "url": "https://github.com/EdenEast/nightfox.nvim",
-            "title": "EdenEast/nightfox.nvim: 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
-            "date_modified": "2024-01-10T23:37:32.000Z",
-            "date_published": "2021-07-20T23:19:53.000Z",
-            "author": {
-                "name": "EdenEast",
-                "url": "https://github.com/EdenEast"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111810539?u=2436e94e42d87b5f0c0a1048baeea20b0511ac31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Enhanded Neovim setup with LazyVim foundation, custom keymaps, essential plugins. Streamline your coding workflow for increased productivity.</div>",
-            "url": "https://github.com/HeyBadAl/nvim",
-            "title": "HeyBadAl/nvim: Enhanded Neovim setup with LazyVim foundation, custom keymaps, essential plugins. Streamline your coding workflow for increased productivity.",
-            "date_modified": "2024-01-01T18:22:42.000Z",
-            "date_published": "2024-01-01T18:22:20.000Z",
-            "author": {
-                "name": "HeyBadAl",
-                "url": "https://github.com/HeyBadAl"
             }
         }
     ]
