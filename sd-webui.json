@@ -6,21 +6,21 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
-            "url": "https://github.com/Mikubill/sd-webui-controlnet",
-            "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-01-11T04:21:00.000Z",
-            "date_published": "2023-02-12T16:26:27.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91235086?u=7701fb82931ca55a7277363a16e531f22f8d424f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>sd-webui 扩展插件， 用于实现可控动漫视频生成（开发中）</div>",
+            "url": "https://github.com/AkiiLucky/sd-webui-animed-video-controlnet",
+            "title": "AkiiLucky/sd-webui-animed-video-controlnet: sd-webui 扩展插件， 用于实现可控动漫视频生成（开发中）",
+            "date_modified": "2024-01-08T02:30:42.000Z",
+            "date_published": "2024-01-07T14:37:42.000Z",
             "author": {
-                "name": "Mikubill",
-                "url": "https://github.com/Mikubill"
+                "name": "AkiiLucky",
+                "url": "https://github.com/AkiiLucky"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
             "url": "https://github.com/siliconflow/onediff",
             "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
-            "date_modified": "2024-01-11T06:00:27.000Z",
+            "date_modified": "2024-01-11T08:09:24.000Z",
             "date_published": "2022-09-21T07:34:13.000Z",
             "author": {
                 "name": "siliconflow",
@@ -28,14 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=fb5bc556ba21239a05c2373b0aa06ee1549d532c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that generates a mask for Inpainting based on Canny edges</div>",
-            "url": "https://github.com/Haoming02/sd-webui-aaa",
-            "title": "Haoming02/sd-webui-aaa: An Extension for Automatic1111 Webui that generates a mask for Inpainting based on Canny edges",
-            "date_modified": "2024-01-11T06:17:47.000Z",
-            "date_published": "2024-01-11T06:17:47.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14872007?u=ef34b7d1c641418eea985762dae1fb3936569c34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies</div>",
+            "url": "https://github.com/kabachuha/sd-webui-text2video",
+            "title": "kabachuha/sd-webui-text2video: Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies",
+            "date_modified": "2024-01-11T07:49:23.000Z",
+            "date_published": "2023-03-19T20:40:23.000Z",
             "author": {
-                "name": "Haoming02",
-                "url": "https://github.com/Haoming02"
+                "name": "kabachuha",
+                "url": "https://github.com/kabachuha"
             }
         },
         {
@@ -47,6 +47,28 @@
             "author": {
                 "name": "NON906",
                 "url": "https://github.com/NON906"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=fb5bc556ba21239a05c2373b0aa06ee1549d532c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that generates a mask for Inpainting from the edge of the subject</div>",
+            "url": "https://github.com/Haoming02/sd-webui-aaa",
+            "title": "Haoming02/sd-webui-aaa: An Extension for Automatic1111 Webui that generates a mask for Inpainting from the edge of the subject",
+            "date_modified": "2024-01-11T07:39:30.000Z",
+            "date_published": "2024-01-11T06:17:47.000Z",
+            "author": {
+                "name": "Haoming02",
+                "url": "https://github.com/Haoming02"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
+            "url": "https://github.com/Mikubill/sd-webui-controlnet",
+            "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
+            "date_modified": "2024-01-11T07:43:26.000Z",
+            "date_published": "2023-02-12T16:26:27.000Z",
+            "author": {
+                "name": "Mikubill",
+                "url": "https://github.com/Mikubill"
             }
         },
         {
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI</div>",
             "url": "https://github.com/continue-revolution/sd-webui-animatediff",
             "title": "continue-revolution/sd-webui-animatediff: AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI",
-            "date_modified": "2024-01-11T06:25:09.000Z",
+            "date_modified": "2024-01-11T07:31:23.000Z",
             "date_published": "2023-07-18T02:59:45.000Z",
             "author": {
                 "name": "continue-revolution",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "groinge",
                 "url": "https://github.com/groinge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91235086?u=7701fb82931ca55a7277363a16e531f22f8d424f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>sd-webui 扩展插件， 用于实现可控动漫视频生成（开发中）</div>",
-            "url": "https://github.com/AkiiLucky/sd-webui-animed-video-controlnet",
-            "title": "AkiiLucky/sd-webui-animed-video-controlnet: sd-webui 扩展插件， 用于实现可控动漫视频生成（开发中）",
-            "date_modified": "2024-01-08T02:30:42.000Z",
-            "date_published": "2024-01-07T14:37:42.000Z",
-            "author": {
-                "name": "AkiiLucky",
-                "url": "https://github.com/AkiiLucky"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136279213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Platform Package Manager for Stable Diffusion</div>",
-            "url": "https://github.com/LykosAI/StabilityMatrix",
-            "title": "LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion",
-            "date_modified": "2024-01-11T02:02:57.000Z",
-            "date_published": "2023-06-13T05:20:38.000Z",
-            "author": {
-                "name": "LykosAI",
-                "url": "https://github.com/LykosAI"
             }
         }
     ]
