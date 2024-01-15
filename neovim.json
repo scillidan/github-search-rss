@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44226464?u=b9089de689a30f0ce8602fa65045846ea6688ab5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My daily driver dot files that combine Neovim and plugins, Tmux, and Tmuxp. </div>",
+            "url": "https://github.com/Normanras/dotfiles",
+            "title": "Normanras/dotfiles: My daily driver dot files that combine Neovim and plugins, Tmux, and Tmuxp. ",
+            "date_modified": "2023-12-21T23:51:25.000Z",
+            "date_published": "2023-06-10T13:27:07.000Z",
+            "author": {
+                "name": "Normanras",
+                "url": "https://github.com/Normanras"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
+            "url": "https://github.com/rockerBOO/awesome-neovim",
+            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
+            "date_modified": "2024-01-15T22:49:48.000Z",
+            "date_published": "2020-09-18T18:40:59.000Z",
+            "author": {
+                "name": "rockerBOO",
+                "url": "https://github.com/rockerBOO"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options. (WIP)</div>",
             "url": "https://github.com/redyf/Neve",
             "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options. (WIP)",
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Haskell experience in neovim!</div>",
             "url": "https://github.com/mrcjkb/haskell-tools.nvim",
             "title": "mrcjkb/haskell-tools.nvim: Supercharge your Haskell experience in neovim!",
-            "date_modified": "2024-01-14T09:24:08.000Z",
+            "date_modified": "2024-01-15T22:11:26.000Z",
             "date_published": "2022-10-15T14:18:38.000Z",
             "author": {
                 "name": "mrcjkb",
@@ -69,6 +91,17 @@
             "author": {
                 "name": "trevarj",
                 "url": "https://github.com/trevarj"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163699?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</div>",
+            "url": "https://github.com/jackMort/ChatGPT.nvim",
+            "title": "jackMort/ChatGPT.nvim: ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
+            "date_modified": "2024-01-15T22:47:06.000Z",
+            "date_published": "2022-12-10T17:27:28.000Z",
+            "author": {
+                "name": "jackMort",
+                "url": "https://github.com/jackMort"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "sourcegraph",
                 "url": "https://github.com/sourcegraph"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Load all the ultra colorschemes into your Neovim player!</div>",
-            "url": "https://github.com/linrongbin16/colorbox.nvim",
-            "title": "linrongbin16/colorbox.nvim: Load all the ultra colorschemes into your Neovim player!",
-            "date_modified": "2024-01-12T13:14:13.000Z",
-            "date_published": "2023-03-03T01:03:56.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The commons lua library for Neovim plugin project.</div>",
-            "url": "https://github.com/linrongbin16/commons.nvim",
-            "title": "linrongbin16/commons.nvim: The commons lua library for Neovim plugin project.",
-            "date_modified": "2024-01-11T02:59:20.000Z",
-            "date_published": "2023-12-11T13:48:32.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7526438?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Metals plugin for Neovim</div>",
-            "url": "https://github.com/scalameta/nvim-metals",
-            "title": "scalameta/nvim-metals: A Metals plugin for Neovim",
-            "date_modified": "2024-01-12T11:39:35.000Z",
-            "date_published": "2020-04-26T13:47:22.000Z",
-            "author": {
-                "name": "scalameta",
-                "url": "https://github.com/scalameta"
             }
         }
     ]
