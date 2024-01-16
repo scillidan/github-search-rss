@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.</div>",
+            "url": "https://github.com/canonical/sdcore-webui-k8s-operator",
+            "title": "canonical/sdcore-webui-k8s-operator: A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.",
+            "date_modified": "2023-12-11T09:40:27.000Z",
+            "date_published": "2023-05-19T15:43:33.000Z",
+            "author": {
+                "name": "canonical",
+                "url": "https://github.com/canonical"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60541708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A thumbnail gallery / set management tool for Automatic1111 Webui</div>",
             "url": "https://github.com/MNeMoNiCuZ/sd-webui-thumbnailizer",
             "title": "MNeMoNiCuZ/sd-webui-thumbnailizer: A thumbnail gallery / set management tool for Automatic1111 Webui",
@@ -42,22 +53,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-01-16T15:53:02.000Z",
+            "date_modified": "2024-01-16T16:32:36.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
                 "url": "https://github.com/Mikubill"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
-            "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
-            "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
-            "date_modified": "2024-01-16T15:44:39.000Z",
-            "date_published": "2023-08-28T10:46:27.000Z",
-            "author": {
-                "name": "aigc-apps",
-                "url": "https://github.com/aigc-apps"
             }
         },
         {
@@ -160,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>process video frame by frame inside \"Extras\" tab</div>",
-            "url": "https://github.com/light-and-ray/sd-webui-video-extras-tab",
-            "title": "light-and-ray/sd-webui-video-extras-tab: process video frame by frame inside \"Extras\" tab",
-            "date_modified": "2024-01-15T19:15:54.000Z",
-            "date_published": "2024-01-15T14:00:27.000Z",
-            "author": {
-                "name": "light-and-ray",
-                "url": "https://github.com/light-and-ray"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137917911?u=ff4bfdb87c499237706b44e5ed1386fe9f4b5d05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>tag file for a1111-sd-webui-tagcomplete, mainly for animagine-xl-3.0</div>",
             "url": "https://github.com/bedovyy/tagcomplete-for-animagine-xl-3.0",
             "title": "bedovyy/tagcomplete-for-animagine-xl-3.0: tag file for a1111-sd-webui-tagcomplete, mainly for animagine-xl-3.0",
@@ -185,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131470832?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤯 Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.</div>",
             "url": "https://github.com/lobehub/sd-webui-lobe-theme",
             "title": "lobehub/sd-webui-lobe-theme: 🤯 Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.",
-            "date_modified": "2024-01-16T13:44:25.000Z",
+            "date_modified": "2024-01-16T16:21:16.000Z",
             "date_published": "2023-02-25T06:41:18.000Z",
             "author": {
                 "name": "lobehub",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "nihedon",
                 "url": "https://github.com/nihedon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tab for sd-webui for replacing objects in picture using detection prompt</div>",
+            "url": "https://github.com/light-and-ray/sd-webui-replacer",
+            "title": "light-and-ray/sd-webui-replacer: A tab for sd-webui for replacing objects in picture using detection prompt",
+            "date_modified": "2024-01-13T14:59:30.000Z",
+            "date_published": "2023-11-06T10:09:24.000Z",
+            "author": {
+                "name": "light-and-ray",
+                "url": "https://github.com/light-and-ray"
             }
         }
     ]
