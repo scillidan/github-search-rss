@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19657652?u=cfecbd7ac3d853d03eb0802d9135589070c1e228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦾 A plugin adding exubertant ctags and universal-ctags integration to vim</div>",
+            "url": "https://github.com/lukelbd/vim-tags",
+            "title": "lukelbd/vim-tags: 🦾 A plugin adding exubertant ctags and universal-ctags integration to vim",
+            "date_modified": "2023-02-18T18:30:27.000Z",
+            "date_published": "2019-04-18T22:34:25.000Z",
+            "author": {
+                "name": "lukelbd",
+                "url": "https://github.com/lukelbd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5187394?u=8cdd7b379b5a2bda151c0c12a86e25efec813054&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧙‍♂️ Vim plugin to help users organize and navigate their .vimrc / init.vim configs</div>",
+            "url": "https://github.com/jesseleite/vim-sourcery",
+            "title": "jesseleite/vim-sourcery: 🧙‍♂️ Vim plugin to help users organize and navigate their .vimrc / init.vim configs",
+            "date_modified": "2023-11-18T01:46:20.000Z",
+            "date_published": "2021-02-10T05:57:43.000Z",
+            "author": {
+                "name": "jesseleite",
+                "url": "https://github.com/jesseleite"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3629785?u=c03a60bb3a40bb94c97e9865125d08b057aa37af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for defining proper true per-project config</div>",
+            "url": "https://github.com/phodge/vim-project-config",
+            "title": "phodge/vim-project-config: A plugin for defining proper true per-project config",
+            "date_modified": "2024-01-17T22:31:05.000Z",
+            "date_published": "2024-01-09T21:52:28.000Z",
+            "author": {
+                "name": "phodge",
+                "url": "https://github.com/phodge"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15071778?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim search plugin</div>",
             "url": "https://github.com/Emilv2/siefe.vim",
             "title": "Emilv2/siefe.vim: Vim search plugin",
@@ -47,6 +80,17 @@
             "author": {
                 "name": "lbrayner",
                 "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/287744?u=e958a9b9053244bbcc20f7589c697594c43a6b77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>async language server protocol plugin for vim and neovim</div>",
+            "url": "https://github.com/prabirshrestha/vim-lsp",
+            "title": "prabirshrestha/vim-lsp: async language server protocol plugin for vim and neovim",
+            "date_modified": "2024-01-17T22:56:28.000Z",
+            "date_published": "2016-11-06T09:31:03.000Z",
+            "author": {
+                "name": "prabirshrestha",
+                "url": "https://github.com/prabirshrestha"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "linrongbin16",
                 "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nightly</div>",
-            "url": "https://github.com/ttak0422/vim-plugins-overlay",
-            "title": "ttak0422/vim-plugins-overlay: nightly",
-            "date_modified": "2023-08-13T12:43:26.000Z",
-            "date_published": "2022-10-04T13:31:11.000Z",
-            "author": {
-                "name": "ttak0422",
-                "url": "https://github.com/ttak0422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/156860648?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for sql databases</div>",
-            "url": "https://github.com/Lenovim/neaverdb.vim",
-            "title": "Lenovim/neaverdb.vim: Neovim plugin for sql databases",
-            "date_modified": "2024-01-16T23:47:21.000Z",
-            "date_published": "2024-01-16T23:37:44.000Z",
-            "author": {
-                "name": "Lenovim",
-                "url": "https://github.com/Lenovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16965956?u=37f420398f355595f08605680e6112237d8de472&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim/Neovim plugin for OpenStudio</div>",
-            "url": "https://github.com/mitchpaulus/OpenStudio.vim",
-            "title": "mitchpaulus/OpenStudio.vim: Vim/Neovim plugin for OpenStudio",
-            "date_modified": "2023-12-15T19:40:05.000Z",
-            "date_published": "2023-12-15T19:39:56.000Z",
-            "author": {
-                "name": "mitchpaulus",
-                "url": "https://github.com/mitchpaulus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300342?u=c909d0c604bae8afd1c674c5030b2e5a150c40db&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…</div>",
-            "url": "https://github.com/liskin/dotfiles",
-            "title": "liskin/dotfiles: My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…",
-            "date_modified": "2024-01-11T10:12:50.000Z",
-            "date_published": "2018-11-19T17:46:04.000Z",
-            "author": {
-                "name": "liskin",
-                "url": "https://github.com/liskin"
             }
         }
     ]
