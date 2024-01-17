@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10430358?u=8c78544d933aa165cdf59eeb46beb3519f363fd0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of settings, mappings, and plugins I use in neovim 📑</div>",
+            "url": "https://github.com/dylf/nvim-config",
+            "title": "dylf/nvim-config: A collection of settings, mappings, and plugins I use in neovim 📑",
+            "date_modified": "2022-12-12T02:12:20.000Z",
+            "date_published": "2021-05-27T22:51:47.000Z",
+            "author": {
+                "name": "dylf",
+                "url": "https://github.com/dylf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139795416?u=06cccfd1e6391105ca13230d9301b32cb3e7e2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Super-simple neovim plugin for cycling through antonyms/words related to word under cursor</div>",
+            "url": "https://github.com/SR-MyStar/antonym.nvim",
+            "title": "SR-MyStar/antonym.nvim: Super-simple neovim plugin for cycling through antonyms/words related to word under cursor",
+            "date_modified": "2024-01-17T14:45:22.000Z",
+            "date_published": "2024-01-17T14:44:52.000Z",
+            "author": {
+                "name": "SR-MyStar",
+                "url": "https://github.com/SR-MyStar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
+            "url": "https://github.com/kyoh86/denops-util",
+            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
+            "date_modified": "2024-01-06T00:24:25.000Z",
+            "date_published": "2024-01-06T00:19:26.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63601725?u=fe3418fb774c69a1d4433f55793864c6e82304c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Telescope extension for picking gitmojis</div>",
             "url": "https://github.com/rakin406/telescope-gitmoji.nvim",
             "title": "rakin406/telescope-gitmoji.nvim: Telescope extension for picking gitmojis",
@@ -152,11 +185,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-01-17T12:51:09.000Z",
+            "date_modified": "2024-01-17T14:32:37.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
                 "url": "https://github.com/rockerBOO"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke.</div>",
+            "url": "https://github.com/linrongbin16/fzfx.nvim",
+            "title": "linrongbin16/fzfx.nvim: FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke.",
+            "date_modified": "2024-01-17T14:53:34.000Z",
+            "date_published": "2023-07-26T09:58:20.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Wansmer",
                 "url": "https://github.com/Wansmer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40141251?u=a615ac5893e108fcab092ffcb46db317a4b92eec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple neovim plugin to automatically set the background color when system theme changes (only works on macOS now).</div>",
-            "url": "https://github.com/wangl-cc/auto-bg.nvim",
-            "title": "wangl-cc/auto-bg.nvim: A simple neovim plugin to automatically set the background color when system theme changes (only works on macOS now).",
-            "date_modified": "2023-11-19T03:23:14.000Z",
-            "date_published": "2023-08-02T15:26:21.000Z",
-            "author": {
-                "name": "wangl-cc",
-                "url": "https://github.com/wangl-cc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48717183?u=1ef0b7fae149772f3ea0f45b0f591fb5cb955757&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Lua Neovim configuration with a very simple plugin manager written in Python.</div>",
-            "url": "https://github.com/j-morano/nvim-config",
-            "title": "j-morano/nvim-config: Full Lua Neovim configuration with a very simple plugin manager written in Python.",
-            "date_modified": "2023-05-20T15:09:54.000Z",
-            "date_published": "2023-02-09T12:51:43.000Z",
-            "author": {
-                "name": "j-morano",
-                "url": "https://github.com/j-morano"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15816726?u=902cd00a563151acf2f2724ca96eaf88aa5fa2e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cursor line number mode indicator plugin for Neovim</div>",
-            "url": "https://github.com/mawkler/modicator.nvim",
-            "title": "mawkler/modicator.nvim: Cursor line number mode indicator plugin for Neovim",
-            "date_modified": "2024-01-16T11:47:43.000Z",
-            "date_published": "2022-10-04T07:45:53.000Z",
-            "author": {
-                "name": "mawkler",
-                "url": "https://github.com/mawkler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-01-17T11:51:39.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
             }
         }
     ]
