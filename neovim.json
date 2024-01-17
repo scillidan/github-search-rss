@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</div>",
+            "url": "https://github.com/folke/neodev.nvim",
+            "title": "folke/neodev.nvim: 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",
+            "date_modified": "2024-01-16T01:51:30.000Z",
+            "date_published": "2021-05-19T13:21:14.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63601725?u=fe3418fb774c69a1d4433f55793864c6e82304c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Telescope extension for picking gitmojis</div>",
+            "url": "https://github.com/rakin406/telescope-gitmoji.nvim",
+            "title": "rakin406/telescope-gitmoji.nvim: Telescope extension for picking gitmojis",
+            "date_modified": "2024-01-17T05:38:28.000Z",
+            "date_published": "2024-01-17T05:30:54.000Z",
+            "author": {
+                "name": "rakin406",
+                "url": "https://github.com/rakin406"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63121670?u=850f4adab10f7f6fae92bd303e8accb4be5ce651&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A salesforce plugin for Neovim.</div>",
             "url": "https://github.com/jonathanmorris180/salesforce.nvim",
             "title": "jonathanmorris180/salesforce.nvim: A salesforce plugin for Neovim.",
@@ -17,6 +39,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/376460?u=95b5dcb43478863c269cff930ebaf337fa59bd58&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for running Taskfile tasks</div>",
+            "url": "https://github.com/ShadowApex/Taskfile.nvim",
+            "title": "ShadowApex/Taskfile.nvim: Neovim plugin for running Taskfile tasks",
+            "date_modified": "2024-01-17T05:26:33.000Z",
+            "date_published": "2024-01-17T05:25:38.000Z",
+            "author": {
+                "name": "ShadowApex",
+                "url": "https://github.com/ShadowApex"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
             "url": "https://github.com/nvim-plugnplay/database",
             "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
@@ -25,6 +58,17 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1423607?u=a736aab5a9d4a7543079c64450cd4d1c25417a75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The neovim tabline plugin.</div>",
+            "url": "https://github.com/romgrk/barbar.nvim",
+            "title": "romgrk/barbar.nvim: The neovim tabline plugin.",
+            "date_modified": "2024-01-17T05:17:59.000Z",
+            "date_published": "2020-10-22T10:32:07.000Z",
+            "author": {
+                "name": "romgrk",
+                "url": "https://github.com/romgrk"
             }
         },
         {
@@ -119,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-01-17T03:20:22.000Z",
+            "date_modified": "2024-01-17T05:30:23.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Lenovim",
                 "url": "https://github.com/Lenovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36828703?u=886cb5b9299aeb1eebcfb9a40ad2ff7a4d8df439&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config in lua and testing new plugins for 2022. Let's go!</div>",
-            "url": "https://github.com/pedrofrohmut/nvim-lua",
-            "title": "pedrofrohmut/nvim-lua: My Neovim config in lua and testing new plugins for 2022. Let's go!",
-            "date_modified": "2022-08-09T17:52:32.000Z",
-            "date_published": "2022-08-09T17:47:44.000Z",
-            "author": {
-                "name": "pedrofrohmut",
-                "url": "https://github.com/pedrofrohmut"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6809335?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an example showing how to develope a neovim pluign with lua with 3rd party dependencies</div>",
-            "url": "https://github.com/yytsui/neovim_example_plugin",
-            "title": "yytsui/neovim_example_plugin: This is an example showing how to develope a neovim pluign with lua with 3rd party dependencies",
-            "date_modified": "2024-01-16T23:25:08.000Z",
-            "date_published": "2024-01-16T23:24:19.000Z",
-            "author": {
-                "name": "yytsui",
-                "url": "https://github.com/yytsui"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CI template for Neovim plugin project.</div>",
-            "url": "https://github.com/linrongbin16/ci-template.nvim",
-            "title": "linrongbin16/ci-template.nvim: CI template for Neovim plugin project.",
-            "date_modified": "2024-01-15T07:15:31.000Z",
-            "date_published": "2023-12-08T23:05:09.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51012201?u=b006fda4ba87fdbe6a517fbfe94eb9eab0d352bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for keyboard shortcut management</div>",
-            "url": "https://github.com/cronJohn/keytex.nvim",
-            "title": "cronJohn/keytex.nvim: A neovim plugin for keyboard shortcut management",
-            "date_modified": "2023-12-07T02:00:59.000Z",
-            "date_published": "2023-12-05T18:57:47.000Z",
-            "author": {
-                "name": "cronJohn",
-                "url": "https://github.com/cronJohn"
             }
         }
     ]
