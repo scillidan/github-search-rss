@@ -6,10 +6,32 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
+            "url": "https://github.com/Shougo/dpp.vim",
+            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
+            "date_modified": "2024-01-17T03:19:42.000Z",
+            "date_published": "2023-08-08T23:23:02.000Z",
+            "author": {
+                "name": "Shougo",
+                "url": "https://github.com/Shougo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9919?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for GitHub Copilot</div>",
+            "url": "https://github.com/github/copilot.vim",
+            "title": "github/copilot.vim: Neovim plugin for GitHub Copilot",
+            "date_modified": "2024-01-18T00:13:21.000Z",
+            "date_published": "2021-10-20T18:29:13.000Z",
+            "author": {
+                "name": "github",
+                "url": "https://github.com/github"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to improve the default vim.ui interfaces</div>",
             "url": "https://github.com/stevearc/dressing.nvim",
             "title": "stevearc/dressing.nvim: Neovim plugin to improve the default vim.ui interfaces",
-            "date_modified": "2024-01-18T01:43:22.000Z",
+            "date_modified": "2024-01-18T03:10:43.000Z",
             "date_published": "2021-12-03T01:43:51.000Z",
             "author": {
                 "name": "stevearc",
@@ -50,6 +72,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5187394?u=8cdd7b379b5a2bda151c0c12a86e25efec813054&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧙‍♂️ Vim plugin to help users organize and navigate their .vimrc / init.vim configs</div>",
+            "url": "https://github.com/jesseleite/vim-sourcery",
+            "title": "jesseleite/vim-sourcery: 🧙‍♂️ Vim plugin to help users organize and navigate their .vimrc / init.vim configs",
+            "date_modified": "2023-11-18T01:46:20.000Z",
+            "date_published": "2021-02-10T05:57:43.000Z",
+            "author": {
+                "name": "jesseleite",
+                "url": "https://github.com/jesseleite"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3629785?u=c03a60bb3a40bb94c97e9865125d08b057aa37af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for defining proper true per-project config</div>",
             "url": "https://github.com/phodge/vim-project-config",
             "title": "phodge/vim-project-config: A plugin for defining proper true per-project config",
@@ -58,6 +91,17 @@
             "author": {
                 "name": "phodge",
                 "url": "https://github.com/phodge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15071778?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim search plugin</div>",
+            "url": "https://github.com/Emilv2/siefe.vim",
+            "title": "Emilv2/siefe.vim: Vim search plugin",
+            "date_modified": "2023-12-13T21:16:54.000Z",
+            "date_published": "2022-10-03T21:18:56.000Z",
+            "author": {
+                "name": "Emilv2",
+                "url": "https://github.com/Emilv2"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "kyoh86",
                 "url": "https://github.com/kyoh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9219562?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Custom build of vim with all the plugins I'm using. </div>",
-            "url": "https://github.com/ValdamireGido/vvim",
-            "title": "ValdamireGido/vvim: Custom build of vim with all the plugins I'm using. ",
-            "date_modified": "2022-08-29T15:44:29.000Z",
-            "date_published": "2019-10-22T14:36:41.000Z",
-            "author": {
-                "name": "ValdamireGido",
-                "url": "https://github.com/ValdamireGido"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/823277?u=2bd448fd47ffdb80a92e49b497332c9a499e436c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins</div>",
-            "url": "https://github.com/rhysd/action-setup-vim",
-            "title": "rhysd/action-setup-vim: GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins",
-            "date_modified": "2024-01-04T02:54:04.000Z",
-            "date_published": "2020-01-24T03:39:54.000Z",
-            "author": {
-                "name": "rhysd",
-                "url": "https://github.com/rhysd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36218691?u=520d7c6611763592bb16d16b4323493d17b58a4b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📁 File explorer plugin for Vim/Neovim</div>",
-            "url": "https://github.com/obaland/vfiler.vim",
-            "title": "obaland/vfiler.vim: :file_folder: File explorer plugin for Vim/Neovim",
-            "date_modified": "2024-01-03T09:50:17.000Z",
-            "date_published": "2018-02-22T03:12:25.000Z",
-            "author": {
-                "name": "obaland",
-                "url": "https://github.com/obaland"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13349592?u=75edd250e992e87fc4449eafd72240ee904c499f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin to manage projects and sessions</div>",
-            "url": "https://github.com/leafOfTree/vim-project",
-            "title": "leafOfTree/vim-project: A vim plugin to manage projects and sessions",
-            "date_modified": "2024-01-15T15:32:28.000Z",
-            "date_published": "2020-09-26T11:14:41.000Z",
-            "author": {
-                "name": "leafOfTree",
-                "url": "https://github.com/leafOfTree"
             }
         }
     ]
