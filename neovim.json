@@ -6,10 +6,76 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28717?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that allows switching tests in test frameworks</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44616505?u=de870e92f31fb358e338615a35cbda083cc33068&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔬 A NeoVim plugin which uses virtual text to show OCaml types</div>",
+            "url": "https://github.com/theoboldalex/typelens.nvim",
+            "title": "theoboldalex/typelens.nvim: 🔬 A NeoVim plugin which uses virtual text to show OCaml types",
+            "date_modified": "2024-01-19T21:09:55.000Z",
+            "date_published": "2024-01-18T22:59:01.000Z",
+            "author": {
+                "name": "theoboldalex",
+                "url": "https://github.com/theoboldalex"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76068197?u=51d9febd55a40f164e8c2adfd83e358691796688&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the best Neovim plugins</div>",
+            "url": "https://github.com/codicocodes/dotfyle",
+            "title": "codicocodes/dotfyle: Find the best Neovim plugins",
+            "date_modified": "2024-01-19T15:55:06.000Z",
+            "date_published": "2023-03-15T16:32:24.000Z",
+            "author": {
+                "name": "codicocodes",
+                "url": "https://github.com/codicocodes"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options. (WIP)</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options. (WIP)",
+            "date_modified": "2024-01-13T15:15:08.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
+            "author": {
+                "name": "redyf",
+                "url": "https://github.com/redyf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
+            "url": "https://github.com/benlubas/molten-nvim",
+            "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
+            "date_modified": "2024-01-19T22:02:06.000Z",
+            "date_published": "2023-10-05T18:25:49.000Z",
+            "author": {
+                "name": "benlubas",
+                "url": "https://github.com/benlubas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/430272?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A really light statusline/tabline/winbar plugin for Neovim using Lua.</div>",
+            "url": "https://github.com/adelarsq/bar.nvim",
+            "title": "adelarsq/bar.nvim: A really light statusline/tabline/winbar plugin for Neovim using Lua.",
+            "date_modified": "2024-01-08T06:19:51.000Z",
+            "date_published": "2024-01-06T02:15:08.000Z",
+            "author": {
+                "name": "adelarsq",
+                "url": "https://github.com/adelarsq"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79932321?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small neovim plugin to compile and run C code after save</div>",
+            "url": "https://github.com/eoBattisti/autocrun.nvim",
+            "title": "eoBattisti/autocrun.nvim: A small neovim plugin to compile and run C code after save",
+            "date_modified": "2024-01-14T04:44:24.000Z",
+            "date_published": "2024-01-11T21:17:37.000Z",
+            "author": {
+                "name": "eoBattisti",
+                "url": "https://github.com/eoBattisti"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28717?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that allows you to toggle test blocks on/off.</div>",
             "url": "https://github.com/cange/specto.nvim",
-            "title": "cange/specto.nvim: A Neovim plugin that allows switching tests in test frameworks",
-            "date_modified": "2024-01-19T21:07:07.000Z",
+            "title": "cange/specto.nvim: A Neovim plugin that allows you to toggle test blocks on/off.",
+            "date_modified": "2024-01-19T21:11:47.000Z",
             "date_published": "2023-11-05T12:30:29.000Z",
             "author": {
                 "name": "cange",
@@ -20,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-01-19T20:59:51.000Z",
+            "date_modified": "2024-01-19T21:52:46.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -39,21 +105,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79932321?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small neovim plugin to compile and run C code after save</div>",
-            "url": "https://github.com/eoBattisti/autocrun.nvim",
-            "title": "eoBattisti/autocrun.nvim: A small neovim plugin to compile and run C code after save",
-            "date_modified": "2024-01-14T04:44:24.000Z",
-            "date_published": "2024-01-11T21:17:37.000Z",
-            "author": {
-                "name": "eoBattisti",
-                "url": "https://github.com/eoBattisti"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
             "url": "https://github.com/Iron-E/nvim-highlite",
             "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
-            "date_modified": "2024-01-19T20:19:36.000Z",
+            "date_modified": "2024-01-19T21:15:15.000Z",
             "date_published": "2020-06-19T22:42:23.000Z",
             "author": {
                 "name": "Iron-E",
@@ -86,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
             "url": "https://github.com/AstroNvim/AstroNvim",
             "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-01-19T19:39:24.000Z",
+            "date_modified": "2024-01-19T21:42:03.000Z",
             "date_published": "2022-02-02T22:33:34.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
-            "url": "https://github.com/benlubas/molten-nvim",
-            "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
-            "date_modified": "2024-01-19T15:49:26.000Z",
-            "date_published": "2023-10-05T18:25:49.000Z",
-            "author": {
-                "name": "benlubas",
-                "url": "https://github.com/benlubas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9919?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for GitHub Copilot</div>",
-            "url": "https://github.com/github/copilot.vim",
-            "title": "github/copilot.vim: Neovim plugin for GitHub Copilot",
-            "date_modified": "2024-01-19T20:42:04.000Z",
-            "date_published": "2021-10-20T18:29:13.000Z",
-            "author": {
-                "name": "github",
-                "url": "https://github.com/github"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-01-19T18:42:38.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-01-19T18:00:21.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2416122?u=fe1ac631e4e14da4a8d15e0d2b4579329f6dda79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chat with Ollama/Huggingface/TextGen/OpenAI GPT Neovim Plugin: Effortless Natural Language Generation with LLM API </div>",
-            "url": "https://github.com/huynle/ogpt.nvim",
-            "title": "huynle/ogpt.nvim: Chat with Ollama/Huggingface/TextGen/OpenAI GPT Neovim Plugin: Effortless Natural Language Generation with LLM API ",
-            "date_modified": "2024-01-19T14:25:56.000Z",
-            "date_published": "2023-11-21T10:45:26.000Z",
-            "author": {
-                "name": "huynle",
-                "url": "https://github.com/huynle"
             }
         }
     ]
