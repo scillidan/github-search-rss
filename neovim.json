@@ -6,17 +6,6 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76068197?u=51d9febd55a40f164e8c2adfd83e358691796688&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the best Neovim plugins</div>",
-            "url": "https://github.com/codicocodes/dotfyle",
-            "title": "codicocodes/dotfyle: Find the best Neovim plugins",
-            "date_modified": "2024-01-21T08:37:16.000Z",
-            "date_published": "2023-03-15T16:32:24.000Z",
-            "author": {
-                "name": "codicocodes",
-                "url": "https://github.com/codicocodes"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115313498?u=fba13b0a4a10932325055aea56f8639131eb2523&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FlowTime (aka Flowmodoro) productivity Neovim Plugin</div>",
             "url": "https://github.com/donbignose/flowtime",
             "title": "donbignose/flowtime: FlowTime (aka Flowmodoro) productivity Neovim Plugin",
@@ -25,6 +14,39 @@
             "author": {
                 "name": "donbignose",
                 "url": "https://github.com/donbignose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "date_modified": "2024-01-21T07:29:26.000Z",
+            "date_published": "2021-12-12T13:38:23.000Z",
+            "author": {
+                "name": "nvim-neo-tree",
+                "url": "https://github.com/nvim-neo-tree"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41065736?u=a7fe1d2ebe6e2f230bdbd61d533c6009aef712e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin to Save and Restore Sessions Per-directory</div>",
+            "url": "https://github.com/pysan3/autosession.nvim",
+            "title": "pysan3/autosession.nvim: Neovim Plugin to Save and Restore Sessions Per-directory",
+            "date_modified": "2024-01-12T18:27:42.000Z",
+            "date_published": "2022-02-26T11:18:47.000Z",
+            "author": {
+                "name": "pysan3",
+                "url": "https://github.com/pysan3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76068197?u=51d9febd55a40f164e8c2adfd83e358691796688&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the best Neovim plugins</div>",
+            "url": "https://github.com/codicocodes/dotfyle",
+            "title": "codicocodes/dotfyle: Find the best Neovim plugins",
+            "date_modified": "2024-01-21T08:37:16.000Z",
+            "date_published": "2023-03-15T16:32:24.000Z",
+            "author": {
+                "name": "codicocodes",
+                "url": "https://github.com/codicocodes"
             }
         },
         {
@@ -108,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-01-21T14:34:43.000Z",
+            "date_modified": "2024-01-21T18:00:35.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-01-21T16:03:58.000Z",
+            "date_modified": "2024-01-21T18:02:14.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -185,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-01-21T15:56:55.000Z",
+            "date_modified": "2024-01-21T18:06:11.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "brianaung",
                 "url": "https://github.com/brianaung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13509521?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin that copies the current file's path to the clipboard.</div>",
-            "url": "https://github.com/tnakaz/path-to-clipboard.nvim",
-            "title": "tnakaz/path-to-clipboard.nvim: Simple Neovim plugin that copies the current file's path to the clipboard.",
-            "date_modified": "2023-12-10T22:56:15.000Z",
-            "date_published": "2023-03-19T01:01:26.000Z",
-            "author": {
-                "name": "tnakaz",
-                "url": "https://github.com/tnakaz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8222059?u=43b8eaedd695cb434f7480e2c8f9ae31ab41d7b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fortune plugin for neovim</div>",
-            "url": "https://github.com/rubiin/fortune.nvim",
-            "title": "rubiin/fortune.nvim: A fortune plugin for neovim",
-            "date_modified": "2024-01-20T08:09:57.000Z",
-            "date_published": "2024-01-20T07:59:03.000Z",
-            "author": {
-                "name": "rubiin",
-                "url": "https://github.com/rubiin"
             }
         }
     ]
