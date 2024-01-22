@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
+            "url": "https://github.com/disrupted/dotfiles",
+            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
+            "date_modified": "2024-01-10T09:21:44.000Z",
+            "date_published": "2020-08-18T11:47:17.000Z",
+            "author": {
+                "name": "disrupted",
+                "url": "https://github.com/disrupted"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121724080?u=0de214ceb24619bb78f8f3a0186f9df98c787e06&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My own configuration and set of plugins for Neovim</div>",
             "url": "https://github.com/gbazuev/nvim-config",
             "title": "gbazuev/nvim-config: My own configuration and set of plugins for Neovim",
@@ -72,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26169924?u=269b4c9cf7e7a1f389d3570d2165db7f515d6f7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple cursors plugin for vim/neovim</div>",
             "url": "https://github.com/mg979/vim-visual-multi",
             "title": "mg979/vim-visual-multi: Multiple cursors plugin for vim/neovim",
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22454918?u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to visualise and resolve merge conflicts in neovim</div>",
             "url": "https://github.com/akinsho/git-conflict.nvim",
             "title": "akinsho/git-conflict.nvim: A plugin to visualise and resolve merge conflicts in neovim",
-            "date_modified": "2024-01-22T14:00:03.000Z",
+            "date_modified": "2024-01-22T16:42:12.000Z",
             "date_published": "2022-03-13T00:21:52.000Z",
             "author": {
                 "name": "akinsho",
@@ -182,6 +193,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3269984?u=63d214be76be9a948b9b7ada6511d3f24f3aed4d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nvim =&gt; dac; -- Work in progress. It's my first Neovim plugin and first time Lua. Be patient, it will be worth it.</div>",
+            "url": "https://github.com/gacallea/chuck-nvim",
+            "title": "gacallea/chuck-nvim: nvim => dac; -- Work in progress. It's my first Neovim plugin and first time Lua. Be patient, it will be worth it.",
+            "date_modified": "2024-01-22T17:02:13.000Z",
+            "date_published": "2024-01-11T10:33:42.000Z",
+            "author": {
+                "name": "gacallea",
+                "url": "https://github.com/gacallea"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24610252?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to find/parse and goto a specific path</div>",
             "url": "https://github.com/Feferoni/goto-path.nvim",
             "title": "Feferoni/goto-path.nvim: neovim plugin to find/parse and goto a specific path",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "HCY-ASLEEP",
                 "url": "https://github.com/HCY-ASLEEP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14850266?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for interacting with a REPL in a separate kitty window.</div>",
-            "url": "https://github.com/degnbol/kittyREPL.nvim",
-            "title": "degnbol/kittyREPL.nvim: Neovim plugin for interacting with a REPL in a separate kitty window.",
-            "date_modified": "2022-09-06T08:30:09.000Z",
-            "date_published": "2022-09-06T07:22:29.000Z",
-            "author": {
-                "name": "degnbol",
-                "url": "https://github.com/degnbol"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-01-22T08:09:53.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
             }
         }
     ]
