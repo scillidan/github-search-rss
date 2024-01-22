@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
+            "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
+            "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
+            "date_modified": "2024-01-22T09:59:46.000Z",
+            "date_published": "2023-08-28T10:46:27.000Z",
+            "author": {
+                "name": "aigc-apps",
+                "url": "https://github.com/aigc-apps"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28695009?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Enhance Stable Diffusion image quality, prompt following, and more through multiple implementations of novel algorithms for Automatic1111 WebUI.</div>",
+            "url": "https://github.com/v0xie/sd-webui-incantations",
+            "title": "v0xie/sd-webui-incantations: Enhance Stable Diffusion image quality, prompt following, and more through multiple implementations of novel algorithms for Automatic1111 WebUI.",
+            "date_modified": "2024-01-22T09:31:58.000Z",
+            "date_published": "2024-01-16T02:56:36.000Z",
+            "author": {
+                "name": "v0xie",
+                "url": "https://github.com/v0xie"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=fb5bc556ba21239a05c2373b0aa06ee1549d532c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that organizes Extensions into Tabs</div>",
             "url": "https://github.com/Haoming02/sd-webui-tabs-extension",
             "title": "Haoming02/sd-webui-tabs-extension: An Extension for Automatic1111 Webui that organizes Extensions into Tabs",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-01-22T08:17:17.000Z",
+            "date_modified": "2024-01-22T09:44:52.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -83,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
-            "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
-            "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
-            "date_modified": "2024-01-22T09:08:52.000Z",
-            "date_published": "2023-08-28T10:46:27.000Z",
-            "author": {
-                "name": "aigc-apps",
-                "url": "https://github.com/aigc-apps"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40751091?u=7eac8ccaab1067d74a972eebf2f896b9e4ebf89d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/w-e-w/sd-webui-hires-fix-tweaks",
             "title": "w-e-w/sd-webui-hires-fix-tweaks",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25872019?u=d79d40fb39d0c0d30a54aa81b68964c7e5284064&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fast and powerful image/video browser for Stable Diffusion webui and ComfyUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.</div>",
             "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing",
             "title": "zanllp/sd-webui-infinite-image-browsing: A fast and powerful image/video browser for Stable Diffusion webui and ComfyUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.",
-            "date_modified": "2024-01-20T15:18:16.000Z",
+            "date_modified": "2024-01-22T09:31:01.000Z",
             "date_published": "2023-03-07T18:26:27.000Z",
             "author": {
                 "name": "zanllp",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LoRA training extention for Stable Diffusion Web-UI</div>",
             "url": "https://github.com/hako-mikan/sd-webui-traintrain",
             "title": "hako-mikan/sd-webui-traintrain: LoRA training extention for Stable Diffusion Web-UI",
-            "date_modified": "2024-01-22T05:51:11.000Z",
+            "date_modified": "2024-01-22T10:04:08.000Z",
             "date_published": "2024-01-19T11:33:55.000Z",
             "author": {
                 "name": "hako-mikan",
                 "url": "https://github.com/hako-mikan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28695009?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unofficial implementation of \"SEGA: Instructing Text-to-Image Models using Semantic Guidance\". Semantic Guidance gives you more control over the semantics of an image given an additional text prompt. An extension for Automatic1111 WebUI.</div>",
-            "url": "https://github.com/v0xie/sd-webui-semantic-guidance",
-            "title": "v0xie/sd-webui-semantic-guidance: Unofficial implementation of \"SEGA: Instructing Text-to-Image Models using Semantic Guidance\". Semantic Guidance gives you more control over the semantics of an image given an additional text prompt. An extension for Automatic1111 WebUI.",
-            "date_modified": "2024-01-21T19:50:27.000Z",
-            "date_published": "2023-11-09T23:58:42.000Z",
-            "author": {
-                "name": "v0xie",
-                "url": "https://github.com/v0xie"
             }
         }
     ]
