@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42234840?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple GTK+ frontend for mpv</div>",
+            "url": "https://github.com/celluloid-player/celluloid",
+            "title": "celluloid-player/celluloid: A simple GTK+ frontend for mpv",
+            "date_modified": "2024-01-24T11:01:42.000Z",
+            "date_published": "2014-08-01T14:44:13.000Z",
+            "author": {
+                "name": "celluloid-player",
+                "url": "https://github.com/celluloid-player"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3690342?u=8e1c8c34e2b1c11433f9e9515aff468b62f6aa4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Video player based on MPlayer/mplayer2 (mingw-w64)</div>",
+            "url": "https://github.com/atomlong/mingw-w64-mpv",
+            "title": "atomlong/mingw-w64-mpv: Video player based on MPlayer/mplayer2 (mingw-w64)",
+            "date_modified": "2022-01-01T01:01:21.000Z",
+            "date_published": "2021-09-11T14:29:35.000Z",
+            "author": {
+                "name": "atomlong",
+                "url": "https://github.com/atomlong"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/873944?u=0b4d33b5b9a7273e04679ed32664111ba4be6b04&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vintage TV for Raspberry Pi</div>",
+            "url": "https://github.com/dtcooper/vintage-pi-tv",
+            "title": "dtcooper/vintage-pi-tv: Vintage TV for Raspberry Pi",
+            "date_modified": "2024-01-22T17:13:51.000Z",
+            "date_published": "2024-01-10T15:52:14.000Z",
+            "author": {
+                "name": "dtcooper",
+                "url": "https://github.com/dtcooper"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35899928?u=0df7df5a2970e6b9c7a2be68faf110f970d53e15&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>URL Handler for mpv player</div>",
+            "url": "https://github.com/SeppNel/mpv-url-handler",
+            "title": "SeppNel/mpv-url-handler: URL Handler for mpv player",
+            "date_modified": "2023-12-16T12:04:34.000Z",
+            "date_published": "2023-12-16T11:39:20.000Z",
+            "author": {
+                "name": "SeppNel",
+                "url": "https://github.com/SeppNel"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78746991?u=8acb30ad23513e602416e2e67e8b2ba7731f148f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>.s</div>",
             "url": "https://github.com/hakan-demirli/dotfiles",
             "title": "hakan-demirli/dotfiles: .s",
@@ -31,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
             "url": "https://github.com/mpv-player/mpv",
             "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2024-01-24T18:01:23.000Z",
+            "date_modified": "2024-01-24T18:59:52.000Z",
             "date_published": "2012-10-13T08:08:44.000Z",
             "author": {
                 "name": "mpv-player",
@@ -53,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1680515?u=88e57a57c6bac5f53ad0486360d054d6e08c26e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>context menu, file dialog, clipboard support for mpv</div>",
             "url": "https://github.com/tsl0922/mpv-menu-plugin",
             "title": "tsl0922/mpv-menu-plugin: context menu, file dialog, clipboard support for mpv",
-            "date_modified": "2024-01-24T07:42:00.000Z",
+            "date_modified": "2024-01-24T18:55:21.000Z",
             "date_published": "2023-12-11T07:13:22.000Z",
             "author": {
                 "name": "tsl0922",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "natural-harmonia-gropius",
                 "url": "https://github.com/natural-harmonia-gropius"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
-            "url": "https://github.com/zhongfly/mpv-winbuild",
-            "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
-            "date_modified": "2024-01-23T14:53:19.000Z",
-            "date_published": "2021-10-01T08:09:13.000Z",
-            "author": {
-                "name": "zhongfly",
-                "url": "https://github.com/zhongfly"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54144015?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.</div>",
-            "url": "https://github.com/m-ab-s/media-autobuild_suite",
-            "title": "m-ab-s/media-autobuild_suite: This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.",
-            "date_modified": "2024-01-24T17:57:23.000Z",
-            "date_published": "2013-09-28T20:07:11.000Z",
-            "author": {
-                "name": "m-ab-s",
-                "url": "https://github.com/m-ab-s"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29517049?u=dc3fc0dbc5d893dbaa9d03ff3eca4d1c4e227b7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.</div>",
-            "url": "https://github.com/iamkroot/trakt-scrobbler",
-            "title": "iamkroot/trakt-scrobbler: Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.",
-            "date_modified": "2024-01-22T12:00:13.000Z",
-            "date_published": "2018-07-27T18:21:48.000Z",
-            "author": {
-                "name": "iamkroot",
-                "url": "https://github.com/iamkroot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35151645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The modern video player for macOS.</div>",
-            "url": "https://github.com/iina/iina",
-            "title": "iina/iina: The modern video player for macOS.",
-            "date_modified": "2024-01-24T16:32:59.000Z",
-            "date_published": "2016-12-19T07:18:45.000Z",
-            "author": {
-                "name": "iina",
-                "url": "https://github.com/iina"
             }
         }
     ]

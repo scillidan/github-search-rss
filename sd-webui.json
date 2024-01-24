@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124379871?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/groinge/sd-webui-untitledmerger",
+            "title": "groinge/sd-webui-untitledmerger",
+            "date_modified": "2024-01-10T14:50:03.000Z",
+            "date_published": "2024-01-10T14:47:42.000Z",
+            "author": {
+                "name": "groinge",
+                "url": "https://github.com/groinge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22467749?u=e7af4ff811b743a334df0c94713abba3b6ba69dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/gatici/terraform-juju-sdcore-webui-k8s",
+            "title": "gatici/terraform-juju-sdcore-webui-k8s",
+            "date_modified": "2024-01-24T18:41:35.000Z",
+            "date_published": "2024-01-23T10:29:26.000Z",
+            "author": {
+                "name": "gatici",
+                "url": "https://github.com/gatici"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65122811?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Test a base prompt with different checkpoints and for the checkpoints specific prompt templates</div>",
             "url": "https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt",
             "title": "h43lb1t0/SD-WebUI-BatchCheckpointPrompt: Test a base prompt with different checkpoints and for the checkpoints specific prompt templates",
@@ -39,10 +61,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35677394?u=c5ea9568b8793e15b287dde219559894cf9d3507&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/aria1th/sd-webui-deepcache-standalone",
+            "title": "aria1th/sd-webui-deepcache-standalone",
+            "date_modified": "2024-01-24T12:22:00.000Z",
+            "date_published": "2023-12-05T18:07:08.000Z",
+            "author": {
+                "name": "aria1th",
+                "url": "https://github.com/aria1th"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
             "url": "https://github.com/siliconflow/onediff",
             "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
-            "date_modified": "2024-01-24T13:00:27.000Z",
+            "date_modified": "2024-01-24T19:02:03.000Z",
             "date_published": "2022-09-21T07:34:13.000Z",
             "author": {
                 "name": "siliconflow",
@@ -64,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-01-24T16:28:42.000Z",
+            "date_modified": "2024-01-24T18:12:52.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -116,6 +149,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tab for sd-webui for replacing objects in picture using detection prompt</div>",
+            "url": "https://github.com/light-and-ray/sd-webui-replacer",
+            "title": "light-and-ray/sd-webui-replacer: A tab for sd-webui for replacing objects in picture using detection prompt",
+            "date_modified": "2024-01-23T20:56:52.000Z",
+            "date_published": "2023-11-06T10:09:24.000Z",
+            "author": {
+                "name": "light-and-ray",
+                "url": "https://github.com/light-and-ray"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25872019?u=d79d40fb39d0c0d30a54aa81b68964c7e5284064&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fast and powerful image/video browser for Stable Diffusion webui and ComfyUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.</div>",
             "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing",
             "title": "zanllp/sd-webui-infinite-image-browsing: A fast and powerful image/video browser for Stable Diffusion webui and ComfyUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.",
@@ -138,11 +182,11 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124379871?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/groinge/sd-webui-untitledmerger",
-            "title": "groinge/sd-webui-untitledmerger",
-            "date_modified": "2024-01-10T14:50:03.000Z",
-            "date_published": "2024-01-10T14:47:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124379871?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatically converts any SD v1.5 checkpoint in to a temporary inpainting model</div>",
+            "url": "https://github.com/groinge/sd-webui-inpaintconverter",
+            "title": "groinge/sd-webui-inpaintconverter: Automatically converts any SD v1.5 checkpoint in to a temporary inpainting model",
+            "date_modified": "2024-01-22T18:32:55.000Z",
+            "date_published": "2023-12-27T19:19:47.000Z",
             "author": {
                 "name": "groinge",
                 "url": "https://github.com/groinge"
@@ -171,58 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4182437?u=7f23bea86b127805a570c010c147676779766dc6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A curated list of awesome sd-webui extensions and libraries </div>",
-            "url": "https://github.com/berchan/awesome-sd-webui",
-            "title": "berchan/awesome-sd-webui: A curated list of awesome sd-webui extensions and libraries ",
-            "date_modified": "2024-01-22T12:13:22.000Z",
-            "date_published": "2024-01-22T11:39:04.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53600533?u=a13826b2f030adebfb6825b15f1fc845ba5ef05c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>stable diffusion webui api proxy for customzing</div>",
+            "url": "https://github.com/Reelect/SD_webui_proxy",
+            "title": "Reelect/SD_webui_proxy: stable diffusion webui api proxy for customzing",
+            "date_modified": "2024-01-23T08:40:46.000Z",
+            "date_published": "2024-01-21T13:42:45.000Z",
             "author": {
-                "name": "berchan",
-                "url": "https://github.com/berchan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22467749?u=e7af4ff811b743a334df0c94713abba3b6ba69dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/gatici/terraform-juju-sdcore-webui-k8s",
-            "title": "gatici/terraform-juju-sdcore-webui-k8s",
-            "date_modified": "2024-01-23T13:24:50.000Z",
-            "date_published": "2024-01-23T10:29:26.000Z",
-            "author": {
-                "name": "gatici",
-                "url": "https://github.com/gatici"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30926385?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a repository for conversations using OpenAI API (compatible with ChatGPT) or llama.cpp in Stable Diffusion web UI.</div>",
-            "url": "https://github.com/NON906/sd-webui-chatgpt",
-            "title": "NON906/sd-webui-chatgpt: This is a repository for conversations using OpenAI API (compatible with ChatGPT) or llama.cpp in Stable Diffusion web UI.",
-            "date_modified": "2024-01-23T04:58:47.000Z",
-            "date_published": "2023-08-11T04:22:17.000Z",
-            "author": {
-                "name": "NON906",
-                "url": "https://github.com/NON906"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19755759?u=63886185276999743fcd286ffa6a9d834d0cf4be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/er1cw00/sd-webui-facefusion",
-            "title": "er1cw00/sd-webui-facefusion",
-            "date_modified": "2024-01-16T21:23:40.000Z",
-            "date_published": "2024-01-02T13:48:03.000Z",
-            "author": {
-                "name": "er1cw00",
-                "url": "https://github.com/er1cw00"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=fb5bc556ba21239a05c2373b0aa06ee1549d532c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that generates a mask for Inpainting from the edge of the subject</div>",
-            "url": "https://github.com/Haoming02/sd-webui-aaa",
-            "title": "Haoming02/sd-webui-aaa: An Extension for Automatic1111 Webui that generates a mask for Inpainting from the edge of the subject",
-            "date_modified": "2024-01-15T15:55:32.000Z",
-            "date_published": "2024-01-11T06:17:47.000Z",
-            "author": {
-                "name": "Haoming02",
-                "url": "https://github.com/Haoming02"
+                "name": "Reelect",
+                "url": "https://github.com/Reelect"
             }
         }
     ]
