@@ -6,10 +6,21 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
+            "url": "https://github.com/siliconflow/onediff",
+            "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
+            "date_modified": "2024-01-24T01:56:23.000Z",
+            "date_published": "2022-09-21T07:34:13.000Z",
+            "author": {
+                "name": "siliconflow",
+                "url": "https://github.com/siliconflow"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-01-24T01:50:49.000Z",
+            "date_modified": "2024-01-24T01:59:14.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -61,28 +72,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124379871?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatically converts any SD v1.5 checkpoint in to a temporary inpainting model</div>",
-            "url": "https://github.com/groinge/sd-webui-inpaintconverter",
-            "title": "groinge/sd-webui-inpaintconverter: Automatically converts any SD v1.5 checkpoint in to a temporary inpainting model",
-            "date_modified": "2024-01-22T18:32:55.000Z",
-            "date_published": "2023-12-27T19:19:47.000Z",
-            "author": {
-                "name": "groinge",
-                "url": "https://github.com/groinge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
-            "url": "https://github.com/siliconflow/onediff",
-            "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
-            "date_modified": "2024-01-23T07:30:20.000Z",
-            "date_published": "2022-09-21T07:34:13.000Z",
-            "author": {
-                "name": "siliconflow",
-                "url": "https://github.com/siliconflow"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37621276?u=cd9adbd464534b7ee67ae34ebbbf2b6092a66a7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto detecting, masking and inpainting with detection model.</div>",
             "url": "https://github.com/Bing-su/adetailer",
             "title": "Bing-su/adetailer: Auto detecting, masking and inpainting with detection model.",
@@ -102,17 +91,6 @@
             "author": {
                 "name": "light-and-ray",
                 "url": "https://github.com/light-and-ray"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53600533?u=a13826b2f030adebfb6825b15f1fc845ba5ef05c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>stable diffusion webui api proxy for customzing</div>",
-            "url": "https://github.com/Reelect/SD_webui_proxy",
-            "title": "Reelect/SD_webui_proxy: stable diffusion webui api proxy for customzing",
-            "date_modified": "2024-01-23T08:40:46.000Z",
-            "date_published": "2024-01-21T13:42:45.000Z",
-            "author": {
-                "name": "Reelect",
-                "url": "https://github.com/Reelect"
             }
         },
         {
@@ -204,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28695009?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Enhance Stable Diffusion image quality, prompt following, and more through multiple implementations of novel algorithms for Automatic1111 WebUI.</div>",
-            "url": "https://github.com/v0xie/sd-webui-incantations",
-            "title": "v0xie/sd-webui-incantations: Enhance Stable Diffusion image quality, prompt following, and more through multiple implementations of novel algorithms for Automatic1111 WebUI.",
-            "date_modified": "2024-01-23T22:34:46.000Z",
-            "date_published": "2024-01-16T02:56:36.000Z",
-            "author": {
-                "name": "v0xie",
-                "url": "https://github.com/v0xie"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>add native color correction feature into Extras tab</div>",
             "url": "https://github.com/light-and-ray/sd-webui-color-correction-extras",
             "title": "light-and-ray/sd-webui-color-correction-extras: add native color correction feature into Extras tab",
@@ -223,6 +190,39 @@
             "author": {
                 "name": "light-and-ray",
                 "url": "https://github.com/light-and-ray"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7543632?u=d0bf9e4b4f1ac04d1f267f5acea7a77d176bf9a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Playing with SDXL latent</div>",
+            "url": "https://github.com/SLAPaper/sd-webui-sdxl-latent-tweaking",
+            "title": "SLAPaper/sd-webui-sdxl-latent-tweaking: Playing with SDXL latent",
+            "date_modified": "2024-01-16T21:24:31.000Z",
+            "date_published": "2023-12-09T10:45:17.000Z",
+            "author": {
+                "name": "SLAPaper",
+                "url": "https://github.com/SLAPaper"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.</div>",
+            "url": "https://github.com/canonical/sdcore-webui-k8s-operator",
+            "title": "canonical/sdcore-webui-k8s-operator: A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.",
+            "date_modified": "2023-12-11T09:40:27.000Z",
+            "date_published": "2023-05-19T15:43:33.000Z",
+            "author": {
+                "name": "canonical",
+                "url": "https://github.com/canonical"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57876960?u=5d0c2c03561ff068d88bf3633a827540e23cadc1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>System and platform info and standardized benchmarking extension for SD.Next and WebUI</div>",
+            "url": "https://github.com/vladmandic/sd-extension-system-info",
+            "title": "vladmandic/sd-extension-system-info: System and platform info and standardized benchmarking extension for SD.Next and WebUI",
+            "date_modified": "2024-01-20T23:36:57.000Z",
+            "date_published": "2023-01-14T16:40:39.000Z",
+            "author": {
+                "name": "vladmandic",
+                "url": "https://github.com/vladmandic"
             }
         }
     ]
