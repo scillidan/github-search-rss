@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106895505?u=f018b6072825f90965e858ffa5d2c2d0e10d5873&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for compressing and decompressing code blocks.</div>",
+            "url": "https://github.com/mxilinas/flexblock.nvim",
+            "title": "mxilinas/flexblock.nvim: A Neovim plugin for compressing and decompressing code blocks.",
+            "date_modified": "2024-01-24T22:45:03.000Z",
+            "date_published": "2024-01-24T22:43:23.000Z",
+            "author": {
+                "name": "mxilinas",
+                "url": "https://github.com/mxilinas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69250723?u=1a5fec3d222c3fc3cac306c5794c569c52292477&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin enabling you to solve LeetCode problems.</div>",
+            "url": "https://github.com/kawre/leetcode.nvim",
+            "title": "kawre/leetcode.nvim: A Neovim plugin enabling you to solve LeetCode problems.",
+            "date_modified": "2024-01-24T01:51:12.000Z",
+            "date_published": "2023-09-16T11:25:17.000Z",
+            "author": {
+                "name": "kawre",
+                "url": "https://github.com/kawre"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36828703?u=886cb5b9299aeb1eebcfb9a40ad2ff7a4d8df439&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config in lua and testing new plugins for 2022. Let's go!</div>",
             "url": "https://github.com/pedrofrohmut/nvim-lua",
             "title": "pedrofrohmut/nvim-lua: My Neovim config in lua and testing new plugins for 2022. Let's go!",
@@ -14,6 +36,28 @@
             "author": {
                 "name": "pedrofrohmut",
                 "url": "https://github.com/pedrofrohmut"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76068197?u=51d9febd55a40f164e8c2adfd83e358691796688&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the best Neovim plugins</div>",
+            "url": "https://github.com/codicocodes/dotfyle",
+            "title": "codicocodes/dotfyle: Find the best Neovim plugins",
+            "date_modified": "2024-01-24T23:04:46.000Z",
+            "date_published": "2023-03-15T16:32:24.000Z",
+            "author": {
+                "name": "codicocodes",
+                "url": "https://github.com/codicocodes"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
+            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
+            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
+            "date_modified": "2024-01-23T20:49:13.000Z",
+            "date_published": "2023-07-13T06:54:44.000Z",
+            "author": {
+                "name": "polirritmico",
+                "url": "https://github.com/polirritmico"
             }
         },
         {
@@ -69,17 +113,6 @@
             "author": {
                 "name": "Funk66",
                 "url": "https://github.com/Funk66"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76068197?u=51d9febd55a40f164e8c2adfd83e358691796688&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the best Neovim plugins</div>",
-            "url": "https://github.com/codicocodes/dotfyle",
-            "title": "codicocodes/dotfyle: Find the best Neovim plugins",
-            "date_modified": "2024-01-24T14:14:11.000Z",
-            "date_published": "2023-03-15T16:32:24.000Z",
-            "author": {
-                "name": "codicocodes",
-                "url": "https://github.com/codicocodes"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "rockerBOO",
                 "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21000943?u=9226d74957ffbc49ba58d16dcce69cb633f9f92f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.</div>",
-            "url": "https://github.com/RRethy/nvim-base16",
-            "title": "RRethy/nvim-base16: Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.",
-            "date_modified": "2024-01-23T09:24:39.000Z",
-            "date_published": "2021-03-12T19:32:23.000Z",
-            "author": {
-                "name": "RRethy",
-                "url": "https://github.com/RRethy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/545021?u=d04ec17498bd6766590828ef4b8d1b9dddd24024&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim lua plugin for using an external command to encode and decode text</div>",
-            "url": "https://github.com/antarktikali/nvim-external-base64",
-            "title": "antarktikali/nvim-external-base64: Neovim lua plugin for using an external command to encode and decode text",
-            "date_modified": "2024-01-24T18:20:28.000Z",
-            "date_published": "2024-01-24T15:15:00.000Z",
-            "author": {
-                "name": "antarktikali",
-                "url": "https://github.com/antarktikali"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125701?u=3a01e6929aa1ae0c1dc796928df3c91e22e1ca0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CodeQL plugin for Neovim</div>",
-            "url": "https://github.com/pwntester/codeql.nvim",
-            "title": "pwntester/codeql.nvim: CodeQL plugin for Neovim",
-            "date_modified": "2024-01-19T17:39:47.000Z",
-            "date_published": "2019-12-12T21:30:22.000Z",
-            "author": {
-                "name": "pwntester",
-                "url": "https://github.com/pwntester"
             }
         }
     ]
