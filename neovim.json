@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152565276?u=7a069435400987286d9e4607f9e837bf85ee380a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Config (Lazy💤 plugin manager)</div>",
+            "url": "https://github.com/PauloGitbox/nvim",
+            "title": "PauloGitbox/nvim: Neovim Config (Lazy💤 plugin manager)",
+            "date_modified": "2024-01-26T17:24:10.000Z",
+            "date_published": "2024-01-26T17:23:07.000Z",
+            "author": {
+                "name": "PauloGitbox",
+                "url": "https://github.com/PauloGitbox"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56785356?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin that displays tags in a window, ordered by scope</div>",
+            "url": "https://github.com/preservim/tagbar",
+            "title": "preservim/tagbar: Vim plugin that displays tags in a window, ordered by scope",
+            "date_modified": "2024-01-26T16:11:52.000Z",
+            "date_published": "2011-01-11T09:26:10.000Z",
+            "author": {
+                "name": "preservim",
+                "url": "https://github.com/preservim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83387409?u=3a0b9a5d09d6764631188871527588e0c3c54fdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Complete neovim dotfiles with the plugins I use. Completely updated with lazy as the plugin manager.</div>",
+            "url": "https://github.com/Nishaaaanth/neovimDotfile",
+            "title": "Nishaaaanth/neovimDotfile: Complete neovim dotfiles with the plugins I use. Completely updated with lazy as the plugin manager.",
+            "date_modified": "2024-01-15T06:44:06.000Z",
+            "date_published": "2024-01-15T06:40:39.000Z",
+            "author": {
+                "name": "Nishaaaanth",
+                "url": "https://github.com/Nishaaaanth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226654?u=42669bdd5c052036c28e36f704d0252339629ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Activate is a plugin installation system for Neovim</div>",
             "url": "https://github.com/roobert/activate.nvim",
             "title": "roobert/activate.nvim: 🚀 Activate is a plugin installation system for Neovim",
@@ -36,17 +69,6 @@
             "author": {
                 "name": "ivanjermakov",
                 "url": "https://github.com/ivanjermakov"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152565276?u=7a069435400987286d9e4607f9e837bf85ee380a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Config (Lazy💤 plugin manager)</div>",
-            "url": "https://github.com/PauloGitbox/nvim",
-            "title": "PauloGitbox/nvim: Neovim Config (Lazy💤 plugin manager)",
-            "date_modified": "2024-01-26T17:24:10.000Z",
-            "date_published": "2024-01-26T17:23:07.000Z",
-            "author": {
-                "name": "PauloGitbox",
-                "url": "https://github.com/PauloGitbox"
             }
         },
         {
@@ -86,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-01-26T17:45:00.000Z",
+            "date_modified": "2024-01-26T18:36:08.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "lewis6991",
                 "url": "https://github.com/lewis6991"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76894615?u=ec6071621862fad8c3507650af2daa6cc749d8cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.</div>",
-            "url": "https://github.com/HCY-ASLEEP/NVIM-Config",
-            "title": "HCY-ASLEEP/NVIM-Config: Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.",
-            "date_modified": "2024-01-12T02:21:34.000Z",
-            "date_published": "2022-11-09T13:44:16.000Z",
-            "author": {
-                "name": "HCY-ASLEEP",
-                "url": "https://github.com/HCY-ASLEEP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke.</div>",
-            "url": "https://github.com/linrongbin16/fzfx.nvim",
-            "title": "linrongbin16/fzfx.nvim: FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke.",
-            "date_modified": "2024-01-26T10:32:40.000Z",
-            "date_published": "2023-07-26T09:58:20.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
             }
         }
     ]
