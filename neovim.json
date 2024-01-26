@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</div>",
+            "url": "https://github.com/folke/neodev.nvim",
+            "title": "folke/neodev.nvim: 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",
+            "date_modified": "2024-01-25T23:20:50.000Z",
+            "date_published": "2021-05-19T13:21:14.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76241135?u=c616a84dc0b844404280b9b48030562eb8bd8bc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another statusline plugin for neovim.</div>",
+            "url": "https://github.com/brianaung/yasl.nvim",
+            "title": "brianaung/yasl.nvim: Yet another statusline plugin for neovim.",
+            "date_modified": "2024-01-26T06:06:12.000Z",
+            "date_published": "2024-01-12T16:15:43.000Z",
+            "author": {
+                "name": "brianaung",
+                "url": "https://github.com/brianaung"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76894615?u=ec6071621862fad8c3507650af2daa6cc749d8cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.</div>",
+            "url": "https://github.com/HCY-ASLEEP/NVIM-Config",
+            "title": "HCY-ASLEEP/NVIM-Config: Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.",
+            "date_modified": "2024-01-12T02:21:34.000Z",
+            "date_published": "2022-11-09T13:44:16.000Z",
+            "author": {
+                "name": "HCY-ASLEEP",
+                "url": "https://github.com/HCY-ASLEEP"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2746374?u=119fd2407fa36292bee85ff07671c3367c120311&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.</div>",
             "url": "https://github.com/EdenEast/nightfox.nvim",
             "title": "EdenEast/nightfox.nvim: 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21000943?u=9226d74957ffbc49ba58d16dcce69cb633f9f92f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.</div>",
             "url": "https://github.com/RRethy/vim-illuminate",
             "title": "RRethy/vim-illuminate: illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.",
-            "date_modified": "2024-01-26T03:37:23.000Z",
+            "date_modified": "2024-01-26T05:20:14.000Z",
             "date_published": "2018-07-28T03:41:48.000Z",
             "author": {
                 "name": "RRethy",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "meznaric",
                 "url": "https://github.com/meznaric"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
-            "url": "https://github.com/disrupted/dotfiles",
-            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
-            "date_modified": "2024-01-10T09:21:44.000Z",
-            "date_published": "2020-08-18T11:47:17.000Z",
-            "author": {
-                "name": "disrupted",
-                "url": "https://github.com/disrupted"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34281563?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A compatibility module between the notational velocity and neorg plugins for neovim</div>",
-            "url": "https://github.com/Zellenon/neorg-velocity",
-            "title": "Zellenon/neorg-velocity: A compatibility module between the notational velocity and neorg plugins for neovim",
-            "date_modified": "2024-01-25T23:15:07.000Z",
-            "date_published": "2024-01-25T23:15:07.000Z",
-            "author": {
-                "name": "Zellenon",
-                "url": "https://github.com/Zellenon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36828703?u=886cb5b9299aeb1eebcfb9a40ad2ff7a4d8df439&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config in lua and testing new plugins for 2022. Let's go!</div>",
-            "url": "https://github.com/pedrofrohmut/nvim-lua",
-            "title": "pedrofrohmut/nvim-lua: My Neovim config in lua and testing new plugins for 2022. Let's go!",
-            "date_modified": "2022-08-09T17:52:32.000Z",
-            "date_published": "2022-08-09T17:47:44.000Z",
-            "author": {
-                "name": "pedrofrohmut",
-                "url": "https://github.com/pedrofrohmut"
             }
         }
     ]
