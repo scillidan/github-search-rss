@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7526438?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Metals plugin for Neovim</div>",
+            "url": "https://github.com/scalameta/nvim-metals",
+            "title": "scalameta/nvim-metals: A Metals plugin for Neovim",
+            "date_modified": "2024-01-26T20:57:55.000Z",
+            "date_published": "2020-04-26T13:47:22.000Z",
+            "author": {
+                "name": "scalameta",
+                "url": "https://github.com/scalameta"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123221625?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config files for Neovim with plugins suited for writing in Latex</div>",
+            "url": "https://github.com/vaughntastic77/Neovim-Config",
+            "title": "vaughntastic77/Neovim-Config: Config files for Neovim with plugins suited for writing in Latex",
+            "date_modified": "2023-03-17T02:18:36.000Z",
+            "date_published": "2023-02-24T19:36:13.000Z",
+            "author": {
+                "name": "vaughntastic77",
+                "url": "https://github.com/vaughntastic77"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68964499?u=c96c53575d9eb28cc51d9e0febdec02bae53126c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to easily have custom colorschems with caching</div>",
+            "url": "https://github.com/chadcat7/prism",
+            "title": "chadcat7/prism: neovim plugin to easily have custom colorschems with caching",
+            "date_modified": "2024-01-17T02:32:40.000Z",
+            "date_published": "2023-09-07T10:57:03.000Z",
+            "author": {
+                "name": "chadcat7",
+                "url": "https://github.com/chadcat7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4512696?u=2f13036ec6e87c3a0dded1639ec1704b9fedb65d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>amazon codewhisperer plugin for neovim</div>",
             "url": "https://github.com/maxpaulus43/code-whisperer.nvim",
             "title": "maxpaulus43/code-whisperer.nvim: amazon codewhisperer plugin for neovim",
@@ -14,6 +47,17 @@
             "author": {
                 "name": "maxpaulus43",
                 "url": "https://github.com/maxpaulus43"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-01-27T07:07:04.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "lervag",
                 "url": "https://github.com/lervag"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68964499?u=c96c53575d9eb28cc51d9e0febdec02bae53126c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to easily have custom colorschems with caching</div>",
-            "url": "https://github.com/chadcat7/prism",
-            "title": "chadcat7/prism: neovim plugin to easily have custom colorschems with caching",
-            "date_modified": "2024-01-17T02:32:40.000Z",
-            "date_published": "2023-09-07T10:57:03.000Z",
-            "author": {
-                "name": "chadcat7",
-                "url": "https://github.com/chadcat7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13871894?u=1d2fac1de275afe8339df0f8c713b07865980a58&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Drupal plugin for neovim coded in Lua.</div>",
-            "url": "https://github.com/jdrupal-dev/drupal.nvim",
-            "title": "jdrupal-dev/drupal.nvim: A Drupal plugin for neovim coded in Lua.",
-            "date_modified": "2024-01-21T16:33:27.000Z",
-            "date_published": "2024-01-18T14:55:49.000Z",
-            "author": {
-                "name": "jdrupal-dev",
-                "url": "https://github.com/jdrupal-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that helps manage python requirements.</div>",
-            "url": "https://github.com/MeanderingProgrammer/py-requirements.nvim",
-            "title": "MeanderingProgrammer/py-requirements.nvim: Neovim plugin that helps manage python requirements.",
-            "date_modified": "2024-01-26T19:29:29.000Z",
-            "date_published": "2024-01-23T05:38:34.000Z",
-            "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=e460f33cb6475c90313b508b743b84a2c0f9a766&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for running a main or script in several languages</div>",
-            "url": "https://github.com/javiorfo/nvim-fuel",
-            "title": "javiorfo/nvim-fuel: Neovim plugin written in Lua for running a main or script in several languages",
-            "date_modified": "2024-01-12T15:08:22.000Z",
-            "date_published": "2023-02-02T02:20:37.000Z",
-            "author": {
-                "name": "javiorfo",
-                "url": "https://github.com/javiorfo"
             }
         }
     ]
