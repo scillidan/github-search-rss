@@ -17,6 +17,50 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60201207?u=77299c3e9f684561046ee673d0c2e8be856fe14c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal configuration for Neovim</div>",
+            "url": "https://github.com/ascendise/neovim-plugins",
+            "title": "ascendise/neovim-plugins: My personal configuration for Neovim",
+            "date_modified": "2024-01-22T01:14:14.000Z",
+            "date_published": "2024-01-22T01:08:32.000Z",
+            "author": {
+                "name": "ascendise",
+                "url": "https://github.com/ascendise"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47203170?u=da2039f9f2f639f7e388d16ee6342a6bc177d73f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👻 Use Neovim to write in your browser. Everything you type in Neovim will be instantly updated in the browser (and vice versa).</div>",
+            "url": "https://github.com/wallpants/ghost-text.nvim",
+            "title": "wallpants/ghost-text.nvim: 👻 Use Neovim to write in your browser. Everything you type in Neovim will be instantly updated in the browser (and vice versa).",
+            "date_modified": "2023-12-18T12:30:02.000Z",
+            "date_published": "2023-08-18T18:16:46.000Z",
+            "author": {
+                "name": "wallpants",
+                "url": "https://github.com/wallpants"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-01-27T20:11:20.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152565276?u=7a069435400987286d9e4607f9e837bf85ee380a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Config (Lazy💤 plugin manager)</div>",
             "url": "https://github.com/PauloGitbox/nvim",
             "title": "PauloGitbox/nvim: Neovim Config (Lazy💤 plugin manager)",
@@ -75,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-01-27T19:18:07.000Z",
+            "date_modified": "2024-01-27T20:42:07.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -113,17 +157,6 @@
             "author": {
                 "name": "MeanderingProgrammer",
                 "url": "https://github.com/MeanderingProgrammer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "cange",
                 "url": "https://github.com/cange"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-01-27T10:17:35.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-01-27T17:04:49.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/870029?u=cc065539910207b6661bbabba39a9e78294e251d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.</div>",
-            "url": "https://github.com/jellydn/hurl.nvim",
-            "title": "jellydn/hurl.nvim: Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.",
-            "date_modified": "2024-01-27T18:07:13.000Z",
-            "date_published": "2023-10-21T01:37:42.000Z",
-            "author": {
-                "name": "jellydn",
-                "url": "https://github.com/jellydn"
             }
         }
     ]
