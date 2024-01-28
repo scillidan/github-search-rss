@@ -6,17 +6,6 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11604664?u=fc0ebe915281204af12abc87bc9e92cb0b5bfff0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>blocky-pasta is a neovim Lua plugin that allows users to select and yank multiple lines together and paste them as a block of text. This plugin is designed to improve the efficiency of your workflow by simplifying the process of copying and pasting multiple lines of code.</div>",
-            "url": "https://github.com/wesdevpro/blocky-pasta.nvim",
-            "title": "wesdevpro/blocky-pasta.nvim: blocky-pasta is a neovim Lua plugin that allows users to select and yank multiple lines together and paste them as a block of text. This plugin is designed to improve the efficiency of your workflow by simplifying the process of copying and pasting multiple lines of code.",
-            "date_modified": "2024-01-28T14:44:10.000Z",
-            "date_published": "2024-01-28T14:44:10.000Z",
-            "author": {
-                "name": "wesdevpro",
-                "url": "https://github.com/wesdevpro"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13606342?u=467cf9a106d2bb474cf627ffd4e0eac80d0b4705&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A session management plugin for neovim</div>",
             "url": "https://github.com/codymikol/multiverse.nvim",
             "title": "codymikol/multiverse.nvim: A session management plugin for neovim",
@@ -25,6 +14,28 @@
             "author": {
                 "name": "codymikol",
                 "url": "https://github.com/codymikol"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36423882?u=96136e4cee711ae32907f3b10c348b57e2e9abbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A very simple Neovim plugin to help keep your configurations clean by creating autocmds for files in folders specified in your plugin configuration.</div>",
+            "url": "https://github.com/smtucker/autodircmds",
+            "title": "smtucker/autodircmds: A very simple Neovim plugin to help keep your configurations clean by creating autocmds for files in folders specified in your plugin configuration.",
+            "date_modified": "2024-01-28T15:14:25.000Z",
+            "date_published": "2024-01-22T02:34:53.000Z",
+            "author": {
+                "name": "smtucker",
+                "url": "https://github.com/smtucker"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11604664?u=fc0ebe915281204af12abc87bc9e92cb0b5bfff0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>blocky-pasta is a neovim Lua plugin that allows users to select and yank multiple lines together and paste them as a block of text. This plugin is designed to improve the efficiency of your workflow by simplifying the process of copying and pasting multiple lines of code.</div>",
+            "url": "https://github.com/wesdevpro/blocky-pasta.nvim",
+            "title": "wesdevpro/blocky-pasta.nvim: blocky-pasta is a neovim Lua plugin that allows users to select and yank multiple lines together and paste them as a block of text. This plugin is designed to improve the efficiency of your workflow by simplifying the process of copying and pasting multiple lines of code.",
+            "date_modified": "2024-01-28T14:44:10.000Z",
+            "date_published": "2024-01-28T14:44:10.000Z",
+            "author": {
+                "name": "wesdevpro",
+                "url": "https://github.com/wesdevpro"
             }
         },
         {
@@ -61,10 +72,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-01-28T15:26:33.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76068197?u=51d9febd55a40f164e8c2adfd83e358691796688&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the best Neovim plugins</div>",
             "url": "https://github.com/codicocodes/dotfyle",
             "title": "codicocodes/dotfyle: Find the best Neovim plugins",
-            "date_modified": "2024-01-27T21:39:03.000Z",
+            "date_modified": "2024-01-28T15:57:46.000Z",
             "date_published": "2023-03-15T16:32:24.000Z",
             "author": {
                 "name": "codicocodes",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo.</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo.",
-            "date_modified": "2024-01-25T12:11:34.000Z",
+            "date_modified": "2024-01-28T15:26:36.000Z",
             "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-01-28T14:39:16.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
-            "url": "https://github.com/redyf/Neve",
-            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
-            "date_modified": "2024-01-26T21:20:06.000Z",
-            "date_published": "2024-01-03T14:38:56.000Z",
-            "author": {
-                "name": "redyf",
-                "url": "https://github.com/redyf"
             }
         }
     ]
