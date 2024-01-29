@@ -6,6 +6,50 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/232347?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checkpoint model mixer/merger extension</div>",
+            "url": "https://github.com/wkpark/sd-webui-model-mixer",
+            "title": "wkpark/sd-webui-model-mixer: Checkpoint model mixer/merger extension",
+            "date_modified": "2024-01-28T03:30:00.000Z",
+            "date_published": "2023-08-28T13:12:51.000Z",
+            "author": {
+                "name": "wkpark",
+                "url": "https://github.com/wkpark"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66118290?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The extension allows you to specify Lora or Lyco weight from context menu.</div>",
+            "url": "https://github.com/nihedon/sd-webui-weight-helper",
+            "title": "nihedon/sd-webui-weight-helper: The extension allows you to specify Lora or Lyco weight from context menu.",
+            "date_modified": "2024-01-03T18:46:54.000Z",
+            "date_published": "2023-09-07T17:03:54.000Z",
+            "author": {
+                "name": "nihedon",
+                "url": "https://github.com/nihedon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37621276?u=cd9adbd464534b7ee67ae34ebbbf2b6092a66a7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto detecting, masking and inpainting with detection model.</div>",
+            "url": "https://github.com/Bing-su/adetailer",
+            "title": "Bing-su/adetailer: Auto detecting, masking and inpainting with detection model.",
+            "date_modified": "2024-01-29T13:48:45.000Z",
+            "date_published": "2023-04-26T07:54:51.000Z",
+            "author": {
+                "name": "Bing-su",
+                "url": "https://github.com/Bing-su"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
+            "url": "https://github.com/siliconflow/onediff",
+            "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
+            "date_modified": "2024-01-29T06:27:28.000Z",
+            "date_published": "2022-09-21T07:34:13.000Z",
+            "author": {
+                "name": "siliconflow",
+                "url": "https://github.com/siliconflow"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120772120?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>change CFG scale dynamically</div>",
             "url": "https://github.com/hnmr293/sd-webui-dycfg",
             "title": "hnmr293/sd-webui-dycfg: change CFG scale dynamically",
@@ -28,17 +72,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37621276?u=cd9adbd464534b7ee67ae34ebbbf2b6092a66a7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto detecting, masking and inpainting with detection model.</div>",
-            "url": "https://github.com/Bing-su/adetailer",
-            "title": "Bing-su/adetailer: Auto detecting, masking and inpainting with detection model.",
-            "date_modified": "2024-01-29T10:57:58.000Z",
-            "date_published": "2023-04-26T07:54:51.000Z",
-            "author": {
-                "name": "Bing-su",
-                "url": "https://github.com/Bing-su"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5658274?u=575313c33745d9c84a9f7147fb666d3ba8076c4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/Inzaniak/sd-webui-ranbooru",
             "title": "Inzaniak/sd-webui-ranbooru",
@@ -53,22 +86,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
             "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
             "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
-            "date_modified": "2024-01-29T09:43:14.000Z",
+            "date_modified": "2024-01-29T14:05:25.000Z",
             "date_published": "2023-08-28T10:46:27.000Z",
             "author": {
                 "name": "aigc-apps",
                 "url": "https://github.com/aigc-apps"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
-            "url": "https://github.com/siliconflow/onediff",
-            "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
-            "date_modified": "2024-01-29T06:27:28.000Z",
-            "date_published": "2022-09-21T07:34:13.000Z",
-            "author": {
-                "name": "siliconflow",
-                "url": "https://github.com/siliconflow"
             }
         },
         {
@@ -97,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-01-29T12:15:43.000Z",
+            "date_modified": "2024-01-29T13:56:18.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "junweifeng",
                 "url": "https://github.com/junweifeng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93578501?u=fb9370035d3f75d05e3211daaf83a9bc74247729&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>stable-diffusion-webui on SageMaker</div>",
-            "url": "https://github.com/anxety-solo/sd-webui-sagemaker",
-            "title": "anxety-solo/sd-webui-sagemaker: stable-diffusion-webui on SageMaker",
-            "date_modified": "2024-01-17T06:29:13.000Z",
-            "date_published": "2023-08-16T12:08:41.000Z",
-            "author": {
-                "name": "anxety-solo",
-                "url": "https://github.com/anxety-solo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129350308?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SD-WebUI 简体中文翻译扩展 Simplified Chinese Localization for AUTOMATIC1111 Stable Diffusion WebUI</div>",
-            "url": "https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans",
-            "title": "hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans: SD-WebUI 简体中文翻译扩展 Simplified Chinese Localization for AUTOMATIC1111 Stable Diffusion WebUI",
-            "date_modified": "2024-01-28T13:26:33.000Z",
-            "date_published": "2023-02-25T04:48:34.000Z",
-            "author": {
-                "name": "hanamizuki-ai",
-                "url": "https://github.com/hanamizuki-ai"
             }
         }
     ]
