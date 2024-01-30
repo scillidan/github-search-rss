@@ -6,6 +6,17 @@
     "description": "mkdocs plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11897326?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A conda-smithy repository for mkdocs-table-reader-plugin.</div>",
+            "url": "https://github.com/conda-forge/mkdocs-table-reader-plugin-feedstock",
+            "title": "conda-forge/mkdocs-table-reader-plugin-feedstock: A conda-smithy repository for mkdocs-table-reader-plugin.",
+            "date_modified": "2022-04-08T13:16:38.000Z",
+            "date_published": "2022-04-08T13:16:38.000Z",
+            "author": {
+                "name": "conda-forge",
+                "url": "https://github.com/conda-forge"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5570380?u=529954242ffa63610fed217738dc15f81ef99674&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page</div>",
             "url": "https://github.com/timvink/mkdocs-table-reader-plugin",
             "title": "timvink/mkdocs-table-reader-plugin: MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "blueswen",
                 "url": "https://github.com/blueswen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117061040?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mkdocs plugin for generating navigation by directory structure</div>",
-            "url": "https://github.com/vrerv/mkdocs-gen-nav-plugin",
-            "title": "vrerv/mkdocs-gen-nav-plugin: Mkdocs plugin for generating navigation by directory structure",
-            "date_modified": "2023-06-02T09:23:58.000Z",
-            "date_published": "2023-02-25T09:23:23.000Z",
-            "author": {
-                "name": "vrerv",
-                "url": "https://github.com/vrerv"
             }
         }
     ]
