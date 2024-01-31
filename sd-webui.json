@@ -6,10 +6,32 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.</div>",
+            "url": "https://github.com/canonical/sdcore-webui-k8s-operator",
+            "title": "canonical/sdcore-webui-k8s-operator: A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.",
+            "date_modified": "2023-12-11T09:40:27.000Z",
+            "date_published": "2023-05-19T15:43:33.000Z",
+            "author": {
+                "name": "canonical",
+                "url": "https://github.com/canonical"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Container image for SD-Core webui</div>",
+            "url": "https://github.com/canonical/sdcore-webui-rock",
+            "title": "canonical/sdcore-webui-rock: Container image for SD-Core webui",
+            "date_modified": "2023-09-28T13:05:31.000Z",
+            "date_published": "2023-06-16T18:24:40.000Z",
+            "author": {
+                "name": "canonical",
+                "url": "https://github.com/canonical"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
             "url": "https://github.com/siliconflow/onediff",
             "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
-            "date_modified": "2024-01-31T07:12:42.000Z",
+            "date_modified": "2024-01-31T11:26:23.000Z",
             "date_published": "2022-09-21T07:34:13.000Z",
             "author": {
                 "name": "siliconflow",
@@ -64,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-01-31T10:18:39.000Z",
+            "date_modified": "2024-01-31T11:20:35.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "canonical",
                 "url": "https://github.com/canonical"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137917911?u=ff4bfdb87c499237706b44e5ed1386fe9f4b5d05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>tag file for a1111-sd-webui-tagcomplete, mainly for animagine-xl-3.0</div>",
-            "url": "https://github.com/bedovyy/tagcomplete-for-animagine-xl-3.0",
-            "title": "bedovyy/tagcomplete-for-animagine-xl-3.0: tag file for a1111-sd-webui-tagcomplete, mainly for animagine-xl-3.0",
-            "date_modified": "2024-01-25T19:35:55.000Z",
-            "date_published": "2024-01-15T19:44:29.000Z",
-            "author": {
-                "name": "bedovyy",
-                "url": "https://github.com/bedovyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80639626?u=525368f2b7cb7e684e8eaf12fcd2ffb52678dd97&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion WebUI extension for GPT4V-Image-Captioner</div>",
-            "url": "https://github.com/SleeeepyZhou/sd-webui-GPT4V-Image-Captioner",
-            "title": "SleeeepyZhou/sd-webui-GPT4V-Image-Captioner: Stable Diffusion WebUI extension for GPT4V-Image-Captioner",
-            "date_modified": "2024-01-30T03:33:05.000Z",
-            "date_published": "2024-01-14T07:25:05.000Z",
-            "author": {
-                "name": "SleeeepyZhou",
-                "url": "https://github.com/SleeeepyZhou"
             }
         }
     ]
