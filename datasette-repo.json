@@ -6,17 +6,6 @@
     "description": "datasette on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An open source multi-tool for exploring and publishing data</div>",
-            "url": "https://github.com/simonw/datasette",
-            "title": "simonw/datasette: An open source multi-tool for exploring and publishing data",
-            "date_modified": "2024-01-31T01:44:48.000Z",
-            "date_published": "2017-10-23T00:39:03.000Z",
-            "author": {
-                "name": "simonw",
-                "url": "https://github.com/simonw"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archive PyPI JSON information for all Datasette related packages</div>",
             "url": "https://github.com/simonw/pypi-datasette-packages",
             "title": "simonw/pypi-datasette-packages: Archive PyPI JSON information for all Datasette related packages",
@@ -28,10 +17,54 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An open source multi-tool for exploring and publishing data</div>",
+            "url": "https://github.com/simonw/datasette",
+            "title": "simonw/datasette: An open source multi-tool for exploring and publishing data",
+            "date_modified": "2024-01-31T01:44:48.000Z",
+            "date_published": "2017-10-23T00:39:03.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139249755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Show a specific Datasette table on the homepage</div>",
+            "url": "https://github.com/datasette/datasette-homepage-table",
+            "title": "datasette/datasette-homepage-table: Show a specific Datasette table on the homepage",
+            "date_modified": "2024-01-31T04:32:32.000Z",
+            "date_published": "2024-01-31T04:31:00.000Z",
+            "author": {
+                "name": "datasette",
+                "url": "https://github.com/datasette"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Demonstrating <a href=\"https://github.com/simonw/datasette-plugin\">https://github.com/simonw/datasette-plugin</a></div>",
+            "url": "https://github.com/simonw/datasette-plugin-template-demo",
+            "title": "simonw/datasette-plugin-template-demo: Demonstrating https://github.com/simonw/datasette-plugin",
+            "date_modified": "2021-12-13T19:58:07.000Z",
+            "date_published": "2020-06-19T20:03:09.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cookiecutter template for creating Datasette plugins</div>",
+            "url": "https://github.com/simonw/datasette-plugin",
+            "title": "simonw/datasette-plugin: Cookiecutter template for creating Datasette plugins",
+            "date_modified": "2023-02-14T12:23:36.000Z",
+            "date_published": "2020-06-19T17:10:15.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python CLI utility and library for manipulating SQLite databases</div>",
             "url": "https://github.com/simonw/sqlite-utils",
             "title": "simonw/sqlite-utils: Python CLI utility and library for manipulating SQLite databases",
-            "date_modified": "2024-01-31T02:45:54.000Z",
+            "date_modified": "2024-01-31T05:07:47.000Z",
             "date_published": "2018-07-14T03:21:46.000Z",
             "author": {
                 "name": "simonw",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "chris48s",
                 "url": "https://github.com/chris48s"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6025893?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌍 Import geographic and spatial data from files into a SpatiaLite DB</div>",
-            "url": "https://github.com/chris48s/geometry-to-spatialite",
-            "title": "chris48s/geometry-to-spatialite: 🌍 Import geographic and spatial data from files into a SpatiaLite DB",
-            "date_modified": "2023-03-15T17:13:18.000Z",
-            "date_published": "2019-10-08T21:06:57.000Z",
-            "author": {
-                "name": "chris48s",
-                "url": "https://github.com/chris48s"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/765871?u=3e8135bc649192e6ca2fc28fbe62b8d04a8cf29b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Keeping an eye on AWS Partners</div>",
-            "url": "https://github.com/kaihendry/aws-partners-datasette",
-            "title": "kaihendry/aws-partners-datasette: Keeping an eye on AWS Partners",
-            "date_modified": "2024-01-12T18:16:36.000Z",
-            "date_published": "2020-12-01T07:03:49.000Z",
-            "author": {
-                "name": "kaihendry",
-                "url": "https://github.com/kaihendry"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1186124?u=881e40ca8138758e53cf6b63bb2078a528439fbe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/saulshanabrook/mbhp-data",
-            "title": "saulshanabrook/mbhp-data",
-            "date_modified": "2024-01-28T23:57:22.000Z",
-            "date_published": "2024-01-28T22:52:55.000Z",
-            "author": {
-                "name": "saulshanabrook",
-                "url": "https://github.com/saulshanabrook"
             }
         }
     ]
