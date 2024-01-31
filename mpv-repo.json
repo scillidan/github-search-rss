@@ -6,6 +6,28 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84926938?u=796676b4e43ddc37807771c2f3cdbd7d5e3d03ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross Compile MPV Win64 On Archlinux Docker</div>",
+            "url": "https://github.com/eko5624/mpv-winbuild",
+            "title": "eko5624/mpv-winbuild: Cross Compile MPV Win64 On Archlinux Docker",
+            "date_modified": "2024-01-08T02:17:07.000Z",
+            "date_published": "2023-07-29T13:23:28.000Z",
+            "author": {
+                "name": "eko5624",
+                "url": "https://github.com/eko5624"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61089994?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rust implementation of the MPRIS v2 DBus interface for the mpv media player.</div>",
+            "url": "https://github.com/eNV25/mpv-mpris2",
+            "title": "eNV25/mpv-mpris2: Rust implementation of the MPRIS v2 DBus interface for the mpv media player.",
+            "date_modified": "2024-01-26T14:05:50.000Z",
+            "date_published": "2023-08-23T10:40:56.000Z",
+            "author": {
+                "name": "eNV25",
+                "url": "https://github.com/eNV25"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8932183?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>List and search subtitle lines of the selected subtitle track</div>",
             "url": "https://github.com/christoph-heinrich/mpv-subtitle-lines",
             "title": "christoph-heinrich/mpv-subtitle-lines: List and search subtitle lines of the selected subtitle track",
@@ -36,6 +58,17 @@
             "author": {
                 "name": "dtcooper",
                 "url": "https://github.com/dtcooper"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35151645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The modern video player for macOS.</div>",
+            "url": "https://github.com/iina/iina",
+            "title": "iina/iina: The modern video player for macOS.",
+            "date_modified": "2024-01-31T06:07:27.000Z",
+            "date_published": "2016-12-19T07:18:45.000Z",
+            "author": {
+                "name": "iina",
+                "url": "https://github.com/iina"
             }
         },
         {
@@ -97,22 +130,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50797982?u=89a5228fd3c733568fffe50d9d6342e05d1d71a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal config for mpv-player.</div>",
             "url": "https://github.com/natural-harmonia-gropius/mpv-config",
             "title": "natural-harmonia-gropius/mpv-config: Personal config for mpv-player.",
-            "date_modified": "2024-01-23T21:36:40.000Z",
+            "date_modified": "2024-01-31T05:54:03.000Z",
             "date_published": "2021-09-26T08:38:36.000Z",
             "author": {
                 "name": "natural-harmonia-gropius",
                 "url": "https://github.com/natural-harmonia-gropius"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84926938?u=796676b4e43ddc37807771c2f3cdbd7d5e3d03ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cross Compile MPV Win64 On Archlinux Docker</div>",
-            "url": "https://github.com/eko5624/mpv-winbuild",
-            "title": "eko5624/mpv-winbuild: Cross Compile MPV Win64 On Archlinux Docker",
-            "date_modified": "2024-01-08T02:17:07.000Z",
-            "date_published": "2023-07-29T13:23:28.000Z",
-            "author": {
-                "name": "eko5624",
-                "url": "https://github.com/eko5624"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "hakan-demirli",
                 "url": "https://github.com/hakan-demirli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16631584?u=61ec67a2a0ef561b2a8e9b01d49833f9906f78ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上</div>",
-            "url": "https://github.com/xfangfang/wiliwili",
-            "title": "xfangfang/wiliwili: 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上",
-            "date_modified": "2024-01-31T03:20:54.000Z",
-            "date_published": "2021-01-17T09:27:58.000Z",
-            "author": {
-                "name": "xfangfang",
-                "url": "https://github.com/xfangfang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52953325?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Karaoke player and manager (Backup repository. Main is <a href=\"https://gitlab.com/karaokemugen/karaokemugen-app\" rel=\"nofollow\">https://gitlab.com/karaokemugen/karaokemugen-app</a> )</div>",
-            "url": "https://github.com/karaokemugen/karaokemugen-app",
-            "title": "karaokemugen/karaokemugen-app: Karaoke player and manager (Backup repository. Main is https://gitlab.com/karaokemugen/karaokemugen-app )",
-            "date_modified": "2023-12-25T14:48:23.000Z",
-            "date_published": "2018-05-27T09:23:32.000Z",
-            "author": {
-                "name": "karaokemugen",
-                "url": "https://github.com/karaokemugen"
             }
         }
     ]
