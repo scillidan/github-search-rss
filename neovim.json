@@ -6,14 +6,25 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26609879?u=0316fa70704ea467ab6fc6b1089b2ca871efe19a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental Neovim plugin that replaces cmdline with a floating equivalent</div>",
-            "url": "https://github.com/ivanjermakov/cmdzero.nvim",
-            "title": "ivanjermakov/cmdzero.nvim: Experimental Neovim plugin that replaces cmdline with a floating equivalent",
-            "date_modified": "2024-01-28T06:11:56.000Z",
-            "date_published": "2024-01-26T03:24:37.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
             "author": {
-                "name": "ivanjermakov",
-                "url": "https://github.com/ivanjermakov"
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that helps manage python requirements.</div>",
+            "url": "https://github.com/MeanderingProgrammer/py-requirements.nvim",
+            "title": "MeanderingProgrammer/py-requirements.nvim: Neovim plugin that helps manage python requirements.",
+            "date_modified": "2024-01-31T09:26:58.000Z",
+            "date_published": "2024-01-23T05:38:34.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
             }
         },
         {
@@ -28,6 +39,28 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89306?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for fast file-finding</div>",
+            "url": "https://github.com/danielfalk/smart-open.nvim",
+            "title": "danielfalk/smart-open.nvim: Neovim plugin for fast file-finding",
+            "date_modified": "2024-01-31T00:02:01.000Z",
+            "date_published": "2022-09-20T19:19:32.000Z",
+            "author": {
+                "name": "danielfalk",
+                "url": "https://github.com/danielfalk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26609879?u=0316fa70704ea467ab6fc6b1089b2ca871efe19a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental Neovim plugin that replaces cmdline with a floating equivalent</div>",
+            "url": "https://github.com/ivanjermakov/cmdzero.nvim",
+            "title": "ivanjermakov/cmdzero.nvim: Experimental Neovim plugin that replaces cmdline with a floating equivalent",
+            "date_modified": "2024-01-28T06:11:56.000Z",
+            "date_published": "2024-01-26T03:24:37.000Z",
+            "author": {
+                "name": "ivanjermakov",
+                "url": "https://github.com/ivanjermakov"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=9500d968a13e671bdbb59749ef479828dc43ac6f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that helps managing crates.io dependencies</div>",
             "url": "https://github.com/Saecki/crates.nvim",
             "title": "Saecki/crates.nvim: A neovim plugin that helps managing crates.io dependencies",
@@ -36,17 +69,6 @@
             "author": {
                 "name": "Saecki",
                 "url": "https://github.com/Saecki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that helps manage python requirements.</div>",
-            "url": "https://github.com/MeanderingProgrammer/py-requirements.nvim",
-            "title": "MeanderingProgrammer/py-requirements.nvim: Neovim plugin that helps manage python requirements.",
-            "date_modified": "2024-01-31T09:26:58.000Z",
-            "date_published": "2024-01-23T05:38:34.000Z",
-            "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
             }
         },
         {
@@ -127,21 +149,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
             "url": "https://github.com/mfussenegger/nvim-lint",
             "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-01-31T18:12:14.000Z",
+            "date_modified": "2024-01-31T21:01:53.000Z",
             "date_published": "2021-02-14T11:18:45.000Z",
             "author": {
                 "name": "mfussenegger",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Isti115",
                 "url": "https://github.com/Isti115"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46503017?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to send lines from your code buffer to a terminal buffer.</div>",
-            "url": "https://github.com/herrvonvoid/sendline",
-            "title": "herrvonvoid/sendline: Neovim plugin to send lines from your code buffer to a terminal buffer.",
-            "date_modified": "2023-04-09T12:15:21.000Z",
-            "date_published": "2023-04-07T11:28:22.000Z",
-            "author": {
-                "name": "herrvonvoid",
-                "url": "https://github.com/herrvonvoid"
             }
         }
     ]
