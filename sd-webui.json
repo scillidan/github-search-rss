@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66118290?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The extension allows you to specify Lora or Lyco weight from context menu.</div>",
+            "url": "https://github.com/nihedon/sd-webui-weight-helper",
+            "title": "nihedon/sd-webui-weight-helper: The extension allows you to specify Lora or Lyco weight from context menu.",
+            "date_modified": "2024-01-03T18:46:54.000Z",
+            "date_published": "2023-09-07T17:03:54.000Z",
+            "author": {
+                "name": "nihedon",
+                "url": "https://github.com/nihedon"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/232347?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checkpoint model mixer/merger extension</div>",
             "url": "https://github.com/wkpark/sd-webui-model-mixer",
             "title": "wkpark/sd-webui-model-mixer: Checkpoint model mixer/merger extension",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI</div>",
             "url": "https://github.com/continue-revolution/sd-webui-animatediff",
             "title": "continue-revolution/sd-webui-animatediff: AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI",
-            "date_modified": "2024-01-31T12:59:03.000Z",
+            "date_modified": "2024-01-31T13:14:57.000Z",
             "date_published": "2023-07-18T02:59:45.000Z",
             "author": {
                 "name": "continue-revolution",
@@ -75,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=fb5bc556ba21239a05c2373b0aa06ee1549d532c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that automatically sets the resolution based on the selected Checkpoint</div>",
             "url": "https://github.com/Haoming02/sd-webui-auto-res",
             "title": "Haoming02/sd-webui-auto-res: An Extension for Automatic1111 Webui that automatically sets the resolution based on the selected Checkpoint",
-            "date_modified": "2024-01-31T09:57:13.000Z",
+            "date_modified": "2024-01-31T13:13:38.000Z",
             "date_published": "2024-01-31T04:28:45.000Z",
             "author": {
                 "name": "Haoming02",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-01-31T13:03:28.000Z",
+            "date_modified": "2024-01-31T13:38:41.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Physton",
                 "url": "https://github.com/Physton"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25168945?u=b339e042b92fd25e3d63e7a08ae8ff6096ce96ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DeOldify for Stable Diffusion WebUI：This is an extension for StableDiffusion's AUTOMATIC1111 web-ui that allows colorize of old photos and old video. It is based on deoldify.</div>",
-            "url": "https://github.com/SpenserCai/sd-webui-deoldify",
-            "title": "SpenserCai/sd-webui-deoldify: DeOldify for Stable Diffusion WebUI：This is an extension for StableDiffusion's AUTOMATIC1111 web-ui that allows colorize of old photos and old video. It is based on deoldify.",
-            "date_modified": "2024-01-30T20:23:37.000Z",
-            "date_published": "2023-07-28T02:55:38.000Z",
-            "author": {
-                "name": "SpenserCai",
-                "url": "https://github.com/SpenserCai"
             }
         }
     ]
