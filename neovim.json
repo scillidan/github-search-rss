@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo.</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo.",
+            "date_modified": "2024-02-01T00:35:21.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24610252?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to find/parse and goto a specific path</div>",
+            "url": "https://github.com/Feferoni/goto-path.nvim",
+            "title": "Feferoni/goto-path.nvim: neovim plugin to find/parse and goto a specific path",
+            "date_modified": "2023-08-30T14:50:41.000Z",
+            "date_published": "2023-08-30T14:48:11.000Z",
+            "author": {
+                "name": "Feferoni",
+                "url": "https://github.com/Feferoni"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-02-01T07:56:38.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fzf fuzzy finder that updates on every keystroke of user query and selection.</div>",
+            "url": "https://github.com/linrongbin16/fzfx.nvim",
+            "title": "linrongbin16/fzfx.nvim: A fzf fuzzy finder that updates on every keystroke of user query and selection.",
+            "date_modified": "2024-01-31T08:54:36.000Z",
+            "date_published": "2023-07-26T09:58:20.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "MeanderingProgrammer",
                 "url": "https://github.com/MeanderingProgrammer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20099987?u=ee93ee944ca581b6b36dd5e5d445860bdc5a368d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📚 A Neovim plugin to show `:help` in an anchorable/resizable floating window</div>",
-            "url": "https://github.com/Tyler-Barham/floating-help.nvim",
-            "title": "Tyler-Barham/floating-help.nvim: 📚 A Neovim plugin to show `:help` in an anchorable/resizable floating window",
-            "date_modified": "2024-01-14T08:41:03.000Z",
-            "date_published": "2023-08-01T03:58:24.000Z",
-            "author": {
-                "name": "Tyler-Barham",
-                "url": "https://github.com/Tyler-Barham"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31730729?u=22d025770f6ef91bdc500dfb0eeb18a130a960c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Status column plugin that provides a configurable 'statuscolumn' and click handlers.</div>",
-            "url": "https://github.com/luukvbaal/statuscol.nvim",
-            "title": "luukvbaal/statuscol.nvim: Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
-            "date_modified": "2024-02-01T06:57:22.000Z",
-            "date_published": "2022-11-21T12:04:24.000Z",
-            "author": {
-                "name": "luukvbaal",
-                "url": "https://github.com/luukvbaal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
-            "title": "LongerHV/neovim-plugins-overlay",
-            "date_modified": "2023-08-20T22:40:05.000Z",
-            "date_published": "2022-12-22T21:42:57.000Z",
-            "author": {
-                "name": "LongerHV",
-                "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2023-12-18T20:17:27.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
             }
         }
     ]
