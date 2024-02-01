@@ -6,6 +6,17 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-02-01T02:45:16.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
             "url": "https://github.com/yukimemi/dvpm",
             "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</div>",
             "url": "https://github.com/folke/neodev.nvim",
             "title": "folke/neodev.nvim: 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",
-            "date_modified": "2024-02-01T04:30:47.000Z",
+            "date_modified": "2024-02-01T06:59:33.000Z",
             "date_published": "2021-05-19T13:21:14.000Z",
             "author": {
                 "name": "folke",
@@ -138,6 +149,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/870029?u=cc065539910207b6661bbabba39a9e78294e251d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.</div>",
+            "url": "https://github.com/jellydn/hurl.nvim",
+            "title": "jellydn/hurl.nvim: Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.",
+            "date_modified": "2024-02-01T07:03:01.000Z",
+            "date_published": "2023-10-21T01:37:42.000Z",
+            "author": {
+                "name": "jellydn",
+                "url": "https://github.com/jellydn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
             "url": "https://github.com/folke/neoconf.nvim",
             "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
@@ -171,6 +193,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31730729?u=22d025770f6ef91bdc500dfb0eeb18a130a960c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Status column plugin that provides a configurable 'statuscolumn' and click handlers.</div>",
+            "url": "https://github.com/luukvbaal/statuscol.nvim",
+            "title": "luukvbaal/statuscol.nvim: Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
+            "date_modified": "2024-02-01T06:57:22.000Z",
+            "date_published": "2022-11-21T12:04:24.000Z",
+            "author": {
+                "name": "luukvbaal",
+                "url": "https://github.com/luukvbaal"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/LongerHV/neovim-plugins-overlay",
             "title": "LongerHV/neovim-plugins-overlay",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152565276?u=7a069435400987286d9e4607f9e837bf85ee380a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config using (Lazy💤 plugin manager)</div>",
-            "url": "https://github.com/PauloGitbox/nvim",
-            "title": "PauloGitbox/nvim: Neovim config using (Lazy💤 plugin manager)",
-            "date_modified": "2024-01-28T21:19:08.000Z",
-            "date_published": "2024-01-28T21:18:37.000Z",
-            "author": {
-                "name": "PauloGitbox",
-                "url": "https://github.com/PauloGitbox"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-02-01T05:02:16.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/473227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim setup with the Lazy plugin manager</div>",
-            "url": "https://github.com/muxcmux/neovim-config",
-            "title": "muxcmux/neovim-config: Neovim setup with the Lazy plugin manager",
-            "date_modified": "2023-04-25T15:57:53.000Z",
-            "date_published": "2023-04-25T15:42:01.000Z",
-            "author": {
-                "name": "muxcmux",
-                "url": "https://github.com/muxcmux"
             }
         }
     ]
