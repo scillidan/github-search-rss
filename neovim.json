@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19997320?u=b2cd179aaee5cb3d8b0bee6dbd2875dbba6dd353&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Get relevant files/authors for your code - binary written in rust. Plugins available in NeoVim and VSCode (separate repositories)</div>",
+            "url": "https://github.com/krshrimali/context-pilot-rs",
+            "title": "krshrimali/context-pilot-rs: Get relevant files/authors for your code - binary written in rust. Plugins available in NeoVim and VSCode (separate repositories)",
+            "date_modified": "2023-12-16T14:07:32.000Z",
+            "date_published": "2023-06-10T06:25:09.000Z",
+            "author": {
+                "name": "krshrimali",
+                "url": "https://github.com/krshrimali"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12228142?u=f32e7157c4de4b5d1fd248fe5f2b0323d8720611&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A multiple cursors plugin for Neovim</div>",
+            "url": "https://github.com/brenton-leighton/multiple-cursors.nvim",
+            "title": "brenton-leighton/multiple-cursors.nvim: A multiple cursors plugin for Neovim",
+            "date_modified": "2024-01-27T23:44:06.000Z",
+            "date_published": "2023-11-09T01:53:40.000Z",
+            "author": {
+                "name": "brenton-leighton",
+                "url": "https://github.com/brenton-leighton"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
+            "title": "yutkat/new-neovim-plugin-with-category-rss",
+            "date_modified": "2023-08-11T07:03:24.000Z",
+            "date_published": "2023-05-24T19:57:02.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
+            "url": "https://github.com/yutkat/my-neovim-pluginlist",
+            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
+            "date_modified": "2024-01-31T03:43:35.000Z",
+            "date_published": "2022-04-17T14:53:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
             "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
             "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
@@ -61,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20099987?u=ee93ee944ca581b6b36dd5e5d445860bdc5a368d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📚 A Neovim plugin to show `:help` in an anchorable/resizable floating window</div>",
             "url": "https://github.com/Tyler-Barham/floating-help.nvim",
             "title": "Tyler-Barham/floating-help.nvim: 📚 A Neovim plugin to show `:help` in an anchorable/resizable floating window",
@@ -119,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
             "url": "https://github.com/mrcjkb/rustaceanvim",
             "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-02-01T02:20:33.000Z",
+            "date_modified": "2024-02-01T05:02:16.000Z",
             "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
                 "name": "mrcjkb",
@@ -135,6 +179,17 @@
             "author": {
                 "name": "muxcmux",
                 "url": "https://github.com/muxcmux"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI]</div>",
+            "url": "https://github.com/Robitx/gp.nvim",
+            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI]",
+            "date_modified": "2024-02-01T05:06:10.000Z",
+            "date_published": "2023-06-18T13:55:46.000Z",
+            "author": {
+                "name": "Robitx",
+                "url": "https://github.com/Robitx"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "danielfalk",
                 "url": "https://github.com/danielfalk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26609879?u=0316fa70704ea467ab6fc6b1089b2ca871efe19a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental Neovim plugin that replaces cmdline with a floating equivalent</div>",
-            "url": "https://github.com/ivanjermakov/cmdzero.nvim",
-            "title": "ivanjermakov/cmdzero.nvim: Experimental Neovim plugin that replaces cmdline with a floating equivalent",
-            "date_modified": "2024-01-28T06:11:56.000Z",
-            "date_published": "2024-01-26T03:24:37.000Z",
-            "author": {
-                "name": "ivanjermakov",
-                "url": "https://github.com/ivanjermakov"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=9500d968a13e671bdbb59749ef479828dc43ac6f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that helps managing crates.io dependencies</div>",
-            "url": "https://github.com/Saecki/crates.nvim",
-            "title": "Saecki/crates.nvim: A neovim plugin that helps managing crates.io dependencies",
-            "date_modified": "2024-01-30T02:31:55.000Z",
-            "date_published": "2021-08-24T17:13:20.000Z",
-            "author": {
-                "name": "Saecki",
-                "url": "https://github.com/Saecki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26419570?u=664fb3a0041f8128ea6d81fbab0b64fe46e8ac79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gain the power to move lines and blocks and auto-indent them!</div>",
-            "url": "https://github.com/fedepujol/move.nvim",
-            "title": "fedepujol/move.nvim: Gain the power to move lines and blocks and auto-indent them!",
-            "date_modified": "2024-01-27T08:39:47.000Z",
-            "date_published": "2021-09-23T21:04:12.000Z",
-            "author": {
-                "name": "fedepujol",
-                "url": "https://github.com/fedepujol"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36828703?u=886cb5b9299aeb1eebcfb9a40ad2ff7a4d8df439&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config in lua and testing new plugins for 2022. Let's go!</div>",
-            "url": "https://github.com/pedrofrohmut/nvim-lua",
-            "title": "pedrofrohmut/nvim-lua: My Neovim config in lua and testing new plugins for 2022. Let's go!",
-            "date_modified": "2022-08-09T17:52:32.000Z",
-            "date_published": "2022-08-09T17:47:44.000Z",
-            "author": {
-                "name": "pedrofrohmut",
-                "url": "https://github.com/pedrofrohmut"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5448324?u=7c4fee18e6a87428d9f1c23b17a3dadfd2c4533a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tmux plugin that helps opening files in a Neovim pane</div>",
-            "url": "https://github.com/trevarj/tmux-open-nvim",
-            "title": "trevarj/tmux-open-nvim: A tmux plugin that helps opening files in a Neovim pane",
-            "date_modified": "2024-01-20T04:04:42.000Z",
-            "date_published": "2022-12-31T12:55:19.000Z",
-            "author": {
-                "name": "trevarj",
-                "url": "https://github.com/trevarj"
             }
         }
     ]
