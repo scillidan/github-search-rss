@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46413291?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal init.vim for Neovim 0.5 or higher. Does NOT work with Vim (has some Lua plugins).</div>",
+            "url": "https://github.com/tedlava/neovim-config",
+            "title": "tedlava/neovim-config: My personal init.vim for Neovim 0.5 or higher. Does NOT work with Vim (has some Lua plugins).",
+            "date_modified": "2023-08-16T17:53:27.000Z",
+            "date_published": "2022-06-27T21:29:29.000Z",
+            "author": {
+                "name": "tedlava",
+                "url": "https://github.com/tedlava"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A completion plugin for neovim coded in Lua.</div>",
+            "url": "https://github.com/hrsh7th/nvim-cmp",
+            "title": "hrsh7th/nvim-cmp: A completion plugin for neovim coded in Lua.",
+            "date_modified": "2024-02-02T00:25:02.000Z",
+            "date_published": "2021-06-29T18:01:04.000Z",
+            "author": {
+                "name": "hrsh7th",
+                "url": "https://github.com/hrsh7th"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106895505?u=f018b6072825f90965e858ffa5d2c2d0e10d5873&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for compressing and decompressing code blocks.</div>",
+            "url": "https://github.com/mxilinas/flexblock.nvim",
+            "title": "mxilinas/flexblock.nvim: A Neovim plugin for compressing and decompressing code blocks.",
+            "date_modified": "2024-01-28T19:50:22.000Z",
+            "date_published": "2024-01-24T22:43:23.000Z",
+            "author": {
+                "name": "mxilinas",
+                "url": "https://github.com/mxilinas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51012201?u=b006fda4ba87fdbe6a517fbfe94eb9eab0d352bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for keyboard shortcut management</div>",
             "url": "https://github.com/cronJohn/keytex.nvim",
             "title": "cronJohn/keytex.nvim: A neovim plugin for keyboard shortcut management",
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36423882?u=96136e4cee711ae32907f3b10c348b57e2e9abbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A very simple Neovim plugin to help keep your configurations clean by creating autocmds for files in folders specified in your plugin configuration.</div>",
             "url": "https://github.com/smtucker/autodircmds",
             "title": "smtucker/autodircmds: A very simple Neovim plugin to help keep your configurations clean by creating autocmds for files in folders specified in your plugin configuration.",
-            "date_modified": "2024-01-28T15:14:25.000Z",
+            "date_modified": "2024-02-02T06:45:19.000Z",
             "date_published": "2024-01-22T02:34:53.000Z",
             "author": {
                 "name": "smtucker",
@@ -185,44 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
             "url": "https://github.com/stevearc/conform.nvim",
             "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-02-02T05:05:08.000Z",
+            "date_modified": "2024-02-02T06:39:10.000Z",
             "date_published": "2023-08-25T03:31:42.000Z",
             "author": {
                 "name": "stevearc",
                 "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65170555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this repository holds all my config files and plugins for my neovim environment</div>",
-            "url": "https://github.com/pedroreal12/nvim.configs",
-            "title": "pedroreal12/nvim.configs: this repository holds all my config files and plugins for my neovim environment",
-            "date_modified": "2023-11-22T21:15:29.000Z",
-            "date_published": "2023-11-18T00:57:57.000Z",
-            "author": {
-                "name": "pedroreal12",
-                "url": "https://github.com/pedroreal12"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93373310?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugins for Neovim configuration</div>",
-            "url": "https://github.com/chichieinstein/nvimhelper",
-            "title": "chichieinstein/nvimhelper: Plugins for Neovim configuration",
-            "date_modified": "2024-01-11T20:07:10.000Z",
-            "date_published": "2024-01-03T19:03:12.000Z",
-            "author": {
-                "name": "chichieinstein",
-                "url": "https://github.com/chichieinstein"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13983258?u=2d1364186dd23416a688d38945e8b2d516d35af9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A  neovim plugin to convert JSON objects to write Typescript types.</div>",
-            "url": "https://github.com/Redoxahmii/json-to-ts.nvim",
-            "title": "Redoxahmii/json-to-ts.nvim: A  neovim plugin to convert JSON objects to write Typescript types.",
-            "date_modified": "2024-02-01T21:30:29.000Z",
-            "date_published": "2024-02-01T21:16:51.000Z",
-            "author": {
-                "name": "Redoxahmii",
-                "url": "https://github.com/Redoxahmii"
             }
         }
     ]
