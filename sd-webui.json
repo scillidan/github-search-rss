@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23144950?u=473c22c5f1064f725e2b0bbead11d14b9589897d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>matting extension performs stable diffusion human or e_commence graph matting on a browser UI.</div>",
+            "url": "https://github.com/leeguandong/sd_webui_matting",
+            "title": "leeguandong/sd_webui_matting: matting extension performs stable diffusion human or e_commence graph matting on a browser UI.",
+            "date_modified": "2024-01-24T08:12:27.000Z",
+            "date_published": "2023-12-22T02:08:54.000Z",
+            "author": {
+                "name": "leeguandong",
+                "url": "https://github.com/leeguandong"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589598?u=ab6bac536e40395fea1d542c3d675f566293c02a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](<a href=\"https://github.com/viyiviyi/sd-encrypt-image\">https://github.com/viyiviyi/sd-encrypt-image</a>) ；加密方式：使用密码哈希值打乱像素顺序</div>",
             "url": "https://github.com/viyiviyi/encrypt_gallery",
             "title": "viyiviyi/encrypt_gallery: 一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](https://github.com/viyiviyi/sd-encrypt-image) ；加密方式：使用密码哈希值打乱像素顺序",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
             "url": "https://github.com/siliconflow/onediff",
             "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
-            "date_modified": "2024-02-02T10:31:05.000Z",
+            "date_modified": "2024-02-02T12:20:08.000Z",
             "date_published": "2022-09-21T07:34:13.000Z",
             "author": {
                 "name": "siliconflow",
@@ -174,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-02-02T10:38:27.000Z",
+            "date_modified": "2024-02-02T12:43:49.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "groinge",
                 "url": "https://github.com/groinge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66118290?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The extension allows you to specify Lora or Lyco weight from context menu.</div>",
-            "url": "https://github.com/nihedon/sd-webui-weight-helper",
-            "title": "nihedon/sd-webui-weight-helper: The extension allows you to specify Lora or Lyco weight from context menu.",
-            "date_modified": "2024-01-03T18:46:54.000Z",
-            "date_published": "2023-09-07T17:03:54.000Z",
-            "author": {
-                "name": "nihedon",
-                "url": "https://github.com/nihedon"
             }
         }
     ]
