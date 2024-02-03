@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47078021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Translate Japanese input + for Stable Diffusion</div>",
+            "url": "https://github.com/to-aoki/ja-tiny-sd-webui",
+            "title": "to-aoki/ja-tiny-sd-webui: Translate Japanese input + for Stable Diffusion",
+            "date_modified": "2024-02-01T14:35:53.000Z",
+            "date_published": "2024-02-01T14:00:22.000Z",
+            "author": {
+                "name": "to-aoki",
+                "url": "https://github.com/to-aoki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1055952?u=12db17828d1e21b6297a9d4d3b753bc296093d07&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Sokar/sd-webui-rmadaimagepro",
+            "title": "Sokar/sd-webui-rmadaimagepro",
+            "date_modified": "2024-01-21T18:10:34.000Z",
+            "date_published": "2024-01-21T18:09:05.000Z",
+            "author": {
+                "name": "Sokar",
+                "url": "https://github.com/Sokar"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589598?u=ab6bac536e40395fea1d542c3d675f566293c02a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](<a href=\"https://github.com/viyiviyi/sd-encrypt-image\">https://github.com/viyiviyi/sd-encrypt-image</a>) ；加密方式：使用密码哈希值打乱像素顺序</div>",
             "url": "https://github.com/viyiviyi/encrypt_gallery",
             "title": "viyiviyi/encrypt_gallery: 一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](https://github.com/viyiviyi/sd-encrypt-image) ；加密方式：使用密码哈希值打乱像素顺序",
@@ -75,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tab for sd-webui for replacing objects in picture using detection prompt</div>",
             "url": "https://github.com/light-and-ray/sd-webui-replacer",
             "title": "light-and-ray/sd-webui-replacer: A tab for sd-webui for replacing objects in picture using detection prompt",
-            "date_modified": "2024-02-03T09:01:46.000Z",
+            "date_modified": "2024-02-03T10:58:52.000Z",
             "date_published": "2023-11-06T10:09:24.000Z",
             "author": {
                 "name": "light-and-ray",
@@ -196,33 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI</div>",
             "url": "https://github.com/continue-revolution/sd-webui-animatediff",
             "title": "continue-revolution/sd-webui-animatediff: AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI",
-            "date_modified": "2024-02-03T05:11:39.000Z",
+            "date_modified": "2024-02-03T10:21:59.000Z",
             "date_published": "2023-07-18T02:59:45.000Z",
             "author": {
                 "name": "continue-revolution",
                 "url": "https://github.com/continue-revolution"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Color/Detail control for Stable Diffusion web-ui</div>",
-            "url": "https://github.com/hako-mikan/sd-webui-cd-tuner",
-            "title": "hako-mikan/sd-webui-cd-tuner: Color/Detail control for Stable Diffusion web-ui",
-            "date_modified": "2024-01-24T15:55:29.000Z",
-            "date_published": "2023-07-08T17:05:49.000Z",
-            "author": {
-                "name": "hako-mikan",
-                "url": "https://github.com/hako-mikan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension for Stable Diffusion web-ui enables negative prompt in prompt</div>",
-            "url": "https://github.com/hako-mikan/sd-webui-negpip",
-            "title": "hako-mikan/sd-webui-negpip: Extension for Stable Diffusion web-ui enables negative prompt in prompt",
-            "date_modified": "2024-01-27T22:45:54.000Z",
-            "date_published": "2023-07-26T15:58:03.000Z",
-            "author": {
-                "name": "hako-mikan",
-                "url": "https://github.com/hako-mikan"
             }
         }
     ]
