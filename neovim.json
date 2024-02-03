@@ -6,14 +6,25 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12184268?u=35ff697932f0ebba20a58fc8a07f9a5f033fa375&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin with some useful functions for working with Kustomize</div>",
-            "url": "https://github.com/Allaman/kustomize.nvim",
-            "title": "Allaman/kustomize.nvim: A Neovim plugin with some useful functions for working with Kustomize",
-            "date_modified": "2023-12-28T11:13:00.000Z",
-            "date_published": "2022-11-17T21:07:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Run, and Test applications created with Xcode &amp; Swift.</div>",
+            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
+            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Run, and Test applications created with Xcode & Swift.",
+            "date_modified": "2024-02-03T17:05:34.000Z",
+            "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
-                "name": "Allaman",
-                "url": "https://github.com/Allaman"
+                "name": "wojciech-kulik",
+                "url": "https://github.com/wojciech-kulik"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52708?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to open urls from a project</div>",
+            "url": "https://github.com/edgarlatorre/project-urls",
+            "title": "edgarlatorre/project-urls: Neovim plugin to open urls from a project",
+            "date_modified": "2024-02-02T16:19:49.000Z",
+            "date_published": "2024-01-31T17:08:25.000Z",
+            "author": {
+                "name": "edgarlatorre",
+                "url": "https://github.com/edgarlatorre"
             }
         },
         {
@@ -25,6 +36,28 @@
             "author": {
                 "name": "redyf",
                 "url": "https://github.com/redyf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7258698?u=4125be2ae6ee0ab32595ce58a02a49d1d9a546b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to detect macOS appearance change</div>",
+            "url": "https://github.com/rancorm/nvim-aqua",
+            "title": "rancorm/nvim-aqua: Neovim plugin to detect macOS appearance change",
+            "date_modified": "2024-02-03T22:12:03.000Z",
+            "date_published": "2024-02-01T15:41:08.000Z",
+            "author": {
+                "name": "rancorm",
+                "url": "https://github.com/rancorm"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12184268?u=35ff697932f0ebba20a58fc8a07f9a5f033fa375&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin with some useful functions for working with Kustomize</div>",
+            "url": "https://github.com/Allaman/kustomize.nvim",
+            "title": "Allaman/kustomize.nvim: A Neovim plugin with some useful functions for working with Kustomize",
+            "date_modified": "2023-12-28T11:13:00.000Z",
+            "date_published": "2022-11-17T21:07:44.000Z",
+            "author": {
+                "name": "Allaman",
+                "url": "https://github.com/Allaman"
             }
         },
         {
@@ -47,17 +80,6 @@
             "author": {
                 "name": "sbdchd",
                 "url": "https://github.com/sbdchd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7258698?u=4125be2ae6ee0ab32595ce58a02a49d1d9a546b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to detect macOS appearance change</div>",
-            "url": "https://github.com/rancorm/nvim-aqua",
-            "title": "rancorm/nvim-aqua: Neovim plugin to detect macOS appearance change",
-            "date_modified": "2024-02-03T21:25:53.000Z",
-            "date_published": "2024-02-01T15:41:08.000Z",
-            "author": {
-                "name": "rancorm",
-                "url": "https://github.com/rancorm"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "RhydianJenkins",
                 "url": "https://github.com/RhydianJenkins"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55022619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for switching IMEs in Windows.</div>",
-            "url": "https://github.com/drop-stones/ime-switch-win.nvim",
-            "title": "drop-stones/ime-switch-win.nvim: Neovim plugin for switching IMEs in Windows.",
-            "date_modified": "2023-08-27T08:32:10.000Z",
-            "date_published": "2023-08-26T11:46:03.000Z",
-            "author": {
-                "name": "drop-stones",
-                "url": "https://github.com/drop-stones"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55982839?u=c79d42f77ece5b4cb50892c0cf9dc11e6460791f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration includes a wide range of plugins and settings, carefully chosen and integrated to enhance my productivity and coding experience. The plugins and settings are tailored to my specific needs as a DevOps Engineer, and can easily be customized to meet the needs of others.</div>",
-            "url": "https://github.com/dme86/neovim",
-            "title": "dme86/neovim: My Neovim configuration includes a wide range of plugins and settings, carefully chosen and integrated to enhance my productivity and coding experience. The plugins and settings are tailored to my specific needs as a DevOps Engineer, and can easily be customized to meet the needs of others.",
-            "date_modified": "2023-07-23T17:47:25.000Z",
-            "date_published": "2022-12-24T15:07:07.000Z",
-            "author": {
-                "name": "dme86",
-                "url": "https://github.com/dme86"
             }
         }
     ]
