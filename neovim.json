@@ -6,10 +6,21 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to upgrade your current neovim distro from its github remote (WIP)</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52151764?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to show bytecode of the current open java file</div>",
+            "url": "https://github.com/lrappenhoener/jvmbytecode.nvim",
+            "title": "lrappenhoener/jvmbytecode.nvim: neovim plugin to show bytecode of the current open java file",
+            "date_modified": "2024-02-04T19:26:23.000Z",
+            "date_published": "2024-02-04T19:11:45.000Z",
+            "author": {
+                "name": "lrappenhoener",
+                "url": "https://github.com/lrappenhoener"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to upgrade your current distro from its github remote (WIP)</div>",
             "url": "https://github.com/Zeioth/distroupdate.nvim",
-            "title": "Zeioth/distroupdate.nvim: Neovim plugin to upgrade your current neovim distro from its github remote (WIP)",
-            "date_modified": "2024-02-04T19:27:49.000Z",
+            "title": "Zeioth/distroupdate.nvim: Neovim plugin to upgrade your current distro from its github remote (WIP)",
+            "date_modified": "2024-02-04T20:47:22.000Z",
             "date_published": "2024-01-23T16:34:38.000Z",
             "author": {
                 "name": "Zeioth",
@@ -17,14 +28,47 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122170125?u=081793ee49c918dbaca5d5a3c9a09a29cb4c4b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a plugin for Neovim allowing deploying and building in java</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122170125?u=081793ee49c918dbaca5d5a3c9a09a29cb4c4b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a plugin for Neovim allowing deploying and building</div>",
             "url": "https://github.com/NikolasDaynard/FRCNeovim",
-            "title": "NikolasDaynard/FRCNeovim: This is a plugin for Neovim allowing deploying and building in java",
-            "date_modified": "2024-02-04T02:56:05.000Z",
+            "title": "NikolasDaynard/FRCNeovim: This is a plugin for Neovim allowing deploying and building",
+            "date_modified": "2024-02-04T20:45:35.000Z",
             "date_published": "2024-02-04T02:07:57.000Z",
             "author": {
                 "name": "NikolasDaynard",
                 "url": "https://github.com/NikolasDaynard"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1940365?u=2286f0a0ee21d60505aaba79454915b01d125575&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin search from the terminal</div>",
+            "url": "https://github.com/neurosnap/nvim.sh",
+            "title": "neurosnap/nvim.sh: neovim plugin search from the terminal",
+            "date_modified": "2024-01-29T01:01:55.000Z",
+            "date_published": "2022-01-06T16:17:04.000Z",
+            "author": {
+                "name": "neurosnap",
+                "url": "https://github.com/neurosnap"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
+            "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
+            "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
+            "date_modified": "2024-02-03T04:02:25.000Z",
+            "date_published": "2023-01-07T09:43:06.000Z",
+            "author": {
+                "name": "ca-mantis-shrimp",
+                "url": "https://github.com/ca-mantis-shrimp"
             }
         },
         {
@@ -83,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
-            "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
-            "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
-            "date_modified": "2024-02-03T04:02:25.000Z",
-            "date_published": "2023-01-07T09:43:06.000Z",
-            "author": {
-                "name": "ca-mantis-shrimp",
-                "url": "https://github.com/ca-mantis-shrimp"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121724080?u=0de214ceb24619bb78f8f3a0186f9df98c787e06&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My own configuration and set of plugins for Neovim</div>",
             "url": "https://github.com/gbazuev/nvim-config",
             "title": "gbazuev/nvim-config: My own configuration and set of plugins for Neovim",
@@ -102,17 +135,6 @@
             "author": {
                 "name": "gbazuev",
                 "url": "https://github.com/gbazuev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52151764?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to show bytecode of the current open java file</div>",
-            "url": "https://github.com/lrappenhoener/jvmbytecode.nvim",
-            "title": "lrappenhoener/jvmbytecode.nvim: neovim plugin to show bytecode of the current open java file",
-            "date_modified": "2024-02-04T19:26:23.000Z",
-            "date_published": "2024-02-04T19:11:45.000Z",
-            "author": {
-                "name": "lrappenhoener",
-                "url": "https://github.com/lrappenhoener"
             }
         },
         {
@@ -182,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
             "url": "https://github.com/mfussenegger/nvim-lint",
             "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "olimorris",
                 "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-02-04T19:37:26.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
             }
         }
     ]
