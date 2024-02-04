@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34448969?u=6a31917fc4919633ccad373f1ed8fbbdc243d92a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI</div>",
+            "url": "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete",
+            "title": "DominikDoom/a1111-sd-webui-tagcomplete: Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI",
+            "date_modified": "2024-02-04T10:23:48.000Z",
+            "date_published": "2022-10-11T17:33:14.000Z",
+            "author": {
+                "name": "DominikDoom",
+                "url": "https://github.com/DominikDoom"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=fb5bc556ba21239a05c2373b0aa06ee1549d532c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that trivializes outpainting</div>",
+            "url": "https://github.com/Haoming02/sd-webui-mosaic-outpaint",
+            "title": "Haoming02/sd-webui-mosaic-outpaint: An Extension for Automatic1111 Webui that trivializes outpainting",
+            "date_modified": "2024-02-04T09:19:05.000Z",
+            "date_published": "2024-02-01T04:21:48.000Z",
+            "author": {
+                "name": "Haoming02",
+                "url": "https://github.com/Haoming02"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tab for sd-webui for replacing objects in picture using detection prompt</div>",
             "url": "https://github.com/light-and-ray/sd-webui-replacer",
             "title": "light-and-ray/sd-webui-replacer: A tab for sd-webui for replacing objects in picture using detection prompt",
@@ -14,6 +36,17 @@
             "author": {
                 "name": "light-and-ray",
                 "url": "https://github.com/light-and-ray"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Segment Anything for Stable Diffusion WebUI</div>",
+            "url": "https://github.com/continue-revolution/sd-webui-segment-anything",
+            "title": "continue-revolution/sd-webui-segment-anything: Segment Anything for Stable Diffusion WebUI",
+            "date_modified": "2024-02-04T10:20:16.000Z",
+            "date_published": "2023-04-10T13:52:55.000Z",
+            "author": {
+                "name": "continue-revolution",
+                "url": "https://github.com/continue-revolution"
             }
         },
         {
@@ -58,6 +91,17 @@
             "author": {
                 "name": "SleeeepyZhou",
                 "url": "https://github.com/SleeeepyZhou"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29772821?u=c8a3501c0b21a96bb8349b2ff2ca6cef98249f33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.</div>",
+            "url": "https://github.com/storyicon/comfyui_segment_anything",
+            "title": "storyicon/comfyui_segment_anything: Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.",
+            "date_modified": "2024-02-04T10:20:04.000Z",
+            "date_published": "2023-10-07T03:21:20.000Z",
+            "author": {
+                "name": "storyicon",
+                "url": "https://github.com/storyicon"
             }
         },
         {
@@ -108,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136279213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Platform Package Manager for Stable Diffusion</div>",
             "url": "https://github.com/LykosAI/StabilityMatrix",
             "title": "LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion",
-            "date_modified": "2024-02-04T05:43:26.000Z",
+            "date_modified": "2024-02-04T10:20:50.000Z",
             "date_published": "2023-06-13T05:20:38.000Z",
             "author": {
                 "name": "LykosAI",
@@ -135,17 +179,6 @@
             "author": {
                 "name": "to-aoki",
                 "url": "https://github.com/to-aoki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=fb5bc556ba21239a05c2373b0aa06ee1549d532c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that trivializes outpainting</div>",
-            "url": "https://github.com/Haoming02/sd-webui-mosaic-outpaint",
-            "title": "Haoming02/sd-webui-mosaic-outpaint: An Extension for Automatic1111 Webui that trivializes outpainting",
-            "date_modified": "2024-02-04T09:19:05.000Z",
-            "date_published": "2024-02-01T04:21:48.000Z",
-            "author": {
-                "name": "Haoming02",
-                "url": "https://github.com/Haoming02"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "light-and-ray",
                 "url": "https://github.com/light-and-ray"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>process video frame by frame inside \"Extras\" tab</div>",
-            "url": "https://github.com/light-and-ray/sd-webui-video-extras-tab",
-            "title": "light-and-ray/sd-webui-video-extras-tab: process video frame by frame inside \"Extras\" tab",
-            "date_modified": "2024-01-28T00:46:04.000Z",
-            "date_published": "2024-01-15T14:00:27.000Z",
-            "author": {
-                "name": "light-and-ray",
-                "url": "https://github.com/light-and-ray"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32365239?u=135e4a4311bf9f3e0c56ca022a902c2f068a7535&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Style variables sd-webui extension</div>",
-            "url": "https://github.com/SirVeggie/extension-style-vars",
-            "title": "SirVeggie/extension-style-vars: Style variables sd-webui extension",
-            "date_modified": "2024-01-23T21:01:45.000Z",
-            "date_published": "2023-11-18T02:09:56.000Z",
-            "author": {
-                "name": "SirVeggie",
-                "url": "https://github.com/SirVeggie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/John-WL/sd-webui-inpaint-background",
-            "title": "John-WL/sd-webui-inpaint-background",
-            "date_modified": "2024-02-03T00:52:41.000Z",
-            "date_published": "2023-11-03T11:09:28.000Z",
-            "author": {
-                "name": "John-WL",
-                "url": "https://github.com/John-WL"
             }
         }
     ]
