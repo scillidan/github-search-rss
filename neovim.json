@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122170125?u=081793ee49c918dbaca5d5a3c9a09a29cb4c4b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a plugin for Neovim allowing deploying and building</div>",
+            "url": "https://github.com/NikolasDaynard/FRCNeovim",
+            "title": "NikolasDaynard/FRCNeovim: This is a plugin for Neovim allowing deploying and building",
+            "date_modified": "2024-02-04T20:45:35.000Z",
+            "date_published": "2024-02-04T02:07:57.000Z",
+            "author": {
+                "name": "NikolasDaynard",
+                "url": "https://github.com/NikolasDaynard"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49373262?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Helix wrapper that mimics the neovim startify plugin</div>",
+            "url": "https://github.com/Fabian1409/helix-startify",
+            "title": "Fabian1409/helix-startify: Helix wrapper that mimics the neovim startify plugin",
+            "date_modified": "2024-02-05T21:02:47.000Z",
+            "date_published": "2024-02-05T21:01:42.000Z",
+            "author": {
+                "name": "Fabian1409",
+                "url": "https://github.com/Fabian1409"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
+            "url": "https://github.com/Iron-E/nvim-highlite",
+            "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
+            "date_modified": "2024-01-25T04:53:04.000Z",
+            "date_published": "2020-06-19T22:42:23.000Z",
+            "author": {
+                "name": "Iron-E",
+                "url": "https://github.com/Iron-E"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo.</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo.",
@@ -53,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
             "url": "https://github.com/mrcjkb/rustaceanvim",
             "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-02-05T19:52:52.000Z",
+            "date_modified": "2024-02-05T20:45:32.000Z",
             "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
                 "name": "mrcjkb",
@@ -171,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125701?u=3a01e6929aa1ae0c1dc796928df3c91e22e1ca0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CodeQL plugin for Neovim</div>",
             "url": "https://github.com/pwntester/codeql.nvim",
             "title": "pwntester/codeql.nvim: CodeQL plugin for Neovim",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "pwntester",
                 "url": "https://github.com/pwntester"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
-            "url": "https://github.com/AstroNvim/AstroNvim",
-            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-02-05T19:43:58.000Z",
-            "date_published": "2022-02-02T22:33:34.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.</div>",
-            "url": "https://github.com/folke/which-key.nvim",
-            "title": "folke/which-key.nvim: 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
-            "date_modified": "2024-02-05T20:08:42.000Z",
-            "date_published": "2021-04-28T10:13:18.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
-            "url": "https://github.com/stevearc/aerial.nvim",
-            "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
-            "date_modified": "2024-02-05T15:04:42.000Z",
-            "date_published": "2020-09-19T22:59:49.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
             }
         }
     ]
