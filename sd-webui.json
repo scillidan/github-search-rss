@@ -6,10 +6,21 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129350308?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SD-WebUI 简体中文翻译扩展 Simplified Chinese Localization for AUTOMATIC1111 Stable Diffusion WebUI</div>",
+            "url": "https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans",
+            "title": "hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans: SD-WebUI 简体中文翻译扩展 Simplified Chinese Localization for AUTOMATIC1111 Stable Diffusion WebUI",
+            "date_modified": "2024-02-04T20:28:54.000Z",
+            "date_published": "2023-02-25T04:48:34.000Z",
+            "author": {
+                "name": "hanamizuki-ai",
+                "url": "https://github.com/hanamizuki-ai"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
             "url": "https://github.com/siliconflow/onediff",
             "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
-            "date_modified": "2024-02-05T05:36:26.000Z",
+            "date_modified": "2024-02-05T06:16:02.000Z",
             "date_published": "2022-09-21T07:34:13.000Z",
             "author": {
                 "name": "siliconflow",
@@ -25,6 +36,17 @@
             "author": {
                 "name": "SleeeepyZhou",
                 "url": "https://github.com/SleeeepyZhou"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
+            "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
+            "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
+            "date_modified": "2024-02-05T06:45:12.000Z",
+            "date_published": "2023-08-28T10:46:27.000Z",
+            "author": {
+                "name": "aigc-apps",
+                "url": "https://github.com/aigc-apps"
             }
         },
         {
@@ -174,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136279213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Platform Package Manager for Stable Diffusion</div>",
             "url": "https://github.com/LykosAI/StabilityMatrix",
             "title": "LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion",
-            "date_modified": "2024-02-05T05:12:32.000Z",
+            "date_modified": "2024-02-05T06:59:46.000Z",
             "date_published": "2023-06-13T05:20:38.000Z",
             "author": {
                 "name": "LykosAI",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "vladmandic",
                 "url": "https://github.com/vladmandic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65122811?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Test a base prompt with different checkpoints and for the checkpoints specific prompt templates</div>",
-            "url": "https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt",
-            "title": "h43lb1t0/SD-WebUI-BatchCheckpointPrompt: Test a base prompt with different checkpoints and for the checkpoints specific prompt templates",
-            "date_modified": "2024-01-30T08:30:05.000Z",
-            "date_published": "2023-04-01T18:21:17.000Z",
-            "author": {
-                "name": "h43lb1t0",
-                "url": "https://github.com/h43lb1t0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589598?u=ab6bac536e40395fea1d542c3d675f566293c02a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](<a href=\"https://github.com/viyiviyi/sd-encrypt-image\">https://github.com/viyiviyi/sd-encrypt-image</a>) ；加密方式：使用密码哈希值打乱像素顺序</div>",
-            "url": "https://github.com/viyiviyi/encrypt_gallery",
-            "title": "viyiviyi/encrypt_gallery: 一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](https://github.com/viyiviyi/sd-encrypt-image) ；加密方式：使用密码哈希值打乱像素顺序",
-            "date_modified": "2024-02-01T16:36:19.000Z",
-            "date_published": "2023-12-16T16:49:33.000Z",
-            "author": {
-                "name": "viyiviyi",
-                "url": "https://github.com/viyiviyi"
             }
         }
     ]
