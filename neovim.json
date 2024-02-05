@@ -6,17 +6,6 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122170125?u=081793ee49c918dbaca5d5a3c9a09a29cb4c4b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a plugin for Neovim allowing deploying and building</div>",
-            "url": "https://github.com/NikolasDaynard/FRCNeovim",
-            "title": "NikolasDaynard/FRCNeovim: This is a plugin for Neovim allowing deploying and building",
-            "date_modified": "2024-02-04T20:45:35.000Z",
-            "date_published": "2024-02-04T02:07:57.000Z",
-            "author": {
-                "name": "NikolasDaynard",
-                "url": "https://github.com/NikolasDaynard"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49373262?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Helix wrapper that mimics the neovim startify plugin</div>",
             "url": "https://github.com/Fabian1409/helix-startify",
             "title": "Fabian1409/helix-startify: Helix wrapper that mimics the neovim startify plugin",
@@ -28,14 +17,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ Use the OpenAI APIs directly in Neovim. Use it to chat, author and advise you on your code</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ Use the OpenAI APIs directly in Neovim. Use it to chat, author and advise you on your code",
+            "date_modified": "2024-02-05T17:24:00.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122170125?u=081793ee49c918dbaca5d5a3c9a09a29cb4c4b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a plugin for Neovim allowing deploying and building</div>",
+            "url": "https://github.com/NikolasDaynard/FRCNeovim",
+            "title": "NikolasDaynard/FRCNeovim: This is a plugin for Neovim allowing deploying and building",
+            "date_modified": "2024-02-04T20:45:35.000Z",
+            "date_published": "2024-02-04T02:07:57.000Z",
+            "author": {
+                "name": "NikolasDaynard",
+                "url": "https://github.com/NikolasDaynard"
             }
         },
         {
@@ -47,6 +47,28 @@
             "author": {
                 "name": "Iron-E",
                 "url": "https://github.com/Iron-E"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20689156?u=b9559f176b8317f628ecb4560ef0677b7999a38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.</div>",
+            "url": "https://github.com/shortcuts/no-neck-pain.nvim",
+            "title": "shortcuts/no-neck-pain.nvim: ☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.",
+            "date_modified": "2024-02-05T17:18:26.000Z",
+            "date_published": "2022-10-23T12:09:24.000Z",
+            "author": {
+                "name": "shortcuts",
+                "url": "https://github.com/shortcuts"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -97,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
             "url": "https://github.com/mrcjkb/rustaceanvim",
             "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-02-05T20:45:32.000Z",
+            "date_modified": "2024-02-05T22:04:24.000Z",
             "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
                 "name": "mrcjkb",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "roobert",
                 "url": "https://github.com/roobert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20689156?u=b9559f176b8317f628ecb4560ef0677b7999a38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.</div>",
-            "url": "https://github.com/shortcuts/no-neck-pain.nvim",
-            "title": "shortcuts/no-neck-pain.nvim: ☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.",
-            "date_modified": "2024-02-05T17:18:26.000Z",
-            "date_published": "2022-10-23T12:09:24.000Z",
-            "author": {
-                "name": "shortcuts",
-                "url": "https://github.com/shortcuts"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125701?u=3a01e6929aa1ae0c1dc796928df3c91e22e1ca0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CodeQL plugin for Neovim</div>",
-            "url": "https://github.com/pwntester/codeql.nvim",
-            "title": "pwntester/codeql.nvim: CodeQL plugin for Neovim",
-            "date_modified": "2024-01-19T17:39:47.000Z",
-            "date_published": "2019-12-12T21:30:22.000Z",
-            "author": {
-                "name": "pwntester",
-                "url": "https://github.com/pwntester"
             }
         }
     ]
