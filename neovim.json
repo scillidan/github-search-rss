@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
+            "date_modified": "2024-02-05T14:45:32.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
+            "author": {
+                "name": "redyf",
+                "url": "https://github.com/redyf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
+            "title": "LongerHV/neovim-plugins-overlay",
+            "date_modified": "2023-08-20T22:40:05.000Z",
+            "date_published": "2022-12-22T21:42:57.000Z",
+            "author": {
+                "name": "LongerHV",
+                "url": "https://github.com/LongerHV"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122170125?u=081793ee49c918dbaca5d5a3c9a09a29cb4c4b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a plugin for Neovim allowing deploying and building</div>",
             "url": "https://github.com/NikolasDaynard/FRCNeovim",
             "title": "NikolasDaynard/FRCNeovim: This is a plugin for Neovim allowing deploying and building",
@@ -20,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6324?u=737b07404fcfd3cd7e76495ab825a40757305d2f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to automatically correct common misspellings and typos like \"teh\" for \"the\".</div>",
             "url": "https://github.com/swaits/thethethe.nvim",
             "title": "swaits/thethethe.nvim: A neovim plugin to automatically correct common misspellings and typos like \"teh\" for \"the\".",
-            "date_modified": "2024-02-03T20:37:21.000Z",
+            "date_modified": "2024-02-06T01:05:18.000Z",
             "date_published": "2024-01-29T17:09:06.000Z",
             "author": {
                 "name": "swaits",
@@ -171,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo.</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "disrupted",
                 "url": "https://github.com/disrupted"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137426021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to help compile and run code with tmux integration</div>",
-            "url": "https://github.com/sasheto-phizika/compal.nvim",
-            "title": "sasheto-phizika/compal.nvim: Neovim plugin to help compile and run code with tmux integration",
-            "date_modified": "2024-01-19T16:01:18.000Z",
-            "date_published": "2023-06-26T07:52:36.000Z",
-            "author": {
-                "name": "sasheto-phizika",
-                "url": "https://github.com/sasheto-phizika"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A starter template for a Neovim plugin written in Lua with a Nix CI</div>",
-            "url": "https://github.com/mrcjkb/nvim-lua-nix-plugin-template",
-            "title": "mrcjkb/nvim-lua-nix-plugin-template: A starter template for a Neovim plugin written in Lua with a Nix CI",
-            "date_modified": "2024-01-06T21:30:03.000Z",
-            "date_published": "2022-11-20T19:32:24.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
             }
         }
     ]
