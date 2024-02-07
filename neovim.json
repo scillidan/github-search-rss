@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43189865?u=e5e20b89a31d58c850d9c5dead2bfee023c17af8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My NeoVim plugins set up.</div>",
+            "url": "https://github.com/brendocruz/nvim-config",
+            "title": "brendocruz/nvim-config: My NeoVim plugins set up.",
+            "date_modified": "2023-01-31T20:23:07.000Z",
+            "date_published": "2022-09-13T05:07:31.000Z",
+            "author": {
+                "name": "brendocruz",
+                "url": "https://github.com/brendocruz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20099987?u=ee93ee944ca581b6b36dd5e5d445860bdc5a368d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📚 A Neovim plugin to show `:help` in an anchorable/resizable floating window</div>",
+            "url": "https://github.com/Tyler-Barham/floating-help.nvim",
+            "title": "Tyler-Barham/floating-help.nvim: 📚 A Neovim plugin to show `:help` in an anchorable/resizable floating window",
+            "date_modified": "2024-02-06T17:09:46.000Z",
+            "date_published": "2023-08-01T03:58:24.000Z",
+            "author": {
+                "name": "Tyler-Barham",
+                "url": "https://github.com/Tyler-Barham"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Run, and Test applications created with Xcode &amp; Swift.</div>",
+            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
+            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Run, and Test applications created with Xcode & Swift.",
+            "date_modified": "2024-02-07T17:13:12.000Z",
+            "date_published": "2023-11-01T17:40:49.000Z",
+            "author": {
+                "name": "wojciech-kulik",
+                "url": "https://github.com/wojciech-kulik"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137426021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to help compile and run code with tmux integration</div>",
+            "url": "https://github.com/sasheto-phizika/compal.nvim",
+            "title": "sasheto-phizika/compal.nvim: Neovim plugin to help compile and run code with tmux integration",
+            "date_modified": "2024-01-19T16:01:18.000Z",
+            "date_published": "2023-06-26T07:52:36.000Z",
+            "author": {
+                "name": "sasheto-phizika",
+                "url": "https://github.com/sasheto-phizika"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96374414?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>typofix is a tiny neovim plugin written in lua which lets you add and remove vim abbreviations on the fly and they will be managed for you by the plugin</div>",
             "url": "https://github.com/barnii77/typofix.nvim",
             "title": "barnii77/typofix.nvim: typofix is a tiny neovim plugin written in lua which lets you add and remove vim abbreviations on the fly and they will be managed for you by the plugin",
@@ -94,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "rubiin",
                 "url": "https://github.com/rubiin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
-            "url": "https://github.com/AstroNvim/AstroNvim",
-            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-02-07T19:08:44.000Z",
-            "date_published": "2022-02-02T22:33:34.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122170125?u=081793ee49c918dbaca5d5a3c9a09a29cb4c4b17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a plugin for Neovim allowing deploying and building</div>",
-            "url": "https://github.com/NikolasDaynard/FRCNeovim",
-            "title": "NikolasDaynard/FRCNeovim: This is a plugin for Neovim allowing deploying and building",
-            "date_modified": "2024-02-04T20:45:35.000Z",
-            "date_published": "2024-02-04T02:07:57.000Z",
-            "author": {
-                "name": "NikolasDaynard",
-                "url": "https://github.com/NikolasDaynard"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/430272?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Image Preview for Neovim 🖼</div>",
-            "url": "https://github.com/adelarsq/image_preview.nvim",
-            "title": "adelarsq/image_preview.nvim: Image Preview for Neovim 🖼",
-            "date_modified": "2024-02-01T17:31:03.000Z",
-            "date_published": "2022-10-08T16:03:01.000Z",
-            "author": {
-                "name": "adelarsq",
-                "url": "https://github.com/adelarsq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80704612?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Always single line, comment sensitive, indentation preserving commenting.</div>",
-            "url": "https://github.com/LucasTavaresA/SingleComment.nvim",
-            "title": "LucasTavaresA/SingleComment.nvim: Always single line, comment sensitive, indentation preserving commenting.",
-            "date_modified": "2023-12-27T02:06:59.000Z",
-            "date_published": "2023-01-08T19:48:13.000Z",
-            "author": {
-                "name": "LucasTavaresA",
-                "url": "https://github.com/LucasTavaresA"
             }
         }
     ]
