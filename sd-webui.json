@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1763533?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Library for integrating Queue-it into an Android app using web ui</div>",
+            "url": "https://github.com/queueit/android-webui-sdk",
+            "title": "queueit/android-webui-sdk: Library for integrating Queue-it into an Android app using web ui",
+            "date_modified": "2024-02-07T10:40:51.000Z",
+            "date_published": "2016-06-13T07:47:03.000Z",
+            "author": {
+                "name": "queueit",
+                "url": "https://github.com/queueit"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589598?u=ab6bac536e40395fea1d542c3d675f566293c02a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](<a href=\"https://github.com/viyiviyi/sd-encrypt-image\">https://github.com/viyiviyi/sd-encrypt-image</a>) ；加密方式：使用密码哈希值打乱像素顺序</div>",
             "url": "https://github.com/viyiviyi/encrypt_gallery",
             "title": "viyiviyi/encrypt_gallery: 一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](https://github.com/viyiviyi/sd-encrypt-image) ；加密方式：使用密码哈希值打乱像素顺序",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136279213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Platform Package Manager for Stable Diffusion</div>",
             "url": "https://github.com/LykosAI/StabilityMatrix",
             "title": "LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion",
-            "date_modified": "2024-02-07T09:32:28.000Z",
+            "date_modified": "2024-02-07T10:29:49.000Z",
             "date_published": "2023-06-13T05:20:38.000Z",
             "author": {
                 "name": "LykosAI",
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114763196?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deforum extension for AUTOMATIC1111's Stable Diffusion webui</div>",
             "url": "https://github.com/deforum-art/sd-webui-deforum",
             "title": "deforum-art/sd-webui-deforum: Deforum extension for AUTOMATIC1111's Stable Diffusion webui",
-            "date_modified": "2024-02-07T05:36:10.000Z",
+            "date_modified": "2024-02-07T11:06:54.000Z",
             "date_published": "2022-10-14T22:29:12.000Z",
             "author": {
                 "name": "deforum-art",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hako-mikan",
                 "url": "https://github.com/hako-mikan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.</div>",
-            "url": "https://github.com/canonical/sdcore-webui-k8s-operator",
-            "title": "canonical/sdcore-webui-k8s-operator: A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.",
-            "date_modified": "2023-12-11T09:40:27.000Z",
-            "date_published": "2023-05-19T15:43:33.000Z",
-            "author": {
-                "name": "canonical",
-                "url": "https://github.com/canonical"
             }
         }
     ]
