@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15974?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that makes Confluence a bit more bearable</div>",
+            "url": "https://github.com/mramsden/fluence.nvim",
+            "title": "mramsden/fluence.nvim: A neovim plugin that makes Confluence a bit more bearable",
+            "date_modified": "2024-02-07T00:28:42.000Z",
+            "date_published": "2024-02-07T00:25:43.000Z",
+            "author": {
+                "name": "mramsden",
+                "url": "https://github.com/mramsden"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
+            "date_modified": "2024-02-06T15:06:49.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
+            "author": {
+                "name": "redyf",
+                "url": "https://github.com/redyf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
+            "title": "yutkat/new-neovim-plugin-rss",
+            "date_modified": "2023-12-18T20:17:27.000Z",
+            "date_published": "2022-08-28T04:58:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96374414?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>typofix is a tiny neovim plugin written in lua which lets you add and remove vim abbreviations on the fly and they will be managed for you by the plugin</div>",
             "url": "https://github.com/barnii77/typofix.nvim",
             "title": "barnii77/typofix.nvim: typofix is a tiny neovim plugin written in lua which lets you add and remove vim abbreviations on the fly and they will be managed for you by the plugin",
@@ -14,6 +47,28 @@
             "author": {
                 "name": "barnii77",
                 "url": "https://github.com/barnii77"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to upgrade your current distro from its github remote (WIP)</div>",
+            "url": "https://github.com/Zeioth/distroupdate.nvim",
+            "title": "Zeioth/distroupdate.nvim: Neovim plugin to upgrade your current distro from its github remote (WIP)",
+            "date_modified": "2024-02-04T20:47:22.000Z",
+            "date_published": "2024-01-23T16:34:38.000Z",
+            "author": {
+                "name": "Zeioth",
+                "url": "https://github.com/Zeioth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23629789?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dotfiles repository for neovim with mason, nvim-cmp, treesitter and lazy and a bunch of other useful plugins.</div>",
+            "url": "https://github.com/mitschix/nvim.files",
+            "title": "mitschix/nvim.files: Dotfiles repository for neovim with mason, nvim-cmp, treesitter and lazy and a bunch of other useful plugins.",
+            "date_modified": "2024-01-17T13:10:44.000Z",
+            "date_published": "2020-06-12T13:02:21.000Z",
+            "author": {
+                "name": "mitschix",
+                "url": "https://github.com/mitschix"
             }
         },
         {
@@ -58,6 +113,17 @@
             "author": {
                 "name": "wongjack2332",
                 "url": "https://github.com/wongjack2332"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69250723?u=1a5fec3d222c3fc3cac306c5794c569c52292477&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin enabling you to solve LeetCode problems.</div>",
+            "url": "https://github.com/kawre/leetcode.nvim",
+            "title": "kawre/leetcode.nvim: A Neovim plugin enabling you to solve LeetCode problems.",
+            "date_modified": "2024-02-07T00:25:12.000Z",
+            "date_published": "2023-09-16T11:25:17.000Z",
+            "author": {
+                "name": "kawre",
+                "url": "https://github.com/kawre"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44566328?u=4c69f595ce2871a9bb5eee5a54900978ac56a6ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Translation plugin for Vim / Neovim by denops.vim</div>",
-            "url": "https://github.com/Omochice/dps-translate-vim",
-            "title": "Omochice/dps-translate-vim: Translation plugin for Vim / Neovim by denops.vim",
-            "date_modified": "2023-09-15T03:15:02.000Z",
-            "date_published": "2021-08-02T08:28:39.000Z",
-            "author": {
-                "name": "Omochice",
-                "url": "https://github.com/Omochice"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
-            "url": "https://github.com/mfussenegger/nvim-lint",
-            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-02-06T17:11:41.000Z",
-            "date_published": "2021-02-14T11:18:45.000Z",
-            "author": {
-                "name": "mfussenegger",
-                "url": "https://github.com/mfussenegger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8222059?u=43b8eaedd695cb434f7480e2c8f9ae31ab41d7b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fortune plugin for neovim</div>",
-            "url": "https://github.com/rubiin/fortune.nvim",
-            "title": "rubiin/fortune.nvim: A fortune plugin for neovim",
-            "date_modified": "2024-01-23T04:24:47.000Z",
-            "date_published": "2024-01-20T07:59:03.000Z",
-            "author": {
-                "name": "rubiin",
-                "url": "https://github.com/rubiin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7967463?u=d077b281391d7af3e5b500e777a8f6c4529554be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a simple plugin to manage workspace directories in neovim</div>",
-            "url": "https://github.com/natecraddock/workspaces.nvim",
-            "title": "natecraddock/workspaces.nvim: a simple plugin to manage workspace directories in neovim",
-            "date_modified": "2024-02-05T21:41:36.000Z",
-            "date_published": "2022-01-20T21:36:16.000Z",
-            "author": {
-                "name": "natecraddock",
-                "url": "https://github.com/natecraddock"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/715660?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chase after organizing the project configuration and running things...</div>",
-            "url": "https://github.com/candango/chase.nvim",
-            "title": "candango/chase.nvim: Chase after organizing the project configuration and running things...",
-            "date_modified": "2023-12-29T02:41:46.000Z",
-            "date_published": "2023-06-17T23:13:07.000Z",
-            "author": {
-                "name": "candango",
-                "url": "https://github.com/candango"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/700555?u=b05f5d070e3f03b1542c4bd8365c03b8f89b4155&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An opinionated tabline plugin for Neovim</div>",
-            "url": "https://github.com/eliseshaffer/tableau.nvim",
-            "title": "eliseshaffer/tableau.nvim: An opinionated tabline plugin for Neovim",
-            "date_modified": "2024-02-05T18:47:52.000Z",
-            "date_published": "2024-02-05T18:40:01.000Z",
-            "author": {
-                "name": "eliseshaffer",
-                "url": "https://github.com/eliseshaffer"
             }
         }
     ]
