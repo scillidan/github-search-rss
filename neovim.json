@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to upgrade your current distro from its github remote (WIP)</div>",
+            "url": "https://github.com/Zeioth/distroupdate.nvim",
+            "title": "Zeioth/distroupdate.nvim: Neovim plugin to upgrade your current distro from its github remote (WIP)",
+            "date_modified": "2024-02-04T20:47:22.000Z",
+            "date_published": "2024-01-23T16:34:38.000Z",
+            "author": {
+                "name": "Zeioth",
+                "url": "https://github.com/Zeioth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8222059?u=43b8eaedd695cb434f7480e2c8f9ae31ab41d7b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fortune plugin for neovim</div>",
+            "url": "https://github.com/rubiin/fortune.nvim",
+            "title": "rubiin/fortune.nvim: A fortune plugin for neovim",
+            "date_modified": "2024-02-07T19:13:50.000Z",
+            "date_published": "2024-01-20T07:59:03.000Z",
+            "author": {
+                "name": "rubiin",
+                "url": "https://github.com/rubiin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-01-23T13:28:04.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125701?u=3a01e6929aa1ae0c1dc796928df3c91e22e1ca0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CodeQL plugin for Neovim</div>",
             "url": "https://github.com/pwntester/codeql.nvim",
             "title": "pwntester/codeql.nvim: CodeQL plugin for Neovim",
@@ -20,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30348075?u=fc7c41dd14bf0d1584026c9f43e3169331b376e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a yazi plugin which like flash.nvim in neovim,allow use key char to Precise selection</div>",
             "url": "https://github.com/DreamMaoMao/keyjump.yazi",
             "title": "DreamMaoMao/keyjump.yazi: a yazi plugin which like flash.nvim in neovim,allow use key char to Precise selection",
-            "date_modified": "2024-02-08T04:03:35.000Z",
+            "date_modified": "2024-02-08T14:18:18.000Z",
             "date_published": "2024-02-03T02:11:56.000Z",
             "author": {
                 "name": "DreamMaoMao",
@@ -31,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
             "url": "https://github.com/nvim-lualine/lualine.nvim",
             "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
-            "date_modified": "2024-02-08T14:02:30.000Z",
+            "date_modified": "2024-02-08T15:01:08.000Z",
             "date_published": "2020-12-30T14:35:10.000Z",
             "author": {
                 "name": "nvim-lualine",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "rancorm",
                 "url": "https://github.com/rancorm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-02-08T12:54:24.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-02-08T10:11:23.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fzf fuzzy finder that updates on every keystroke of user query and selection.</div>",
-            "url": "https://github.com/linrongbin16/fzfx.nvim",
-            "title": "linrongbin16/fzfx.nvim: A fzf fuzzy finder that updates on every keystroke of user query and selection.",
-            "date_modified": "2024-01-31T08:54:36.000Z",
-            "date_published": "2023-07-26T09:58:20.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
             }
         }
     ]
