@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93578501?u=fb9370035d3f75d05e3211daaf83a9bc74247729&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>stable-diffusion-webui on SageMaker/Kaggle</div>",
+            "url": "https://github.com/anxety-solo/sd-webui-notebooks",
+            "title": "anxety-solo/sd-webui-notebooks: stable-diffusion-webui on SageMaker/Kaggle",
+            "date_modified": "2024-02-09T12:22:51.000Z",
+            "date_published": "2023-08-16T12:08:41.000Z",
+            "author": {
+                "name": "anxety-solo",
+                "url": "https://github.com/anxety-solo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Prevents the artifact that tends to occur with XL models</div>",
             "url": "https://github.com/hako-mikan/sd-webui-prevent-artifact",
             "title": "hako-mikan/sd-webui-prevent-artifact: Prevents the artifact that tends to occur with XL models",
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1763533?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Library for integrating Queue-it into an Android app using web ui</div>",
             "url": "https://github.com/queueit/android-webui-sdk",
             "title": "queueit/android-webui-sdk: Library for integrating Queue-it into an Android app using web ui",
-            "date_modified": "2024-02-07T10:40:51.000Z",
+            "date_modified": "2024-02-09T12:36:40.000Z",
             "date_published": "2016-06-13T07:47:03.000Z",
             "author": {
                 "name": "queueit",
                 "url": "https://github.com/queueit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589598?u=ab6bac536e40395fea1d542c3d675f566293c02a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](<a href=\"https://github.com/viyiviyi/sd-encrypt-image\">https://github.com/viyiviyi/sd-encrypt-image</a>) ；加密方式：使用密码哈希值打乱像素顺序</div>",
-            "url": "https://github.com/viyiviyi/encrypt_gallery",
-            "title": "viyiviyi/encrypt_gallery: 一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](https://github.com/viyiviyi/sd-encrypt-image) ；加密方式：使用密码哈希值打乱像素顺序",
-            "date_modified": "2024-02-01T16:36:19.000Z",
-            "date_published": "2023-12-16T16:49:33.000Z",
-            "author": {
-                "name": "viyiviyi",
-                "url": "https://github.com/viyiviyi"
             }
         }
     ]
