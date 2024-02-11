@@ -6,11 +6,33 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10319377?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Easily follow markdown links with this neovim plugin</div>",
-            "url": "https://github.com/jghauser/follow-md-links.nvim",
-            "title": "jghauser/follow-md-links.nvim: Easily follow markdown links with this neovim plugin",
-            "date_modified": "2024-02-06T14:22:57.000Z",
-            "date_published": "2021-05-16T16:33:00.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
+            "url": "https://github.com/lervag/vimtex",
+            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+            "date_modified": "2024-02-11T19:39:38.000Z",
+            "date_published": "2013-10-05T11:55:11.000Z",
+            "author": {
+                "name": "lervag",
+                "url": "https://github.com/lervag"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
+            "date_modified": "2024-02-10T22:12:25.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
+            "author": {
+                "name": "redyf",
+                "url": "https://github.com/redyf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10319377?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal</div>",
+            "url": "https://github.com/jghauser/kitty-runner.nvim",
+            "title": "jghauser/kitty-runner.nvim: A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal",
+            "date_modified": "2024-02-08T23:02:44.000Z",
+            "date_published": "2021-05-16T15:04:58.000Z",
             "author": {
                 "name": "jghauser",
                 "url": "https://github.com/jghauser"
@@ -25,6 +47,17 @@
             "author": {
                 "name": "Kolkhis",
                 "url": "https://github.com/Kolkhis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10319377?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Easily follow markdown links with this neovim plugin</div>",
+            "url": "https://github.com/jghauser/follow-md-links.nvim",
+            "title": "jghauser/follow-md-links.nvim: Easily follow markdown links with this neovim plugin",
+            "date_modified": "2024-02-06T14:22:57.000Z",
+            "date_published": "2021-05-16T16:33:00.000Z",
+            "author": {
+                "name": "jghauser",
+                "url": "https://github.com/jghauser"
             }
         },
         {
@@ -75,11 +108,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
             "url": "https://github.com/mrcjkb/rustaceanvim",
             "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-02-11T15:24:09.000Z",
+            "date_modified": "2024-02-11T19:23:40.000Z",
             "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
                 "name": "mrcjkb",
                 "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
+            "url": "https://github.com/nvim-lualine/lualine.nvim",
+            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+            "date_modified": "2024-02-11T19:35:41.000Z",
+            "date_published": "2020-12-30T14:35:10.000Z",
+            "author": {
+                "name": "nvim-lualine",
+                "url": "https://github.com/nvim-lualine"
             }
         },
         {
@@ -176,50 +220,6 @@
             "title": "echasnovski/mini.pairs: Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.",
             "date_modified": "2024-02-06T16:06:45.000Z",
             "date_published": "2022-10-24T16:26:51.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to move any selection in any direction. Part of 'mini.nvim' library. </div>",
-            "url": "https://github.com/echasnovski/mini.move",
-            "title": "echasnovski/mini.move: Neovim Lua plugin to move any selection in any direction. Part of 'mini.nvim' library. ",
-            "date_modified": "2024-01-19T22:21:40.000Z",
-            "date_published": "2023-01-15T09:00:44.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.misc",
-            "title": "echasnovski/mini.misc: Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.",
-            "date_modified": "2023-11-24T12:30:01.000Z",
-            "date_published": "2022-10-24T16:25:16.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to manage window with buffer text overview. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.map",
-            "title": "echasnovski/mini.map: Neovim Lua plugin to manage window with buffer text overview. Part of 'mini.nvim' library.",
-            "date_modified": "2024-01-31T13:16:53.000Z",
-            "date_published": "2022-10-24T16:24:10.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to jump within visible lines. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.jump2d",
-            "title": "echasnovski/mini.jump2d: Neovim Lua plugin to jump within visible lines. Part of 'mini.nvim' library.",
-            "date_modified": "2023-11-13T04:22:15.000Z",
-            "date_published": "2022-10-24T16:23:17.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
