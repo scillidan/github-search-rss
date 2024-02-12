@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128740042?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Elixir</div>",
+            "url": "https://github.com/elixir-tools/elixir-tools.nvim",
+            "title": "elixir-tools/elixir-tools.nvim: Neovim plugin for Elixir",
+            "date_modified": "2024-02-06T18:06:21.000Z",
+            "date_published": "2022-03-23T13:10:50.000Z",
+            "author": {
+                "name": "elixir-tools",
+                "url": "https://github.com/elixir-tools"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
+            "url": "https://github.com/rockerBOO/awesome-neovim",
+            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
+            "date_modified": "2024-02-12T16:00:19.000Z",
+            "date_published": "2020-09-18T18:40:59.000Z",
+            "author": {
+                "name": "rockerBOO",
+                "url": "https://github.com/rockerBOO"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
+            "url": "https://github.com/AstroNvim/AstroNvim",
+            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
+            "date_modified": "2024-02-12T15:39:03.000Z",
+            "date_published": "2022-02-02T22:33:34.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115141?u=f4bce8b33a583472d144bca8120568a3cd40dc7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to help with beancount files</div>",
             "url": "https://github.com/polarmutex/beancount.nvim",
             "title": "polarmutex/beancount.nvim: neovim plugin to help with beancount files",
@@ -25,17 +58,6 @@
             "author": {
                 "name": "mistricky",
                 "url": "https://github.com/mistricky"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
-            "url": "https://github.com/AstroNvim/AstroNvim",
-            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-02-12T14:06:59.000Z",
-            "date_published": "2022-02-02T22:33:34.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
             }
         },
         {
@@ -174,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22454918?u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim lua plugin to help easily manage multiple terminal windows</div>",
             "url": "https://github.com/akinsho/toggleterm.nvim",
             "title": "akinsho/toggleterm.nvim: A neovim lua plugin to help easily manage multiple terminal windows",
-            "date_modified": "2024-02-12T13:40:27.000Z",
+            "date_modified": "2024-02-12T15:48:54.000Z",
             "date_published": "2020-08-17T17:33:39.000Z",
             "author": {
                 "name": "akinsho",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48717183?u=1ef0b7fae149772f3ea0f45b0f591fb5cb955757&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Lua Neovim configuration with a very simple plugin manager written in Python.</div>",
-            "url": "https://github.com/j-morano/nvim-config",
-            "title": "j-morano/nvim-config: Full Lua Neovim configuration with a very simple plugin manager written in Python.",
-            "date_modified": "2023-05-20T15:09:54.000Z",
-            "date_published": "2023-02-09T12:51:43.000Z",
-            "author": {
-                "name": "j-morano",
-                "url": "https://github.com/j-morano"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56180050?u=060abf90468330d91c2bdea953418fed8b609a82&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.</div>",
-            "url": "https://github.com/sitiom/nvim-numbertoggle",
-            "title": "sitiom/nvim-numbertoggle: Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.",
-            "date_modified": "2024-02-08T22:04:15.000Z",
-            "date_published": "2022-07-04T10:24:08.000Z",
-            "author": {
-                "name": "sitiom",
-                "url": "https://github.com/sitiom"
             }
         }
     ]
