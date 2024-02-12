@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
+            "url": "https://github.com/kyoh86/denops-util",
+            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
+            "date_modified": "2024-01-06T00:24:25.000Z",
+            "date_published": "2024-01-06T00:19:26.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44566328?u=4c69f595ce2871a9bb5eee5a54900978ac56a6ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Translation plugin for Vim / Neovim by denops.vim</div>",
+            "url": "https://github.com/Omochice/dps-translate-vim",
+            "title": "Omochice/dps-translate-vim: Translation plugin for Vim / Neovim by denops.vim",
+            "date_modified": "2023-09-15T03:15:02.000Z",
+            "date_published": "2021-08-02T08:28:39.000Z",
+            "author": {
+                "name": "Omochice",
+                "url": "https://github.com/Omochice"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/541289?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that displays interactive vertical scrollbars and signs.</div>",
             "url": "https://github.com/dstein64/nvim-scrollview",
             "title": "dstein64/nvim-scrollview: A Neovim plugin that displays interactive vertical scrollbars and signs.",
@@ -17,10 +39,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/700555?u=b05f5d070e3f03b1542c4bd8365c03b8f89b4155&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An opinionated tabline plugin for Neovim</div>",
+            "url": "https://github.com/eliseshaffer/tableau.nvim",
+            "title": "eliseshaffer/tableau.nvim: An opinionated tabline plugin for Neovim",
+            "date_modified": "2024-02-07T02:14:09.000Z",
+            "date_published": "2024-02-05T18:40:01.000Z",
+            "author": {
+                "name": "eliseshaffer",
+                "url": "https://github.com/eliseshaffer"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-02-12T20:53:26.000Z",
+            "date_modified": "2024-02-12T22:36:07.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20328231?u=d5965e8fefda3d7e70c185ceaa2d5db88e092b0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains my custom Neovim configuration. The configuration is based on a variety of plugins that provide a rich set of features and enhancements to the Neovim editor.</div>",
-            "url": "https://github.com/jmsrsd/nvim",
-            "title": "jmsrsd/nvim: This repository contains my custom Neovim configuration. The configuration is based on a variety of plugins that provide a rich set of features and enhancements to the Neovim editor.",
-            "date_modified": "2023-12-16T02:41:45.000Z",
-            "date_published": "2023-07-13T21:17:47.000Z",
-            "author": {
-                "name": "jmsrsd",
-                "url": "https://github.com/jmsrsd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A completion plugin for neovim coded in Lua.</div>",
-            "url": "https://github.com/hrsh7th/nvim-cmp",
-            "title": "hrsh7th/nvim-cmp: A completion plugin for neovim coded in Lua.",
-            "date_modified": "2024-02-12T19:45:05.000Z",
-            "date_published": "2021-06-29T18:01:04.000Z",
-            "author": {
-                "name": "hrsh7th",
-                "url": "https://github.com/hrsh7th"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3795551?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Run RSpec tests. View failure messages as diagnostic entries in Neovim</div>",
-            "url": "https://github.com/melopilosyan/rspec-integrated.nvim",
-            "title": "melopilosyan/rspec-integrated.nvim: Run RSpec tests. View failure messages as diagnostic entries in Neovim",
-            "date_modified": "2023-09-27T19:27:18.000Z",
-            "date_published": "2022-10-25T20:20:35.000Z",
-            "author": {
-                "name": "melopilosyan",
-                "url": "https://github.com/melopilosyan"
             }
         }
     ]
