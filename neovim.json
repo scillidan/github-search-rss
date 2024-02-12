@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49660697?u=be3aeba215639c69261d4b27d61a23d3f42425ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim theme inspired in Palenight, support a lot of plugins out-of-the-box. Includes themes for iTerm2, Alacritty, Kitty, Fish and others.</div>",
+            "url": "https://github.com/pauchiner/pastelnight.nvim",
+            "title": "pauchiner/pastelnight.nvim: Neovim theme inspired in Palenight, support a lot of plugins out-of-the-box. Includes themes for iTerm2, Alacritty, Kitty, Fish and others.",
+            "date_modified": "2024-02-12T17:11:21.000Z",
+            "date_published": "2024-02-01T18:44:39.000Z",
+            "author": {
+                "name": "pauchiner",
+                "url": "https://github.com/pauchiner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
+            "date_modified": "2024-02-12T18:01:07.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
+            "author": {
+                "name": "redyf",
+                "url": "https://github.com/redyf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=d4d067be13fcf48269faaa76ff1e80048f619d34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Spring Initializr written in Lua (WIP)</div>",
+            "url": "https://github.com/javiorfo/nvim-springtime",
+            "title": "javiorfo/nvim-springtime: Neovim plugin for Spring Initializr written in Lua (WIP)",
+            "date_modified": "2024-02-12T02:08:55.000Z",
+            "date_published": "2023-02-02T02:13:33.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8808797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to display call tree of a function using LSP</div>",
+            "url": "https://github.com/prasy-loyola/call-tree.nvim",
+            "title": "prasy-loyola/call-tree.nvim: A neovim plugin to display call tree of a function using LSP",
+            "date_modified": "2023-11-11T06:30:14.000Z",
+            "date_published": "2023-08-18T16:14:09.000Z",
+            "author": {
+                "name": "prasy-loyola",
+                "url": "https://github.com/prasy-loyola"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226654?u=42669bdd5c052036c28e36f704d0252339629ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Activate is a plugin installation system for Neovim</div>",
             "url": "https://github.com/roobert/activate.nvim",
             "title": "roobert/activate.nvim: 🚀 Activate is a plugin installation system for Neovim",
@@ -25,17 +69,6 @@
             "author": {
                 "name": "Amzd",
                 "url": "https://github.com/Amzd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8808797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to display call tree of a function using LSP</div>",
-            "url": "https://github.com/prasy-loyola/call-tree.nvim",
-            "title": "prasy-loyola/call-tree.nvim: A neovim plugin to display call tree of a function using LSP",
-            "date_modified": "2023-11-11T06:30:14.000Z",
-            "date_published": "2023-08-18T16:14:09.000Z",
-            "author": {
-                "name": "prasy-loyola",
-                "url": "https://github.com/prasy-loyola"
             }
         },
         {
@@ -80,17 +113,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
-            "url": "https://github.com/redyf/Neve",
-            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
-            "date_modified": "2024-02-12T18:01:07.000Z",
-            "date_published": "2024-01-03T14:38:56.000Z",
-            "author": {
-                "name": "redyf",
-                "url": "https://github.com/redyf"
             }
         },
         {
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128740042?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Elixir</div>",
             "url": "https://github.com/elixir-tools/elixir-tools.nvim",
             "title": "elixir-tools/elixir-tools.nvim: Neovim plugin for Elixir",
-            "date_modified": "2024-02-06T18:06:21.000Z",
+            "date_modified": "2024-02-12T19:04:56.000Z",
             "date_published": "2022-03-23T13:10:50.000Z",
             "author": {
                 "name": "elixir-tools",
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-02-12T16:11:48.000Z",
+            "date_modified": "2024-02-12T18:14:32.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "drop-stones",
                 "url": "https://github.com/drop-stones"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A list of vim/neovim plugins(/extensions for plugins)</div>",
-            "url": "https://github.com/altermo/vim-plugin-list",
-            "title": "altermo/vim-plugin-list: A list of vim/neovim plugins(/extensions for plugins)",
-            "date_modified": "2024-02-11T15:28:03.000Z",
-            "date_published": "2022-06-20T05:56:40.000Z",
-            "author": {
-                "name": "altermo",
-                "url": "https://github.com/altermo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3139113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by Google Gemini.</div>",
-            "url": "https://github.com/gera2ld/ai.nvim",
-            "title": "gera2ld/ai.nvim: A Neovim plugin powered by Google Gemini.",
-            "date_modified": "2024-02-11T17:58:57.000Z",
-            "date_published": "2023-12-17T14:21:13.000Z",
-            "author": {
-                "name": "gera2ld",
-                "url": "https://github.com/gera2ld"
             }
         }
     ]
