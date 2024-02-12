@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54305137?u=c5cf02a4cee6d10d7cb48fdcbb6bba8978433c3f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to run minitest conviniently.</div>",
+            "url": "https://github.com/yoshiyoshiharu/minitest.nvim",
+            "title": "yoshiyoshiharu/minitest.nvim: Neovim plugin to run minitest conviniently.",
+            "date_modified": "2024-02-12T04:02:40.000Z",
+            "date_published": "2024-02-12T04:02:40.000Z",
+            "author": {
+                "name": "yoshiyoshiharu",
+                "url": "https://github.com/yoshiyoshiharu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36218691?u=520d7c6611763592bb16d16b4323493d17b58a4b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📁 File explorer plugin for Vim/Neovim</div>",
+            "url": "https://github.com/obaland/vfiler.vim",
+            "title": "obaland/vfiler.vim: :file_folder: File explorer plugin for Vim/Neovim",
+            "date_modified": "2024-01-23T21:00:01.000Z",
+            "date_published": "2018-02-22T03:12:25.000Z",
+            "author": {
+                "name": "obaland",
+                "url": "https://github.com/obaland"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20099987?u=ee93ee944ca581b6b36dd5e5d445860bdc5a368d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📚 A Neovim plugin to show `:help` in an anchorable/resizable floating window</div>",
+            "url": "https://github.com/Tyler-Barham/floating-help.nvim",
+            "title": "Tyler-Barham/floating-help.nvim: 📚 A Neovim plugin to show `:help` in an anchorable/resizable floating window",
+            "date_modified": "2024-02-08T06:57:20.000Z",
+            "date_published": "2023-08-01T03:58:24.000Z",
+            "author": {
+                "name": "Tyler-Barham",
+                "url": "https://github.com/Tyler-Barham"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
             "url": "https://github.com/redyf/Neve",
             "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Run, and Test applications created with Xcode &amp; Swift.</div>",
             "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
             "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Run, and Test applications created with Xcode & Swift.",
-            "date_modified": "2024-02-12T02:11:44.000Z",
+            "date_modified": "2024-02-12T03:56:02.000Z",
             "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
                 "name": "wojciech-kulik",
@@ -80,17 +113,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20099987?u=ee93ee944ca581b6b36dd5e5d445860bdc5a368d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📚 A Neovim plugin to show `:help` in an anchorable/resizable floating window</div>",
-            "url": "https://github.com/Tyler-Barham/floating-help.nvim",
-            "title": "Tyler-Barham/floating-help.nvim: 📚 A Neovim plugin to show `:help` in an anchorable/resizable floating window",
-            "date_modified": "2024-02-08T06:57:20.000Z",
-            "date_published": "2023-08-01T03:58:24.000Z",
-            "author": {
-                "name": "Tyler-Barham",
-                "url": "https://github.com/Tyler-Barham"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22257750?u=d5734871bad49dcc75475fa43a02b11456c2f586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim plugin to build game with LÖVE</div>",
-            "url": "https://github.com/S1M0N38/love2d.nvim",
-            "title": "S1M0N38/love2d.nvim: A simple Neovim plugin to build game with LÖVE",
-            "date_modified": "2024-02-12T00:57:43.000Z",
-            "date_published": "2024-02-09T12:28:09.000Z",
-            "author": {
-                "name": "S1M0N38",
-                "url": "https://github.com/S1M0N38"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117046817?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for automatically persisting and loading chosen colorschemes.</div>",
-            "url": "https://github.com/lcroberts/persistent-colorscheme.nvim",
-            "title": "lcroberts/persistent-colorscheme.nvim: A neovim plugin for automatically persisting and loading chosen colorschemes.",
-            "date_modified": "2024-01-26T10:29:49.000Z",
-            "date_published": "2023-12-26T14:00:34.000Z",
-            "author": {
-                "name": "lcroberts",
-                "url": "https://github.com/lcroberts"
             }
         }
     ]
