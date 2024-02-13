@@ -6,14 +6,36 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Vim8/Neovim to search text by ripgrep (rg) asynchronously</div>",
-            "url": "https://github.com/kyoh86/vim-ripgrep",
-            "title": "kyoh86/vim-ripgrep: A plugin for Vim8/Neovim to search text by ripgrep (rg) asynchronously",
-            "date_modified": "2023-11-16T05:35:44.000Z",
-            "date_published": "2022-02-22T14:34:41.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55988677?u=345bfa0b3b16a718943b98f716eb7c56a3d99e7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim, Zsh, plugins, and a bunch of other stuff</div>",
+            "url": "https://github.com/tiagokrebs/dotfiles",
+            "title": "tiagokrebs/dotfiles: NeoVim, Zsh, plugins, and a bunch of other stuff",
+            "date_modified": "2022-09-24T13:16:52.000Z",
+            "date_published": "2022-07-16T15:27:17.000Z",
             "author": {
-                "name": "kyoh86",
-                "url": "https://github.com/kyoh86"
+                "name": "tiagokrebs",
+                "url": "https://github.com/tiagokrebs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The commons lua library for Neovim plugin project.</div>",
+            "url": "https://github.com/linrongbin16/commons.nvim",
+            "title": "linrongbin16/commons.nvim: The commons lua library for Neovim plugin project.",
+            "date_modified": "2024-01-11T02:59:20.000Z",
+            "date_published": "2023-12-11T13:48:32.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
+            "url": "https://github.com/AstroNvim/AstroNvim",
+            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
+            "date_modified": "2024-02-13T16:09:16.000Z",
+            "date_published": "2022-02-02T22:33:34.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
             }
         },
         {
@@ -28,14 +50,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The commons lua library for Neovim plugin project.</div>",
-            "url": "https://github.com/linrongbin16/commons.nvim",
-            "title": "linrongbin16/commons.nvim: The commons lua library for Neovim plugin project.",
-            "date_modified": "2024-01-11T02:59:20.000Z",
-            "date_published": "2023-12-11T13:48:32.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
+            "url": "https://github.com/kyoh86/denops-util",
+            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
+            "date_modified": "2024-01-06T00:24:25.000Z",
+            "date_published": "2024-01-06T00:19:26.000Z",
             "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Vim8/Neovim to search text by ripgrep (rg) asynchronously</div>",
+            "url": "https://github.com/kyoh86/vim-ripgrep",
+            "title": "kyoh86/vim-ripgrep: A plugin for Vim8/Neovim to search text by ripgrep (rg) asynchronously",
+            "date_modified": "2023-11-16T05:35:44.000Z",
+            "date_published": "2022-02-22T14:34:41.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
             }
         },
         {
@@ -174,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
             "url": "https://github.com/mfussenegger/nvim-lint",
             "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-02-13T13:28:49.000Z",
+            "date_modified": "2024-02-13T15:27:49.000Z",
             "date_published": "2021-02-14T11:18:45.000Z",
             "author": {
                 "name": "mfussenegger",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "frankroeder",
                 "url": "https://github.com/frankroeder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49660697?u=be3aeba215639c69261d4b27d61a23d3f42425ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim theme inspired in Palenight, support a lot of plugins out-of-the-box. Includes themes for iTerm2, Alacritty, Kitty, Fish and others.</div>",
-            "url": "https://github.com/pauchiner/pastelnight.nvim",
-            "title": "pauchiner/pastelnight.nvim: Neovim theme inspired in Palenight, support a lot of plugins out-of-the-box. Includes themes for iTerm2, Alacritty, Kitty, Fish and others.",
-            "date_modified": "2024-02-13T12:46:21.000Z",
-            "date_published": "2024-02-01T18:44:39.000Z",
-            "author": {
-                "name": "pauchiner",
-                "url": "https://github.com/pauchiner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14832454?u=b8500e6a3ec3c8139ec1a4ecb657431b40db0ccc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An ivy-mode port to neovim.</div>",
-            "url": "https://github.com/AdeAttwood/ivy.nvim",
-            "title": "AdeAttwood/ivy.nvim: An ivy-mode port to neovim.",
-            "date_modified": "2023-12-21T19:48:15.000Z",
-            "date_published": "2022-07-10T20:16:08.000Z",
-            "author": {
-                "name": "AdeAttwood",
-                "url": "https://github.com/AdeAttwood"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4208028?u=56c3b4434a83a07b41a5a27daf7751973cdd5102&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!</div>",
-            "url": "https://github.com/nanozuki/tabby.nvim",
-            "title": "nanozuki/tabby.nvim: A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!",
-            "date_modified": "2024-02-10T12:22:38.000Z",
-            "date_published": "2021-09-24T03:48:51.000Z",
-            "author": {
-                "name": "nanozuki",
-                "url": "https://github.com/nanozuki"
             }
         }
     ]
