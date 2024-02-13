@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49660697?u=be3aeba215639c69261d4b27d61a23d3f42425ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim theme inspired in Palenight, support a lot of plugins out-of-the-box. Includes themes for iTerm2, Alacritty, Kitty, Fish and others.</div>",
+            "url": "https://github.com/pauchiner/pastelnight.nvim",
+            "title": "pauchiner/pastelnight.nvim: Neovim theme inspired in Palenight, support a lot of plugins out-of-the-box. Includes themes for iTerm2, Alacritty, Kitty, Fish and others.",
+            "date_modified": "2024-02-13T09:38:03.000Z",
+            "date_published": "2024-02-01T18:44:39.000Z",
+            "author": {
+                "name": "pauchiner",
+                "url": "https://github.com/pauchiner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14832454?u=b8500e6a3ec3c8139ec1a4ecb657431b40db0ccc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An ivy-mode port to neovim.</div>",
+            "url": "https://github.com/AdeAttwood/ivy.nvim",
+            "title": "AdeAttwood/ivy.nvim: An ivy-mode port to neovim.",
+            "date_modified": "2023-12-21T19:48:15.000Z",
+            "date_published": "2022-07-10T20:16:08.000Z",
+            "author": {
+                "name": "AdeAttwood",
+                "url": "https://github.com/AdeAttwood"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4208028?u=56c3b4434a83a07b41a5a27daf7751973cdd5102&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!</div>",
             "url": "https://github.com/nanozuki/tabby.nvim",
             "title": "nanozuki/tabby.nvim: A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!",
@@ -75,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-02-13T07:49:03.000Z",
+            "date_modified": "2024-02-13T09:09:16.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -91,6 +113,17 @@
             "author": {
                 "name": "JuanZoran",
                 "url": "https://github.com/JuanZoran"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6575405?u=b0b32aca85bf74712adbf763e6c1a5c705e8962b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An all in one plugin for converting text case in Neovim</div>",
+            "url": "https://github.com/johmsalas/text-case.nvim",
+            "title": "johmsalas/text-case.nvim: An all in one plugin for converting text case in Neovim",
+            "date_modified": "2024-02-13T09:57:15.000Z",
+            "date_published": "2022-06-03T22:33:29.000Z",
+            "author": {
+                "name": "johmsalas",
+                "url": "https://github.com/johmsalas"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "dstein64",
                 "url": "https://github.com/dstein64"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10855771?u=395d041e7c6ab48217df2392c6fd7814ed2666f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for the Munin note-taking library (<a href=\"https://github.com/mattherman/munin\">https://github.com/mattherman/munin</a>).</div>",
-            "url": "https://github.com/mattherman/munin.nvim",
-            "title": "mattherman/munin.nvim: A Neovim plugin for the Munin note-taking library (https://github.com/mattherman/munin).",
-            "date_modified": "2023-08-09T22:56:55.000Z",
-            "date_published": "2023-07-14T22:51:06.000Z",
-            "author": {
-                "name": "mattherman",
-                "url": "https://github.com/mattherman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/overseer.nvim",
-            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
-            "date_modified": "2024-02-12T15:27:16.000Z",
-            "date_published": "2022-05-18T00:03:58.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/conform.nvim",
-            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-02-13T08:45:25.000Z",
-            "date_published": "2023-08-25T03:31:42.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
             }
         }
     ]
