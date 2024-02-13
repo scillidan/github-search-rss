@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/overseer.nvim",
+            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
+            "date_modified": "2024-02-12T15:27:16.000Z",
+            "date_published": "2022-05-18T00:03:58.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-02-12T21:12:22.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20190?u=e1243c9b272f4c04472e3183cef6f0e8c36e7f82&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim/Neovim plugin for doing single, multi-patch or diff code reviews</div>",
+            "url": "https://github.com/junkblocker/patchreview-vim",
+            "title": "junkblocker/patchreview-vim: Vim/Neovim plugin for doing single, multi-patch or diff code reviews",
+            "date_modified": "2023-12-09T22:15:39.000Z",
+            "date_published": "2010-04-03T03:23:18.000Z",
+            "author": {
+                "name": "junkblocker",
+                "url": "https://github.com/junkblocker"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3139113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by Google Gemini.</div>",
+            "url": "https://github.com/gera2ld/ai.nvim",
+            "title": "gera2ld/ai.nvim: A Neovim plugin powered by Google Gemini.",
+            "date_modified": "2024-02-11T17:58:57.000Z",
+            "date_published": "2023-12-17T14:21:13.000Z",
+            "author": {
+                "name": "gera2ld",
+                "url": "https://github.com/gera2ld"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/541289?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for profiling Vim and Neovim startup time.</div>",
             "url": "https://github.com/dstein64/vim-startuptime",
             "title": "dstein64/vim-startuptime: A plugin for profiling Vim and Neovim startup time.",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "yoshiyoshiharu",
                 "url": "https://github.com/yoshiyoshiharu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
-            "url": "https://github.com/kyoh86/denops-util",
-            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
-            "date_modified": "2024-01-06T00:24:25.000Z",
-            "date_published": "2024-01-06T00:19:26.000Z",
-            "author": {
-                "name": "kyoh86",
-                "url": "https://github.com/kyoh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44566328?u=4c69f595ce2871a9bb5eee5a54900978ac56a6ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Translation plugin for Vim / Neovim by denops.vim</div>",
-            "url": "https://github.com/Omochice/dps-translate-vim",
-            "title": "Omochice/dps-translate-vim: Translation plugin for Vim / Neovim by denops.vim",
-            "date_modified": "2023-09-15T03:15:02.000Z",
-            "date_published": "2021-08-02T08:28:39.000Z",
-            "author": {
-                "name": "Omochice",
-                "url": "https://github.com/Omochice"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/700555?u=b05f5d070e3f03b1542c4bd8365c03b8f89b4155&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An opinionated tabline plugin for Neovim</div>",
-            "url": "https://github.com/eliseshaffer/tableau.nvim",
-            "title": "eliseshaffer/tableau.nvim: An opinionated tabline plugin for Neovim",
-            "date_modified": "2024-02-07T02:14:09.000Z",
-            "date_published": "2024-02-05T18:40:01.000Z",
-            "author": {
-                "name": "eliseshaffer",
-                "url": "https://github.com/eliseshaffer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
-            "url": "https://github.com/AstroNvim/AstroNvim",
-            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-02-13T00:57:01.000Z",
-            "date_published": "2022-02-02T22:33:34.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
             }
         }
     ]
