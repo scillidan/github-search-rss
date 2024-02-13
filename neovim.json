@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25774154?u=76800cbcf0c0cd2fc0bf97581044f4e6b1c04d26&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple neovim plugin to highlight and remove trailing whitespace.</div>",
+            "url": "https://github.com/johnfrankmorgan/whitespace.nvim",
+            "title": "johnfrankmorgan/whitespace.nvim: A simple neovim plugin to highlight and remove trailing whitespace.",
+            "date_modified": "2024-02-09T13:24:59.000Z",
+            "date_published": "2021-06-08T18:10:42.000Z",
+            "author": {
+                "name": "johnfrankmorgan",
+                "url": "https://github.com/johnfrankmorgan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226654?u=42669bdd5c052036c28e36f704d0252339629ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Activate is a plugin installation system for Neovim</div>",
+            "url": "https://github.com/roobert/activate.nvim",
+            "title": "roobert/activate.nvim: 🚀 Activate is a plugin installation system for Neovim",
+            "date_modified": "2024-02-11T01:05:15.000Z",
+            "date_published": "2023-09-06T21:22:57.000Z",
+            "author": {
+                "name": "roobert",
+                "url": "https://github.com/roobert"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
+            "url": "https://github.com/disrupted/dotfiles",
+            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
+            "date_modified": "2024-02-09T17:07:08.000Z",
+            "date_published": "2020-08-18T11:47:17.000Z",
+            "author": {
+                "name": "disrupted",
+                "url": "https://github.com/disrupted"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-02-13T09:09:16.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/755611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to auto install LSP servers</div>",
             "url": "https://github.com/dundalek/lazy-lsp.nvim",
             "title": "dundalek/lazy-lsp.nvim: Neovim plugin to auto install LSP servers",
@@ -116,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-02-13T09:09:16.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107862700?u=45db70973d24b3b0510c4e80f2141790088d9745&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An awesome neovim plugin written by lua which can help translate English into Chinese 一个使用lua编写的neovim英文-&gt;中文[离线 || 在线]翻译插件, 还在施工中</div>",
             "url": "https://github.com/JuanZoran/Trans.nvim",
             "title": "JuanZoran/Trans.nvim: An awesome neovim plugin written by lua which can help translate English into Chinese 一个使用lua编写的neovim英文->中文[离线 || 在线]翻译插件, 还在施工中",
@@ -174,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that make sharing code location easier written in Lua</div>",
             "url": "https://github.com/mistricky/code-link.nvim",
             "title": "mistricky/code-link.nvim: Neovim plugin that make sharing code location easier written in Lua",
-            "date_modified": "2024-02-10T14:33:57.000Z",
+            "date_modified": "2024-02-13T11:56:56.000Z",
             "date_published": "2024-02-07T04:52:44.000Z",
             "author": {
                 "name": "mistricky",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "abcdefg233",
                 "url": "https://github.com/abcdefg233"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32760059?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugins for Neovim to resize the font.</div>",
-            "url": "https://github.com/abcdefg233/fontresizer.nvim",
-            "title": "abcdefg233/fontresizer.nvim: A plugins for Neovim to resize the font.",
-            "date_modified": "2023-11-08T09:46:24.000Z",
-            "date_published": "2023-10-05T10:50:21.000Z",
-            "author": {
-                "name": "abcdefg233",
-                "url": "https://github.com/abcdefg233"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32760059?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugins for Neovim to rainbow the cursor.</div>",
-            "url": "https://github.com/abcdefg233/rainbowcursor.nvim",
-            "title": "abcdefg233/rainbowcursor.nvim: A plugins for Neovim to rainbow the cursor.",
-            "date_modified": "2024-02-10T01:41:22.000Z",
-            "date_published": "2023-12-03T18:02:16.000Z",
-            "author": {
-                "name": "abcdefg233",
-                "url": "https://github.com/abcdefg233"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88813689?u=d8c8db29de86ad2922a537070529b3f419915426&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple and funny plugin for NeoVim</div>",
-            "url": "https://github.com/Forsigg/daily-symbols-count.nvim",
-            "title": "Forsigg/daily-symbols-count.nvim: Simple and funny plugin for NeoVim",
-            "date_modified": "2024-01-29T04:02:11.000Z",
-            "date_published": "2024-01-26T17:07:28.000Z",
-            "author": {
-                "name": "Forsigg",
-                "url": "https://github.com/Forsigg"
             }
         }
     ]
