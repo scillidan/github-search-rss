@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41875215?u=245783cd7e749b9a9deeda9130f014d8d184e020&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Useful extension for stable diffusion web UI.</div>",
+            "url": "https://github.com/safubuki/sd-webui-latent-regional-helper",
+            "title": "safubuki/sd-webui-latent-regional-helper: Useful extension for stable diffusion web UI.",
+            "date_modified": "2024-02-07T06:41:05.000Z",
+            "date_published": "2023-12-31T09:51:50.000Z",
+            "author": {
+                "name": "safubuki",
+                "url": "https://github.com/safubuki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142164755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Very basic Python script that moves PNG files with the metadata, `aesthetic_score` from <a href=\"https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer/\">https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer/</a></div>",
+            "url": "https://github.com/iiOxygen/sd-webui-aesthetic-image-mover",
+            "title": "iiOxygen/sd-webui-aesthetic-image-mover: Very basic Python script that moves PNG files with the metadata, `aesthetic_score` from https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer/",
+            "date_modified": "2023-09-16T05:57:31.000Z",
+            "date_published": "2023-09-15T05:14:13.000Z",
+            "author": {
+                "name": "iiOxygen",
+                "url": "https://github.com/iiOxygen"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30926385?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a repository for conversations using OpenAI API (compatible with ChatGPT) or llama.cpp in Stable Diffusion web UI.</div>",
             "url": "https://github.com/NON906/sd-webui-chatgpt",
             "title": "NON906/sd-webui-chatgpt: This is a repository for conversations using OpenAI API (compatible with ChatGPT) or llama.cpp in Stable Diffusion web UI.",
@@ -53,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tab for sd-webui for replacing objects in picture using detection prompt</div>",
             "url": "https://github.com/light-and-ray/sd-webui-replacer",
             "title": "light-and-ray/sd-webui-replacer: A tab for sd-webui for replacing objects in picture using detection prompt",
-            "date_modified": "2024-02-11T04:36:16.000Z",
+            "date_modified": "2024-02-13T14:17:31.000Z",
             "date_published": "2023-11-06T10:09:24.000Z",
             "author": {
                 "name": "light-and-ray",
@@ -75,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-02-13T10:42:09.000Z",
+            "date_modified": "2024-02-13T14:38:43.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Haoming02",
                 "url": "https://github.com/Haoming02"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>model merge extention for stable diffusion web ui</div>",
-            "url": "https://github.com/hako-mikan/sd-webui-supermerger",
-            "title": "hako-mikan/sd-webui-supermerger: model merge extention for stable diffusion web ui",
-            "date_modified": "2024-02-11T17:56:47.000Z",
-            "date_published": "2023-01-18T13:20:58.000Z",
-            "author": {
-                "name": "hako-mikan",
-                "url": "https://github.com/hako-mikan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AnimateDiff for Stable Diffusion WebUI Forge, mirror for <a href=\"https://github.com/continue-revolution/sd-webui-animatediff/tree/forge/master\">https://github.com/continue-revolution/sd-webui-animatediff/tree/forge/master</a></div>",
-            "url": "https://github.com/continue-revolution/sd-forge-animatediff",
-            "title": "continue-revolution/sd-forge-animatediff: AnimateDiff for Stable Diffusion WebUI Forge, mirror for https://github.com/continue-revolution/sd-webui-animatediff/tree/forge/master",
-            "date_modified": "2024-02-11T05:47:34.000Z",
-            "date_published": "2024-02-05T23:40:24.000Z",
-            "author": {
-                "name": "continue-revolution",
-                "url": "https://github.com/continue-revolution"
             }
         }
     ]

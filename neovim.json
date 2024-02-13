@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Vim8/Neovim to search text by ripgrep (rg) asynchronously</div>",
+            "url": "https://github.com/kyoh86/vim-ripgrep",
+            "title": "kyoh86/vim-ripgrep: A plugin for Vim8/Neovim to search text by ripgrep (rg) asynchronously",
+            "date_modified": "2023-11-16T05:35:44.000Z",
+            "date_published": "2022-02-22T14:34:41.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7526438?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Metals plugin for Neovim</div>",
+            "url": "https://github.com/scalameta/nvim-metals",
+            "title": "scalameta/nvim-metals: A Metals plugin for Neovim",
+            "date_modified": "2024-02-11T23:09:40.000Z",
+            "date_published": "2020-04-26T13:47:22.000Z",
+            "author": {
+                "name": "scalameta",
+                "url": "https://github.com/scalameta"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The commons lua library for Neovim plugin project.</div>",
+            "url": "https://github.com/linrongbin16/commons.nvim",
+            "title": "linrongbin16/commons.nvim: The commons lua library for Neovim plugin project.",
+            "date_modified": "2024-01-11T02:59:20.000Z",
+            "date_published": "2023-12-11T13:48:32.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96783720?u=0ccbedc73529c5cdc8bf1744375630c2d6988550&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim statusline and bufferline plugin</div>",
+            "url": "https://github.com/Kicamon/SimpleLine.nvim",
+            "title": "Kicamon/SimpleLine.nvim: A neovim statusline and bufferline plugin",
+            "date_modified": "2023-11-02T03:13:55.000Z",
+            "date_published": "2023-09-23T15:21:41.000Z",
+            "author": {
+                "name": "Kicamon",
+                "url": "https://github.com/Kicamon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32760059?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Neovim to provide utilities for my other plugins.</div>",
+            "url": "https://github.com/abcdefg233/hcutil.nvim",
+            "title": "abcdefg233/hcutil.nvim: A plugin for Neovim to provide utilities for my other plugins.",
+            "date_modified": "2023-12-08T02:29:32.000Z",
+            "date_published": "2023-12-06T14:43:19.000Z",
+            "author": {
+                "name": "abcdefg233",
+                "url": "https://github.com/abcdefg233"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55022619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to switch IMs automatically.</div>",
+            "url": "https://github.com/drop-stones/im-switch.nvim",
+            "title": "drop-stones/im-switch.nvim: Neovim plugin to switch IMs automatically.",
+            "date_modified": "2024-02-12T13:25:21.000Z",
+            "date_published": "2023-08-26T11:46:03.000Z",
+            "author": {
+                "name": "drop-stones",
+                "url": "https://github.com/drop-stones"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77913442?u=01185051903547a4bfeeb9e01758d82f3d597668&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extension market plugin for neovim</div>",
             "url": "https://github.com/tamton-aquib/nvim-market",
             "title": "tamton-aquib/nvim-market: An extension market plugin for neovim",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "nanozuki",
                 "url": "https://github.com/nanozuki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-02-13T13:28:21.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-02-13T13:35:52.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23030894?u=af3689d06f2cd7b46b94d39dfe3bdd2b334d61e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim plugins and configurations files.</div>",
-            "url": "https://github.com/duylamasd/nvim-dotfiles",
-            "title": "duylamasd/nvim-dotfiles: My Neovim plugins and configurations files.",
-            "date_modified": "2022-04-23T18:00:57.000Z",
-            "date_published": "2021-12-20T04:25:47.000Z",
-            "author": {
-                "name": "duylamasd",
-                "url": "https://github.com/duylamasd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22257750?u=d5734871bad49dcc75475fa43a02b11456c2f586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim plugin to build game with LÖVE 👾</div>",
-            "url": "https://github.com/S1M0N38/love2d.nvim",
-            "title": "S1M0N38/love2d.nvim: A simple Neovim plugin to build game with LÖVE 👾",
-            "date_modified": "2024-02-13T01:44:44.000Z",
-            "date_published": "2024-02-09T12:28:09.000Z",
-            "author": {
-                "name": "S1M0N38",
-                "url": "https://github.com/S1M0N38"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107862700?u=45db70973d24b3b0510c4e80f2141790088d9745&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An awesome neovim plugin written by lua which can help translate English into Chinese 一个使用lua编写的neovim英文-&gt;中文[离线 || 在线]翻译插件, 还在施工中</div>",
-            "url": "https://github.com/JuanZoran/Trans.nvim",
-            "title": "JuanZoran/Trans.nvim: An awesome neovim plugin written by lua which can help translate English into Chinese 一个使用lua编写的neovim英文->中文[离线 || 在线]翻译插件, 还在施工中",
-            "date_modified": "2024-02-01T07:59:43.000Z",
-            "date_published": "2022-12-17T08:03:56.000Z",
-            "author": {
-                "name": "JuanZoran",
-                "url": "https://github.com/JuanZoran"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6575405?u=b0b32aca85bf74712adbf763e6c1a5c705e8962b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An all in one plugin for converting text case in Neovim</div>",
-            "url": "https://github.com/johmsalas/text-case.nvim",
-            "title": "johmsalas/text-case.nvim: An all in one plugin for converting text case in Neovim",
-            "date_modified": "2024-02-13T09:57:15.000Z",
-            "date_published": "2022-06-03T22:33:29.000Z",
-            "author": {
-                "name": "johmsalas",
-                "url": "https://github.com/johmsalas"
             }
         }
     ]
