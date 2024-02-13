@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4598651?u=4d1f322bb5e943870da77feb64fbc2c6ebeebcb5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Neovim that let's you toggle the terminal</div>",
+            "url": "https://github.com/karvla/term-toggle.nvim",
+            "title": "karvla/term-toggle.nvim: A plugin for Neovim that let's you toggle the terminal",
+            "date_modified": "2024-02-13T16:48:32.000Z",
+            "date_published": "2024-02-13T16:48:14.000Z",
+            "author": {
+                "name": "karvla",
+                "url": "https://github.com/karvla"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
+            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
+            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
+            "date_modified": "2024-01-31T07:50:13.000Z",
+            "date_published": "2023-07-13T06:54:44.000Z",
+            "author": {
+                "name": "polirritmico",
+                "url": "https://github.com/polirritmico"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
+            "date_modified": "2024-02-13T04:47:24.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
+            "author": {
+                "name": "redyf",
+                "url": "https://github.com/redyf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55988677?u=345bfa0b3b16a718943b98f716eb7c56a3d99e7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim, Zsh, plugins, and a bunch of other stuff</div>",
             "url": "https://github.com/tiagokrebs/dotfiles",
             "title": "tiagokrebs/dotfiles: NeoVim, Zsh, plugins, and a bunch of other stuff",
@@ -127,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45213563?u=7eb4d3e8e9ba036d7fe11fafacd10cb899dbb989&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple plugin to toggle a floating terminal window with customizable starting program</div>",
             "url": "https://github.com/Ernest1338/termplug.nvim",
             "title": "Ernest1338/termplug.nvim: Simple plugin to toggle a floating terminal window with customizable starting program",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/755611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to auto install LSP servers</div>",
-            "url": "https://github.com/dundalek/lazy-lsp.nvim",
-            "title": "dundalek/lazy-lsp.nvim: Neovim plugin to auto install LSP servers",
-            "date_modified": "2024-02-11T08:51:57.000Z",
-            "date_published": "2022-09-25T10:35:21.000Z",
-            "author": {
-                "name": "dundalek",
-                "url": "https://github.com/dundalek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
-            "url": "https://github.com/mfussenegger/nvim-lint",
-            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-02-13T15:27:49.000Z",
-            "date_published": "2021-02-14T11:18:45.000Z",
-            "author": {
-                "name": "mfussenegger",
-                "url": "https://github.com/mfussenegger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The perplexity.ai and OpenAI API plugin for Neovim</div>",
-            "url": "https://github.com/frankroeder/pplx.nvim",
-            "title": "frankroeder/pplx.nvim: The perplexity.ai and OpenAI API plugin for Neovim",
-            "date_modified": "2024-02-08T11:55:30.000Z",
-            "date_published": "2023-08-15T10:16:36.000Z",
-            "author": {
-                "name": "frankroeder",
-                "url": "https://github.com/frankroeder"
             }
         }
     ]
