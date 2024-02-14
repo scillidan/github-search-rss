@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13891133?u=97dfb320dccd7b76d96a924807e988e9dbfe78e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua, powered by omnisharp-roslyn, that aims to enhance the development experience for .NET developers.</div>",
+            "url": "https://github.com/iabdelkareem/csharp.nvim",
+            "title": "iabdelkareem/csharp.nvim: Neovim plugin written in Lua, powered by omnisharp-roslyn, that aims to enhance the development experience for .NET developers.",
+            "date_modified": "2024-02-14T04:02:59.000Z",
+            "date_published": "2023-07-12T08:22:32.000Z",
+            "author": {
+                "name": "iabdelkareem",
+                "url": "https://github.com/iabdelkareem"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4045114?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin to edit Markdown tables in sc-im</div>",
+            "url": "https://github.com/DAmesberger/sc-im.nvim",
+            "title": "DAmesberger/sc-im.nvim: Neovim Plugin to edit Markdown tables in sc-im",
+            "date_modified": "2024-01-29T11:09:06.000Z",
+            "date_published": "2024-01-16T14:16:31.000Z",
+            "author": {
+                "name": "DAmesberger",
+                "url": "https://github.com/DAmesberger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lint",
+            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+            "date_modified": "2024-02-14T15:40:53.000Z",
+            "date_published": "2021-02-14T11:18:45.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22601626?u=228482aff8f69ac2f2d6f9a05f2ccbba0775fc63&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dummy Neovim plugin.</div>",
+            "url": "https://github.com/ChrisTaylorDeveloper/semi-colon.nvim",
+            "title": "ChrisTaylorDeveloper/semi-colon.nvim: A dummy Neovim plugin.",
+            "date_modified": "2024-02-14T14:39:03.000Z",
+            "date_published": "2024-02-11T08:58:45.000Z",
+            "author": {
+                "name": "ChrisTaylorDeveloper",
+                "url": "https://github.com/ChrisTaylorDeveloper"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7904185?u=7469bedc5537c1cd65783a60457e6d3029223384&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Test framework for Neovim plugins</div>",
+            "url": "https://github.com/lewis6991/nvim-test",
+            "title": "lewis6991/nvim-test: Test framework for Neovim plugins",
+            "date_modified": "2024-02-14T15:23:51.000Z",
+            "date_published": "2024-01-30T16:53:24.000Z",
+            "author": {
+                "name": "lewis6991",
+                "url": "https://github.com/lewis6991"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7526438?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Metals plugin for Neovim</div>",
             "url": "https://github.com/scalameta/nvim-metals",
             "title": "scalameta/nvim-metals: A Metals plugin for Neovim",
@@ -36,17 +91,6 @@
             "author": {
                 "name": "drop-stones",
                 "url": "https://github.com/drop-stones"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22601626?u=228482aff8f69ac2f2d6f9a05f2ccbba0775fc63&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dummy Neovim plugin.</div>",
-            "url": "https://github.com/ChrisTaylorDeveloper/semi-colon.nvim",
-            "title": "ChrisTaylorDeveloper/semi-colon.nvim: A dummy Neovim plugin.",
-            "date_modified": "2024-02-14T14:39:03.000Z",
-            "date_published": "2024-02-11T08:58:45.000Z",
-            "author": {
-                "name": "ChrisTaylorDeveloper",
-                "url": "https://github.com/ChrisTaylorDeveloper"
             }
         },
         {
@@ -97,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
             "url": "https://github.com/mrcjkb/rustaceanvim",
             "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-02-14T14:30:35.000Z",
+            "date_modified": "2024-02-14T15:31:55.000Z",
             "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
                 "name": "mrcjkb",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "frankroeder",
                 "url": "https://github.com/frankroeder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32629549?u=afa98e5aaf84fddc08daba5c515b417813f2e463&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bearvim is a minimal ready to use config for neovim. It includes all the essential plugins to get you started on the neovim journey, but at the same time gives you enough flexibility to make it your own.</div>",
-            "url": "https://github.com/anoopar112/bearvim",
-            "title": "anoopar112/bearvim: Bearvim is a minimal ready to use config for neovim. It includes all the essential plugins to get you started on the neovim journey, but at the same time gives you enough flexibility to make it your own.",
-            "date_modified": "2023-01-28T05:43:00.000Z",
-            "date_published": "2023-01-21T12:05:57.000Z",
-            "author": {
-                "name": "anoopar112",
-                "url": "https://github.com/anoopar112"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36300441?u=05cba456887d1beedd4e92ff5bc5c8fafc31c3c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.</div>",
-            "url": "https://github.com/rebelot/heirline.nvim",
-            "title": "rebelot/heirline.nvim: Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.",
-            "date_modified": "2024-02-12T07:00:28.000Z",
-            "date_published": "2022-01-01T15:50:03.000Z",
-            "author": {
-                "name": "rebelot",
-                "url": "https://github.com/rebelot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49660697?u=be3aeba215639c69261d4b27d61a23d3f42425ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim theme inspired in Palenight, support a lot of plugins out-of-the-box. Includes themes for iTerm2, Alacritty, Kitty, Fish and others.</div>",
-            "url": "https://github.com/pauchiner/pastelnight.nvim",
-            "title": "pauchiner/pastelnight.nvim: Neovim theme inspired in Palenight, support a lot of plugins out-of-the-box. Includes themes for iTerm2, Alacritty, Kitty, Fish and others.",
-            "date_modified": "2024-02-14T09:51:47.000Z",
-            "date_published": "2024-02-01T18:44:39.000Z",
-            "author": {
-                "name": "pauchiner",
-                "url": "https://github.com/pauchiner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118240016?u=5be01d6d7da8167362ff52a01997448a29f2134c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a neovim config that could just be a small vim config. i do not really condone vscode-style neovim plugins.</div>",
-            "url": "https://github.com/rayhan-wijaya/my-nvimrc",
-            "title": "rayhan-wijaya/my-nvimrc: a neovim config that could just be a small vim config. i do not really condone vscode-style neovim plugins.",
-            "date_modified": "2024-01-02T12:35:27.000Z",
-            "date_published": "2023-04-25T11:46:38.000Z",
-            "author": {
-                "name": "rayhan-wijaya",
-                "url": "https://github.com/rayhan-wijaya"
             }
         }
     ]
