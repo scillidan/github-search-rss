@@ -6,6 +6,17 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8808797?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to display call tree of a function using LSP</div>",
+            "url": "https://github.com/prasy-loyola/call-tree.nvim",
+            "title": "prasy-loyola/call-tree.nvim: A neovim plugin to display call tree of a function using LSP",
+            "date_modified": "2023-11-11T06:30:14.000Z",
+            "date_published": "2023-08-18T16:14:09.000Z",
+            "author": {
+                "name": "prasy-loyola",
+                "url": "https://github.com/prasy-loyola"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo.</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo.",
@@ -14,6 +25,61 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lint",
+            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+            "date_modified": "2024-02-16T11:37:48.000Z",
+            "date_published": "2021-02-14T11:18:45.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82618352?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lua neovim plugins</div>",
+            "url": "https://github.com/dnullproject/neovim-collection",
+            "title": "dnullproject/neovim-collection: Lua neovim plugins",
+            "date_modified": "2024-02-16T16:45:58.000Z",
+            "date_published": "2024-02-16T16:43:36.000Z",
+            "author": {
+                "name": "dnullproject",
+                "url": "https://github.com/dnullproject"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83169328?u=53acb272cd66a8ebc95a010d8332c3bf8da7cd0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for quarto and neovim</div>",
+            "url": "https://github.com/Mackrics/neoslime",
+            "title": "Mackrics/neoslime: A neovim plugin for quarto and neovim",
+            "date_modified": "2024-01-11T12:52:05.000Z",
+            "date_published": "2023-08-25T19:24:24.000Z",
+            "author": {
+                "name": "Mackrics",
+                "url": "https://github.com/Mackrics"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8790990?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for persistent line highlighting, enhancing code review and focus.</div>",
+            "url": "https://github.com/alexm3133/codeshade",
+            "title": "alexm3133/codeshade: A Neovim plugin for persistent line highlighting, enhancing code review and focus.",
+            "date_modified": "2024-02-16T11:00:48.000Z",
+            "date_published": "2024-02-16T09:31:51.000Z",
+            "author": {
+                "name": "alexm3133",
+                "url": "https://github.com/alexm3133"
             }
         },
         {
@@ -83,28 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8790990?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for persistent line highlighting, enhancing code review and focus.</div>",
-            "url": "https://github.com/alexm3133/codeshade",
-            "title": "alexm3133/codeshade: A Neovim plugin for persistent line highlighting, enhancing code review and focus.",
-            "date_modified": "2024-02-16T11:00:48.000Z",
-            "date_published": "2024-02-16T09:31:51.000Z",
-            "author": {
-                "name": "alexm3133",
-                "url": "https://github.com/alexm3133"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20575896?u=c86f22a041148eebe8f93be5f6ed7160964d818e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A personalized Neovim configuration for an optimized and efficient coding experience. Includes a curated set of plugins and custom key mappings. 🦊</div>",
             "url": "https://github.com/alitokur/fox-project",
             "title": "alitokur/fox-project: A personalized Neovim configuration for an optimized and efficient coding experience. Includes a curated set of plugins and custom key mappings. :fox_face:",
@@ -149,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
-            "url": "https://github.com/mfussenegger/nvim-lint",
-            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-02-16T11:37:48.000Z",
-            "date_published": "2021-02-14T11:18:45.000Z",
-            "author": {
-                "name": "mfussenegger",
-                "url": "https://github.com/mfussenegger"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/585424?u=144c0cea3c91c5afb17510cd44be40896346c36d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to interact with the Termux APIs, useful for displaying various information in the statusline</div>",
             "url": "https://github.com/massix/termux.nvim",
             "title": "massix/termux.nvim: Neovim plugin to interact with the Termux APIs, useful for displaying various information in the statusline",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Ajnasz",
                 "url": "https://github.com/Ajnasz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24727447?u=25e76c57be01004cd9898ebe65175f90f318b79b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more</div>",
-            "url": "https://github.com/numToStr/Comment.nvim",
-            "title": "numToStr/Comment.nvim: :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",
-            "date_modified": "2024-02-16T12:23:25.000Z",
-            "date_published": "2021-10-02T10:22:43.000Z",
-            "author": {
-                "name": "numToStr",
-                "url": "https://github.com/numToStr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76124126?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repo to hold all the files for my neovim setup (init.lua and lua plugins)</div>",
-            "url": "https://github.com/mattjax16/Linux-Terminal-Setup",
-            "title": "mattjax16/Linux-Terminal-Setup: A repo to hold all the files for my neovim setup (init.lua and lua plugins)",
-            "date_modified": "2024-01-13T03:27:09.000Z",
-            "date_published": "2023-12-23T10:10:31.000Z",
-            "author": {
-                "name": "mattjax16",
-                "url": "https://github.com/mattjax16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</div>",
-            "url": "https://github.com/folke/neodev.nvim",
-            "title": "folke/neodev.nvim: 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",
-            "date_modified": "2024-02-16T13:10:25.000Z",
-            "date_published": "2021-05-19T13:21:14.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         }
     ]
