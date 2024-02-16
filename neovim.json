@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/585424?u=144c0cea3c91c5afb17510cd44be40896346c36d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to interact with the Termux APIs, useful for displaying various information in the statusline</div>",
+            "url": "https://github.com/massix/termux.nvim",
+            "title": "massix/termux.nvim: Neovim plugin to interact with the Termux APIs, useful for displaying various information in the statusline",
+            "date_modified": "2024-02-16T07:01:51.000Z",
+            "date_published": "2024-02-15T15:01:25.000Z",
+            "author": {
+                "name": "massix",
+                "url": "https://github.com/massix"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54305137?u=c5cf02a4cee6d10d7cb48fdcbb6bba8978433c3f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to run minitest conviniently.</div>",
+            "url": "https://github.com/yoshiyoshiharu/minitest.nvim",
+            "title": "yoshiyoshiharu/minitest.nvim: Neovim plugin to run minitest conviniently.",
+            "date_modified": "2024-02-12T04:38:13.000Z",
+            "date_published": "2024-02-12T04:02:40.000Z",
+            "author": {
+                "name": "yoshiyoshiharu",
+                "url": "https://github.com/yoshiyoshiharu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin serves as a wrapper for the `notify-send` command, enabling you to send system notifications from Neovim using `vim.notify()`.</div>",
             "url": "https://github.com/Ajnasz/notify-send.nvim",
             "title": "Ajnasz/notify-send.nvim: Neovim plugin serves as a wrapper for the `notify-send` command, enabling you to send system notifications from Neovim using `vim.notify()`.",
@@ -14,6 +47,17 @@
             "author": {
                 "name": "Ajnasz",
                 "url": "https://github.com/Ajnasz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24727447?u=25e76c57be01004cd9898ebe65175f90f318b79b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more</div>",
+            "url": "https://github.com/numToStr/Comment.nvim",
+            "title": "numToStr/Comment.nvim: :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",
+            "date_modified": "2024-02-16T08:29:08.000Z",
+            "date_published": "2021-10-02T10:22:43.000Z",
+            "author": {
+                "name": "numToStr",
+                "url": "https://github.com/numToStr"
             }
         },
         {
@@ -42,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-02-15T23:08:15.000Z",
+            "date_modified": "2024-02-16T08:39:55.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -69,17 +113,6 @@
             "author": {
                 "name": "roycrippen4",
                 "url": "https://github.com/roycrippen4"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31263887?u=4f17241d23d67cd92d0272470940e0b3f60d01f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>'this repo will contain my neovim configuration along with all plugin configs'</div>",
-            "url": "https://github.com/snowmang1/nvim",
-            "title": "snowmang1/nvim: 'this repo will contain my neovim configuration along with all plugin configs'",
-            "date_modified": "2023-03-21T15:34:44.000Z",
-            "date_published": "2022-07-07T03:58:55.000Z",
-            "author": {
-                "name": "snowmang1",
-                "url": "https://github.com/snowmang1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139780397?u=ac42c38e56b6e35f69f6d3851da59e2dbeed24cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a neovim plugin for codewars.</div>",
-            "url": "https://github.com/John-Bush14/neoWars",
-            "title": "John-Bush14/neoWars: a neovim plugin for codewars.",
-            "date_modified": "2024-02-15T23:46:51.000Z",
-            "date_published": "2024-02-14T20:31:14.000Z",
-            "author": {
-                "name": "John-Bush14",
-                "url": "https://github.com/John-Bush14"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
-            "url": "https://github.com/redyf/Neve",
-            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
-            "date_modified": "2024-02-13T04:47:24.000Z",
-            "date_published": "2024-01-03T14:38:56.000Z",
-            "author": {
-                "name": "redyf",
-                "url": "https://github.com/redyf"
             }
         }
     ]
