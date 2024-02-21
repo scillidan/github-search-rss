@@ -6,14 +6,14 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45588457?u=16d2ea7a2149740ce214e24b9354ab8879d7c590&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chezmoi plugin for neovim</div>",
-            "url": "https://github.com/xvzc/chezmoi.nvim",
-            "title": "xvzc/chezmoi.nvim: Chezmoi plugin for neovim",
-            "date_modified": "2024-02-19T21:55:57.000Z",
-            "date_published": "2023-12-14T05:31:35.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13682654?u=587a664cbcbea53d498b86458640e015b0901176&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fast and minimalist time tracking plugin for Neovim</div>",
+            "url": "https://github.com/davlord/minitrack.nvim",
+            "title": "davlord/minitrack.nvim: A fast and minimalist time tracking plugin for Neovim",
+            "date_modified": "2024-02-21T22:01:00.000Z",
+            "date_published": "2024-02-19T21:50:04.000Z",
             "author": {
-                "name": "xvzc",
-                "url": "https://github.com/xvzc"
+                "name": "davlord",
+                "url": "https://github.com/davlord"
             }
         },
         {
@@ -25,6 +25,28 @@
             "author": {
                 "name": "Nealium",
                 "url": "https://github.com/Nealium"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81777247?u=4fc5344fd0f1827b9bbcb36554970823204bb6ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin similar to vscode live server</div>",
+            "url": "https://github.com/nuuenkdaniel/Neo-live",
+            "title": "nuuenkdaniel/Neo-live: Neovim plugin similar to vscode live server",
+            "date_modified": "2024-02-21T21:07:48.000Z",
+            "date_published": "2024-02-21T21:07:48.000Z",
+            "author": {
+                "name": "nuuenkdaniel",
+                "url": "https://github.com/nuuenkdaniel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45588457?u=16d2ea7a2149740ce214e24b9354ab8879d7c590&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chezmoi plugin for neovim</div>",
+            "url": "https://github.com/xvzc/chezmoi.nvim",
+            "title": "xvzc/chezmoi.nvim: Chezmoi plugin for neovim",
+            "date_modified": "2024-02-19T21:55:57.000Z",
+            "date_published": "2023-12-14T05:31:35.000Z",
+            "author": {
+                "name": "xvzc",
+                "url": "https://github.com/xvzc"
             }
         },
         {
@@ -94,6 +116,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
+            "url": "https://github.com/AstroNvim/AstroNvim",
+            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
+            "date_modified": "2024-02-21T21:55:12.000Z",
+            "date_published": "2022-02-02T22:33:34.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
             "url": "https://github.com/lbrayner/init.lua",
             "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
@@ -124,17 +157,6 @@
             "author": {
                 "name": "Azpect3120",
                 "url": "https://github.com/Azpect3120"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
-            "url": "https://github.com/AstroNvim/AstroNvim",
-            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-02-21T18:51:47.000Z",
-            "date_published": "2022-02-02T22:33:34.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118240016?u=5be01d6d7da8167362ff52a01997448a29f2134c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a neovim config that could just be a small vim config. i do not really condone vscode-style neovim plugins.</div>",
-            "url": "https://github.com/rayhan-wijaya/my-nvimrc",
-            "title": "rayhan-wijaya/my-nvimrc: a neovim config that could just be a small vim config. i do not really condone vscode-style neovim plugins.",
-            "date_modified": "2024-01-02T12:35:27.000Z",
-            "date_published": "2023-04-25T11:46:38.000Z",
-            "author": {
-                "name": "rayhan-wijaya",
-                "url": "https://github.com/rayhan-wijaya"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30348075?u=fc7c41dd14bf0d1584026c9f43e3169331b376e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a yazi plugin which like flash.nvim in neovim,allow use key char to Precise selection</div>",
-            "url": "https://github.com/DreamMaoMao/keyjump.yazi",
-            "title": "DreamMaoMao/keyjump.yazi: a yazi plugin which like flash.nvim in neovim,allow use key char to Precise selection",
-            "date_modified": "2024-02-21T07:33:47.000Z",
-            "date_published": "2024-02-03T02:11:56.000Z",
-            "author": {
-                "name": "DreamMaoMao",
-                "url": "https://github.com/DreamMaoMao"
             }
         }
     ]
