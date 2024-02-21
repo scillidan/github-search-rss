@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116298054?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of my .dotfiles (mostly neovim plugins)</div>",
+            "url": "https://github.com/xl4624/dotfiles",
+            "title": "xl4624/dotfiles: Collection of my .dotfiles (mostly neovim plugins)",
+            "date_modified": "2024-02-12T06:46:49.000Z",
+            "date_published": "2024-01-18T00:43:06.000Z",
+            "author": {
+                "name": "xl4624",
+                "url": "https://github.com/xl4624"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21274063?u=477e9c40d81946defdd65b94739969cae99000b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin providing motions around indentation</div>",
+            "url": "https://github.com/psacawa/indent-jump.nvim",
+            "title": "psacawa/indent-jump.nvim: neovim plugin providing motions around indentation",
+            "date_modified": "2024-02-21T03:53:56.000Z",
+            "date_published": "2021-09-07T23:48:50.000Z",
+            "author": {
+                "name": "psacawa",
+                "url": "https://github.com/psacawa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87674867?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration for TheAltF4Stream as a plugin.</div>",
+            "url": "https://github.com/ALT-F4-LLC/thealtf4stream.nvim",
+            "title": "ALT-F4-LLC/thealtf4stream.nvim: Neovim configuration for TheAltF4Stream as a plugin.",
+            "date_modified": "2024-02-04T02:04:02.000Z",
+            "date_published": "2024-01-12T23:17:53.000Z",
+            "author": {
+                "name": "ALT-F4-LLC",
+                "url": "https://github.com/ALT-F4-LLC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-02-06T15:18:44.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50273941?u=dec259d1340849226c5b9b47cdbf87c3194ae69c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Schemecraft is a versatile colorscheme generator designed for Neovim and Vim9. It provides support for multiple variants, allowing users to customize and create unique color schemes tailored to their preferences.</div>",
             "url": "https://github.com/maxmx03/schemecraft",
             "title": "maxmx03/schemecraft: Schemecraft is a versatile colorscheme generator designed for Neovim and Vim9. It provides support for multiple variants, allowing users to customize and create unique color schemes tailored to their preferences.",
@@ -47,17 +91,6 @@
             "author": {
                 "name": "rktjmp",
                 "url": "https://github.com/rktjmp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-02-06T15:18:44.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
             }
         },
         {
@@ -174,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-02-21T02:44:35.000Z",
+            "date_modified": "2024-02-21T04:03:01.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "S1M0N38",
                 "url": "https://github.com/S1M0N38"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.</div>",
-            "url": "https://github.com/folke/which-key.nvim",
-            "title": "folke/which-key.nvim: 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
-            "date_modified": "2024-02-21T01:31:55.000Z",
-            "date_published": "2021-04-28T10:13:18.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-02-20T21:39:37.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45577341?u=0d2a77ffcbb59567bbeecc120f41f9d9b5d87d00&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that fixes unintuitive :bprevious and :bnext behavior</div>",
-            "url": "https://github.com/gremble0/bufferstack.nvim",
-            "title": "gremble0/bufferstack.nvim: Neovim plugin that fixes unintuitive :bprevious and :bnext behavior",
-            "date_modified": "2024-01-10T02:31:29.000Z",
-            "date_published": "2023-12-17T21:45:23.000Z",
-            "author": {
-                "name": "gremble0",
-                "url": "https://github.com/gremble0"
             }
         }
     ]
