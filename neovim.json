@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1384779?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Outline</div>",
+            "url": "https://github.com/JockeKv/OutlineWiki.nvim",
+            "title": "JockeKv/OutlineWiki.nvim: Neovim plugin for Outline",
+            "date_modified": "2024-02-14T11:44:27.000Z",
+            "date_published": "2023-10-10T17:17:20.000Z",
+            "author": {
+                "name": "JockeKv",
+                "url": "https://github.com/JockeKv"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32036729?u=2eb68605c073a8989311352fdec77b8e1cd7adad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for broot</div>",
+            "url": "https://github.com/aohoyd/broot.nvim",
+            "title": "aohoyd/broot.nvim: Neovim plugin for broot",
+            "date_modified": "2024-02-22T12:00:17.000Z",
+            "date_published": "2024-02-21T12:09:04.000Z",
+            "author": {
+                "name": "aohoyd",
+                "url": "https://github.com/aohoyd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/585424?u=144c0cea3c91c5afb17510cd44be40896346c36d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to interact with the Termux APIs, useful for displaying various information in the statusline</div>",
+            "url": "https://github.com/massix/termux.nvim",
+            "title": "massix/termux.nvim: Neovim plugin to interact with the Termux APIs, useful for displaying various information in the statusline",
+            "date_modified": "2024-02-18T03:47:30.000Z",
+            "date_published": "2024-02-15T15:01:25.000Z",
+            "author": {
+                "name": "massix",
+                "url": "https://github.com/massix"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128088782?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cabinet is a plugin for Neovim that allows you to manage your buffers in drawers.</div>",
             "url": "https://github.com/smilhey/cabinet.nvim",
             "title": "smilhey/cabinet.nvim: Cabinet is a plugin for Neovim that allows you to manage your buffers in drawers.",
@@ -20,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
             "url": "https://github.com/R-nvim/R.nvim",
             "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
-            "date_modified": "2024-02-22T16:26:47.000Z",
+            "date_modified": "2024-02-22T17:27:27.000Z",
             "date_published": "2024-01-22T20:23:10.000Z",
             "author": {
                 "name": "R-nvim",
@@ -80,17 +113,6 @@
             "author": {
                 "name": "rancorm",
                 "url": "https://github.com/rancorm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32036729?u=2eb68605c073a8989311352fdec77b8e1cd7adad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for broot</div>",
-            "url": "https://github.com/aohoyd/broot.nvim",
-            "title": "aohoyd/broot.nvim: Neovim plugin for broot",
-            "date_modified": "2024-02-22T12:00:17.000Z",
-            "date_published": "2024-02-21T12:09:04.000Z",
-            "author": {
-                "name": "aohoyd",
-                "url": "https://github.com/aohoyd"
             }
         },
         {
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1813121?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for calling lazygit from within neovim.</div>",
             "url": "https://github.com/kdheepak/lazygit.nvim",
             "title": "kdheepak/lazygit.nvim: Plugin for calling lazygit from within neovim.",
-            "date_modified": "2024-02-22T14:40:34.000Z",
+            "date_modified": "2024-02-22T17:58:03.000Z",
             "date_published": "2020-04-03T22:27:25.000Z",
             "author": {
                 "name": "kdheepak",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "tribhuwan-kumar",
                 "url": "https://github.com/tribhuwan-kumar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.</div>",
-            "url": "https://github.com/folke/which-key.nvim",
-            "title": "folke/which-key.nvim: 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
-            "date_modified": "2024-02-22T11:55:11.000Z",
-            "date_published": "2021-04-28T10:13:18.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3139113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by Google Gemini.</div>",
-            "url": "https://github.com/gera2ld/ai.nvim",
-            "title": "gera2ld/ai.nvim: A Neovim plugin powered by Google Gemini.",
-            "date_modified": "2024-02-16T11:20:47.000Z",
-            "date_published": "2023-12-17T14:21:13.000Z",
-            "author": {
-                "name": "gera2ld",
-                "url": "https://github.com/gera2ld"
             }
         }
     ]
