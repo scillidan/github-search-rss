@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26099427?u=b3dd3acee623ceb11f473c74c45905d738720ad3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highlight colors for neovim</div>",
+            "url": "https://github.com/brenoprata10/nvim-highlight-colors",
+            "title": "brenoprata10/nvim-highlight-colors: Highlight colors for neovim",
+            "date_modified": "2024-02-22T05:57:31.000Z",
+            "date_published": "2022-07-17T11:09:45.000Z",
+            "author": {
+                "name": "brenoprata10",
+                "url": "https://github.com/brenoprata10"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-02-06T15:18:44.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
             "url": "https://github.com/Iron-E/nvim-highlite",
             "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
@@ -61,6 +83,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "date_modified": "2024-02-23T22:59:03.000Z",
+            "date_published": "2021-12-12T13:38:23.000Z",
+            "author": {
+                "name": "nvim-neo-tree",
+                "url": "https://github.com/nvim-neo-tree"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
             "url": "https://github.com/nvim-plugnplay/database",
             "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
@@ -108,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim</div>",
             "url": "https://github.com/mistricky/codesnap.nvim",
             "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim",
-            "date_modified": "2024-02-23T21:22:42.000Z",
+            "date_modified": "2024-02-23T22:47:46.000Z",
             "date_published": "2024-02-13T06:05:34.000Z",
             "author": {
                 "name": "mistricky",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "maxmx03",
                 "url": "https://github.com/maxmx03"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
-            "url": "https://github.com/benlubas/molten-nvim",
-            "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
-            "date_modified": "2024-02-23T19:07:07.000Z",
-            "date_published": "2023-10-05T18:25:49.000Z",
-            "author": {
-                "name": "benlubas",
-                "url": "https://github.com/benlubas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110830184?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config neovim with lua - using packer plugin</div>",
-            "url": "https://github.com/dungtran09/nvim",
-            "title": "dungtran09/nvim: Config neovim with lua - using packer plugin",
-            "date_modified": "2024-02-04T07:59:28.000Z",
-            "date_published": "2023-02-19T05:31:59.000Z",
-            "author": {
-                "name": "dungtran09",
-                "url": "https://github.com/dungtran09"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20328231?u=d5965e8fefda3d7e70c185ceaa2d5db88e092b0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains my custom Neovim configuration. The configuration is based on a variety of plugins that provide a rich set of features and enhancements to the Neovim editor.</div>",
-            "url": "https://github.com/jmsrsd/nvim",
-            "title": "jmsrsd/nvim: This repository contains my custom Neovim configuration. The configuration is based on a variety of plugins that provide a rich set of features and enhancements to the Neovim editor.",
-            "date_modified": "2023-12-16T02:41:45.000Z",
-            "date_published": "2023-07-13T21:17:47.000Z",
-            "author": {
-                "name": "jmsrsd",
-                "url": "https://github.com/jmsrsd"
             }
         }
     ]
