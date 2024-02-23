@@ -6,21 +6,32 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo.</div>",
-            "url": "https://github.com/nvim-neorocks/rocks.nvim",
-            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo.",
-            "date_modified": "2024-02-21T19:12:53.000Z",
-            "date_published": "2023-07-05T11:24:40.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6575405?u=b0b32aca85bf74712adbf763e6c1a5c705e8962b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An all in one plugin for converting text case in Neovim</div>",
+            "url": "https://github.com/johmsalas/text-case.nvim",
+            "title": "johmsalas/text-case.nvim: An all in one plugin for converting text case in Neovim",
+            "date_modified": "2024-02-23T11:48:29.000Z",
+            "date_published": "2022-06-03T22:33:29.000Z",
             "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
+                "name": "johmsalas",
+                "url": "https://github.com/johmsalas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31730729?u=22d025770f6ef91bdc500dfb0eeb18a130a960c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Status column plugin that provides a configurable 'statuscolumn' and click handlers.</div>",
+            "url": "https://github.com/luukvbaal/statuscol.nvim",
+            "title": "luukvbaal/statuscol.nvim: Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
+            "date_modified": "2024-02-20T15:21:28.000Z",
+            "date_published": "2022-11-21T12:04:24.000Z",
+            "author": {
+                "name": "luukvbaal",
+                "url": "https://github.com/luukvbaal"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119095935?u=4c6e94928a6037d622806b85aae077e719fcb959&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extremely minimal plugin manager for Neovim.</div>",
             "url": "https://github.com/9yokuro/plum.nvim",
             "title": "9yokuro/plum.nvim: An extremely minimal plugin manager for Neovim.",
-            "date_modified": "2024-02-23T12:59:08.000Z",
+            "date_modified": "2024-02-23T13:10:04.000Z",
             "date_published": "2024-02-23T12:59:08.000Z",
             "author": {
                 "name": "9yokuro",
@@ -28,14 +39,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-02-06T15:18:44.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
             "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim</div>",
+            "url": "https://github.com/mistricky/codesnap.nvim",
+            "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim",
+            "date_modified": "2024-02-23T14:07:41.000Z",
+            "date_published": "2024-02-13T06:05:34.000Z",
+            "author": {
+                "name": "mistricky",
+                "url": "https://github.com/mistricky"
             }
         },
         {
@@ -47,6 +69,39 @@
             "author": {
                 "name": "speed2exe",
                 "url": "https://github.com/speed2exe"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo.</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo.",
+            "date_modified": "2024-02-21T19:12:53.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
+            "url": "https://github.com/folke/lazy.nvim",
+            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+            "date_modified": "2024-02-23T13:16:07.000Z",
+            "date_published": "2022-11-20T21:36:02.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -86,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
             "url": "https://github.com/mrcjkb/rustaceanvim",
             "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-02-23T08:11:15.000Z",
+            "date_modified": "2024-02-23T13:50:03.000Z",
             "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
                 "name": "mrcjkb",
@@ -138,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim</div>",
-            "url": "https://github.com/mistricky/codesnap.nvim",
-            "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim",
-            "date_modified": "2024-02-23T13:09:00.000Z",
-            "date_published": "2024-02-13T06:05:34.000Z",
-            "author": {
-                "name": "mistricky",
-                "url": "https://github.com/mistricky"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55022619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to switch IMs automatically.</div>",
             "url": "https://github.com/drop-stones/im-switch.nvim",
             "title": "drop-stones/im-switch.nvim: Neovim plugin to switch IMs automatically.",
@@ -157,17 +201,6 @@
             "author": {
                 "name": "drop-stones",
                 "url": "https://github.com/drop-stones"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6575405?u=b0b32aca85bf74712adbf763e6c1a5c705e8962b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An all in one plugin for converting text case in Neovim</div>",
-            "url": "https://github.com/johmsalas/text-case.nvim",
-            "title": "johmsalas/text-case.nvim: An all in one plugin for converting text case in Neovim",
-            "date_modified": "2024-02-23T11:48:29.000Z",
-            "date_published": "2022-06-03T22:33:29.000Z",
-            "author": {
-                "name": "johmsalas",
-                "url": "https://github.com/johmsalas"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "thornoar",
                 "url": "https://github.com/thornoar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
-            "title": "yutkat/new-neovim-plugin-with-category-rss",
-            "date_modified": "2023-08-11T07:03:24.000Z",
-            "date_published": "2023-05-24T19:57:02.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
-            "url": "https://github.com/yutkat/my-neovim-pluginlist",
-            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
-            "date_modified": "2024-02-21T15:16:38.000Z",
-            "date_published": "2022-04-17T14:53:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-02-23T10:42:35.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
             }
         }
     ]
