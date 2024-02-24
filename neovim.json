@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138196695?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Some Neovim plugins and features can make Neovim slow when editing big files and executing macros. Faster.nvim will selectively disable some features when big file is opened or macro is executed.</div>",
+            "url": "https://github.com/pteroctopus/faster.nvim",
+            "title": "pteroctopus/faster.nvim: Some Neovim plugins and features can make Neovim slow when editing big files and executing macros. Faster.nvim will selectively disable some features when big file is opened or macro is executed.",
+            "date_modified": "2024-02-24T19:04:10.000Z",
+            "date_published": "2024-02-24T06:12:04.000Z",
+            "author": {
+                "name": "pteroctopus",
+                "url": "https://github.com/pteroctopus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101752210?u=51184c082fe58e47d2c37145fc5e1cd088d2d5b3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Config &amp; plugins for neovim</div>",
+            "url": "https://github.com/Cramzzzberry/nvim",
+            "title": "Cramzzzberry/nvim: My Config & plugins for neovim",
+            "date_modified": "2024-02-21T07:28:17.000Z",
+            "date_published": "2024-02-21T07:21:46.000Z",
+            "author": {
+                "name": "Cramzzzberry",
+                "url": "https://github.com/Cramzzzberry"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
@@ -14,6 +36,17 @@
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim</div>",
+            "url": "https://github.com/mistricky/codesnap.nvim",
+            "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim",
+            "date_modified": "2024-02-24T18:36:12.000Z",
+            "date_published": "2024-02-13T06:05:34.000Z",
+            "author": {
+                "name": "mistricky",
+                "url": "https://github.com/mistricky"
             }
         },
         {
@@ -36,17 +69,6 @@
             "author": {
                 "name": "IlyasYOY",
                 "url": "https://github.com/IlyasYOY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim</div>",
-            "url": "https://github.com/mistricky/codesnap.nvim",
-            "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim",
-            "date_modified": "2024-02-24T17:39:46.000Z",
-            "date_published": "2024-02-13T06:05:34.000Z",
-            "author": {
-                "name": "mistricky",
-                "url": "https://github.com/mistricky"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "maxmx03",
                 "url": "https://github.com/maxmx03"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12184268?u=35ff697932f0ebba20a58fc8a07f9a5f033fa375&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to search for and insert emojis right from Neovim 😀</div>",
-            "url": "https://github.com/Allaman/emoji.nvim",
-            "title": "Allaman/emoji.nvim: A plugin to search for and insert emojis right from Neovim 😀",
-            "date_modified": "2024-02-23T19:58:36.000Z",
-            "date_published": "2024-02-23T18:04:25.000Z",
-            "author": {
-                "name": "Allaman",
-                "url": "https://github.com/Allaman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
-            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
-            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-02-24T04:17:28.000Z",
-            "date_published": "2023-11-01T17:40:49.000Z",
-            "author": {
-                "name": "wojciech-kulik",
-                "url": "https://github.com/wojciech-kulik"
             }
         }
     ]
