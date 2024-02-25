@@ -6,6 +6,94 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59975766?u=edaf7e3c29e5962bbbc17c6248554ae1dd433666&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modern Neovim plugin for Templaty with support for Treesitter</div>",
+            "url": "https://github.com/samvv/templaty.nvim",
+            "title": "samvv/templaty.nvim: A modern Neovim plugin for Templaty with support for Treesitter",
+            "date_modified": "2024-02-24T20:36:32.000Z",
+            "date_published": "2024-02-24T19:15:52.000Z",
+            "author": {
+                "name": "samvv",
+                "url": "https://github.com/samvv"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119095935?u=4c6e94928a6037d622806b85aae077e719fcb959&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extremely minimal plugin manager for Neovim.</div>",
+            "url": "https://github.com/9yokuro/plum.nvim",
+            "title": "9yokuro/plum.nvim: An extremely minimal plugin manager for Neovim.",
+            "date_modified": "2024-02-25T07:18:12.000Z",
+            "date_published": "2024-02-23T12:59:08.000Z",
+            "author": {
+                "name": "9yokuro",
+                "url": "https://github.com/9yokuro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26099427?u=b3dd3acee623ceb11f473c74c45905d738720ad3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highlight colors for neovim</div>",
+            "url": "https://github.com/brenoprata10/nvim-highlight-colors",
+            "title": "brenoprata10/nvim-highlight-colors: Highlight colors for neovim",
+            "date_modified": "2024-02-22T05:57:31.000Z",
+            "date_published": "2022-07-17T11:09:45.000Z",
+            "author": {
+                "name": "brenoprata10",
+                "url": "https://github.com/brenoprata10"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28717?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that allows you to toggle test blocks on/off.</div>",
+            "url": "https://github.com/cange/specto.nvim",
+            "title": "cange/specto.nvim: A Neovim plugin that allows you to toggle test blocks on/off.",
+            "date_modified": "2024-01-19T21:11:47.000Z",
+            "date_published": "2023-11-05T12:30:29.000Z",
+            "author": {
+                "name": "cange",
+                "url": "https://github.com/cange"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
+            "url": "https://github.com/R-nvim/R.nvim",
+            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
+            "date_modified": "2024-02-23T19:42:54.000Z",
+            "date_published": "2024-01-22T20:23:10.000Z",
+            "author": {
+                "name": "R-nvim",
+                "url": "https://github.com/R-nvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10319377?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin leveraging pandoc to help you convert your markdown files. It takes pandoc options from yaml blocks.</div>",
+            "url": "https://github.com/jghauser/auto-pandoc.nvim",
+            "title": "jghauser/auto-pandoc.nvim: A neovim plugin leveraging pandoc to help you convert your markdown files. It takes pandoc options from yaml blocks.",
+            "date_modified": "2024-01-26T20:12:34.000Z",
+            "date_published": "2021-05-16T18:42:09.000Z",
+            "author": {
+                "name": "jghauser",
+                "url": "https://github.com/jghauser"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/722385?u=e1d49c9644925636185989403469e011b8ce8adb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for changing keyword case.</div>",
+            "url": "https://github.com/gregorias/coerce.nvim",
+            "title": "gregorias/coerce.nvim: A Neovim plugin for changing keyword case.",
+            "date_modified": "2024-02-19T16:45:37.000Z",
+            "date_published": "2024-01-02T15:51:34.000Z",
+            "author": {
+                "name": "gregorias",
+                "url": "https://github.com/gregorias"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36059968?u=8279a28dc3f0dd176ebb53241f8dc850fd8ab041&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My custom neovim statusline plugin.</div>",
+            "url": "https://github.com/radvil/NeoLine",
+            "title": "radvil/NeoLine: My custom neovim statusline plugin.",
+            "date_modified": "2024-02-25T13:20:53.000Z",
+            "date_published": "2024-02-25T12:41:42.000Z",
+            "author": {
+                "name": "radvil",
+                "url": "https://github.com/radvil"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17877050?u=117e973b7671a2ce4590b520c0de7e75d18af737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings</div>",
             "url": "https://github.com/lobneroO/nvim_conf",
             "title": "lobneroO/nvim_conf: config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings",
@@ -14,6 +102,17 @@
             "author": {
                 "name": "lobneroO",
                 "url": "https://github.com/lobneroO"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2416122?u=fe1ac631e4e14da4a8d15e0d2b4579329f6dda79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini GPT Neovim Plugin: Effortless Natural Language Generation with LLM API </div>",
+            "url": "https://github.com/huynle/ogpt.nvim",
+            "title": "huynle/ogpt.nvim: Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini GPT Neovim Plugin: Effortless Natural Language Generation with LLM API ",
+            "date_modified": "2024-02-25T13:53:10.000Z",
+            "date_published": "2023-11-21T10:45:26.000Z",
+            "author": {
+                "name": "huynle",
+                "url": "https://github.com/huynle"
             }
         },
         {
@@ -36,17 +135,6 @@
             "author": {
                 "name": "rockerBOO",
                 "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36059968?u=8279a28dc3f0dd176ebb53241f8dc850fd8ab041&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My custom neovim statusline plugin.</div>",
-            "url": "https://github.com/radvil/NeoLine",
-            "title": "radvil/NeoLine: My custom neovim statusline plugin.",
-            "date_modified": "2024-02-25T12:41:42.000Z",
-            "date_published": "2024-02-25T12:41:42.000Z",
-            "author": {
-                "name": "radvil",
-                "url": "https://github.com/radvil"
             }
         },
         {
@@ -135,94 +223,6 @@
             "author": {
                 "name": "DreamMaoMao",
                 "url": "https://github.com/DreamMaoMao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116298054?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of my .dotfiles (mostly neovim plugins)</div>",
-            "url": "https://github.com/xl4624/dotfiles",
-            "title": "xl4624/dotfiles: Collection of my .dotfiles (mostly neovim plugins)",
-            "date_modified": "2024-02-12T06:46:49.000Z",
-            "date_published": "2024-01-18T00:43:06.000Z",
-            "author": {
-                "name": "xl4624",
-                "url": "https://github.com/xl4624"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42390827?u=eee0b038684fe0855d34bab11ef34701820fd0c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration and plugins</div>",
-            "url": "https://github.com/RafaelZasas/nvim",
-            "title": "RafaelZasas/nvim: My Neovim configuration and plugins",
-            "date_modified": "2023-05-09T19:37:09.000Z",
-            "date_published": "2023-05-09T19:35:28.000Z",
-            "author": {
-                "name": "RafaelZasas",
-                "url": "https://github.com/RafaelZasas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116496520?u=28164ee18e20411f9e1ed1e4631c69a0b4ebd75c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin template for neovim.</div>",
-            "url": "https://github.com/ej-shafran/neovim-plugin-template",
-            "title": "ej-shafran/neovim-plugin-template: A plugin template for neovim.",
-            "date_modified": "2024-02-25T07:58:45.000Z",
-            "date_published": "2024-02-25T07:56:12.000Z",
-            "author": {
-                "name": "ej-shafran",
-                "url": "https://github.com/ej-shafran"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45463757?u=0bfb7d3fda305c17e77d584449b005359e807bab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A buffer explorer neovim plugin</div>",
-            "url": "https://github.com/xiaoqixian/buffer-explorer.nvim",
-            "title": "xiaoqixian/buffer-explorer.nvim: A buffer explorer neovim plugin",
-            "date_modified": "2024-01-22T10:12:14.000Z",
-            "date_published": "2024-01-16T11:37:12.000Z",
-            "author": {
-                "name": "xiaoqixian",
-                "url": "https://github.com/xiaoqixian"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
-            "title": "yutkat/new-neovim-plugin-with-category-rss",
-            "date_modified": "2023-08-11T07:03:24.000Z",
-            "date_published": "2023-05-24T19:57:02.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
-            "url": "https://github.com/yutkat/my-neovim-pluginlist",
-            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
-            "date_modified": "2024-02-25T01:00:36.000Z",
-            "date_published": "2022-04-17T14:53:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1009936?u=cbc13f23c6019e24ef42ab323a8ce51f325aa885&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to generate text using LLMs with customizable prompts</div>",
-            "url": "https://github.com/David-Kunz/gen.nvim",
-            "title": "David-Kunz/gen.nvim: Neovim plugin to generate text using LLMs with customizable prompts",
-            "date_modified": "2024-02-25T12:41:55.000Z",
-            "date_published": "2023-09-30T09:28:53.000Z",
-            "author": {
-                "name": "David-Kunz",
-                "url": "https://github.com/David-Kunz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
-            "url": "https://github.com/vim-denops/denops.vim",
-            "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
-            "date_modified": "2024-02-25T10:01:30.000Z",
-            "date_published": "2021-02-08T15:46:07.000Z",
-            "author": {
-                "name": "vim-denops",
-                "url": "https://github.com/vim-denops"
             }
         }
     ]
