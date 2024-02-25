@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-02-06T15:18:44.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1045990?u=a0976ec8156c53b141e5d11a81cdc19d8237928b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for dbt</div>",
+            "url": "https://github.com/PedramNavid/dbtpal",
+            "title": "PedramNavid/dbtpal: Neovim plugin for dbt",
+            "date_modified": "2024-02-23T21:04:18.000Z",
+            "date_published": "2023-01-15T22:36:37.000Z",
+            "author": {
+                "name": "PedramNavid",
+                "url": "https://github.com/PedramNavid"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101986423?u=dec47f0bc6d38064cfd8150b27b1b1d77c52af3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for quickly commenting/un-commenting lines</div>",
+            "url": "https://github.com/chellipse/lua-comment.nvim",
+            "title": "chellipse/lua-comment.nvim: Neovim plugin for quickly commenting/un-commenting lines",
+            "date_modified": "2024-02-10T11:06:55.000Z",
+            "date_published": "2024-02-08T21:36:31.000Z",
+            "author": {
+                "name": "chellipse",
+                "url": "https://github.com/chellipse"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138196695?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Some Neovim plugins and features can make Neovim slow when editing big files and executing macros. Faster.nvim will selectively disable some features when big file is opened or macro is executed.</div>",
+            "url": "https://github.com/pteroctopus/faster.nvim",
+            "title": "pteroctopus/faster.nvim: Some Neovim plugins and features can make Neovim slow when editing big files and executing macros. Faster.nvim will selectively disable some features when big file is opened or macro is executed.",
+            "date_modified": "2024-02-24T19:04:10.000Z",
+            "date_published": "2024-02-24T06:12:04.000Z",
+            "author": {
+                "name": "pteroctopus",
+                "url": "https://github.com/pteroctopus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/426949?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a remote neovim plugin for viewing Dadbod query results in a web browser</div>",
             "url": "https://github.com/napisani/nvim-dadbod-bg",
             "title": "napisani/nvim-dadbod-bg: a remote neovim plugin for viewing Dadbod query results in a web browser",
@@ -25,17 +80,6 @@
             "author": {
                 "name": "skanehira",
                 "url": "https://github.com/skanehira"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -163,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-02-25T03:53:23.000Z",
+            "date_modified": "2024-02-25T04:16:00.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "kawre",
                 "url": "https://github.com/kawre"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82267684?u=4ebe86e71117697244081c1863d81312978362d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Color picker and highlighter plugin for Neovim.</div>",
-            "url": "https://github.com/uga-rosa/ccc.nvim",
-            "title": "uga-rosa/ccc.nvim: Color picker and highlighter plugin for Neovim.",
-            "date_modified": "2024-02-22T00:25:33.000Z",
-            "date_published": "2022-09-13T19:33:58.000Z",
-            "author": {
-                "name": "uga-rosa",
-                "url": "https://github.com/uga-rosa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15847857?u=7d9c09d956dfdf6cd66af3aef96f36961aaa985f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.</div>",
-            "url": "https://github.com/madox2/vim-ai",
-            "title": "madox2/vim-ai: AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.",
-            "date_modified": "2024-02-24T22:16:43.000Z",
-            "date_published": "2023-02-27T20:23:49.000Z",
-            "author": {
-                "name": "madox2",
-                "url": "https://github.com/madox2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-02-24T21:33:06.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17254073?u=fcc149951e678c85d141f55d7067ab5c73c6d32e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⚙️ Modernized gruvbox color scheme for neovim and its popular plugins</div>",
-            "url": "https://github.com/Almo7aya/neogruvbox.nvim",
-            "title": "Almo7aya/neogruvbox.nvim: ⚙️ Modernized gruvbox color scheme for neovim and its popular plugins",
-            "date_modified": "2024-01-31T07:50:41.000Z",
-            "date_published": "2022-09-09T05:35:01.000Z",
-            "author": {
-                "name": "Almo7aya",
-                "url": "https://github.com/Almo7aya"
             }
         }
     ]
