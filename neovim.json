@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107015?u=6de0431b67525dc76030214070c7ecf5e80ec26f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim</div>",
+            "url": "https://github.com/andrewferrier/wrapping.nvim",
+            "title": "andrewferrier/wrapping.nvim: Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim",
+            "date_modified": "2024-02-21T06:19:03.000Z",
+            "date_published": "2016-11-24T14:25:18.000Z",
+            "author": {
+                "name": "andrewferrier",
+                "url": "https://github.com/andrewferrier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12184268?u=35ff697932f0ebba20a58fc8a07f9a5f033fa375&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to search for and insert emojis right from Neovim 😀</div>",
+            "url": "https://github.com/Allaman/emoji.nvim",
+            "title": "Allaman/emoji.nvim: A plugin to search for and insert emojis right from Neovim 😀",
+            "date_modified": "2024-02-25T07:24:11.000Z",
+            "date_published": "2024-02-23T18:04:25.000Z",
+            "author": {
+                "name": "Allaman",
+                "url": "https://github.com/Allaman"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31893391?u=d384bd42cb11bffcf48caf4182769f8ec4f09df1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git Blame plugin for Neovim written in Lua</div>",
+            "url": "https://github.com/f-person/git-blame.nvim",
+            "title": "f-person/git-blame.nvim: Git Blame plugin for Neovim written in Lua",
+            "date_modified": "2024-02-25T11:40:04.000Z",
+            "date_published": "2020-08-29T13:27:26.000Z",
+            "author": {
+                "name": "f-person",
+                "url": "https://github.com/f-person"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/287744?u=e958a9b9053244bbcc20f7589c697594c43a6b77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>async language server protocol plugin for vim and neovim</div>",
             "url": "https://github.com/prabirshrestha/vim-lsp",
             "title": "prabirshrestha/vim-lsp: async language server protocol plugin for vim and neovim",
@@ -20,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-02-25T11:02:34.000Z",
+            "date_modified": "2024-02-25T11:35:25.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -130,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1009936?u=cbc13f23c6019e24ef42ab323a8ce51f325aa885&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to generate text using LLMs with customizable prompts</div>",
             "url": "https://github.com/David-Kunz/gen.nvim",
             "title": "David-Kunz/gen.nvim: Neovim plugin to generate text using LLMs with customizable prompts",
-            "date_modified": "2024-02-25T05:03:48.000Z",
+            "date_modified": "2024-02-25T11:54:23.000Z",
             "date_published": "2023-09-30T09:28:53.000Z",
             "author": {
                 "name": "David-Kunz",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "altermo",
                 "url": "https://github.com/altermo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim / Neovim random colorscheme plugin</div>",
-            "url": "https://github.com/yukimemi/spectrism.vim",
-            "title": "yukimemi/spectrism.vim: Vim / Neovim random colorscheme plugin",
-            "date_modified": "2024-02-18T05:37:06.000Z",
-            "date_published": "2022-10-01T16:11:03.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
-            "url": "https://github.com/yukimemi/dvpm",
-            "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
-            "date_modified": "2024-01-13T07:27:44.000Z",
-            "date_published": "2023-05-14T12:16:02.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</div>",
-            "url": "https://github.com/folke/neodev.nvim",
-            "title": "folke/neodev.nvim: 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",
-            "date_modified": "2024-02-25T06:30:52.000Z",
-            "date_published": "2021-05-19T13:21:14.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         }
     ]
