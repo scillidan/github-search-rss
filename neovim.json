@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1212231?u=98ec8feebcc3cc351ed4e1086fca0a6e8cf84ea3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NixOS wrapper for neovim, allowing plugins like treesitter to update and compile parsers</div>",
+            "url": "https://github.com/rbit/nvim-wrapped",
+            "title": "rbit/nvim-wrapped: NixOS wrapper for neovim, allowing plugins like treesitter to update and compile parsers",
+            "date_modified": "2024-01-21T18:58:45.000Z",
+            "date_published": "2024-01-21T18:53:45.000Z",
+            "author": {
+                "name": "rbit",
+                "url": "https://github.com/rbit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Haskell experience in neovim!</div>",
+            "url": "https://github.com/mrcjkb/haskell-tools.nvim",
+            "title": "mrcjkb/haskell-tools.nvim: Supercharge your Haskell experience in neovim!",
+            "date_modified": "2024-02-25T00:14:47.000Z",
+            "date_published": "2022-10-15T14:18:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-02-24T19:25:53.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
+            "title": "LongerHV/neovim-plugins-overlay",
+            "date_modified": "2023-08-20T22:40:05.000Z",
+            "date_published": "2022-12-22T21:42:57.000Z",
+            "author": {
+                "name": "LongerHV",
+                "url": "https://github.com/LongerHV"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
+            "title": "yutkat/new-neovim-plugin-rss",
+            "date_modified": "2024-02-09T05:27:13.000Z",
+            "date_published": "2022-08-28T04:58:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120199160?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for working with Aiken on Vim / NeoVim.</div>",
+            "url": "https://github.com/aiken-lang/editor-integration-nvim",
+            "title": "aiken-lang/editor-integration-nvim: A plugin for working with Aiken on Vim / NeoVim.",
+            "date_modified": "2024-01-19T05:49:15.000Z",
+            "date_published": "2022-11-10T10:16:58.000Z",
+            "author": {
+                "name": "aiken-lang",
+                "url": "https://github.com/aiken-lang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/879864?u=30f3e9b4526e95016a089be4ea131f0e0331ac7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to read notion issue numbers</div>",
+            "url": "https://github.com/NoUseFreak/notion.nvim",
+            "title": "NoUseFreak/notion.nvim: neovim plugin to read notion issue numbers",
+            "date_modified": "2024-02-24T20:30:18.000Z",
+            "date_published": "2024-02-23T18:53:04.000Z",
+            "author": {
+                "name": "NoUseFreak",
+                "url": "https://github.com/NoUseFreak"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
             "url": "https://github.com/Iron-E/nvim-highlite",
             "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
@@ -31,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-02-24T23:01:07.000Z",
+            "date_modified": "2024-02-25T00:12:11.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -39,14 +116,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/879864?u=30f3e9b4526e95016a089be4ea131f0e0331ac7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to read notion issue numbers</div>",
-            "url": "https://github.com/NoUseFreak/notion.nvim",
-            "title": "NoUseFreak/notion.nvim: neovim plugin to read notion issue numbers",
-            "date_modified": "2024-02-24T20:30:18.000Z",
-            "date_published": "2024-02-23T18:53:04.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69250723?u=1a5fec3d222c3fc3cac306c5794c569c52292477&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin enabling you to solve LeetCode problems.</div>",
+            "url": "https://github.com/kawre/leetcode.nvim",
+            "title": "kawre/leetcode.nvim: A Neovim plugin enabling you to solve LeetCode problems.",
+            "date_modified": "2024-02-25T00:22:25.000Z",
+            "date_published": "2023-09-16T11:25:17.000Z",
             "author": {
-                "name": "NoUseFreak",
-                "url": "https://github.com/NoUseFreak"
+                "name": "kawre",
+                "url": "https://github.com/kawre"
             }
         },
         {
@@ -146,83 +223,6 @@
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim</div>",
-            "url": "https://github.com/mistricky/codesnap.nvim",
-            "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin that can make pretty code snapshots with real-time previews for Neovim",
-            "date_modified": "2024-02-24T18:36:12.000Z",
-            "date_published": "2024-02-13T06:05:34.000Z",
-            "author": {
-                "name": "mistricky",
-                "url": "https://github.com/mistricky"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69250723?u=1a5fec3d222c3fc3cac306c5794c569c52292477&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin enabling you to solve LeetCode problems.</div>",
-            "url": "https://github.com/kawre/leetcode.nvim",
-            "title": "kawre/leetcode.nvim: A Neovim plugin enabling you to solve LeetCode problems.",
-            "date_modified": "2024-02-24T17:44:23.000Z",
-            "date_published": "2023-09-16T11:25:17.000Z",
-            "author": {
-                "name": "kawre",
-                "url": "https://github.com/kawre"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18665585?u=f4668bb4e7de22085ade1fdf0f702a382667e461&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian-like NeoVim plugin.</div>",
-            "url": "https://github.com/IlyasYOY/obs.nvim",
-            "title": "IlyasYOY/obs.nvim: Obsidian-like NeoVim plugin.",
-            "date_modified": "2024-02-24T03:52:08.000Z",
-            "date_published": "2023-03-05T16:56:12.000Z",
-            "author": {
-                "name": "IlyasYOY",
-                "url": "https://github.com/IlyasYOY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28717?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that allows you to toggle test blocks on/off.</div>",
-            "url": "https://github.com/cange/specto.nvim",
-            "title": "cange/specto.nvim: A Neovim plugin that allows you to toggle test blocks on/off.",
-            "date_modified": "2024-01-19T21:11:47.000Z",
-            "date_published": "2023-11-05T12:30:29.000Z",
-            "author": {
-                "name": "cange",
-                "url": "https://github.com/cange"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16845233?u=b882907abf762dddba2958161973b8205598f5e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Configurations &amp; Plugins</div>",
-            "url": "https://github.com/eccanto/nvim-config",
-            "title": "eccanto/nvim-config: Neovim Configurations & Plugins",
-            "date_modified": "2023-02-14T00:41:32.000Z",
-            "date_published": "2022-01-05T22:56:22.000Z",
-            "author": {
-                "name": "eccanto",
-                "url": "https://github.com/eccanto"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A performant lsp progress status for Neovim.</div>",
-            "url": "https://github.com/linrongbin16/lsp-progress.nvim",
-            "title": "linrongbin16/lsp-progress.nvim: A performant lsp progress status for Neovim.",
-            "date_modified": "2024-02-21T14:01:35.000Z",
-            "date_published": "2023-01-31T00:58:42.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106677875?u=d90bfc3d18763bf74dcae6dd686096282183f77f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim with plugin in vim script</div>",
-            "url": "https://github.com/meoluoicoding/nvim1",
-            "title": "meoluoicoding/nvim1: neovim with plugin in vim script",
-            "date_modified": "2024-02-24T15:27:29.000Z",
-            "date_published": "2022-07-26T08:10:11.000Z",
-            "author": {
-                "name": "meoluoicoding",
-                "url": "https://github.com/meoluoicoding"
             }
         }
     ]
