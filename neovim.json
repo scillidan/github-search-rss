@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-02-06T15:18:44.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "date_modified": "2024-02-25T14:25:47.000Z",
+            "date_published": "2021-12-12T13:38:23.000Z",
+            "author": {
+                "name": "nvim-neo-tree",
+                "url": "https://github.com/nvim-neo-tree"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115640643?u=66e323a0603a25445a03c4782c6d3b3217485ed8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WIP. A neovim plugin to mark a line to refer back to.</div>",
+            "url": "https://github.com/AZarbade/linemark.nvim",
+            "title": "AZarbade/linemark.nvim: WIP. A neovim plugin to mark a line to refer back to.",
+            "date_modified": "2024-02-25T14:24:16.000Z",
+            "date_published": "2024-02-25T14:24:15.000Z",
+            "author": {
+                "name": "AZarbade",
+                "url": "https://github.com/AZarbade"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-02-15T11:05:29.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59975766?u=edaf7e3c29e5962bbbc17c6248554ae1dd433666&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modern Neovim plugin for Templaty with support for Treesitter</div>",
             "url": "https://github.com/samvv/templaty.nvim",
             "title": "samvv/templaty.nvim: A modern Neovim plugin for Templaty with support for Treesitter",
@@ -58,6 +102,17 @@
             "author": {
                 "name": "R-nvim",
                 "url": "https://github.com/R-nvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-02-25T14:46:28.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "andrewferrier",
                 "url": "https://github.com/andrewferrier"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12184268?u=35ff697932f0ebba20a58fc8a07f9a5f033fa375&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to search for and insert emojis right from Neovim 😀</div>",
-            "url": "https://github.com/Allaman/emoji.nvim",
-            "title": "Allaman/emoji.nvim: A plugin to search for and insert emojis right from Neovim 😀",
-            "date_modified": "2024-02-25T07:24:11.000Z",
-            "date_published": "2024-02-23T18:04:25.000Z",
-            "author": {
-                "name": "Allaman",
-                "url": "https://github.com/Allaman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31893391?u=d384bd42cb11bffcf48caf4182769f8ec4f09df1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git Blame plugin for Neovim written in Lua</div>",
-            "url": "https://github.com/f-person/git-blame.nvim",
-            "title": "f-person/git-blame.nvim: Git Blame plugin for Neovim written in Lua",
-            "date_modified": "2024-02-25T11:40:04.000Z",
-            "date_published": "2020-08-29T13:27:26.000Z",
-            "author": {
-                "name": "f-person",
-                "url": "https://github.com/f-person"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/287744?u=e958a9b9053244bbcc20f7589c697594c43a6b77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>async language server protocol plugin for vim and neovim</div>",
-            "url": "https://github.com/prabirshrestha/vim-lsp",
-            "title": "prabirshrestha/vim-lsp: async language server protocol plugin for vim and neovim",
-            "date_modified": "2024-02-23T19:43:33.000Z",
-            "date_published": "2016-11-06T09:31:03.000Z",
-            "author": {
-                "name": "prabirshrestha",
-                "url": "https://github.com/prabirshrestha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76241135?u=c616a84dc0b844404280b9b48030562eb8bd8bc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another statusline plugin for neovim.</div>",
-            "url": "https://github.com/brianaung/yasl.nvim",
-            "title": "brianaung/yasl.nvim: Yet another statusline plugin for neovim.",
-            "date_modified": "2024-02-03T20:39:26.000Z",
-            "date_published": "2024-01-12T16:15:43.000Z",
-            "author": {
-                "name": "brianaung",
-                "url": "https://github.com/brianaung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30348075?u=fc7c41dd14bf0d1584026c9f43e3169331b376e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a yazi plugin which like flash.nvim in neovim,allow use key char to Precise selection</div>",
-            "url": "https://github.com/DreamMaoMao/keyjump.yazi",
-            "title": "DreamMaoMao/keyjump.yazi: a yazi plugin which like flash.nvim in neovim,allow use key char to Precise selection",
-            "date_modified": "2024-02-23T11:12:24.000Z",
-            "date_published": "2024-02-03T02:11:56.000Z",
-            "author": {
-                "name": "DreamMaoMao",
-                "url": "https://github.com/DreamMaoMao"
             }
         }
     ]
