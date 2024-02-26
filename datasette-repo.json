@@ -6,6 +6,50 @@
     "description": "datasette on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deploys Datasette with the latest version of every plugin</div>",
+            "url": "https://github.com/simonw/latest-datasette-with-all-plugins",
+            "title": "simonw/latest-datasette-with-all-plugins: Deploys Datasette with the latest version of every plugin",
+            "date_modified": "2023-09-22T03:19:47.000Z",
+            "date_published": "2020-07-06T02:03:32.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/765871?u=3e8135bc649192e6ca2fc28fbe62b8d04a8cf29b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Keeping an eye on AWS Partners</div>",
+            "url": "https://github.com/kaihendry/aws-partners-datasette",
+            "title": "kaihendry/aws-partners-datasette: Keeping an eye on AWS Partners",
+            "date_modified": "2024-01-12T18:16:36.000Z",
+            "date_published": "2020-12-01T07:03:49.000Z",
+            "author": {
+                "name": "kaihendry",
+                "url": "https://github.com/kaihendry"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187135?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An experiment of publishing articles and variable metadata as a datasette instance</div>",
+            "url": "https://github.com/owid/owid-datasette",
+            "title": "owid/owid-datasette: An experiment of publishing articles and variable metadata as a datasette instance",
+            "date_modified": "2024-01-31T13:13:20.000Z",
+            "date_published": "2021-12-29T16:22:00.000Z",
+            "author": {
+                "name": "owid",
+                "url": "https://github.com/owid"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144163?u=190319dbaec0737c1406d3b269d56455af3591a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An excuse to play with DuckDB, Pandas and Datasette</div>",
+            "url": "https://github.com/rcaught/querydata.io",
+            "title": "rcaught/querydata.io: An excuse to play with DuckDB, Pandas and Datasette",
+            "date_modified": "2023-12-09T23:29:39.000Z",
+            "date_published": "2023-11-15T13:50:01.000Z",
+            "author": {
+                "name": "rcaught",
+                "url": "https://github.com/rcaught"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11788561?u=db82f9730165de60d18cbba2f64e1b22a5b7b7d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Database app of links to 6,927 online talk videos by cosmology researchers presenting their work to others in the field. Data is from 205 publicly available sources. Database app is hosted on Google Cloud Run at:</div>",
             "url": "https://github.com/jrdmb/cosmotalks-datasette",
             "title": "jrdmb/cosmotalks-datasette: Database app of links to 6,927 online talk videos by cosmology researchers presenting their work to others in the field. Data is from 205 publicly available sources. Database app is hosted on Google Cloud Run at:",
@@ -105,39 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Deploys Datasette with the latest version of every plugin</div>",
-            "url": "https://github.com/simonw/latest-datasette-with-all-plugins",
-            "title": "simonw/latest-datasette-with-all-plugins: Deploys Datasette with the latest version of every plugin",
-            "date_modified": "2023-09-22T03:19:47.000Z",
-            "date_published": "2020-07-06T02:03:32.000Z",
-            "author": {
-                "name": "simonw",
-                "url": "https://github.com/simonw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187135?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An experiment of publishing articles and variable metadata as a datasette instance</div>",
-            "url": "https://github.com/owid/owid-datasette",
-            "title": "owid/owid-datasette: An experiment of publishing articles and variable metadata as a datasette instance",
-            "date_modified": "2024-01-31T13:13:20.000Z",
-            "date_published": "2021-12-29T16:22:00.000Z",
-            "author": {
-                "name": "owid",
-                "url": "https://github.com/owid"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/144163?u=190319dbaec0737c1406d3b269d56455af3591a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An excuse to play with DuckDB, Pandas and Datasette</div>",
-            "url": "https://github.com/rcaught/querydata.io",
-            "title": "rcaught/querydata.io: An excuse to play with DuckDB, Pandas and Datasette",
-            "date_modified": "2023-12-09T23:29:39.000Z",
-            "date_published": "2023-11-15T13:50:01.000Z",
-            "author": {
-                "name": "rcaught",
-                "url": "https://github.com/rcaught"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette running in your browser using WebAssembly and Pyodide</div>",
             "url": "https://github.com/simonw/datasette-lite",
             "title": "simonw/datasette-lite: Datasette running in your browser using WebAssembly and Pyodide",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tweaselORG",
                 "url": "https://github.com/tweaselORG"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139249755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/datasette/datasette-scribe",
-            "title": "datasette/datasette-scribe",
-            "date_modified": "2024-02-21T00:45:00.000Z",
-            "date_published": "2024-02-14T01:07:50.000Z",
-            "author": {
-                "name": "datasette",
-                "url": "https://github.com/datasette"
             }
         }
     ]
