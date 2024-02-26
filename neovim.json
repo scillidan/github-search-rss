@@ -6,11 +6,11 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.</div>",
-            "url": "https://github.com/linrongbin16/gitlinker.nvim",
-            "title": "linrongbin16/gitlinker.nvim: Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.",
-            "date_modified": "2024-02-25T01:44:48.000Z",
-            "date_published": "2023-02-18T12:55:10.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fzf fuzzy finder that updates on every keystroke of user query and selection.</div>",
+            "url": "https://github.com/linrongbin16/fzfx.nvim",
+            "title": "linrongbin16/fzfx.nvim: A fzf fuzzy finder that updates on every keystroke of user query and selection.",
+            "date_modified": "2024-02-09T15:40:05.000Z",
+            "date_published": "2023-07-26T09:58:20.000Z",
             "author": {
                 "name": "linrongbin16",
                 "url": "https://github.com/linrongbin16"
@@ -28,14 +28,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fzf fuzzy finder that updates on every keystroke of user query and selection.</div>",
-            "url": "https://github.com/linrongbin16/fzfx.nvim",
-            "title": "linrongbin16/fzfx.nvim: A fzf fuzzy finder that updates on every keystroke of user query and selection.",
-            "date_modified": "2024-02-09T15:40:05.000Z",
-            "date_published": "2023-07-26T09:58:20.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138196695?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Some Neovim plugins and features can make Neovim slow when editing big files and executing macros. Faster.nvim will selectively disable some features when big file is opened or macro is executed.</div>",
+            "url": "https://github.com/pteroctopus/faster.nvim",
+            "title": "pteroctopus/faster.nvim: Some Neovim plugins and features can make Neovim slow when editing big files and executing macros. Faster.nvim will selectively disable some features when big file is opened or macro is executed.",
+            "date_modified": "2024-02-26T07:55:03.000Z",
+            "date_published": "2024-02-24T06:12:04.000Z",
+            "author": {
+                "name": "pteroctopus",
+                "url": "https://github.com/pteroctopus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.</div>",
+            "url": "https://github.com/linrongbin16/gitlinker.nvim",
+            "title": "linrongbin16/gitlinker.nvim: Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.",
+            "date_modified": "2024-02-25T01:44:48.000Z",
+            "date_published": "2023-02-18T12:55:10.000Z",
             "author": {
                 "name": "linrongbin16",
                 "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/287744?u=e958a9b9053244bbcc20f7589c697594c43a6b77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>async language server protocol plugin for vim and neovim</div>",
+            "url": "https://github.com/prabirshrestha/vim-lsp",
+            "title": "prabirshrestha/vim-lsp: async language server protocol plugin for vim and neovim",
+            "date_modified": "2024-02-26T08:06:30.000Z",
+            "date_published": "2016-11-06T09:31:03.000Z",
+            "author": {
+                "name": "prabirshrestha",
+                "url": "https://github.com/prabirshrestha"
             }
         },
         {
@@ -171,6 +193,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
+            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
+            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
+            "date_modified": "2024-02-26T07:20:33.000Z",
+            "date_published": "2023-11-01T17:40:49.000Z",
+            "author": {
+                "name": "wojciech-kulik",
+                "url": "https://github.com/wojciech-kulik"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/879864?u=30f3e9b4526e95016a089be4ea131f0e0331ac7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to read notion issue numbers</div>",
             "url": "https://github.com/NoUseFreak/notion.nvim",
             "title": "NoUseFreak/notion.nvim: neovim plugin to read notion issue numbers",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "sebasruiz09",
                 "url": "https://github.com/sebasruiz09"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1332805?u=5b6e5cff00fb7e5ff533f3d3a0f5aa71b54337d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
-            "url": "https://github.com/craftzdog/solarized-osaka.nvim",
-            "title": "craftzdog/solarized-osaka.nvim: 🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
-            "date_modified": "2024-02-25T18:53:44.000Z",
-            "date_published": "2023-09-15T02:29:01.000Z",
-            "author": {
-                "name": "craftzdog",
-                "url": "https://github.com/craftzdog"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
-            "title": "LongerHV/neovim-plugins-overlay",
-            "date_modified": "2023-08-20T22:40:05.000Z",
-            "date_published": "2022-12-22T21:42:57.000Z",
-            "author": {
-                "name": "LongerHV",
-                "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-02-09T05:27:13.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
             }
         }
     ]
