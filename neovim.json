@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93373310?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugins for Neovim configuration</div>",
+            "url": "https://github.com/chichieinstein/nvimhelper",
+            "title": "chichieinstein/nvimhelper: Plugins for Neovim configuration",
+            "date_modified": "2024-02-23T20:22:42.000Z",
+            "date_published": "2024-01-03T19:03:12.000Z",
+            "author": {
+                "name": "chichieinstein",
+                "url": "https://github.com/chichieinstein"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35686555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config using lazy.nvim as plugin manager</div>",
+            "url": "https://github.com/thomasmethrayil/nvim-config",
+            "title": "thomasmethrayil/nvim-config: Neovim config using lazy.nvim as plugin manager",
+            "date_modified": "2024-02-28T09:59:33.000Z",
+            "date_published": "2024-02-28T09:57:22.000Z",
+            "author": {
+                "name": "thomasmethrayil",
+                "url": "https://github.com/thomasmethrayil"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96374414?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a tiny neovim plugin for basic syntax highlighting for my troll language lcaml (with default syntax)</div>",
             "url": "https://github.com/barnii77/lcaml.nvim",
             "title": "barnii77/lcaml.nvim: a tiny neovim plugin for basic syntax highlighting for my troll language lcaml (with default syntax)",
@@ -14,6 +36,28 @@
             "author": {
                 "name": "barnii77",
                 "url": "https://github.com/barnii77"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</div>",
+            "url": "https://github.com/folke/neodev.nvim",
+            "title": "folke/neodev.nvim: 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",
+            "date_modified": "2024-02-28T09:06:12.000Z",
+            "date_published": "2021-05-19T13:21:14.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14262306?u=b98e876c8a44b8a69b53c1030d711061b1d0f0f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Directory browser plugin for Neovim, inspired by Ranger</div>",
+            "url": "https://github.com/simonmclean/triptych.nvim",
+            "title": "simonmclean/triptych.nvim: Directory browser plugin for Neovim, inspired by Ranger",
+            "date_modified": "2024-02-28T01:22:07.000Z",
+            "date_published": "2023-07-09T22:13:36.000Z",
+            "author": {
+                "name": "simonmclean",
+                "url": "https://github.com/simonmclean"
             }
         },
         {
@@ -72,6 +116,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lint",
+            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+            "date_modified": "2024-02-28T18:21:08.000Z",
+            "date_published": "2021-02-14T11:18:45.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49149872?u=c74348fe0e27019696075d5e4ea4b6bfa0032529&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Clippy.nvim is a very simple Neovim plugin that let's you manage your clipboard inside Neovim. I guess it also doubles as a bad note-taking plugin</div>",
             "url": "https://github.com/petersid2022/clippy.nvim",
             "title": "petersid2022/clippy.nvim: Clippy.nvim is a very simple Neovim plugin that let's you manage your clipboard inside Neovim. I guess it also doubles as a bad note-taking plugin",
@@ -119,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-02-28T18:04:56.000Z",
+            "date_modified": "2024-02-28T18:15:39.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -160,69 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35686555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config using lazy.nvim as plugin manager</div>",
-            "url": "https://github.com/thomasmethrayil/nvim-config",
-            "title": "thomasmethrayil/nvim-config: Neovim config using lazy.nvim as plugin manager",
-            "date_modified": "2024-02-28T09:59:33.000Z",
-            "date_published": "2024-02-28T09:57:22.000Z",
-            "author": {
-                "name": "thomasmethrayil",
-                "url": "https://github.com/thomasmethrayil"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163699?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</div>",
             "url": "https://github.com/jackMort/ChatGPT.nvim",
             "title": "jackMort/ChatGPT.nvim: ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
-            "date_modified": "2024-02-28T12:25:51.000Z",
+            "date_modified": "2024-02-28T18:52:06.000Z",
             "date_published": "2022-12-10T17:27:28.000Z",
             "author": {
                 "name": "jackMort",
                 "url": "https://github.com/jackMort"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Load all the ultra colorschemes into Neovim player!</div>",
-            "url": "https://github.com/linrongbin16/colorbox.nvim",
-            "title": "linrongbin16/colorbox.nvim: Load all the ultra colorschemes into Neovim player!",
-            "date_modified": "2024-02-20T08:00:34.000Z",
-            "date_published": "2023-03-03T01:03:56.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14832454?u=b8500e6a3ec3c8139ec1a4ecb657431b40db0ccc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An ivy-mode port to neovim.</div>",
-            "url": "https://github.com/AdeAttwood/ivy.nvim",
-            "title": "AdeAttwood/ivy.nvim: An ivy-mode port to neovim.",
-            "date_modified": "2023-12-21T19:48:15.000Z",
-            "date_published": "2022-07-10T20:16:08.000Z",
-            "author": {
-                "name": "AdeAttwood",
-                "url": "https://github.com/AdeAttwood"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85601344?u=37eba59243e012010b2df88f356cdca257ac6de8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration, and others soon</div>",
-            "url": "https://github.com/nijuyonkadesu/dotfiles",
-            "title": "nijuyonkadesu/dotfiles: Neovim configuration, and others soon",
-            "date_modified": "2023-06-12T05:25:40.000Z",
-            "date_published": "2022-12-23T07:00:17.000Z",
-            "author": {
-                "name": "nijuyonkadesu",
-                "url": "https://github.com/nijuyonkadesu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84800625?u=5cc392ddfa421fd01282614871c427cdd47b690b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💫 Unleash the Power 🛰️ with A Highly Customizable ⚙️ &amp; Blazingly Fast ⚡ Neovim Configuration, Inspired by the Unyielding Force 💥 of Neutron Stars 🔭, harnessing the incredible gravitational pull of Neovim's capabilities 🌌, offering a star-studded constellation of features and plugins 🌠 for a seamless and efficient coding journey 🚀!</div>",
-            "url": "https://github.com/daUnknownCoder/NeutronVim",
-            "title": "daUnknownCoder/NeutronVim: 💫 Unleash the Power 🛰️ with A Highly Customizable ⚙️ & Blazingly Fast ⚡ Neovim Configuration, Inspired by the Unyielding Force 💥 of Neutron Stars 🔭, harnessing the incredible gravitational pull of Neovim's capabilities 🌌, offering a star-studded constellation of features and plugins 🌠 for a seamless and efficient coding journey 🚀!",
-            "date_modified": "2024-02-25T12:13:00.000Z",
-            "date_published": "2023-09-18T11:09:36.000Z",
-            "author": {
-                "name": "daUnknownCoder",
-                "url": "https://github.com/daUnknownCoder"
             }
         }
     ]
