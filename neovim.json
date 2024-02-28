@@ -6,14 +6,25 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64093588?u=3a04d58fc63695b0c948031056651c3eb6e961e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for generating .gitignore files.</div>",
-            "url": "https://github.com/wintermute-cell/gitignore.nvim",
-            "title": "wintermute-cell/gitignore.nvim: A neovim plugin for generating .gitignore files.",
-            "date_modified": "2024-01-28T23:12:55.000Z",
-            "date_published": "2023-03-20T15:01:29.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69250723?u=1a5fec3d222c3fc3cac306c5794c569c52292477&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin enabling you to solve LeetCode problems.</div>",
+            "url": "https://github.com/kawre/leetcode.nvim",
+            "title": "kawre/leetcode.nvim: A Neovim plugin enabling you to solve LeetCode problems.",
+            "date_modified": "2024-02-28T17:20:31.000Z",
+            "date_published": "2023-09-16T11:25:17.000Z",
             "author": {
-                "name": "wintermute-cell",
-                "url": "https://github.com/wintermute-cell"
+                "name": "kawre",
+                "url": "https://github.com/kawre"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.</div>",
+            "url": "https://github.com/linrongbin16/gitlinker.nvim",
+            "title": "linrongbin16/gitlinker.nvim: Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.",
+            "date_modified": "2024-02-27T19:37:55.000Z",
+            "date_published": "2023-02-18T12:55:10.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
             }
         },
         {
@@ -25,6 +36,17 @@
             "author": {
                 "name": "barnii77",
                 "url": "https://github.com/barnii77"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64093588?u=3a04d58fc63695b0c948031056651c3eb6e961e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for generating .gitignore files.</div>",
+            "url": "https://github.com/wintermute-cell/gitignore.nvim",
+            "title": "wintermute-cell/gitignore.nvim: A neovim plugin for generating .gitignore files.",
+            "date_modified": "2024-01-28T23:12:55.000Z",
+            "date_published": "2023-03-20T15:01:29.000Z",
+            "author": {
+                "name": "wintermute-cell",
+                "url": "https://github.com/wintermute-cell"
             }
         },
         {
@@ -75,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-02-28T20:22:37.000Z",
+            "date_modified": "2024-02-28T21:51:43.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "mfussenegger",
                 "url": "https://github.com/mfussenegger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49149872?u=c74348fe0e27019696075d5e4ea4b6bfa0032529&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Clippy.nvim is a very simple Neovim plugin that let's you manage your clipboard inside Neovim. I guess it also doubles as a bad note-taking plugin</div>",
-            "url": "https://github.com/petersid2022/clippy.nvim",
-            "title": "petersid2022/clippy.nvim: Clippy.nvim is a very simple Neovim plugin that let's you manage your clipboard inside Neovim. I guess it also doubles as a bad note-taking plugin",
-            "date_modified": "2024-02-26T21:36:56.000Z",
-            "date_published": "2024-02-24T20:23:18.000Z",
-            "author": {
-                "name": "petersid2022",
-                "url": "https://github.com/petersid2022"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
-            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
-            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-02-28T15:42:03.000Z",
-            "date_published": "2023-11-01T17:40:49.000Z",
-            "author": {
-                "name": "wojciech-kulik",
-                "url": "https://github.com/wojciech-kulik"
             }
         }
     ]
