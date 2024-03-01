@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-03-01T15:08:59.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1144308?u=5072cdee7f7770548de0ad1816e243a990152582&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extension for nvim-dap to provide C, C++ and Rust debugging support.</div>",
+            "url": "https://github.com/julianolf/nvim-dap-lldb",
+            "title": "julianolf/nvim-dap-lldb: An extension for nvim-dap to provide C, C++ and Rust debugging support.",
+            "date_modified": "2024-03-01T05:35:17.000Z",
+            "date_published": "2024-03-01T05:21:23.000Z",
+            "author": {
+                "name": "julianolf",
+                "url": "https://github.com/julianolf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-03-01T14:30:45.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47951455?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for Dodona.</div>",
+            "url": "https://github.com/xerbalind/dodona.nvim",
+            "title": "xerbalind/dodona.nvim: A neovim plugin for Dodona.",
+            "date_modified": "2024-02-18T17:10:32.000Z",
+            "date_published": "2022-03-26T09:21:20.000Z",
+            "author": {
+                "name": "xerbalind",
+                "url": "https://github.com/xerbalind"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109964512?u=a5a7fee244dcc8b62eb19f85bdabd887a322176e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minimal neovim plugin for markdown underlined titles</div>",
             "url": "https://github.com/thjbdvlt/underlowne.nvim",
             "title": "thjbdvlt/underlowne.nvim: minimal neovim plugin for markdown underlined titles",
@@ -97,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/919935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to create code images using the external silicon tool.</div>",
             "url": "https://github.com/michaelrommel/nvim-silicon",
             "title": "michaelrommel/nvim-silicon: neovim plugin to create code images using the external silicon tool.",
-            "date_modified": "2024-03-01T11:53:09.000Z",
+            "date_modified": "2024-03-01T14:35:03.000Z",
             "date_published": "2023-05-02T23:57:21.000Z",
             "author": {
                 "name": "michaelrommel",
@@ -152,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
             "url": "https://github.com/stevearc/conform.nvim",
             "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-03-01T13:57:46.000Z",
+            "date_modified": "2024-03-01T14:11:38.000Z",
             "date_published": "2023-08-25T03:31:42.000Z",
             "author": {
                 "name": "stevearc",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82267684?u=4ebe86e71117697244081c1863d81312978362d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Color picker and highlighter plugin for Neovim.</div>",
-            "url": "https://github.com/uga-rosa/ccc.nvim",
-            "title": "uga-rosa/ccc.nvim: Color picker and highlighter plugin for Neovim.",
-            "date_modified": "2024-03-01T08:43:50.000Z",
-            "date_published": "2022-09-13T19:33:58.000Z",
-            "author": {
-                "name": "uga-rosa",
-                "url": "https://github.com/uga-rosa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
-            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
-            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-02-29T18:53:52.000Z",
-            "date_published": "2023-11-01T17:40:49.000Z",
-            "author": {
-                "name": "wojciech-kulik",
-                "url": "https://github.com/wojciech-kulik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93905215?u=47567e0f6b4d08125f1e4fddd87ae380c1ae73ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Goethe is a NeoVim plugin that allows users to persist changes in their color theme without changing their config. It also provides the ability to override highlight groups when switching between themes.</div>",
-            "url": "https://github.com/JasonBoyett/Goethe.nvim",
-            "title": "JasonBoyett/Goethe.nvim: Goethe is a NeoVim plugin that allows users to persist changes in their color theme without changing their config. It also provides the ability to override highlight groups when switching between themes.",
-            "date_modified": "2024-03-01T10:30:36.000Z",
-            "date_published": "2024-02-24T19:09:24.000Z",
-            "author": {
-                "name": "JasonBoyett",
-                "url": "https://github.com/JasonBoyett"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108037606?u=ee6a10c77867f0b2cd3af891c5f4f16a33375222&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal, contrast-based, dark &amp; light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
-            "url": "https://github.com/cuencapablo/rosebones",
-            "title": "cuencapablo/rosebones: A minimal, contrast-based, dark & light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
-            "date_modified": "2024-03-01T06:28:07.000Z",
-            "date_published": "2024-03-01T06:15:30.000Z",
-            "author": {
-                "name": "cuencapablo",
-                "url": "https://github.com/cuencapablo"
             }
         }
     ]
