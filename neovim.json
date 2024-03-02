@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123221625?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config files for Neovim with plugins suited for writing in Latex</div>",
+            "url": "https://github.com/vaughntastic77/Neovim-Config",
+            "title": "vaughntastic77/Neovim-Config: Config files for Neovim with plugins suited for writing in Latex",
+            "date_modified": "2023-03-17T02:18:36.000Z",
+            "date_published": "2023-02-24T19:36:13.000Z",
+            "author": {
+                "name": "vaughntastic77",
+                "url": "https://github.com/vaughntastic77"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5246169?u=bab2efeafb274d7193fb804926948822bf1f6010&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terminal UI to chat with large language models (LLM) using different model backends, and with a plugin for Neovim!</div>",
+            "url": "https://github.com/dustinblackman/oatmeal.nvim",
+            "title": "dustinblackman/oatmeal.nvim: Terminal UI to chat with large language models (LLM) using different model backends, and with a plugin for Neovim!",
+            "date_modified": "2024-02-27T19:51:25.000Z",
+            "date_published": "2023-11-06T21:47:26.000Z",
+            "author": {
+                "name": "dustinblackman",
+                "url": "https://github.com/dustinblackman"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128321469?u=9e4c7dd1bd8fd4542d38e183ae7a20992978c98b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal Neovim configurations are tailored to integrate numerous plugins, including Copilot, Treesitter, and live servers for languages such as Go, Rust, C++, and more.</div>",
+            "url": "https://github.com/iZackk26/neovim-configs",
+            "title": "iZackk26/neovim-configs: My personal Neovim configurations are tailored to integrate numerous plugins, including Copilot, Treesitter, and live servers for languages such as Go, Rust, C++, and more.",
+            "date_modified": "2023-12-19T16:01:43.000Z",
+            "date_published": "2023-08-09T04:45:01.000Z",
+            "author": {
+                "name": "iZackk26",
+                "url": "https://github.com/iZackk26"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13450321?u=59d0536ac9dab80004e5a72b81a5927c0e5e0f44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to check and display whether your machine have human rights.</div>",
             "url": "https://github.com/mimikun/human-rights.nvim",
             "title": "mimikun/human-rights.nvim: A neovim plugin to check and display whether your machine have human rights.",
@@ -163,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2467016?u=cd5964e6618c6438d1fd32c8d76aeda559fae37b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tagging important files</div>",
             "url": "https://github.com/cbochs/grapple.nvim",
             "title": "cbochs/grapple.nvim: Neovim plugin for tagging important files",
-            "date_modified": "2024-03-01T23:11:00.000Z",
+            "date_modified": "2024-03-02T01:57:11.000Z",
             "date_published": "2022-10-24T04:18:27.000Z",
             "author": {
                 "name": "cbochs",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "stevearc",
                 "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12110261?u=529909fe745e6276e1ed3ad18d87026d5feb044e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to quickly open the GitHub page of the file you're currently editing, directly at the cursor's line.</div>",
-            "url": "https://github.com/lobkovilya/gh-browse.nvim",
-            "title": "lobkovilya/gh-browse.nvim: Neovim plugin that allows you to quickly open the GitHub page of the file you're currently editing, directly at the cursor's line.",
-            "date_modified": "2024-03-01T22:06:54.000Z",
-            "date_published": "2024-03-01T20:37:25.000Z",
-            "author": {
-                "name": "lobkovilya",
-                "url": "https://github.com/lobkovilya"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65048415?u=293bfbd91ef928d31f70eb7c55de8dc981ebf655&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Treesitter powered js and ts utilities as a Neovim Plugin</div>",
-            "url": "https://github.com/ianjkaplan/shrub.nvim",
-            "title": "ianjkaplan/shrub.nvim: Treesitter powered js and ts utilities as a Neovim Plugin",
-            "date_modified": "2024-02-29T03:00:05.000Z",
-            "date_published": "2024-02-27T22:14:05.000Z",
-            "author": {
-                "name": "ianjkaplan",
-                "url": "https://github.com/ianjkaplan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93905215?u=47567e0f6b4d08125f1e4fddd87ae380c1ae73ad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Goethe is a NeoVim plugin that allows users to persist changes in their color theme without changing their config. It also provides the ability to override highlight groups when switching between themes.</div>",
-            "url": "https://github.com/JasonBoyett/Goethe.nvim",
-            "title": "JasonBoyett/Goethe.nvim: Goethe is a NeoVim plugin that allows users to persist changes in their color theme without changing their config. It also provides the ability to override highlight groups when switching between themes.",
-            "date_modified": "2024-03-01T10:30:36.000Z",
-            "date_published": "2024-02-24T19:09:24.000Z",
-            "author": {
-                "name": "JasonBoyett",
-                "url": "https://github.com/JasonBoyett"
             }
         }
     ]
