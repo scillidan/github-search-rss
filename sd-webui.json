@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39589598?u=ab6bac536e40395fea1d542c3d675f566293c02a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](<a href=\"https://github.com/viyiviyi/sd-encrypt-image\">https://github.com/viyiviyi/sd-encrypt-image</a>) ；加密方式：使用密码哈希值打乱像素顺序</div>",
+            "url": "https://github.com/viyiviyi/encrypt_gallery",
+            "title": "viyiviyi/encrypt_gallery: 一个自选文件夹的相册软件，可以对图片进行加密解密，主要是作为sd-webui的加密插件的配套解密软件，方便在手机端解密和查看图片。可以在不解密的情况下查看图片，并且进行整理或裁剪。可以批量加密或解密，用于上传加密图片防止某些云平台封号。如果需要los、mac、linux版本，需要在对应平台自行编译。sd-webui加密插件地址：[sd-encrypt-image](https://github.com/viyiviyi/sd-encrypt-image) ；加密方式：使用密码哈希值打乱像素顺序",
+            "date_modified": "2024-02-10T23:13:15.000Z",
+            "date_published": "2023-12-16T16:49:33.000Z",
+            "author": {
+                "name": "viyiviyi",
+                "url": "https://github.com/viyiviyi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/963961?u=1d0c1c0868696fd4483f6f550472560b3f7f1b5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checker of \"enable\" statuses in SD Web UI</div>",
             "url": "https://github.com/shirayu/sd-webui-enable-checker",
             "title": "shirayu/sd-webui-enable-checker: Checker of \"enable\" statuses in SD Web UI",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pnwinkler",
                 "url": "https://github.com/pnwinkler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
-            "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
-            "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
-            "date_modified": "2024-03-01T14:30:06.000Z",
-            "date_published": "2023-08-28T10:46:27.000Z",
-            "author": {
-                "name": "aigc-apps",
-                "url": "https://github.com/aigc-apps"
             }
         }
     ]
