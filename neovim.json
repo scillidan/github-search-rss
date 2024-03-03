@@ -6,6 +6,17 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28717?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that allows you to toggle test blocks on/off.</div>",
+            "url": "https://github.com/cange/specto.nvim",
+            "title": "cange/specto.nvim: A Neovim plugin that allows you to toggle test blocks on/off.",
+            "date_modified": "2024-03-03T20:53:47.000Z",
+            "date_published": "2023-11-05T12:30:29.000Z",
+            "author": {
+                "name": "cange",
+                "url": "https://github.com/cange"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1144308?u=5072cdee7f7770548de0ad1816e243a990152582&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extension for nvim-dap to provide C, C++ and Rust debugging support.</div>",
             "url": "https://github.com/julianolf/nvim-dap-lldb",
             "title": "julianolf/nvim-dap-lldb: An extension for nvim-dap to provide C, C++ and Rust debugging support.",
@@ -14,6 +25,28 @@
             "author": {
                 "name": "julianolf",
                 "url": "https://github.com/julianolf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9725449?u=cd8aa6b1094e6fe68df6b0d91d5b281b63f7b96a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to display live Jest test results and diagnostics directly in your buffer</div>",
+            "url": "https://github.com/nhurlock/clownshow.nvim",
+            "title": "nhurlock/clownshow.nvim: Neovim plugin to display live Jest test results and diagnostics directly in your buffer",
+            "date_modified": "2023-03-21T04:52:43.000Z",
+            "date_published": "2023-03-18T20:15:12.000Z",
+            "author": {
+                "name": "nhurlock",
+                "url": "https://github.com/nhurlock"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
+            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
+            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
+            "date_modified": "2024-03-03T22:35:19.000Z",
+            "date_published": "2023-11-01T17:40:49.000Z",
+            "author": {
+                "name": "wojciech-kulik",
+                "url": "https://github.com/wojciech-kulik"
             }
         },
         {
@@ -31,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26099427?u=b3dd3acee623ceb11f473c74c45905d738720ad3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highlight colors for neovim</div>",
             "url": "https://github.com/brenoprata10/nvim-highlight-colors",
             "title": "brenoprata10/nvim-highlight-colors: Highlight colors for neovim",
-            "date_modified": "2024-03-03T20:22:15.000Z",
+            "date_modified": "2024-03-03T22:25:52.000Z",
             "date_published": "2022-07-17T11:09:45.000Z",
             "author": {
                 "name": "brenoprata10",
@@ -47,17 +80,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
-            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
-            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-03-03T21:55:19.000Z",
-            "date_published": "2023-11-01T17:40:49.000Z",
-            "author": {
-                "name": "wojciech-kulik",
-                "url": "https://github.com/wojciech-kulik"
             }
         },
         {
@@ -80,17 +102,6 @@
             "author": {
                 "name": "kawre",
                 "url": "https://github.com/kawre"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9725449?u=cd8aa6b1094e6fe68df6b0d91d5b281b63f7b96a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to display live Jest test results and diagnostics directly in your buffer</div>",
-            "url": "https://github.com/nhurlock/clownshow.nvim",
-            "title": "nhurlock/clownshow.nvim: Neovim plugin to display live Jest test results and diagnostics directly in your buffer",
-            "date_modified": "2023-03-21T04:52:43.000Z",
-            "date_published": "2023-03-18T20:15:12.000Z",
-            "author": {
-                "name": "nhurlock",
-                "url": "https://github.com/nhurlock"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "mbetim",
                 "url": "https://github.com/mbetim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-03-02T03:42:29.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
             }
         }
     ]
