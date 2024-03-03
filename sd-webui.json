@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129350308?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SD-WebUI 简体中文翻译扩展 Simplified Chinese Localization for AUTOMATIC1111 Stable Diffusion WebUI</div>",
+            "url": "https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans",
+            "title": "hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans: SD-WebUI 简体中文翻译扩展 Simplified Chinese Localization for AUTOMATIC1111 Stable Diffusion WebUI",
+            "date_modified": "2024-03-03T12:14:38.000Z",
+            "date_published": "2023-02-25T04:48:34.000Z",
+            "author": {
+                "name": "hanamizuki-ai",
+                "url": "https://github.com/hanamizuki-ai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A very simple A1111 extension that returns inpainted images with transparent pixels in place of the region not masked.</div>",
+            "url": "https://github.com/John-WL/sd-webui-alpha-mask",
+            "title": "John-WL/sd-webui-alpha-mask: A very simple A1111 extension that returns inpainted images with transparent pixels in place of the region not masked.",
+            "date_modified": "2024-02-15T03:14:20.000Z",
+            "date_published": "2024-02-10T21:14:57.000Z",
+            "author": {
+                "name": "John-WL",
+                "url": "https://github.com/John-WL"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A1111 extension to find the inpaint mask to use based on the difference between two images.</div>",
             "url": "https://github.com/John-WL/sd-webui-inpaint-difference",
             "title": "John-WL/sd-webui-inpaint-difference: A1111 extension to find the inpaint mask to use based on the difference between two images.",
@@ -31,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tab for sd-webui for replacing objects in picture using detection prompt</div>",
             "url": "https://github.com/light-and-ray/sd-webui-replacer",
             "title": "light-and-ray/sd-webui-replacer: A tab for sd-webui for replacing objects in picture using detection prompt",
-            "date_modified": "2024-03-02T08:18:15.000Z",
+            "date_modified": "2024-03-03T16:33:48.000Z",
             "date_published": "2023-11-06T10:09:24.000Z",
             "author": {
                 "name": "light-and-ray",
@@ -171,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129350308?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SD-WebUI 简体中文翻译扩展 Simplified Chinese Localization for AUTOMATIC1111 Stable Diffusion WebUI</div>",
-            "url": "https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans",
-            "title": "hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans: SD-WebUI 简体中文翻译扩展 Simplified Chinese Localization for AUTOMATIC1111 Stable Diffusion WebUI",
-            "date_modified": "2024-03-03T12:14:38.000Z",
-            "date_published": "2023-02-25T04:48:34.000Z",
-            "author": {
-                "name": "hanamizuki-ai",
-                "url": "https://github.com/hanamizuki-ai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15909062?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>generate prompt randomly</div>",
             "url": "https://github.com/tritant/sd-webui-creaprompt",
             "title": "tritant/sd-webui-creaprompt: generate prompt randomly",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AG-w",
                 "url": "https://github.com/AG-w"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66118290?u=401b229690a2094d86821b434744a9f675816e61&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The extension allows you to specify Lora or Lyco weight from context menu.</div>",
-            "url": "https://github.com/nihedon/sd-webui-weight-helper",
-            "title": "nihedon/sd-webui-weight-helper: The extension allows you to specify Lora or Lyco weight from context menu.",
-            "date_modified": "2024-03-01T16:39:08.000Z",
-            "date_published": "2023-09-07T17:03:54.000Z",
-            "author": {
-                "name": "nihedon",
-                "url": "https://github.com/nihedon"
             }
         }
     ]
