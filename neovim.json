@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1144308?u=5072cdee7f7770548de0ad1816e243a990152582&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extension for nvim-dap to provide C, C++ and Rust debugging support.</div>",
+            "url": "https://github.com/julianolf/nvim-dap-lldb",
+            "title": "julianolf/nvim-dap-lldb: An extension for nvim-dap to provide C, C++ and Rust debugging support.",
+            "date_modified": "2024-03-03T05:14:39.000Z",
+            "date_published": "2024-03-01T05:21:23.000Z",
+            "author": {
+                "name": "julianolf",
+                "url": "https://github.com/julianolf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15918021?u=f7b68af007a0dd9b2809f2b3623622fd4d8d6be7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config with plugins</div>",
+            "url": "https://github.com/malex37/nvim-config",
+            "title": "malex37/nvim-config: Neovim config with plugins",
+            "date_modified": "2023-09-08T18:01:21.000Z",
+            "date_published": "2023-09-08T17:57:23.000Z",
+            "author": {
+                "name": "malex37",
+                "url": "https://github.com/malex37"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2467016?u=cd5964e6618c6438d1fd32c8d76aeda559fae37b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tagging important files</div>",
             "url": "https://github.com/cbochs/grapple.nvim",
             "title": "cbochs/grapple.nvim: Neovim plugin for tagging important files",
@@ -72,6 +94,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24727447?u=25e76c57be01004cd9898ebe65175f90f318b79b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more</div>",
+            "url": "https://github.com/numToStr/Comment.nvim",
+            "title": "numToStr/Comment.nvim: :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",
+            "date_modified": "2024-03-04T22:07:50.000Z",
+            "date_published": "2021-10-02T10:22:43.000Z",
+            "author": {
+                "name": "numToStr",
+                "url": "https://github.com/numToStr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An example of a luarocks plugin for Neovim.</div>",
             "url": "https://github.com/nvim-neorocks/sample-luarocks-plugin",
             "title": "nvim-neorocks/sample-luarocks-plugin: An example of a luarocks plugin for Neovim.",
@@ -86,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
             "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
             "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-03-04T12:58:35.000Z",
+            "date_modified": "2024-03-04T22:24:33.000Z",
             "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
                 "name": "wojciech-kulik",
@@ -97,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
             "url": "https://github.com/mrcjkb/rustaceanvim",
             "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-03-04T19:21:30.000Z",
+            "date_modified": "2024-03-04T22:26:05.000Z",
             "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
                 "name": "mrcjkb",
@@ -108,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
             "url": "https://github.com/R-nvim/R.nvim",
             "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
-            "date_modified": "2024-03-04T19:08:44.000Z",
+            "date_modified": "2024-03-04T23:08:35.000Z",
             "date_published": "2024-01-22T20:23:10.000Z",
             "author": {
                 "name": "R-nvim",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "linrongbin16",
                 "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
-            "url": "https://github.com/mfussenegger/nvim-lint",
-            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-03-04T17:19:39.000Z",
-            "date_published": "2021-02-14T11:18:45.000Z",
-            "author": {
-                "name": "mfussenegger",
-                "url": "https://github.com/mfussenegger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8222059?u=43b8eaedd695cb434f7480e2c8f9ae31ab41d7b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fortune plugin for neovim</div>",
-            "url": "https://github.com/rubiin/fortune.nvim",
-            "title": "rubiin/fortune.nvim: A fortune plugin for neovim",
-            "date_modified": "2024-02-28T17:30:57.000Z",
-            "date_published": "2024-01-20T07:59:03.000Z",
-            "author": {
-                "name": "rubiin",
-                "url": "https://github.com/rubiin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20575896?u=d21d60f6b46eebbb032dbf986a787982a37a3927&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A personalized Neovim configuration for an optimized and efficient coding experience. Includes a curated set of plugins and custom key mappings. 🦊</div>",
-            "url": "https://github.com/alitokur/fox-project",
-            "title": "alitokur/fox-project: A personalized Neovim configuration for an optimized and efficient coding experience. Includes a curated set of plugins and custom key mappings. :fox_face:",
-            "date_modified": "2023-09-03T21:00:41.000Z",
-            "date_published": "2022-12-25T14:15:06.000Z",
-            "author": {
-                "name": "alitokur",
-                "url": "https://github.com/alitokur"
             }
         }
     ]
