@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An example of a luarocks plugin for Neovim.</div>",
+            "url": "https://github.com/nvim-neorocks/sample-luarocks-plugin",
+            "title": "nvim-neorocks/sample-luarocks-plugin: An example of a luarocks plugin for Neovim.",
+            "date_modified": "2024-01-15T17:14:00.000Z",
+            "date_published": "2023-10-03T13:14:11.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2467016?u=cd5964e6618c6438d1fd32c8d76aeda559fae37b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tagging important files</div>",
+            "url": "https://github.com/cbochs/grapple.nvim",
+            "title": "cbochs/grapple.nvim: Neovim plugin for tagging important files",
+            "date_modified": "2024-03-04T11:46:34.000Z",
+            "date_published": "2022-10-24T04:18:27.000Z",
+            "author": {
+                "name": "cbochs",
+                "url": "https://github.com/cbochs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
+            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
+            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
+            "date_modified": "2024-03-04T12:58:35.000Z",
+            "date_published": "2023-11-01T17:40:49.000Z",
+            "author": {
+                "name": "wojciech-kulik",
+                "url": "https://github.com/wojciech-kulik"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
             "url": "https://github.com/mrcjkb/rustaceanvim",
             "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-03-04T16:18:40.000Z",
+            "date_modified": "2024-03-04T17:55:20.000Z",
             "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
                 "name": "mrcjkb",
@@ -50,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2467016?u=cd5964e6618c6438d1fd32c8d76aeda559fae37b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tagging important files</div>",
-            "url": "https://github.com/cbochs/grapple.nvim",
-            "title": "cbochs/grapple.nvim: Neovim plugin for tagging important files",
-            "date_modified": "2024-03-04T11:46:34.000Z",
-            "date_published": "2022-10-24T04:18:27.000Z",
-            "author": {
-                "name": "cbochs",
-                "url": "https://github.com/cbochs"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
             "url": "https://github.com/lbrayner/init.lua",
             "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
@@ -69,6 +91,17 @@
             "author": {
                 "name": "lbrayner",
                 "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-03-04T17:28:04.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
             }
         },
         {
@@ -102,6 +135,17 @@
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lint",
+            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+            "date_modified": "2024-03-04T17:19:39.000Z",
+            "date_published": "2021-02-14T11:18:45.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
             }
         },
         {
@@ -141,11 +185,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26099427?u=b3dd3acee623ceb11f473c74c45905d738720ad3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highlight colors for neovim</div>",
             "url": "https://github.com/brenoprata10/nvim-highlight-colors",
             "title": "brenoprata10/nvim-highlight-colors: Highlight colors for neovim",
-            "date_modified": "2024-03-04T15:44:59.000Z",
+            "date_modified": "2024-03-04T17:28:03.000Z",
             "date_published": "2022-07-17T11:09:45.000Z",
             "author": {
                 "name": "brenoprata10",
                 "url": "https://github.com/brenoprata10"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "date_modified": "2024-03-04T18:03:53.000Z",
+            "date_published": "2021-12-12T13:38:23.000Z",
+            "author": {
+                "name": "nvim-neo-tree",
+                "url": "https://github.com/nvim-neo-tree"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "nvim-lualine",
                 "url": "https://github.com/nvim-lualine"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
-            "url": "https://github.com/disrupted/dotfiles",
-            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
-            "date_modified": "2024-03-04T10:15:43.000Z",
-            "date_published": "2020-08-18T11:47:17.000Z",
-            "author": {
-                "name": "disrupted",
-                "url": "https://github.com/disrupted"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33206148?u=cb4c0533058b83bd8f07be4a3a9f96c1476a5eed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for perforce</div>",
-            "url": "https://github.com/SrMrBurchick/perforce.nvim",
-            "title": "SrMrBurchick/perforce.nvim: Neovim plugin for perforce",
-            "date_modified": "2022-10-17T15:37:52.000Z",
-            "date_published": "2022-10-17T13:24:58.000Z",
-            "author": {
-                "name": "SrMrBurchick",
-                "url": "https://github.com/SrMrBurchick"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36218691?u=520d7c6611763592bb16d16b4323493d17b58a4b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📁 File explorer plugin for Vim/Neovim</div>",
-            "url": "https://github.com/obaland/vfiler.vim",
-            "title": "obaland/vfiler.vim: :file_folder: File explorer plugin for Vim/Neovim",
-            "date_modified": "2024-03-02T06:35:08.000Z",
-            "date_published": "2018-02-22T03:12:25.000Z",
-            "author": {
-                "name": "obaland",
-                "url": "https://github.com/obaland"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79692462?u=ab5c2cc72938cf6068f152a3f9159de7e5d84c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Learning about Neovim plugins</div>",
-            "url": "https://github.com/kilavila/whid",
-            "title": "kilavila/whid: Learning about Neovim plugins",
-            "date_modified": "2024-03-03T20:04:13.000Z",
-            "date_published": "2024-03-03T19:59:52.000Z",
-            "author": {
-                "name": "kilavila",
-                "url": "https://github.com/kilavila"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Load all the ultra colorschemes into Neovim player!</div>",
-            "url": "https://github.com/linrongbin16/colorbox.nvim",
-            "title": "linrongbin16/colorbox.nvim: Load all the ultra colorschemes into Neovim player!",
-            "date_modified": "2024-02-20T08:00:34.000Z",
-            "date_published": "2023-03-03T01:03:56.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
             }
         }
     ]
