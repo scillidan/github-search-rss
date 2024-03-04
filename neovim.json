@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8222059?u=43b8eaedd695cb434f7480e2c8f9ae31ab41d7b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fortune plugin for neovim</div>",
+            "url": "https://github.com/rubiin/fortune.nvim",
+            "title": "rubiin/fortune.nvim: A fortune plugin for neovim",
+            "date_modified": "2024-02-28T17:30:57.000Z",
+            "date_published": "2024-01-20T07:59:03.000Z",
+            "author": {
+                "name": "rubiin",
+                "url": "https://github.com/rubiin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20575896?u=d21d60f6b46eebbb032dbf986a787982a37a3927&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A personalized Neovim configuration for an optimized and efficient coding experience. Includes a curated set of plugins and custom key mappings. 🦊</div>",
+            "url": "https://github.com/alitokur/fox-project",
+            "title": "alitokur/fox-project: A personalized Neovim configuration for an optimized and efficient coding experience. Includes a curated set of plugins and custom key mappings. :fox_face:",
+            "date_modified": "2023-09-03T21:00:41.000Z",
+            "date_published": "2022-12-25T14:15:06.000Z",
+            "author": {
+                "name": "alitokur",
+                "url": "https://github.com/alitokur"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11977524?u=65c38749cbe7f7711ec7602029d04978b4a66f1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that lets you build custom commands to automate parts of your development workflow</div>",
+            "url": "https://github.com/arjunmahishi/flow.nvim",
+            "title": "arjunmahishi/flow.nvim: A neovim plugin that lets you build custom commands to automate parts of your development workflow",
+            "date_modified": "2024-03-03T04:57:01.000Z",
+            "date_published": "2021-11-16T18:16:25.000Z",
+            "author": {
+                "name": "arjunmahishi",
+                "url": "https://github.com/arjunmahishi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-02-06T15:18:44.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26099427?u=b3dd3acee623ceb11f473c74c45905d738720ad3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highlight colors for neovim</div>",
+            "url": "https://github.com/brenoprata10/nvim-highlight-colors",
+            "title": "brenoprata10/nvim-highlight-colors: Highlight colors for neovim",
+            "date_modified": "2024-03-04T11:09:33.000Z",
+            "date_published": "2022-07-17T11:09:45.000Z",
+            "author": {
+                "name": "brenoprata10",
+                "url": "https://github.com/brenoprata10"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
             "url": "https://github.com/R-nvim/R.nvim",
             "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
@@ -50,14 +105,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26099427?u=b3dd3acee623ceb11f473c74c45905d738720ad3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highlight colors for neovim</div>",
-            "url": "https://github.com/brenoprata10/nvim-highlight-colors",
-            "title": "brenoprata10/nvim-highlight-colors: Highlight colors for neovim",
-            "date_modified": "2024-03-04T11:09:33.000Z",
-            "date_published": "2022-07-17T11:09:45.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-03-04T13:33:06.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
-                "name": "brenoprata10",
-                "url": "https://github.com/brenoprata10"
+                "name": "neovim",
+                "url": "https://github.com/neovim"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "AstroNvim",
                 "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/185988?u=32ad066c1044d6be65fb64cfc91175d4ba7a6877&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for using Google Gemini APIs</div>",
-            "url": "https://github.com/meinside/gemini.nvim",
-            "title": "meinside/gemini.nvim: A neovim plugin for using Google Gemini APIs",
-            "date_modified": "2024-03-01T02:10:01.000Z",
-            "date_published": "2024-02-28T04:47:09.000Z",
-            "author": {
-                "name": "meinside",
-                "url": "https://github.com/meinside"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23030894?u=af3689d06f2cd7b46b94d39dfe3bdd2b334d61e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim plugins and configurations files.</div>",
-            "url": "https://github.com/duylamasd/nvim-dotfiles",
-            "title": "duylamasd/nvim-dotfiles: My Neovim plugins and configurations files.",
-            "date_modified": "2022-04-23T18:00:57.000Z",
-            "date_published": "2021-12-20T04:25:47.000Z",
-            "author": {
-                "name": "duylamasd",
-                "url": "https://github.com/duylamasd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30994438?u=d4294528bd82615b5d7893218de35b6361ca58a2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/blacken57/BrazilPackageNeovimPlugin",
-            "title": "blacken57/BrazilPackageNeovimPlugin",
-            "date_modified": "2024-03-02T14:16:02.000Z",
-            "date_published": "2024-03-02T13:46:18.000Z",
-            "author": {
-                "name": "blacken57",
-                "url": "https://github.com/blacken57"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
-            "url": "https://github.com/lervag/vimtex",
-            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
-            "date_modified": "2024-03-03T21:56:23.000Z",
-            "date_published": "2013-10-05T11:55:11.000Z",
-            "author": {
-                "name": "lervag",
-                "url": "https://github.com/lervag"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
-            "url": "https://github.com/Iron-E/nvim-highlite",
-            "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
-            "date_modified": "2024-02-22T20:01:54.000Z",
-            "date_published": "2020-06-19T22:42:23.000Z",
-            "author": {
-                "name": "Iron-E",
-                "url": "https://github.com/Iron-E"
             }
         }
     ]
