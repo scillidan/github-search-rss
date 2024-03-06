@@ -6,6 +6,39 @@
     "description": "datasette on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official project website for Datasette</div>",
+            "url": "https://github.com/simonw/datasette.io",
+            "title": "simonw/datasette.io: The official project website for Datasette",
+            "date_modified": "2024-02-01T19:56:06.000Z",
+            "date_published": "2020-06-22T18:29:44.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archive PyPI JSON information for all Datasette related packages</div>",
+            "url": "https://github.com/simonw/pypi-datasette-packages",
+            "title": "simonw/pypi-datasette-packages: Archive PyPI JSON information for all Datasette related packages",
+            "date_modified": "2024-02-11T04:28:46.000Z",
+            "date_published": "2022-04-07T19:34:54.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139249755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin showing uptime at /-/uptime</div>",
+            "url": "https://github.com/datasette/datasette-uptime",
+            "title": "datasette/datasette-uptime: Datasette plugin showing uptime at /-/uptime",
+            "date_modified": "2024-03-06T05:28:42.000Z",
+            "date_published": "2024-03-06T05:10:08.000Z",
+            "author": {
+                "name": "datasette",
+                "url": "https://github.com/datasette"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6523121?u=017448c52d1fee302f9c1f38f12ff60e5a1d0935&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>legal data in machine-readable form</div>",
             "url": "https://github.com/hueyy/lacuna-db",
             "title": "hueyy/lacuna-db: legal data in machine-readable form",
@@ -64,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Today I Learned</div>",
             "url": "https://github.com/simonw/til",
             "title": "simonw/til: Today I Learned",
-            "date_modified": "2024-03-06T04:46:13.000Z",
+            "date_modified": "2024-03-06T05:36:56.000Z",
             "date_published": "2020-04-19T14:35:59.000Z",
             "author": {
                 "name": "simonw",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "falkben",
                 "url": "https://github.com/falkben"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/363004?u=ac4270a4f305065989340daa4f69999c56681168&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adds qrz user fields to rows with {{ callsign }}</div>",
-            "url": "https://github.com/hcarter333/datasette-enrichments-qrz",
-            "title": "hcarter333/datasette-enrichments-qrz: Adds qrz user fields to rows with {{ callsign }}",
-            "date_modified": "2024-01-11T04:33:02.000Z",
-            "date_published": "2024-01-11T04:15:43.000Z",
-            "author": {
-                "name": "hcarter333",
-                "url": "https://github.com/hcarter333"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archive PyPI JSON information for all Datasette related packages</div>",
-            "url": "https://github.com/simonw/pypi-datasette-packages",
-            "title": "simonw/pypi-datasette-packages: Archive PyPI JSON information for all Datasette related packages",
-            "date_modified": "2024-02-11T04:28:46.000Z",
-            "date_published": "2022-04-07T19:34:54.000Z",
-            "author": {
-                "name": "simonw",
-                "url": "https://github.com/simonw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin to expose selected environment variables at /-/env for debugging</div>",
-            "url": "https://github.com/simonw/datasette-expose-env",
-            "title": "simonw/datasette-expose-env: Datasette plugin to expose selected environment variables at /-/env for debugging",
-            "date_modified": "2022-07-06T13:28:57.000Z",
-            "date_published": "2022-07-03T21:14:29.000Z",
-            "author": {
-                "name": "simonw",
-                "url": "https://github.com/simonw"
             }
         }
     ]
