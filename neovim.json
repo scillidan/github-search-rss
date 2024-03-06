@@ -6,14 +6,25 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93373310?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugins for Neovim configuration</div>",
-            "url": "https://github.com/chichieinstein/nvimhelper",
-            "title": "chichieinstein/nvimhelper: Plugins for Neovim configuration",
-            "date_modified": "2024-03-04T10:48:01.000Z",
-            "date_published": "2024-01-03T19:03:12.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
+            "title": "LongerHV/neovim-plugins-overlay",
+            "date_modified": "2023-08-20T22:40:05.000Z",
+            "date_published": "2022-12-22T21:42:57.000Z",
             "author": {
-                "name": "chichieinstein",
-                "url": "https://github.com/chichieinstein"
+                "name": "LongerHV",
+                "url": "https://github.com/LongerHV"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
+            "title": "yutkat/new-neovim-plugin-rss",
+            "date_modified": "2024-02-09T05:27:13.000Z",
+            "date_published": "2022-08-28T04:58:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
             }
         },
         {
@@ -25,6 +36,28 @@
             "author": {
                 "name": "julianolf",
                 "url": "https://github.com/julianolf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93373310?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugins for Neovim configuration</div>",
+            "url": "https://github.com/chichieinstein/nvimhelper",
+            "title": "chichieinstein/nvimhelper: Plugins for Neovim configuration",
+            "date_modified": "2024-03-04T10:48:01.000Z",
+            "date_published": "2024-01-03T19:03:12.000Z",
+            "author": {
+                "name": "chichieinstein",
+                "url": "https://github.com/chichieinstein"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
+            "url": "https://github.com/Iron-E/nvim-highlite",
+            "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
+            "date_modified": "2024-02-22T20:01:54.000Z",
+            "date_published": "2020-06-19T22:42:23.000Z",
+            "author": {
+                "name": "Iron-E",
+                "url": "https://github.com/Iron-E"
             }
         },
         {
@@ -119,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3729908?u=a4f4aeada6cba17c7176ccd128676ba276d36238&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config</div>",
             "url": "https://github.com/wbthomason/packer.nvim",
             "title": "wbthomason/packer.nvim: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",
-            "date_modified": "2024-03-05T21:39:12.000Z",
+            "date_modified": "2024-03-06T00:13:44.000Z",
             "date_published": "2017-11-19T06:36:02.000Z",
             "author": {
                 "name": "wbthomason",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "RANK1ZEN",
                 "url": "https://github.com/RANK1ZEN"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
-            "url": "https://github.com/Iron-E/nvim-highlite",
-            "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
-            "date_modified": "2024-02-22T20:01:54.000Z",
-            "date_published": "2020-06-19T22:42:23.000Z",
-            "author": {
-                "name": "Iron-E",
-                "url": "https://github.com/Iron-E"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33206148?u=cb4c0533058b83bd8f07be4a3a9f96c1476a5eed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for perforce</div>",
-            "url": "https://github.com/SrMrBurchick/perforce.nvim",
-            "title": "SrMrBurchick/perforce.nvim: Neovim plugin for perforce",
-            "date_modified": "2022-10-17T15:37:52.000Z",
-            "date_published": "2022-10-17T13:24:58.000Z",
-            "author": {
-                "name": "SrMrBurchick",
-                "url": "https://github.com/SrMrBurchick"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-02-06T15:18:44.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
             }
         }
     ]
