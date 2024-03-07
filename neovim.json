@@ -6,14 +6,25 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-02-06T15:18:44.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
+            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
+            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
+            "date_modified": "2024-03-07T03:10:28.000Z",
+            "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
+                "name": "wojciech-kulik",
+                "url": "https://github.com/wojciech-kulik"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-03-02T03:42:29.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
             }
         },
         {
@@ -25,6 +36,17 @@
             "author": {
                 "name": "kharl112",
                 "url": "https://github.com/kharl112"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-02-06T15:18:44.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
             }
         },
         {
@@ -72,6 +94,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1009936?u=cbc13f23c6019e24ef42ab323a8ce51f325aa885&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to generate text using LLMs with customizable prompts</div>",
+            "url": "https://github.com/David-Kunz/gen.nvim",
+            "title": "David-Kunz/gen.nvim: Neovim plugin to generate text using LLMs with customizable prompts",
+            "date_modified": "2024-03-07T14:37:06.000Z",
+            "date_published": "2023-09-30T09:28:53.000Z",
+            "author": {
+                "name": "David-Kunz",
+                "url": "https://github.com/David-Kunz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30765406?u=887cd8d8b75e75b609d7d5f5ad58ece2f2f82dde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin for groom</div>",
             "url": "https://github.com/pspiagicw/groom.nvim",
             "title": "pspiagicw/groom.nvim: Neovim Plugin for groom",
@@ -108,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-03-07T13:35:57.000Z",
+            "date_modified": "2024-03-07T14:26:27.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "cuencapablo",
                 "url": "https://github.com/cuencapablo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.</div>",
-            "url": "https://github.com/linrongbin16/gitlinker.nvim",
-            "title": "linrongbin16/gitlinker.nvim: Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.",
-            "date_modified": "2024-03-01T20:14:50.000Z",
-            "date_published": "2023-02-18T12:55:10.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/870029?u=cc065539910207b6661bbabba39a9e78294e251d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.</div>",
-            "url": "https://github.com/jellydn/hurl.nvim",
-            "title": "jellydn/hurl.nvim: Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.",
-            "date_modified": "2024-03-07T04:29:14.000Z",
-            "date_published": "2023-10-21T01:37:42.000Z",
-            "author": {
-                "name": "jellydn",
-                "url": "https://github.com/jellydn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3979584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental Sourcegraph + Cody plugin for Neovim</div>",
-            "url": "https://github.com/sourcegraph/sg.nvim",
-            "title": "sourcegraph/sg.nvim: Experimental Sourcegraph + Cody plugin for Neovim",
-            "date_modified": "2024-03-06T15:53:19.000Z",
-            "date_published": "2021-02-19T02:15:19.000Z",
-            "author": {
-                "name": "sourcegraph",
-                "url": "https://github.com/sourcegraph"
             }
         }
     ]
