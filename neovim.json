@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.</div>",
+            "url": "https://github.com/linrongbin16/gitlinker.nvim",
+            "title": "linrongbin16/gitlinker.nvim: Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.",
+            "date_modified": "2024-03-01T20:14:50.000Z",
+            "date_published": "2023-02-18T12:55:10.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108037606?u=ee6a10c77867f0b2cd3af891c5f4f16a33375222&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal, contrast-based, dark &amp; light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
+            "url": "https://github.com/cuencapablo/rosebones",
+            "title": "cuencapablo/rosebones: A minimal, contrast-based, dark & light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
+            "date_modified": "2024-03-02T05:02:21.000Z",
+            "date_published": "2024-03-01T06:15:30.000Z",
+            "author": {
+                "name": "cuencapablo",
+                "url": "https://github.com/cuencapablo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2023-07-21T16:19:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/870029?u=cc065539910207b6661bbabba39a9e78294e251d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.</div>",
+            "url": "https://github.com/jellydn/hurl.nvim",
+            "title": "jellydn/hurl.nvim: Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.",
+            "date_modified": "2024-03-07T04:29:14.000Z",
+            "date_published": "2023-10-21T01:37:42.000Z",
+            "author": {
+                "name": "jellydn",
+                "url": "https://github.com/jellydn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3979584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental Sourcegraph + Cody plugin for Neovim</div>",
+            "url": "https://github.com/sourcegraph/sg.nvim",
+            "title": "sourcegraph/sg.nvim: Experimental Sourcegraph + Cody plugin for Neovim",
+            "date_modified": "2024-03-06T15:53:19.000Z",
+            "date_published": "2021-02-19T02:15:19.000Z",
+            "author": {
+                "name": "sourcegraph",
+                "url": "https://github.com/sourcegraph"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25164326?u=b8bf114665db61e45b4ec105df4846395f85db1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Visual git plugin for Neovim</div>",
             "url": "https://github.com/tanvirtin/vgit.nvim",
             "title": "tanvirtin/vgit.nvim: Visual git plugin for Neovim",
@@ -25,17 +80,6 @@
             "author": {
                 "name": "bwpge",
                 "url": "https://github.com/bwpge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108037606?u=ee6a10c77867f0b2cd3af891c5f4f16a33375222&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal, contrast-based, dark &amp; light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
-            "url": "https://github.com/cuencapablo/rosebones",
-            "title": "cuencapablo/rosebones: A minimal, contrast-based, dark & light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
-            "date_modified": "2024-03-02T05:02:21.000Z",
-            "date_published": "2024-03-01T06:15:30.000Z",
-            "author": {
-                "name": "cuencapablo",
-                "url": "https://github.com/cuencapablo"
             }
         },
         {
@@ -102,17 +146,6 @@
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2023-07-21T16:19:56.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "prurigro",
                 "url": "https://github.com/prurigro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81622310?u=8ee3886b225663be87541064bd2abfda359810d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.</div>",
-            "url": "https://github.com/AlexvZyl/nordic.nvim",
-            "title": "AlexvZyl/nordic.nvim: 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.",
-            "date_modified": "2024-03-06T16:01:18.000Z",
-            "date_published": "2023-01-21T15:54:53.000Z",
-            "author": {
-                "name": "AlexvZyl",
-                "url": "https://github.com/AlexvZyl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48186681?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that parses markdown files for code blocks and write them into seperate code files.</div>",
-            "url": "https://github.com/APlatner/markdown-tangle.nvim",
-            "title": "APlatner/markdown-tangle.nvim: A Neovim plugin that parses markdown files for code blocks and write them into seperate code files.",
-            "date_modified": "2024-01-28T11:53:09.000Z",
-            "date_published": "2023-11-18T16:52:33.000Z",
-            "author": {
-                "name": "APlatner",
-                "url": "https://github.com/APlatner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54027611?u=68817977b67f09086620311fac282f5b54eb754f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A customizable Neovim plugin to run code inside the editor</div>",
-            "url": "https://github.com/MarcHamamji/runner.nvim",
-            "title": "MarcHamamji/runner.nvim: A customizable Neovim plugin to run code inside the editor",
-            "date_modified": "2024-02-24T09:59:42.000Z",
-            "date_published": "2023-02-03T10:41:37.000Z",
-            "author": {
-                "name": "MarcHamamji",
-                "url": "https://github.com/MarcHamamji"
             }
         }
     ]
