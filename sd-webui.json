@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114889020?u=0c7cf262036e7273be8bffa5571156353a5c8b95&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Token Downsampling optimization for stable-diffusion-webui</div>",
+            "url": "https://github.com/feffy380/sd-webui-token-downsampling",
+            "title": "feffy380/sd-webui-token-downsampling: Token Downsampling optimization for stable-diffusion-webui",
+            "date_modified": "2024-03-08T21:44:00.000Z",
+            "date_published": "2024-03-08T21:43:59.000Z",
+            "author": {
+                "name": "feffy380",
+                "url": "https://github.com/feffy380"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.</div>",
             "url": "https://github.com/canonical/sdcore-webui-k8s-operator",
             "title": "canonical/sdcore-webui-k8s-operator: A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.",
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37621276?u=cd9adbd464534b7ee67ae34ebbbf2b6092a66a7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto detecting, masking and inpainting with detection model.</div>",
             "url": "https://github.com/Bing-su/adetailer",
             "title": "Bing-su/adetailer: Auto detecting, masking and inpainting with detection model.",
-            "date_modified": "2024-03-08T18:51:29.000Z",
+            "date_modified": "2024-03-08T21:31:51.000Z",
             "date_published": "2023-04-26T07:54:51.000Z",
             "author": {
                 "name": "Bing-su",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ss0201",
                 "url": "https://github.com/ss0201"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34081873?u=88ff32465020d7f4cdb7b4b09ee5635f13001e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A very simple A1111 extension that returns inpainted images with transparent pixels in place of the region not masked.</div>",
-            "url": "https://github.com/John-WL/sd-webui-alpha-mask",
-            "title": "John-WL/sd-webui-alpha-mask: A very simple A1111 extension that returns inpainted images with transparent pixels in place of the region not masked.",
-            "date_modified": "2024-03-06T14:57:23.000Z",
-            "date_published": "2024-02-10T21:14:57.000Z",
-            "author": {
-                "name": "John-WL",
-                "url": "https://github.com/John-WL"
             }
         }
     ]
