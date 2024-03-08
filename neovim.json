@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35686555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config using lazy.nvim as plugin manager</div>",
+            "url": "https://github.com/thomasmethrayil/nvim-config",
+            "title": "thomasmethrayil/nvim-config: Neovim config using lazy.nvim as plugin manager",
+            "date_modified": "2024-02-28T09:59:33.000Z",
+            "date_published": "2024-02-28T09:57:22.000Z",
+            "author": {
+                "name": "thomasmethrayil",
+                "url": "https://github.com/thomasmethrayil"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3590639?u=0857f5f3ad3700492460021efa89fad512ef2ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for C# extensions</div>",
+            "url": "https://github.com/aHulswitt36/csharp-extensions",
+            "title": "aHulswitt36/csharp-extensions: Neovim plugin for C# extensions",
+            "date_modified": "2024-03-08T11:52:22.000Z",
+            "date_published": "2024-03-08T11:52:22.000Z",
+            "author": {
+                "name": "aHulswitt36",
+                "url": "https://github.com/aHulswitt36"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17291988?u=051ed5b577d65c97849f092f8367d125365018d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Habu-Kagumba/neovim-plugin-tutorial",
+            "title": "Habu-Kagumba/neovim-plugin-tutorial",
+            "date_modified": "2024-03-08T11:30:02.000Z",
+            "date_published": "2024-03-08T11:30:02.000Z",
+            "author": {
+                "name": "Habu-Kagumba",
+                "url": "https://github.com/Habu-Kagumba"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
+            "url": "https://github.com/R-nvim/R.nvim",
+            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
+            "date_modified": "2024-03-07T18:46:14.000Z",
+            "date_published": "2024-01-22T20:23:10.000Z",
+            "author": {
+                "name": "R-nvim",
+                "url": "https://github.com/R-nvim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/380756?u=3f6e255e7c8177bca560e0ddbc398572617bdb81&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An experimental Kafka plugin for Neovim.</div>",
             "url": "https://github.com/krisajenkins/telescope-kafka.nvim",
             "title": "krisajenkins/telescope-kafka.nvim: An experimental Kafka plugin for Neovim.",
@@ -86,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-03-08T08:15:09.000Z",
+            "date_modified": "2024-03-08T11:26:11.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "prurigro",
                 "url": "https://github.com/prurigro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.</div>",
-            "url": "https://github.com/linrongbin16/gitlinker.nvim",
-            "title": "linrongbin16/gitlinker.nvim: Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.",
-            "date_modified": "2024-03-01T20:14:50.000Z",
-            "date_published": "2023-02-18T12:55:10.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
-            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
-            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-03-08T09:36:31.000Z",
-            "date_published": "2023-11-01T17:40:49.000Z",
-            "author": {
-                "name": "wojciech-kulik",
-                "url": "https://github.com/wojciech-kulik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89097798?u=af32167d470da1bf9d0357584cf569070c23e7fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Welcome to my Neovim setup, where I've gathered everything I need to edit text and code just the way I like it. You'll find plugins, shortcuts, and a visually pleasing theme that I adore. Feel free to explore and customize your own Neovim to your heart's content!</div>",
-            "url": "https://github.com/sebasruiz09/nvim",
-            "title": "sebasruiz09/nvim: Welcome to my Neovim setup, where I've gathered everything I need to edit text and code just the way I like it. You'll find plugins, shortcuts, and a visually pleasing theme that I adore. Feel free to explore and customize your own Neovim to your heart's content!",
-            "date_modified": "2023-12-23T14:08:35.000Z",
-            "date_published": "2022-10-22T01:09:07.000Z",
-            "author": {
-                "name": "sebasruiz09",
-                "url": "https://github.com/sebasruiz09"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
-            "title": "LongerHV/neovim-plugins-overlay",
-            "date_modified": "2023-08-20T22:40:05.000Z",
-            "date_published": "2022-12-22T21:42:57.000Z",
-            "author": {
-                "name": "LongerHV",
-                "url": "https://github.com/LongerHV"
             }
         }
     ]
