@@ -6,17 +6,6 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13258416?u=56494cbf8df877fc4aa59c28e7b9507ac9c24bdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple neovim plugin for refactoring code </div>",
-            "url": "https://github.com/tiyashbasu/refactor.nvim",
-            "title": "tiyashbasu/refactor.nvim: A simple neovim plugin for refactoring code ",
-            "date_modified": "2024-03-10T12:21:01.000Z",
-            "date_published": "2024-03-10T11:30:02.000Z",
-            "author": {
-                "name": "tiyashbasu",
-                "url": "https://github.com/tiyashbasu"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to update your current distro from its github remote</div>",
             "url": "https://github.com/Zeioth/distroupdate.nvim",
             "title": "Zeioth/distroupdate.nvim: Neovim plugin to update your current distro from its github remote",
@@ -39,10 +28,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46505033?u=de0c2e507f2ee8fabad0eb24b23a7dd510e25f3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to sort based on visual block mode</div>",
+            "url": "https://github.com/BrendanArmstrong1/sortvis.nvim",
+            "title": "BrendanArmstrong1/sortvis.nvim: neovim plugin to sort based on visual block mode",
+            "date_modified": "2024-03-10T19:43:32.000Z",
+            "date_published": "2024-03-10T19:42:58.000Z",
+            "author": {
+                "name": "BrendanArmstrong1",
+                "url": "https://github.com/BrendanArmstrong1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13258416?u=56494cbf8df877fc4aa59c28e7b9507ac9c24bdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple neovim plugin for refactoring code </div>",
+            "url": "https://github.com/tiyashbasu/refactor.nvim",
+            "title": "tiyashbasu/refactor.nvim: A simple neovim plugin for refactoring code ",
+            "date_modified": "2024-03-10T12:21:01.000Z",
+            "date_published": "2024-03-10T11:30:02.000Z",
+            "author": {
+                "name": "tiyashbasu",
+                "url": "https://github.com/tiyashbasu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41967813?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling neovim plugin written in lua</div>",
             "url": "https://github.com/karb94/neoscroll.nvim",
             "title": "karb94/neoscroll.nvim: Smooth scrolling neovim plugin written in lua",
-            "date_modified": "2024-03-10T06:38:15.000Z",
+            "date_modified": "2024-03-10T19:08:14.000Z",
             "date_published": "2021-03-27T20:45:17.000Z",
             "author": {
                 "name": "karb94",
@@ -94,6 +105,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-03-10T19:50:57.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/929659?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for painless keyboard layout switches</div>",
             "url": "https://github.com/fullpipe/xkbswitch.nvim",
             "title": "fullpipe/xkbswitch.nvim: neovim plugin for painless keyboard layout switches",
@@ -102,6 +124,17 @@
             "author": {
                 "name": "fullpipe",
                 "url": "https://github.com/fullpipe"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-03-10T19:35:48.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "burgr033",
                 "url": "https://github.com/burgr033"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79692462?u=ab5c2cc72938cf6068f152a3f9159de7e5d84c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to copy and paste text</div>",
-            "url": "https://github.com/kilavila/nvim-yoink",
-            "title": "kilavila/nvim-yoink: Simple Neovim plugin to copy and paste text",
-            "date_modified": "2024-03-10T12:59:42.000Z",
-            "date_published": "2024-03-08T18:21:06.000Z",
-            "author": {
-                "name": "kilavila",
-                "url": "https://github.com/kilavila"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226654?u=42669bdd5c052036c28e36f704d0252339629ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Activate is a plugin installation system for Neovim</div>",
-            "url": "https://github.com/roobert/activate.nvim",
-            "title": "roobert/activate.nvim: 🚀 Activate is a plugin installation system for Neovim",
-            "date_modified": "2024-03-10T09:01:57.000Z",
-            "date_published": "2023-09-06T21:22:57.000Z",
-            "author": {
-                "name": "roobert",
-                "url": "https://github.com/roobert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-03-10T18:57:55.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
             }
         }
     ]
