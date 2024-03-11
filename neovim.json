@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
+            "url": "https://github.com/yutkat/my-neovim-pluginlist",
+            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
+            "date_modified": "2024-03-10T12:44:11.000Z",
+            "date_published": "2022-04-17T14:53:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
+            "title": "yutkat/new-neovim-plugin-with-category-rss",
+            "date_modified": "2023-08-11T07:03:24.000Z",
+            "date_published": "2023-05-24T19:57:02.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to update your current distro from its github remote</div>",
+            "url": "https://github.com/Zeioth/distroupdate.nvim",
+            "title": "Zeioth/distroupdate.nvim: Neovim plugin to update your current distro from its github remote",
+            "date_modified": "2024-03-11T01:53:22.000Z",
+            "date_published": "2024-01-23T16:34:38.000Z",
+            "author": {
+                "name": "Zeioth",
+                "url": "https://github.com/Zeioth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83467288?u=24b69cdc32f52ddbea8b1ff1707caf47a69661d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin for NetSuite</div>",
             "url": "https://github.com/tf-nick/ns_sdf",
             "title": "tf-nick/ns_sdf: Neovim Plugin for NetSuite",
@@ -14,6 +47,17 @@
             "author": {
                 "name": "tf-nick",
                 "url": "https://github.com/tf-nick"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-03-08T00:01:41.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -36,6 +80,17 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-03-11T01:56:18.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
             }
         },
         {
@@ -69,6 +124,17 @@
             "author": {
                 "name": "sergiornelas",
                 "url": "https://github.com/sergiornelas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133131317?u=c17a35cfa87fdf518d5cd346cbe99a6cfbad98a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gittory is a NeoVim plugin written in Lua that changes your working directory to the root of your project if you use Git. It is useful to use with Telescope and Harpoon, depending on your needs and workflow.</div>",
+            "url": "https://github.com/IsWladi/Gittory",
+            "title": "IsWladi/Gittory: Gittory is a NeoVim plugin written in Lua that changes your working directory to the root of your project if you use Git. It is useful to use with Telescope and Harpoon, depending on your needs and workflow.",
+            "date_modified": "2024-03-11T01:55:18.000Z",
+            "date_published": "2023-09-08T01:59:18.000Z",
+            "author": {
+                "name": "IsWladi",
+                "url": "https://github.com/IsWladi"
             }
         },
         {
@@ -108,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
             "url": "https://github.com/stevearc/conform.nvim",
             "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-03-11T01:02:24.000Z",
+            "date_modified": "2024-03-11T02:02:10.000Z",
             "date_published": "2023-08-25T03:31:42.000Z",
             "author": {
                 "name": "stevearc",
@@ -127,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to update your current distro from its github remote</div>",
-            "url": "https://github.com/Zeioth/distroupdate.nvim",
-            "title": "Zeioth/distroupdate.nvim: Neovim plugin to update your current distro from its github remote",
-            "date_modified": "2024-02-12T01:29:21.000Z",
-            "date_published": "2024-01-23T16:34:38.000Z",
-            "author": {
-                "name": "Zeioth",
-                "url": "https://github.com/Zeioth"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13258416?u=56494cbf8df877fc4aa59c28e7b9507ac9c24bdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple neovim plugin for refactoring code </div>",
             "url": "https://github.com/tiyashbasu/refactor.nvim",
             "title": "tiyashbasu/refactor.nvim: A simple neovim plugin for refactoring code ",
@@ -146,17 +201,6 @@
             "author": {
                 "name": "tiyashbasu",
                 "url": "https://github.com/tiyashbasu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-03-10T19:35:48.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
             }
         },
         {
@@ -171,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-03-08T00:01:41.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60556553?u=d4e2d4d64f86e0f0916a9378bcb139819facf12f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository showcases my personal dotfiles, including i3 config, neovim configurations, zsh plugins, and more.</div>",
             "url": "https://github.com/fotscode/dotfiles",
             "title": "fotscode/dotfiles: This repository showcases my personal dotfiles, including i3 config, neovim configurations, zsh plugins, and more.",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "fotscode",
                 "url": "https://github.com/fotscode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/110783051?u=c08610a5f586d93815a17a4d0321a78ee1dab6af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple neovim plugin for coloring brackets</div>",
-            "url": "https://github.com/SomersetBlake/Dye-Brackets",
-            "title": "SomersetBlake/Dye-Brackets: Simple neovim plugin for coloring brackets",
-            "date_modified": "2024-03-10T14:20:42.000Z",
-            "date_published": "2024-03-09T16:24:57.000Z",
-            "author": {
-                "name": "SomersetBlake",
-                "url": "https://github.com/SomersetBlake"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19779372?u=1db5764948f5d8ae5a687ddd9e6a221b081a0cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for previewing markdown presentations using Marp.</div>",
-            "url": "https://github.com/thmshmm/marp-preview.nvim",
-            "title": "thmshmm/marp-preview.nvim: Neovim plugin for previewing markdown presentations using Marp.",
-            "date_modified": "2024-03-11T01:34:21.000Z",
-            "date_published": "2024-03-09T11:34:36.000Z",
-            "author": {
-                "name": "thmshmm",
-                "url": "https://github.com/thmshmm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A list of vim/neovim plugins(/extensions for plugins)</div>",
-            "url": "https://github.com/altermo/vim-plugin-list",
-            "title": "altermo/vim-plugin-list: A list of vim/neovim plugins(/extensions for plugins)",
-            "date_modified": "2024-03-09T01:08:46.000Z",
-            "date_published": "2022-06-20T05:56:40.000Z",
-            "author": {
-                "name": "altermo",
-                "url": "https://github.com/altermo"
             }
         }
     ]
