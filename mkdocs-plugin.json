@@ -6,6 +6,17 @@
     "description": "mkdocs plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3431813?u=6b77e50c540c93540eb376fc2ffd2af0c461e19c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A MkDocs plugin that lets you exclude/include docs files using globs, regexes, gitignore-style file and Markdown/FrontMatter tags metadata.</div>",
+            "url": "https://github.com/DariuszPorowski/mkdocs-file-filter-plugin",
+            "title": "DariuszPorowski/mkdocs-file-filter-plugin: A MkDocs plugin that lets you exclude/include docs files using globs, regexes, gitignore-style file and Markdown/FrontMatter tags metadata.",
+            "date_modified": "2023-09-29T16:50:53.000Z",
+            "date_published": "2023-02-01T20:21:43.000Z",
+            "author": {
+                "name": "DariuszPorowski",
+                "url": "https://github.com/DariuszPorowski"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76561516?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.</div>",
             "url": "https://github.com/monosans/mkdocs-minify-html-plugin",
             "title": "monosans/mkdocs-minify-html-plugin: MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fralau",
                 "url": "https://github.com/fralau"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1596222?u=d592209a20254bc71f5595cc14a1f7151f6d5d1c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).</div>",
-            "url": "https://github.com/Guts/mkdocs-rss-plugin",
-            "title": "Guts/mkdocs-rss-plugin: MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).",
-            "date_modified": "2024-01-28T06:54:13.000Z",
-            "date_published": "2020-07-06T13:48:11.000Z",
-            "author": {
-                "name": "Guts",
-                "url": "https://github.com/Guts"
             }
         }
     ]
