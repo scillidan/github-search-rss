@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-02-06T15:18:44.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2416122?u=fe1ac631e4e14da4a8d15e0d2b4579329f6dda79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Plugin: Effortless Natural Language Generation with LLM API </div>",
+            "url": "https://github.com/huynle/ogpt.nvim",
+            "title": "huynle/ogpt.nvim: Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Plugin: Effortless Natural Language Generation with LLM API ",
+            "date_modified": "2024-03-10T16:20:30.000Z",
+            "date_published": "2023-11-21T10:45:26.000Z",
+            "author": {
+                "name": "huynle",
+                "url": "https://github.com/huynle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
+            "url": "https://github.com/nvim-lualine/lualine.nvim",
+            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+            "date_modified": "2024-03-11T15:08:13.000Z",
+            "date_published": "2020-12-30T14:35:10.000Z",
+            "author": {
+                "name": "nvim-lualine",
+                "url": "https://github.com/nvim-lualine"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41177205?u=0ea2c1e4b0808c836edb69e6afa66942466339d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A stripped down VimWiki for neovim</div>",
+            "url": "https://github.com/serenevoid/kiwi.nvim",
+            "title": "serenevoid/kiwi.nvim: A stripped down VimWiki for neovim",
+            "date_modified": "2024-03-07T22:02:22.000Z",
+            "date_published": "2023-07-13T05:10:06.000Z",
+            "author": {
+                "name": "serenevoid",
+                "url": "https://github.com/serenevoid"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
             "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
             "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
-            "date_modified": "2024-03-10T12:35:28.000Z",
+            "date_modified": "2024-03-11T14:09:33.000Z",
             "date_published": "2024-03-10T11:54:02.000Z",
             "author": {
                 "name": "ttak0422",
@@ -61,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2416122?u=fe1ac631e4e14da4a8d15e0d2b4579329f6dda79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Plugin: Effortless Natural Language Generation with LLM API </div>",
-            "url": "https://github.com/huynle/ogpt.nvim",
-            "title": "huynle/ogpt.nvim: Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Plugin: Effortless Natural Language Generation with LLM API ",
-            "date_modified": "2024-03-10T16:20:30.000Z",
-            "date_published": "2023-11-21T10:45:26.000Z",
-            "author": {
-                "name": "huynle",
-                "url": "https://github.com/huynle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79692462?u=ab5c2cc72938cf6068f152a3f9159de7e5d84c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to copy and paste text</div>",
             "url": "https://github.com/kilavila/nvim-yoink",
             "title": "kilavila/nvim-yoink: Simple Neovim plugin to copy and paste text",
@@ -116,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
-            "url": "https://github.com/nvim-lualine/lualine.nvim",
-            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
-            "date_modified": "2024-03-11T12:00:47.000Z",
-            "date_published": "2020-12-30T14:35:10.000Z",
-            "author": {
-                "name": "nvim-lualine",
-                "url": "https://github.com/nvim-lualine"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20575896?u=d21d60f6b46eebbb032dbf986a787982a37a3927&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A personalized Neovim configuration for an optimized and efficient coding experience. Includes a curated set of plugins and custom key mappings. 🦊</div>",
             "url": "https://github.com/alitokur/fox-project",
             "title": "alitokur/fox-project: A personalized Neovim configuration for an optimized and efficient coding experience. Includes a curated set of plugins and custom key mappings. :fox_face:",
@@ -135,6 +157,17 @@
             "author": {
                 "name": "alitokur",
                 "url": "https://github.com/alitokur"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-03-11T14:16:01.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
             }
         },
         {
@@ -152,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81622310?u=8ee3886b225663be87541064bd2abfda359810d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.</div>",
             "url": "https://github.com/AlexvZyl/nordic.nvim",
             "title": "AlexvZyl/nordic.nvim: 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.",
-            "date_modified": "2024-03-10T05:14:33.000Z",
+            "date_modified": "2024-03-11T14:26:42.000Z",
             "date_published": "2023-01-21T15:54:53.000Z",
             "author": {
                 "name": "AlexvZyl",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "tamton-aquib",
                 "url": "https://github.com/tamton-aquib"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93373310?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugins for Neovim configuration</div>",
-            "url": "https://github.com/chichieinstein/nvimhelper",
-            "title": "chichieinstein/nvimhelper: Plugins for Neovim configuration",
-            "date_modified": "2024-03-04T10:48:01.000Z",
-            "date_published": "2024-01-03T19:03:12.000Z",
-            "author": {
-                "name": "chichieinstein",
-                "url": "https://github.com/chichieinstein"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fzf fuzzy finder that updates on every keystroke of user query and selection.</div>",
-            "url": "https://github.com/linrongbin16/fzfx.nvim",
-            "title": "linrongbin16/fzfx.nvim: A fzf fuzzy finder that updates on every keystroke of user query and selection.",
-            "date_modified": "2024-02-26T08:21:06.000Z",
-            "date_published": "2023-07-26T09:58:20.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42797252?u=bfe6e73912104afa384f69eecc2d2befe3dcb66d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Incredible fast Neovim set up. It has all the plugins and configurations you need to develop React.js applications.</div>",
-            "url": "https://github.com/sergiornelas/nvim",
-            "title": "sergiornelas/nvim: Incredible fast Neovim set up. It has all the plugins and configurations you need to develop React.js applications.",
-            "date_modified": "2022-11-17T20:42:03.000Z",
-            "date_published": "2021-12-25T08:00:56.000Z",
-            "author": {
-                "name": "sergiornelas",
-                "url": "https://github.com/sergiornelas"
             }
         }
     ]
