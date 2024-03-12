@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins for Luarocks.",
+            "date_modified": "2024-03-10T00:44:42.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=d4d067be13fcf48269faaa76ff1e80048f619d34&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for calling APIs (REST and GraphQL)  written in Lua</div>",
+            "url": "https://github.com/javiorfo/nvim-ship",
+            "title": "javiorfo/nvim-ship: Neovim plugin for calling APIs (REST and GraphQL)  written in Lua",
+            "date_modified": "2024-02-16T15:11:22.000Z",
+            "date_published": "2023-02-02T02:24:49.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-03-08T00:01:41.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3979584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental Sourcegraph + Cody plugin for Neovim</div>",
             "url": "https://github.com/sourcegraph/sg.nvim",
             "title": "sourcegraph/sg.nvim: Experimental Sourcegraph + Cody plugin for Neovim",
-            "date_modified": "2024-03-12T16:56:09.000Z",
+            "date_modified": "2024-03-12T17:11:43.000Z",
             "date_published": "2021-02-19T02:15:19.000Z",
             "author": {
                 "name": "sourcegraph",
@@ -28,6 +61,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
+            "url": "https://github.com/nvim-lualine/lualine.nvim",
+            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+            "date_modified": "2024-03-12T17:19:20.000Z",
+            "date_published": "2020-12-30T14:35:10.000Z",
+            "author": {
+                "name": "nvim-lualine",
+                "url": "https://github.com/nvim-lualine"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create new \"modes\" for Neovim!</div>",
             "url": "https://github.com/Iron-E/nvim-libmodal",
             "title": "Iron-E/nvim-libmodal: Create new \"modes\" for Neovim!",
@@ -36,17 +80,6 @@
             "author": {
                 "name": "Iron-E",
                 "url": "https://github.com/Iron-E"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins for Luarocks.",
-            "date_modified": "2024-03-10T00:44:42.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
             }
         },
         {
@@ -127,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-03-08T00:01:41.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "BrendanArmstrong1",
                 "url": "https://github.com/BrendanArmstrong1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36243570?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to open an external browser for a web search with currently selected text.</div>",
-            "url": "https://github.com/ulf-westermann/websearch.nvim",
-            "title": "ulf-westermann/websearch.nvim: Neovim plugin to open an external browser for a web search with currently selected text.",
-            "date_modified": "2024-03-12T07:10:18.000Z",
-            "date_published": "2024-03-11T22:32:26.000Z",
-            "author": {
-                "name": "ulf-westermann",
-                "url": "https://github.com/ulf-westermann"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/132918?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that send stuff into REPL</div>",
-            "url": "https://github.com/liborw/replsend.nvim",
-            "title": "liborw/replsend.nvim: Neovim plugin that send stuff into REPL",
-            "date_modified": "2023-01-30T21:14:32.000Z",
-            "date_published": "2018-10-31T15:27:27.000Z",
-            "author": {
-                "name": "liborw",
-                "url": "https://github.com/liborw"
             }
         }
     ]
