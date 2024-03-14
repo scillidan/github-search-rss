@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin template </div>",
-            "url": "https://github.com/mistricky/nvim-plugin-template",
-            "title": "mistricky/nvim-plugin-template: Neovim plugin template ",
-            "date_modified": "2024-03-08T13:57:00.000Z",
-            "date_published": "2024-02-07T05:35:41.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-02-06T15:18:44.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
             "author": {
-                "name": "mistricky",
-                "url": "https://github.com/mistricky"
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lint",
+            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+            "date_modified": "2024-03-14T12:37:46.000Z",
+            "date_published": "2021-02-14T11:18:45.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49614335?u=63c7f20d22824635107e51f2abb623b5f9f8634f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dataform Core Plugin for Neovim</div>",
+            "url": "https://github.com/magal1337/dataform.nvim",
+            "title": "magal1337/dataform.nvim: Dataform Core Plugin for Neovim",
+            "date_modified": "2024-03-12T19:31:39.000Z",
+            "date_published": "2024-03-12T01:28:10.000Z",
+            "author": {
+                "name": "magal1337",
+                "url": "https://github.com/magal1337"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3979584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental Sourcegraph + Cody plugin for Neovim</div>",
+            "url": "https://github.com/sourcegraph/sg.nvim",
+            "title": "sourcegraph/sg.nvim: Experimental Sourcegraph + Cody plugin for Neovim",
+            "date_modified": "2024-03-14T16:51:39.000Z",
+            "date_published": "2021-02-19T02:15:19.000Z",
+            "author": {
+                "name": "sourcegraph",
+                "url": "https://github.com/sourcegraph"
             }
         },
         {
@@ -28,14 +61,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34254373?u=743f971be68bf4f3bcfaefa0bff9305673f50b3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow</div>",
-            "url": "https://github.com/CRAG666/code_runner.nvim",
-            "title": "CRAG666/code_runner.nvim: Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow",
-            "date_modified": "2024-03-13T20:04:02.000Z",
-            "date_published": "2021-04-26T05:50:33.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
+            "url": "https://github.com/Iron-E/nvim-highlite",
+            "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
+            "date_modified": "2024-03-09T09:32:41.000Z",
+            "date_published": "2020-06-19T22:42:23.000Z",
             "author": {
-                "name": "CRAG666",
-                "url": "https://github.com/CRAG666"
+                "name": "Iron-E",
+                "url": "https://github.com/Iron-E"
             }
         },
         {
@@ -47,6 +80,28 @@
             "author": {
                 "name": "GitMarkedDan",
                 "url": "https://github.com/GitMarkedDan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin template </div>",
+            "url": "https://github.com/mistricky/nvim-plugin-template",
+            "title": "mistricky/nvim-plugin-template: Neovim plugin template ",
+            "date_modified": "2024-03-08T13:57:00.000Z",
+            "date_published": "2024-02-07T05:35:41.000Z",
+            "author": {
+                "name": "mistricky",
+                "url": "https://github.com/mistricky"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34254373?u=743f971be68bf4f3bcfaefa0bff9305673f50b3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow</div>",
+            "url": "https://github.com/CRAG666/code_runner.nvim",
+            "title": "CRAG666/code_runner.nvim: Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow",
+            "date_modified": "2024-03-13T20:04:02.000Z",
+            "date_published": "2021-04-26T05:50:33.000Z",
+            "author": {
+                "name": "CRAG666",
+                "url": "https://github.com/CRAG666"
             }
         },
         {
@@ -69,28 +124,6 @@
             "author": {
                 "name": "jdrupal-dev",
                 "url": "https://github.com/jdrupal-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
-            "url": "https://github.com/Iron-E/nvim-highlite",
-            "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
-            "date_modified": "2024-03-09T09:32:41.000Z",
-            "date_published": "2020-06-19T22:42:23.000Z",
-            "author": {
-                "name": "Iron-E",
-                "url": "https://github.com/Iron-E"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-02-06T15:18:44.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
             }
         },
         {
@@ -138,14 +171,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3979584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental Sourcegraph + Cody plugin for Neovim</div>",
-            "url": "https://github.com/sourcegraph/sg.nvim",
-            "title": "sourcegraph/sg.nvim: Experimental Sourcegraph + Cody plugin for Neovim",
-            "date_modified": "2024-03-14T14:33:50.000Z",
-            "date_published": "2021-02-19T02:15:19.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22454918?u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim lua plugin to help easily manage multiple terminal windows</div>",
+            "url": "https://github.com/akinsho/toggleterm.nvim",
+            "title": "akinsho/toggleterm.nvim: A neovim lua plugin to help easily manage multiple terminal windows",
+            "date_modified": "2024-03-14T17:06:04.000Z",
+            "date_published": "2020-08-17T17:33:39.000Z",
             "author": {
-                "name": "sourcegraph",
-                "url": "https://github.com/sourcegraph"
+                "name": "akinsho",
+                "url": "https://github.com/akinsho"
             }
         },
         {
@@ -171,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
-            "url": "https://github.com/mfussenegger/nvim-lint",
-            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-03-14T12:37:46.000Z",
-            "date_published": "2021-02-14T11:18:45.000Z",
-            "author": {
-                "name": "mfussenegger",
-                "url": "https://github.com/mfussenegger"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16238750?u=6cba43545967c4ee9ffc2f52692e9a9aa44d4d29&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>small neovim plugin to replace netrw with lf terminal file manager</div>",
             "url": "https://github.com/behzade/lf.nvim",
             "title": "behzade/lf.nvim: small neovim plugin to replace netrw with lf terminal file manager",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ttak0422",
                 "url": "https://github.com/ttak0422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81622310?u=8ee3886b225663be87541064bd2abfda359810d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.</div>",
-            "url": "https://github.com/AlexvZyl/nordic.nvim",
-            "title": "AlexvZyl/nordic.nvim: 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.",
-            "date_modified": "2024-03-14T13:02:39.000Z",
-            "date_published": "2023-01-21T15:54:53.000Z",
-            "author": {
-                "name": "AlexvZyl",
-                "url": "https://github.com/AlexvZyl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/870029?u=cc065539910207b6661bbabba39a9e78294e251d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.</div>",
-            "url": "https://github.com/jellydn/hurl.nvim",
-            "title": "jellydn/hurl.nvim: Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.",
-            "date_modified": "2024-03-13T14:38:04.000Z",
-            "date_published": "2023-10-21T01:37:42.000Z",
-            "author": {
-                "name": "jellydn",
-                "url": "https://github.com/jellydn"
             }
         }
     ]
