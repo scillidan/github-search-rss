@@ -6,6 +6,28 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
+            "url": "https://github.com/zhongfly/mpv-winbuild",
+            "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
+            "date_modified": "2024-03-13T15:18:31.000Z",
+            "date_published": "2021-10-01T08:09:13.000Z",
+            "author": {
+                "name": "zhongfly",
+                "url": "https://github.com/zhongfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9623615?u=6bc92bc0db35022227a3730d8644d1ef06e3f0d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> CMake-based MinGW-w64 Cross Toolchain </div>",
+            "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
+            "title": "shinchiro/mpv-winbuild-cmake:  CMake-based MinGW-w64 Cross Toolchain ",
+            "date_modified": "2024-03-13T15:24:36.000Z",
+            "date_published": "2018-07-15T11:58:39.000Z",
+            "author": {
+                "name": "shinchiro",
+                "url": "https://github.com/shinchiro"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49836124?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于Qt和mpv的音视频播放器。</div>",
             "url": "https://github.com/RealChuan/Qt-Mpv",
             "title": "RealChuan/Qt-Mpv: 基于Qt和mpv的音视频播放器。",
@@ -64,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136995448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📼 play musics with command line</div>",
             "url": "https://github.com/Malwarize/retro",
             "title": "Malwarize/retro: 📼 play musics with command line",
-            "date_modified": "2024-03-11T01:03:22.000Z",
+            "date_modified": "2024-03-14T11:36:52.000Z",
             "date_published": "2024-01-27T11:12:26.000Z",
             "author": {
                 "name": "Malwarize",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "emacsmirror",
                 "url": "https://github.com/emacsmirror"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54144015?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.</div>",
-            "url": "https://github.com/m-ab-s/media-autobuild_suite",
-            "title": "m-ab-s/media-autobuild_suite: This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.",
-            "date_modified": "2024-03-12T14:17:35.000Z",
-            "date_published": "2013-09-28T20:07:11.000Z",
-            "author": {
-                "name": "m-ab-s",
-                "url": "https://github.com/m-ab-s"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49844515?u=5ff834074f873a39a656a3d7d665ccf148ad03e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modular script for translating subtitles on the fly into multiple languages.</div>",
-            "url": "https://github.com/EnergoStalin/subtitle-translate-mpv",
-            "title": "EnergoStalin/subtitle-translate-mpv: Modular script for translating subtitles on the fly into multiple languages.",
-            "date_modified": "2024-03-01T04:04:37.000Z",
-            "date_published": "2022-07-28T00:16:54.000Z",
-            "author": {
-                "name": "EnergoStalin",
-                "url": "https://github.com/EnergoStalin"
             }
         }
     ]
