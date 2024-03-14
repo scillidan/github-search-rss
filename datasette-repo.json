@@ -6,6 +6,61 @@
     "description": "datasette on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin for enabling full-text search against selected table columns</div>",
+            "url": "https://github.com/simonw/datasette-configure-fts",
+            "title": "simonw/datasette-configure-fts: Datasette plugin for enabling full-text search against selected table columns",
+            "date_modified": "2022-11-27T23:10:34.000Z",
+            "date_published": "2020-02-29T01:50:57.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin for uploading CSV files and converting them to database tables</div>",
+            "url": "https://github.com/simonw/datasette-upload-csvs",
+            "title": "simonw/datasette-upload-csvs: Datasette plugin for uploading CSV files and converting them to database tables",
+            "date_modified": "2024-03-05T22:50:02.000Z",
+            "date_published": "2020-01-19T02:07:05.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin providing a UI for executing SQL writes against the database</div>",
+            "url": "https://github.com/simonw/datasette-write",
+            "title": "simonw/datasette-write: Datasette plugin providing a UI for executing SQL writes against the database",
+            "date_modified": "2024-02-27T20:01:11.000Z",
+            "date_published": "2020-06-29T02:27:31.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datasette plugin for modifying table schemas</div>",
+            "url": "https://github.com/simonw/datasette-edit-schema",
+            "title": "simonw/datasette-edit-schema: Datasette plugin for modifying table schemas",
+            "date_modified": "2024-03-05T22:55:48.000Z",
+            "date_published": "2020-03-15T18:34:06.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette</div>",
+            "url": "https://github.com/simonw/register-of-members-interests-datasette",
+            "title": "simonw/register-of-members-interests-datasette: Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette",
+            "date_modified": "2024-03-02T08:57:29.000Z",
+            "date_published": "2018-04-25T05:37:51.000Z",
+            "author": {
+                "name": "simonw",
+                "url": "https://github.com/simonw"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93042302?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>up-to-date history of records for londonair.org.uk sensors in lewisham going back to 2005</div>",
             "url": "https://github.com/lb-lewisham/lewisham-air-sensors-history",
             "title": "lb-lewisham/lewisham-air-sensors-history: up-to-date history of records for londonair.org.uk sensors in lewisham going back to 2005",
@@ -83,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10843208?u=ccf1b4bd8c331e18565f51bb6446700433a13539&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>datasette gordo cv</div>",
-            "url": "https://github.com/redraw/fullfatsearch",
-            "title": "redraw/fullfatsearch: datasette gordo cv",
-            "date_modified": "2024-03-13T03:33:53.000Z",
-            "date_published": "2024-02-27T03:10:40.000Z",
-            "author": {
-                "name": "redraw",
-                "url": "https://github.com/redraw"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6523121?u=017448c52d1fee302f9c1f38f12ff60e5a1d0935&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>legal data in machine-readable form</div>",
             "url": "https://github.com/hueyy/lacuna-db",
             "title": "hueyy/lacuna-db: legal data in machine-readable form",
@@ -132,17 +176,6 @@
             "title": "simonw/datasette: An open source multi-tool for exploring and publishing data",
             "date_modified": "2024-03-13T21:41:12.000Z",
             "date_published": "2017-10-23T00:39:03.000Z",
-            "author": {
-                "name": "simonw",
-                "url": "https://github.com/simonw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette</div>",
-            "url": "https://github.com/simonw/register-of-members-interests-datasette",
-            "title": "simonw/register-of-members-interests-datasette: Code for parsing the mySociety Registers of Members Interest XML, turning it into SQLite and publishing it with Datasette",
-            "date_modified": "2024-03-02T08:57:29.000Z",
-            "date_published": "2018-04-25T05:37:51.000Z",
             "author": {
                 "name": "simonw",
                 "url": "https://github.com/simonw"
@@ -190,39 +223,6 @@
             "author": {
                 "name": "simonw",
                 "url": "https://github.com/simonw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/765871?u=3e8135bc649192e6ca2fc28fbe62b8d04a8cf29b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Keeping an eye on AWS Partners</div>",
-            "url": "https://github.com/kaihendry/aws-partners-datasette",
-            "title": "kaihendry/aws-partners-datasette: Keeping an eye on AWS Partners",
-            "date_modified": "2024-01-12T18:16:36.000Z",
-            "date_published": "2020-12-01T07:03:49.000Z",
-            "author": {
-                "name": "kaihendry",
-                "url": "https://github.com/kaihendry"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/538514?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for <a href=\"https://llm.datasette.io/en/stable/\" rel=\"nofollow\">https://llm.datasette.io/en/stable/</a> to enable talking with Claude Instant and ClaudeV2 models on AWS Bedrock</div>",
-            "url": "https://github.com/sblakey/llm-bedrock-anthropic",
-            "title": "sblakey/llm-bedrock-anthropic: Plugin for https://llm.datasette.io/en/stable/ to enable talking with Claude Instant and ClaudeV2 models on AWS Bedrock",
-            "date_modified": "2023-12-24T07:08:00.000Z",
-            "date_published": "2023-10-04T19:40:21.000Z",
-            "author": {
-                "name": "sblakey",
-                "url": "https://github.com/sblakey"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139249755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Launch Datasette Studio in a GitHub Codespace</div>",
-            "url": "https://github.com/datasette/studio",
-            "title": "datasette/studio: Launch Datasette Studio in a GitHub Codespace",
-            "date_modified": "2024-03-13T19:00:47.000Z",
-            "date_published": "2024-03-10T00:18:01.000Z",
-            "author": {
-                "name": "datasette",
-                "url": "https://github.com/datasette"
             }
         }
     ]
