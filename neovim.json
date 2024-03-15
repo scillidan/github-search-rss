@@ -6,14 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-03-15T14:59:38.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
-            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo.",
-            "date_modified": "2024-03-15T11:44:46.000Z",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-03-15T15:39:05.000Z",
             "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20689156?u=b9559f176b8317f628ecb4560ef0677b7999a38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.</div>",
+            "url": "https://github.com/shortcuts/no-neck-pain.nvim",
+            "title": "shortcuts/no-neck-pain.nvim: ☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.",
+            "date_modified": "2024-03-15T16:06:07.000Z",
+            "date_published": "2022-10-23T12:09:24.000Z",
+            "author": {
+                "name": "shortcuts",
+                "url": "https://github.com/shortcuts"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133131317?u=c17a35cfa87fdf518d5cd346cbe99a6cfbad98a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gittory is a NeoVim plugin written in Lua that changes your working directory to the root of your project if you use Git. It is useful to use with Telescope and Harpoon, depending on your needs and workflow.</div>",
+            "url": "https://github.com/IsWladi/Gittory",
+            "title": "IsWladi/Gittory: Gittory is a NeoVim plugin written in Lua that changes your working directory to the root of your project if you use Git. It is useful to use with Telescope and Harpoon, depending on your needs and workflow.",
+            "date_modified": "2024-03-14T07:36:48.000Z",
+            "date_published": "2023-09-08T01:59:18.000Z",
+            "author": {
+                "name": "IsWladi",
+                "url": "https://github.com/IsWladi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114779675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin framework for creating games in NeoVim.</div>",
+            "url": "https://github.com/theKnightsOfRohan/venison.nvim",
+            "title": "theKnightsOfRohan/venison.nvim: A plugin framework for creating games in NeoVim.",
+            "date_modified": "2024-03-15T05:02:11.000Z",
+            "date_published": "2024-03-15T05:02:06.000Z",
+            "author": {
+                "name": "theKnightsOfRohan",
+                "url": "https://github.com/theKnightsOfRohan"
             }
         },
         {
@@ -36,6 +80,17 @@
             "author": {
                 "name": "lbrayner",
                 "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "date_modified": "2024-03-15T15:50:33.000Z",
+            "date_published": "2021-12-12T13:38:23.000Z",
+            "author": {
+                "name": "nvim-neo-tree",
+                "url": "https://github.com/nvim-neo-tree"
             }
         },
         {
@@ -91,17 +146,6 @@
             "author": {
                 "name": "GaryHY",
                 "url": "https://github.com/GaryHY"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
-            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
-            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
-            "date_modified": "2024-03-15T13:07:46.000Z",
-            "date_published": "2021-12-12T13:38:23.000Z",
-            "author": {
-                "name": "nvim-neo-tree",
-                "url": "https://github.com/nvim-neo-tree"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "brlywk",
                 "url": "https://github.com/brlywk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
-            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
-            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-03-15T14:15:14.000Z",
-            "date_published": "2023-11-01T17:40:49.000Z",
-            "author": {
-                "name": "wojciech-kulik",
-                "url": "https://github.com/wojciech-kulik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/conform.nvim",
-            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-03-15T14:59:38.000Z",
-            "date_published": "2023-08-25T03:31:42.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65170555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this repository holds all my config files and plugins for my neovim environment</div>",
-            "url": "https://github.com/pedroreal12/nvim.configs",
-            "title": "pedroreal12/nvim.configs: this repository holds all my config files and plugins for my neovim environment",
-            "date_modified": "2023-11-22T21:15:29.000Z",
-            "date_published": "2023-11-18T00:57:57.000Z",
-            "author": {
-                "name": "pedroreal12",
-                "url": "https://github.com/pedroreal12"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137426021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to help compile and run code with tmux integration</div>",
-            "url": "https://github.com/sasheto-phizika/compal.nvim",
-            "title": "sasheto-phizika/compal.nvim: Neovim plugin to help compile and run code with tmux integration",
-            "date_modified": "2024-01-19T16:01:18.000Z",
-            "date_published": "2023-06-26T07:52:36.000Z",
-            "author": {
-                "name": "sasheto-phizika",
-                "url": "https://github.com/sasheto-phizika"
             }
         }
     ]
