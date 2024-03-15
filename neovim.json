@@ -6,14 +6,25 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12272702?u=50278631597042e6aa8e8c60cfde06bda7c752c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to read, write and post articles on Forem platforms like dev.to</div>",
-            "url": "https://github.com/Massolari/forem.nvim",
-            "title": "Massolari/forem.nvim: Neovim plugin to read, write and post articles on Forem platforms like dev.to",
-            "date_modified": "2024-03-06T01:42:29.000Z",
-            "date_published": "2022-06-22T20:04:36.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo.</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo.",
+            "date_modified": "2024-03-15T11:44:46.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
-                "name": "Massolari",
-                "url": "https://github.com/Massolari"
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57921252?u=9a7770b83718e7277afb393a72acb8d99105a591&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin improving access to recent yank history</div>",
+            "url": "https://github.com/ptdewey/yankbank-nvim",
+            "title": "ptdewey/yankbank-nvim: Neovim plugin improving access to recent yank history",
+            "date_modified": "2024-03-14T23:13:22.000Z",
+            "date_published": "2024-03-14T23:12:23.000Z",
+            "author": {
+                "name": "ptdewey",
+                "url": "https://github.com/ptdewey"
             }
         },
         {
@@ -25,6 +36,17 @@
             "author": {
                 "name": "lbrayner",
                 "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12272702?u=50278631597042e6aa8e8c60cfde06bda7c752c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to read, write and post articles on Forem platforms like dev.to</div>",
+            "url": "https://github.com/Massolari/forem.nvim",
+            "title": "Massolari/forem.nvim: Neovim plugin to read, write and post articles on Forem platforms like dev.to",
+            "date_modified": "2024-03-06T01:42:29.000Z",
+            "date_published": "2022-06-22T20:04:36.000Z",
+            "author": {
+                "name": "Massolari",
+                "url": "https://github.com/Massolari"
             }
         },
         {
@@ -86,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20689156?u=b9559f176b8317f628ecb4560ef0677b7999a38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.</div>",
             "url": "https://github.com/shortcuts/neovim-plugin-boilerplate",
             "title": "shortcuts/neovim-plugin-boilerplate: 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.",
-            "date_modified": "2024-03-14T16:12:25.000Z",
+            "date_modified": "2024-03-15T14:52:28.000Z",
             "date_published": "2022-12-29T20:04:16.000Z",
             "author": {
                 "name": "shortcuts",
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat like experience in Neovim. Supports Anthropic, Ollama and OpenAI</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat like experience in Neovim. Supports Anthropic, Ollama and OpenAI",
-            "date_modified": "2024-03-15T13:17:49.000Z",
+            "date_modified": "2024-03-15T14:45:57.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
             "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
             "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-03-14T00:26:28.000Z",
+            "date_modified": "2024-03-15T14:15:14.000Z",
             "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
                 "name": "wojciech-kulik",
@@ -174,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
             "url": "https://github.com/stevearc/conform.nvim",
             "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-03-15T13:36:26.000Z",
+            "date_modified": "2024-03-15T14:59:38.000Z",
             "date_published": "2023-08-25T03:31:42.000Z",
             "author": {
                 "name": "stevearc",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "sasheto-phizika",
                 "url": "https://github.com/sasheto-phizika"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins for Luarocks.",
-            "date_modified": "2024-03-10T00:44:42.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72411792?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins and remaps setup</div>",
-            "url": "https://github.com/TheDiscoScript/neovim",
-            "title": "TheDiscoScript/neovim: Neovim plugins and remaps setup",
-            "date_modified": "2023-09-11T08:03:12.000Z",
-            "date_published": "2023-09-11T07:49:59.000Z",
-            "author": {
-                "name": "TheDiscoScript",
-                "url": "https://github.com/TheDiscoScript"
             }
         }
     ]
