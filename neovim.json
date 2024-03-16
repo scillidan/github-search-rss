@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-03-15T15:39:05.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114827766?u=71e50961d83492bdee79d5adcf3183e3b07a1e31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin providing a robust API for manipulating colors and highlight groups.</div>",
+            "url": "https://github.com/bwpge/colorful.nvim",
+            "title": "bwpge/colorful.nvim: A Neovim plugin providing a robust API for manipulating colors and highlight groups.",
+            "date_modified": "2024-03-08T02:56:51.000Z",
+            "date_published": "2024-03-06T00:50:36.000Z",
+            "author": {
+                "name": "bwpge",
+                "url": "https://github.com/bwpge"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
+            "url": "https://github.com/folke/neoconf.nvim",
+            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
+            "date_modified": "2024-03-15T21:30:05.000Z",
+            "date_published": "2022-09-07T16:15:13.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
             "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
             "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
-            "date_modified": "2024-03-15T15:50:33.000Z",
+            "date_modified": "2024-03-16T01:15:12.000Z",
             "date_published": "2021-12-12T13:38:23.000Z",
             "author": {
                 "name": "nvim-neo-tree",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "prurigro",
                 "url": "https://github.com/prurigro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114779675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin framework for creating games in NeoVim.</div>",
-            "url": "https://github.com/theKnightsOfRohan/venison.nvim",
-            "title": "theKnightsOfRohan/venison.nvim: A plugin framework for creating games in NeoVim.",
-            "date_modified": "2024-03-15T05:02:11.000Z",
-            "date_published": "2024-03-15T05:02:06.000Z",
-            "author": {
-                "name": "theKnightsOfRohan",
-                "url": "https://github.com/theKnightsOfRohan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34255347?u=260c2c331bb7c31bea0d6028f9ea6fbb368b0f9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to inspect URLs</div>",
-            "url": "https://github.com/nkhlmn/spectur.nvim",
-            "title": "nkhlmn/spectur.nvim: Neovim plugin to inspect URLs",
-            "date_modified": "2022-11-07T01:31:11.000Z",
-            "date_published": "2022-10-09T00:49:25.000Z",
-            "author": {
-                "name": "nkhlmn",
-                "url": "https://github.com/nkhlmn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12528765?u=20f7c7b958fd28962804f7295cc5e2e6f68ea9ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple plugin to add a Tmux-like zoom functionality to Neovim</div>",
-            "url": "https://github.com/fasterius/simple-zoom.nvim",
-            "title": "fasterius/simple-zoom.nvim: A simple plugin to add a Tmux-like zoom functionality to Neovim",
-            "date_modified": "2024-03-14T19:50:09.000Z",
-            "date_published": "2024-03-14T10:41:00.000Z",
-            "author": {
-                "name": "fasterius",
-                "url": "https://github.com/fasterius"
             }
         }
     ]
