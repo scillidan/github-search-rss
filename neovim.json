@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-03-18T14:49:01.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-03-15T14:58:59.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57921252?u=9a7770b83718e7277afb393a72acb8d99105a591&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin improving access to recent yank history</div>",
             "url": "https://github.com/ptdewey/yankbank-nvim",
             "title": "ptdewey/yankbank-nvim: Neovim plugin improving access to recent yank history",
@@ -53,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20689156?u=b9559f176b8317f628ecb4560ef0677b7999a38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.</div>",
             "url": "https://github.com/shortcuts/neovim-plugin-boilerplate",
             "title": "shortcuts/neovim-plugin-boilerplate: 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.",
-            "date_modified": "2024-03-18T09:25:51.000Z",
+            "date_modified": "2024-03-18T15:06:21.000Z",
             "date_published": "2022-12-29T20:04:16.000Z",
             "author": {
                 "name": "shortcuts",
@@ -130,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2467016?u=cd5964e6618c6438d1fd32c8d76aeda559fae37b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tagging important files</div>",
             "url": "https://github.com/cbochs/grapple.nvim",
             "title": "cbochs/grapple.nvim: Neovim plugin for tagging important files",
-            "date_modified": "2024-03-18T14:07:40.000Z",
+            "date_modified": "2024-03-18T14:21:22.000Z",
             "date_published": "2022-10-24T04:18:27.000Z",
             "author": {
                 "name": "cbochs",
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-03-18T13:41:10.000Z",
+            "date_modified": "2024-03-18T14:16:33.000Z",
             "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "prabirshrestha",
                 "url": "https://github.com/prabirshrestha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48717183?u=1ef0b7fae149772f3ea0f45b0f591fb5cb955757&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Lua Neovim configuration with a very simple plugin manager written in Python.</div>",
-            "url": "https://github.com/j-morano/nvim-config",
-            "title": "j-morano/nvim-config: Full Lua Neovim configuration with a very simple plugin manager written in Python.",
-            "date_modified": "2023-05-20T15:09:54.000Z",
-            "date_published": "2023-02-09T12:51:43.000Z",
-            "author": {
-                "name": "j-morano",
-                "url": "https://github.com/j-morano"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2746374?u=119fd2407fa36292bee85ff07671c3367c120311&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.</div>",
-            "url": "https://github.com/EdenEast/nightfox.nvim",
-            "title": "EdenEast/nightfox.nvim: 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
-            "date_modified": "2024-03-18T10:58:28.000Z",
-            "date_published": "2021-07-20T23:19:53.000Z",
-            "author": {
-                "name": "EdenEast",
-                "url": "https://github.com/EdenEast"
             }
         }
     ]
