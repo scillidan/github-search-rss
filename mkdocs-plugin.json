@@ -6,6 +6,17 @@
     "description": "mkdocs plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60105800?u=682d1e1f05366d799e7b3eb26ff9a945041b8521&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📑 Generate meta descriptions from the first paragraphs in your MkDocs pages</div>",
+            "url": "https://github.com/prcr/mkdocs-meta-descriptions-plugin",
+            "title": "prcr/mkdocs-meta-descriptions-plugin: 📑 Generate meta descriptions from the first paragraphs in your MkDocs pages",
+            "date_modified": "2023-12-15T04:01:41.000Z",
+            "date_published": "2021-04-02T13:21:37.000Z",
+            "author": {
+                "name": "prcr",
+                "url": "https://github.com/prcr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118329232?u=844f9a7c3fa38c271d8e151e56862f1537a4fb94&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mkdocs plugin which displays links in a more elegant way. Links will automatically be populated with an image, description, and title for the target website; or you can override the values to give your own.</div>",
             "url": "https://github.com/Aetherinox/mkdocs-link-embeds",
             "title": "Aetherinox/mkdocs-link-embeds: Mkdocs plugin which displays links in a more elegant way. Links will automatically be populated with an image, description, and title for the target website; or you can override the values to give your own.",
@@ -185,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5907946?u=11f2e097249346b1beb3f5b355f55c05f6e02989&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An MkDocs plugin that simplifies configuring page titles and their order</div>",
             "url": "https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin",
             "title": "lukasgeiter/mkdocs-awesome-pages-plugin: An MkDocs plugin that simplifies configuring page titles and their order",
-            "date_modified": "2024-03-17T11:34:46.000Z",
+            "date_modified": "2024-03-19T17:58:04.000Z",
             "date_published": "2018-02-06T21:09:24.000Z",
             "author": {
                 "name": "lukasgeiter",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "fralau",
                 "url": "https://github.com/fralau"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5570380?u=529954242ffa63610fed217738dc15f81ef99674&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page</div>",
-            "url": "https://github.com/timvink/mkdocs-table-reader-plugin",
-            "title": "timvink/mkdocs-table-reader-plugin: MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page",
-            "date_modified": "2024-03-12T11:33:32.000Z",
-            "date_published": "2020-03-06T09:42:26.000Z",
-            "author": {
-                "name": "timvink",
-                "url": "https://github.com/timvink"
             }
         }
     ]
