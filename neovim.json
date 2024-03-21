@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2467016?u=cd5964e6618c6438d1fd32c8d76aeda559fae37b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tagging important files</div>",
+            "url": "https://github.com/cbochs/grapple.nvim",
+            "title": "cbochs/grapple.nvim: Neovim plugin for tagging important files",
+            "date_modified": "2024-03-21T15:02:33.000Z",
+            "date_published": "2022-10-24T04:18:27.000Z",
+            "author": {
+                "name": "cbochs",
+                "url": "https://github.com/cbochs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10734352?u=4c43a4f9be03fe2f5de4a83fb7434479a1b506df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project was heavily inspired by the LazyVim distribuition, but I decided to create a new project to customize the plugin as I wanted and learn to more about how to configure the stuff on NeoVim</div>",
+            "url": "https://github.com/alaurentinoofficial/nvim",
+            "title": "alaurentinoofficial/nvim: This project was heavily inspired by the LazyVim distribuition, but I decided to create a new project to customize the plugin as I wanted and learn to more about how to configure the stuff on NeoVim",
+            "date_modified": "2024-03-15T21:16:45.000Z",
+            "date_published": "2024-03-06T15:48:35.000Z",
+            "author": {
+                "name": "alaurentinoofficial",
+                "url": "https://github.com/alaurentinoofficial"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52382992?u=f8dee2345515ad2849d49df11ca017aaed5067e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implementation of gx without the need of netrw</div>",
+            "url": "https://github.com/chrishrb/gx.nvim",
+            "title": "chrishrb/gx.nvim: Implementation of gx without the need of netrw",
+            "date_modified": "2024-03-20T12:16:26.000Z",
+            "date_published": "2023-03-14T12:25:56.000Z",
+            "author": {
+                "name": "chrishrb",
+                "url": "https://github.com/chrishrb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-03-21T05:34:18.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4997735?u=e1f48cd3acc4489407319e96060b9b026abec316&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for vscode that opens neovim for current edited file</div>",
+            "url": "https://github.com/psqq/vscode-neovim-edit",
+            "title": "psqq/vscode-neovim-edit: Plugin for vscode that opens neovim for current edited file",
+            "date_modified": "2024-03-21T14:39:31.000Z",
+            "date_published": "2023-09-10T10:09:51.000Z",
+            "author": {
+                "name": "psqq",
+                "url": "https://github.com/psqq"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77183602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple plugin for neovim that mimics telescope's default keymaps picker, but also includes default keymaps</div>",
             "url": "https://github.com/GitMarkedDan/telescope-better-keymaps.nvim",
             "title": "GitMarkedDan/telescope-better-keymaps.nvim: A simple plugin for neovim that mimics telescope's default keymaps picker, but also includes default keymaps",
@@ -17,6 +72,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-03-21T16:17:07.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
             "url": "https://github.com/Iron-E/nvim-highlite",
             "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
@@ -25,17 +91,6 @@
             "author": {
                 "name": "Iron-E",
                 "url": "https://github.com/Iron-E"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2467016?u=cd5964e6618c6438d1fd32c8d76aeda559fae37b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tagging important files</div>",
-            "url": "https://github.com/cbochs/grapple.nvim",
-            "title": "cbochs/grapple.nvim: Neovim plugin for tagging important files",
-            "date_modified": "2024-03-21T15:02:33.000Z",
-            "date_published": "2022-10-24T04:18:27.000Z",
-            "author": {
-                "name": "cbochs",
-                "url": "https://github.com/cbochs"
             }
         },
         {
@@ -69,17 +124,6 @@
             "author": {
                 "name": "mackeper",
                 "url": "https://github.com/mackeper"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4997735?u=e1f48cd3acc4489407319e96060b9b026abec316&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for vscode that opens neovim for current edited file</div>",
-            "url": "https://github.com/psqq/vscode-neovim-edit",
-            "title": "psqq/vscode-neovim-edit: Plugin for vscode that opens neovim for current edited file",
-            "date_modified": "2024-03-21T14:39:31.000Z",
-            "date_published": "2023-09-10T10:09:51.000Z",
-            "author": {
-                "name": "psqq",
-                "url": "https://github.com/psqq"
             }
         },
         {
@@ -130,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
             "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
             "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
-            "date_modified": "2024-03-21T14:54:02.000Z",
+            "date_modified": "2024-03-21T16:35:20.000Z",
             "date_published": "2021-12-12T13:38:23.000Z",
             "author": {
                 "name": "nvim-neo-tree",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "sohanemon",
                 "url": "https://github.com/sohanemon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1659941?u=5e28b0da5b5f491f5b145f01830b3a28bb29c9db&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorsheme for transparent terminals</div>",
-            "url": "https://github.com/gustavo-hms/garbo",
-            "title": "gustavo-hms/garbo: A colorsheme for transparent terminals",
-            "date_modified": "2024-01-18T03:37:20.000Z",
-            "date_published": "2019-04-16T12:15:21.000Z",
-            "author": {
-                "name": "gustavo-hms",
-                "url": "https://github.com/gustavo-hms"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin manager that uses only opt packages</div>",
-            "url": "https://github.com/notomo/optpack.nvim",
-            "title": "notomo/optpack.nvim: Neovim plugin manager that uses only opt packages",
-            "date_modified": "2024-03-19T04:51:44.000Z",
-            "date_published": "2021-10-02T13:57:53.000Z",
-            "author": {
-                "name": "notomo",
-                "url": "https://github.com/notomo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33901712?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sftp plugin for neovim</div>",
-            "url": "https://github.com/DevDec/transmit.nvim",
-            "title": "DevDec/transmit.nvim: Sftp plugin for neovim",
-            "date_modified": "2024-02-01T13:23:35.000Z",
-            "date_published": "2023-11-26T10:38:15.000Z",
-            "author": {
-                "name": "DevDec",
-                "url": "https://github.com/DevDec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22454918?u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim lua plugin to help easily manage multiple terminal windows</div>",
-            "url": "https://github.com/akinsho/toggleterm.nvim",
-            "title": "akinsho/toggleterm.nvim: A neovim lua plugin to help easily manage multiple terminal windows",
-            "date_modified": "2024-03-21T15:24:18.000Z",
-            "date_published": "2020-08-17T17:33:39.000Z",
-            "author": {
-                "name": "akinsho",
-                "url": "https://github.com/akinsho"
             }
         }
     ]
