@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42204040?u=f48cbd7c62ba678a731bdd25b683d3c36f40639a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim configuration repo!</div>",
-            "url": "https://github.com/sohanemon/lua-config",
-            "title": "sohanemon/lua-config: My neovim configuration repo!",
-            "date_modified": "2024-03-18T07:44:46.000Z",
-            "date_published": "2024-03-18T05:51:05.000Z",
-            "author": {
-                "name": "sohanemon",
-                "url": "https://github.com/sohanemon"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12991457?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bazel neovim plugin</div>",
             "url": "https://github.com/peano88/bazel_nvim",
             "title": "peano88/bazel_nvim: A bazel neovim plugin",
@@ -39,14 +28,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1659941?u=5e28b0da5b5f491f5b145f01830b3a28bb29c9db&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorsheme for transparent terminals</div>",
-            "url": "https://github.com/gustavo-hms/garbo",
-            "title": "gustavo-hms/garbo: A colorsheme for transparent terminals",
-            "date_modified": "2024-01-18T03:37:20.000Z",
-            "date_published": "2019-04-16T12:15:21.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-03-08T00:01:41.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
             "author": {
-                "name": "gustavo-hms",
-                "url": "https://github.com/gustavo-hms"
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -58,6 +47,28 @@
             "author": {
                 "name": "catgoose",
                 "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42204040?u=f48cbd7c62ba678a731bdd25b683d3c36f40639a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim configuration repo!</div>",
+            "url": "https://github.com/sohanemon/lua-config",
+            "title": "sohanemon/lua-config: My neovim configuration repo!",
+            "date_modified": "2024-03-18T07:44:46.000Z",
+            "date_published": "2024-03-18T05:51:05.000Z",
+            "author": {
+                "name": "sohanemon",
+                "url": "https://github.com/sohanemon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1659941?u=5e28b0da5b5f491f5b145f01830b3a28bb29c9db&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorsheme for transparent terminals</div>",
+            "url": "https://github.com/gustavo-hms/garbo",
+            "title": "gustavo-hms/garbo: A colorsheme for transparent terminals",
+            "date_modified": "2024-01-18T03:37:20.000Z",
+            "date_published": "2019-04-16T12:15:21.000Z",
+            "author": {
+                "name": "gustavo-hms",
+                "url": "https://github.com/gustavo-hms"
             }
         },
         {
@@ -91,6 +102,17 @@
             "author": {
                 "name": "DevDec",
                 "url": "https://github.com/DevDec"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22454918?u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim lua plugin to help easily manage multiple terminal windows</div>",
+            "url": "https://github.com/akinsho/toggleterm.nvim",
+            "title": "akinsho/toggleterm.nvim: A neovim lua plugin to help easily manage multiple terminal windows",
+            "date_modified": "2024-03-21T13:16:27.000Z",
+            "date_published": "2020-08-17T17:33:39.000Z",
+            "author": {
+                "name": "akinsho",
+                "url": "https://github.com/akinsho"
             }
         },
         {
@@ -149,6 +171,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1425636?u=3c8e5c041c2bdfd922d85c91209738c6a88b8806&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal implementation of Golang development plugin for Neovim</div>",
+            "url": "https://github.com/crispgm/nvim-go",
+            "title": "crispgm/nvim-go: A minimal implementation of Golang development plugin for Neovim",
+            "date_modified": "2024-03-21T14:03:54.000Z",
+            "date_published": "2021-03-02T01:53:07.000Z",
+            "author": {
+                "name": "crispgm",
+                "url": "https://github.com/crispgm"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53634060?u=d702815549cfd78ac07b6f075833fb6492c4b8c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is my Neovim config, this repository was made and still valid for use on the 4th of March, 2024. The original config was taken from Primeagen's 0 to LSP Neovim tutorial, with some additional plugins i added myself to add some additional functionalities</div>",
             "url": "https://github.com/FreeJ1nG/nvim-config",
             "title": "FreeJ1nG/nvim-config: This is my Neovim config, this repository was made and still valid for use on the 4th of March, 2024. The original config was taken from Primeagen's 0 to LSP Neovim tutorial, with some additional plugins i added myself to add some additional functionalities",
@@ -163,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
             "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
             "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-03-19T22:47:22.000Z",
+            "date_modified": "2024-03-21T13:25:54.000Z",
             "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
                 "name": "wojciech-kulik",
@@ -182,28 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1425636?u=3c8e5c041c2bdfd922d85c91209738c6a88b8806&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal implementation of Golang development plugin for Neovim</div>",
-            "url": "https://github.com/crispgm/nvim-go",
-            "title": "crispgm/nvim-go: A minimal implementation of Golang development plugin for Neovim",
-            "date_modified": "2024-03-20T13:31:09.000Z",
-            "date_published": "2021-03-02T01:53:07.000Z",
-            "author": {
-                "name": "crispgm",
-                "url": "https://github.com/crispgm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-03-08T00:01:41.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rockerBOO",
                 "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
-            "url": "https://github.com/nvim-lualine/lualine.nvim",
-            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
-            "date_modified": "2024-03-21T12:34:44.000Z",
-            "date_published": "2020-12-30T14:35:10.000Z",
-            "author": {
-                "name": "nvim-lualine",
-                "url": "https://github.com/nvim-lualine"
             }
         }
     ]
