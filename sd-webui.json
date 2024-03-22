@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141981933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📷 EasyPhoto | Your Smart AI Photo Generator.</div>",
+            "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto",
+            "title": "aigc-apps/sd-webui-EasyPhoto: 📷 EasyPhoto | Your Smart AI Photo Generator.",
+            "date_modified": "2024-03-22T10:08:52.000Z",
+            "date_published": "2023-08-28T10:46:27.000Z",
+            "author": {
+                "name": "aigc-apps",
+                "url": "https://github.com/aigc-apps"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23144950?u=473c22c5f1064f725e2b0bbead11d14b9589897d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于stable-diffusion的虚拟换装方法</div>",
+            "url": "https://github.com/leeguandong/sd_webui_ootdiffusion",
+            "title": "leeguandong/sd_webui_ootdiffusion: 基于stable-diffusion的虚拟换装方法",
+            "date_modified": "2024-03-22T09:37:20.000Z",
+            "date_published": "2024-03-22T09:37:19.000Z",
+            "author": {
+                "name": "leeguandong",
+                "url": "https://github.com/leeguandong"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32277961?u=d36bd8fcf762389289d0cd6c6d93baed179ef860&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collision-free AND keywords for a1111 webui!</div>",
             "url": "https://github.com/ljleb/sd-webui-neutral-prompt",
             "title": "ljleb/sd-webui-neutral-prompt: Collision-free AND keywords for a1111 webui!",
@@ -14,6 +36,17 @@
             "author": {
                 "name": "ljleb",
                 "url": "https://github.com/ljleb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12066768?u=5ebd8294103633c8526ed3aff6b5852dca253dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。</div>",
+            "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
+            "title": "Physton/sd-webui-prompt-all-in-one: This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。",
+            "date_modified": "2024-03-22T09:34:12.000Z",
+            "date_published": "2023-05-08T12:23:21.000Z",
+            "author": {
+                "name": "Physton",
+                "url": "https://github.com/Physton"
             }
         },
         {
@@ -108,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63914308?u=6f677063fe1a0b16466a589ee9c85d59b29d9973&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI</div>",
             "url": "https://github.com/continue-revolution/sd-webui-animatediff",
             "title": "continue-revolution/sd-webui-animatediff: AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI",
-            "date_modified": "2024-03-21T16:53:56.000Z",
+            "date_modified": "2024-03-22T09:35:59.000Z",
             "date_published": "2023-07-18T02:59:45.000Z",
             "author": {
                 "name": "continue-revolution",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Haoming02",
                 "url": "https://github.com/Haoming02"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71503763?u=65a2d88a6987c853298b380eec13451d211fe88e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion Web UI Notebook </div>",
-            "url": "https://github.com/DEX-1101/sd-webui-notebook",
-            "title": "DEX-1101/sd-webui-notebook: Stable Diffusion Web UI Notebook ",
-            "date_modified": "2024-03-11T00:30:22.000Z",
-            "date_published": "2023-09-19T07:32:26.000Z",
-            "author": {
-                "name": "DEX-1101",
-                "url": "https://github.com/DEX-1101"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adds controlnet preprocessing feature into Extras tab</div>",
-            "url": "https://github.com/light-and-ray/sd-webui-cn-in-extras-tab",
-            "title": "light-and-ray/sd-webui-cn-in-extras-tab: Adds controlnet preprocessing feature into Extras tab",
-            "date_modified": "2024-03-08T02:32:33.000Z",
-            "date_published": "2024-02-03T06:02:31.000Z",
-            "author": {
-                "name": "light-and-ray",
-                "url": "https://github.com/light-and-ray"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16388530?u=fa2475771c9bba7d77a5598cd9a376da1468b194&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Scenario loader for stable diffusion webui A1111</div>",
-            "url": "https://github.com/Chaest/sd-webui-sc-loader",
-            "title": "Chaest/sd-webui-sc-loader: Scenario loader for stable diffusion webui A1111",
-            "date_modified": "2024-02-12T15:51:20.000Z",
-            "date_published": "2023-07-31T08:51:37.000Z",
-            "author": {
-                "name": "Chaest",
-                "url": "https://github.com/Chaest"
             }
         }
     ]
