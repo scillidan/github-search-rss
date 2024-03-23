@@ -6,14 +6,36 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
+            "url": "https://github.com/yukimemi/dvpm",
+            "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
+            "date_modified": "2024-01-13T07:27:44.000Z",
+            "date_published": "2023-05-14T12:16:02.000Z",
+            "author": {
+                "name": "yukimemi",
+                "url": "https://github.com/yukimemi"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56369394?u=6836c180c05f5c866a6ce43eabf5e42cd25bf9eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tiny Neovim plugin for setting env vars</div>",
-            "url": "https://github.com/petermnhull/nvim-dotenv.nvim",
-            "title": "petermnhull/nvim-dotenv.nvim: Tiny Neovim plugin for setting env vars",
-            "date_modified": "2024-03-23T09:19:52.000Z",
+            "url": "https://github.com/petermnhull/nvim-dotenv",
+            "title": "petermnhull/nvim-dotenv: Tiny Neovim plugin for setting env vars",
+            "date_modified": "2024-03-23T10:53:45.000Z",
             "date_published": "2024-03-23T09:09:57.000Z",
             "author": {
                 "name": "petermnhull",
                 "url": "https://github.com/petermnhull"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6076614?u=075e09ce954d2a559626cbeb3fd5d621c5ba90c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple utility plugin for TaskWarrior in Neovim</div>",
+            "url": "https://github.com/huantrinh1802/m_taskwarrior_d.nvim",
+            "title": "huantrinh1802/m_taskwarrior_d.nvim: Simple utility plugin for TaskWarrior in Neovim",
+            "date_modified": "2024-03-23T10:57:31.000Z",
+            "date_published": "2024-03-16T09:11:02.000Z",
+            "author": {
+                "name": "huantrinh1802",
+                "url": "https://github.com/huantrinh1802"
             }
         },
         {
@@ -53,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
             "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-03-23T07:53:36.000Z",
+            "date_modified": "2024-03-23T10:37:35.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -80,6 +102,17 @@
             "author": {
                 "name": "Shougo",
                 "url": "https://github.com/Shougo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3979584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental Sourcegraph + Cody plugin for Neovim</div>",
+            "url": "https://github.com/sourcegraph/sg.nvim",
+            "title": "sourcegraph/sg.nvim: Experimental Sourcegraph + Cody plugin for Neovim",
+            "date_modified": "2024-03-23T10:34:43.000Z",
+            "date_published": "2021-02-19T02:15:19.000Z",
+            "author": {
+                "name": "sourcegraph",
+                "url": "https://github.com/sourcegraph"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to update your current distro from its github remote</div>",
-            "url": "https://github.com/Zeioth/distroupdate.nvim",
-            "title": "Zeioth/distroupdate.nvim: Neovim plugin to update your current distro from its github remote",
-            "date_modified": "2024-03-20T21:44:15.000Z",
-            "date_published": "2024-01-23T16:34:38.000Z",
-            "author": {
-                "name": "Zeioth",
-                "url": "https://github.com/Zeioth"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/524109?u=d1abf33604629d2a9c7a40badc44fa1056d94291&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim plugin to improve experience while working with CVS</div>",
-            "url": "https://github.com/mrchnk/cvs.nvim",
-            "title": "mrchnk/cvs.nvim: NeoVim plugin to improve experience while working with CVS",
-            "date_modified": "2023-11-08T16:00:29.000Z",
-            "date_published": "2023-08-05T09:46:16.000Z",
-            "author": {
-                "name": "mrchnk",
-                "url": "https://github.com/mrchnk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-03-23T09:45:45.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         }
     ]
