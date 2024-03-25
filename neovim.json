@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
+            "url": "https://github.com/yutkat/my-neovim-pluginlist",
+            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
+            "date_modified": "2024-03-24T15:15:51.000Z",
+            "date_published": "2022-04-17T14:53:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
+            "title": "yutkat/new-neovim-plugin-with-category-rss",
+            "date_modified": "2023-08-11T07:03:24.000Z",
+            "date_published": "2023-05-24T19:57:02.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108009450?u=bf83b8322847c7212596e36a51e93d301cfe4165&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to make a toggleable terminal in Neovim.</div>",
+            "url": "https://github.com/pullant/toggle-terminal",
+            "title": "pullant/toggle-terminal: A plugin to make a toggleable terminal in Neovim.",
+            "date_modified": "2024-03-25T02:18:37.000Z",
+            "date_published": "2024-03-14T00:42:23.000Z",
+            "author": {
+                "name": "pullant",
+                "url": "https://github.com/pullant"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143469741?u=eace336582989db5fb3627c72193b05180da559b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repositorio de configuración para neovim, temas, plugins, mapkeys, etc</div>",
+            "url": "https://github.com/OscarDevCPP/nvim-dev",
+            "title": "OscarDevCPP/nvim-dev: Repositorio de configuración para neovim, temas, plugins, mapkeys, etc",
+            "date_modified": "2023-09-08T17:12:13.000Z",
+            "date_published": "2023-08-29T02:32:08.000Z",
+            "author": {
+                "name": "OscarDevCPP",
+                "url": "https://github.com/OscarDevCPP"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18416902?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>personal neovim config and plugin list</div>",
             "url": "https://github.com/supengchuan/neovim-config",
             "title": "supengchuan/neovim-config: personal neovim config and plugin list",
@@ -108,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
             "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
             "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-03-25T01:35:31.000Z",
+            "date_modified": "2024-03-25T02:21:59.000Z",
             "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
                 "name": "wojciech-kulik",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Sanhajio",
                 "url": "https://github.com/Sanhajio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112562805?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to highlight character being searched for using \"f\".</div>",
-            "url": "https://github.com/henrim3/nvim-find-highlighter",
-            "title": "henrim3/nvim-find-highlighter: Neovim plugin to highlight character being searched for using \"f\".",
-            "date_modified": "2024-03-19T22:44:25.000Z",
-            "date_published": "2024-03-19T22:44:07.000Z",
-            "author": {
-                "name": "henrim3",
-                "url": "https://github.com/henrim3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59481467?u=eeb803cf0d0f40c7d2a14f1c7e4b9ccd54030e3f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to highlight whitespace characters in visual mode</div>",
-            "url": "https://github.com/mcauley-penney/visual-whitespace.nvim",
-            "title": "mcauley-penney/visual-whitespace.nvim: A Neovim plugin to highlight whitespace characters in visual mode",
-            "date_modified": "2024-03-24T15:02:58.000Z",
-            "date_published": "2024-03-09T19:15:13.000Z",
-            "author": {
-                "name": "mcauley-penney",
-                "url": "https://github.com/mcauley-penney"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
-            "url": "https://github.com/nvim-neorocks/rocks.nvim",
-            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-03-24T23:23:50.000Z",
-            "date_published": "2023-07-05T11:24:40.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78477652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimalistic LLM plugin for Neovim.</div>",
-            "url": "https://github.com/sudo-burger/m0.nvim",
-            "title": "sudo-burger/m0.nvim: Minimalistic LLM plugin for Neovim.",
-            "date_modified": "2024-03-21T21:03:04.000Z",
-            "date_published": "2024-03-17T13:52:59.000Z",
-            "author": {
-                "name": "sudo-burger",
-                "url": "https://github.com/sudo-burger"
             }
         }
     ]
