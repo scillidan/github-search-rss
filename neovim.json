@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65471094?u=97f5805099347661f4ad3e3f7a6c3633750ebf58&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that allows asynchronous copying of yanked content into the system clipboard</div>",
+            "url": "https://github.com/vvvvv/pb-async.nvim",
+            "title": "vvvvv/pb-async.nvim: A Neovim plugin that allows asynchronous copying of yanked content into the system clipboard",
+            "date_modified": "2024-03-27T16:05:45.000Z",
+            "date_published": "2024-03-27T16:01:53.000Z",
+            "author": {
+                "name": "vvvvv",
+                "url": "https://github.com/vvvvv"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2467016?u=cd5964e6618c6438d1fd32c8d76aeda559fae37b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tagging important files</div>",
+            "url": "https://github.com/cbochs/grapple.nvim",
+            "title": "cbochs/grapple.nvim: Neovim plugin for tagging important files",
+            "date_modified": "2024-03-27T05:48:12.000Z",
+            "date_published": "2022-10-24T04:18:27.000Z",
+            "author": {
+                "name": "cbochs",
+                "url": "https://github.com/cbochs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161784685?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Productivity improvements for Rust ecosystem: warnings are skipped until errors are fixed, LSP-independent Neovim integration, etc.</div>",
+            "url": "https://github.com/cargo-limit/cargo-limit",
+            "title": "cargo-limit/cargo-limit: Productivity improvements for Rust ecosystem: warnings are skipped until errors are fixed, LSP-independent Neovim integration, etc.",
+            "date_modified": "2024-03-01T01:17:57.000Z",
+            "date_published": "2020-09-13T23:01:03.000Z",
+            "author": {
+                "name": "cargo-limit",
+                "url": "https://github.com/cargo-limit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114779675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin framework for creating games in NeoVim.</div>",
+            "url": "https://github.com/theKnightsOfRohan/venison.nvim",
+            "title": "theKnightsOfRohan/venison.nvim: A plugin framework for creating games in NeoVim.",
+            "date_modified": "2024-03-15T05:02:11.000Z",
+            "date_published": "2024-03-15T05:02:06.000Z",
+            "author": {
+                "name": "theKnightsOfRohan",
+                "url": "https://github.com/theKnightsOfRohan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163699?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</div>",
             "url": "https://github.com/jackMort/ChatGPT.nvim",
             "title": "jackMort/ChatGPT.nvim: ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
@@ -97,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test iOS &amp; macOS applications.</div>",
             "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
             "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
-            "date_modified": "2024-03-26T23:52:24.000Z",
+            "date_modified": "2024-03-27T15:40:15.000Z",
             "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
                 "name": "wojciech-kulik",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "uga-rosa",
                 "url": "https://github.com/uga-rosa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A completion plugin for neovim coded in Lua.</div>",
-            "url": "https://github.com/hrsh7th/nvim-cmp",
-            "title": "hrsh7th/nvim-cmp: A completion plugin for neovim coded in Lua.",
-            "date_modified": "2024-03-27T14:56:35.000Z",
-            "date_published": "2021-06-29T18:01:04.000Z",
-            "author": {
-                "name": "hrsh7th",
-                "url": "https://github.com/hrsh7th"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20689156?u=b9559f176b8317f628ecb4560ef0677b7999a38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.</div>",
-            "url": "https://github.com/shortcuts/no-neck-pain.nvim",
-            "title": "shortcuts/no-neck-pain.nvim: ☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.",
-            "date_modified": "2024-03-27T10:32:26.000Z",
-            "date_published": "2022-10-23T12:09:24.000Z",
-            "author": {
-                "name": "shortcuts",
-                "url": "https://github.com/shortcuts"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24727447?u=25e76c57be01004cd9898ebe65175f90f318b79b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more</div>",
-            "url": "https://github.com/numToStr/Comment.nvim",
-            "title": "numToStr/Comment.nvim: :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",
-            "date_modified": "2024-03-27T14:56:42.000Z",
-            "date_published": "2021-10-02T10:22:43.000Z",
-            "author": {
-                "name": "numToStr",
-                "url": "https://github.com/numToStr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-03-27T14:47:06.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
             }
         }
     ]
