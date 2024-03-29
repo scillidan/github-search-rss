@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161784685?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Productivity improvements for Rust ecosystem: warnings are skipped until errors are fixed, LSP-independent Neovim integration, etc.</div>",
+            "url": "https://github.com/cargo-limit/cargo-limit",
+            "title": "cargo-limit/cargo-limit: Productivity improvements for Rust ecosystem: warnings are skipped until errors are fixed, LSP-independent Neovim integration, etc.",
+            "date_modified": "2024-03-01T01:17:57.000Z",
+            "date_published": "2020-09-13T23:01:03.000Z",
+            "author": {
+                "name": "cargo-limit",
+                "url": "https://github.com/cargo-limit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56180050?u=060abf90468330d91c2bdea953418fed8b609a82&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.</div>",
+            "url": "https://github.com/sitiom/nvim-numbertoggle",
+            "title": "sitiom/nvim-numbertoggle: Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.",
+            "date_modified": "2024-03-25T08:38:34.000Z",
+            "date_published": "2022-07-04T10:24:08.000Z",
+            "author": {
+                "name": "sitiom",
+                "url": "https://github.com/sitiom"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2755722?u=a9746c9f33b5a17bee04d58b578a12a013b4d41b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)</div>",
+            "url": "https://github.com/dmmulroy/tsc.nvim",
+            "title": "dmmulroy/tsc.nvim: A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)",
+            "date_modified": "2024-03-29T08:54:14.000Z",
+            "date_published": "2023-04-22T22:35:33.000Z",
+            "author": {
+                "name": "dmmulroy",
+                "url": "https://github.com/dmmulroy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6514550?u=bab142a5f96af8d1f34c5b1bff79c998ffda8049&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Illustrate is a lua plugin for neovim that lets you quickly create, search and open vector files in Inkscape or Adobe Illustrator from within neovim.</div>",
+            "url": "https://github.com/rpapallas/illustrate.nvim",
+            "title": "rpapallas/illustrate.nvim: 🎨 Illustrate is a lua plugin for neovim that lets you quickly create, search and open vector files in Inkscape or Adobe Illustrator from within neovim.",
+            "date_modified": "2024-03-26T10:19:49.000Z",
+            "date_published": "2024-02-21T00:00:03.000Z",
+            "author": {
+                "name": "rpapallas",
+                "url": "https://github.com/rpapallas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-03-29T02:14:02.000Z",
+            "date_modified": "2024-03-29T09:05:10.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -53,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77913442?u=01185051903547a4bfeeb9e01758d82f3d597668&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Some semi-util useless plugins put together</div>",
             "url": "https://github.com/tamton-aquib/stuff.nvim",
             "title": "tamton-aquib/stuff.nvim: Some semi-util useless plugins put together",
-            "date_modified": "2024-03-29T06:03:58.000Z",
+            "date_modified": "2024-03-29T08:14:14.000Z",
             "date_published": "2022-08-07T07:19:12.000Z",
             "author": {
                 "name": "tamton-aquib",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
-            "url": "https://github.com/yutkat/my-neovim-pluginlist",
-            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
-            "date_modified": "2024-03-28T15:13:02.000Z",
-            "date_published": "2022-04-17T14:53:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25811797?u=95d1efebabde29fc3e595ac99d41f8eb9491dd30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My sensivle Neovim config with useful plugins</div>",
-            "url": "https://github.com/maths-lover/neovim_config",
-            "title": "maths-lover/neovim_config: My sensivle Neovim config with useful plugins",
-            "date_modified": "2024-03-26T06:37:07.000Z",
-            "date_published": "2024-03-25T21:34:40.000Z",
-            "author": {
-                "name": "maths-lover",
-                "url": "https://github.com/maths-lover"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-02-09T05:27:13.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
-            "title": "LongerHV/neovim-plugins-overlay",
-            "date_modified": "2023-08-20T22:40:05.000Z",
-            "date_published": "2022-12-22T21:42:57.000Z",
-            "author": {
-                "name": "LongerHV",
-                "url": "https://github.com/LongerHV"
             }
         }
     ]
