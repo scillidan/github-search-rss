@@ -6,14 +6,25 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77966496?u=d4bfb87091a30b73d912bca5aca655881c0fafd9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to punish you for every mouse movement</div>",
-            "url": "https://github.com/Mysterius79/social_credit.nvim",
-            "title": "Mysterius79/social_credit.nvim: A neovim plugin to punish you for every mouse movement",
-            "date_modified": "2024-03-30T20:47:36.000Z",
-            "date_published": "2024-03-30T20:47:31.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20234823?u=2a9f19c08615e5bc62091e2aeae0894886586f27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dashboard plugin for Neovim</div>",
+            "url": "https://github.com/Dbevan770/nvim-dashboard",
+            "title": "Dbevan770/nvim-dashboard: Dashboard plugin for Neovim",
+            "date_modified": "2024-03-31T00:38:39.000Z",
+            "date_published": "2024-03-31T00:38:38.000Z",
             "author": {
-                "name": "Mysterius79",
-                "url": "https://github.com/Mysterius79"
+                "name": "Dbevan770",
+                "url": "https://github.com/Dbevan770"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
+            "url": "https://github.com/R-nvim/R.nvim",
+            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
+            "date_modified": "2024-03-30T17:03:37.000Z",
+            "date_published": "2024-01-22T20:23:10.000Z",
+            "author": {
+                "name": "R-nvim",
+                "url": "https://github.com/R-nvim"
             }
         },
         {
@@ -28,6 +39,39 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
+            "title": "LongerHV/neovim-plugins-overlay",
+            "date_modified": "2023-08-20T22:40:05.000Z",
+            "date_published": "2022-12-22T21:42:57.000Z",
+            "author": {
+                "name": "LongerHV",
+                "url": "https://github.com/LongerHV"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-03-30T19:39:05.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
+            "title": "yutkat/new-neovim-plugin-rss",
+            "date_modified": "2024-02-09T05:27:13.000Z",
+            "date_published": "2022-08-28T04:58:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100767853?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Classic 15 puzzle for Neovim.</div>",
             "url": "https://github.com/NStefan002/15puzzle.nvim",
             "title": "NStefan002/15puzzle.nvim: Classic 15 puzzle for Neovim.",
@@ -36,6 +80,17 @@
             "author": {
                 "name": "NStefan002",
                 "url": "https://github.com/NStefan002"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77966496?u=d4bfb87091a30b73d912bca5aca655881c0fafd9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to punish you for every mouse movement</div>",
+            "url": "https://github.com/Mysterius79/social_credit.nvim",
+            "title": "Mysterius79/social_credit.nvim: A neovim plugin to punish you for every mouse movement",
+            "date_modified": "2024-03-30T20:47:36.000Z",
+            "date_published": "2024-03-30T20:47:31.000Z",
+            "author": {
+                "name": "Mysterius79",
+                "url": "https://github.com/Mysterius79"
             }
         },
         {
@@ -86,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
             "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
             "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
-            "date_modified": "2024-03-30T20:56:45.000Z",
+            "date_modified": "2024-03-30T23:37:38.000Z",
             "date_published": "2021-12-12T13:38:23.000Z",
             "author": {
                 "name": "nvim-neo-tree",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "sudo-burger",
                 "url": "https://github.com/sudo-burger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
-            "url": "https://github.com/benlubas/molten-nvim",
-            "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
-            "date_modified": "2024-03-30T17:45:16.000Z",
-            "date_published": "2023-10-05T18:25:49.000Z",
-            "author": {
-                "name": "benlubas",
-                "url": "https://github.com/benlubas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6514550?u=bab142a5f96af8d1f34c5b1bff79c998ffda8049&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Illustrate is a lua plugin for neovim that lets you quickly create, search and open vector files in Inkscape or Adobe Illustrator from within neovim.</div>",
-            "url": "https://github.com/rpapallas/illustrate.nvim",
-            "title": "rpapallas/illustrate.nvim: 🎨 Illustrate is a lua plugin for neovim that lets you quickly create, search and open vector files in Inkscape or Adobe Illustrator from within neovim.",
-            "date_modified": "2024-03-26T10:19:49.000Z",
-            "date_published": "2024-02-21T00:00:03.000Z",
-            "author": {
-                "name": "rpapallas",
-                "url": "https://github.com/rpapallas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49614335?u=63c7f20d22824635107e51f2abb623b5f9f8634f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dataform Core Plugin for Neovim</div>",
-            "url": "https://github.com/magal1337/dataform.nvim",
-            "title": "magal1337/dataform.nvim: Dataform Core Plugin for Neovim",
-            "date_modified": "2024-03-27T18:10:28.000Z",
-            "date_published": "2024-03-12T01:28:10.000Z",
-            "author": {
-                "name": "magal1337",
-                "url": "https://github.com/magal1337"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111681693?u=03ba989ea2f6644a410719959a901b16fdb5a0f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for project modal</div>",
-            "url": "https://github.com/noearc/modal.nvim",
-            "title": "noearc/modal.nvim: neovim plugin for project modal",
-            "date_modified": "2024-03-30T13:38:17.000Z",
-            "date_published": "2024-01-22T09:48:11.000Z",
-            "author": {
-                "name": "noearc",
-                "url": "https://github.com/noearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5246169?u=bab2efeafb274d7193fb804926948822bf1f6010&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terminal UI to chat with large language models (LLM) using different model backends, and with a plugin for Neovim!</div>",
-            "url": "https://github.com/dustinblackman/oatmeal.nvim",
-            "title": "dustinblackman/oatmeal.nvim: Terminal UI to chat with large language models (LLM) using different model backends, and with a plugin for Neovim!",
-            "date_modified": "2024-03-30T09:27:08.000Z",
-            "date_published": "2023-11-06T21:47:26.000Z",
-            "author": {
-                "name": "dustinblackman",
-                "url": "https://github.com/dustinblackman"
             }
         }
     ]
