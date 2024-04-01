@@ -6,17 +6,6 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension for Stable Diffusion web-ui enables negative prompt in prompt</div>",
-            "url": "https://github.com/hako-mikan/sd-webui-negpip",
-            "title": "hako-mikan/sd-webui-negpip: Extension for Stable Diffusion web-ui enables negative prompt in prompt",
-            "date_modified": "2024-03-31T16:49:45.000Z",
-            "date_published": "2023-07-26T15:58:03.000Z",
-            "author": {
-                "name": "hako-mikan",
-                "url": "https://github.com/hako-mikan"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Firstpass generation with old SD model, Loras, embedding, etc</div>",
             "url": "https://github.com/light-and-ray/sd-webui-old-sd-firstpasser",
             "title": "light-and-ray/sd-webui-old-sd-firstpasser: Firstpass generation with old SD model, Loras, embedding, etc",
@@ -25,6 +14,17 @@
             "author": {
                 "name": "light-and-ray",
                 "url": "https://github.com/light-and-ray"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension for Stable Diffusion web-ui enables negative prompt in prompt</div>",
+            "url": "https://github.com/hako-mikan/sd-webui-negpip",
+            "title": "hako-mikan/sd-webui-negpip: Extension for Stable Diffusion web-ui enables negative prompt in prompt",
+            "date_modified": "2024-03-31T16:49:45.000Z",
+            "date_published": "2023-07-26T15:58:03.000Z",
+            "author": {
+                "name": "hako-mikan",
+                "url": "https://github.com/hako-mikan"
             }
         },
         {
@@ -102,6 +102,17 @@
             "author": {
                 "name": "SirVeggie",
                 "url": "https://github.com/SirVeggie"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165602828?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an extension for AUTOMATIC1111/stable-diffusion-webui that automatically saves your AI-generated images to cloud storage or a prompt organizer such as <a href=\"http://www.txt2any.com\" rel=\"nofollow\">www.txt2any.com</a>.</div>",
+            "url": "https://github.com/txt2any/sd-webui-prompt-organizer",
+            "title": "txt2any/sd-webui-prompt-organizer: This is an extension for AUTOMATIC1111/stable-diffusion-webui that automatically saves your AI-generated images to cloud storage or a prompt organizer such as www.txt2any.com.",
+            "date_modified": "2024-04-01T15:14:39.000Z",
+            "date_published": "2024-03-31T21:11:09.000Z",
+            "author": {
+                "name": "txt2any",
+                "url": "https://github.com/txt2any"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "sebaxakerhtc",
                 "url": "https://github.com/sebaxakerhtc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29772821?u=c8a3501c0b21a96bb8349b2ff2ca6cef98249f33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.</div>",
-            "url": "https://github.com/storyicon/comfyui_segment_anything",
-            "title": "storyicon/comfyui_segment_anything: Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.",
-            "date_modified": "2024-04-01T13:46:11.000Z",
-            "date_published": "2023-10-07T03:21:20.000Z",
-            "author": {
-                "name": "storyicon",
-                "url": "https://github.com/storyicon"
             }
         }
     ]
