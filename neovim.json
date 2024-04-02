@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64798198?u=7f9b2211917dc76cb64c1a03aebf34dc8a4407d8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for Bloc support similar to the Bloc Vscode Extension</div>",
+            "url": "https://github.com/RobertPietraru/bloc.nvim",
+            "title": "RobertPietraru/bloc.nvim: A Neovim plugin for Bloc support similar to the Bloc Vscode Extension",
+            "date_modified": "2023-12-11T09:18:39.000Z",
+            "date_published": "2023-07-12T08:27:58.000Z",
+            "author": {
+                "name": "RobertPietraru",
+                "url": "https://github.com/RobertPietraru"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript, Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript, Lua plugin development",
+            "date_modified": "2024-04-01T17:57:14.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.</div>",
+            "url": "https://github.com/echasnovski/mini.statusline",
+            "title": "echasnovski/mini.statusline: Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.",
+            "date_modified": "2024-04-01T15:37:14.000Z",
+            "date_published": "2022-10-24T16:29:00.000Z",
+            "author": {
+                "name": "echasnovski",
+                "url": "https://github.com/echasnovski"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim</div>",
             "url": "https://github.com/mistricky/codesnap.nvim",
             "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
@@ -105,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript, Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript, Lua plugin development",
-            "date_modified": "2024-04-01T17:57:14.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13459390?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>List of repos with neovim-plugin topic tag, refreshed twice a day.</div>",
             "url": "https://github.com/axeldetlofsson/neovim-plugins-list",
             "title": "axeldetlofsson/neovim-plugins-list: List of repos with neovim-plugin topic tag, refreshed twice a day.",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6261276?u=8d1652d821d4766a58014ff91283e68dcf92a563&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>free AI completion plugin for neovim</div>",
             "url": "https://github.com/monkoose/neocodeium",
             "title": "monkoose/neocodeium: free AI completion plugin for neovim",
-            "date_modified": "2024-04-02T10:49:15.000Z",
+            "date_modified": "2024-04-02T12:27:12.000Z",
             "date_published": "2024-04-01T15:01:46.000Z",
             "author": {
                 "name": "monkoose",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "nvim-neo-tree",
                 "url": "https://github.com/nvim-neo-tree"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI",
-            "date_modified": "2024-04-02T11:23:48.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3751019?u=a995f71a4e6cb026d66439e0b78885ac5fa489f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lua version of the Phpactor vim plugin to take advantage of the latest Neovim features</div>",
-            "url": "https://github.com/gbprod/phpactor.nvim",
-            "title": "gbprod/phpactor.nvim: Lua version of the Phpactor vim plugin to take advantage of the latest Neovim features",
-            "date_modified": "2024-04-01T01:48:31.000Z",
-            "date_published": "2022-06-23T07:47:41.000Z",
-            "author": {
-                "name": "gbprod",
-                "url": "https://github.com/gbprod"
             }
         }
     ]
