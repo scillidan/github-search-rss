@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-03-27T19:33:20.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-04-01T13:52:08.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/339433?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin: set of functions to navigate code without LSP.</div>",
+            "url": "https://github.com/emmanueltouzery/code-compass.nvim",
+            "title": "emmanueltouzery/code-compass.nvim: Neovim plugin: set of functions to navigate code without LSP.",
+            "date_modified": "2024-04-03T15:02:44.000Z",
+            "date_published": "2024-03-30T18:30:36.000Z",
+            "author": {
+                "name": "emmanueltouzery",
+                "url": "https://github.com/emmanueltouzery"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim</div>",
+            "url": "https://github.com/mistricky/codesnap.nvim",
+            "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
+            "date_modified": "2024-04-04T21:00:30.000Z",
+            "date_published": "2024-02-13T06:05:34.000Z",
+            "author": {
+                "name": "mistricky",
+                "url": "https://github.com/mistricky"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149238?u=1449eae7884be9567a5b1103a42c0bfe3bb805b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A theme, config and collection of plugins for Neovim</div>",
             "url": "https://github.com/prurigro/darkcloud-nvimconfig",
             "title": "prurigro/darkcloud-nvimconfig: A theme, config and collection of plugins for Neovim",
@@ -20,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-04-04T18:39:23.000Z",
+            "date_modified": "2024-04-04T20:31:23.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -64,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-04-04T19:23:12.000Z",
+            "date_modified": "2024-04-04T20:51:20.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -127,28 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-04-01T13:52:08.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim</div>",
-            "url": "https://github.com/mistricky/codesnap.nvim",
-            "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
-            "date_modified": "2024-04-04T19:48:06.000Z",
-            "date_published": "2024-02-13T06:05:34.000Z",
-            "author": {
-                "name": "mistricky",
-                "url": "https://github.com/mistricky"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53562817?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple neovim plugin for jot down everyting base on project</div>",
             "url": "https://github.com/letieu/jot.lua",
             "title": "letieu/jot.lua: Simple neovim plugin for jot down everyting base on project",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "catgoose",
                 "url": "https://github.com/catgoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1377455?u=f22372e718d56f068be22531d08aa12286f67762&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to sweep Vim buffers.</div>",
-            "url": "https://github.com/mogulla3/buf-sweep.nvim",
-            "title": "mogulla3/buf-sweep.nvim: A Neovim plugin to sweep Vim buffers.",
-            "date_modified": "2024-02-23T09:34:44.000Z",
-            "date_published": "2022-11-06T13:26:26.000Z",
-            "author": {
-                "name": "mogulla3",
-                "url": "https://github.com/mogulla3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1940365?u=2286f0a0ee21d60505aaba79454915b01d125575&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>website that makes it easy to find neovim plugins</div>",
-            "url": "https://github.com/neurosnap/neovimcraft",
-            "title": "neurosnap/neovimcraft: website that makes it easy to find neovim plugins",
-            "date_modified": "2024-03-26T10:13:06.000Z",
-            "date_published": "2021-07-19T01:42:02.000Z",
-            "author": {
-                "name": "neurosnap",
-                "url": "https://github.com/neurosnap"
             }
         }
     ]
