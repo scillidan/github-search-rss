@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
+            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
+            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
+            "date_modified": "2024-03-11T14:09:33.000Z",
+            "date_published": "2024-03-10T11:54:02.000Z",
+            "author": {
+                "name": "ttak0422",
+                "url": "https://github.com/ttak0422"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53029771?u=82b5090f810e47d0950f47cf10ea4cacaca85df0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim setup configured with Lua and a bunch of plugins.</div>",
+            "url": "https://github.com/tuffgniuz/nvim.lua",
+            "title": "tuffgniuz/nvim.lua: My neovim setup configured with Lua and a bunch of plugins.",
+            "date_modified": "2024-04-04T12:09:47.000Z",
+            "date_published": "2021-12-12T10:26:46.000Z",
+            "author": {
+                "name": "tuffgniuz",
+                "url": "https://github.com/tuffgniuz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin for fast and familiar per-line commenting. Part of 'mini.nvim' library.</div>",
+            "url": "https://github.com/echasnovski/mini.comment",
+            "title": "echasnovski/mini.comment: Neovim Lua plugin for fast and familiar per-line commenting. Part of 'mini.nvim' library.",
+            "date_modified": "2024-04-04T07:37:39.000Z",
+            "date_published": "2022-10-24T16:18:06.000Z",
+            "author": {
+                "name": "echasnovski",
+                "url": "https://github.com/echasnovski"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim</div>",
             "url": "https://github.com/mistricky/codesnap.nvim",
             "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
-            "date_modified": "2024-04-04T10:41:06.000Z",
+            "date_modified": "2024-04-04T12:08:55.000Z",
             "date_published": "2024-02-13T06:05:34.000Z",
             "author": {
                 "name": "mistricky",
@@ -163,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-04-04T10:25:07.000Z",
+            "date_modified": "2024-04-04T11:27:07.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Sanhajio",
                 "url": "https://github.com/Sanhajio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6514550?u=bab142a5f96af8d1f34c5b1bff79c998ffda8049&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎨 Illustrate is a lua plugin for neovim that lets you quickly create, search and open vector files in Inkscape or Adobe Illustrator from within neovim.</div>",
-            "url": "https://github.com/rpapallas/illustrate.nvim",
-            "title": "rpapallas/illustrate.nvim: 🎨 Illustrate is a lua plugin for neovim that lets you quickly create, search and open vector files in Inkscape or Adobe Illustrator from within neovim.",
-            "date_modified": "2024-03-31T15:44:09.000Z",
-            "date_published": "2024-02-21T00:00:03.000Z",
-            "author": {
-                "name": "rpapallas",
-                "url": "https://github.com/rpapallas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78635720?u=c884d89eec01b114ce313e7c6175f6b5512d0348&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple tree-sitter navigation and editing plugin for scheme</div>",
-            "url": "https://github.com/carlinigraphy/scm-edit.nvim",
-            "title": "carlinigraphy/scm-edit.nvim: Simple tree-sitter navigation and editing plugin for scheme",
-            "date_modified": "2024-03-04T01:58:18.000Z",
-            "date_published": "2024-02-27T08:21:43.000Z",
-            "author": {
-                "name": "carlinigraphy",
-                "url": "https://github.com/carlinigraphy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
-            "url": "https://github.com/yutkat/my-neovim-pluginlist",
-            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
-            "date_modified": "2024-04-02T17:41:17.000Z",
-            "date_published": "2022-04-17T14:53:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
             }
         }
     ]
