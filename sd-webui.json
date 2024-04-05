@@ -6,6 +6,39 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Firstpass generation with old SD model, Loras, embedding, etc</div>",
+            "url": "https://github.com/light-and-ray/sd-webui-old-sd-firstpasser",
+            "title": "light-and-ray/sd-webui-old-sd-firstpasser: Firstpass generation with old SD model, Loras, embedding, etc",
+            "date_modified": "2024-04-05T07:06:51.000Z",
+            "date_published": "2024-04-01T14:35:13.000Z",
+            "author": {
+                "name": "light-and-ray",
+                "url": "https://github.com/light-and-ray"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141602933?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto masking and inpainting for person, face, hand. Resizing image using detection model.</div>",
+            "url": "https://github.com/portu-sim/sd-webui-bmab",
+            "title": "portu-sim/sd-webui-bmab: Auto masking and inpainting for person, face, hand. Resizing image using detection model.",
+            "date_modified": "2024-04-03T08:13:38.000Z",
+            "date_published": "2023-08-07T04:24:49.000Z",
+            "author": {
+                "name": "portu-sim",
+                "url": "https://github.com/portu-sim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.</div>",
+            "url": "https://github.com/canonical/sdcore-webui-k8s-operator",
+            "title": "canonical/sdcore-webui-k8s-operator: A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.",
+            "date_modified": "2023-12-11T09:40:27.000Z",
+            "date_published": "2023-05-19T15:43:33.000Z",
+            "author": {
+                "name": "canonical",
+                "url": "https://github.com/canonical"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
             "url": "https://github.com/siliconflow/onediff",
             "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
@@ -33,17 +66,6 @@
             "title": "light-and-ray/sd-webui-color-correction-extras: add native color correction feature into Extras tab",
             "date_modified": "2024-04-05T07:02:52.000Z",
             "date_published": "2023-12-06T18:35:20.000Z",
-            "author": {
-                "name": "light-and-ray",
-                "url": "https://github.com/light-and-ray"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Firstpass generation with old SD model, Loras, embedding, etc</div>",
-            "url": "https://github.com/light-and-ray/sd-webui-old-sd-firstpasser",
-            "title": "light-and-ray/sd-webui-old-sd-firstpasser: Firstpass generation with old SD model, Loras, embedding, etc",
-            "date_modified": "2024-04-05T07:06:51.000Z",
-            "date_published": "2024-04-01T14:35:13.000Z",
             "author": {
                 "name": "light-and-ray",
                 "url": "https://github.com/light-and-ray"
@@ -97,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9644716?u=9a836a0e016e610fa976caf85584e06f7440885d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension to access CivitAI via WebUI: download, delete, scan for updates, list installed models, assign tags, and boost downloads with multi-threading.</div>",
             "url": "https://github.com/BlafKing/sd-civitai-browser-plus",
             "title": "BlafKing/sd-civitai-browser-plus: Extension to access CivitAI via WebUI: download, delete, scan for updates, list installed models, assign tags, and boost downloads with multi-threading.",
-            "date_modified": "2024-04-03T12:21:11.000Z",
+            "date_modified": "2024-04-05T13:56:16.000Z",
             "date_published": "2023-08-20T21:35:48.000Z",
             "author": {
                 "name": "BlafKing",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "anxety-solo",
                 "url": "https://github.com/anxety-solo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143872258?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Style control for SDXL anime models. SD WebUI Forge extension.</div>",
-            "url": "https://github.com/gustproof/sd-webui-forge-style-components",
-            "title": "gustproof/sd-webui-forge-style-components: Style control for SDXL anime models. SD WebUI Forge extension.",
-            "date_modified": "2024-04-04T17:22:23.000Z",
-            "date_published": "2024-04-04T03:48:01.000Z",
-            "author": {
-                "name": "gustproof",
-                "url": "https://github.com/gustproof"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30926385?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a repository for conversations using OpenAI API (compatible with ChatGPT) or llama.cpp in Stable Diffusion web UI.</div>",
-            "url": "https://github.com/NON906/sd-webui-chatgpt",
-            "title": "NON906/sd-webui-chatgpt: This is a repository for conversations using OpenAI API (compatible with ChatGPT) or llama.cpp in Stable Diffusion web UI.",
-            "date_modified": "2024-03-29T14:48:17.000Z",
-            "date_published": "2023-08-11T04:22:17.000Z",
-            "author": {
-                "name": "NON906",
-                "url": "https://github.com/NON906"
             }
         }
     ]
