@@ -6,17 +6,6 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20072509?u=8376ae443058e90ce3505568f9b95a042c8ca359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌍 A plugin to improve your workflow with i18n</div>",
-            "url": "https://github.com/olrtg/nvim-i18n",
-            "title": "olrtg/nvim-i18n: 🌍 A plugin to improve your workflow with i18n",
-            "date_modified": "2024-03-22T23:56:14.000Z",
-            "date_published": "2023-06-04T03:23:55.000Z",
-            "author": {
-                "name": "olrtg",
-                "url": "https://github.com/olrtg"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3767728?u=1cfdf2e48d0b47d46d4114953a4ddfd7e6574129&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Web development plugin for neovim</div>",
             "url": "https://github.com/creativenull/web.nvim",
             "title": "creativenull/web.nvim: Web development plugin for neovim",
@@ -25,6 +14,50 @@
             "author": {
                 "name": "creativenull",
                 "url": "https://github.com/creativenull"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-04-07T20:39:58.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13997067?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Session management plugin for Neovim</div>",
+            "url": "https://github.com/mackeper/SeshMgr.nvim",
+            "title": "mackeper/SeshMgr.nvim: Session management plugin for Neovim",
+            "date_modified": "2024-04-01T17:04:18.000Z",
+            "date_published": "2024-03-13T20:07:57.000Z",
+            "author": {
+                "name": "mackeper",
+                "url": "https://github.com/mackeper"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-03-30T15:33:17.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20072509?u=8376ae443058e90ce3505568f9b95a042c8ca359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌍 A plugin to improve your workflow with i18n</div>",
+            "url": "https://github.com/olrtg/nvim-i18n",
+            "title": "olrtg/nvim-i18n: 🌍 A plugin to improve your workflow with i18n",
+            "date_modified": "2024-03-22T23:56:14.000Z",
+            "date_published": "2023-06-04T03:23:55.000Z",
+            "author": {
+                "name": "olrtg",
+                "url": "https://github.com/olrtg"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of miscellaneous Vim/Neovim plugins</div>",
-            "url": "https://github.com/m15a/flake-vim-extra-plugins",
-            "title": "m15a/flake-vim-extra-plugins: Nix flake of miscellaneous Vim/Neovim plugins",
-            "date_modified": "2024-04-06T11:51:31.000Z",
-            "date_published": "2021-12-11T08:13:56.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22934689?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin displaying number under cursor in different number systems.</div>",
-            "url": "https://github.com/marmal95/nvim-cursor-number",
-            "title": "marmal95/nvim-cursor-number: Neovim plugin displaying number under cursor in different number systems.",
-            "date_modified": "2024-01-06T18:54:44.000Z",
-            "date_published": "2023-11-13T17:28:52.000Z",
-            "author": {
-                "name": "marmal95",
-                "url": "https://github.com/marmal95"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23740867?u=6eeecc366b444b1ec396b1d7f5c6e00940437e02&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal winbar plugin for neovim</div>",
-            "url": "https://github.com/mnjm/winline.nvim",
-            "title": "mnjm/winline.nvim: Minimal winbar plugin for neovim",
-            "date_modified": "2024-04-07T16:10:59.000Z",
-            "date_published": "2024-04-07T04:54:29.000Z",
-            "author": {
-                "name": "mnjm",
-                "url": "https://github.com/mnjm"
             }
         }
     ]
