@@ -6,6 +6,39 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112841659?u=9616463203c8499dd566a9113610f6f6895817d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>通过 lua 脚本调用 plex 桌面端 mpv 播放器的隐藏功能 / calling the hidden features of the plex desktop mpv player via lua scripts</div>",
+            "url": "https://github.com/x1ao4/plex-mpv",
+            "title": "x1ao4/plex-mpv: 通过 lua 脚本调用 plex 桌面端 mpv 播放器的隐藏功能 / calling the hidden features of the plex desktop mpv player via lua scripts",
+            "date_modified": "2024-04-05T16:34:51.000Z",
+            "date_published": "2023-06-01T15:34:20.000Z",
+            "author": {
+                "name": "x1ao4",
+                "url": "https://github.com/x1ao4"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6543066?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>opensubtitles.com mpv selecter &amp; downloader</div>",
+            "url": "https://github.com/AbrahamSalloum/opensubmpv",
+            "title": "AbrahamSalloum/opensubmpv: opensubtitles.com mpv selecter & downloader",
+            "date_modified": "2023-08-20T13:56:38.000Z",
+            "date_published": "2022-07-24T07:46:47.000Z",
+            "author": {
+                "name": "AbrahamSalloum",
+                "url": "https://github.com/AbrahamSalloum"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63973002?u=299db7dd535952346c5bb663ae04a385beafbee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Execute mpv on local machine with files on remote from SSH session</div>",
+            "url": "https://github.com/LeonidPilyugin/mpv-over-ssh",
+            "title": "LeonidPilyugin/mpv-over-ssh: Execute mpv on local machine with files on remote from SSH session",
+            "date_modified": "2024-04-07T05:11:09.000Z",
+            "date_published": "2024-04-07T05:11:08.000Z",
+            "author": {
+                "name": "LeonidPilyugin",
+                "url": "https://github.com/LeonidPilyugin"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52953325?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Karaoke player and manager (Backup repository. Main is <a href=\"https://gitlab.com/karaokemugen/karaokemugen-app\" rel=\"nofollow\">https://gitlab.com/karaokemugen/karaokemugen-app</a> )</div>",
             "url": "https://github.com/karaokemugen/karaokemugen-app",
             "title": "karaokemugen/karaokemugen-app: Karaoke player and manager (Backup repository. Main is https://gitlab.com/karaokemugen/karaokemugen-app )",
@@ -174,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
             "url": "https://github.com/mpv-player/mpv",
             "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2024-04-07T03:45:24.000Z",
+            "date_modified": "2024-04-07T05:48:56.000Z",
             "date_published": "2012-10-13T08:08:44.000Z",
             "author": {
                 "name": "mpv-player",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "VitaliKStud",
                 "url": "https://github.com/VitaliKStud"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2671462?u=f95489faa881ae3aca0d27f3853899b3c0603f8d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>attach subtitles and external audio to mpv player automatically</div>",
-            "url": "https://github.com/POMATu/anime-tool",
-            "title": "POMATu/anime-tool: attach subtitles and external audio to mpv player automatically",
-            "date_modified": "2024-04-02T14:21:25.000Z",
-            "date_published": "2019-02-22T21:45:10.000Z",
-            "author": {
-                "name": "POMATu",
-                "url": "https://github.com/POMATu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5113053?u=992016b5f22c0cd9c22be021248bd9083adacc7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Accountless deezer.com Player (CLI &amp; VSCode)</div>",
-            "url": "https://github.com/yne/dzr",
-            "title": "yne/dzr: Accountless deezer.com Player (CLI & VSCode)",
-            "date_modified": "2024-03-30T13:59:17.000Z",
-            "date_published": "2019-10-15T14:26:08.000Z",
-            "author": {
-                "name": "yne",
-                "url": "https://github.com/yne"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89312879?u=b4bb1782749fce52f846cb83f816ad426682c502&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Work in progress MPV shim for Jellyfin written in Rust</div>",
-            "url": "https://github.com/Velkee/dollfish",
-            "title": "Velkee/dollfish: Work in progress MPV shim for Jellyfin written in Rust",
-            "date_modified": "2024-04-03T11:49:25.000Z",
-            "date_published": "2024-04-03T11:44:15.000Z",
-            "author": {
-                "name": "Velkee",
-                "url": "https://github.com/Velkee"
             }
         }
     ]
