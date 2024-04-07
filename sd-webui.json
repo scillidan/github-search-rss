@@ -6,6 +6,39 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9644716?u=9a836a0e016e610fa976caf85584e06f7440885d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension to access CivitAI via WebUI: download, delete, scan for updates, list installed models, assign tags, and boost downloads with multi-threading.</div>",
+            "url": "https://github.com/BlafKing/sd-civitai-browser-plus",
+            "title": "BlafKing/sd-civitai-browser-plus: Extension to access CivitAI via WebUI: download, delete, scan for updates, list installed models, assign tags, and boost downloads with multi-threading.",
+            "date_modified": "2024-04-06T08:42:37.000Z",
+            "date_published": "2023-08-20T21:35:48.000Z",
+            "author": {
+                "name": "BlafKing",
+                "url": "https://github.com/BlafKing"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59680068?u=f6f0598bade276c76f9ba0a1351480b597358b1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sd-webui extension for utilizing DanTagGen to \"upsample prompts\".</div>",
+            "url": "https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg",
+            "title": "KohakuBlueleaf/z-a1111-sd-webui-dtg: A sd-webui extension for utilizing DanTagGen to \"upsample prompts\".",
+            "date_modified": "2024-04-06T14:51:02.000Z",
+            "date_published": "2024-03-23T09:00:11.000Z",
+            "author": {
+                "name": "KohakuBlueleaf",
+                "url": "https://github.com/KohakuBlueleaf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tab for sd-webui for replacing objects in picture using detection prompt</div>",
+            "url": "https://github.com/light-and-ray/sd-webui-replacer",
+            "title": "light-and-ray/sd-webui-replacer: A tab for sd-webui for replacing objects in picture using detection prompt",
+            "date_modified": "2024-04-07T03:22:24.000Z",
+            "date_published": "2023-11-06T10:09:24.000Z",
+            "author": {
+                "name": "light-and-ray",
+                "url": "https://github.com/light-and-ray"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
             "url": "https://github.com/siliconflow/onediff",
             "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
@@ -130,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>set prompt to divided region</div>",
             "url": "https://github.com/hako-mikan/sd-webui-regional-prompter",
             "title": "hako-mikan/sd-webui-regional-prompter: set prompt to divided region",
-            "date_modified": "2024-04-07T05:16:03.000Z",
+            "date_modified": "2024-04-07T15:56:02.000Z",
             "date_published": "2023-03-19T14:46:35.000Z",
             "author": {
                 "name": "hako-mikan",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "SLAPaper",
                 "url": "https://github.com/SLAPaper"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66118290?u=401b229690a2094d86821b434744a9f675816e61&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The extension allows you to specify Lora or Lyco weight from context menu.</div>",
-            "url": "https://github.com/nihedon/sd-webui-weight-helper",
-            "title": "nihedon/sd-webui-weight-helper: The extension allows you to specify Lora or Lyco weight from context menu.",
-            "date_modified": "2024-03-29T16:33:55.000Z",
-            "date_published": "2023-09-07T17:03:54.000Z",
-            "author": {
-                "name": "nihedon",
-                "url": "https://github.com/nihedon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127399510?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>generate 3D module use tripoSR</div>",
-            "url": "https://github.com/AlbedoFire/sd-webui-triposr",
-            "title": "AlbedoFire/sd-webui-triposr: generate 3D module use tripoSR",
-            "date_modified": "2024-04-06T01:00:44.000Z",
-            "date_published": "2024-03-29T13:10:31.000Z",
-            "author": {
-                "name": "AlbedoFire",
-                "url": "https://github.com/AlbedoFire"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Interrupt generation on SIGINT signal (Ctrl+C), instead of closing the server.</div>",
-            "url": "https://github.com/light-and-ray/sd-webui-cli-interruption",
-            "title": "light-and-ray/sd-webui-cli-interruption: Interrupt generation on SIGINT signal (Ctrl+C), instead of closing the server.",
-            "date_modified": "2024-04-07T03:44:31.000Z",
-            "date_published": "2024-03-26T07:44:09.000Z",
-            "author": {
-                "name": "light-and-ray",
-                "url": "https://github.com/light-and-ray"
             }
         }
     ]
