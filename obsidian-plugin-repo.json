@@ -6,14 +6,36 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59998029?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Package my frequently used tools, highly personal plugins.</div>",
-            "url": "https://github.com/zigholding/obsidian-notechain-plugin",
-            "title": "zigholding/obsidian-notechain-plugin: Package my frequently used tools, highly personal plugins.",
-            "date_modified": "2024-04-05T11:32:48.000Z",
-            "date_published": "2024-01-23T02:48:07.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6703905?u=991528e8f16eae1526a904b0293e265ab87b8ef3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian plugin for recording Go games (SGF format goban)</div>",
+            "url": "https://github.com/StinsonZhao/obsidian-plugin-goban-sgf",
+            "title": "StinsonZhao/obsidian-plugin-goban-sgf: Obsidian plugin for recording Go games (SGF format goban)",
+            "date_modified": "2024-03-04T12:47:06.000Z",
+            "date_published": "2024-01-19T10:42:11.000Z",
             "author": {
-                "name": "zigholding",
-                "url": "https://github.com/zigholding"
+                "name": "StinsonZhao",
+                "url": "https://github.com/StinsonZhao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14358394?u=8b35a915119ac21a5753d57c3b79bc1981ff39a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to edit and view Excalidraw drawings in Obsidian</div>",
+            "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+            "title": "zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings in Obsidian",
+            "date_modified": "2024-04-07T07:07:53.000Z",
+            "date_published": "2021-04-17T18:43:09.000Z",
+            "author": {
+                "name": "zsviczian",
+                "url": "https://github.com/zsviczian"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153071489?u=dd5d60084c494d3b690730218cd7c05829b600d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>自用图床，使用Picgo &amp; Obsidian Image auto upload Plugin</div>",
+            "url": "https://github.com/xlglife/My_picgo",
+            "title": "xlglife/My_picgo: 自用图床，使用Picgo & Obsidian Image auto upload Plugin",
+            "date_modified": "2023-12-28T03:11:53.000Z",
+            "date_published": "2023-12-28T02:46:03.000Z",
+            "author": {
+                "name": "xlglife",
+                "url": "https://github.com/xlglife"
             }
         },
         {
@@ -25,6 +47,17 @@
             "author": {
                 "name": "jeetsukumaran",
                 "url": "https://github.com/jeetsukumaran"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59998029?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Package my frequently used tools, highly personal plugins.</div>",
+            "url": "https://github.com/zigholding/obsidian-notechain-plugin",
+            "title": "zigholding/obsidian-notechain-plugin: Package my frequently used tools, highly personal plugins.",
+            "date_modified": "2024-04-05T11:32:48.000Z",
+            "date_published": "2024-01-23T02:48:07.000Z",
+            "author": {
+                "name": "zigholding",
+                "url": "https://github.com/zigholding"
             }
         },
         {
@@ -86,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65011256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Community plugins list, theme list, and releases of Obsidian.</div>",
             "url": "https://github.com/obsidianmd/obsidian-releases",
             "title": "obsidianmd/obsidian-releases: Community plugins list, theme list, and releases of Obsidian.",
-            "date_modified": "2024-04-07T04:35:50.000Z",
+            "date_modified": "2024-04-07T07:35:35.000Z",
             "date_published": "2020-05-08T14:18:27.000Z",
             "author": {
                 "name": "obsidianmd",
@@ -138,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153071489?u=dd5d60084c494d3b690730218cd7c05829b600d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>自用图床，使用Picgo &amp; Obsidian Image auto upload Plugin</div>",
-            "url": "https://github.com/xlglife/My_picgo",
-            "title": "xlglife/My_picgo: 自用图床，使用Picgo & Obsidian Image auto upload Plugin",
-            "date_modified": "2023-12-28T03:11:53.000Z",
-            "date_published": "2023-12-28T02:46:03.000Z",
-            "author": {
-                "name": "xlglife",
-                "url": "https://github.com/xlglife"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6105390?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian PDF export enhancement plugin</div>",
             "url": "https://github.com/l1xnan/obsidian-better-export-pdf",
             "title": "l1xnan/obsidian-better-export-pdf: Obsidian PDF export enhancement plugin",
@@ -174,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5191776?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Enhanced Quick Switcher plugin for Obsidian.md</div>",
             "url": "https://github.com/darlal/obsidian-switcher-plus",
             "title": "darlal/obsidian-switcher-plus: Enhanced Quick Switcher plugin for Obsidian.md",
-            "date_modified": "2024-03-25T06:48:53.000Z",
+            "date_modified": "2024-04-07T07:23:36.000Z",
             "date_published": "2020-08-15T19:12:09.000Z",
             "author": {
                 "name": "darlal",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "nrsandoval",
                 "url": "https://github.com/nrsandoval"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17337703?u=3ef4bd2798ccfb7ee21c9a387a60f52f56064932&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for Obsidian providing a flexible way to create toolbars for your notes.</div>",
-            "url": "https://github.com/chrisgurney/obsidian-note-toolbar",
-            "title": "chrisgurney/obsidian-note-toolbar: Plugin for Obsidian providing a flexible way to create toolbars for your notes.",
-            "date_modified": "2024-04-07T02:18:34.000Z",
-            "date_published": "2024-03-10T13:40:19.000Z",
-            "author": {
-                "name": "chrisgurney",
-                "url": "https://github.com/chrisgurney"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/237227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian plugin to automate setting frontmatter</div>",
-            "url": "https://github.com/stroiman/obsidian-frontmatter-smith",
-            "title": "stroiman/obsidian-frontmatter-smith: Obsidian plugin to automate setting frontmatter",
-            "date_modified": "2024-04-06T10:17:45.000Z",
-            "date_published": "2024-03-09T08:20:03.000Z",
-            "author": {
-                "name": "stroiman",
-                "url": "https://github.com/stroiman"
             }
         }
     ]
