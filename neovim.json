@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-04-08T00:13:52.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17402163?u=e78cd94ca42152e6b046df470a3025f03e18d3ea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for Bluesky</div>",
+            "url": "https://github.com/Sanhajio/neosky",
+            "title": "Sanhajio/neosky: A Neovim Plugin for Bluesky",
+            "date_modified": "2024-03-17T17:18:31.000Z",
+            "date_published": "2024-03-07T20:10:26.000Z",
+            "author": {
+                "name": "Sanhajio",
+                "url": "https://github.com/Sanhajio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3139113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by Google Gemini.</div>",
+            "url": "https://github.com/gera2ld/ai.nvim",
+            "title": "gera2ld/ai.nvim: A Neovim plugin powered by Google Gemini.",
+            "date_modified": "2024-04-05T22:56:29.000Z",
+            "date_published": "2023-12-17T14:21:13.000Z",
+            "author": {
+                "name": "gera2ld",
+                "url": "https://github.com/gera2ld"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13450321?u=59d0536ac9dab80004e5a72b81a5927c0e5e0f44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to check and display whether your machine have human rights.</div>",
+            "url": "https://github.com/mimikun/human-rights.nvim",
+            "title": "mimikun/human-rights.nvim: A neovim plugin to check and display whether your machine have human rights.",
+            "date_modified": "2024-02-28T01:46:52.000Z",
+            "date_published": "2024-02-15T12:46:35.000Z",
+            "author": {
+                "name": "mimikun",
+                "url": "https://github.com/mimikun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
+            "url": "https://github.com/nvim-lualine/lualine.nvim",
+            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+            "date_modified": "2024-04-09T04:03:01.000Z",
+            "date_published": "2020-12-30T14:35:10.000Z",
+            "author": {
+                "name": "nvim-lualine",
+                "url": "https://github.com/nvim-lualine"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2467016?u=cd5964e6618c6438d1fd32c8d76aeda559fae37b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tagging important files</div>",
             "url": "https://github.com/cbochs/grapple.nvim",
             "title": "cbochs/grapple.nvim: Neovim plugin for tagging important files",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "mitschix",
                 "url": "https://github.com/mitschix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150199918?u=fbeaeb66db1ef77a3bbe0a1326c5231ee8ef6549&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Commit &amp; Push to Git from Neovim!</div>",
-            "url": "https://github.com/rmassaroni/nvim-gpush",
-            "title": "rmassaroni/nvim-gpush: Commit & Push to Git from Neovim!",
-            "date_modified": "2024-04-09T00:59:14.000Z",
-            "date_published": "2024-04-05T19:34:45.000Z",
-            "author": {
-                "name": "rmassaroni",
-                "url": "https://github.com/rmassaroni"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60201207?u=77299c3e9f684561046ee673d0c2e8be856fe14c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal configuration for Neovim</div>",
-            "url": "https://github.com/ascendise/neovim-plugins",
-            "title": "ascendise/neovim-plugins: My personal configuration for Neovim",
-            "date_modified": "2024-01-22T01:14:14.000Z",
-            "date_published": "2024-01-22T01:08:32.000Z",
-            "author": {
-                "name": "ascendise",
-                "url": "https://github.com/ascendise"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37899722?u=fd9e93c1edd042967b8507fc8ac4918bac388c77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Search your git history by commit message, content and author in Neovim</div>",
-            "url": "https://github.com/aaronhallaert/advanced-git-search.nvim",
-            "title": "aaronhallaert/advanced-git-search.nvim: Search your git history by commit message, content and author in Neovim",
-            "date_modified": "2024-04-05T22:52:21.000Z",
-            "date_published": "2023-03-01T16:33:25.000Z",
-            "author": {
-                "name": "aaronhallaert",
-                "url": "https://github.com/aaronhallaert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/339433?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin: set of functions to navigate code without LSP.</div>",
-            "url": "https://github.com/emmanueltouzery/code-compass.nvim",
-            "title": "emmanueltouzery/code-compass.nvim: Neovim plugin: set of functions to navigate code without LSP.",
-            "date_modified": "2024-04-08T02:08:53.000Z",
-            "date_published": "2024-03-30T18:30:36.000Z",
-            "author": {
-                "name": "emmanueltouzery",
-                "url": "https://github.com/emmanueltouzery"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1702152?u=ba3c3e6e9132dacff3ebee9177a4a47ae5c6994c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim plugin that allows vim-dadbod connections to remote servers through ssh.</div>",
-            "url": "https://github.com/pbogut/vim-dadbod-ssh",
-            "title": "pbogut/vim-dadbod-ssh: NeoVim plugin that allows vim-dadbod connections to remote servers through ssh.",
-            "date_modified": "2024-03-06T09:40:09.000Z",
-            "date_published": "2021-02-02T22:14:56.000Z",
-            "author": {
-                "name": "pbogut",
-                "url": "https://github.com/pbogut"
             }
         }
     ]
