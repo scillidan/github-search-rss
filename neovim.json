@@ -6,28 +6,6 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107896565?u=f307d1ddca23f8fa86497bf304857e75d83c3f72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>REPL management plugin for neovim</div>",
-            "url": "https://github.com/azr4e1/easyREPL.nvim",
-            "title": "azr4e1/easyREPL.nvim: REPL management plugin for neovim",
-            "date_modified": "2024-04-06T05:56:45.000Z",
-            "date_published": "2024-04-04T16:06:05.000Z",
-            "author": {
-                "name": "azr4e1",
-                "url": "https://github.com/azr4e1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3034594?u=d44cbe0b9c827016b43870a41edc5733c0993765&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to stream audio from YouTube</div>",
-            "url": "https://github.com/cockytrumpet/yt_audio.nvim",
-            "title": "cockytrumpet/yt_audio.nvim: Simple Neovim plugin to stream audio from YouTube",
-            "date_modified": "2024-04-12T03:06:49.000Z",
-            "date_published": "2024-04-09T17:12:35.000Z",
-            "author": {
-                "name": "cockytrumpet",
-                "url": "https://github.com/cockytrumpet"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/150199918?u=fbeaeb66db1ef77a3bbe0a1326c5231ee8ef6549&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Commit &amp; Push to Git from Neovim!</div>",
             "url": "https://github.com/rmassaroni/nvim-gpush",
             "title": "rmassaroni/nvim-gpush: Commit & Push to Git from Neovim!",
@@ -42,11 +20,66 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript, Lua plugin development</div>",
             "url": "https://github.com/catgoose/nvim",
             "title": "catgoose/nvim: Neovim config for Typescript, Lua plugin development",
-            "date_modified": "2024-04-12T17:59:20.000Z",
+            "date_modified": "2024-04-12T19:34:11.000Z",
             "date_published": "2023-03-05T23:35:23.000Z",
             "author": {
                 "name": "catgoose",
                 "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2746374?u=119fd2407fa36292bee85ff07671c3367c120311&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.</div>",
+            "url": "https://github.com/EdenEast/nightfox.nvim",
+            "title": "EdenEast/nightfox.nvim: 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
+            "date_modified": "2024-04-12T15:26:50.000Z",
+            "date_published": "2021-07-20T23:19:53.000Z",
+            "author": {
+                "name": "EdenEast",
+                "url": "https://github.com/EdenEast"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
+            "url": "https://github.com/R-nvim/R.nvim",
+            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
+            "date_modified": "2024-04-11T19:06:18.000Z",
+            "date_published": "2024-01-22T20:23:10.000Z",
+            "author": {
+                "name": "R-nvim",
+                "url": "https://github.com/R-nvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87674867?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration for TheAltF4Stream as a plugin.</div>",
+            "url": "https://github.com/ALT-F4-LLC/dotfiles.nix",
+            "title": "ALT-F4-LLC/dotfiles.nix: Neovim configuration for TheAltF4Stream as a plugin.",
+            "date_modified": "2024-04-02T21:31:10.000Z",
+            "date_published": "2022-05-31T03:24:24.000Z",
+            "author": {
+                "name": "ALT-F4-LLC",
+                "url": "https://github.com/ALT-F4-LLC"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3034594?u=d44cbe0b9c827016b43870a41edc5733c0993765&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to stream audio from YouTube</div>",
+            "url": "https://github.com/cockytrumpet/yt_audio.nvim",
+            "title": "cockytrumpet/yt_audio.nvim: Simple Neovim plugin to stream audio from YouTube",
+            "date_modified": "2024-04-12T19:11:26.000Z",
+            "date_published": "2024-04-09T17:12:35.000Z",
+            "author": {
+                "name": "cockytrumpet",
+                "url": "https://github.com/cockytrumpet"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107896565?u=f307d1ddca23f8fa86497bf304857e75d83c3f72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>REPL management plugin for neovim</div>",
+            "url": "https://github.com/azr4e1/easyREPL.nvim",
+            "title": "azr4e1/easyREPL.nvim: REPL management plugin for neovim",
+            "date_modified": "2024-04-06T05:56:45.000Z",
+            "date_published": "2024-04-04T16:06:05.000Z",
+            "author": {
+                "name": "azr4e1",
+                "url": "https://github.com/azr4e1"
             }
         },
         {
@@ -152,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-04-12T19:00:55.000Z",
+            "date_modified": "2024-04-12T19:18:12.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "vyfor",
                 "url": "https://github.com/vyfor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33030965?u=9c9525a06cf82bb2df0dbe64aa3e4cb6f42a7428&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a vim/neovim compatible status line plugin</div>",
-            "url": "https://github.com/tizee/moline.vim",
-            "title": "tizee/moline.vim: a vim/neovim compatible status line plugin",
-            "date_modified": "2023-09-14T07:40:23.000Z",
-            "date_published": "2021-07-15T14:51:58.000Z",
-            "author": {
-                "name": "tizee",
-                "url": "https://github.com/tizee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161784685?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Productivity improvements for Rust ecosystem: warnings are skipped until errors are fixed, LSP-independent Neovim integration, etc.</div>",
-            "url": "https://github.com/cargo-limit/cargo-limit",
-            "title": "cargo-limit/cargo-limit: Productivity improvements for Rust ecosystem: warnings are skipped until errors are fixed, LSP-independent Neovim integration, etc.",
-            "date_modified": "2024-04-11T05:56:53.000Z",
-            "date_published": "2020-09-13T23:01:03.000Z",
-            "author": {
-                "name": "cargo-limit",
-                "url": "https://github.com/cargo-limit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7613262?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVIM Plugin for deploying file from/to desired targets (e.g. via FTP/SCP)</div>",
-            "url": "https://github.com/ForsakenNGS/netdeploy.nvim",
-            "title": "ForsakenNGS/netdeploy.nvim: NeoVIM Plugin for deploying file from/to desired targets (e.g. via FTP/SCP)",
-            "date_modified": "2024-04-12T14:22:50.000Z",
-            "date_published": "2024-04-12T14:22:50.000Z",
-            "author": {
-                "name": "ForsakenNGS",
-                "url": "https://github.com/ForsakenNGS"
             }
         }
     ]
