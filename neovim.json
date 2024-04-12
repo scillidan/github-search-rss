@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9a50a5946075359d128ae4348ca4976781a9e5a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)</div>",
+            "url": "https://github.com/javiorfo/nvim-springtime",
+            "title": "javiorfo/nvim-springtime: Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)",
+            "date_modified": "2024-04-07T23:27:34.000Z",
+            "date_published": "2023-02-02T02:13:33.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-04-11T14:14:09.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49892996?u=0bb868cf454d1c0212f718e47143199524859fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>configuration, plugins, etc for my neovim experience</div>",
+            "url": "https://github.com/michaelbarnes7282/nvimConfig",
+            "title": "michaelbarnes7282/nvimConfig: configuration, plugins, etc for my neovim experience",
+            "date_modified": "2023-10-27T22:07:58.000Z",
+            "date_published": "2023-10-27T22:00:33.000Z",
+            "author": {
+                "name": "michaelbarnes7282",
+                "url": "https://github.com/michaelbarnes7282"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107896565?u=f307d1ddca23f8fa86497bf304857e75d83c3f72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>REPL management plugin for neovim</div>",
             "url": "https://github.com/azr4e1/easyREPL.nvim",
             "title": "azr4e1/easyREPL.nvim: REPL management plugin for neovim",
@@ -14,6 +47,17 @@
             "author": {
                 "name": "azr4e1",
                 "url": "https://github.com/azr4e1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-04-12T22:30:36.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
             }
         },
         {
@@ -86,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2746374?u=119fd2407fa36292bee85ff07671c3367c120311&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.</div>",
             "url": "https://github.com/EdenEast/nightfox.nvim",
             "title": "EdenEast/nightfox.nvim: 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
-            "date_modified": "2024-04-12T15:26:50.000Z",
+            "date_modified": "2024-04-12T22:10:26.000Z",
             "date_published": "2021-07-20T23:19:53.000Z",
             "author": {
                 "name": "EdenEast",
@@ -171,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
-            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
-            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
-            "date_modified": "2024-04-11T14:14:09.000Z",
-            "date_published": "2021-12-11T08:13:56.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33030965?u=9c9525a06cf82bb2df0dbe64aa3e4cb6f42a7428&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a simple tabline plugin for Vim/Neovim</div>",
             "url": "https://github.com/tizee/tabline.vim",
             "title": "tizee/tabline.vim: a simple tabline plugin for Vim/Neovim",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "tizee",
                 "url": "https://github.com/tizee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101986423?u=dec47f0bc6d38064cfd8150b27b1b1d77c52af3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for quickly commenting/un-commenting lines</div>",
-            "url": "https://github.com/chellipse/lua-comment.nvim",
-            "title": "chellipse/lua-comment.nvim: Neovim plugin for quickly commenting/un-commenting lines",
-            "date_modified": "2024-02-10T11:06:55.000Z",
-            "date_published": "2024-02-08T21:36:31.000Z",
-            "author": {
-                "name": "chellipse",
-                "url": "https://github.com/chellipse"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
-            "url": "https://github.com/disrupted/dotfiles",
-            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
-            "date_modified": "2024-04-12T12:20:07.000Z",
-            "date_published": "2020-08-18T11:47:17.000Z",
-            "author": {
-                "name": "disrupted",
-                "url": "https://github.com/disrupted"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-04-12T19:18:12.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         }
     ]
