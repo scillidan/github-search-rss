@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161784685?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Productivity improvements for Rust ecosystem: warnings are skipped until errors are fixed, LSP-independent Neovim integration, etc.</div>",
+            "url": "https://github.com/cargo-limit/cargo-limit",
+            "title": "cargo-limit/cargo-limit: Productivity improvements for Rust ecosystem: warnings are skipped until errors are fixed, LSP-independent Neovim integration, etc.",
+            "date_modified": "2024-04-11T05:56:53.000Z",
+            "date_published": "2020-09-13T23:01:03.000Z",
+            "author": {
+                "name": "cargo-limit",
+                "url": "https://github.com/cargo-limit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7613262?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVIM Plugin for deploying file from/to desired targets (e.g. via FTP/SCP)</div>",
+            "url": "https://github.com/ForsakenNGS/netdeploy.nvim",
+            "title": "ForsakenNGS/netdeploy.nvim: NeoVIM Plugin for deploying file from/to desired targets (e.g. via FTP/SCP)",
+            "date_modified": "2024-04-12T14:22:50.000Z",
+            "date_published": "2024-04-12T14:22:50.000Z",
+            "author": {
+                "name": "ForsakenNGS",
+                "url": "https://github.com/ForsakenNGS"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript, Lua plugin development</div>",
             "url": "https://github.com/catgoose/nvim",
             "title": "catgoose/nvim: Neovim config for Typescript, Lua plugin development",
-            "date_modified": "2024-04-12T12:29:26.000Z",
+            "date_modified": "2024-04-12T14:31:39.000Z",
             "date_published": "2023-03-05T23:35:23.000Z",
             "author": {
                 "name": "catgoose",
                 "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-04-05T06:25:03.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
             }
         },
         {
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22454918?u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim lua plugin to help easily manage multiple terminal windows</div>",
             "url": "https://github.com/akinsho/toggleterm.nvim",
             "title": "akinsho/toggleterm.nvim: A neovim lua plugin to help easily manage multiple terminal windows",
-            "date_modified": "2024-04-12T12:58:45.000Z",
+            "date_modified": "2024-04-12T14:18:37.000Z",
             "date_published": "2020-08-17T17:33:39.000Z",
             "author": {
                 "name": "akinsho",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "maths-lover",
                 "url": "https://github.com/maths-lover"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
-            "url": "https://github.com/vyfor/cord.nvim",
-            "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
-            "date_modified": "2024-04-10T15:44:14.000Z",
-            "date_published": "2024-04-07T15:20:39.000Z",
-            "author": {
-                "name": "vyfor",
-                "url": "https://github.com/vyfor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1423607?u=a736aab5a9d4a7543079c64450cd4d1c25417a75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The neovim tabline plugin.</div>",
-            "url": "https://github.com/romgrk/barbar.nvim",
-            "title": "romgrk/barbar.nvim: The neovim tabline plugin.",
-            "date_modified": "2024-04-12T00:37:52.000Z",
-            "date_published": "2020-10-22T10:32:07.000Z",
-            "author": {
-                "name": "romgrk",
-                "url": "https://github.com/romgrk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
-            "url": "https://github.com/m15a/flake-vim-plugin-analects",
-            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
-            "date_modified": "2024-04-11T08:13:20.000Z",
-            "date_published": "2024-04-11T07:27:53.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
             }
         }
     ]
