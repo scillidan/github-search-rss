@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-03-27T19:33:20.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22454918?u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim lua plugin to help easily manage multiple terminal windows</div>",
+            "url": "https://github.com/akinsho/toggleterm.nvim",
+            "title": "akinsho/toggleterm.nvim: A neovim lua plugin to help easily manage multiple terminal windows",
+            "date_modified": "2024-04-12T12:58:45.000Z",
+            "date_published": "2020-08-17T17:33:39.000Z",
+            "author": {
+                "name": "akinsho",
+                "url": "https://github.com/akinsho"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
+            "url": "https://github.com/disrupted/dotfiles",
+            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
+            "date_modified": "2024-04-12T12:20:07.000Z",
+            "date_published": "2020-08-18T11:47:17.000Z",
+            "author": {
+                "name": "disrupted",
+                "url": "https://github.com/disrupted"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript, Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript, Lua plugin development",
+            "date_modified": "2024-04-12T12:29:26.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
+            "url": "https://github.com/Shougo/dpp.vim",
+            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
+            "date_modified": "2024-04-10T02:42:49.000Z",
+            "date_published": "2023-08-08T23:23:02.000Z",
+            "author": {
+                "name": "Shougo",
+                "url": "https://github.com/Shougo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark deno-powered hexadecimal plugin for neovim/Vim8</div>",
+            "url": "https://github.com/Shougo/ddx.vim",
+            "title": "Shougo/ddx.vim: Dark deno-powered hexadecimal plugin for neovim/Vim8",
+            "date_modified": "2024-03-13T10:26:23.000Z",
+            "date_published": "2022-04-08T08:36:36.000Z",
+            "author": {
+                "name": "Shougo",
+                "url": "https://github.com/Shougo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-04-11T14:14:09.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
             "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
             "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
@@ -14,28 +91,6 @@
             "author": {
                 "name": "ttak0422",
                 "url": "https://github.com/ttak0422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript, Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript, Lua plugin development",
-            "date_modified": "2024-04-12T08:16:56.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
-            "url": "https://github.com/disrupted/dotfiles",
-            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
-            "date_modified": "2024-03-28T01:11:52.000Z",
-            "date_published": "2020-08-18T11:47:17.000Z",
-            "author": {
-                "name": "disrupted",
-                "url": "https://github.com/disrupted"
             }
         },
         {
@@ -105,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
-            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
-            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
-            "date_modified": "2024-04-11T14:14:09.000Z",
-            "date_published": "2021-12-11T08:13:56.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
             "url": "https://github.com/nvim-plugnplay/database",
             "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "smoka7",
                 "url": "https://github.com/smoka7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3139113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by Google Gemini.</div>",
-            "url": "https://github.com/gera2ld/ai.nvim",
-            "title": "gera2ld/ai.nvim: A Neovim plugin powered by Google Gemini.",
-            "date_modified": "2024-04-05T22:56:29.000Z",
-            "date_published": "2023-12-17T14:21:13.000Z",
-            "author": {
-                "name": "gera2ld",
-                "url": "https://github.com/gera2ld"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim / Neovim random colorscheme plugin</div>",
-            "url": "https://github.com/yukimemi/spectrism.vim",
-            "title": "yukimemi/spectrism.vim: Vim / Neovim random colorscheme plugin",
-            "date_modified": "2024-02-18T05:37:06.000Z",
-            "date_published": "2022-10-01T16:11:03.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
-            "url": "https://github.com/yukimemi/dvpm",
-            "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
-            "date_modified": "2024-01-13T07:27:44.000Z",
-            "date_published": "2023-05-14T12:16:02.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yukimemi/dps-ahdr",
-            "title": "yukimemi/dps-ahdr",
-            "date_modified": "2022-10-01T16:19:34.000Z",
-            "date_published": "2021-03-07T01:12:25.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
             }
         }
     ]
