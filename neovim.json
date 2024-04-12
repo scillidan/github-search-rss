@@ -6,10 +6,87 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90369029?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small neovim plugin to spawn and manage a swank server</div>",
+            "url": "https://github.com/spaghettijeff/spank.nvim",
+            "title": "spaghettijeff/spank.nvim: A small neovim plugin to spawn and manage a swank server",
+            "date_modified": "2024-04-12T18:03:59.000Z",
+            "date_published": "2024-04-12T16:02:40.000Z",
+            "author": {
+                "name": "spaghettijeff",
+                "url": "https://github.com/spaghettijeff"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107896565?u=f307d1ddca23f8fa86497bf304857e75d83c3f72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>REPL management plugin for neovim</div>",
+            "url": "https://github.com/azr4e1/easyREPL.nvim",
+            "title": "azr4e1/easyREPL.nvim: REPL management plugin for neovim",
+            "date_modified": "2024-04-06T05:56:45.000Z",
+            "date_published": "2024-04-04T16:06:05.000Z",
+            "author": {
+                "name": "azr4e1",
+                "url": "https://github.com/azr4e1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in lua for handling simple git tasks</div>",
+            "url": "https://github.com/GustavEikaas/easy-git.nvim",
+            "title": "GustavEikaas/easy-git.nvim: Neovim plugin written in lua for handling simple git tasks",
+            "date_modified": "2024-04-12T17:55:55.000Z",
+            "date_published": "2024-04-12T17:55:13.000Z",
+            "author": {
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3034594?u=d44cbe0b9c827016b43870a41edc5733c0993765&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to stream audio from YouTube</div>",
+            "url": "https://github.com/cockytrumpet/yt_audio.nvim",
+            "title": "cockytrumpet/yt_audio.nvim: Simple Neovim plugin to stream audio from YouTube",
+            "date_modified": "2024-04-12T03:06:49.000Z",
+            "date_published": "2024-04-09T17:12:35.000Z",
+            "author": {
+                "name": "cockytrumpet",
+                "url": "https://github.com/cockytrumpet"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50752906?u=67124b17b8a81594a7da7b537223d1b0fe0de123&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository to store Neovim plugins and configurations</div>",
+            "url": "https://github.com/leo-araujo/neovim-config",
+            "title": "leo-araujo/neovim-config: Repository to store Neovim plugins and configurations",
+            "date_modified": "2024-04-11T04:11:54.000Z",
+            "date_published": "2024-04-11T04:02:54.000Z",
+            "author": {
+                "name": "leo-araujo",
+                "url": "https://github.com/leo-araujo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-04-11T14:14:09.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-03-08T00:01:41.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript, Lua plugin development</div>",
             "url": "https://github.com/catgoose/nvim",
             "title": "catgoose/nvim: Neovim config for Typescript, Lua plugin development",
-            "date_modified": "2024-04-12T15:34:28.000Z",
+            "date_modified": "2024-04-12T17:59:20.000Z",
             "date_published": "2023-03-05T23:35:23.000Z",
             "author": {
                 "name": "catgoose",
@@ -50,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3034594?u=d44cbe0b9c827016b43870a41edc5733c0993765&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to stream audio from YouTube</div>",
-            "url": "https://github.com/cockytrumpet/yt_audio.nvim",
-            "title": "cockytrumpet/yt_audio.nvim: Simple Neovim plugin to stream audio from YouTube",
-            "date_modified": "2024-04-12T03:06:49.000Z",
-            "date_published": "2024-04-09T17:12:35.000Z",
-            "author": {
-                "name": "cockytrumpet",
-                "url": "https://github.com/cockytrumpet"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
@@ -91,17 +157,6 @@
             "author": {
                 "name": "GustavEikaas",
                 "url": "https://github.com/GustavEikaas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90369029?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small neovim plugin to spawn and manage a swank server</div>",
-            "url": "https://github.com/spaghettijeff/spank.nvim",
-            "title": "spaghettijeff/spank.nvim: A small neovim plugin to spawn and manage a swank server",
-            "date_modified": "2024-04-12T16:07:19.000Z",
-            "date_published": "2024-04-12T16:02:40.000Z",
-            "author": {
-                "name": "spaghettijeff",
-                "url": "https://github.com/spaghettijeff"
             }
         },
         {
@@ -160,69 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1591837?u=47d9eb41fff2b6a2885d44bcc34b0ce1cc088096&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple ZSH plugin for maintaining multiple Neovim configurations with NVIM_APPNAME</div>",
-            "url": "https://github.com/mehalter/zsh-nvim-appname",
-            "title": "mehalter/zsh-nvim-appname: A simple ZSH plugin for maintaining multiple Neovim configurations with NVIM_APPNAME",
-            "date_modified": "2024-03-22T13:52:36.000Z",
-            "date_published": "2023-03-06T14:36:07.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-04-12T17:47:03.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
-                "name": "mehalter",
-                "url": "https://github.com/mehalter"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107896565?u=f307d1ddca23f8fa86497bf304857e75d83c3f72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>REPL management plugin for neovim</div>",
-            "url": "https://github.com/azr4e1/easyREPL.nvim",
-            "title": "azr4e1/easyREPL.nvim: REPL management plugin for neovim",
-            "date_modified": "2024-04-06T05:56:45.000Z",
-            "date_published": "2024-04-04T16:06:05.000Z",
-            "author": {
-                "name": "azr4e1",
-                "url": "https://github.com/azr4e1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76439641?u=46510435e1ca00be651e0ea65d398b63e1b325ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo contains my Neovim config files and plugins i use...</div>",
-            "url": "https://github.com/navaneet-rao/neovim-config",
-            "title": "navaneet-rao/neovim-config: This repo contains my Neovim config files and plugins i use...",
-            "date_modified": "2024-04-07T01:47:02.000Z",
-            "date_published": "2024-02-21T13:52:30.000Z",
-            "author": {
-                "name": "navaneet-rao",
-                "url": "https://github.com/navaneet-rao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-03-08T00:01:41.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-03-27T19:33:20.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22454918?u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim lua plugin to help easily manage multiple terminal windows</div>",
-            "url": "https://github.com/akinsho/toggleterm.nvim",
-            "title": "akinsho/toggleterm.nvim: A neovim lua plugin to help easily manage multiple terminal windows",
-            "date_modified": "2024-04-12T16:38:03.000Z",
-            "date_published": "2020-08-17T17:33:39.000Z",
-            "author": {
-                "name": "akinsho",
-                "url": "https://github.com/akinsho"
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
             }
         }
     ]
