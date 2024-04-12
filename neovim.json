@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
+            "date_modified": "2024-04-12T15:54:57.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
+            "author": {
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90369029?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small neovim plugin to spawn and manage a swank server</div>",
+            "url": "https://github.com/spaghettijeff/spank.nvim",
+            "title": "spaghettijeff/spank.nvim: A small neovim plugin to spawn and manage a swank server",
+            "date_modified": "2024-04-12T16:07:19.000Z",
+            "date_published": "2024-04-12T16:02:40.000Z",
+            "author": {
+                "name": "spaghettijeff",
+                "url": "https://github.com/spaghettijeff"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33030965?u=9c9525a06cf82bb2df0dbe64aa3e4cb6f42a7428&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a simple tabline plugin for Vim/Neovim</div>",
+            "url": "https://github.com/tizee/tabline.vim",
+            "title": "tizee/tabline.vim: a simple tabline plugin for Vim/Neovim",
+            "date_modified": "2024-04-12T15:29:37.000Z",
+            "date_published": "2024-04-12T15:29:37.000Z",
+            "author": {
+                "name": "tizee",
+                "url": "https://github.com/tizee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
+            "url": "https://github.com/vyfor/cord.nvim",
+            "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
+            "date_modified": "2024-04-10T15:44:14.000Z",
+            "date_published": "2024-04-07T15:20:39.000Z",
+            "author": {
+                "name": "vyfor",
+                "url": "https://github.com/vyfor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33030965?u=9c9525a06cf82bb2df0dbe64aa3e4cb6f42a7428&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a vim/neovim compatible status line plugin</div>",
+            "url": "https://github.com/tizee/moline.vim",
+            "title": "tizee/moline.vim: a vim/neovim compatible status line plugin",
+            "date_modified": "2023-09-14T07:40:23.000Z",
+            "date_published": "2021-07-15T14:51:58.000Z",
+            "author": {
+                "name": "tizee",
+                "url": "https://github.com/tizee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3034594?u=d44cbe0b9c827016b43870a41edc5733c0993765&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to stream audio from YouTube</div>",
+            "url": "https://github.com/cockytrumpet/yt_audio.nvim",
+            "title": "cockytrumpet/yt_audio.nvim: Simple Neovim plugin to stream audio from YouTube",
+            "date_modified": "2024-04-12T03:06:49.000Z",
+            "date_published": "2024-04-09T17:12:35.000Z",
+            "author": {
+                "name": "cockytrumpet",
+                "url": "https://github.com/cockytrumpet"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161784685?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Productivity improvements for Rust ecosystem: warnings are skipped until errors are fixed, LSP-independent Neovim integration, etc.</div>",
             "url": "https://github.com/cargo-limit/cargo-limit",
             "title": "cargo-limit/cargo-limit: Productivity improvements for Rust ecosystem: warnings are skipped until errors are fixed, LSP-independent Neovim integration, etc.",
@@ -31,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript, Lua plugin development</div>",
             "url": "https://github.com/catgoose/nvim",
             "title": "catgoose/nvim: Neovim config for Typescript, Lua plugin development",
-            "date_modified": "2024-04-12T14:31:39.000Z",
+            "date_modified": "2024-04-12T15:34:28.000Z",
             "date_published": "2023-03-05T23:35:23.000Z",
             "author": {
                 "name": "catgoose",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "m15a",
                 "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
-            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
-            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
-            "date_modified": "2024-03-11T14:09:33.000Z",
-            "date_published": "2024-03-10T11:54:02.000Z",
-            "author": {
-                "name": "ttak0422",
-                "url": "https://github.com/ttak0422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41794921?u=d45a974e3294ed98f6d491ec0c44de7136e223ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for executes shell commands from buffer</div>",
-            "url": "https://github.com/TheK4n/postman.nvim",
-            "title": "TheK4n/postman.nvim: Neovim plugin for executes shell commands from buffer",
-            "date_modified": "2024-04-12T11:40:35.000Z",
-            "date_published": "2024-04-12T11:00:42.000Z",
-            "author": {
-                "name": "TheK4n",
-                "url": "https://github.com/TheK4n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17450586?u=cc2ec8fc2bd9c13f75cec6daf01c9a050f606fde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration to show my plugins in action.</div>",
-            "url": "https://github.com/jmbuhr/quarto-nvim-kickstarter",
-            "title": "jmbuhr/quarto-nvim-kickstarter: Neovim configuration to show my plugins in action.",
-            "date_modified": "2024-04-07T08:36:21.000Z",
-            "date_published": "2022-06-03T07:59:41.000Z",
-            "author": {
-                "name": "jmbuhr",
-                "url": "https://github.com/jmbuhr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41794921?u=d45a974e3294ed98f6d491ec0c44de7136e223ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for paste image link to markdown</div>",
-            "url": "https://github.com/TheK4n/mdimage.nvim",
-            "title": "TheK4n/mdimage.nvim: Neovim plugin for paste image link to markdown",
-            "date_modified": "2024-04-12T11:22:03.000Z",
-            "date_published": "2024-02-25T14:19:25.000Z",
-            "author": {
-                "name": "TheK4n",
-                "url": "https://github.com/TheK4n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
-            "url": "https://github.com/frankroeder/parrot.nvim",
-            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
-            "date_modified": "2024-04-11T14:50:54.000Z",
-            "date_published": "2023-08-15T10:16:36.000Z",
-            "author": {
-                "name": "frankroeder",
-                "url": "https://github.com/frankroeder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25811797?u=95d1efebabde29fc3e595ac99d41f8eb9491dd30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My sensivle Neovim config with useful plugins</div>",
-            "url": "https://github.com/maths-lover/neovim_config",
-            "title": "maths-lover/neovim_config: My sensivle Neovim config with useful plugins",
-            "date_modified": "2024-03-26T06:37:07.000Z",
-            "date_published": "2024-03-25T21:34:40.000Z",
-            "author": {
-                "name": "maths-lover",
-                "url": "https://github.com/maths-lover"
             }
         }
     ]
