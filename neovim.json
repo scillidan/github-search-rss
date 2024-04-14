@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50752906?u=67124b17b8a81594a7da7b537223d1b0fe0de123&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Repository to store Neovim plugins and configurations</div>",
+            "url": "https://github.com/leo-araujo/neovim-config",
+            "title": "leo-araujo/neovim-config: Repository to store Neovim plugins and configurations",
+            "date_modified": "2024-04-11T04:11:54.000Z",
+            "date_published": "2024-04-11T04:02:54.000Z",
+            "author": {
+                "name": "leo-araujo",
+                "url": "https://github.com/leo-araujo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-04-11T14:14:09.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-04-14T02:38:12.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-04-05T06:25:03.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7888591?u=4e4bfe5f6d09752b9b5e03519308103e20dcdc6a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim/Neovim plugin for Kubernetes</div>",
+            "url": "https://github.com/skanehira/k8s.vim",
+            "title": "skanehira/k8s.vim: Vim/Neovim plugin for Kubernetes",
+            "date_modified": "2024-03-13T11:40:05.000Z",
+            "date_published": "2022-06-16T06:55:05.000Z",
+            "author": {
+                "name": "skanehira",
+                "url": "https://github.com/skanehira"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Haskell experience in neovim!</div>",
             "url": "https://github.com/mrcjkb/haskell-tools.nvim",
             "title": "mrcjkb/haskell-tools.nvim: Supercharge your Haskell experience in neovim!",
@@ -42,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3233006?u=78eb90619254faafffb66d3bb85196ae908dceac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that allows you to run code in a REPL without ever leaving your buffer.</div>",
             "url": "https://github.com/atinylittleshell/comment-repl.nvim",
             "title": "atinylittleshell/comment-repl.nvim: A neovim plugin that allows you to run code in a REPL without ever leaving your buffer.",
-            "date_modified": "2024-04-14T00:15:15.000Z",
+            "date_modified": "2024-04-14T02:48:20.000Z",
             "date_published": "2024-04-07T19:55:28.000Z",
             "author": {
                 "name": "atinylittleshell",
@@ -75,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
             "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
             "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
-            "date_modified": "2024-04-14T00:22:53.000Z",
+            "date_modified": "2024-04-14T02:13:17.000Z",
             "date_published": "2021-12-12T13:38:23.000Z",
             "author": {
                 "name": "nvim-neo-tree",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "rmassaroni",
                 "url": "https://github.com/rmassaroni"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-03-08T00:01:41.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-04-05T06:25:03.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
-            "url": "https://github.com/frankroeder/parrot.nvim",
-            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
-            "date_modified": "2024-04-11T14:50:54.000Z",
-            "date_published": "2023-08-15T10:16:36.000Z",
-            "author": {
-                "name": "frankroeder",
-                "url": "https://github.com/frankroeder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46936119?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for bulk commenting code</div>",
-            "url": "https://github.com/danielNemeth19/bulk-comment.nvim",
-            "title": "danielNemeth19/bulk-comment.nvim: Neovim plugin for bulk commenting code",
-            "date_modified": "2024-01-29T21:40:22.000Z",
-            "date_published": "2024-01-23T22:09:20.000Z",
-            "author": {
-                "name": "danielNemeth19",
-                "url": "https://github.com/danielNemeth19"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31893391?u=d384bd42cb11bffcf48caf4182769f8ec4f09df1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git Blame plugin for Neovim written in Lua</div>",
-            "url": "https://github.com/f-person/git-blame.nvim",
-            "title": "f-person/git-blame.nvim: Git Blame plugin for Neovim written in Lua",
-            "date_modified": "2024-04-14T00:03:59.000Z",
-            "date_published": "2020-08-29T13:27:26.000Z",
-            "author": {
-                "name": "f-person",
-                "url": "https://github.com/f-person"
             }
         }
     ]
