@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-04-15T14:48:37.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-03-08T00:01:41.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-04-05T06:25:03.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89306?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for fast file-finding</div>",
+            "url": "https://github.com/danielfalk/smart-open.nvim",
+            "title": "danielfalk/smart-open.nvim: Neovim plugin for fast file-finding",
+            "date_modified": "2024-04-15T21:18:49.000Z",
+            "date_published": "2022-09-20T19:19:32.000Z",
+            "author": {
+                "name": "danielfalk",
+                "url": "https://github.com/danielfalk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
             "url": "https://github.com/Norlock/neo-api-rs",
             "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
@@ -116,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-03-08T00:01:41.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
             "url": "https://github.com/stevearc/aerial.nvim",
             "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "joeldotdias",
                 "url": "https://github.com/joeldotdias"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim</div>",
-            "url": "https://github.com/mistricky/codesnap.nvim",
-            "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
-            "date_modified": "2024-04-15T14:17:25.000Z",
-            "date_published": "2024-02-13T06:05:34.000Z",
-            "author": {
-                "name": "mistricky",
-                "url": "https://github.com/mistricky"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101986423?u=dec47f0bc6d38064cfd8150b27b1b1d77c52af3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for quickly commenting/un-commenting lines</div>",
-            "url": "https://github.com/chellipse/lua-comment.nvim",
-            "title": "chellipse/lua-comment.nvim: Neovim plugin for quickly commenting/un-commenting lines",
-            "date_modified": "2024-02-10T11:06:55.000Z",
-            "date_published": "2024-02-08T21:36:31.000Z",
-            "author": {
-                "name": "chellipse",
-                "url": "https://github.com/chellipse"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20328231?u=d5965e8fefda3d7e70c185ceaa2d5db88e092b0b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains my custom Neovim configuration. The configuration is based on a variety of plugins that provide a rich set of features and enhancements to the Neovim editor.</div>",
-            "url": "https://github.com/jmsrsd/nvim",
-            "title": "jmsrsd/nvim: This repository contains my custom Neovim configuration. The configuration is based on a variety of plugins that provide a rich set of features and enhancements to the Neovim editor.",
-            "date_modified": "2024-04-06T19:27:23.000Z",
-            "date_published": "2023-07-13T21:17:47.000Z",
-            "author": {
-                "name": "jmsrsd",
-                "url": "https://github.com/jmsrsd"
             }
         }
     ]
