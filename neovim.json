@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138957698?u=f0b894cfa1d5f66bbd6825ab73f7ef505343fa86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight plugin to toggle JsDoc checking for Neovim</div>",
+            "url": "https://github.com/joeldotdias/jsdoc-switch.nvim",
+            "title": "joeldotdias/jsdoc-switch.nvim: A lightweight plugin to toggle JsDoc checking for Neovim",
+            "date_modified": "2024-04-15T10:36:53.000Z",
+            "date_published": "2024-04-15T10:36:30.000Z",
+            "author": {
+                "name": "joeldotdias",
+                "url": "https://github.com/joeldotdias"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-04-15T08:59:16.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7420227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git source for nvim-cmp</div>",
+            "url": "https://github.com/petertriho/cmp-git",
+            "title": "petertriho/cmp-git: Git source for nvim-cmp",
+            "date_modified": "2024-04-07T11:42:42.000Z",
+            "date_published": "2021-10-24T03:29:23.000Z",
+            "author": {
+                "name": "petertriho",
+                "url": "https://github.com/petertriho"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-04-15T07:54:41.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark deno-powered hexadecimal plugin for neovim/Vim8</div>",
             "url": "https://github.com/Shougo/ddx.vim",
             "title": "Shougo/ddx.vim: Dark deno-powered hexadecimal plugin for neovim/Vim8",
@@ -83,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-04-15T07:54:41.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
             "url": "https://github.com/tamago324/nlsp-settings.nvim",
             "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
@@ -160,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-04-15T08:59:16.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim / Neovim plugin that automatically switches between cursorline and cursorcolumn based on Vim events</div>",
             "url": "https://github.com/yukimemi/autocursor.vim",
             "title": "yukimemi/autocursor.vim: Vim / Neovim plugin that automatically switches between cursorline and cursorcolumn based on Vim events",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "yukimemi",
                 "url": "https://github.com/yukimemi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3139113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by AI.</div>",
-            "url": "https://github.com/gera2ld/ai.nvim",
-            "title": "gera2ld/ai.nvim: A Neovim plugin powered by AI.",
-            "date_modified": "2024-04-15T04:16:45.000Z",
-            "date_published": "2023-12-17T14:21:13.000Z",
-            "author": {
-                "name": "gera2ld",
-                "url": "https://github.com/gera2ld"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9a50a5946075359d128ae4348ca4976781a9e5a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)</div>",
-            "url": "https://github.com/javiorfo/nvim-springtime",
-            "title": "javiorfo/nvim-springtime: Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)",
-            "date_modified": "2024-04-07T23:27:34.000Z",
-            "date_published": "2023-02-02T02:13:33.000Z",
-            "author": {
-                "name": "javiorfo",
-                "url": "https://github.com/javiorfo"
             }
         }
     ]
