@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.</div>",
+            "url": "https://github.com/canonical/sdcore-webui-k8s-operator",
+            "title": "canonical/sdcore-webui-k8s-operator: A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.",
+            "date_modified": "2023-12-11T09:40:27.000Z",
+            "date_published": "2023-05-19T15:43:33.000Z",
+            "author": {
+                "name": "canonical",
+                "url": "https://github.com/canonical"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Container image for SD-Core webui</div>",
+            "url": "https://github.com/canonical/sdcore-webui-rock",
+            "title": "canonical/sdcore-webui-rock: Container image for SD-Core webui",
+            "date_modified": "2023-09-28T13:05:31.000Z",
+            "date_published": "2023-06-16T18:24:40.000Z",
+            "author": {
+                "name": "canonical",
+                "url": "https://github.com/canonical"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44581470?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>smea sampler for a1111 webui</div>",
             "url": "https://github.com/AG-w/sd-webui-smea",
             "title": "AG-w/sd-webui-smea: smea sampler for a1111 webui",
@@ -17,14 +39,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.</div>",
-            "url": "https://github.com/canonical/sdcore-webui-k8s-operator",
-            "title": "canonical/sdcore-webui-k8s-operator: A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.",
-            "date_modified": "2023-12-11T09:40:27.000Z",
-            "date_published": "2023-05-19T15:43:33.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136279213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Platform Package Manager for Stable Diffusion</div>",
+            "url": "https://github.com/LykosAI/StabilityMatrix",
+            "title": "LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion",
+            "date_modified": "2024-04-15T13:02:15.000Z",
+            "date_published": "2023-06-13T05:20:38.000Z",
             "author": {
-                "name": "canonical",
-                "url": "https://github.com/canonical"
+                "name": "LykosAI",
+                "url": "https://github.com/LykosAI"
             }
         },
         {
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28695009?u=b16d6667241bdff27f3043b1f5a369ac4830e0cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Enhance Stable Diffusion image quality, prompt following, and more through multiple implementations of novel algorithms for Automatic1111 WebUI.</div>",
             "url": "https://github.com/v0xie/sd-webui-incantations",
             "title": "v0xie/sd-webui-incantations: Enhance Stable Diffusion image quality, prompt following, and more through multiple implementations of novel algorithms for Automatic1111 WebUI.",
-            "date_modified": "2024-04-15T10:00:58.000Z",
+            "date_modified": "2024-04-15T12:41:48.000Z",
             "date_published": "2024-01-16T02:56:36.000Z",
             "author": {
                 "name": "v0xie",
@@ -75,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49298018?u=37d2d93ecb6b120f41451e575a7a87f5cb2c08b0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>sd-webui中文提示词插件、老手新手炼丹必备</div>",
             "url": "https://github.com/thisjam/sd-webui-oldsix-prompt",
             "title": "thisjam/sd-webui-oldsix-prompt: sd-webui中文提示词插件、老手新手炼丹必备",
-            "date_modified": "2024-04-15T10:00:00.000Z",
+            "date_modified": "2024-04-15T12:36:41.000Z",
             "date_published": "2023-07-27T06:52:11.000Z",
             "author": {
                 "name": "thisjam",
@@ -171,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136279213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multi-Platform Package Manager for Stable Diffusion</div>",
-            "url": "https://github.com/LykosAI/StabilityMatrix",
-            "title": "LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion",
-            "date_modified": "2024-04-15T08:07:43.000Z",
-            "date_published": "2023-06-13T05:20:38.000Z",
-            "author": {
-                "name": "LykosAI",
-                "url": "https://github.com/LykosAI"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32651506?u=d45ca13ce481a9f5317337d16a41e0e21e560c7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Demofusion extension for stable-diffusion-webui</div>",
             "url": "https://github.com/sebaxakerhtc/sd-webui-demofusion",
             "title": "sebaxakerhtc/sd-webui-demofusion: A Demofusion extension for stable-diffusion-webui",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "DominikDoom",
                 "url": "https://github.com/DominikDoom"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65122811?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Test a base prompt with different checkpoints and for the checkpoints specific prompt templates</div>",
-            "url": "https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt",
-            "title": "h43lb1t0/SD-WebUI-BatchCheckpointPrompt: Test a base prompt with different checkpoints and for the checkpoints specific prompt templates",
-            "date_modified": "2024-03-18T21:01:22.000Z",
-            "date_published": "2023-04-01T18:21:17.000Z",
-            "author": {
-                "name": "h43lb1t0",
-                "url": "https://github.com/h43lb1t0"
             }
         }
     ]
