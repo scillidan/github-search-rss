@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/755611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to auto install LSP servers</div>",
+            "url": "https://github.com/dundalek/lazy-lsp.nvim",
+            "title": "dundalek/lazy-lsp.nvim: Neovim plugin to auto install LSP servers",
+            "date_modified": "2024-04-16T02:25:10.000Z",
+            "date_published": "2022-09-25T10:35:21.000Z",
+            "author": {
+                "name": "dundalek",
+                "url": "https://github.com/dundalek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138957698?u=f0b894cfa1d5f66bbd6825ab73f7ef505343fa86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight plugin to toggle JsDoc checking for Neovim</div>",
+            "url": "https://github.com/joeldotdias/jsdoc-switch.nvim",
+            "title": "joeldotdias/jsdoc-switch.nvim: A lightweight plugin to toggle JsDoc checking for Neovim",
+            "date_modified": "2024-04-16T05:13:46.000Z",
+            "date_published": "2024-04-15T12:26:49.000Z",
+            "author": {
+                "name": "joeldotdias",
+                "url": "https://github.com/joeldotdias"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.</div>",
+            "url": "https://github.com/echasnovski/mini.completion",
+            "title": "echasnovski/mini.completion: Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.",
+            "date_modified": "2024-04-15T14:17:20.000Z",
+            "date_published": "2022-10-24T16:19:08.000Z",
+            "author": {
+                "name": "echasnovski",
+                "url": "https://github.com/echasnovski"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30892199?u=b0dc6fcf7725ef70c7679bb2bc2a02e191626c36&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim</div>",
             "url": "https://github.com/renerocksai/telekasten.nvim",
             "title": "renerocksai/telekasten.nvim: A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim",
@@ -36,6 +69,17 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lint",
+            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+            "date_modified": "2024-04-16T08:23:56.000Z",
+            "date_published": "2021-02-14T11:18:45.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
             }
         },
         {
@@ -91,17 +135,6 @@
             "author": {
                 "name": "PERTZ42",
                 "url": "https://github.com/PERTZ42"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138957698?u=f0b894cfa1d5f66bbd6825ab73f7ef505343fa86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight plugin to toggle JsDoc checking for Neovim</div>",
-            "url": "https://github.com/joeldotdias/jsdoc-switch.nvim",
-            "title": "joeldotdias/jsdoc-switch.nvim: A lightweight plugin to toggle JsDoc checking for Neovim",
-            "date_modified": "2024-04-16T05:13:46.000Z",
-            "date_published": "2024-04-15T12:26:49.000Z",
-            "author": {
-                "name": "joeldotdias",
-                "url": "https://github.com/joeldotdias"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "LongerHV",
                 "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57921252?u=9a7770b83718e7277afb393a72acb8d99105a591&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin improving access to recent yank history</div>",
-            "url": "https://github.com/ptdewey/yankbank-nvim",
-            "title": "ptdewey/yankbank-nvim: Neovim plugin improving access to recent yank history",
-            "date_modified": "2024-04-16T06:31:11.000Z",
-            "date_published": "2024-03-14T23:12:23.000Z",
-            "author": {
-                "name": "ptdewey",
-                "url": "https://github.com/ptdewey"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9a50a5946075359d128ae4348ca4976781a9e5a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)</div>",
-            "url": "https://github.com/javiorfo/nvim-springtime",
-            "title": "javiorfo/nvim-springtime: Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)",
-            "date_modified": "2024-04-15T15:53:32.000Z",
-            "date_published": "2023-02-02T02:13:33.000Z",
-            "author": {
-                "name": "javiorfo",
-                "url": "https://github.com/javiorfo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-04-02T02:32:07.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
             }
         }
     ]
