@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lint",
+            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+            "date_modified": "2024-04-16T08:23:56.000Z",
+            "date_published": "2021-02-14T11:18:45.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138957698?u=f0b894cfa1d5f66bbd6825ab73f7ef505343fa86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight plugin to toggle JsDoc checking for Neovim</div>",
+            "url": "https://github.com/joeldotdias/jsdoc-switch.nvim",
+            "title": "joeldotdias/jsdoc-switch.nvim: A lightweight plugin to toggle JsDoc checking for Neovim",
+            "date_modified": "2024-04-16T12:31:00.000Z",
+            "date_published": "2024-04-15T12:26:49.000Z",
+            "author": {
+                "name": "joeldotdias",
+                "url": "https://github.com/joeldotdias"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
+            "url": "https://github.com/kyoh86/denops-util",
+            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
+            "date_modified": "2024-01-06T00:24:25.000Z",
+            "date_published": "2024-01-06T00:19:26.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
+            "url": "https://github.com/R-nvim/R.nvim",
+            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
+            "date_modified": "2024-04-16T08:25:04.000Z",
+            "date_published": "2024-01-22T20:23:10.000Z",
+            "author": {
+                "name": "R-nvim",
+                "url": "https://github.com/R-nvim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15209939?u=06d22e4734d691acf63b6a2298db6f940cd25bd7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin written in Lua that will add virtual text next to closing braces and HTML tags to help identify them.</div>",
             "url": "https://github.com/noxxxxxious/closing-context.nvim",
             "title": "noxxxxxious/closing-context.nvim: A neovim plugin written in Lua that will add virtual text next to closing braces and HTML tags to help identify them.",
@@ -64,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38249221?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim fugitive style git blame plugin</div>",
             "url": "https://github.com/FabijanZulj/blame.nvim",
             "title": "FabijanZulj/blame.nvim: Neovim fugitive style git blame plugin",
-            "date_modified": "2024-04-16T15:55:09.000Z",
+            "date_modified": "2024-04-16T17:00:45.000Z",
             "date_published": "2023-08-14T08:36:24.000Z",
             "author": {
                 "name": "FabijanZulj",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "tribhuwan-kumar",
                 "url": "https://github.com/tribhuwan-kumar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51069488?u=205e0629d56dc6a5b3d4386e886ef4f324b2ebc3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins</div>",
-            "url": "https://github.com/cirofabianbermudez/nvim_setup",
-            "title": "cirofabianbermudez/nvim_setup: Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins",
-            "date_modified": "2024-03-25T09:27:26.000Z",
-            "date_published": "2024-03-23T12:20:18.000Z",
-            "author": {
-                "name": "cirofabianbermudez",
-                "url": "https://github.com/cirofabianbermudez"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=306ff94aaf32ed6baf4518b6d080e5e3f3c589a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
-            "url": "https://github.com/redyf/Neve",
-            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
-            "date_modified": "2024-04-16T10:41:32.000Z",
-            "date_published": "2024-01-03T14:38:56.000Z",
-            "author": {
-                "name": "redyf",
-                "url": "https://github.com/redyf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20575896?u=d658eee77d26362c6d03b58577c7d9cf988dc203&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A personalized Neovim configuration for an optimized and efficient coding experience. Includes a curated set of plugins and custom key mappings. </div>",
-            "url": "https://github.com/alitokur/fox-project",
-            "title": "alitokur/fox-project: A personalized Neovim configuration for an optimized and efficient coding experience. Includes a curated set of plugins and custom key mappings. ",
-            "date_modified": "2024-04-04T08:30:25.000Z",
-            "date_published": "2022-12-25T14:15:06.000Z",
-            "author": {
-                "name": "alitokur",
-                "url": "https://github.com/alitokur"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48717183?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Lua Neovim configuration with a very simple plugin manager written in Python.</div>",
-            "url": "https://github.com/j-morano/nvim-config",
-            "title": "j-morano/nvim-config: Full Lua Neovim configuration with a very simple plugin manager written in Python.",
-            "date_modified": "2023-05-20T15:09:54.000Z",
-            "date_published": "2023-02-09T12:51:43.000Z",
-            "author": {
-                "name": "j-morano",
-                "url": "https://github.com/j-morano"
             }
         }
     ]
