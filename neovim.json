@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "date_modified": "2024-04-16T00:42:07.000Z",
+            "date_published": "2021-12-12T13:38:23.000Z",
+            "author": {
+                "name": "nvim-neo-tree",
+                "url": "https://github.com/nvim-neo-tree"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
+            "url": "https://github.com/folke/neoconf.nvim",
+            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
+            "date_modified": "2024-04-16T01:26:03.000Z",
+            "date_published": "2022-09-07T16:15:13.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
+            "title": "yutkat/new-neovim-plugin-with-category-rss",
+            "date_modified": "2024-04-02T02:33:26.000Z",
+            "date_published": "2023-05-24T19:57:02.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
+            "url": "https://github.com/yutkat/my-neovim-pluginlist",
+            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
+            "date_modified": "2024-04-15T03:08:59.000Z",
+            "date_published": "2022-04-17T14:53:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-04-05T06:25:03.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/LongerHV/neovim-plugins-overlay",
             "title": "LongerHV/neovim-plugins-overlay",
@@ -105,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-04-05T06:25:03.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89306?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for fast file-finding</div>",
             "url": "https://github.com/danielfalk/smart-open.nvim",
             "title": "danielfalk/smart-open.nvim: Neovim plugin for fast file-finding",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "javiorfo",
                 "url": "https://github.com/javiorfo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9a50a5946075359d128ae4348ca4976781a9e5a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for running a main or script in several languages</div>",
-            "url": "https://github.com/javiorfo/nvim-fuel",
-            "title": "javiorfo/nvim-fuel: Neovim plugin written in Lua for running a main or script in several languages",
-            "date_modified": "2024-04-15T15:53:56.000Z",
-            "date_published": "2023-02-02T02:20:37.000Z",
-            "author": {
-                "name": "javiorfo",
-                "url": "https://github.com/javiorfo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17450586?u=cc2ec8fc2bd9c13f75cec6daf01c9a050f606fde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration to show my plugins in action.</div>",
-            "url": "https://github.com/jmbuhr/quarto-nvim-kickstarter",
-            "title": "jmbuhr/quarto-nvim-kickstarter: Neovim configuration to show my plugins in action.",
-            "date_modified": "2024-04-14T00:59:36.000Z",
-            "date_published": "2022-06-03T07:59:41.000Z",
-            "author": {
-                "name": "jmbuhr",
-                "url": "https://github.com/jmbuhr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77508906?u=0a6c3c8b774b0ad6cd4b601d17fc8e4172bb8630&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal NeoVim Config Repo: Store, manage, and share your customized NeoVim setup. Includes plugins, themes, key mappings, and documentation. Collaborate with the community. Keep your workflow optimized!</div>",
-            "url": "https://github.com/nathanosti/my-personal-neovim-configuration",
-            "title": "nathanosti/my-personal-neovim-configuration: Personal NeoVim Config Repo: Store, manage, and share your customized NeoVim setup. Includes plugins, themes, key mappings, and documentation. Collaborate with the community. Keep your workflow optimized!",
-            "date_modified": "2024-04-11T15:54:47.000Z",
-            "date_published": "2024-04-06T05:38:04.000Z",
-            "author": {
-                "name": "nathanosti",
-                "url": "https://github.com/nathanosti"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-04-14T03:34:52.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
             }
         }
     ]
