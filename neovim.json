@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim / Neovim random colorscheme plugin</div>",
+            "url": "https://github.com/yukimemi/spectrism.vim",
+            "title": "yukimemi/spectrism.vim: Vim / Neovim random colorscheme plugin",
+            "date_modified": "2024-02-18T05:37:06.000Z",
+            "date_published": "2022-10-01T16:11:03.000Z",
+            "author": {
+                "name": "yukimemi",
+                "url": "https://github.com/yukimemi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yukimemi/dps-ahdr",
+            "title": "yukimemi/dps-ahdr",
+            "date_modified": "2022-10-01T16:19:34.000Z",
+            "date_published": "2021-03-07T01:12:25.000Z",
+            "author": {
+                "name": "yukimemi",
+                "url": "https://github.com/yukimemi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74842863?u=95b26635619bfd005aa59143d7591ad079eac91b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin helping you establish good command workflow and quit bad habit</div>",
+            "url": "https://github.com/m4xshen/hardtime.nvim",
+            "title": "m4xshen/hardtime.nvim: A Neovim plugin helping you establish good command workflow and quit bad habit",
+            "date_modified": "2024-04-16T06:03:35.000Z",
+            "date_published": "2023-04-24T17:38:50.000Z",
+            "author": {
+                "name": "m4xshen",
+                "url": "https://github.com/m4xshen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-03-08T00:01:41.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67430802?u=7a810ac037402a3e491b1918f8a28b19bed8f939&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple neovim configuration without a plugin manager</div>",
+            "url": "https://github.com/PERTZ42/nvim",
+            "title": "PERTZ42/nvim: simple neovim configuration without a plugin manager",
+            "date_modified": "2024-04-06T14:44:06.000Z",
+            "date_published": "2023-11-18T15:03:25.000Z",
+            "author": {
+                "name": "PERTZ42",
+                "url": "https://github.com/PERTZ42"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138957698?u=f0b894cfa1d5f66bbd6825ab73f7ef505343fa86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight plugin to toggle JsDoc checking for Neovim</div>",
             "url": "https://github.com/joeldotdias/jsdoc-switch.nvim",
             "title": "joeldotdias/jsdoc-switch.nvim: A lightweight plugin to toggle JsDoc checking for Neovim",
-            "date_modified": "2024-04-15T14:37:12.000Z",
+            "date_modified": "2024-04-16T05:13:46.000Z",
             "date_published": "2024-04-15T12:26:49.000Z",
             "author": {
                 "name": "joeldotdias",
@@ -47,17 +102,6 @@
             "author": {
                 "name": "Shougo",
                 "url": "https://github.com/Shougo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-03-08T00:01:41.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "noxxxxxious",
                 "url": "https://github.com/noxxxxxious"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128740042?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Elixir</div>",
-            "url": "https://github.com/elixir-tools/elixir-tools.nvim",
-            "title": "elixir-tools/elixir-tools.nvim: Neovim plugin for Elixir",
-            "date_modified": "2024-04-16T02:38:00.000Z",
-            "date_published": "2022-03-23T13:10:50.000Z",
-            "author": {
-                "name": "elixir-tools",
-                "url": "https://github.com/elixir-tools"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
-            "url": "https://github.com/nvim-neorocks/rocks.nvim",
-            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-04-15T14:48:37.000Z",
-            "date_published": "2023-07-05T11:24:40.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89306?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for fast file-finding</div>",
-            "url": "https://github.com/danielfalk/smart-open.nvim",
-            "title": "danielfalk/smart-open.nvim: Neovim plugin for fast file-finding",
-            "date_modified": "2024-04-15T21:18:49.000Z",
-            "date_published": "2022-09-20T19:19:32.000Z",
-            "author": {
-                "name": "danielfalk",
-                "url": "https://github.com/danielfalk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
-            "url": "https://github.com/Norlock/neo-api-rs",
-            "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
-            "date_modified": "2024-04-15T18:48:03.000Z",
-            "date_published": "2024-04-15T18:47:05.000Z",
-            "author": {
-                "name": "Norlock",
-                "url": "https://github.com/Norlock"
             }
         }
     ]
