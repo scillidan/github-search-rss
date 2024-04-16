@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30892199?u=b0dc6fcf7725ef70c7679bb2bc2a02e191626c36&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim</div>",
+            "url": "https://github.com/renerocksai/telekasten.nvim",
+            "title": "renerocksai/telekasten.nvim: A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim",
+            "date_modified": "2024-04-16T02:46:43.000Z",
+            "date_published": "2021-11-21T01:01:11.000Z",
+            "author": {
+                "name": "renerocksai",
+                "url": "https://github.com/renerocksai"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI",
+            "date_modified": "2024-04-13T14:16:05.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-04-05T06:25:03.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim / Neovim random colorscheme plugin</div>",
             "url": "https://github.com/yukimemi/spectrism.vim",
             "title": "yukimemi/spectrism.vim: Vim / Neovim random colorscheme plugin",
@@ -108,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
             "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
             "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
-            "date_modified": "2024-04-16T06:35:05.000Z",
+            "date_modified": "2024-04-16T07:28:09.000Z",
             "date_published": "2021-12-12T13:38:23.000Z",
             "author": {
                 "name": "nvim-neo-tree",
@@ -146,17 +179,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-04-05T06:25:03.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-03-27T19:33:20.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15209939?u=06d22e4734d691acf63b6a2298db6f940cd25bd7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin written in Lua that will add virtual text next to closing braces and HTML tags to help identify them.</div>",
-            "url": "https://github.com/noxxxxxious/closing-context.nvim",
-            "title": "noxxxxxious/closing-context.nvim: A neovim plugin written in Lua that will add virtual text next to closing braces and HTML tags to help identify them.",
-            "date_modified": "2024-04-13T12:18:37.000Z",
-            "date_published": "2024-04-13T01:08:46.000Z",
-            "author": {
-                "name": "noxxxxxious",
-                "url": "https://github.com/noxxxxxious"
             }
         }
     ]
