@@ -6,6 +6,17 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
+            "url": "https://github.com/Norlock/neo-api-rs",
+            "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
+            "date_modified": "2024-04-15T18:48:03.000Z",
+            "date_published": "2024-04-15T18:47:05.000Z",
+            "author": {
+                "name": "Norlock",
+                "url": "https://github.com/Norlock"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39417839?u=87c24fa65b0e63d02ab3393d14dd2dd85205d3a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin clipboard json convert typesript</div>",
             "url": "https://github.com/enesfurkangenc/json-to-ts.nvim",
             "title": "enesfurkangenc/json-to-ts.nvim: Neovim Plugin clipboard json convert typesript",
@@ -14,6 +25,50 @@
             "author": {
                 "name": "enesfurkangenc",
                 "url": "https://github.com/enesfurkangenc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-03-27T19:33:20.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
+            "url": "https://github.com/stevearc/aerial.nvim",
+            "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
+            "date_modified": "2024-04-16T19:47:31.000Z",
+            "date_published": "2020-09-19T22:59:49.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/524109?u=d1abf33604629d2a9c7a40badc44fa1056d94291&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim plugin to improve experience while working with CVS</div>",
+            "url": "https://github.com/mrchnk/cvs.nvim",
+            "title": "mrchnk/cvs.nvim: NeoVim plugin to improve experience while working with CVS",
+            "date_modified": "2023-11-08T16:00:29.000Z",
+            "date_published": "2023-08-05T09:46:16.000Z",
+            "author": {
+                "name": "mrchnk",
+                "url": "https://github.com/mrchnk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38249221?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim fugitive style git blame plugin</div>",
+            "url": "https://github.com/FabijanZulj/blame.nvim",
+            "title": "FabijanZulj/blame.nvim: Neovim fugitive style git blame plugin",
+            "date_modified": "2024-04-16T19:07:40.000Z",
+            "date_published": "2023-08-14T08:36:24.000Z",
+            "author": {
+                "name": "FabijanZulj",
+                "url": "https://github.com/FabijanZulj"
             }
         },
         {
@@ -105,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
-            "url": "https://github.com/Norlock/neo-api-rs",
-            "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
-            "date_modified": "2024-04-15T18:48:03.000Z",
-            "date_published": "2024-04-15T18:47:05.000Z",
-            "author": {
-                "name": "Norlock",
-                "url": "https://github.com/Norlock"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
             "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
             "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "mfussenegger",
                 "url": "https://github.com/mfussenegger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138957698?u=f0b894cfa1d5f66bbd6825ab73f7ef505343fa86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight plugin to toggle JsDoc checking for Neovim</div>",
-            "url": "https://github.com/joeldotdias/jsdoc-switch.nvim",
-            "title": "joeldotdias/jsdoc-switch.nvim: A lightweight plugin to toggle JsDoc checking for Neovim",
-            "date_modified": "2024-04-16T12:31:00.000Z",
-            "date_published": "2024-04-15T12:26:49.000Z",
-            "author": {
-                "name": "joeldotdias",
-                "url": "https://github.com/joeldotdias"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
-            "url": "https://github.com/R-nvim/R.nvim",
-            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
-            "date_modified": "2024-04-16T08:25:04.000Z",
-            "date_published": "2024-01-22T20:23:10.000Z",
-            "author": {
-                "name": "R-nvim",
-                "url": "https://github.com/R-nvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15209939?u=06d22e4734d691acf63b6a2298db6f940cd25bd7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin written in Lua that will add virtual text next to closing braces and HTML tags to help identify them.</div>",
-            "url": "https://github.com/noxxxxxious/closing-context.nvim",
-            "title": "noxxxxxious/closing-context.nvim: A neovim plugin written in Lua that will add virtual text next to closing braces and HTML tags to help identify them.",
-            "date_modified": "2024-04-13T12:18:37.000Z",
-            "date_published": "2024-04-13T01:08:46.000Z",
-            "author": {
-                "name": "noxxxxxious",
-                "url": "https://github.com/noxxxxxious"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
-            "url": "https://github.com/stevearc/aerial.nvim",
-            "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
-            "date_modified": "2024-04-16T19:47:31.000Z",
-            "date_published": "2020-09-19T22:59:49.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
             }
         }
     ]
