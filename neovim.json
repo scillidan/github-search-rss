@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6348253?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my neovim configurations, plugins and notes</div>",
+            "url": "https://github.com/tainzhi/Q-vimfile",
+            "title": "tainzhi/Q-vimfile: my neovim configurations, plugins and notes",
+            "date_modified": "2024-04-02T03:10:50.000Z",
+            "date_published": "2015-01-20T23:25:08.000Z",
+            "author": {
+                "name": "tainzhi",
+                "url": "https://github.com/tainzhi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
+            "url": "https://github.com/kyoh86/denops-util",
+            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
+            "date_modified": "2024-01-06T00:24:25.000Z",
+            "date_published": "2024-01-06T00:19:26.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/597206?u=d7830cbca80e975b8884e5b5d694cd29f9ca917b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Super simple Neovim plugin for quickly jumping to a project</div>",
+            "url": "https://github.com/Hubro/nvim-projects",
+            "title": "Hubro/nvim-projects: Super simple Neovim plugin for quickly jumping to a project",
+            "date_modified": "2023-07-07T00:13:14.000Z",
+            "date_published": "2023-07-05T04:52:51.000Z",
+            "author": {
+                "name": "Hubro",
+                "url": "https://github.com/Hubro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38249221?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim fugitive style git blame plugin</div>",
+            "url": "https://github.com/FabijanZulj/blame.nvim",
+            "title": "FabijanZulj/blame.nvim: Neovim fugitive style git blame plugin",
+            "date_modified": "2024-04-17T12:51:53.000Z",
+            "date_published": "2023-08-14T08:36:24.000Z",
+            "author": {
+                "name": "FabijanZulj",
+                "url": "https://github.com/FabijanZulj"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-03-27T19:33:20.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30348075?u=fc7c41dd14bf0d1584026c9f43e3169331b376e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a yazi plugin which like flash.nvim in neovim,allow use key char to Precise selection</div>",
+            "url": "https://github.com/DreamMaoMao/keyjump.yazi",
+            "title": "DreamMaoMao/keyjump.yazi: a yazi plugin which like flash.nvim in neovim,allow use key char to Precise selection",
+            "date_modified": "2024-04-11T06:28:35.000Z",
+            "date_published": "2024-02-03T02:11:56.000Z",
+            "author": {
+                "name": "DreamMaoMao",
+                "url": "https://github.com/DreamMaoMao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3139113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by AI.</div>",
+            "url": "https://github.com/gera2ld/ai.nvim",
+            "title": "gera2ld/ai.nvim: A Neovim plugin powered by AI.",
+            "date_modified": "2024-04-15T04:16:45.000Z",
+            "date_published": "2023-12-17T14:21:13.000Z",
+            "author": {
+                "name": "gera2ld",
+                "url": "https://github.com/gera2ld"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -146,83 +223,6 @@
             "author": {
                 "name": "tamton-aquib",
                 "url": "https://github.com/tamton-aquib"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for integrating KPOps</div>",
-            "url": "https://github.com/disrupted/kpops.nvim",
-            "title": "disrupted/kpops.nvim: Neovim plugin for integrating KPOps",
-            "date_modified": "2024-02-28T14:44:02.000Z",
-            "date_published": "2023-10-31T08:39:38.000Z",
-            "author": {
-                "name": "disrupted",
-                "url": "https://github.com/disrupted"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32141102?u=ddf91516aa9a9babe1ab8ec541a2da3a57aaa2f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands</div>",
-            "url": "https://github.com/axkirillov/easypick.nvim",
-            "title": "axkirillov/easypick.nvim: A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands",
-            "date_modified": "2024-04-16T00:39:03.000Z",
-            "date_published": "2022-06-27T11:21:14.000Z",
-            "author": {
-                "name": "axkirillov",
-                "url": "https://github.com/axkirillov"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7613262?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVIM Plugin for deploying file from/to desired targets (e.g. via FTP/SCP)</div>",
-            "url": "https://github.com/ForsakenNGS/netdeploy.nvim",
-            "title": "ForsakenNGS/netdeploy.nvim: NeoVIM Plugin for deploying file from/to desired targets (e.g. via FTP/SCP)",
-            "date_modified": "2024-04-15T00:48:45.000Z",
-            "date_published": "2024-04-12T14:22:50.000Z",
-            "author": {
-                "name": "ForsakenNGS",
-                "url": "https://github.com/ForsakenNGS"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39417839?u=87c24fa65b0e63d02ab3393d14dd2dd85205d3a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin clipboard json convert typesript</div>",
-            "url": "https://github.com/enesfurkangenc/json-to-ts.nvim",
-            "title": "enesfurkangenc/json-to-ts.nvim: Neovim Plugin clipboard json convert typesript",
-            "date_modified": "2024-04-16T19:59:46.000Z",
-            "date_published": "2024-04-16T19:43:42.000Z",
-            "author": {
-                "name": "enesfurkangenc",
-                "url": "https://github.com/enesfurkangenc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48717183?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Lua Neovim configuration with a very simple plugin manager written in Python.</div>",
-            "url": "https://github.com/j-morano/nvim-config",
-            "title": "j-morano/nvim-config: Full Lua Neovim configuration with a very simple plugin manager written in Python.",
-            "date_modified": "2023-05-20T15:09:54.000Z",
-            "date_published": "2023-02-09T12:51:43.000Z",
-            "author": {
-                "name": "j-morano",
-                "url": "https://github.com/j-morano"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30892199?u=b0dc6fcf7725ef70c7679bb2bc2a02e191626c36&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim</div>",
-            "url": "https://github.com/renerocksai/telekasten.nvim",
-            "title": "renerocksai/telekasten.nvim: A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim",
-            "date_modified": "2024-04-16T21:11:43.000Z",
-            "date_published": "2021-11-21T01:01:11.000Z",
-            "author": {
-                "name": "renerocksai",
-                "url": "https://github.com/renerocksai"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30348075?u=fc7c41dd14bf0d1584026c9f43e3169331b376e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a yazi plugin which like flash.nvim in neovim,allow use key char to Precise selection</div>",
-            "url": "https://github.com/DreamMaoMao/keyjump.yazi",
-            "title": "DreamMaoMao/keyjump.yazi: a yazi plugin which like flash.nvim in neovim,allow use key char to Precise selection",
-            "date_modified": "2024-04-11T06:28:35.000Z",
-            "date_published": "2024-02-03T02:11:56.000Z",
-            "author": {
-                "name": "DreamMaoMao",
-                "url": "https://github.com/DreamMaoMao"
             }
         }
     ]
