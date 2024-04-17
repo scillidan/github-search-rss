@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.</div>",
+            "url": "https://github.com/linrongbin16/gitlinker.nvim",
+            "title": "linrongbin16/gitlinker.nvim: Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.",
+            "date_modified": "2024-04-10T08:33:31.000Z",
+            "date_published": "2023-02-18T12:55:10.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
+            "url": "https://github.com/disrupted/dotfiles",
+            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
+            "date_modified": "2024-04-15T16:14:40.000Z",
+            "date_published": "2020-08-18T11:47:17.000Z",
+            "author": {
+                "name": "disrupted",
+                "url": "https://github.com/disrupted"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
+            "url": "https://github.com/m15a/flake-vim-plugin-analects",
+            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
+            "date_modified": "2024-04-11T08:13:20.000Z",
+            "date_published": "2024-04-11T07:27:53.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77913442?u=01185051903547a4bfeeb9e01758d82f3d597668&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A screen keys plugin for neovim.</div>",
+            "url": "https://github.com/tamton-aquib/keys.nvim",
+            "title": "tamton-aquib/keys.nvim: A screen keys plugin for neovim.",
+            "date_modified": "2024-04-17T03:36:04.000Z",
+            "date_published": "2022-05-04T12:16:28.000Z",
+            "author": {
+                "name": "tamton-aquib",
+                "url": "https://github.com/tamton-aquib"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for integrating KPOps</div>",
+            "url": "https://github.com/disrupted/kpops.nvim",
+            "title": "disrupted/kpops.nvim: Neovim plugin for integrating KPOps",
+            "date_modified": "2024-02-28T14:44:02.000Z",
+            "date_published": "2023-10-31T08:39:38.000Z",
+            "author": {
+                "name": "disrupted",
+                "url": "https://github.com/disrupted"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32141102?u=ddf91516aa9a9babe1ab8ec541a2da3a57aaa2f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands</div>",
+            "url": "https://github.com/axkirillov/easypick.nvim",
+            "title": "axkirillov/easypick.nvim: A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands",
+            "date_modified": "2024-04-16T00:39:03.000Z",
+            "date_published": "2022-06-27T11:21:14.000Z",
+            "author": {
+                "name": "axkirillov",
+                "url": "https://github.com/axkirillov"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7613262?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVIM Plugin for deploying file from/to desired targets (e.g. via FTP/SCP)</div>",
+            "url": "https://github.com/ForsakenNGS/netdeploy.nvim",
+            "title": "ForsakenNGS/netdeploy.nvim: NeoVIM Plugin for deploying file from/to desired targets (e.g. via FTP/SCP)",
+            "date_modified": "2024-04-15T00:48:45.000Z",
+            "date_published": "2024-04-12T14:22:50.000Z",
+            "author": {
+                "name": "ForsakenNGS",
+                "url": "https://github.com/ForsakenNGS"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39417839?u=87c24fa65b0e63d02ab3393d14dd2dd85205d3a1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin clipboard json convert typesript</div>",
             "url": "https://github.com/enesfurkangenc/json-to-ts.nvim",
             "title": "enesfurkangenc/json-to-ts.nvim: Neovim Plugin clipboard json convert typesript",
@@ -146,83 +223,6 @@
             "author": {
                 "name": "bullets-vim",
                 "url": "https://github.com/bullets-vim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
-            "url": "https://github.com/Shougo/dpp.vim",
-            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
-            "date_modified": "2024-04-10T02:42:49.000Z",
-            "date_published": "2023-08-08T23:23:02.000Z",
-            "author": {
-                "name": "Shougo",
-                "url": "https://github.com/Shougo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54132448?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>post.nvim is a powerful plugin for Neovim aimed at streamlining the process of testing REST APIs directly within the editor. It provides a seamless interface for sending HTTP requests, inspecting responses, and managing test suites, all without leaving your coding environment.</div>",
-            "url": "https://github.com/nikhilsahoo/post.nvim",
-            "title": "nikhilsahoo/post.nvim: post.nvim is a powerful plugin for Neovim aimed at streamlining the process of testing REST APIs directly within the editor. It provides a seamless interface for sending HTTP requests, inspecting responses, and managing test suites, all without leaving your coding environment.",
-            "date_modified": "2024-04-17T02:58:46.000Z",
-            "date_published": "2024-04-17T02:58:45.000Z",
-            "author": {
-                "name": "nikhilsahoo",
-                "url": "https://github.com/nikhilsahoo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/700555?u=b05f5d070e3f03b1542c4bd8365c03b8f89b4155&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An opinionated tabline plugin for Neovim</div>",
-            "url": "https://github.com/eliseshaffer/tableau.nvim",
-            "title": "eliseshaffer/tableau.nvim: An opinionated tabline plugin for Neovim",
-            "date_modified": "2024-02-07T02:14:09.000Z",
-            "date_published": "2024-02-05T18:40:01.000Z",
-            "author": {
-                "name": "eliseshaffer",
-                "url": "https://github.com/eliseshaffer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106397573?u=ee589d4565ace148fa4e128b0fc6ca8cd67e013e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, including dotfiles and custom plugins</div>",
-            "url": "https://github.com/samchristywork/neovim-config",
-            "title": "samchristywork/neovim-config: My Neovim configuration, including dotfiles and custom plugins",
-            "date_modified": "2023-04-29T22:39:25.000Z",
-            "date_published": "2023-04-03T00:59:13.000Z",
-            "author": {
-                "name": "samchristywork",
-                "url": "https://github.com/samchristywork"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74842863?u=95b26635619bfd005aa59143d7591ad079eac91b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin helping you establish good command workflow and quit bad habit</div>",
-            "url": "https://github.com/m4xshen/hardtime.nvim",
-            "title": "m4xshen/hardtime.nvim: A Neovim plugin helping you establish good command workflow and quit bad habit",
-            "date_modified": "2024-04-16T18:03:36.000Z",
-            "date_published": "2023-04-24T17:38:50.000Z",
-            "author": {
-                "name": "m4xshen",
-                "url": "https://github.com/m4xshen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
-            "url": "https://github.com/yutkat/my-neovim-pluginlist",
-            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
-            "date_modified": "2024-04-15T03:08:59.000Z",
-            "date_published": "2022-04-17T14:53:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
-            "title": "yutkat/new-neovim-plugin-with-category-rss",
-            "date_modified": "2024-04-02T02:33:26.000Z",
-            "date_published": "2023-05-24T19:57:02.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
             }
         }
     ]
