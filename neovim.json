@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-03-27T19:33:20.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46583343?u=e6cdf881f2022f940c9575f325a18b8adf0a22e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for simplified management of diacritical marks in Neovim</div>",
+            "url": "https://github.com/gadube/critic.nvim",
+            "title": "gadube/critic.nvim: A plugin for simplified management of diacritical marks in Neovim",
+            "date_modified": "2024-04-17T17:55:05.000Z",
+            "date_published": "2024-04-17T17:55:05.000Z",
+            "author": {
+                "name": "gadube",
+                "url": "https://github.com/gadube"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38249221?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim fugitive style git blame plugin</div>",
+            "url": "https://github.com/FabijanZulj/blame.nvim",
+            "title": "FabijanZulj/blame.nvim: Neovim fugitive style git blame plugin",
+            "date_modified": "2024-04-17T17:52:21.000Z",
+            "date_published": "2023-08-14T08:36:24.000Z",
+            "author": {
+                "name": "FabijanZulj",
+                "url": "https://github.com/FabijanZulj"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
+            "url": "https://github.com/vyfor/cord.nvim",
+            "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
+            "date_modified": "2024-04-17T10:40:24.000Z",
+            "date_published": "2024-04-07T15:20:39.000Z",
+            "author": {
+                "name": "vyfor",
+                "url": "https://github.com/vyfor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-03-08T00:01:41.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-04-16T05:52:33.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
@@ -28,14 +94,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
-            "url": "https://github.com/vyfor/cord.nvim",
-            "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
-            "date_modified": "2024-04-17T10:40:24.000Z",
-            "date_published": "2024-04-07T15:20:39.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81622310?u=8ee3886b225663be87541064bd2abfda359810d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.</div>",
+            "url": "https://github.com/AlexvZyl/nordic.nvim",
+            "title": "AlexvZyl/nordic.nvim: 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.",
+            "date_modified": "2024-04-17T18:09:49.000Z",
+            "date_published": "2023-01-21T15:54:53.000Z",
             "author": {
-                "name": "vyfor",
-                "url": "https://github.com/vyfor"
+                "name": "AlexvZyl",
+                "url": "https://github.com/AlexvZyl"
             }
         },
         {
@@ -97,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
             "url": "https://github.com/stevearc/aerial.nvim",
             "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
-            "date_modified": "2024-04-17T15:05:17.000Z",
+            "date_modified": "2024-04-17T17:36:41.000Z",
             "date_published": "2020-09-19T22:59:49.000Z",
             "author": {
                 "name": "stevearc",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "linrongbin16",
                 "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-03-08T00:01:41.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48717183?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Lua Neovim configuration with a very simple plugin manager written in Python.</div>",
-            "url": "https://github.com/j-morano/nvim-config",
-            "title": "j-morano/nvim-config: Full Lua Neovim configuration with a very simple plugin manager written in Python.",
-            "date_modified": "2023-05-20T15:09:54.000Z",
-            "date_published": "2023-02-09T12:51:43.000Z",
-            "author": {
-                "name": "j-morano",
-                "url": "https://github.com/j-morano"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60247919?u=0b7f30a1930ef40a5afeadcfd3d43490cd49869f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Treesitter based Neovim plugin to toggle TODO &amp; other lables in comments</div>",
-            "url": "https://github.com/vignesh0025/nvim-todo-toggle-comment",
-            "title": "vignesh0025/nvim-todo-toggle-comment: Treesitter based Neovim plugin to toggle TODO & other lables in comments",
-            "date_modified": "2024-04-17T13:15:17.000Z",
-            "date_published": "2024-04-16T14:38:16.000Z",
-            "author": {
-                "name": "vignesh0025",
-                "url": "https://github.com/vignesh0025"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6348253?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my neovim configurations, plugins and notes</div>",
-            "url": "https://github.com/tainzhi/Q-vimfile",
-            "title": "tainzhi/Q-vimfile: my neovim configurations, plugins and notes",
-            "date_modified": "2024-04-02T03:10:50.000Z",
-            "date_published": "2015-01-20T23:25:08.000Z",
-            "author": {
-                "name": "tainzhi",
-                "url": "https://github.com/tainzhi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
-            "url": "https://github.com/kyoh86/denops-util",
-            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
-            "date_modified": "2024-01-06T00:24:25.000Z",
-            "date_published": "2024-01-06T00:19:26.000Z",
-            "author": {
-                "name": "kyoh86",
-                "url": "https://github.com/kyoh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/597206?u=d7830cbca80e975b8884e5b5d694cd29f9ca917b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Super simple Neovim plugin for quickly jumping to a project</div>",
-            "url": "https://github.com/Hubro/nvim-projects",
-            "title": "Hubro/nvim-projects: Super simple Neovim plugin for quickly jumping to a project",
-            "date_modified": "2023-07-07T00:13:14.000Z",
-            "date_published": "2023-07-05T04:52:51.000Z",
-            "author": {
-                "name": "Hubro",
-                "url": "https://github.com/Hubro"
             }
         }
     ]
