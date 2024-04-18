@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
+            "url": "https://github.com/AstroNvim/AstroNvim",
+            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
+            "date_modified": "2024-04-18T12:15:42.000Z",
+            "date_published": "2022-02-02T22:33:34.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51069488?u=205e0629d56dc6a5b3d4386e886ef4f324b2ebc3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins</div>",
+            "url": "https://github.com/cirofabianbermudez/nvim_setup",
+            "title": "cirofabianbermudez/nvim_setup: Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins",
+            "date_modified": "2024-03-25T09:27:26.000Z",
+            "date_published": "2024-03-23T12:20:18.000Z",
+            "author": {
+                "name": "cirofabianbermudez",
+                "url": "https://github.com/cirofabianbermudez"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-04-14T03:34:52.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-04-16T22:00:26.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86065?u=1b3318bea5d1a27889ca75bb48012a2be98a59ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim plugin for jumping to the other end of the current Tree-sitter node</div>",
             "url": "https://github.com/yorickpeterse/nvim-tree-pairs",
             "title": "yorickpeterse/nvim-tree-pairs: NeoVim plugin for jumping to the other end of the current Tree-sitter node",
-            "date_modified": "2024-04-18T14:06:55.000Z",
+            "date_modified": "2024-04-18T14:57:24.000Z",
             "date_published": "2024-04-18T02:56:00.000Z",
             "author": {
                 "name": "yorickpeterse",
@@ -25,17 +69,6 @@
             "author": {
                 "name": "m15a",
                 "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-04-14T03:34:52.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
             }
         },
         {
@@ -94,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
-            "url": "https://github.com/AstroNvim/AstroNvim",
-            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-04-18T12:15:42.000Z",
-            "date_published": "2022-02-02T22:33:34.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12228142?u=f32e7157c4de4b5d1fd248fe5f2b0323d8720611&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command</div>",
             "url": "https://github.com/brenton-leighton/multiple-cursors.nvim",
             "title": "brenton-leighton/multiple-cursors.nvim: A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command",
@@ -135,17 +157,6 @@
             "author": {
                 "name": "puddings233",
                 "url": "https://github.com/puddings233"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51069488?u=205e0629d56dc6a5b3d4386e886ef4f324b2ebc3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins</div>",
-            "url": "https://github.com/cirofabianbermudez/nvim_setup",
-            "title": "cirofabianbermudez/nvim_setup: Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins",
-            "date_modified": "2024-03-25T09:27:26.000Z",
-            "date_published": "2024-03-23T12:20:18.000Z",
-            "author": {
-                "name": "cirofabianbermudez",
-                "url": "https://github.com/cirofabianbermudez"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AstroNvim",
                 "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17450586?u=cc2ec8fc2bd9c13f75cec6daf01c9a050f606fde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration to show my plugins in action.</div>",
-            "url": "https://github.com/jmbuhr/quarto-nvim-kickstarter",
-            "title": "jmbuhr/quarto-nvim-kickstarter: Neovim configuration to show my plugins in action.",
-            "date_modified": "2024-04-18T07:37:00.000Z",
-            "date_published": "2022-06-03T07:59:41.000Z",
-            "author": {
-                "name": "jmbuhr",
-                "url": "https://github.com/jmbuhr"
             }
         }
     ]

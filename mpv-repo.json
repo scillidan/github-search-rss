@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2024-04-18T14:59:00.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54144015?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.</div>",
+            "url": "https://github.com/m-ab-s/media-autobuild_suite",
+            "title": "m-ab-s/media-autobuild_suite: This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.",
+            "date_modified": "2024-04-18T14:39:28.000Z",
+            "date_published": "2013-09-28T20:07:11.000Z",
+            "author": {
+                "name": "m-ab-s",
+                "url": "https://github.com/m-ab-s"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Third-party native Jellyfin client for Nintendo Switch</div>",
+            "url": "https://github.com/dragonflylee/switchfin",
+            "title": "dragonflylee/switchfin: Third-party native Jellyfin client for Nintendo Switch",
+            "date_modified": "2024-04-18T03:13:28.000Z",
+            "date_published": "2023-06-12T08:40:59.000Z",
+            "author": {
+                "name": "dragonflylee",
+                "url": "https://github.com/dragonflylee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12078193?u=92e0485b9ad985e61d7a3f0945da726df5b09c1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Super-Resolution Convolutional Neural Networks as GLSL shaders for mpv</div>",
+            "url": "https://github.com/Artoriuz/ArtCNN",
+            "title": "Artoriuz/ArtCNN: Super-Resolution Convolutional Neural Networks as GLSL shaders for mpv",
+            "date_modified": "2024-04-18T08:06:01.000Z",
+            "date_published": "2024-01-16T20:38:51.000Z",
+            "author": {
+                "name": "Artoriuz",
+                "url": "https://github.com/Artoriuz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
             "url": "https://github.com/zhongfly/mpv-winbuild",
             "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
@@ -20,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61936050?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)</div>",
             "url": "https://github.com/dyphire/mpv-config",
             "title": "dyphire/mpv-config: 本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)",
-            "date_modified": "2024-04-18T00:28:27.000Z",
+            "date_modified": "2024-04-18T14:49:53.000Z",
             "date_published": "2021-05-08T02:32:20.000Z",
             "author": {
                 "name": "dyphire",
@@ -36,17 +80,6 @@
             "author": {
                 "name": "clearfraction",
                 "url": "https://github.com/clearfraction"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2024-04-18T13:15:16.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "flathub",
                 "url": "https://github.com/flathub"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45035465?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv lua script implements Picture-in-Picture on Windows</div>",
-            "url": "https://github.com/verygoodlee/mpv-pip",
-            "title": "verygoodlee/mpv-pip: mpv lua script implements Picture-in-Picture on Windows",
-            "date_modified": "2024-02-07T08:15:16.000Z",
-            "date_published": "2023-12-01T07:41:20.000Z",
-            "author": {
-                "name": "verygoodlee",
-                "url": "https://github.com/verygoodlee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69172625?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adds mpv keybindings to create Anki cards from movies and TV shows.</div>",
-            "url": "https://github.com/Ajatt-Tools/mpvacious",
-            "title": "Ajatt-Tools/mpvacious: Adds mpv keybindings to create Anki cards from movies and TV shows.",
-            "date_modified": "2024-04-16T04:21:32.000Z",
-            "date_published": "2020-08-03T22:01:08.000Z",
-            "author": {
-                "name": "Ajatt-Tools",
-                "url": "https://github.com/Ajatt-Tools"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54144015?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.</div>",
-            "url": "https://github.com/m-ab-s/media-autobuild_suite",
-            "title": "m-ab-s/media-autobuild_suite: This Windows Batchscript helps setup a Mingw-w64 compiler environment for building ffmpeg and other media tools under Windows.",
-            "date_modified": "2024-04-16T13:04:54.000Z",
-            "date_published": "2013-09-28T20:07:11.000Z",
-            "author": {
-                "name": "m-ab-s",
-                "url": "https://github.com/m-ab-s"
             }
         }
     ]
