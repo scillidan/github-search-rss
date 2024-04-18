@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35329469?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin configurations for Neovim using Lazy.nvim and plugin-configuration-loader.nvim</div>",
+            "url": "https://github.com/RadicalTeapot/plugin-configurations",
+            "title": "RadicalTeapot/plugin-configurations: Plugin configurations for Neovim using Lazy.nvim and plugin-configuration-loader.nvim",
+            "date_modified": "2024-04-16T21:52:31.000Z",
+            "date_published": "2024-04-16T21:44:09.000Z",
+            "author": {
+                "name": "RadicalTeapot",
+                "url": "https://github.com/RadicalTeapot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.</div>",
+            "url": "https://github.com/ray-x/go.nvim",
+            "title": "ray-x/go.nvim: A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.",
+            "date_modified": "2024-04-18T21:22:10.000Z",
+            "date_published": "2021-03-10T10:23:02.000Z",
+            "author": {
+                "name": "ray-x",
+                "url": "https://github.com/ray-x"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-03-08T00:01:41.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14262306?u=b98e876c8a44b8a69b53c1030d711061b1d0f0f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Directory browser plugin for Neovim, inspired by Ranger</div>",
             "url": "https://github.com/simonmclean/triptych.nvim",
             "title": "simonmclean/triptych.nvim: Directory browser plugin for Neovim, inspired by Ranger",
@@ -116,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-03-08T00:01:41.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141475569?u=71615e75d635373893fe0433fc4a7a3f7f4b2148&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains all my personalised setup and plugins that I use in my neovim.</div>",
             "url": "https://github.com/Aditya-Ghosh-27/nvim-config",
             "title": "Aditya-Ghosh-27/nvim-config: This repository contains all my personalised setup and plugins that I use in my neovim.",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
             "url": "https://github.com/vyfor/cord.nvim",
             "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
-            "date_modified": "2024-04-17T10:40:24.000Z",
+            "date_modified": "2024-04-18T21:46:31.000Z",
             "date_published": "2024-04-07T15:20:39.000Z",
             "author": {
                 "name": "vyfor",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "stevearc",
                 "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32016110?u=c593848dd19f63499cbf0dd69323c96dfb1b015b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lua plugin to turn github copilot into a cmp source</div>",
-            "url": "https://github.com/zbirenbaum/copilot-cmp",
-            "title": "zbirenbaum/copilot-cmp: Lua plugin to turn github copilot into a cmp source",
-            "date_modified": "2024-04-18T15:42:27.000Z",
-            "date_published": "2022-04-02T22:24:10.000Z",
-            "author": {
-                "name": "zbirenbaum",
-                "url": "https://github.com/zbirenbaum"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-04-14T03:34:52.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
             }
         }
     ]
