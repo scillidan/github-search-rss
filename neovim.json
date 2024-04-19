@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-04-15T08:38:36.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1284289?u=0ce073531179fef7646a6e26904ffbd8421655a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim bazel plugin</div>",
+            "url": "https://github.com/zaucy/bazel.nvim",
+            "title": "zaucy/bazel.nvim: Neovim bazel plugin",
+            "date_modified": "2023-01-21T02:26:26.000Z",
+            "date_published": "2023-01-20T22:50:17.000Z",
+            "author": {
+                "name": "zaucy",
+                "url": "https://github.com/zaucy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
+            "url": "https://github.com/benlubas/molten-nvim",
+            "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
+            "date_modified": "2024-04-19T15:27:49.000Z",
+            "date_published": "2023-10-05T18:25:49.000Z",
+            "author": {
+                "name": "benlubas",
+                "url": "https://github.com/benlubas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
             "url": "https://github.com/disrupted/dotfiles",
             "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
@@ -14,6 +47,17 @@
             "author": {
                 "name": "disrupted",
                 "url": "https://github.com/disrupted"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
+            "url": "https://github.com/lervag/vimtex",
+            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+            "date_modified": "2024-04-19T16:21:05.000Z",
+            "date_published": "2013-10-05T11:55:11.000Z",
+            "author": {
+                "name": "lervag",
+                "url": "https://github.com/lervag"
             }
         },
         {
@@ -75,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
             "url": "https://github.com/vyfor/cord.nvim",
             "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
-            "date_modified": "2024-04-19T13:47:21.000Z",
+            "date_modified": "2024-04-19T16:30:16.000Z",
             "date_published": "2024-04-07T15:20:39.000Z",
             "author": {
                 "name": "vyfor",
@@ -91,17 +135,6 @@
             "author": {
                 "name": "altermo",
                 "url": "https://github.com/altermo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
-            "url": "https://github.com/benlubas/molten-nvim",
-            "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
-            "date_modified": "2024-04-19T15:27:49.000Z",
-            "date_published": "2023-10-05T18:25:49.000Z",
-            "author": {
-                "name": "benlubas",
-                "url": "https://github.com/benlubas"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "PERTZ42",
                 "url": "https://github.com/PERTZ42"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-04-19T16:04:48.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
-            "url": "https://github.com/frankroeder/parrot.nvim",
-            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
-            "date_modified": "2024-04-19T10:50:04.000Z",
-            "date_published": "2023-08-15T10:16:36.000Z",
-            "author": {
-                "name": "frankroeder",
-                "url": "https://github.com/frankroeder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77756408?u=657434299e5c656dea125c5474c42d1de00585b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight Neovim plugin to sync files across hosts using Rsync.</div>",
-            "url": "https://github.com/bradenhelmer/nvim-syncer",
-            "title": "bradenhelmer/nvim-syncer: A lightweight Neovim plugin to sync files across hosts using Rsync.",
-            "date_modified": "2024-01-22T15:53:32.000Z",
-            "date_published": "2024-01-20T15:06:44.000Z",
-            "author": {
-                "name": "bradenhelmer",
-                "url": "https://github.com/bradenhelmer"
             }
         }
     ]
