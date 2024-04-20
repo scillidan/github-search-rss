@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
+            "title": "yutkat/new-neovim-plugin-with-category-rss",
+            "date_modified": "2024-04-20T05:44:16.000Z",
+            "date_published": "2023-05-24T19:57:02.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
+            "url": "https://github.com/yutkat/my-neovim-pluginlist",
+            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
+            "date_modified": "2024-04-20T05:43:44.000Z",
+            "date_published": "2022-04-17T14:53:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-04-20T05:18:31.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67430802?u=7a810ac037402a3e491b1918f8a28b19bed8f939&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple neovim configuration without a plugin manager</div>",
             "url": "https://github.com/PERTZ42/nvim",
             "title": "PERTZ42/nvim: simple neovim configuration without a plugin manager",
@@ -160,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-04-19T21:19:31.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21080902?u=8f647ae27895074f61ebe8be67e4f305b34195a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. </div>",
             "url": "https://github.com/felpafel/inlay-hint.nvim",
             "title": "felpafel/inlay-hint.nvim: Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. ",
@@ -196,33 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86065?u=1b3318bea5d1a27889ca75bb48012a2be98a59ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim plugin for jumping to the other end of the current Tree-sitter node</div>",
             "url": "https://github.com/yorickpeterse/nvim-tree-pairs",
             "title": "yorickpeterse/nvim-tree-pairs: NeoVim plugin for jumping to the other end of the current Tree-sitter node",
-            "date_modified": "2024-04-20T01:28:52.000Z",
+            "date_modified": "2024-04-20T05:39:54.000Z",
             "date_published": "2024-04-18T02:56:00.000Z",
             "author": {
                 "name": "yorickpeterse",
                 "url": "https://github.com/yorickpeterse"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78477652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimalistic LLM plugin for Neovim.</div>",
-            "url": "https://github.com/sudo-burger/m0.nvim",
-            "title": "sudo-burger/m0.nvim: Minimalistic LLM plugin for Neovim.",
-            "date_modified": "2024-04-19T19:46:28.000Z",
-            "date_published": "2024-03-17T13:52:59.000Z",
-            "author": {
-                "name": "sudo-burger",
-                "url": "https://github.com/sudo-burger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60247919?u=0b7f30a1930ef40a5afeadcfd3d43490cd49869f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Treesitter based Neovim plugin to toggle TODO &amp; other lables in comments</div>",
-            "url": "https://github.com/vignesh0025/nvim-todo-toggle-comment",
-            "title": "vignesh0025/nvim-todo-toggle-comment: Treesitter based Neovim plugin to toggle TODO & other lables in comments",
-            "date_modified": "2024-04-19T19:35:22.000Z",
-            "date_published": "2024-04-16T14:38:16.000Z",
-            "author": {
-                "name": "vignesh0025",
-                "url": "https://github.com/vignesh0025"
             }
         }
     ]
