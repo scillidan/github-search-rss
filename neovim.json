@@ -6,14 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14845896?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Vim as a Python shell--like Jupyter but it's in Vim.</div>",
+            "url": "https://github.com/mrever/Vython",
+            "title": "mrever/Vython: Use Vim as a Python shell--like Jupyter but it's in Vim.",
+            "date_modified": "2024-04-21T21:01:42.000Z",
+            "date_published": "2018-05-22T05:12:01.000Z",
+            "author": {
+                "name": "mrever",
+                "url": "https://github.com/mrever"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129403?u=789ffe9bf09e39cbffb789c7a06ac005fadca69d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for Neovim that can fold and expand JSON-objects and JSON-arrays.</div>",
+            "url": "https://github.com/jvdmeulen/json-fold.nvim",
+            "title": "jvdmeulen/json-fold.nvim: Plugin for Neovim that can fold and expand JSON-objects and JSON-arrays.",
+            "date_modified": "2024-04-21T20:58:39.000Z",
+            "date_published": "2024-04-21T18:06:37.000Z",
+            "author": {
+                "name": "jvdmeulen",
+                "url": "https://github.com/jvdmeulen"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
             "url": "https://github.com/lervag/vimtex",
             "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
-            "date_modified": "2024-04-21T19:46:25.000Z",
+            "date_modified": "2024-04-21T20:47:27.000Z",
             "date_published": "2013-10-05T11:55:11.000Z",
             "author": {
                 "name": "lervag",
                 "url": "https://github.com/lervag"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/755611?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to auto install LSP servers</div>",
+            "url": "https://github.com/dundalek/lazy-lsp.nvim",
+            "title": "dundalek/lazy-lsp.nvim: Neovim plugin to auto install LSP servers",
+            "date_modified": "2024-04-21T20:24:55.000Z",
+            "date_published": "2022-09-25T10:35:21.000Z",
+            "author": {
+                "name": "dundalek",
+                "url": "https://github.com/dundalek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128088782?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Cabinet is a plugin for Neovim that allows you to manage your buffers in drawers.</div>",
+            "url": "https://github.com/smilhey/cabinet.nvim",
+            "title": "smilhey/cabinet.nvim: Cabinet is a plugin for Neovim that allows you to manage your buffers in drawers.",
+            "date_modified": "2024-04-21T20:10:52.000Z",
+            "date_published": "2024-02-19T18:54:15.000Z",
+            "author": {
+                "name": "smilhey",
+                "url": "https://github.com/smilhey"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "AstroNvim",
                 "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14262306?u=b98e876c8a44b8a69b53c1030d711061b1d0f0f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Directory browser plugin for Neovim, inspired by Ranger</div>",
-            "url": "https://github.com/simonmclean/triptych.nvim",
-            "title": "simonmclean/triptych.nvim: Directory browser plugin for Neovim, inspired by Ranger",
-            "date_modified": "2024-04-21T19:19:09.000Z",
-            "date_published": "2023-07-09T22:13:36.000Z",
-            "author": {
-                "name": "simonmclean",
-                "url": "https://github.com/simonmclean"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-04-21T14:02:41.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6076614?u=075e09ce954d2a559626cbeb3fd5d621c5ba90c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple utility plugin for taskwarrior in Neovim</div>",
-            "url": "https://github.com/huantrinh1802/m_taskwarrior_d.nvim",
-            "title": "huantrinh1802/m_taskwarrior_d.nvim: Simple utility plugin for taskwarrior in Neovim",
-            "date_modified": "2024-04-21T13:57:02.000Z",
-            "date_published": "2024-03-16T09:11:02.000Z",
-            "author": {
-                "name": "huantrinh1802",
-                "url": "https://github.com/huantrinh1802"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
-            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
-            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
-            "date_modified": "2024-04-21T12:06:35.000Z",
-            "date_published": "2024-03-10T11:54:02.000Z",
-            "author": {
-                "name": "ttak0422",
-                "url": "https://github.com/ttak0422"
             }
         }
     ]
