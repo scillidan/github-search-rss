@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
+            "url": "https://github.com/lervag/vimtex",
+            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+            "date_modified": "2024-04-21T19:46:25.000Z",
+            "date_published": "2013-10-05T11:55:11.000Z",
+            "author": {
+                "name": "lervag",
+                "url": "https://github.com/lervag"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
+            "date_modified": "2024-04-21T19:39:51.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
+            "author": {
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39670317?u=63ed4b1410579a6a2d8930b3000596b6b75a7067&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My config for neovim based on lazy plugin manager</div>",
+            "url": "https://github.com/ilof2/nvim-lazy-config",
+            "title": "ilof2/nvim-lazy-config: My config for neovim based on lazy plugin manager",
+            "date_modified": "2024-04-21T19:33:05.000Z",
+            "date_published": "2024-04-21T19:25:48.000Z",
+            "author": {
+                "name": "ilof2",
+                "url": "https://github.com/ilof2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17450586?u=cc2ec8fc2bd9c13f75cec6daf01c9a050f606fde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration to show my plugins in action.</div>",
             "url": "https://github.com/jmbuhr/quarto-nvim-kickstarter",
             "title": "jmbuhr/quarto-nvim-kickstarter: Neovim configuration to show my plugins in action.",
@@ -152,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14262306?u=b98e876c8a44b8a69b53c1030d711061b1d0f0f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Directory browser plugin for Neovim, inspired by Ranger</div>",
             "url": "https://github.com/simonmclean/triptych.nvim",
             "title": "simonmclean/triptych.nvim: Directory browser plugin for Neovim, inspired by Ranger",
-            "date_modified": "2024-04-21T14:42:14.000Z",
+            "date_modified": "2024-04-21T19:19:09.000Z",
             "date_published": "2023-07-09T22:13:36.000Z",
             "author": {
                 "name": "simonmclean",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "ttak0422",
                 "url": "https://github.com/ttak0422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-04-21T12:00:49.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17877050?u=117e973b7671a2ce4590b520c0de7e75d18af737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings</div>",
-            "url": "https://github.com/lobneroO/nvim_conf",
-            "title": "lobneroO/nvim_conf: config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings",
-            "date_modified": "2024-04-21T11:43:30.000Z",
-            "date_published": "2024-02-04T13:47:18.000Z",
-            "author": {
-                "name": "lobneroO",
-                "url": "https://github.com/lobneroO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A list of vim/neovim plugins(/extensions for plugins)</div>",
-            "url": "https://github.com/altermo/vim-plugin-list",
-            "title": "altermo/vim-plugin-list: A list of vim/neovim plugins(/extensions for plugins)",
-            "date_modified": "2024-04-21T11:29:08.000Z",
-            "date_published": "2022-06-20T05:56:40.000Z",
-            "author": {
-                "name": "altermo",
-                "url": "https://github.com/altermo"
             }
         }
     ]
