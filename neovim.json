@@ -6,14 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9a50a5946075359d128ae4348ca4976781a9e5a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)</div>",
+            "url": "https://github.com/javiorfo/nvim-springtime",
+            "title": "javiorfo/nvim-springtime: Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)",
+            "date_modified": "2024-04-21T16:07:56.000Z",
+            "date_published": "2023-02-02T02:13:33.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-04-21T16:02:38.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4216436?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to go to Symfony places</div>",
+            "url": "https://github.com/thomas-hiron/symfony-goto.nvim",
+            "title": "thomas-hiron/symfony-goto.nvim: Plugin to go to Symfony places",
+            "date_modified": "2024-04-21T15:26:26.000Z",
+            "date_published": "2024-03-10T17:17:33.000Z",
+            "author": {
+                "name": "thomas-hiron",
+                "url": "https://github.com/thomas-hiron"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17001151?u=22e02911881f45045b9bb54fe627fa130300350b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Don't forget to commit and push your changes anymore! NeoVim plugin.</div>",
             "url": "https://github.com/Amzd/dontforgit.nvim",
             "title": "Amzd/dontforgit.nvim: Don't forget to commit and push your changes anymore! NeoVim plugin.",
-            "date_modified": "2024-04-21T15:01:49.000Z",
+            "date_modified": "2024-04-21T15:23:57.000Z",
             "date_published": "2024-02-11T11:52:28.000Z",
             "author": {
                 "name": "Amzd",
                 "url": "https://github.com/Amzd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111601320?u=3f7aa88daa9aa62dab8dba9f7ae74581e0e20a74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Notion API wrapper for Neovim</div>",
+            "url": "https://github.com/Al0den/notion.nvim",
+            "title": "Al0den/notion.nvim: Notion API wrapper for Neovim",
+            "date_modified": "2024-04-21T15:13:59.000Z",
+            "date_published": "2023-04-07T06:58:26.000Z",
+            "author": {
+                "name": "Al0den",
+                "url": "https://github.com/Al0den"
             }
         },
         {
@@ -69,17 +113,6 @@
             "author": {
                 "name": "huantrinh1802",
                 "url": "https://github.com/huantrinh1802"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4216436?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to go to Symfony places</div>",
-            "url": "https://github.com/thomas-hiron/symfony-goto.nvim",
-            "title": "thomas-hiron/symfony-goto.nvim: Plugin to go to Symfony places",
-            "date_modified": "2024-04-21T13:51:18.000Z",
-            "date_published": "2024-03-10T17:17:33.000Z",
-            "author": {
-                "name": "thomas-hiron",
-                "url": "https://github.com/thomas-hiron"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "NewsonUpreti",
                 "url": "https://github.com/NewsonUpreti"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84677666?u=c31c73a687de6de2cd7f555cd45334c7bf411cba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for quickly managing subfile inclusions with commands</div>",
-            "url": "https://github.com/thornoar/nvim-subfiles",
-            "title": "thornoar/nvim-subfiles: A neovim plugin for quickly managing subfile inclusions with commands",
-            "date_modified": "2024-04-21T09:44:07.000Z",
-            "date_published": "2023-11-28T19:28:21.000Z",
-            "author": {
-                "name": "thornoar",
-                "url": "https://github.com/thornoar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46936119?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for bulk commenting code</div>",
-            "url": "https://github.com/danielNemeth19/bulk-comment.nvim",
-            "title": "danielNemeth19/bulk-comment.nvim: Neovim plugin for bulk commenting code",
-            "date_modified": "2024-04-21T09:23:46.000Z",
-            "date_published": "2024-01-23T22:09:20.000Z",
-            "author": {
-                "name": "danielNemeth19",
-                "url": "https://github.com/danielNemeth19"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A completion plugin for neovim coded in Lua.</div>",
-            "url": "https://github.com/hrsh7th/nvim-cmp",
-            "title": "hrsh7th/nvim-cmp: A completion plugin for neovim coded in Lua.",
-            "date_modified": "2024-04-21T11:23:43.000Z",
-            "date_published": "2021-06-29T18:01:04.000Z",
-            "author": {
-                "name": "hrsh7th",
-                "url": "https://github.com/hrsh7th"
             }
         }
     ]
