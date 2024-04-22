@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59179935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small and customizable neovim plugin for pretty printing the hover information from LSP servers</div>",
+            "url": "https://github.com/Fildo7525/pretty_hover",
+            "title": "Fildo7525/pretty_hover: A small and customizable neovim plugin for pretty printing the hover information from LSP servers",
+            "date_modified": "2024-04-22T19:58:32.000Z",
+            "date_published": "2023-04-09T10:06:16.000Z",
+            "author": {
+                "name": "Fildo7525",
+                "url": "https://github.com/Fildo7525"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
+            "url": "https://github.com/Iron-E/nvim-highlite",
+            "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
+            "date_modified": "2024-04-22T19:36:22.000Z",
+            "date_published": "2020-06-19T22:42:23.000Z",
+            "author": {
+                "name": "Iron-E",
+                "url": "https://github.com/Iron-E"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12702557?u=75371d03706f1232a20b7561eabf1b5c1a969586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for jumping to files and folders.</div>",
             "url": "https://github.com/homerours/jumper.nvim",
             "title": "homerours/jumper.nvim: A Neovim plugin for jumping to files and folders.",
@@ -50,6 +72,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-04-22T19:54:55.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
             "url": "https://github.com/AstroNvim/astrocommunity",
             "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
@@ -80,17 +113,6 @@
             "author": {
                 "name": "aaaaR2",
                 "url": "https://github.com/aaaaR2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36409591?u=059e769134daeba91fac947d3df268516f0f5d33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme generator that is \"lite\" on logic for the developer.</div>",
-            "url": "https://github.com/Iron-E/nvim-highlite",
-            "title": "Iron-E/nvim-highlite: A colorscheme generator that is \"lite\" on logic for the developer.",
-            "date_modified": "2024-04-22T16:48:29.000Z",
-            "date_published": "2020-06-19T22:42:23.000Z",
-            "author": {
-                "name": "Iron-E",
-                "url": "https://github.com/Iron-E"
             }
         },
         {
@@ -198,28 +220,6 @@
             "title": "echasnovski/mini.completion: Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.",
             "date_modified": "2024-04-22T15:18:35.000Z",
             "date_published": "2022-10-24T16:19:08.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.align",
-            "title": "echasnovski/mini.align: Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.",
-            "date_modified": "2024-04-22T15:18:31.000Z",
-            "date_published": "2022-10-24T16:14:49.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.ai",
-            "title": "echasnovski/mini.ai: Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.",
-            "date_modified": "2024-04-22T15:18:33.000Z",
-            "date_published": "2022-10-24T16:12:37.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
