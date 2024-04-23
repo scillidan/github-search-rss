@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-04-23T09:02:30.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8883561?u=a8298064c688ba7683c1dac4914efa35081d95d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for easier integration of <a href=\"https://github.com/Axlefublr/harp\">https://github.com/Axlefublr/harp</a> into a Neovim config</div>",
+            "url": "https://github.com/Thorinori/harp-nvim",
+            "title": "Thorinori/harp-nvim: Plugin for easier integration of https://github.com/Axlefublr/harp into a Neovim config",
+            "date_modified": "2024-04-23T09:01:45.000Z",
+            "date_published": "2024-04-23T03:00:24.000Z",
+            "author": {
+                "name": "Thorinori",
+                "url": "https://github.com/Thorinori"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-04-23T08:34:08.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141475569?u=71615e75d635373893fe0433fc4a7a3f7f4b2148&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains all my personalised setup and plugins that I use in my neovim.</div>",
+            "url": "https://github.com/Aditya-Ghosh-27/nvim-config",
+            "title": "Aditya-Ghosh-27/nvim-config: This repository contains all my personalised setup and plugins that I use in my neovim.",
+            "date_modified": "2024-04-23T08:31:35.000Z",
+            "date_published": "2024-04-18T16:57:46.000Z",
+            "author": {
+                "name": "Aditya-Ghosh-27",
+                "url": "https://github.com/Aditya-Ghosh-27"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7904185?u=7469bedc5537c1cd65783a60457e6d3029223384&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hover plugin framework for Neovim</div>",
+            "url": "https://github.com/lewis6991/hover.nvim",
+            "title": "lewis6991/hover.nvim: Hover plugin framework for Neovim",
+            "date_modified": "2024-04-23T08:30:03.000Z",
+            "date_published": "2022-03-16T12:03:01.000Z",
+            "author": {
+                "name": "lewis6991",
+                "url": "https://github.com/lewis6991"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87674867?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration for TheAltF4Stream as a plugin.</div>",
             "url": "https://github.com/ALT-F4-LLC/thealtf4stream.nvim",
             "title": "ALT-F4-LLC/thealtf4stream.nvim: Neovim configuration for TheAltF4Stream as a plugin.",
-            "date_modified": "2024-04-23T07:43:35.000Z",
+            "date_modified": "2024-04-23T08:59:58.000Z",
             "date_published": "2024-01-12T23:17:53.000Z",
             "author": {
                 "name": "ALT-F4-LLC",
@@ -50,21 +105,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141475569?u=71615e75d635373893fe0433fc4a7a3f7f4b2148&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains all my personalised setup and plugins that I use in my neovim.</div>",
-            "url": "https://github.com/Aditya-Ghosh-27/nvim-config",
-            "title": "Aditya-Ghosh-27/nvim-config: This repository contains all my personalised setup and plugins that I use in my neovim.",
-            "date_modified": "2024-04-23T06:57:46.000Z",
-            "date_published": "2024-04-18T16:57:46.000Z",
-            "author": {
-                "name": "Aditya-Ghosh-27",
-                "url": "https://github.com/Aditya-Ghosh-27"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-04-23T06:51:59.000Z",
+            "date_modified": "2024-04-23T09:01:02.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -80,17 +124,6 @@
             "author": {
                 "name": "lervag",
                 "url": "https://github.com/lervag"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8883561?u=a8298064c688ba7683c1dac4914efa35081d95d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for easier integration of <a href=\"https://github.com/Axlefublr/harp\">https://github.com/Axlefublr/harp</a> into a Neovim config</div>",
-            "url": "https://github.com/Thorinori/harp-nvim",
-            "title": "Thorinori/harp-nvim: Plugin for easier integration of https://github.com/Axlefublr/harp into a Neovim config",
-            "date_modified": "2024-04-23T06:08:36.000Z",
-            "date_published": "2024-04-23T03:00:24.000Z",
-            "author": {
-                "name": "Thorinori",
-                "url": "https://github.com/Thorinori"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "linrongbin16",
                 "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/430272?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Image Preview for Neovim 🖼</div>",
-            "url": "https://github.com/adelarsq/image_preview.nvim",
-            "title": "adelarsq/image_preview.nvim: Image Preview for Neovim 🖼",
-            "date_modified": "2024-04-23T03:50:26.000Z",
-            "date_published": "2022-10-08T16:03:01.000Z",
-            "author": {
-                "name": "adelarsq",
-                "url": "https://github.com/adelarsq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
-            "url": "https://github.com/folke/neoconf.nvim",
-            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-04-23T01:25:24.000Z",
-            "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12228142?u=f32e7157c4de4b5d1fd248fe5f2b0323d8720611&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command</div>",
-            "url": "https://github.com/brenton-leighton/multiple-cursors.nvim",
-            "title": "brenton-leighton/multiple-cursors.nvim: A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command",
-            "date_modified": "2024-04-23T01:02:12.000Z",
-            "date_published": "2023-11-09T01:53:40.000Z",
-            "author": {
-                "name": "brenton-leighton",
-                "url": "https://github.com/brenton-leighton"
             }
         }
     ]
