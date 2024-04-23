@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
+            "url": "https://github.com/vyfor/cord.nvim",
+            "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
+            "date_modified": "2024-04-23T17:02:30.000Z",
+            "date_published": "2024-04-07T15:20:39.000Z",
+            "author": {
+                "name": "vyfor",
+                "url": "https://github.com/vyfor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149238?u=1449eae7884be9567a5b1103a42c0bfe3bb805b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A theme, config and collection of plugins for Neovim</div>",
+            "url": "https://github.com/prurigro/darkcloud-nvimconfig",
+            "title": "prurigro/darkcloud-nvimconfig: A theme, config and collection of plugins for Neovim",
+            "date_modified": "2024-04-23T16:59:06.000Z",
+            "date_published": "2024-03-02T03:22:29.000Z",
+            "author": {
+                "name": "prurigro",
+                "url": "https://github.com/prurigro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-04-23T16:50:39.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9a50a5946075359d128ae4348ca4976781a9e5a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)</div>",
+            "url": "https://github.com/javiorfo/nvim-springtime",
+            "title": "javiorfo/nvim-springtime: Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)",
+            "date_modified": "2024-04-23T16:33:51.000Z",
+            "date_published": "2023-02-02T02:13:33.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12221141?u=568c85ceeae77747245a16b06abd6d0ec5354e5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin used to synchronize active note and scroll position between neovim and obsidian</div>",
             "url": "https://github.com/oflisback/obsidian-bridge.nvim",
             "title": "oflisback/obsidian-bridge.nvim: A neovim plugin used to synchronize active note and scroll position between neovim and obsidian",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "sudo-burger",
                 "url": "https://github.com/sudo-burger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-04-23T13:12:52.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/163699?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API</div>",
-            "url": "https://github.com/jackMort/ChatGPT.nvim",
-            "title": "jackMort/ChatGPT.nvim: ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
-            "date_modified": "2024-04-23T13:26:48.000Z",
-            "date_published": "2022-12-10T17:27:28.000Z",
-            "author": {
-                "name": "jackMort",
-                "url": "https://github.com/jackMort"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to avoid nested nvim</div>",
-            "url": "https://github.com/notomo/waitevent.nvim",
-            "title": "notomo/waitevent.nvim: Neovim plugin to avoid nested nvim",
-            "date_modified": "2024-04-23T11:48:56.000Z",
-            "date_published": "2023-02-14T13:42:23.000Z",
-            "author": {
-                "name": "notomo",
-                "url": "https://github.com/notomo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to get highlighted message history</div>",
-            "url": "https://github.com/notomo/hlmsg.nvim",
-            "title": "notomo/hlmsg.nvim: Neovim plugin to get highlighted message history",
-            "date_modified": "2024-04-23T11:48:50.000Z",
-            "date_published": "2022-09-05T14:01:00.000Z",
-            "author": {
-                "name": "notomo",
-                "url": "https://github.com/notomo"
             }
         }
     ]
