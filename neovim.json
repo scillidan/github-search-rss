@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/857809?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim / nvim plugin that intelligently reopens files at your last edit position.</div>",
+            "url": "https://github.com/farmergreg/vim-lastplace",
+            "title": "farmergreg/vim-lastplace: A vim / nvim plugin that intelligently reopens files at your last edit position.",
+            "date_modified": "2024-04-23T21:48:20.000Z",
+            "date_published": "2015-01-12T04:11:35.000Z",
+            "author": {
+                "name": "farmergreg",
+                "url": "https://github.com/farmergreg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35329469?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin configurations for Neovim using Lazy.nvim and plugin-configuration-loader.nvim</div>",
+            "url": "https://github.com/RadicalTeapot/plugin-configurations",
+            "title": "RadicalTeapot/plugin-configurations: Plugin configurations for Neovim using Lazy.nvim and plugin-configuration-loader.nvim",
+            "date_modified": "2024-04-23T21:47:41.000Z",
+            "date_published": "2024-04-16T21:44:09.000Z",
+            "author": {
+                "name": "RadicalTeapot",
+                "url": "https://github.com/RadicalTeapot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-04-23T21:51:54.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-04-23T21:14:03.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4452113?u=3bafc7803a7b5dd19bc3aa7241937543e9fed275&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ollero is a nvim plugin for integrating `ollama` with neovim locally</div>",
             "url": "https://github.com/marco-souza/ollero.nvim",
             "title": "marco-souza/ollero.nvim: Ollero is a nvim plugin for integrating `ollama` with neovim locally",
@@ -72,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35329469?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin configurations for Neovim using Lazy.nvim and plugin-configuration-loader.nvim</div>",
-            "url": "https://github.com/RadicalTeapot/plugin-configurations",
-            "title": "RadicalTeapot/plugin-configurations: Plugin configurations for Neovim using Lazy.nvim and plugin-configuration-loader.nvim",
-            "date_modified": "2024-04-23T20:13:14.000Z",
-            "date_published": "2024-04-16T21:44:09.000Z",
-            "author": {
-                "name": "RadicalTeapot",
-                "url": "https://github.com/RadicalTeapot"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41967813?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling neovim plugin written in lua</div>",
             "url": "https://github.com/karb94/neoscroll.nvim",
             "title": "karb94/neoscroll.nvim: Smooth scrolling neovim plugin written in lua",
@@ -138,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-04-23T17:23:57.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
             "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
             "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "prurigro",
                 "url": "https://github.com/prurigro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-04-23T16:50:39.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12221141?u=568c85ceeae77747245a16b06abd6d0ec5354e5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin used to synchronize active note and scroll position between neovim and obsidian</div>",
-            "url": "https://github.com/oflisback/obsidian-bridge.nvim",
-            "title": "oflisback/obsidian-bridge.nvim: A neovim plugin used to synchronize active note and scroll position between neovim and obsidian",
-            "date_modified": "2024-04-23T15:04:57.000Z",
-            "date_published": "2023-09-17T16:17:18.000Z",
-            "author": {
-                "name": "oflisback",
-                "url": "https://github.com/oflisback"
             }
         }
     ]
