@@ -6,10 +6,21 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4452113?u=3bafc7803a7b5dd19bc3aa7241937543e9fed275&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ollero is a nvim plugin for integrating `ollama` with neovim locally</div>",
+            "url": "https://github.com/marco-souza/ollero.nvim",
+            "title": "marco-souza/ollero.nvim: Ollero is a nvim plugin for integrating `ollama` with neovim locally",
+            "date_modified": "2024-04-23T20:51:22.000Z",
+            "date_published": "2023-08-31T22:00:06.000Z",
+            "author": {
+                "name": "marco-souza",
+                "url": "https://github.com/marco-souza"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65411080?u=afb80c149ee6605e59f699f3d7ca035abe1c9e4b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for local marks sanity</div>",
             "url": "https://github.com/Jofr3/needle",
             "title": "Jofr3/needle: Neovim plugin for local marks sanity",
-            "date_modified": "2024-04-23T19:53:06.000Z",
+            "date_modified": "2024-04-23T20:51:00.000Z",
             "date_published": "2024-04-14T15:23:33.000Z",
             "author": {
                 "name": "Jofr3",
@@ -20,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9a50a5946075359d128ae4348ca4976781a9e5a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)</div>",
             "url": "https://github.com/javiorfo/nvim-springtime",
             "title": "javiorfo/nvim-springtime: Neovim plugin based on Spring Initializr written in Lua and Rust (WIP)",
-            "date_modified": "2024-04-23T19:46:58.000Z",
+            "date_modified": "2024-04-23T20:45:46.000Z",
             "date_published": "2023-02-02T02:13:33.000Z",
             "author": {
                 "name": "javiorfo",
@@ -31,11 +42,44 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9973190?u=488a706c787565d0e8b12960f8442d2330ecd234&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to manage aws cli from inside neovim</div>",
             "url": "https://github.com/zuzmuz/nvimawscli",
             "title": "zuzmuz/nvimawscli: A plugin to manage aws cli from inside neovim",
-            "date_modified": "2024-04-23T19:40:04.000Z",
+            "date_modified": "2024-04-23T20:40:49.000Z",
             "date_published": "2024-04-23T19:40:00.000Z",
             "author": {
                 "name": "zuzmuz",
                 "url": "https://github.com/zuzmuz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136875?u=611195240df6f68e816214bb865174384b74437e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim Plugin that extends the help system to provide How-To sections and tips</div>",
+            "url": "https://github.com/msaelices/nvim-howto",
+            "title": "msaelices/nvim-howto: NeoVim Plugin that extends the help system to provide How-To sections and tips",
+            "date_modified": "2024-04-23T20:30:20.000Z",
+            "date_published": "2024-04-05T20:41:54.000Z",
+            "author": {
+                "name": "msaelices",
+                "url": "https://github.com/msaelices"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1846147?u=96e52c39a8ac6a4fd969f8a0085a3206f9bcea5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for encoding and decoding text</div>",
+            "url": "https://github.com/MisanthropicBit/decipher.nvim",
+            "title": "MisanthropicBit/decipher.nvim: A neovim plugin for encoding and decoding text",
+            "date_modified": "2024-04-23T20:29:07.000Z",
+            "date_published": "2022-11-28T20:54:57.000Z",
+            "author": {
+                "name": "MisanthropicBit",
+                "url": "https://github.com/MisanthropicBit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35329469?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin configurations for Neovim using Lazy.nvim and plugin-configuration-loader.nvim</div>",
+            "url": "https://github.com/RadicalTeapot/plugin-configurations",
+            "title": "RadicalTeapot/plugin-configurations: Plugin configurations for Neovim using Lazy.nvim and plugin-configuration-loader.nvim",
+            "date_modified": "2024-04-23T20:13:14.000Z",
+            "date_published": "2024-04-16T21:44:09.000Z",
+            "author": {
+                "name": "RadicalTeapot",
+                "url": "https://github.com/RadicalTeapot"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "oflisback",
                 "url": "https://github.com/oflisback"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/overseer.nvim",
-            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
-            "date_modified": "2024-04-23T14:24:29.000Z",
-            "date_published": "2022-05-18T00:03:58.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to improve the default vim.ui interfaces</div>",
-            "url": "https://github.com/stevearc/dressing.nvim",
-            "title": "stevearc/dressing.nvim: Neovim plugin to improve the default vim.ui interfaces",
-            "date_modified": "2024-04-23T14:22:20.000Z",
-            "date_published": "2021-12-03T01:43:51.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
-            "url": "https://github.com/stevearc/aerial.nvim",
-            "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
-            "date_modified": "2024-04-23T19:03:12.000Z",
-            "date_published": "2020-09-19T22:59:49.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/conform.nvim",
-            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-04-23T18:13:59.000Z",
-            "date_published": "2023-08-25T03:31:42.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
             }
         }
     ]
