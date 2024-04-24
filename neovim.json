@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141680932?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Banbury colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins</div>",
+            "url": "https://github.com/Banbury-inc/banbury.nvim",
+            "title": "Banbury-inc/banbury.nvim: Banbury colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins",
+            "date_modified": "2024-04-24T15:04:22.000Z",
+            "date_published": "2024-04-24T14:48:03.000Z",
+            "author": {
+                "name": "Banbury-inc",
+                "url": "https://github.com/Banbury-inc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-04-24T14:07:04.000Z",
+            "date_modified": "2024-04-24T15:04:04.000Z",
             "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47108287?u=99992b8336be2a188f3c88014bdca897daa6f921&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a simple highlight words plugin for neovim</div>",
+            "url": "https://github.com/whitelies125/simple_highlight_words.nvim",
+            "title": "whitelies125/simple_highlight_words.nvim: a simple highlight words plugin for neovim",
+            "date_modified": "2024-04-24T14:27:51.000Z",
+            "date_published": "2023-07-30T05:08:34.000Z",
+            "author": {
+                "name": "whitelies125",
+                "url": "https://github.com/whitelies125"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47108287?u=99992b8336be2a188f3c88014bdca897daa6f921&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a simple comment plugin for neovim</div>",
+            "url": "https://github.com/whitelies125/simple_comment.nvim",
+            "title": "whitelies125/simple_comment.nvim: a simple comment plugin for neovim",
+            "date_modified": "2024-04-24T14:23:12.000Z",
+            "date_published": "2023-07-15T20:52:09.000Z",
+            "author": {
+                "name": "whitelies125",
+                "url": "https://github.com/whitelies125"
             }
         },
         {
@@ -31,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
             "url": "https://github.com/stevearc/conform.nvim",
             "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-04-24T13:45:02.000Z",
+            "date_modified": "2024-04-24T14:49:46.000Z",
             "date_published": "2023-08-25T03:31:42.000Z",
             "author": {
                 "name": "stevearc",
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-04-24T13:19:55.000Z",
+            "date_modified": "2024-04-24T14:16:50.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -152,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17402163?u=e78cd94ca42152e6b046df470a3025f03e18d3ea&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin plugin to seamlessly integrate Bluesky to bring social updates directly into your editor.</div>",
             "url": "https://github.com/Sanhajio/neosky",
             "title": "Sanhajio/neosky: Neovim Plugin plugin to seamlessly integrate Bluesky to bring social updates directly into your editor.",
-            "date_modified": "2024-04-24T09:33:36.000Z",
+            "date_modified": "2024-04-24T14:45:04.000Z",
             "date_published": "2024-03-07T20:10:26.000Z",
             "author": {
                 "name": "Sanhajio",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "olimorris",
                 "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
-            "url": "https://github.com/Norlock/neo-api-rs",
-            "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
-            "date_modified": "2024-04-24T07:21:29.000Z",
-            "date_published": "2024-04-15T18:47:05.000Z",
-            "author": {
-                "name": "Norlock",
-                "url": "https://github.com/Norlock"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67430802?u=7a810ac037402a3e491b1918f8a28b19bed8f939&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple neovim configuration without a plugin manager</div>",
-            "url": "https://github.com/PERTZ42/nvim",
-            "title": "PERTZ42/nvim: simple neovim configuration without a plugin manager",
-            "date_modified": "2024-04-24T07:09:04.000Z",
-            "date_published": "2023-11-18T15:03:25.000Z",
-            "author": {
-                "name": "PERTZ42",
-                "url": "https://github.com/PERTZ42"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87674867?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration for TheAltF4Stream as a plugin.</div>",
-            "url": "https://github.com/ALT-F4-LLC/dotfiles.nix",
-            "title": "ALT-F4-LLC/dotfiles.nix: Neovim configuration for TheAltF4Stream as a plugin.",
-            "date_modified": "2024-04-24T06:28:52.000Z",
-            "date_published": "2022-05-31T03:24:24.000Z",
-            "author": {
-                "name": "ALT-F4-LLC",
-                "url": "https://github.com/ALT-F4-LLC"
             }
         }
     ]
