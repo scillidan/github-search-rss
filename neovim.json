@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/941660?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to run golang tests</div>",
+            "url": "https://github.com/vcraescu/gotest.nvim",
+            "title": "vcraescu/gotest.nvim: Neovim plugin to run golang tests",
+            "date_modified": "2024-04-27T12:13:09.000Z",
+            "date_published": "2024-04-27T04:46:56.000Z",
+            "author": {
+                "name": "vcraescu",
+                "url": "https://github.com/vcraescu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
+            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
+            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
+            "date_modified": "2024-04-27T12:05:35.000Z",
+            "date_published": "2024-03-10T11:54:02.000Z",
+            "author": {
+                "name": "ttak0422",
+                "url": "https://github.com/ttak0422"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim</div>",
+            "url": "https://github.com/mistricky/codesnap.nvim",
+            "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
+            "date_modified": "2024-04-27T12:05:05.000Z",
+            "date_published": "2024-02-13T06:05:34.000Z",
+            "author": {
+                "name": "mistricky",
+                "url": "https://github.com/mistricky"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-04-27T11:36:54.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fast and asynchronous auto-completion plugin for Neovim, focused on LSP.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lsp-compl",
+            "title": "mfussenegger/nvim-lsp-compl: A fast and asynchronous auto-completion plugin for Neovim, focused on LSP.",
+            "date_modified": "2024-04-27T11:36:38.000Z",
+            "date_published": "2021-07-03T11:44:11.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59067742?u=d756fcd4bd84c3efc17e6dc3ff4ce1fa9c5c5c02&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple plugin to boost your performance with AI while developing in Neovim that wraps an aichat tool</div>",
             "url": "https://github.com/donhardman/assist.nvim",
             "title": "donhardman/assist.nvim: A simple plugin to boost your performance with AI while developing in Neovim that wraps an aichat tool",
-            "date_modified": "2024-04-27T11:04:22.000Z",
+            "date_modified": "2024-04-27T11:24:19.000Z",
             "date_published": "2024-04-27T10:46:00.000Z",
             "author": {
                 "name": "donhardman",
@@ -17,10 +72,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62509788?u=df5a6b79c5940727f0bb5d44dadd57fc9b284c67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal plugin for Neovim that stores file marks in a local ShaDa file.</div>",
+            "url": "https://github.com/BartSte/nvim-project-marks",
+            "title": "BartSte/nvim-project-marks: A minimal plugin for Neovim that stores file marks in a local ShaDa file.",
+            "date_modified": "2024-04-27T11:18:11.000Z",
+            "date_published": "2023-06-26T07:09:05.000Z",
+            "author": {
+                "name": "BartSte",
+                "url": "https://github.com/BartSte"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12407796?u=3211afc54e5ba04b7be377f0b91f9fbb183ea453&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>tabout plugin for neovim</div>",
             "url": "https://github.com/abecodes/tabout.nvim",
             "title": "abecodes/tabout.nvim: tabout plugin for neovim",
-            "date_modified": "2024-04-27T10:59:45.000Z",
+            "date_modified": "2024-04-27T11:10:45.000Z",
             "date_published": "2021-07-23T21:18:15.000Z",
             "author": {
                 "name": "abecodes",
@@ -72,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62509788?u=df5a6b79c5940727f0bb5d44dadd57fc9b284c67&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal plugin for Neovim that stores file marks in a local ShaDa file.</div>",
-            "url": "https://github.com/BartSte/nvim-project-marks",
-            "title": "BartSte/nvim-project-marks: A minimal plugin for Neovim that stores file marks in a local ShaDa file.",
-            "date_modified": "2024-04-27T07:54:26.000Z",
-            "date_published": "2023-06-26T07:09:05.000Z",
-            "author": {
-                "name": "BartSte",
-                "url": "https://github.com/BartSte"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82267684?u=4ebe86e71117697244081c1863d81312978362d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Color picker and highlighter plugin for Neovim.</div>",
             "url": "https://github.com/uga-rosa/ccc.nvim",
             "title": "uga-rosa/ccc.nvim: Color picker and highlighter plugin for Neovim.",
@@ -113,17 +168,6 @@
             "author": {
                 "name": "arjunmahishi",
                 "url": "https://github.com/arjunmahishi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/941660?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to run golang tests</div>",
-            "url": "https://github.com/vcraescu/gotest.nvim",
-            "title": "vcraescu/gotest.nvim: Neovim plugin to run golang tests",
-            "date_modified": "2024-04-27T04:53:58.000Z",
-            "date_published": "2024-04-27T04:46:56.000Z",
-            "author": {
-                "name": "vcraescu",
-                "url": "https://github.com/vcraescu"
             }
         },
         {
@@ -163,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
             "url": "https://github.com/nvim-lualine/lualine.nvim",
             "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
-            "date_modified": "2024-04-27T09:53:40.000Z",
+            "date_modified": "2024-04-27T11:36:03.000Z",
             "date_published": "2020-12-30T14:35:10.000Z",
             "author": {
                 "name": "nvim-lualine",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128740042?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Elixir</div>",
-            "url": "https://github.com/elixir-tools/elixir-tools.nvim",
-            "title": "elixir-tools/elixir-tools.nvim: Neovim plugin for Elixir",
-            "date_modified": "2024-04-27T09:24:24.000Z",
-            "date_published": "2022-03-23T13:10:50.000Z",
-            "author": {
-                "name": "elixir-tools",
-                "url": "https://github.com/elixir-tools"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101687337?u=9fbbbb6d91caa94bd17d0f32457da44c64060a7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim plugin to track how many hours you have spent programming using Neovim.</div>",
-            "url": "https://github.com/Aityz/usage.nvim",
-            "title": "Aityz/usage.nvim: A simple Neovim plugin to track how many hours you have spent programming using Neovim.",
-            "date_modified": "2024-04-27T09:00:55.000Z",
-            "date_published": "2024-04-25T08:21:33.000Z",
-            "author": {
-                "name": "Aityz",
-                "url": "https://github.com/Aityz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
-            "url": "https://github.com/R-nvim/R.nvim",
-            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
-            "date_modified": "2024-04-26T22:20:15.000Z",
-            "date_published": "2024-01-22T20:23:10.000Z",
-            "author": {
-                "name": "R-nvim",
-                "url": "https://github.com/R-nvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-04-27T08:19:28.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         }
     ]
