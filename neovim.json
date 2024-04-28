@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-04-28T16:02:16.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
+            "url": "https://github.com/lervag/vimtex",
+            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+            "date_modified": "2024-04-28T15:51:04.000Z",
+            "date_published": "2013-10-05T11:55:11.000Z",
+            "author": {
+                "name": "lervag",
+                "url": "https://github.com/lervag"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5250400?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple plugin for posting to micro.blog from neovim</div>",
             "url": "https://github.com/s-cassidy/microblog.nvim",
             "title": "s-cassidy/microblog.nvim: Simple plugin for posting to micro.blog from neovim",
-            "date_modified": "2024-04-28T14:29:35.000Z",
+            "date_modified": "2024-04-28T15:23:18.000Z",
             "date_published": "2024-04-28T14:13:12.000Z",
             "author": {
                 "name": "s-cassidy",
                 "url": "https://github.com/s-cassidy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59179935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small and customizable neovim plugin for pretty printing the hover information from LSP servers</div>",
+            "url": "https://github.com/Fildo7525/pretty_hover",
+            "title": "Fildo7525/pretty_hover: A small and customizable neovim plugin for pretty printing the hover information from LSP servers",
+            "date_modified": "2024-04-28T15:14:45.000Z",
+            "date_published": "2023-04-09T10:06:16.000Z",
+            "author": {
+                "name": "Fildo7525",
+                "url": "https://github.com/Fildo7525"
             }
         },
         {
@@ -108,22 +141,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-04-28T14:54:37.000Z",
+            "date_modified": "2024-04-28T15:11:44.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
-            "url": "https://github.com/lervag/vimtex",
-            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
-            "date_modified": "2024-04-28T13:16:54.000Z",
-            "date_published": "2013-10-05T11:55:11.000Z",
-            "author": {
-                "name": "lervag",
-                "url": "https://github.com/lervag"
             }
         },
         {
@@ -160,6 +182,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2746374?u=119fd2407fa36292bee85ff07671c3367c120311&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.</div>",
+            "url": "https://github.com/EdenEast/nightfox.nvim",
+            "title": "EdenEast/nightfox.nvim: 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
+            "date_modified": "2024-04-28T15:58:18.000Z",
+            "date_published": "2021-07-20T23:19:53.000Z",
+            "author": {
+                "name": "EdenEast",
+                "url": "https://github.com/EdenEast"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57174310?u=d42473151abce96554ee5887b616603fdf48d345&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim LUA plugin for creating keystroke heatmap</div>",
             "url": "https://github.com/glottologist/keylog.nvim",
             "title": "glottologist/keylog.nvim: A Neovim LUA plugin for creating keystroke heatmap",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "uga-rosa",
                 "url": "https://github.com/uga-rosa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
-            "url": "https://github.com/yukimemi/dvpm",
-            "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
-            "date_modified": "2024-04-28T10:11:18.000Z",
-            "date_published": "2023-05-14T12:16:02.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45842304?u=9c759934e29425799bd94c0454c3904b3bb755bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme plugin for Neovim</div>",
-            "url": "https://github.com/tar80/loose.nvim",
-            "title": "tar80/loose.nvim: A colorscheme plugin for Neovim",
-            "date_modified": "2024-04-28T08:04:31.000Z",
-            "date_published": "2023-09-13T13:05:07.000Z",
-            "author": {
-                "name": "tar80",
-                "url": "https://github.com/tar80"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
-            "url": "https://github.com/vyfor/cord.nvim",
-            "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
-            "date_modified": "2024-04-28T06:53:04.000Z",
-            "date_published": "2024-04-07T15:20:39.000Z",
-            "author": {
-                "name": "vyfor",
-                "url": "https://github.com/vyfor"
             }
         }
     ]
