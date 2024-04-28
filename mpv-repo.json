@@ -6,6 +6,61 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71256557?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A TypeScript implementation of mpv’s autoload.lua. It is optimized for modularity, readability and and simplicity.</div>",
+            "url": "https://github.com/gaesa/mpv-autoload",
+            "title": "gaesa/mpv-autoload: A TypeScript implementation of mpv’s autoload.lua. It is optimized for modularity, readability and and simplicity.",
+            "date_modified": "2024-04-28T17:04:00.000Z",
+            "date_published": "2023-09-23T17:11:33.000Z",
+            "author": {
+                "name": "gaesa",
+                "url": "https://github.com/gaesa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91965834?u=1ccb5cceefd168fb30802556e18e17ed7f3a659c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Audio speed randomization (aspeed.lua), animated masks (automask.lua), animated dual spectra (autocomplex.lua), insta-cropping (autocrop.lua) &amp; video-clock for MPV &amp; SMPlayer! Copy/paste these scripts. All free &amp; for Windows, Linux &amp; MacOS. YouTube, MP4, MP3, JPEG, etc. 🙂</div>",
+            "url": "https://github.com/TinosNitso/mpv-scripts",
+            "title": "TinosNitso/mpv-scripts: Audio speed randomization (aspeed.lua), animated masks (automask.lua), animated dual spectra (autocomplex.lua), insta-cropping (autocrop.lua) & video-clock for MPV & SMPlayer! Copy/paste these scripts. All free & for Windows, Linux & MacOS. YouTube, MP4, MP3, JPEG, etc. 🙂",
+            "date_modified": "2024-04-28T16:55:59.000Z",
+            "date_published": "2023-11-22T17:13:42.000Z",
+            "author": {
+                "name": "TinosNitso",
+                "url": "https://github.com/TinosNitso"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45030782?u=cd4b5f9cfc8c35b27966d5bab26f909aadcd34be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal mpv configuration files and scripts</div>",
+            "url": "https://github.com/bdkr21/mpv-myconfig",
+            "title": "bdkr21/mpv-myconfig: Personal mpv configuration files and scripts",
+            "date_modified": "2024-04-28T16:40:24.000Z",
+            "date_published": "2023-02-15T12:54:39.000Z",
+            "author": {
+                "name": "bdkr21",
+                "url": "https://github.com/bdkr21"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Desktop Jellyfin Client made with Rust 🦀 and React ⚛️ [WIP]</div>",
+            "url": "https://github.com/prayag17/JellyPlayer",
+            "title": "prayag17/JellyPlayer: Modern Desktop Jellyfin Client made with Rust :crab: and React :atom_symbol: [WIP]",
+            "date_modified": "2024-04-28T16:36:08.000Z",
+            "date_published": "2022-03-05T14:56:10.000Z",
+            "author": {
+                "name": "prayag17",
+                "url": "https://github.com/prayag17"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69172625?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.</div>",
+            "url": "https://github.com/Ajatt-Tools/mpvacious",
+            "title": "Ajatt-Tools/mpvacious: 🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.",
+            "date_modified": "2024-04-28T16:25:05.000Z",
+            "date_published": "2020-08-03T22:01:08.000Z",
+            "author": {
+                "name": "Ajatt-Tools",
+                "url": "https://github.com/Ajatt-Tools"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32032905?u=7be4c7a92d6349358dcec48aa867e223af3e5ca3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configuration files and automation wizard for Arch Linux meta distribution</div>",
             "url": "https://github.com/oniani/dot",
             "title": "oniani/dot: Configuration files and automation wizard for Arch Linux meta distribution",
@@ -69,17 +124,6 @@
             "author": {
                 "name": "71zenith",
                 "url": "https://github.com/71zenith"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Desktop Jellyfin Client made with Rust 🦀 and React ⚛️ [WIP]</div>",
-            "url": "https://github.com/prayag17/JellyPlayer",
-            "title": "prayag17/JellyPlayer: Modern Desktop Jellyfin Client made with Rust :crab: and React :atom_symbol: [WIP]",
-            "date_modified": "2024-04-28T13:37:33.000Z",
-            "date_published": "2022-03-05T14:56:10.000Z",
-            "author": {
-                "name": "prayag17",
-                "url": "https://github.com/prayag17"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "hakan-demirli",
                 "url": "https://github.com/hakan-demirli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106782492?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>apple silicon native build of mpv</div>",
-            "url": "https://github.com/kannagiumine/mpv-apple-silicon-native",
-            "title": "kannagiumine/mpv-apple-silicon-native: apple silicon native build of mpv",
-            "date_modified": "2024-04-28T09:31:53.000Z",
-            "date_published": "2023-07-16T21:49:20.000Z",
-            "author": {
-                "name": "kannagiumine",
-                "url": "https://github.com/kannagiumine"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖 static build of <a href=\"https://github.com/mpv-player/mpv.io\">https://github.com/mpv-player/mpv.io</a> by TravisCI</div>",
-            "url": "https://github.com/mpv-player/mpv-player.github.io",
-            "title": "mpv-player/mpv-player.github.io: 🤖 static build of https://github.com/mpv-player/mpv.io by TravisCI",
-            "date_modified": "2024-04-28T08:31:35.000Z",
-            "date_published": "2013-03-07T16:49:49.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌎 website source code</div>",
-            "url": "https://github.com/mpv-player/mpv.io",
-            "title": "mpv-player/mpv.io: 🌎 website source code",
-            "date_modified": "2024-04-28T08:28:34.000Z",
-            "date_published": "2014-02-08T13:33:24.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46796031?u=250eda0977ec227cc8d23eaecaa9e3b5f83ff12b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>compilation of dotfiles for the i3 window manager environment</div>",
-            "url": "https://github.com/mrdotx/dotfiles",
-            "title": "mrdotx/dotfiles: compilation of dotfiles for the i3 window manager environment",
-            "date_modified": "2024-04-28T06:47:58.000Z",
-            "date_published": "2019-10-09T11:25:30.000Z",
-            "author": {
-                "name": "mrdotx",
-                "url": "https://github.com/mrdotx"
             }
         }
     ]
