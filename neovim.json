@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)</div>",
+            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
+            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
+            "date_modified": "2024-04-29T09:06:32.000Z",
+            "date_published": "2023-11-01T17:40:49.000Z",
+            "author": {
+                "name": "wojciech-kulik",
+                "url": "https://github.com/wojciech-kulik"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123123188?u=892317acbca335a9483855a7adfd537ff7d9d8ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My new personal NeoVim config, which uses the Lazy package manager for vim plugins. It is heavily inspired by ThePrimeagen's config.</div>",
+            "url": "https://github.com/RogerDewald/LazyNeovimConfig",
+            "title": "RogerDewald/LazyNeovimConfig: My new personal NeoVim config, which uses the Lazy package manager for vim plugins. It is heavily inspired by ThePrimeagen's config.",
+            "date_modified": "2024-04-29T09:04:46.000Z",
+            "date_published": "2024-04-22T04:38:46.000Z",
+            "author": {
+                "name": "RogerDewald",
+                "url": "https://github.com/RogerDewald"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-04-29T09:03:44.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133934406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Managing Neovim plugins </div>",
+            "url": "https://github.com/pcx309/plugins",
+            "title": "pcx309/plugins: Managing Neovim plugins ",
+            "date_modified": "2024-04-29T09:03:37.000Z",
+            "date_published": "2024-04-28T20:53:26.000Z",
+            "author": {
+                "name": "pcx309",
+                "url": "https://github.com/pcx309"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12702557?u=75371d03706f1232a20b7561eabf1b5c1a969586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for jumping to files and folders.</div>",
+            "url": "https://github.com/homerours/jumper.nvim",
+            "title": "homerours/jumper.nvim: A Neovim plugin for jumping to files and folders.",
+            "date_modified": "2024-04-29T08:23:19.000Z",
+            "date_published": "2024-01-07T22:29:19.000Z",
+            "author": {
+                "name": "homerours",
+                "url": "https://github.com/homerours"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-04-29T08:09:59.000Z",
+            "date_modified": "2024-04-29T08:39:27.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "CRAG666",
                 "url": "https://github.com/CRAG666"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Load all the ultra colorschemes into Neovim player!</div>",
-            "url": "https://github.com/linrongbin16/colorbox.nvim",
-            "title": "linrongbin16/colorbox.nvim: Load all the ultra colorschemes into Neovim player!",
-            "date_modified": "2024-04-29T00:15:45.000Z",
-            "date_published": "2023-03-03T01:03:56.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32515155?u=65cb29bc883ac60ab200c2798ff2f1de78cf6405&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔭 | A Gitmoji plugin for Neovim using Telescope</div>",
-            "url": "https://github.com/HenriqueArtur/neo-gitmoji.nvim",
-            "title": "HenriqueArtur/neo-gitmoji.nvim: 🔭 | A Gitmoji plugin for Neovim using Telescope",
-            "date_modified": "2024-04-29T00:14:00.000Z",
-            "date_published": "2024-04-22T00:27:12.000Z",
-            "author": {
-                "name": "HenriqueArtur",
-                "url": "https://github.com/HenriqueArtur"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
-            "title": "LongerHV/neovim-plugins-overlay",
-            "date_modified": "2024-04-29T00:13:03.000Z",
-            "date_published": "2022-12-22T21:42:57.000Z",
-            "author": {
-                "name": "LongerHV",
-                "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133934406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Managing Neovim plugins </div>",
-            "url": "https://github.com/pcx309/plugins",
-            "title": "pcx309/plugins: Managing Neovim plugins ",
-            "date_modified": "2024-04-29T00:09:09.000Z",
-            "date_published": "2024-04-28T20:53:26.000Z",
-            "author": {
-                "name": "pcx309",
-                "url": "https://github.com/pcx309"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-04-29T00:03:59.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
             }
         }
     ]
