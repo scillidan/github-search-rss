@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-05-01T09:07:23.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
+            "url": "https://github.com/m15a/flake-vim-plugin-analects",
+            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
+            "date_modified": "2024-05-01T08:53:02.000Z",
+            "date_published": "2024-04-11T07:27:53.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2991824?u=30389588de1b63d97112b7d7c76b36856574cabf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for cider-jack-in</div>",
+            "url": "https://github.com/TreyBastian/nvim-jack-in",
+            "title": "TreyBastian/nvim-jack-in: Neovim plugin for cider-jack-in",
+            "date_modified": "2024-05-01T08:49:11.000Z",
+            "date_published": "2024-04-30T22:14:13.000Z",
+            "author": {
+                "name": "TreyBastian",
+                "url": "https://github.com/TreyBastian"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-05-01T07:18:29.000Z",
+            "date_modified": "2024-05-01T09:06:03.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -31,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72212234?u=92311c7007f8dda43fdc4b66f1900448432afca1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.</div>",
             "url": "https://github.com/GuiC0506/Tracker.nvim",
             "title": "GuiC0506/Tracker.nvim: Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.",
-            "date_modified": "2024-05-01T06:24:55.000Z",
+            "date_modified": "2024-05-01T08:22:18.000Z",
             "date_published": "2024-04-29T20:22:08.000Z",
             "author": {
                 "name": "GuiC0506",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "mikemehl",
                 "url": "https://github.com/mikemehl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
-            "url": "https://github.com/folke/neoconf.nvim",
-            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-05-01T01:28:42.000Z",
-            "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44714422?u=271c12904bf31b879e5df632d3601135d021993d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for launching tasks, I guess.</div>",
-            "url": "https://github.com/speelbarrow/spLauncher.nvim",
-            "title": "speelbarrow/spLauncher.nvim: A Neovim plugin for launching tasks, I guess.",
-            "date_modified": "2024-05-01T01:55:54.000Z",
-            "date_published": "2024-04-04T14:08:09.000Z",
-            "author": {
-                "name": "speelbarrow",
-                "url": "https://github.com/speelbarrow"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32515155?u=65cb29bc883ac60ab200c2798ff2f1de78cf6405&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔭 | A Gitmoji plugin for Neovim using Telescope</div>",
-            "url": "https://github.com/HenriqueArtur/neo-gitmoji.nvim",
-            "title": "HenriqueArtur/neo-gitmoji.nvim: 🔭 | A Gitmoji plugin for Neovim using Telescope",
-            "date_modified": "2024-05-01T00:15:13.000Z",
-            "date_published": "2024-04-22T00:27:12.000Z",
-            "author": {
-                "name": "HenriqueArtur",
-                "url": "https://github.com/HenriqueArtur"
             }
         }
     ]
