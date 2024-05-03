@@ -6,25 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17450586?u=cc2ec8fc2bd9c13f75cec6daf01c9a050f606fde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration to show my plugins in action.</div>",
-            "url": "https://github.com/jmbuhr/quarto-nvim-kickstarter",
-            "title": "jmbuhr/quarto-nvim-kickstarter: Neovim configuration to show my plugins in action.",
-            "date_modified": "2024-05-03T11:00:58.000Z",
-            "date_published": "2022-06-03T07:59:41.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
+            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
+            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
+            "date_modified": "2024-05-03T12:05:18.000Z",
+            "date_published": "2024-03-10T11:54:02.000Z",
             "author": {
-                "name": "jmbuhr",
-                "url": "https://github.com/jmbuhr"
+                "name": "ttak0422",
+                "url": "https://github.com/ttak0422"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
+            "url": "https://github.com/frankroeder/parrot.nvim",
+            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
+            "date_modified": "2024-05-03T11:56:47.000Z",
+            "date_published": "2023-08-15T10:16:36.000Z",
+            "author": {
+                "name": "frankroeder",
+                "url": "https://github.com/frankroeder"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
             "url": "https://github.com/vyfor/cord.nvim",
             "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
-            "date_modified": "2024-05-03T10:58:01.000Z",
+            "date_modified": "2024-05-03T11:50:51.000Z",
             "date_published": "2024-04-07T15:20:39.000Z",
             "author": {
                 "name": "vyfor",
                 "url": "https://github.com/vyfor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-05-03T11:48:12.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17450586?u=cc2ec8fc2bd9c13f75cec6daf01c9a050f606fde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration to show my plugins in action.</div>",
+            "url": "https://github.com/jmbuhr/quarto-nvim-kickstarter",
+            "title": "jmbuhr/quarto-nvim-kickstarter: Neovim configuration to show my plugins in action.",
+            "date_modified": "2024-05-03T11:18:05.000Z",
+            "date_published": "2022-06-03T07:59:41.000Z",
+            "author": {
+                "name": "jmbuhr",
+                "url": "https://github.com/jmbuhr"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "github",
                 "url": "https://github.com/github"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
-            "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
-            "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-05-03T08:42:09.000Z",
-            "date_published": "2024-03-18T04:13:43.000Z",
-            "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
-            "url": "https://github.com/folke/neoconf.nvim",
-            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-05-03T01:26:58.000Z",
-            "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to shot code</div>",
-            "url": "https://github.com/niuiic/code-shot.nvim",
-            "title": "niuiic/code-shot.nvim: Neovim plugin to shot code",
-            "date_modified": "2024-05-03T01:09:58.000Z",
-            "date_published": "2023-08-18T08:14:35.000Z",
-            "author": {
-                "name": "niuiic",
-                "url": "https://github.com/niuiic"
             }
         }
     ]
