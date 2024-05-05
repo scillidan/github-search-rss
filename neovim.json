@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23341710?u=d99141ca3f57d4bf87cb4e5597d140359f73a02e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tiny plugin to quickly switch python virtual environments from within neovim without restarting.</div>",
+            "url": "https://github.com/AckslD/swenv.nvim",
+            "title": "AckslD/swenv.nvim: Tiny plugin to quickly switch python virtual environments from within neovim without restarting.",
+            "date_modified": "2024-05-05T19:51:57.000Z",
+            "date_published": "2022-09-19T12:46:06.000Z",
+            "author": {
+                "name": "AckslD",
+                "url": "https://github.com/AckslD"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17064903?u=3e6bb539ce58a42311c1336fdca55a27e4697d42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Command palette &amp; menu plugin for Vim and Neovim</div>",
+            "url": "https://github.com/lalbornoz/roarie-commands.vim",
+            "title": "lalbornoz/roarie-commands.vim: Command palette & menu plugin for Vim and Neovim",
+            "date_modified": "2024-05-05T19:44:52.000Z",
+            "date_published": "2024-04-29T07:58:02.000Z",
+            "author": {
+                "name": "lalbornoz",
+                "url": "https://github.com/lalbornoz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1331138?u=b03e0c420aeee323bdac95fb02a02521c6f32424&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.</div>",
+            "url": "https://github.com/dpayne/CodeGPT.nvim",
+            "title": "dpayne/CodeGPT.nvim: CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.",
+            "date_modified": "2024-05-05T19:13:40.000Z",
+            "date_published": "2023-03-03T07:37:23.000Z",
+            "author": {
+                "name": "dpayne",
+                "url": "https://github.com/dpayne"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72212234?u=92311c7007f8dda43fdc4b66f1900448432afca1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.</div>",
+            "url": "https://github.com/GuiC0506/Tracker.nvim",
+            "title": "GuiC0506/Tracker.nvim: Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.",
+            "date_modified": "2024-05-05T19:09:30.000Z",
+            "date_published": "2024-04-29T20:22:08.000Z",
+            "author": {
+                "name": "GuiC0506",
+                "url": "https://github.com/GuiC0506"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
             "url": "https://github.com/vim-denops/denops.vim",
             "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
@@ -58,17 +102,6 @@
             "author": {
                 "name": "lervag",
                 "url": "https://github.com/lervag"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72212234?u=92311c7007f8dda43fdc4b66f1900448432afca1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.</div>",
-            "url": "https://github.com/GuiC0506/Tracker.nvim",
-            "title": "GuiC0506/Tracker.nvim: Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.",
-            "date_modified": "2024-05-05T18:10:05.000Z",
-            "date_published": "2024-04-29T20:22:08.000Z",
-            "author": {
-                "name": "GuiC0506",
-                "url": "https://github.com/GuiC0506"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "PERTZ42",
                 "url": "https://github.com/PERTZ42"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
-            "url": "https://github.com/vyfor/cord.nvim",
-            "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
-            "date_modified": "2024-05-05T14:27:49.000Z",
-            "date_published": "2024-04-07T15:20:39.000Z",
-            "author": {
-                "name": "vyfor",
-                "url": "https://github.com/vyfor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
-            "url": "https://github.com/mfussenegger/nvim-lint",
-            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-05-05T18:12:46.000Z",
-            "date_published": "2021-02-14T11:18:45.000Z",
-            "author": {
-                "name": "mfussenegger",
-                "url": "https://github.com/mfussenegger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-05-05T14:18:32.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
             }
         }
     ]
