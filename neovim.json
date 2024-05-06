@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-05-06T19:29:57.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1846147?u=96e52c39a8ac6a4fd969f8a0085a3206f9bcea5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for encoding and decoding text</div>",
+            "url": "https://github.com/MisanthropicBit/decipher.nvim",
+            "title": "MisanthropicBit/decipher.nvim: A neovim plugin for encoding and decoding text",
+            "date_modified": "2024-05-06T19:29:03.000Z",
+            "date_published": "2022-11-28T20:54:57.000Z",
+            "author": {
+                "name": "MisanthropicBit",
+                "url": "https://github.com/MisanthropicBit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/455313?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim configuration and plugins</div>",
+            "url": "https://github.com/tsaeger/dotvim",
+            "title": "tsaeger/dotvim: neovim configuration and plugins",
+            "date_modified": "2024-05-06T19:14:07.000Z",
+            "date_published": "2011-08-06T15:48:19.000Z",
+            "author": {
+                "name": "tsaeger",
+                "url": "https://github.com/tsaeger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
+            "date_modified": "2024-05-06T19:12:17.000Z",
+            "date_published": "2024-05-04T09:33:14.000Z",
+            "author": {
+                "name": "lima1909",
+                "url": "https://github.com/lima1909"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72212234?u=92311c7007f8dda43fdc4b66f1900448432afca1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.</div>",
             "url": "https://github.com/GuiC0506/Tracker.nvim",
             "title": "GuiC0506/Tracker.nvim: Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.",
@@ -42,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
             "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
             "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
-            "date_modified": "2024-05-06T17:25:31.000Z",
+            "date_modified": "2024-05-06T19:33:11.000Z",
             "date_published": "2021-12-11T08:13:56.000Z",
             "author": {
                 "name": "m15a",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "altermo",
                 "url": "https://github.com/altermo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
-            "url": "https://github.com/frankroeder/parrot.nvim",
-            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
-            "date_modified": "2024-05-06T15:17:24.000Z",
-            "date_published": "2023-08-15T10:16:36.000Z",
-            "author": {
-                "name": "frankroeder",
-                "url": "https://github.com/frankroeder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48717183?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Full Lua Neovim configuration with a very simple plugin manager written in Python.</div>",
-            "url": "https://github.com/j-morano/nvim-config",
-            "title": "j-morano/nvim-config: Full Lua Neovim configuration with a very simple plugin manager written in Python.",
-            "date_modified": "2024-05-06T14:41:17.000Z",
-            "date_published": "2023-02-09T12:51:43.000Z",
-            "author": {
-                "name": "j-morano",
-                "url": "https://github.com/j-morano"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17064903?u=3e6bb539ce58a42311c1336fdca55a27e4697d42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Command palette &amp; menu plugin for Vim and Neovim</div>",
-            "url": "https://github.com/lalbornoz/roarie-commands.vim",
-            "title": "lalbornoz/roarie-commands.vim: Command palette & menu plugin for Vim and Neovim",
-            "date_modified": "2024-05-06T13:49:30.000Z",
-            "date_published": "2024-04-29T07:58:02.000Z",
-            "author": {
-                "name": "lalbornoz",
-                "url": "https://github.com/lalbornoz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
-            "url": "https://github.com/lima1909/resty.nvim",
-            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
-            "date_modified": "2024-05-06T13:31:19.000Z",
-            "date_published": "2024-05-04T09:33:14.000Z",
-            "author": {
-                "name": "lima1909",
-                "url": "https://github.com/lima1909"
             }
         }
     ]
