@@ -6,14 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56714626?u=478b49a5561ec5cd4dfc185d9bee6f2eb6f01fa5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👻 GhostText plugin for Neovim with zero dependencies 🎉 Supports neovim running inside WSL too! 🥳 Windows/Linux/macOS supported out-of-the-box! 😄 (Other OSes need python3.6+ installed)</div>",
+            "url": "https://github.com/subnut/nvim-ghost.nvim",
+            "title": "subnut/nvim-ghost.nvim: :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3.6+ installed)",
+            "date_modified": "2024-05-08T14:46:43.000Z",
+            "date_published": "2020-10-04T04:09:30.000Z",
+            "author": {
+                "name": "subnut",
+                "url": "https://github.com/subnut"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122405438?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin providing \"A People's Calendar\" for Neovim, written in lua.</div>",
             "url": "https://github.com/aPeoplesCalendar/apc.nvim",
             "title": "aPeoplesCalendar/apc.nvim: Plugin providing \"A People's Calendar\" for Neovim, written in lua.",
-            "date_modified": "2024-05-08T13:54:40.000Z",
+            "date_modified": "2024-05-08T14:26:56.000Z",
             "date_published": "2023-03-10T21:21:25.000Z",
             "author": {
                 "name": "aPeoplesCalendar",
                 "url": "https://github.com/aPeoplesCalendar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/overseer.nvim",
+            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
+            "date_modified": "2024-05-08T14:22:13.000Z",
+            "date_published": "2022-05-18T00:03:58.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71320000?u=59331e0e583a7922abc1154951c44a7264da7bc8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for aligning bilingual parallel texts</div>",
+            "url": "https://github.com/tanloong/interlaced.nvim",
+            "title": "tanloong/interlaced.nvim: Neovim plugin for aligning bilingual parallel texts",
+            "date_modified": "2024-05-08T14:17:32.000Z",
+            "date_published": "2023-08-09T20:22:27.000Z",
+            "author": {
+                "name": "tanloong",
+                "url": "https://github.com/tanloong"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71246797?u=d09afddc151c14300b4f0105702689699ae81e73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin</div>",
+            "url": "https://github.com/AndriWild/smart-indent",
+            "title": "AndriWild/smart-indent: Neovim Plugin",
+            "date_modified": "2024-05-08T14:16:03.000Z",
+            "date_published": "2024-05-08T14:15:59.000Z",
+            "author": {
+                "name": "AndriWild",
+                "url": "https://github.com/AndriWild"
             }
         },
         {
@@ -163,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A completion plugin for neovim coded in Lua.</div>",
             "url": "https://github.com/hrsh7th/nvim-cmp",
             "title": "hrsh7th/nvim-cmp: A completion plugin for neovim coded in Lua.",
-            "date_modified": "2024-05-08T09:33:37.000Z",
+            "date_modified": "2024-05-08T14:22:35.000Z",
             "date_published": "2021-06-29T18:01:04.000Z",
             "author": {
                 "name": "hrsh7th",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "MonalBarse",
                 "url": "https://github.com/MonalBarse"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple find and replace plugin for neovim</div>",
-            "url": "https://github.com/MagicDuck/grug-far.nvim",
-            "title": "MagicDuck/grug-far.nvim: simple find and replace plugin for neovim",
-            "date_modified": "2024-05-08T09:10:37.000Z",
-            "date_published": "2024-04-28T18:15:17.000Z",
-            "author": {
-                "name": "MagicDuck",
-                "url": "https://github.com/MagicDuck"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
-            "url": "https://github.com/kyoh86/denops-util",
-            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
-            "date_modified": "2024-05-08T08:57:31.000Z",
-            "date_published": "2024-01-06T00:19:26.000Z",
-            "author": {
-                "name": "kyoh86",
-                "url": "https://github.com/kyoh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
-            "url": "https://github.com/m15a/flake-vim-plugin-analects",
-            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
-            "date_modified": "2024-05-08T08:52:59.000Z",
-            "date_published": "2024-04-11T07:27:53.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-05-08T13:56:21.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
             }
         }
     ]
