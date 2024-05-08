@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
+            "url": "https://github.com/Norlock/neo-api-rs",
+            "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
+            "date_modified": "2024-05-08T12:15:55.000Z",
+            "date_published": "2024-04-15T18:47:05.000Z",
+            "author": {
+                "name": "Norlock",
+                "url": "https://github.com/Norlock"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-05-08T12:10:02.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
+            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
+            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
+            "date_modified": "2024-05-08T12:05:33.000Z",
+            "date_published": "2024-03-10T11:54:02.000Z",
+            "author": {
+                "name": "ttak0422",
+                "url": "https://github.com/ttak0422"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
             "url": "https://github.com/folke/noice.nvim",
             "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
@@ -160,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
-            "url": "https://github.com/Norlock/neo-api-rs",
-            "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
-            "date_modified": "2024-05-08T05:37:13.000Z",
-            "date_published": "2024-04-15T18:47:05.000Z",
-            "author": {
-                "name": "Norlock",
-                "url": "https://github.com/Norlock"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim</div>",
             "url": "https://github.com/mistricky/codesnap.nvim",
             "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "GuiC0506",
                 "url": "https://github.com/GuiC0506"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1445483?u=836a0d23e6d32ff8e2132370cc9dea7fafbdd28c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to work with PostgreSQL directly from Neovim</div>",
-            "url": "https://github.com/trstringer/psql.nvim",
-            "title": "trstringer/psql.nvim: Plugin to work with PostgreSQL directly from Neovim",
-            "date_modified": "2024-05-08T02:17:02.000Z",
-            "date_published": "2024-05-04T15:43:49.000Z",
-            "author": {
-                "name": "trstringer",
-                "url": "https://github.com/trstringer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7839406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim plugin for the Linux command `dict` which shows the definitions in a popup </div>",
-            "url": "https://github.com/Nealium/dict-popup.nvim",
-            "title": "Nealium/dict-popup.nvim: A simple Neovim plugin for the Linux command `dict` which shows the definitions in a popup ",
-            "date_modified": "2024-05-08T01:47:43.000Z",
-            "date_published": "2024-02-20T00:25:39.000Z",
-            "author": {
-                "name": "Nealium",
-                "url": "https://github.com/Nealium"
             }
         }
     ]
