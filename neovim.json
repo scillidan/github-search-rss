@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2639381?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for joining lines that belong to the same paragraph</div>",
+            "url": "https://github.com/jakeru/join.nvim",
+            "title": "jakeru/join.nvim: A Neovim plugin for joining lines that belong to the same paragraph",
+            "date_modified": "2024-05-08T20:01:27.000Z",
+            "date_published": "2024-05-08T19:20:55.000Z",
+            "author": {
+                "name": "jakeru",
+                "url": "https://github.com/jakeru"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-05-08T19:51:49.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72212234?u=92311c7007f8dda43fdc4b66f1900448432afca1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.</div>",
+            "url": "https://github.com/GuiC0506/Tracker.nvim",
+            "title": "GuiC0506/Tracker.nvim: Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.",
+            "date_modified": "2024-05-08T19:43:54.000Z",
+            "date_published": "2024-04-29T20:22:08.000Z",
+            "author": {
+                "name": "GuiC0506",
+                "url": "https://github.com/GuiC0506"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12702557?u=75371d03706f1232a20b7561eabf1b5c1a969586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for jumping to files and folders.</div>",
+            "url": "https://github.com/homerours/jumper.nvim",
+            "title": "homerours/jumper.nvim: A Neovim plugin for jumping to files and folders.",
+            "date_modified": "2024-05-08T19:36:28.000Z",
+            "date_published": "2024-01-07T22:29:19.000Z",
+            "author": {
+                "name": "homerours",
+                "url": "https://github.com/homerours"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17064903?u=3e6bb539ce58a42311c1336fdca55a27e4697d42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Command palette &amp; menu plugin for Vim and Neovim</div>",
             "url": "https://github.com/lalbornoz/roarie-commands.vim",
             "title": "lalbornoz/roarie-commands.vim: Command palette & menu plugin for Vim and Neovim",
-            "date_modified": "2024-05-08T18:58:37.000Z",
+            "date_modified": "2024-05-08T19:30:25.000Z",
             "date_published": "2024-04-29T07:58:02.000Z",
             "author": {
                 "name": "lalbornoz",
@@ -20,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
             "url": "https://github.com/AstroNvim/AstroNvim",
             "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-05-08T18:39:04.000Z",
+            "date_modified": "2024-05-08T19:49:53.000Z",
             "date_published": "2022-02-02T22:33:34.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -141,22 +185,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-05-08T17:52:55.000Z",
+            "date_modified": "2024-05-08T19:55:55.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72212234?u=92311c7007f8dda43fdc4b66f1900448432afca1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.</div>",
-            "url": "https://github.com/GuiC0506/Tracker.nvim",
-            "title": "GuiC0506/Tracker.nvim: Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.",
-            "date_modified": "2024-05-08T15:49:04.000Z",
-            "date_published": "2024-04-29T20:22:08.000Z",
-            "author": {
-                "name": "GuiC0506",
-                "url": "https://github.com/GuiC0506"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "aPeoplesCalendar",
                 "url": "https://github.com/aPeoplesCalendar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/overseer.nvim",
-            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
-            "date_modified": "2024-05-08T14:22:13.000Z",
-            "date_published": "2022-05-18T00:03:58.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71320000?u=59331e0e583a7922abc1154951c44a7264da7bc8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for aligning bilingual parallel texts</div>",
-            "url": "https://github.com/tanloong/interlaced.nvim",
-            "title": "tanloong/interlaced.nvim: Neovim plugin for aligning bilingual parallel texts",
-            "date_modified": "2024-05-08T14:17:32.000Z",
-            "date_published": "2023-08-09T20:22:27.000Z",
-            "author": {
-                "name": "tanloong",
-                "url": "https://github.com/tanloong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71246797?u=d09afddc151c14300b4f0105702689699ae81e73&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin</div>",
-            "url": "https://github.com/AndriWild/smart-indent",
-            "title": "AndriWild/smart-indent: Neovim Plugin",
-            "date_modified": "2024-05-08T14:16:03.000Z",
-            "date_published": "2024-05-08T14:15:59.000Z",
-            "author": {
-                "name": "AndriWild",
-                "url": "https://github.com/AndriWild"
             }
         }
     ]
