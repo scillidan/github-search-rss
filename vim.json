@@ -6,14 +6,58 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31893391?u=d384bd42cb11bffcf48caf4182769f8ec4f09df1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git Blame plugin for Neovim written in Lua</div>",
+            "url": "https://github.com/f-person/git-blame.nvim",
+            "title": "f-person/git-blame.nvim: Git Blame plugin for Neovim written in Lua",
+            "date_modified": "2024-05-10T14:05:55.000Z",
+            "date_published": "2020-08-29T13:27:26.000Z",
+            "author": {
+                "name": "f-person",
+                "url": "https://github.com/f-person"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300342?u=417e81691305f0f343387a792eb1b0d1d168b49c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…</div>",
+            "url": "https://github.com/liskin/dotfiles",
+            "title": "liskin/dotfiles: My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…",
+            "date_modified": "2024-05-10T13:54:43.000Z",
+            "date_published": "2018-11-19T17:46:04.000Z",
+            "author": {
+                "name": "liskin",
+                "url": "https://github.com/liskin"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
             "url": "https://github.com/lervag/vimtex",
             "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
-            "date_modified": "2024-05-10T13:07:04.000Z",
+            "date_modified": "2024-05-10T13:48:26.000Z",
             "date_published": "2013-10-05T11:55:11.000Z",
             "author": {
                 "name": "lervag",
                 "url": "https://github.com/lervag"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11792?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Random plugins I've built to help me do certain things with. im</div>",
+            "url": "https://github.com/cgrusden/vim-plugins",
+            "title": "cgrusden/vim-plugins: Random plugins I've built to help me do certain things with. im",
+            "date_modified": "2024-05-10T13:13:23.000Z",
+            "date_published": "2024-05-10T13:10:36.000Z",
+            "author": {
+                "name": "cgrusden",
+                "url": "https://github.com/cgrusden"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-05-10T13:12:05.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "rmassaroni",
                 "url": "https://github.com/rmassaroni"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12702557?u=75371d03706f1232a20b7561eabf1b5c1a969586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin for jumping around.</div>",
-            "url": "https://github.com/homerours/jumper.vim",
-            "title": "homerours/jumper.vim: Vim plugin for jumping around.",
-            "date_modified": "2024-05-09T19:18:29.000Z",
-            "date_published": "2024-03-30T17:36:35.000Z",
-            "author": {
-                "name": "homerours",
-                "url": "https://github.com/homerours"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300342?u=417e81691305f0f343387a792eb1b0d1d168b49c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…</div>",
-            "url": "https://github.com/liskin/dotfiles",
-            "title": "liskin/dotfiles: My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…",
-            "date_modified": "2024-05-09T18:18:35.000Z",
-            "date_published": "2018-11-19T17:46:04.000Z",
-            "author": {
-                "name": "liskin",
-                "url": "https://github.com/liskin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1219667?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vim plugin that makes vim syntax highlighting engine available in pandoc</div>",
-            "url": "https://github.com/lyokha/vim-publish-helper",
-            "title": "lyokha/vim-publish-helper: vim plugin that makes vim syntax highlighting engine available in pandoc",
-            "date_modified": "2024-05-09T17:21:03.000Z",
-            "date_published": "2014-01-02T18:56:17.000Z",
-            "author": {
-                "name": "lyokha",
-                "url": "https://github.com/lyokha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50584123?u=b1271cd511079d73932c30e7699147dc0eff4e4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for make golang development easiest</div>",
-            "url": "https://github.com/olexsmir/gopher.nvim",
-            "title": "olexsmir/gopher.nvim: Neovim plugin for make golang development easiest",
-            "date_modified": "2024-05-10T08:19:32.000Z",
-            "date_published": "2022-05-30T21:02:58.000Z",
-            "author": {
-                "name": "olexsmir",
-                "url": "https://github.com/olexsmir"
             }
         }
     ]
