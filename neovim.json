@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9919?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for GitHub Copilot</div>",
+            "url": "https://github.com/github/copilot.vim",
+            "title": "github/copilot.vim: Neovim plugin for GitHub Copilot",
+            "date_modified": "2024-05-10T17:04:52.000Z",
+            "date_published": "2021-10-20T18:29:13.000Z",
+            "author": {
+                "name": "github",
+                "url": "https://github.com/github"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
+            "url": "https://github.com/benlubas/molten-nvim",
+            "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
+            "date_modified": "2024-05-10T16:45:51.000Z",
+            "date_published": "2023-10-05T18:25:49.000Z",
+            "author": {
+                "name": "benlubas",
+                "url": "https://github.com/benlubas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67430802?u=7a810ac037402a3e491b1918f8a28b19bed8f939&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim configuration without a plugin manager</div>",
+            "url": "https://github.com/PERTZ42/nvim",
+            "title": "PERTZ42/nvim: neovim configuration without a plugin manager",
+            "date_modified": "2024-05-10T16:32:05.000Z",
+            "date_published": "2023-11-18T15:03:25.000Z",
+            "author": {
+                "name": "PERTZ42",
+                "url": "https://github.com/PERTZ42"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-05-10T16:31:11.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149238?u=1449eae7884be9567a5b1103a42c0bfe3bb805b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A theme, config and collection of plugins for Neovim</div>",
+            "url": "https://github.com/prurigro/darkcloud-nvimconfig",
+            "title": "prurigro/darkcloud-nvimconfig: A theme, config and collection of plugins for Neovim",
+            "date_modified": "2024-05-10T16:23:15.000Z",
+            "date_published": "2024-03-02T03:22:29.000Z",
+            "author": {
+                "name": "prurigro",
+                "url": "https://github.com/prurigro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
+            "url": "https://github.com/MagicDuck/grug-far.nvim",
+            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
+            "date_modified": "2024-05-10T16:27:06.000Z",
+            "date_published": "2024-04-28T18:15:17.000Z",
+            "author": {
+                "name": "MagicDuck",
+                "url": "https://github.com/MagicDuck"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -14,17 +80,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-05-10T15:50:33.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
             }
         },
         {
@@ -64,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
             "url": "https://github.com/stevearc/conform.nvim",
             "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-05-10T15:32:24.000Z",
+            "date_modified": "2024-05-10T16:55:43.000Z",
             "date_published": "2023-08-25T03:31:42.000Z",
             "author": {
                 "name": "stevearc",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/465606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleGPT is a vim plugin designed to provide the simplest method for:  Constructing and sending questions to ChatGPT &amp; Presenting the response in the most convenient manner.</div>",
-            "url": "https://github.com/you-n-g/simplegpt.nvim",
-            "title": "you-n-g/simplegpt.nvim: SimpleGPT is a vim plugin designed to provide the simplest method for:  Constructing and sending questions to ChatGPT & Presenting the response in the most convenient manner.",
-            "date_modified": "2024-05-10T11:36:27.000Z",
-            "date_published": "2024-03-06T07:42:41.000Z",
-            "author": {
-                "name": "you-n-g",
-                "url": "https://github.com/you-n-g"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101342105?u=d83eb94a87455ab03dc949683fddd938f5806ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for easier integration of <a href=\"https://github.com/Axlefublr/harp\">https://github.com/Axlefublr/harp</a> into a Neovim config</div>",
-            "url": "https://github.com/Axlefublr/harp-nvim",
-            "title": "Axlefublr/harp-nvim: Plugin for easier integration of https://github.com/Axlefublr/harp into a Neovim config",
-            "date_modified": "2024-05-10T11:30:02.000Z",
-            "date_published": "2024-04-23T03:00:24.000Z",
-            "author": {
-                "name": "Axlefublr",
-                "url": "https://github.com/Axlefublr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
-            "url": "https://github.com/MagicDuck/grug-far.nvim",
-            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-05-10T16:08:53.000Z",
-            "date_published": "2024-04-28T18:15:17.000Z",
-            "author": {
-                "name": "MagicDuck",
-                "url": "https://github.com/MagicDuck"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111601320?u=3f7aa88daa9aa62dab8dba9f7ae74581e0e20a74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Notion API wrapper for Neovim</div>",
-            "url": "https://github.com/Al0den/notion.nvim",
-            "title": "Al0den/notion.nvim: Notion API wrapper for Neovim",
-            "date_modified": "2024-05-10T12:46:43.000Z",
-            "date_published": "2023-04-07T06:58:26.000Z",
-            "author": {
-                "name": "Al0den",
-                "url": "https://github.com/Al0den"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
-            "url": "https://github.com/Norlock/neo-api-rs",
-            "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
-            "date_modified": "2024-05-10T10:55:11.000Z",
-            "date_published": "2024-04-15T18:47:05.000Z",
-            "author": {
-                "name": "Norlock",
-                "url": "https://github.com/Norlock"
             }
         }
     ]
