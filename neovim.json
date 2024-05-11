@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162745564?u=28063531bbdd72600b3cf25c2acd6118a25fdf4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config Lazy💤 plugin manager</div>",
+            "url": "https://github.com/Paulobox/nvim",
+            "title": "Paulobox/nvim: Neovim config Lazy💤 plugin manager",
+            "date_modified": "2024-05-11T01:27:48.000Z",
+            "date_published": "2024-03-28T18:41:16.000Z",
+            "author": {
+                "name": "Paulobox",
+                "url": "https://github.com/Paulobox"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
+            "url": "https://github.com/folke/neoconf.nvim",
+            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
+            "date_modified": "2024-05-11T01:25:48.000Z",
+            "date_published": "2022-09-07T16:15:13.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to track the thought process of reading source code.</div>",
+            "url": "https://github.com/niuiic/track.nvim",
+            "title": "niuiic/track.nvim: Neovim plugin to track the thought process of reading source code.",
+            "date_modified": "2024-05-11T01:24:25.000Z",
+            "date_published": "2024-05-10T06:41:27.000Z",
+            "author": {
+                "name": "niuiic",
+                "url": "https://github.com/niuiic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55022619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to switch IMs automatically.</div>",
+            "url": "https://github.com/drop-stones/im-switch.nvim",
+            "title": "drop-stones/im-switch.nvim: Neovim plugin to switch IMs automatically.",
+            "date_modified": "2024-05-11T00:49:05.000Z",
+            "date_published": "2023-08-26T11:46:03.000Z",
+            "author": {
+                "name": "drop-stones",
+                "url": "https://github.com/drop-stones"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Saghen",
                 "url": "https://github.com/Saghen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
-            "url": "https://github.com/MagicDuck/grug-far.nvim",
-            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-05-10T22:16:07.000Z",
-            "date_published": "2024-04-28T18:15:17.000Z",
-            "author": {
-                "name": "MagicDuck",
-                "url": "https://github.com/MagicDuck"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/141475569?u=71615e75d635373893fe0433fc4a7a3f7f4b2148&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains all my personalised setup and plugins that I use in my neovim.</div>",
-            "url": "https://github.com/Aditya-Ghosh-27/nvim-config",
-            "title": "Aditya-Ghosh-27/nvim-config: This repository contains all my personalised setup and plugins that I use in my neovim.",
-            "date_modified": "2024-05-10T18:16:38.000Z",
-            "date_published": "2024-04-18T16:57:46.000Z",
-            "author": {
-                "name": "Aditya-Ghosh-27",
-                "url": "https://github.com/Aditya-Ghosh-27"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121890473?u=16919de4c387aef8576cd5b01cdb7ebe39eda16c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim config directory with plugins</div>",
-            "url": "https://github.com/kolbbond/nvim-config",
-            "title": "kolbbond/nvim-config: neovim config directory with plugins",
-            "date_modified": "2024-05-10T18:08:31.000Z",
-            "date_published": "2024-03-22T14:45:17.000Z",
-            "author": {
-                "name": "kolbbond",
-                "url": "https://github.com/kolbbond"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
-            "url": "https://github.com/lima1909/resty.nvim",
-            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
-            "date_modified": "2024-05-10T17:54:20.000Z",
-            "date_published": "2024-05-04T09:33:14.000Z",
-            "author": {
-                "name": "lima1909",
-                "url": "https://github.com/lima1909"
             }
         }
     ]
