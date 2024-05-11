@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36324537?u=4494af55553923aa3593a847f8dd03d72eaf21af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A NeoVim plugin used to write post with static site generator Hugo.</div>",
+            "url": "https://github.com/alohaia/hugowiki.nvim",
+            "title": "alohaia/hugowiki.nvim: A NeoVim plugin used to write post with static site generator Hugo.",
+            "date_modified": "2024-05-11T13:01:41.000Z",
+            "date_published": "2021-10-12T10:32:55.000Z",
+            "author": {
+                "name": "alohaia",
+                "url": "https://github.com/alohaia"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-05-11T12:32:56.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
             "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
             "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
@@ -36,6 +58,17 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31893391?u=d384bd42cb11bffcf48caf4182769f8ec4f09df1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git Blame plugin for Neovim written in Lua</div>",
+            "url": "https://github.com/f-person/git-blame.nvim",
+            "title": "f-person/git-blame.nvim: Git Blame plugin for Neovim written in Lua",
+            "date_modified": "2024-05-11T12:46:56.000Z",
+            "date_published": "2020-08-29T13:27:26.000Z",
+            "author": {
+                "name": "f-person",
+                "url": "https://github.com/f-person"
             }
         },
         {
@@ -141,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
             "url": "https://github.com/MagicDuck/grug-far.nvim",
             "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-05-11T11:47:21.000Z",
+            "date_modified": "2024-05-11T12:50:02.000Z",
             "date_published": "2024-04-28T18:15:17.000Z",
             "author": {
                 "name": "MagicDuck",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "VanillaViking",
                 "url": "https://github.com/VanillaViking"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32009816?u=66bc3f2b25fb43ebfc835b611b136b5890876741&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin para neovim, complemento para el plugin mkdnflow. Es un buscador de notas, y demas ...</div>",
-            "url": "https://github.com/hakyns/linksmd",
-            "title": "hakyns/linksmd: Plugin para neovim, complemento para el plugin mkdnflow. Es un buscador de notas, y demas ...",
-            "date_modified": "2024-05-11T06:18:43.000Z",
-            "date_published": "2024-05-09T09:45:40.000Z",
-            "author": {
-                "name": "hakyns",
-                "url": "https://github.com/hakyns"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to track the thought process of reading source code.</div>",
-            "url": "https://github.com/niuiic/track.nvim",
-            "title": "niuiic/track.nvim: Neovim plugin to track the thought process of reading source code.",
-            "date_modified": "2024-05-11T06:06:26.000Z",
-            "date_published": "2024-05-10T06:41:27.000Z",
-            "author": {
-                "name": "niuiic",
-                "url": "https://github.com/niuiic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47593166?u=59d7769aeee871017601c2200f1a5379f5c65b35&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SKK Neovim plugin implemenration written for DM250</div>",
-            "url": "https://github.com/exfinen/minskk",
-            "title": "exfinen/minskk: SKK Neovim plugin implemenration written for DM250",
-            "date_modified": "2024-05-11T05:23:22.000Z",
-            "date_published": "2024-05-08T04:47:55.000Z",
-            "author": {
-                "name": "exfinen",
-                "url": "https://github.com/exfinen"
             }
         }
     ]
