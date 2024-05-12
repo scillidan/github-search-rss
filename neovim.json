@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-05-12T12:08:14.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
+            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
+            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
+            "date_modified": "2024-05-12T12:05:31.000Z",
+            "date_published": "2024-03-10T11:54:02.000Z",
+            "author": {
+                "name": "ttak0422",
+                "url": "https://github.com/ttak0422"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to track the thought process of reading source code.</div>",
+            "url": "https://github.com/niuiic/track.nvim",
+            "title": "niuiic/track.nvim: Neovim plugin to track the thought process of reading source code.",
+            "date_modified": "2024-05-12T11:56:30.000Z",
+            "date_published": "2024-05-10T06:41:27.000Z",
+            "author": {
+                "name": "niuiic",
+                "url": "https://github.com/niuiic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code analysis &amp; navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍</div>",
+            "url": "https://github.com/ray-x/navigator.lua",
+            "title": "ray-x/navigator.lua: Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍",
+            "date_modified": "2024-05-12T11:42:52.000Z",
+            "date_published": "2021-04-19T02:54:05.000Z",
+            "author": {
+                "name": "ray-x",
+                "url": "https://github.com/ray-x"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI",
+            "date_modified": "2024-05-12T11:46:20.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
+            "url": "https://github.com/vim-denops/denops.vim",
+            "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
+            "date_modified": "2024-05-12T11:13:38.000Z",
+            "date_published": "2021-02-08T15:46:07.000Z",
+            "author": {
+                "name": "vim-denops",
+                "url": "https://github.com/vim-denops"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8700780?u=108e1e7d6c4a2bced4b7a2a47aebffc1977122b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that adds a fishbowl to your editor, containing animated fishies!</div>",
             "url": "https://github.com/CodeVogel/fishbowl.nvim",
             "title": "CodeVogel/fishbowl.nvim: A neovim plugin that adds a fishbowl to your editor, containing animated fishies!",
@@ -94,10 +160,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.</div>",
+            "url": "https://github.com/ray-x/go.nvim",
+            "title": "ray-x/go.nvim: A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.",
+            "date_modified": "2024-05-12T12:15:25.000Z",
+            "date_published": "2021-03-10T10:23:02.000Z",
+            "author": {
+                "name": "ray-x",
+                "url": "https://github.com/ray-x"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-05-12T10:19:41.000Z",
+            "date_modified": "2024-05-12T12:14:25.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -146,83 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
-            "url": "https://github.com/yutkat/my-neovim-pluginlist",
-            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
-            "date_modified": "2024-05-12T06:36:25.000Z",
-            "date_published": "2022-04-17T14:53:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1529268?u=19f118978526ea7f4cbaeadf18d96cf27ee40686&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim JSON Visualizer Plugin</div>",
-            "url": "https://github.com/alainrk/jsonviz.nvim",
-            "title": "alainrk/jsonviz.nvim: Neovim JSON Visualizer Plugin",
-            "date_modified": "2024-05-12T06:24:48.000Z",
-            "date_published": "2024-05-11T07:27:08.000Z",
-            "author": {
-                "name": "alainrk",
-                "url": "https://github.com/alainrk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
-            "url": "https://github.com/tamago324/nlsp-settings.nvim",
-            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
-            "date_modified": "2024-05-12T06:03:26.000Z",
-            "date_published": "2021-03-21T05:46:20.000Z",
-            "author": {
-                "name": "tamago324",
-                "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-05-12T09:02:19.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
-            "url": "https://github.com/vim-denops/denops.vim",
-            "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
-            "date_modified": "2024-05-12T05:42:55.000Z",
-            "date_published": "2021-02-08T15:46:07.000Z",
-            "author": {
-                "name": "vim-denops",
-                "url": "https://github.com/vim-denops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91436186?u=31fd59c258678aaf11f358b7c74287eb14176b3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal plugin for navigating markdown links.</div>",
-            "url": "https://github.com/daenikon/marknav.nvim",
-            "title": "daenikon/marknav.nvim: Minimal plugin for navigating markdown links.",
-            "date_modified": "2024-05-12T05:02:37.000Z",
-            "date_published": "2024-01-19T11:04:08.000Z",
-            "author": {
-                "name": "daenikon",
-                "url": "https://github.com/daenikon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-05-12T04:14:05.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
             }
         }
     ]
