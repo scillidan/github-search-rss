@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1445483?u=836a0d23e6d32ff8e2132370cc9dea7fafbdd28c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to work with PostgreSQL directly from Neovim</div>",
+            "url": "https://github.com/trstringer/psql.nvim",
+            "title": "trstringer/psql.nvim: Plugin to work with PostgreSQL directly from Neovim",
+            "date_modified": "2024-05-12T14:03:55.000Z",
+            "date_published": "2024-05-04T15:43:49.000Z",
+            "author": {
+                "name": "trstringer",
+                "url": "https://github.com/trstringer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71392160?u=e11c0316a5dbf2af1fb58bd3bc558b49c3d6e170&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Take a code screenshot using freeze by <a href=\"https://charm.sh/\" rel=\"nofollow\">https://charm.sh/</a></div>",
+            "url": "https://github.com/AlejandroSuero/freeze-code.nvim",
+            "title": "AlejandroSuero/freeze-code.nvim: Take a code screenshot using freeze by https://charm.sh/",
+            "date_modified": "2024-05-12T14:01:24.000Z",
+            "date_published": "2024-05-12T03:09:23.000Z",
+            "author": {
+                "name": "AlejandroSuero",
+                "url": "https://github.com/AlejandroSuero"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54963296?u=6baf1840bc03994c0c525f030e6fdc78895a1e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📌 A Neovim plugin that facilitates the identification of a HEX, RGB, HSL, or LCH color name and its conversion.</div>",
+            "url": "https://github.com/farias-hecdin/CSSColorConverter",
+            "title": "farias-hecdin/CSSColorConverter: 📌 A Neovim plugin that facilitates the identification of a HEX, RGB, HSL, or LCH color name and its conversion.",
+            "date_modified": "2024-05-12T13:47:42.000Z",
+            "date_published": "2023-12-05T16:50:17.000Z",
+            "author": {
+                "name": "farias-hecdin",
+                "url": "https://github.com/farias-hecdin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-05-12T13:23:55.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97511408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.</div>",
             "url": "https://github.com/h4ckm1n-dev/kube-utils-nvim",
             "title": "h4ckm1n-dev/kube-utils-nvim: 🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.",
-            "date_modified": "2024-05-12T13:03:51.000Z",
+            "date_modified": "2024-05-12T13:20:08.000Z",
             "date_published": "2024-05-10T21:31:16.000Z",
             "author": {
                 "name": "h4ckm1n-dev",
@@ -119,22 +163,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A completion plugin for neovim coded in Lua.</div>",
             "url": "https://github.com/hrsh7th/nvim-cmp",
             "title": "hrsh7th/nvim-cmp: A completion plugin for neovim coded in Lua.",
-            "date_modified": "2024-05-12T09:45:27.000Z",
+            "date_modified": "2024-05-12T13:21:24.000Z",
             "date_published": "2021-06-29T18:01:04.000Z",
             "author": {
                 "name": "hrsh7th",
                 "url": "https://github.com/hrsh7th"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-05-12T09:16:38.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "ray-x",
                 "url": "https://github.com/ray-x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-05-12T12:14:25.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-05-12T09:50:41.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35730763?u=fb87d9a606a5827f80a75fc2c869223eb042995f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Install neovim with plugins for puppet development</div>",
-            "url": "https://github.com/c8m6/ansible-role_vim",
-            "title": "c8m6/ansible-role_vim: Install neovim with plugins for puppet development",
-            "date_modified": "2024-05-12T07:24:57.000Z",
-            "date_published": "2018-04-05T17:01:02.000Z",
-            "author": {
-                "name": "c8m6",
-                "url": "https://github.com/c8m6"
             }
         }
     ]
