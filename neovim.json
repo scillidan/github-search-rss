@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=972e3aec2962b5a72c50e1c36c7bc63d54d93c57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that helps managing crates.io dependencies</div>",
+            "url": "https://github.com/Saecki/crates.nvim",
+            "title": "Saecki/crates.nvim: A neovim plugin that helps managing crates.io dependencies",
+            "date_modified": "2024-05-12T17:44:28.000Z",
+            "date_published": "2021-08-24T17:13:20.000Z",
+            "author": {
+                "name": "Saecki",
+                "url": "https://github.com/Saecki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
+            "url": "https://github.com/MagicDuck/grug-far.nvim",
+            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
+            "date_modified": "2024-05-12T17:41:17.000Z",
+            "date_published": "2024-04-28T18:15:17.000Z",
+            "author": {
+                "name": "MagicDuck",
+                "url": "https://github.com/MagicDuck"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
+            "date_modified": "2024-05-12T17:26:27.000Z",
+            "date_published": "2024-05-04T09:33:14.000Z",
+            "author": {
+                "name": "lima1909",
+                "url": "https://github.com/lima1909"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-05-12T17:22:05.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-05-12T17:22:03.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97511408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.</div>",
             "url": "https://github.com/h4ckm1n-dev/kube-utils-nvim",
             "title": "h4ckm1n-dev/kube-utils-nvim: 🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.",
-            "date_modified": "2024-05-12T16:56:40.000Z",
+            "date_modified": "2024-05-12T17:08:51.000Z",
             "date_published": "2024-05-10T21:31:16.000Z",
             "author": {
                 "name": "h4ckm1n-dev",
@@ -86,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
             "url": "https://github.com/AstroNvim/astrocommunity",
             "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-05-12T15:08:57.000Z",
+            "date_modified": "2024-05-12T17:41:31.000Z",
             "date_published": "2023-02-21T14:55:56.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "NixNeovim",
                 "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78477652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimalistic LLM plugin for Neovim.</div>",
-            "url": "https://github.com/sudo-burger/m0.nvim",
-            "title": "sudo-burger/m0.nvim: Minimalistic LLM plugin for Neovim.",
-            "date_modified": "2024-05-12T14:17:12.000Z",
-            "date_published": "2024-03-17T13:52:59.000Z",
-            "author": {
-                "name": "sudo-burger",
-                "url": "https://github.com/sudo-burger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1445483?u=836a0d23e6d32ff8e2132370cc9dea7fafbdd28c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to work with PostgreSQL directly from Neovim</div>",
-            "url": "https://github.com/trstringer/psql.nvim",
-            "title": "trstringer/psql.nvim: Plugin to work with PostgreSQL directly from Neovim",
-            "date_modified": "2024-05-12T14:49:32.000Z",
-            "date_published": "2024-05-04T15:43:49.000Z",
-            "author": {
-                "name": "trstringer",
-                "url": "https://github.com/trstringer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54963296?u=6baf1840bc03994c0c525f030e6fdc78895a1e9e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📌 A Neovim plugin that facilitates the identification of a HEX, RGB, HSL, or LCH color name and its conversion.</div>",
-            "url": "https://github.com/farias-hecdin/CSSColorConverter",
-            "title": "farias-hecdin/CSSColorConverter: 📌 A Neovim plugin that facilitates the identification of a HEX, RGB, HSL, or LCH color name and its conversion.",
-            "date_modified": "2024-05-12T13:47:42.000Z",
-            "date_published": "2023-12-05T16:50:17.000Z",
-            "author": {
-                "name": "farias-hecdin",
-                "url": "https://github.com/farias-hecdin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-05-12T13:23:55.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
-            "url": "https://github.com/Norlock/neo-api-rs",
-            "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
-            "date_modified": "2024-05-12T12:33:35.000Z",
-            "date_published": "2024-04-15T18:47:05.000Z",
-            "author": {
-                "name": "Norlock",
-                "url": "https://github.com/Norlock"
             }
         }
     ]
