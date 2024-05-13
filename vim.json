@@ -6,6 +6,72 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
+            "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
+            "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
+            "date_modified": "2024-05-13T00:21:44.000Z",
+            "date_published": "2023-01-07T09:43:06.000Z",
+            "author": {
+                "name": "ca-mantis-shrimp",
+                "url": "https://github.com/ca-mantis-shrimp"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nightly</div>",
+            "url": "https://github.com/ttak0422/vim-plugins-overlay",
+            "title": "ttak0422/vim-plugins-overlay: nightly",
+            "date_modified": "2024-05-13T00:17:28.000Z",
+            "date_published": "2022-10-04T13:31:11.000Z",
+            "author": {
+                "name": "ttak0422",
+                "url": "https://github.com/ttak0422"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
+            "url": "https://github.com/Shougo/dpp.vim",
+            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
+            "date_modified": "2024-05-13T00:14:39.000Z",
+            "date_published": "2023-08-08T23:23:02.000Z",
+            "author": {
+                "name": "Shougo",
+                "url": "https://github.com/Shougo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1625763?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin for the Khronos Group's SPIR-V standard.</div>",
+            "url": "https://github.com/kbenzie/vim-spirv",
+            "title": "kbenzie/vim-spirv: A vim plugin for the Khronos Group's SPIR-V standard.",
+            "date_modified": "2024-05-13T00:12:49.000Z",
+            "date_published": "2016-11-16T21:13:00.000Z",
+            "author": {
+                "name": "kbenzie",
+                "url": "https://github.com/kbenzie"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⚡ Dark powered Vim/Neovim plugin manager</div>",
+            "url": "https://github.com/Shougo/dein.vim",
+            "title": "Shougo/dein.vim: :zap: Dark powered Vim/Neovim plugin manager",
+            "date_modified": "2024-05-13T00:04:33.000Z",
+            "date_published": "2016-01-01T12:12:50.000Z",
+            "author": {
+                "name": "Shougo",
+                "url": "https://github.com/Shougo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark deno-powered hexadecimal plugin for neovim/Vim8</div>",
+            "url": "https://github.com/Shougo/ddx.vim",
+            "title": "Shougo/ddx.vim: Dark deno-powered hexadecimal plugin for neovim/Vim8",
+            "date_modified": "2024-05-12T23:31:24.000Z",
+            "date_published": "2022-04-08T08:36:36.000Z",
+            "author": {
+                "name": "Shougo",
+                "url": "https://github.com/Shougo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Haskell experience in neovim!</div>",
             "url": "https://github.com/mrcjkb/haskell-tools.nvim",
             "title": "mrcjkb/haskell-tools.nvim: Supercharge your Haskell experience in neovim!",
@@ -138,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nightly</div>",
-            "url": "https://github.com/ttak0422/vim-plugins-overlay",
-            "title": "ttak0422/vim-plugins-overlay: nightly",
-            "date_modified": "2024-05-12T07:04:52.000Z",
-            "date_published": "2022-10-04T13:31:11.000Z",
-            "author": {
-                "name": "ttak0422",
-                "url": "https://github.com/ttak0422"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "skurtulmus",
                 "url": "https://github.com/skurtulmus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1625763?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin for the Khronos Group's SPIR-V standard.</div>",
-            "url": "https://github.com/kbenzie/vim-spirv",
-            "title": "kbenzie/vim-spirv: A vim plugin for the Khronos Group's SPIR-V standard.",
-            "date_modified": "2024-05-12T00:13:20.000Z",
-            "date_published": "2016-11-16T21:13:00.000Z",
-            "author": {
-                "name": "kbenzie",
-                "url": "https://github.com/kbenzie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10722656?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for the Obsidian.md note-taking software</div>",
-            "url": "https://github.com/esm7/obsidian-vimrc-support",
-            "title": "esm7/obsidian-vimrc-support: A plugin for the Obsidian.md note-taking software",
-            "date_modified": "2024-05-12T18:24:42.000Z",
-            "date_published": "2020-11-01T11:13:56.000Z",
-            "author": {
-                "name": "esm7",
-                "url": "https://github.com/esm7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10100576?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.</div>",
-            "url": "https://github.com/powerline/powerline",
-            "title": "powerline/powerline: Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.",
-            "date_modified": "2024-05-12T06:34:52.000Z",
-            "date_published": "2012-06-12T12:48:40.000Z",
-            "author": {
-                "name": "powerline",
-                "url": "https://github.com/powerline"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
-            "url": "https://github.com/lervag/vimtex",
-            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
-            "date_modified": "2024-05-12T04:59:12.000Z",
-            "date_published": "2013-10-05T11:55:11.000Z",
-            "author": {
-                "name": "lervag",
-                "url": "https://github.com/lervag"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6846867?u=ecf72bf1cc2707b443f04c66c99e3586afe5d33a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>directory diff plugin with split treeview, similar to BeyondCompare, fully async and low dependency</div>",
-            "url": "https://github.com/ZSaberLv0/ZFVimDirDiff",
-            "title": "ZSaberLv0/ZFVimDirDiff: directory diff plugin with split treeview, similar to BeyondCompare, fully async and low dependency",
-            "date_modified": "2024-05-11T15:40:44.000Z",
-            "date_published": "2019-03-09T14:36:55.000Z",
-            "author": {
-                "name": "ZSaberLv0",
-                "url": "https://github.com/ZSaberLv0"
             }
         }
     ]
