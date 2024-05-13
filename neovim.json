@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121890473?u=16919de4c387aef8576cd5b01cdb7ebe39eda16c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim config directory with plugins</div>",
+            "url": "https://github.com/kolbbond/nvim-config",
+            "title": "kolbbond/nvim-config: neovim config directory with plugins",
+            "date_modified": "2024-05-13T14:04:03.000Z",
+            "date_published": "2024-03-22T14:45:17.000Z",
+            "author": {
+                "name": "kolbbond",
+                "url": "https://github.com/kolbbond"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal neovim setup with 180+ plugins.</div>",
+            "url": "https://github.com/ray-x/nvim",
+            "title": "ray-x/nvim: Personal neovim setup with 180+ plugins.",
+            "date_modified": "2024-05-13T13:50:23.000Z",
+            "date_published": "2021-05-09T02:29:53.000Z",
+            "author": {
+                "name": "ray-x",
+                "url": "https://github.com/ray-x"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4594?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A NeoVim plugin to browse and create issues in your Linear workspace. Written in Lua</div>",
+            "url": "https://github.com/rmanocha/linear-nvim",
+            "title": "rmanocha/linear-nvim: A NeoVim plugin to browse and create issues in your Linear workspace. Written in Lua",
+            "date_modified": "2024-05-13T13:49:50.000Z",
+            "date_published": "2024-04-28T21:47:42.000Z",
+            "author": {
+                "name": "rmanocha",
+                "url": "https://github.com/rmanocha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-05-13T14:03:38.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10972027?u=dd9542b741d4dc7232b395114a467553683775ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minimal neovim plugin for taking down notes for git projects, branch, etc.</div>",
+            "url": "https://github.com/yujinyuz/gitpad.nvim",
+            "title": "yujinyuz/gitpad.nvim: minimal neovim plugin for taking down notes for git projects, branch, etc.",
+            "date_modified": "2024-05-13T13:50:01.000Z",
+            "date_published": "2023-04-22T14:42:14.000Z",
+            "author": {
+                "name": "yujinyuz",
+                "url": "https://github.com/yujinyuz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-05-13T13:26:15.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17064903?u=3e6bb539ce58a42311c1336fdca55a27e4697d42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Command palette &amp; menu plugin for Vim and Neovim</div>",
             "url": "https://github.com/lalbornoz/roarie-commands.vim",
             "title": "lalbornoz/roarie-commands.vim: Command palette & menu plugin for Vim and Neovim",
@@ -105,6 +171,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1423607?u=a736aab5a9d4a7543079c64450cd4d1c25417a75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The neovim tabline plugin.</div>",
+            "url": "https://github.com/romgrk/barbar.nvim",
+            "title": "romgrk/barbar.nvim: The neovim tabline plugin.",
+            "date_modified": "2024-05-13T13:59:11.000Z",
+            "date_published": "2020-10-22T10:32:07.000Z",
+            "author": {
+                "name": "romgrk",
+                "url": "https://github.com/romgrk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36324537?u=4494af55553923aa3593a847f8dd03d72eaf21af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A NeoVim plugin used to write post with static site generator Hugo.</div>",
             "url": "https://github.com/alohaia/hugowiki.nvim",
             "title": "alohaia/hugowiki.nvim: A NeoVim plugin used to write post with static site generator Hugo.",
@@ -146,83 +223,6 @@
             "author": {
                 "name": "ray-x",
                 "url": "https://github.com/ray-x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17450586?u=cc2ec8fc2bd9c13f75cec6daf01c9a050f606fde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration to show my plugins in action.</div>",
-            "url": "https://github.com/jmbuhr/quarto-nvim-kickstarter",
-            "title": "jmbuhr/quarto-nvim-kickstarter: Neovim configuration to show my plugins in action.",
-            "date_modified": "2024-05-13T10:39:52.000Z",
-            "date_published": "2022-06-03T07:59:41.000Z",
-            "author": {
-                "name": "jmbuhr",
-                "url": "https://github.com/jmbuhr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46510831?u=9e352b36041fc9a1e2c4ebf826a0ca47b97251e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My own plugin for discord rich presence in neovim</div>",
-            "url": "https://github.com/VanillaViking/nvim-discord-presence",
-            "title": "VanillaViking/nvim-discord-presence: My own plugin for discord rich presence in neovim",
-            "date_modified": "2024-05-13T10:30:56.000Z",
-            "date_published": "2024-03-23T23:33:34.000Z",
-            "author": {
-                "name": "VanillaViking",
-                "url": "https://github.com/VanillaViking"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-05-13T10:17:11.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83568973?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim  Config using nvchad. This config contains the daily use of plugin with python, javascript, golang, rust with their lsp setup, formatter and linter.</div>",
-            "url": "https://github.com/hemilkaklotar/sanatan.nvim",
-            "title": "hemilkaklotar/sanatan.nvim: NeoVim  Config using nvchad. This config contains the daily use of plugin with python, javascript, golang, rust with their lsp setup, formatter and linter.",
-            "date_modified": "2024-05-13T09:54:59.000Z",
-            "date_published": "2024-05-01T11:05:21.000Z",
-            "author": {
-                "name": "hemilkaklotar",
-                "url": "https://github.com/hemilkaklotar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
-            "url": "https://github.com/Shougo/dpp.vim",
-            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
-            "date_modified": "2024-05-13T09:52:43.000Z",
-            "date_published": "2023-08-08T23:23:02.000Z",
-            "author": {
-                "name": "Shougo",
-                "url": "https://github.com/Shougo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-05-13T09:19:49.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Maximize window splits. A Neovim plugin written in Lua!</div>",
-            "url": "https://github.com/declancm/maximize.nvim",
-            "title": "declancm/maximize.nvim: Maximize window splits. A Neovim plugin written in Lua!",
-            "date_modified": "2024-05-13T08:41:32.000Z",
-            "date_published": "2022-05-04T22:39:54.000Z",
-            "author": {
-                "name": "declancm",
-                "url": "https://github.com/declancm"
             }
         }
     ]
