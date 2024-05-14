@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77244135?u=0a890fdae49071e891c16261adf6b2262385504d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.</div>",
+            "url": "https://github.com/rorgoroth/mingw-cmake-env",
+            "title": "rorgoroth/mingw-cmake-env: Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.",
+            "date_modified": "2024-05-14T13:44:46.000Z",
+            "date_published": "2021-05-18T09:34:24.000Z",
+            "author": {
+                "name": "rorgoroth",
+                "url": "https://github.com/rorgoroth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Third-party native Jellyfin client for Nintendo Switch</div>",
+            "url": "https://github.com/dragonflylee/switchfin",
+            "title": "dragonflylee/switchfin: Third-party native Jellyfin client for Nintendo Switch",
+            "date_modified": "2024-05-14T13:25:42.000Z",
+            "date_published": "2023-06-12T08:40:59.000Z",
+            "author": {
+                "name": "dragonflylee",
+                "url": "https://github.com/dragonflylee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92977828?u=3f2f7d01efef08982487de0665467b662d7a7393&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nix flakes for my system (light wip)</div>",
+            "url": "https://github.com/71zenith/nix-dots",
+            "title": "71zenith/nix-dots: nix flakes for my system (light wip)",
+            "date_modified": "2024-05-14T13:17:12.000Z",
+            "date_published": "2024-02-09T12:47:53.000Z",
+            "author": {
+                "name": "71zenith",
+                "url": "https://github.com/71zenith"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112841659?u=9616463203c8499dd566a9113610f6f6895817d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>通过 lua 脚本调用 plex 桌面端 mpv 播放器的隐藏功能 / calling the hidden features of the plex desktop mpv player via lua scripts</div>",
+            "url": "https://github.com/x1ao4/plex-mpv",
+            "title": "x1ao4/plex-mpv: 通过 lua 脚本调用 plex 桌面端 mpv 播放器的隐藏功能 / calling the hidden features of the plex desktop mpv player via lua scripts",
+            "date_modified": "2024-05-14T13:12:00.000Z",
+            "date_published": "2023-06-01T15:34:20.000Z",
+            "author": {
+                "name": "x1ao4",
+                "url": "https://github.com/x1ao4"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162577344?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>使用 Flutter 开发的跨平台媒体播放器, 界面使用 Material You 设计风格.</div>",
             "url": "https://github.com/Playboy-Player/Playboy",
             "title": "Playboy-Player/Playboy: 使用 Flutter 开发的跨平台媒体播放器, 界面使用 Material You 设计风格.",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "Playboy-Player",
                 "url": "https://github.com/Playboy-Player"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92977828?u=3f2f7d01efef08982487de0665467b662d7a7393&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nix flakes for my system (light wip)</div>",
-            "url": "https://github.com/71zenith/nix-dots",
-            "title": "71zenith/nix-dots: nix flakes for my system (light wip)",
-            "date_modified": "2024-05-14T13:04:13.000Z",
-            "date_published": "2024-02-09T12:47:53.000Z",
-            "author": {
-                "name": "71zenith",
-                "url": "https://github.com/71zenith"
             }
         },
         {
@@ -47,17 +80,6 @@
             "author": {
                 "name": "FunctionalHacker",
                 "url": "https://github.com/FunctionalHacker"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/112841659?u=9616463203c8499dd566a9113610f6f6895817d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>通过 lua 脚本调用 plex 桌面端 mpv 播放器的隐藏功能 / calling the hidden features of the plex desktop mpv player via lua scripts</div>",
-            "url": "https://github.com/x1ao4/plex-mpv",
-            "title": "x1ao4/plex-mpv: 通过 lua 脚本调用 plex 桌面端 mpv 播放器的隐藏功能 / calling the hidden features of the plex desktop mpv player via lua scripts",
-            "date_modified": "2024-05-14T12:01:21.000Z",
-            "date_published": "2023-06-01T15:34:20.000Z",
-            "author": {
-                "name": "x1ao4",
-                "url": "https://github.com/x1ao4"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "irhl",
                 "url": "https://github.com/irhl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19575010?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Yunuuuu/mpv-config",
-            "title": "Yunuuuu/mpv-config",
-            "date_modified": "2024-05-14T03:18:34.000Z",
-            "date_published": "2024-01-07T12:03:10.000Z",
-            "author": {
-                "name": "Yunuuuu",
-                "url": "https://github.com/Yunuuuu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32032905?u=02369d476794c6e2da6d0018f37acc123dc3ce92&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configuration files and automation wizard for Arch Linux meta distribution</div>",
-            "url": "https://github.com/oniani/dot",
-            "title": "oniani/dot: Configuration files and automation wizard for Arch Linux meta distribution",
-            "date_modified": "2024-05-14T03:09:02.000Z",
-            "date_published": "2019-04-10T22:14:23.000Z",
-            "author": {
-                "name": "oniani",
-                "url": "https://github.com/oniani"
             }
         }
     ]
