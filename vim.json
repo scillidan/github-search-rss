@@ -6,6 +6,50 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌺 Minimalist Vim Plugin Manager</div>",
+            "url": "https://github.com/junegunn/vim-plug",
+            "title": "junegunn/vim-plug: :hibiscus: Minimalist Vim Plugin Manager",
+            "date_modified": "2024-05-14T07:57:37.000Z",
+            "date_published": "2013-09-10T14:58:51.000Z",
+            "author": {
+                "name": "junegunn",
+                "url": "https://github.com/junegunn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84473512?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(Neo)Vim plugin to keep long URLs out of your way</div>",
+            "url": "https://github.com/qadzek/link.vim",
+            "title": "qadzek/link.vim: (Neo)Vim plugin to keep long URLs out of your way",
+            "date_modified": "2024-05-14T07:23:26.000Z",
+            "date_published": "2024-03-15T11:15:07.000Z",
+            "author": {
+                "name": "qadzek",
+                "url": "https://github.com/qadzek"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/729055?u=6409652cdd4617e84af324b4b2979fc7f5d1ad37&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tiny package/plugin for Neovim and Vim to quickly toggle open your (Neo)vim terminals logically for CWDs.</div>",
+            "url": "https://github.com/jssteinberg/termcwd",
+            "title": "jssteinberg/termcwd: A tiny package/plugin for Neovim and Vim to quickly toggle open your (Neo)vim terminals logically for CWDs.",
+            "date_modified": "2024-05-14T07:12:12.000Z",
+            "date_published": "2023-03-16T22:34:10.000Z",
+            "author": {
+                "name": "jssteinberg",
+                "url": "https://github.com/jssteinberg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44566328?u=4c69f595ce2871a9bb5eee5a54900978ac56a6ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Translation plugin for Vim / Neovim by denops.vim</div>",
+            "url": "https://github.com/Omochice/dps-translate-vim",
+            "title": "Omochice/dps-translate-vim: Translation plugin for Vim / Neovim by denops.vim",
+            "date_modified": "2024-05-14T07:11:27.000Z",
+            "date_published": "2021-08-02T08:28:39.000Z",
+            "author": {
+                "name": "Omochice",
+                "url": "https://github.com/Omochice"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim / Neovim plugin that automatically switches between cursorline and cursorcolumn based on Vim events</div>",
             "url": "https://github.com/yukimemi/autocursor.vim",
             "title": "yukimemi/autocursor.vim: Vim / Neovim plugin that automatically switches between cursorline and cursorcolumn based on Vim events",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "kbenzie",
                 "url": "https://github.com/kbenzie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1329742?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim/vim plugin to hide or display comments  in C/C++/python</div>",
-            "url": "https://github.com/wangfanstar/vim-hidecomments",
-            "title": "wangfanstar/vim-hidecomments: neovim/vim plugin to hide or display comments  in C/C++/python",
-            "date_modified": "2024-05-13T23:47:36.000Z",
-            "date_published": "2024-05-13T12:08:26.000Z",
-            "author": {
-                "name": "wangfanstar",
-                "url": "https://github.com/wangfanstar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300342?u=417e81691305f0f343387a792eb1b0d1d168b49c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…</div>",
-            "url": "https://github.com/liskin/dotfiles",
-            "title": "liskin/dotfiles: My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…",
-            "date_modified": "2024-05-13T22:41:33.000Z",
-            "date_published": "2018-11-19T17:46:04.000Z",
-            "author": {
-                "name": "liskin",
-                "url": "https://github.com/liskin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Haskell experience in neovim!</div>",
-            "url": "https://github.com/mrcjkb/haskell-tools.nvim",
-            "title": "mrcjkb/haskell-tools.nvim: Supercharge your Haskell experience in neovim!",
-            "date_modified": "2024-05-13T20:26:15.000Z",
-            "date_published": "2022-10-15T14:18:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1219667?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vim plugin that makes vim syntax highlighting engine available in pandoc</div>",
-            "url": "https://github.com/lyokha/vim-publish-helper",
-            "title": "lyokha/vim-publish-helper: vim plugin that makes vim syntax highlighting engine available in pandoc",
-            "date_modified": "2024-05-13T19:46:15.000Z",
-            "date_published": "2014-01-02T18:56:17.000Z",
-            "author": {
-                "name": "lyokha",
-                "url": "https://github.com/lyokha"
             }
         }
     ]
