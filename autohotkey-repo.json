@@ -6,6 +6,17 @@
     "description": "autohotkey on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98240922?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An AutoHotkey script that uses OpenAI's GPT-3.5 Turbo model to paraphrase text. It copies content from the clipboard, encodes it for command line use, and passes it to a Python script (paraphrase.py). The script requests the OpenAI API for paraphrasing and returns the result, which is then sent as keystrokes by the AutoHotkey script.</div>",
+            "url": "https://github.com/eimamac/ahk-cgpt",
+            "title": "eimamac/ahk-cgpt: An AutoHotkey script that uses OpenAI's GPT-3.5 Turbo model to paraphrase text. It copies content from the clipboard, encodes it for command line use, and passes it to a Python script (paraphrase.py). The script requests the OpenAI API for paraphrasing and returns the result, which is then sent as keystrokes by the AutoHotkey script.",
+            "date_modified": "2024-05-14T01:14:32.000Z",
+            "date_published": "2024-05-14T01:09:57.000Z",
+            "author": {
+                "name": "eimamac",
+                "url": "https://github.com/eimamac"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122749908?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My AutoHotkey Scripts</div>",
             "url": "https://github.com/mandroperz/AutoHotkey_Scripts",
             "title": "mandroperz/AutoHotkey_Scripts: My AutoHotkey Scripts",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169274333?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。</div>",
             "url": "https://github.com/cs-lazy-tools/ChatGPT-On-CS",
             "title": "cs-lazy-tools/ChatGPT-On-CS: 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。",
-            "date_modified": "2024-05-14T00:00:45.000Z",
+            "date_modified": "2024-05-14T01:29:49.000Z",
             "date_published": "2024-03-07T09:06:25.000Z",
             "author": {
                 "name": "cs-lazy-tools",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nperovic",
                 "url": "https://github.com/nperovic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5309088?u=d591f7d372fbe8eb4f41bfe83984ec71dfeae149&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/JalonWong/autohotkey-collections",
-            "title": "JalonWong/autohotkey-collections",
-            "date_modified": "2024-05-13T07:12:06.000Z",
-            "date_published": "2019-01-10T05:30:56.000Z",
-            "author": {
-                "name": "JalonWong",
-                "url": "https://github.com/JalonWong"
             }
         }
     ]
