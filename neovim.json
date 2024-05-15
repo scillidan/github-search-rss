@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9973190?u=488a706c787565d0e8b12960f8442d2330ecd234&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to manage aws cli from inside neovim</div>",
+            "url": "https://github.com/zuzmuz/nvimawscli",
+            "title": "zuzmuz/nvimawscli: A plugin to manage aws cli from inside neovim",
+            "date_modified": "2024-05-15T19:07:09.000Z",
+            "date_published": "2024-04-23T19:40:00.000Z",
+            "author": {
+                "name": "zuzmuz",
+                "url": "https://github.com/zuzmuz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
+            "date_modified": "2024-05-15T19:06:54.000Z",
+            "date_published": "2024-05-04T09:33:14.000Z",
+            "author": {
+                "name": "lima1909",
+                "url": "https://github.com/lima1909"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148591235?u=eb4af44475ed1a8889cee26b264ceca8fe753db9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal Neovim configuration. It includes settings, key mappings, plugins, and themes tailored to my preferences and workflow</div>",
+            "url": "https://github.com/MonalBarse/nvim-config",
+            "title": "MonalBarse/nvim-config: My personal Neovim configuration. It includes settings, key mappings, plugins, and themes tailored to my preferences and workflow",
+            "date_modified": "2024-05-15T18:49:47.000Z",
+            "date_published": "2024-05-08T08:18:33.000Z",
+            "author": {
+                "name": "MonalBarse",
+                "url": "https://github.com/MonalBarse"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1219667?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vim plugin that makes vim syntax highlighting engine available in pandoc</div>",
             "url": "https://github.com/lyokha/vim-publish-helper",
             "title": "lyokha/vim-publish-helper: vim plugin that makes vim syntax highlighting engine available in pandoc",
@@ -14,6 +47,17 @@
             "author": {
                 "name": "lyokha",
                 "url": "https://github.com/lyokha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-05-15T18:42:35.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
             }
         },
         {
@@ -130,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
             "url": "https://github.com/stevearc/conform.nvim",
             "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-05-15T17:31:23.000Z",
+            "date_modified": "2024-05-15T18:27:18.000Z",
             "date_published": "2023-08-25T03:31:42.000Z",
             "author": {
                 "name": "stevearc",
@@ -160,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9973190?u=488a706c787565d0e8b12960f8442d2330ecd234&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to manage aws cli from inside neovim</div>",
-            "url": "https://github.com/zuzmuz/nvimawscli",
-            "title": "zuzmuz/nvimawscli: A plugin to manage aws cli from inside neovim",
-            "date_modified": "2024-05-15T13:29:25.000Z",
-            "date_published": "2024-04-23T19:40:00.000Z",
-            "author": {
-                "name": "zuzmuz",
-                "url": "https://github.com/zuzmuz"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47593166?u=59d7769aeee871017601c2200f1a5379f5c65b35&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SKK Neovim plugin in Lua and Rust</div>",
             "url": "https://github.com/exfinen/minskk",
             "title": "exfinen/minskk: SKK Neovim plugin in Lua and Rust",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "catgoose",
                 "url": "https://github.com/catgoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48717183?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple plugin to easily manage Neovim buffers.</div>",
-            "url": "https://github.com/j-morano/buffer_manager.nvim",
-            "title": "j-morano/buffer_manager.nvim: A simple plugin to easily manage Neovim buffers.",
-            "date_modified": "2024-05-15T18:01:28.000Z",
-            "date_published": "2022-07-30T23:28:30.000Z",
-            "author": {
-                "name": "j-morano",
-                "url": "https://github.com/j-morano"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62192789?u=a70afdfabd61aa90920f070d677c214c063e4278&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MyNV repository contains my customized configuration for Neovim, featuring a selection of plugins and tweaks to optimize my workflow.</div>",
-            "url": "https://github.com/BreCabral/MyNV",
-            "title": "BreCabral/MyNV: MyNV repository contains my customized configuration for Neovim, featuring a selection of plugins and tweaks to optimize my workflow.",
-            "date_modified": "2024-05-15T12:55:05.000Z",
-            "date_published": "2024-05-15T12:27:32.000Z",
-            "author": {
-                "name": "BreCabral",
-                "url": "https://github.com/BreCabral"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86842365?u=216ea23a1fb4e7e8d0f2eb58683454abad95f7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that provides an implementation for vim.notify</div>",
-            "url": "https://github.com/samsze0/notifier.nvim",
-            "title": "samsze0/notifier.nvim: A neovim plugin that provides an implementation for vim.notify",
-            "date_modified": "2024-05-15T12:50:39.000Z",
-            "date_published": "2024-05-15T12:04:19.000Z",
-            "author": {
-                "name": "samsze0",
-                "url": "https://github.com/samsze0"
             }
         }
     ]
