@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
+            "url": "https://github.com/MagicDuck/grug-far.nvim",
+            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
+            "date_modified": "2024-05-16T10:09:11.000Z",
+            "date_published": "2024-04-28T18:15:17.000Z",
+            "author": {
+                "name": "MagicDuck",
+                "url": "https://github.com/MagicDuck"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
+            "url": "https://github.com/folke/noice.nvim",
+            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+            "date_modified": "2024-05-16T09:56:54.000Z",
+            "date_published": "2022-09-21T19:32:33.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148591235?u=eb4af44475ed1a8889cee26b264ceca8fe753db9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal Neovim configuration. It includes settings, key mappings, plugins, and themes tailored to my preferences and workflow</div>",
+            "url": "https://github.com/MonalBarse/nvim-config",
+            "title": "MonalBarse/nvim-config: My personal Neovim configuration. It includes settings, key mappings, plugins, and themes tailored to my preferences and workflow",
+            "date_modified": "2024-05-16T09:54:12.000Z",
+            "date_published": "2024-05-08T08:18:33.000Z",
+            "author": {
+                "name": "MonalBarse",
+                "url": "https://github.com/MonalBarse"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/941660?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to run golang tests</div>",
+            "url": "https://github.com/vcraescu/gotest.nvim",
+            "title": "vcraescu/gotest.nvim: Neovim plugin to run golang tests",
+            "date_modified": "2024-05-16T09:49:16.000Z",
+            "date_published": "2024-04-27T04:46:56.000Z",
+            "author": {
+                "name": "vcraescu",
+                "url": "https://github.com/vcraescu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-05-16T09:14:29.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/729055?u=6409652cdd4617e84af324b4b2979fc7f5d1ad37&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tiny package/plugin for Neovim and Vim to quickly toggle open your (Neo)vim terminals logically for CWDs.</div>",
             "url": "https://github.com/jssteinberg/termcwd",
             "title": "jssteinberg/termcwd: A tiny package/plugin for Neovim and Vim to quickly toggle open your (Neo)vim terminals logically for CWDs.",
@@ -53,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-05-16T06:53:23.000Z",
+            "date_modified": "2024-05-16T09:13:38.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -102,17 +157,6 @@
             "author": {
                 "name": "m-pilia",
                 "url": "https://github.com/m-pilia"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-05-16T05:15:39.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "thiru",
                 "url": "https://github.com/thiru"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/594302?u=aef7ea94c022fb97eadc6984a7af4df8237bbce0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A companion plugin for null-ls/none-ls, adding support for CSpell diagnostics and code actions.</div>",
-            "url": "https://github.com/davidmh/cspell.nvim",
-            "title": "davidmh/cspell.nvim: A companion plugin for null-ls/none-ls, adding support for CSpell diagnostics and code actions.",
-            "date_modified": "2024-05-16T03:09:11.000Z",
-            "date_published": "2023-04-23T18:23:33.000Z",
-            "author": {
-                "name": "davidmh",
-                "url": "https://github.com/davidmh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
-            "url": "https://github.com/Norlock/neo-api-rs",
-            "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
-            "date_modified": "2024-05-16T03:07:44.000Z",
-            "date_published": "2024-04-15T18:47:05.000Z",
-            "author": {
-                "name": "Norlock",
-                "url": "https://github.com/Norlock"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7839406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim plugin for the Linux command `dict` which shows the definitions in a popup </div>",
-            "url": "https://github.com/Nealium/dict-popup.nvim",
-            "title": "Nealium/dict-popup.nvim: A simple Neovim plugin for the Linux command `dict` which shows the definitions in a popup ",
-            "date_modified": "2024-05-16T02:06:12.000Z",
-            "date_published": "2024-02-20T00:25:39.000Z",
-            "author": {
-                "name": "Nealium",
-                "url": "https://github.com/Nealium"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-05-16T02:05:08.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
             }
         }
     ]
