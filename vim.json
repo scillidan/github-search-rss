@@ -6,6 +6,28 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-05-17T09:49:39.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-05-17T09:40:31.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21080902?u=8f647ae27895074f61ebe8be67e4f305b34195a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. </div>",
             "url": "https://github.com/felpafel/inlay-hint.nvim",
             "title": "felpafel/inlay-hint.nvim: Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. ",
@@ -58,17 +80,6 @@
             "author": {
                 "name": "tmillr",
                 "url": "https://github.com/tmillr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-05-17T07:32:43.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "NixNeovim",
                 "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15847857?u=7d9c09d956dfdf6cd66af3aef96f36961aaa985f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.</div>",
-            "url": "https://github.com/madox2/vim-ai",
-            "title": "madox2/vim-ai: AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.",
-            "date_modified": "2024-05-16T20:48:19.000Z",
-            "date_published": "2023-02-27T20:23:49.000Z",
-            "author": {
-                "name": "madox2",
-                "url": "https://github.com/madox2"
             }
         }
     ]
