@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of DOs and DON'Ts for modern Neovim Lua plugin development</div>",
+            "url": "https://github.com/nvim-neorocks/nvim-best-practices",
+            "title": "nvim-neorocks/nvim-best-practices: Collection of DOs and DON'Ts for modern Neovim Lua plugin development",
+            "date_modified": "2024-05-17T17:51:51.000Z",
+            "date_published": "2024-05-14T06:45:21.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117501417?u=607960978d4aec08224e88810f320de30c3c6487&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My CLI based code editor(Neovim) configuration with most efficient plugins I found on the internet</div>",
+            "url": "https://github.com/NewsonUpreti/My-neovim-config",
+            "title": "NewsonUpreti/My-neovim-config: My CLI based code editor(Neovim) configuration with most efficient plugins I found on the internet",
+            "date_modified": "2024-05-17T17:31:54.000Z",
+            "date_published": "2023-11-21T15:29:55.000Z",
+            "author": {
+                "name": "NewsonUpreti",
+                "url": "https://github.com/NewsonUpreti"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-05-17T17:22:58.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-05-17T17:17:43.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -108,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A completion plugin for neovim coded in Lua.</div>",
             "url": "https://github.com/hrsh7th/nvim-cmp",
             "title": "hrsh7th/nvim-cmp: A completion plugin for neovim coded in Lua.",
-            "date_modified": "2024-05-17T16:52:09.000Z",
+            "date_modified": "2024-05-17T18:00:04.000Z",
             "date_published": "2021-06-29T18:01:04.000Z",
             "author": {
                 "name": "hrsh7th",
@@ -176,50 +220,6 @@
             "title": "echasnovski/mini.tabline: Neovim Lua plugin with minimal and fast tabline. Part of 'mini.nvim' library.",
             "date_modified": "2024-05-17T14:36:03.000Z",
             "date_published": "2022-10-24T16:30:46.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.surround",
-            "title": "echasnovski/mini.surround: Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.",
-            "date_modified": "2024-05-17T14:36:01.000Z",
-            "date_published": "2022-10-24T16:30:02.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.statusline",
-            "title": "echasnovski/mini.statusline: Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.",
-            "date_modified": "2024-05-17T14:36:00.000Z",
-            "date_published": "2022-10-24T16:29:00.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to generate Neovim help files. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.doc",
-            "title": "echasnovski/mini.doc: Neovim Lua plugin to generate Neovim help files. Part of 'mini.nvim' library.",
-            "date_modified": "2024-05-17T14:35:57.000Z",
-            "date_published": "2022-10-24T16:20:31.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.completion",
-            "title": "echasnovski/mini.completion: Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.",
-            "date_modified": "2024-05-17T14:35:56.000Z",
-            "date_published": "2022-10-24T16:19:08.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
