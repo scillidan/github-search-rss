@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-05-17T12:09:20.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20514752?u=94e434cc79e833d561f596fdbe4f1d5dcbedc19c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An extension for the `Harpoon` neovim plugin via the Harpoon2 API</div>",
+            "url": "https://github.com/atidyshirt/harpoon-tmux",
+            "title": "atidyshirt/harpoon-tmux: An extension for the `Harpoon` neovim plugin via the Harpoon2 API",
+            "date_modified": "2024-05-17T11:54:52.000Z",
+            "date_published": "2024-05-17T11:54:52.000Z",
+            "author": {
+                "name": "atidyshirt",
+                "url": "https://github.com/atidyshirt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15176203?u=f9abc4ec3349b3de9e98968c09197b982e2535e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PyMOL Python snippet library to edit live Jupyter notebook cells with vim or neovim using the ultisnips plugin and the browser plugin GhostText</div>",
+            "url": "https://github.com/MooersLab/jupyter-ultisnips-pymolpysnips",
+            "title": "MooersLab/jupyter-ultisnips-pymolpysnips: PyMOL Python snippet library to edit live Jupyter notebook cells with vim or neovim using the ultisnips plugin and the browser plugin GhostText",
+            "date_modified": "2024-05-17T11:45:29.000Z",
+            "date_published": "2023-10-05T14:01:56.000Z",
+            "author": {
+                "name": "MooersLab",
+                "url": "https://github.com/MooersLab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15176203?u=f9abc4ec3349b3de9e98968c09197b982e2535e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PyMOL Python snippet library to edit live Jupyter notebook cells with vim or neovim using the snipmate plugin and the browser plugin GhostText</div>",
+            "url": "https://github.com/MooersLab/jupyter-snipmate-pymolpysnips",
+            "title": "MooersLab/jupyter-snipmate-pymolpysnips: PyMOL Python snippet library to edit live Jupyter notebook cells with vim or neovim using the snipmate plugin and the browser plugin GhostText",
+            "date_modified": "2024-05-17T11:40:14.000Z",
+            "date_published": "2023-10-05T14:03:53.000Z",
+            "author": {
+                "name": "MooersLab",
+                "url": "https://github.com/MooersLab"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13175359?u=f5a7820d08f506eb80f3cf0f163c8e7fac420d53&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A rudimentary plugin manager for NeoVim.</div>",
             "url": "https://github.com/nizamiza/rpm",
             "title": "nizamiza/rpm: A rudimentary plugin manager for NeoVim.",
@@ -64,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
             "url": "https://github.com/vyfor/cord.nvim",
             "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
-            "date_modified": "2024-05-17T09:29:52.000Z",
+            "date_modified": "2024-05-17T12:03:09.000Z",
             "date_published": "2024-04-07T15:20:39.000Z",
             "author": {
                 "name": "vyfor",
@@ -149,10 +193,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI]</div>",
+            "url": "https://github.com/Robitx/gp.nvim",
+            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI]",
+            "date_modified": "2024-05-17T11:48:23.000Z",
+            "date_published": "2023-06-18T13:55:46.000Z",
+            "author": {
+                "name": "Robitx",
+                "url": "https://github.com/Robitx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of DOs and DON'Ts for modern Neovim Lua plugin development</div>",
             "url": "https://github.com/nvim-neorocks/nvim-best-practices",
             "title": "nvim-neorocks/nvim-best-practices: Collection of DOs and DON'Ts for modern Neovim Lua plugin development",
-            "date_modified": "2024-05-17T11:07:24.000Z",
+            "date_modified": "2024-05-17T11:55:15.000Z",
             "date_published": "2024-05-14T06:45:21.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "ObserverOfTime",
                 "url": "https://github.com/ObserverOfTime"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17450586?u=cc2ec8fc2bd9c13f75cec6daf01c9a050f606fde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration to show my plugins in action.</div>",
-            "url": "https://github.com/jmbuhr/quarto-nvim-kickstarter",
-            "title": "jmbuhr/quarto-nvim-kickstarter: Neovim configuration to show my plugins in action.",
-            "date_modified": "2024-05-17T08:03:21.000Z",
-            "date_published": "2022-06-03T07:59:41.000Z",
-            "author": {
-                "name": "jmbuhr",
-                "url": "https://github.com/jmbuhr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24971970?u=116d26c02cf1a16c22ba09ad731d506695695380&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for desktop notifications.</div>",
-            "url": "https://github.com/ObserverOfTime/notifications.nvim",
-            "title": "ObserverOfTime/notifications.nvim: Neovim plugin for desktop notifications.",
-            "date_modified": "2024-05-17T08:02:20.000Z",
-            "date_published": "2023-11-23T01:08:05.000Z",
-            "author": {
-                "name": "ObserverOfTime",
-                "url": "https://github.com/ObserverOfTime"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
-            "url": "https://github.com/m15a/flake-vim-plugin-analects",
-            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
-            "date_modified": "2024-05-17T07:48:34.000Z",
-            "date_published": "2024-04-11T07:27:53.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26099427?u=b3dd3acee623ceb11f473c74c45905d738720ad3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highlight colors for neovim</div>",
-            "url": "https://github.com/brenoprata10/nvim-highlight-colors",
-            "title": "brenoprata10/nvim-highlight-colors: Highlight colors for neovim",
-            "date_modified": "2024-05-17T07:40:46.000Z",
-            "date_published": "2022-07-17T11:09:45.000Z",
-            "author": {
-                "name": "brenoprata10",
-                "url": "https://github.com/brenoprata10"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130372558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>async fast minimalist plugin make format easy in neovim</div>",
-            "url": "https://github.com/nvimdev/guard.nvim",
-            "title": "nvimdev/guard.nvim: async fast minimalist plugin make format easy in neovim",
-            "date_modified": "2024-05-17T07:06:20.000Z",
-            "date_published": "2023-02-15T09:28:11.000Z",
-            "author": {
-                "name": "nvimdev",
-                "url": "https://github.com/nvimdev"
             }
         }
     ]
