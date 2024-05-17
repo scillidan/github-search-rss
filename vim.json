@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-05-17T13:46:05.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>General indentexpr plugin for vim and nvim.</div>",
+            "url": "https://github.com/hrsh7th/vim-gindent",
+            "title": "hrsh7th/vim-gindent: General indentexpr plugin for vim and nvim.",
+            "date_modified": "2024-05-17T13:36:23.000Z",
+            "date_published": "2022-02-14T10:31:13.000Z",
+            "author": {
+                "name": "hrsh7th",
+                "url": "https://github.com/hrsh7th"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-05-17T13:29:06.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7468255?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git vim plugin.</div>",
             "url": "https://github.com/kevmuret/vim-git",
             "title": "kevmuret/vim-git: Git vim plugin.",
@@ -50,21 +83,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-05-17T09:49:39.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-05-17T12:45:23.000Z",
+            "date_modified": "2024-05-17T13:33:14.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18142?u=fd0b0e81fa08c752d26016a14f7a705cdc213578&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin to give you some slime. (Emacs)</div>",
             "url": "https://github.com/jpalardy/vim-slime",
             "title": "jpalardy/vim-slime: A vim plugin to give you some slime. (Emacs)",
-            "date_modified": "2024-05-17T05:53:44.000Z",
+            "date_modified": "2024-05-17T13:57:20.000Z",
             "date_published": "2011-02-04T03:42:59.000Z",
             "author": {
                 "name": "jpalardy",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "declancm",
                 "url": "https://github.com/declancm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The commons lua library for Neovim plugin project.</div>",
-            "url": "https://github.com/linrongbin16/commons.nvim",
-            "title": "linrongbin16/commons.nvim: The commons lua library for Neovim plugin project.",
-            "date_modified": "2024-05-17T01:46:36.000Z",
-            "date_published": "2023-12-11T13:48:32.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
-            "url": "https://github.com/Shougo/dpp.vim",
-            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
-            "date_modified": "2024-05-17T00:46:25.000Z",
-            "date_published": "2023-08-08T23:23:02.000Z",
-            "author": {
-                "name": "Shougo",
-                "url": "https://github.com/Shougo"
             }
         }
     ]
