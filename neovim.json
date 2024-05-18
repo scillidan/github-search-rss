@@ -6,14 +6,69 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109556932?u=076cb424f5695466ddc170497bd964110921031a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A very simple plugin to clear your registers</div>",
+            "url": "https://github.com/FireIsGood/nvim-clear-registers",
+            "title": "FireIsGood/nvim-clear-registers: A very simple plugin to clear your registers",
+            "date_modified": "2024-05-18T08:55:45.000Z",
+            "date_published": "2024-05-18T08:42:25.000Z",
+            "author": {
+                "name": "FireIsGood",
+                "url": "https://github.com/FireIsGood"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121363757?u=b4ebf6701d49cef2fe7214dd82dc63c50601aca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My custom neovim configuration and plugins</div>",
+            "url": "https://github.com/jakescaife/neovim",
+            "title": "jakescaife/neovim: My custom neovim configuration and plugins",
+            "date_modified": "2024-05-18T08:50:44.000Z",
+            "date_published": "2024-05-17T21:22:09.000Z",
+            "author": {
+                "name": "jakescaife",
+                "url": "https://github.com/jakescaife"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI",
-            "date_modified": "2024-05-18T08:02:43.000Z",
+            "date_modified": "2024-05-18T08:29:06.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
                 "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
+            "url": "https://github.com/folke/noice.nvim",
+            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+            "date_modified": "2024-05-18T08:23:32.000Z",
+            "date_published": "2022-09-21T19:32:33.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71320000?u=59331e0e583a7922abc1154951c44a7264da7bc8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for aligning bilingual parallel texts</div>",
+            "url": "https://github.com/tanloong/interlaced.nvim",
+            "title": "tanloong/interlaced.nvim: Neovim plugin for aligning bilingual parallel texts",
+            "date_modified": "2024-05-18T08:20:27.000Z",
+            "date_published": "2023-08-09T20:22:27.000Z",
+            "author": {
+                "name": "tanloong",
+                "url": "https://github.com/tanloong"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
+            "url": "https://github.com/folke/lazy.nvim",
+            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+            "date_modified": "2024-05-18T08:14:50.000Z",
+            "date_published": "2022-11-20T21:36:02.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
             }
         },
         {
@@ -108,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9919?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for GitHub Copilot</div>",
             "url": "https://github.com/github/copilot.vim",
             "title": "github/copilot.vim: Neovim plugin for GitHub Copilot",
-            "date_modified": "2024-05-18T03:41:45.000Z",
+            "date_modified": "2024-05-18T08:17:04.000Z",
             "date_published": "2021-10-20T18:29:13.000Z",
             "author": {
                 "name": "github",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "simirian",
                 "url": "https://github.com/simirian"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
-            "url": "https://github.com/folke/neoconf.nvim",
-            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-05-18T01:26:34.000Z",
-            "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162745564?u=28063531bbdd72600b3cf25c2acd6118a25fdf4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config Lazy💤 plugin manager</div>",
-            "url": "https://github.com/Paulobox/nvim",
-            "title": "Paulobox/nvim: Neovim config Lazy💤 plugin manager",
-            "date_modified": "2024-05-18T01:21:46.000Z",
-            "date_published": "2024-03-28T18:41:16.000Z",
-            "author": {
-                "name": "Paulobox",
-                "url": "https://github.com/Paulobox"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/857809?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim / nvim plugin that intelligently reopens files at your last edit position.</div>",
-            "url": "https://github.com/farmergreg/vim-lastplace",
-            "title": "farmergreg/vim-lastplace: A vim / nvim plugin that intelligently reopens files at your last edit position.",
-            "date_modified": "2024-05-18T01:15:15.000Z",
-            "date_published": "2015-01-12T04:11:35.000Z",
-            "author": {
-                "name": "farmergreg",
-                "url": "https://github.com/farmergreg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2467016?u=cd5964e6618c6438d1fd32c8d76aeda559fae37b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tagging important files</div>",
-            "url": "https://github.com/cbochs/grapple.nvim",
-            "title": "cbochs/grapple.nvim: Neovim plugin for tagging important files",
-            "date_modified": "2024-05-18T01:13:31.000Z",
-            "date_published": "2022-10-24T04:18:27.000Z",
-            "author": {
-                "name": "cbochs",
-                "url": "https://github.com/cbochs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31730729?u=9b5f151994618c616e2e1a4ec5d87a5da3113db9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>File manager for Neovim powered by nnn.</div>",
-            "url": "https://github.com/luukvbaal/nnn.nvim",
-            "title": "luukvbaal/nnn.nvim: File manager for Neovim powered by nnn.",
-            "date_modified": "2024-05-18T00:27:49.000Z",
-            "date_published": "2021-09-30T02:23:49.000Z",
-            "author": {
-                "name": "luukvbaal",
-                "url": "https://github.com/luukvbaal"
             }
         }
     ]
