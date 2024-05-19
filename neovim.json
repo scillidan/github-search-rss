@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI",
+            "date_modified": "2024-05-19T10:05:49.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-05-19T10:02:45.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51069488?u=ecdfded359a317cb27b429e02a2360ee4b035223&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins</div>",
+            "url": "https://github.com/cirofabianbermudez/nvim",
+            "title": "cirofabianbermudez/nvim: Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins",
+            "date_modified": "2024-05-19T09:33:04.000Z",
+            "date_published": "2024-03-23T12:20:18.000Z",
+            "author": {
+                "name": "cirofabianbermudez",
+                "url": "https://github.com/cirofabianbermudez"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8770486?u=6b132dea3a2fe32043a601c0ee4c661c2be52359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua</div>",
+            "url": "https://github.com/MoaidHathot/dotnet.nvim",
+            "title": "MoaidHathot/dotnet.nvim: Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua",
+            "date_modified": "2024-05-19T09:23:42.000Z",
+            "date_published": "2023-09-23T21:19:38.000Z",
+            "author": {
+                "name": "MoaidHathot",
+                "url": "https://github.com/MoaidHathot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-05-19T09:22:20.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26099427?u=b3dd3acee623ceb11f473c74c45905d738720ad3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highlight colors for neovim</div>",
             "url": "https://github.com/brenoprata10/nvim-highlight-colors",
             "title": "brenoprata10/nvim-highlight-colors: Highlight colors for neovim",
-            "date_modified": "2024-05-19T08:54:31.000Z",
+            "date_modified": "2024-05-19T09:53:49.000Z",
             "date_published": "2022-07-17T11:09:45.000Z",
             "author": {
                 "name": "brenoprata10",
@@ -64,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-05-19T08:52:27.000Z",
+            "date_modified": "2024-05-19T09:21:45.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "RANK1ZEN",
                 "url": "https://github.com/RANK1ZEN"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-05-19T05:16:49.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94317938?u=f8021932f4f0646a4b609aa6494d6a022b1e3376&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal Neovim configuration. Includes syntax highlighting, autocompletion, code linting, git integration, filesystem integration, and other useful plugins.</div>",
-            "url": "https://github.com/cshmookler/config.nvim",
-            "title": "cshmookler/config.nvim: My personal Neovim configuration. Includes syntax highlighting, autocompletion, code linting, git integration, filesystem integration, and other useful plugins.",
-            "date_modified": "2024-05-19T04:46:21.000Z",
-            "date_published": "2023-10-22T06:58:15.000Z",
-            "author": {
-                "name": "cshmookler",
-                "url": "https://github.com/cshmookler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116031640?u=69d72f941dce477111c4bcb671b0fbda149419fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository is a configuration of my neovim. Which I have been modifying with some .lua plugins, so that it works as closely as possible to an IDE to program with the following languages: C, C++, Python, Lua</div>",
-            "url": "https://github.com/fmolero69/My-nvim-setup",
-            "title": "fmolero69/My-nvim-setup: This repository is a configuration of my neovim. Which I have been modifying with some .lua plugins, so that it works as closely as possible to an IDE to program with the following languages: C, C++, Python, Lua",
-            "date_modified": "2024-05-19T04:40:55.000Z",
-            "date_published": "2024-05-04T16:49:19.000Z",
-            "author": {
-                "name": "fmolero69",
-                "url": "https://github.com/fmolero69"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
-            "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
-            "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-05-19T08:50:07.000Z",
-            "date_published": "2024-03-18T04:13:43.000Z",
-            "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12228142?u=f32e7157c4de4b5d1fd248fe5f2b0323d8720611&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command</div>",
-            "url": "https://github.com/brenton-leighton/multiple-cursors.nvim",
-            "title": "brenton-leighton/multiple-cursors.nvim: A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command",
-            "date_modified": "2024-05-19T04:09:42.000Z",
-            "date_published": "2023-11-09T01:53:40.000Z",
-            "author": {
-                "name": "brenton-leighton",
-                "url": "https://github.com/brenton-leighton"
             }
         }
     ]
