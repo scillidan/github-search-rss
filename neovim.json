@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97511408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.</div>",
+            "url": "https://github.com/h4ckm1n-dev/kube-utils-nvim",
+            "title": "h4ckm1n-dev/kube-utils-nvim: 🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.",
+            "date_modified": "2024-05-19T16:10:00.000Z",
+            "date_published": "2024-05-10T21:31:16.000Z",
+            "author": {
+                "name": "h4ckm1n-dev",
+                "url": "https://github.com/h4ckm1n-dev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16870174?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple todolist plugin for Neovim, a reference for learning nvim plugins.</div>",
+            "url": "https://github.com/digitalnightjar/todo.nvim",
+            "title": "digitalnightjar/todo.nvim: A simple todolist plugin for Neovim, a reference for learning nvim plugins.",
+            "date_modified": "2024-05-19T15:54:54.000Z",
+            "date_published": "2024-05-19T15:19:03.000Z",
+            "author": {
+                "name": "digitalnightjar",
+                "url": "https://github.com/digitalnightjar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-05-19T16:09:55.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20153187?u=88a19b2a69edb43c7c22ad2ed3ebac38ca12e64c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim setup and plugins</div>",
+            "url": "https://github.com/sh3lwan/vim-setup",
+            "title": "sh3lwan/vim-setup: My Neovim setup and plugins",
+            "date_modified": "2024-05-19T15:42:51.000Z",
+            "date_published": "2023-09-08T08:44:28.000Z",
+            "author": {
+                "name": "sh3lwan",
+                "url": "https://github.com/sh3lwan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
+            "url": "https://github.com/folke/lazy.nvim",
+            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+            "date_modified": "2024-05-19T15:30:22.000Z",
+            "date_published": "2022-11-20T21:36:02.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of DOs and DON'Ts for modern Neovim Lua plugin development</div>",
+            "url": "https://github.com/nvim-neorocks/nvim-best-practices",
+            "title": "nvim-neorocks/nvim-best-practices: Collection of DOs and DON'Ts for modern Neovim Lua plugin development",
+            "date_modified": "2024-05-19T15:22:09.000Z",
+            "date_published": "2024-05-14T06:45:21.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17064903?u=3e6bb539ce58a42311c1336fdca55a27e4697d42&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Command palette &amp; menu plugin for Vim and Neovim</div>",
+            "url": "https://github.com/lalbornoz/roarie-commands.vim",
+            "title": "lalbornoz/roarie-commands.vim: Command palette & menu plugin for Vim and Neovim",
+            "date_modified": "2024-05-19T15:15:57.000Z",
+            "date_published": "2024-04-29T07:58:02.000Z",
+            "author": {
+                "name": "lalbornoz",
+                "url": "https://github.com/lalbornoz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
             "url": "https://github.com/kyoh86/denops-util",
             "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
@@ -14,17 +91,6 @@
             "author": {
                 "name": "kyoh86",
                 "url": "https://github.com/kyoh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97511408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.</div>",
-            "url": "https://github.com/h4ckm1n-dev/kube-utils-nvim",
-            "title": "h4ckm1n-dev/kube-utils-nvim: 🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.",
-            "date_modified": "2024-05-19T15:04:18.000Z",
-            "date_published": "2024-05-10T21:31:16.000Z",
-            "author": {
-                "name": "h4ckm1n-dev",
-                "url": "https://github.com/h4ckm1n-dev"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "ttak0422",
                 "url": "https://github.com/ttak0422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-05-19T12:00:40.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-05-19T11:35:33.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20938898?u=18c57ff46d8b82bbc6bc8536c26f7dc3315aa0c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My NVIM configuration and plugins setting.</div>",
-            "url": "https://github.com/itsgitz/nvim",
-            "title": "itsgitz/nvim: My NVIM configuration and plugins setting.",
-            "date_modified": "2024-05-19T11:23:27.000Z",
-            "date_published": "2021-07-02T15:17:32.000Z",
-            "author": {
-                "name": "itsgitz",
-                "url": "https://github.com/itsgitz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/866010?u=b25ec1b1f04f31dcd391eae25463135a225287b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🍲 Carl Weathers #1 Neovim Plugin.</div>",
-            "url": "https://github.com/rktjmp/hotpot.nvim",
-            "title": "rktjmp/hotpot.nvim: :stew: Carl Weathers #1 Neovim Plugin.",
-            "date_modified": "2024-05-19T12:55:46.000Z",
-            "date_published": "2021-07-21T03:22:27.000Z",
-            "author": {
-                "name": "rktjmp",
-                "url": "https://github.com/rktjmp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/conform.nvim",
-            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-05-19T11:12:18.000Z",
-            "date_published": "2023-08-25T03:31:42.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22454918?u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim lua plugin to help easily manage multiple terminal windows</div>",
-            "url": "https://github.com/akinsho/toggleterm.nvim",
-            "title": "akinsho/toggleterm.nvim: A neovim lua plugin to help easily manage multiple terminal windows",
-            "date_modified": "2024-05-19T12:32:53.000Z",
-            "date_published": "2020-08-17T17:33:39.000Z",
-            "author": {
-                "name": "akinsho",
-                "url": "https://github.com/akinsho"
             }
         }
     ]
