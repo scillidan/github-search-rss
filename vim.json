@@ -6,6 +6,28 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.</div>",
+            "url": "https://github.com/ray-x/aurora",
+            "title": "ray-x/aurora: A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.",
+            "date_modified": "2024-05-20T14:57:51.000Z",
+            "date_published": "2020-06-07T13:02:17.000Z",
+            "author": {
+                "name": "ray-x",
+                "url": "https://github.com/ray-x"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ddu.vim source collects plugins managed in lazy.nvim.</div>",
+            "url": "https://github.com/kyoh86/ddu-source-lazy_nvim",
+            "title": "kyoh86/ddu-source-lazy_nvim: ddu.vim source collects plugins managed in lazy.nvim.",
+            "date_modified": "2024-05-20T14:10:53.000Z",
+            "date_published": "2023-06-06T22:38:40.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300342?u=417e81691305f0f343387a792eb1b0d1d168b49c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…</div>",
             "url": "https://github.com/liskin/dotfiles",
             "title": "liskin/dotfiles: My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…",
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-05-20T13:57:07.000Z",
+            "date_modified": "2024-05-20T14:49:16.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -61,14 +83,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.</div>",
-            "url": "https://github.com/ray-x/aurora",
-            "title": "ray-x/aurora: A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.",
-            "date_modified": "2024-05-20T09:36:19.000Z",
-            "date_published": "2020-06-07T13:02:17.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26099427?u=b3dd3acee623ceb11f473c74c45905d738720ad3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highlight colors for neovim</div>",
+            "url": "https://github.com/brenoprata10/nvim-highlight-colors",
+            "title": "brenoprata10/nvim-highlight-colors: Highlight colors for neovim",
+            "date_modified": "2024-05-20T15:02:40.000Z",
+            "date_published": "2022-07-17T11:09:45.000Z",
             "author": {
-                "name": "ray-x",
-                "url": "https://github.com/ray-x"
+                "name": "brenoprata10",
+                "url": "https://github.com/brenoprata10"
             }
         },
         {
@@ -94,6 +116,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1423607?u=a736aab5a9d4a7543079c64450cd4d1c25417a75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The neovim tabline plugin.</div>",
+            "url": "https://github.com/romgrk/barbar.nvim",
+            "title": "romgrk/barbar.nvim: The neovim tabline plugin.",
+            "date_modified": "2024-05-20T14:34:25.000Z",
+            "date_published": "2020-10-22T10:32:07.000Z",
+            "author": {
+                "name": "romgrk",
+                "url": "https://github.com/romgrk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13540650?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>F# Vim plugin based on FsAutoComplete and LSP protocol </div>",
             "url": "https://github.com/ionide/Ionide-vim",
             "title": "ionide/Ionide-vim: F# Vim plugin based on FsAutoComplete and LSP protocol ",
@@ -108,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-05-20T14:06:19.000Z",
+            "date_modified": "2024-05-20T14:33:08.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "kbenzie",
                 "url": "https://github.com/kbenzie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Maximize window splits. A Neovim plugin written in Lua!</div>",
-            "url": "https://github.com/declancm/maximize.nvim",
-            "title": "declancm/maximize.nvim: Maximize window splits. A Neovim plugin written in Lua!",
-            "date_modified": "2024-05-19T22:37:17.000Z",
-            "date_published": "2022-05-04T22:39:54.000Z",
-            "author": {
-                "name": "declancm",
-                "url": "https://github.com/declancm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67463291?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Very simple Vim plugin for creating presentations</div>",
-            "url": "https://github.com/skurtulmus/blackbubble",
-            "title": "skurtulmus/blackbubble: Very simple Vim plugin for creating presentations",
-            "date_modified": "2024-05-19T22:30:39.000Z",
-            "date_published": "2023-06-30T21:43:22.000Z",
-            "author": {
-                "name": "skurtulmus",
-                "url": "https://github.com/skurtulmus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1837070?u=08fa959a7c585c6f126e135c06cfad45c7a51c1a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vim plugin for bearsunday</div>",
-            "url": "https://github.com/amashigeseiji/bearsunday.vim",
-            "title": "amashigeseiji/bearsunday.vim: vim plugin for bearsunday",
-            "date_modified": "2024-05-19T20:35:45.000Z",
-            "date_published": "2019-11-09T18:16:07.000Z",
-            "author": {
-                "name": "amashigeseiji",
-                "url": "https://github.com/amashigeseiji"
             }
         }
     ]
