@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-05-20T12:52:26.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of \"small\" plugins</div>",
+            "url": "https://github.com/altermo/small.nvim",
+            "title": "altermo/small.nvim: A collection of \"small\" plugins",
+            "date_modified": "2024-05-20T12:47:40.000Z",
+            "date_published": "2023-09-15T22:07:14.000Z",
+            "author": {
+                "name": "altermo",
+                "url": "https://github.com/altermo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-05-20T12:46:18.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/465606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleGPT is a vim plugin designed to provide the simplest method for:  Constructing and sending questions to ChatGPT &amp; Presenting the response in the most convenient manner.</div>",
+            "url": "https://github.com/you-n-g/simplegpt.nvim",
+            "title": "you-n-g/simplegpt.nvim: SimpleGPT is a vim plugin designed to provide the simplest method for:  Constructing and sending questions to ChatGPT & Presenting the response in the most convenient manner.",
+            "date_modified": "2024-05-20T12:27:40.000Z",
+            "date_published": "2024-03-06T07:42:41.000Z",
+            "author": {
+                "name": "you-n-g",
+                "url": "https://github.com/you-n-g"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226654?u=42669bdd5c052036c28e36f704d0252339629ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Activate is a plugin installation system for Neovim</div>",
+            "url": "https://github.com/roobert/activate.nvim",
+            "title": "roobert/activate.nvim: 🚀 Activate is a plugin installation system for Neovim",
+            "date_modified": "2024-05-20T12:19:12.000Z",
+            "date_published": "2023-09-06T21:22:57.000Z",
+            "author": {
+                "name": "roobert",
+                "url": "https://github.com/roobert"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -20,22 +75,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-05-20T12:07:13.000Z",
+            "date_modified": "2024-05-20T12:58:13.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
                 "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226654?u=42669bdd5c052036c28e36f704d0252339629ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Activate is a plugin installation system for Neovim</div>",
-            "url": "https://github.com/roobert/activate.nvim",
-            "title": "roobert/activate.nvim: 🚀 Activate is a plugin installation system for Neovim",
-            "date_modified": "2024-05-20T12:06:35.000Z",
-            "date_published": "2023-09-06T21:22:57.000Z",
-            "author": {
-                "name": "roobert",
-                "url": "https://github.com/roobert"
             }
         },
         {
@@ -64,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-05-20T11:59:44.000Z",
+            "date_modified": "2024-05-20T12:57:26.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "ray-x",
                 "url": "https://github.com/ray-x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12184268?u=35ff697932f0ebba20a58fc8a07f9a5f033fa375&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to search for and insert emojis/kaomojis right from Neovim 😀</div>",
-            "url": "https://github.com/Allaman/emoji.nvim",
-            "title": "Allaman/emoji.nvim: A plugin to search for and insert emojis/kaomojis right from Neovim 😀",
-            "date_modified": "2024-05-20T09:32:04.000Z",
-            "date_published": "2024-02-23T18:04:25.000Z",
-            "author": {
-                "name": "Allaman",
-                "url": "https://github.com/Allaman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-05-20T09:17:46.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23409060?u=06c75ea2287aa89543fa9c6791acab774d5244cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to make the LSP client use FZF</div>",
-            "url": "https://github.com/ojroques/nvim-lspfuzzy",
-            "title": "ojroques/nvim-lspfuzzy: A Neovim plugin to make the LSP client use FZF",
-            "date_modified": "2024-05-20T08:44:43.000Z",
-            "date_published": "2020-12-08T16:11:59.000Z",
-            "author": {
-                "name": "ojroques",
-                "url": "https://github.com/ojroques"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1219667?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vim plugin that makes vim syntax highlighting engine available in pandoc</div>",
-            "url": "https://github.com/lyokha/vim-publish-helper",
-            "title": "lyokha/vim-publish-helper: vim plugin that makes vim syntax highlighting engine available in pandoc",
-            "date_modified": "2024-05-20T08:37:28.000Z",
-            "date_published": "2014-01-02T18:56:17.000Z",
-            "author": {
-                "name": "lyokha",
-                "url": "https://github.com/lyokha"
             }
         }
     ]
