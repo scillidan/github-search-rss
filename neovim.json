@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-05-20T05:57:44.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9415256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A quick setup and customized configuration for Neovim, including essential plugins and key mappings to enhance productivity.</div>",
+            "url": "https://github.com/genecywang/nvim-setup",
+            "title": "genecywang/nvim-setup: A quick setup and customized configuration for Neovim, including essential plugins and key mappings to enhance productivity.",
+            "date_modified": "2024-05-20T05:57:17.000Z",
+            "date_published": "2024-05-19T02:35:55.000Z",
+            "author": {
+                "name": "genecywang",
+                "url": "https://github.com/genecywang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-05-20T05:24:00.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A performant lsp progress status for Neovim.</div>",
+            "url": "https://github.com/linrongbin16/lsp-progress.nvim",
+            "title": "linrongbin16/lsp-progress.nvim: A performant lsp progress status for Neovim.",
+            "date_modified": "2024-05-20T05:11:03.000Z",
+            "date_published": "2023-01-31T00:58:42.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47593166?u=59d7769aeee871017601c2200f1a5379f5c65b35&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SKK Neovim plugin in Lua and Rust</div>",
             "url": "https://github.com/exfinen/minskk",
             "title": "exfinen/minskk: SKK Neovim plugin in Lua and Rust",
@@ -25,17 +69,6 @@
             "author": {
                 "name": "Norlock",
                 "url": "https://github.com/Norlock"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9415256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A quick setup and customized configuration for Neovim, including essential plugins and key mappings to enhance productivity.</div>",
-            "url": "https://github.com/genecywang/nvim-setup",
-            "title": "genecywang/nvim-setup: A quick setup and customized configuration for Neovim, including essential plugins and key mappings to enhance productivity.",
-            "date_modified": "2024-05-20T04:41:32.000Z",
-            "date_published": "2024-05-19T02:35:55.000Z",
-            "author": {
-                "name": "genecywang",
-                "url": "https://github.com/genecywang"
             }
         },
         {
@@ -160,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-05-20T01:57:19.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
             "url": "https://github.com/folke/neoconf.nvim",
             "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "obaland",
                 "url": "https://github.com/obaland"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
-            "url": "https://github.com/kyoh86/denops-util",
-            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
-            "date_modified": "2024-05-20T01:05:47.000Z",
-            "date_published": "2024-01-06T00:19:26.000Z",
-            "author": {
-                "name": "kyoh86",
-                "url": "https://github.com/kyoh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
-            "url": "https://github.com/yutkat/my-neovim-pluginlist",
-            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
-            "date_modified": "2024-05-20T00:58:42.000Z",
-            "date_published": "2022-04-17T14:53:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
             }
         }
     ]
