@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
+            "date_modified": "2024-05-20T16:08:51.000Z",
+            "date_published": "2024-05-04T09:33:14.000Z",
+            "author": {
+                "name": "lima1909",
+                "url": "https://github.com/lima1909"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.</div>",
+            "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
+            "title": "rachartier/tiny-devicons-auto-colors.nvim: A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.",
+            "date_modified": "2024-05-20T15:55:22.000Z",
+            "date_published": "2024-05-18T02:46:44.000Z",
+            "author": {
+                "name": "rachartier",
+                "url": "https://github.com/rachartier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)</div>",
+            "url": "https://github.com/kyoh86/denops-zenn_dev.vim",
+            "title": "kyoh86/denops-zenn_dev.vim: A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)",
+            "date_modified": "2024-05-20T15:44:41.000Z",
+            "date_published": "2024-04-04T19:25:15.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16870174?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple todolist plugin for Neovim, a reference for learning nvim plugins.</div>",
+            "url": "https://github.com/digitalnightjar/todo.nvim",
+            "title": "digitalnightjar/todo.nvim: A simple todolist plugin for Neovim, a reference for learning nvim plugins.",
+            "date_modified": "2024-05-20T15:29:24.000Z",
+            "date_published": "2024-05-19T15:19:03.000Z",
+            "author": {
+                "name": "digitalnightjar",
+                "url": "https://github.com/digitalnightjar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-05-20T15:23:20.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/151780948?u=77d0d486891da31e451c872af5f3eb68470c51ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple neovim plugin for save root files</div>",
+            "url": "https://github.com/onicue/root-edit",
+            "title": "onicue/root-edit: Simple neovim plugin for save root files",
+            "date_modified": "2024-05-20T15:29:16.000Z",
+            "date_published": "2024-05-20T07:53:57.000Z",
+            "author": {
+                "name": "onicue",
+                "url": "https://github.com/onicue"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9415256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A quick setup and customized configuration for Neovim, including essential plugins and key mappings to enhance productivity.</div>",
             "url": "https://github.com/genecywang/nvim-setup",
             "title": "genecywang/nvim-setup: A quick setup and customized configuration for Neovim, including essential plugins and key mappings to enhance productivity.",
@@ -17,36 +83,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16870174?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple todolist plugin for Neovim, a reference for learning nvim plugins.</div>",
-            "url": "https://github.com/digitalnightjar/todo.nvim",
-            "title": "digitalnightjar/todo.nvim: A simple todolist plugin for Neovim, a reference for learning nvim plugins.",
-            "date_modified": "2024-05-20T14:26:47.000Z",
-            "date_published": "2024-05-19T15:19:03.000Z",
-            "author": {
-                "name": "digitalnightjar",
-                "url": "https://github.com/digitalnightjar"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
             "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
             "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
-            "date_modified": "2024-05-20T15:02:05.000Z",
+            "date_modified": "2024-05-20T15:47:37.000Z",
             "date_published": "2021-12-12T13:38:23.000Z",
             "author": {
                 "name": "nvim-neo-tree",
                 "url": "https://github.com/nvim-neo-tree"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-05-20T14:14:50.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
             }
         },
         {
@@ -119,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64483945?u=1cc1ba30519381f8f605057846f06f86d742784f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to simplify enabling neovim inlay hints(neovim 0.10+).</div>",
             "url": "https://github.com/MysticalDevil/inlay-hints.nvim",
             "title": "MysticalDevil/inlay-hints.nvim: A plugin to simplify enabling neovim inlay hints(neovim 0.10+).",
-            "date_modified": "2024-05-20T14:41:22.000Z",
+            "date_modified": "2024-05-20T15:38:03.000Z",
             "date_published": "2023-11-18T04:07:28.000Z",
             "author": {
                 "name": "MysticalDevil",
@@ -135,17 +179,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.</div>",
-            "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
-            "title": "rachartier/tiny-devicons-auto-colors.nvim: A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.",
-            "date_modified": "2024-05-20T14:45:32.000Z",
-            "date_published": "2024-05-18T02:46:44.000Z",
-            "author": {
-                "name": "rachartier",
-                "url": "https://github.com/rachartier"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "roobert",
                 "url": "https://github.com/roobert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-05-20T12:11:41.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-05-20T12:58:13.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
-            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
-            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
-            "date_modified": "2024-05-20T12:05:47.000Z",
-            "date_published": "2024-03-10T11:54:02.000Z",
-            "author": {
-                "name": "ttak0422",
-                "url": "https://github.com/ttak0422"
             }
         }
     ]
