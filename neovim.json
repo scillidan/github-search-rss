@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80290871?u=490199c625bc201b03ea0766cc115e3e77623a02&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config with lazy plugin manager</div>",
+            "url": "https://github.com/alexagruso/neovim-config",
+            "title": "alexagruso/neovim-config: Neovim config with lazy plugin manager",
+            "date_modified": "2024-05-20T17:52:13.000Z",
+            "date_published": "2024-03-18T04:05:01.000Z",
+            "author": {
+                "name": "alexagruso",
+                "url": "https://github.com/alexagruso"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93693693?u=dd4ce314f34c77664a92b6d25dffd853ce4487e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal LazyVim config. Contains a few extra plugins</div>",
+            "url": "https://github.com/GianlucaP106/lazyvim-config",
+            "title": "GianlucaP106/lazyvim-config: My personal LazyVim config. Contains a few extra plugins",
+            "date_modified": "2024-05-20T17:36:40.000Z",
+            "date_published": "2024-01-07T00:05:19.000Z",
+            "author": {
+                "name": "GianlucaP106",
+                "url": "https://github.com/GianlucaP106"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-05-20T17:27:29.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-05-20T17:17:28.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.</div>",
+            "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
+            "title": "rachartier/tiny-devicons-auto-colors.nvim: A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.",
+            "date_modified": "2024-05-20T17:13:07.000Z",
+            "date_published": "2024-05-18T02:46:44.000Z",
+            "author": {
+                "name": "rachartier",
+                "url": "https://github.com/rachartier"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI",
@@ -25,17 +80,6 @@
             "author": {
                 "name": "danielNemeth19",
                 "url": "https://github.com/danielNemeth19"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.</div>",
-            "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
-            "title": "rachartier/tiny-devicons-auto-colors.nvim: A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.",
-            "date_modified": "2024-05-20T17:00:36.000Z",
-            "date_published": "2024-05-18T02:46:44.000Z",
-            "author": {
-                "name": "rachartier",
-                "url": "https://github.com/rachartier"
             }
         },
         {
@@ -152,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
             "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
             "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
-            "date_modified": "2024-05-20T15:47:37.000Z",
+            "date_modified": "2024-05-20T17:10:21.000Z",
             "date_published": "2021-12-12T13:38:23.000Z",
             "author": {
                 "name": "nvim-neo-tree",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "sasheto-phizika",
                 "url": "https://github.com/sasheto-phizika"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to update your current distro from its github remote</div>",
-            "url": "https://github.com/Zeioth/distroupdate.nvim",
-            "title": "Zeioth/distroupdate.nvim: Neovim plugin to update your current distro from its github remote",
-            "date_modified": "2024-05-20T13:54:19.000Z",
-            "date_published": "2024-01-23T16:34:38.000Z",
-            "author": {
-                "name": "Zeioth",
-                "url": "https://github.com/Zeioth"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36300441?u=05cba456887d1beedd4e92ff5bc5c8fafc31c3c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.</div>",
-            "url": "https://github.com/rebelot/heirline.nvim",
-            "title": "rebelot/heirline.nvim: Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.",
-            "date_modified": "2024-05-20T13:38:30.000Z",
-            "date_published": "2022-01-01T15:50:03.000Z",
-            "author": {
-                "name": "rebelot",
-                "url": "https://github.com/rebelot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20689156?u=b9559f176b8317f628ecb4560ef0677b7999a38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.</div>",
-            "url": "https://github.com/shortcuts/no-neck-pain.nvim",
-            "title": "shortcuts/no-neck-pain.nvim: ☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.",
-            "date_modified": "2024-05-20T14:21:05.000Z",
-            "date_published": "2022-10-23T12:09:24.000Z",
-            "author": {
-                "name": "shortcuts",
-                "url": "https://github.com/shortcuts"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64483945?u=1cc1ba30519381f8f605057846f06f86d742784f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to simplify enabling neovim inlay hints(neovim 0.10+).</div>",
-            "url": "https://github.com/MysticalDevil/inlay-hints.nvim",
-            "title": "MysticalDevil/inlay-hints.nvim: A plugin to simplify enabling neovim inlay hints(neovim 0.10+).",
-            "date_modified": "2024-05-20T15:38:03.000Z",
-            "date_published": "2023-11-18T04:07:28.000Z",
-            "author": {
-                "name": "MysticalDevil",
-                "url": "https://github.com/MysticalDevil"
             }
         }
     ]
