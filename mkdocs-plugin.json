@@ -6,6 +6,17 @@
     "description": "mkdocs plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5570380?u=529954242ffa63610fed217738dc15f81ef99674&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page</div>",
+            "url": "https://github.com/timvink/mkdocs-table-reader-plugin",
+            "title": "timvink/mkdocs-table-reader-plugin: MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page",
+            "date_modified": "2024-05-20T11:33:04.000Z",
+            "date_published": "2020-03-06T09:42:26.000Z",
+            "author": {
+                "name": "timvink",
+                "url": "https://github.com/timvink"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76561516?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.</div>",
             "url": "https://github.com/monosans/mkdocs-minify-html-plugin",
             "title": "monosans/mkdocs-minify-html-plugin: MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.",
@@ -209,17 +220,6 @@
             "title": "conda-forge/mkdocs-markdownextradata-plugin-feedstock: A conda-smithy repository for mkdocs-markdownextradata-plugin.",
             "date_modified": "2024-05-12T17:46:17.000Z",
             "date_published": "2019-05-24T07:21:47.000Z",
-            "author": {
-                "name": "conda-forge",
-                "url": "https://github.com/conda-forge"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11897326?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A conda-smithy repository for mkdocs-monorepo-plugin.</div>",
-            "url": "https://github.com/conda-forge/mkdocs-monorepo-plugin-feedstock",
-            "title": "conda-forge/mkdocs-monorepo-plugin-feedstock: A conda-smithy repository for mkdocs-monorepo-plugin.",
-            "date_modified": "2024-05-12T16:23:53.000Z",
-            "date_published": "2024-02-17T13:32:45.000Z",
             "author": {
                 "name": "conda-forge",
                 "url": "https://github.com/conda-forge"
