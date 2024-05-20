@@ -6,10 +6,87 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16870174?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple todolist plugin for Neovim, a reference for learning nvim plugins.</div>",
+            "url": "https://github.com/digitalnightjar/todo.nvim",
+            "title": "digitalnightjar/todo.nvim: A simple todolist plugin for Neovim, a reference for learning nvim plugins.",
+            "date_modified": "2024-05-20T14:07:45.000Z",
+            "date_published": "2024-05-19T15:19:03.000Z",
+            "author": {
+                "name": "digitalnightjar",
+                "url": "https://github.com/digitalnightjar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "date_modified": "2024-05-20T14:00:18.000Z",
+            "date_published": "2021-12-12T13:38:23.000Z",
+            "author": {
+                "name": "nvim-neo-tree",
+                "url": "https://github.com/nvim-neo-tree"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to update your current distro from its github remote</div>",
+            "url": "https://github.com/Zeioth/distroupdate.nvim",
+            "title": "Zeioth/distroupdate.nvim: Neovim plugin to update your current distro from its github remote",
+            "date_modified": "2024-05-20T13:54:19.000Z",
+            "date_published": "2024-01-23T16:34:38.000Z",
+            "author": {
+                "name": "Zeioth",
+                "url": "https://github.com/Zeioth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36300441?u=05cba456887d1beedd4e92ff5bc5c8fafc31c3c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.</div>",
+            "url": "https://github.com/rebelot/heirline.nvim",
+            "title": "rebelot/heirline.nvim: Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.",
+            "date_modified": "2024-05-20T13:38:30.000Z",
+            "date_published": "2022-01-01T15:50:03.000Z",
+            "author": {
+                "name": "rebelot",
+                "url": "https://github.com/rebelot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64483945?u=1cc1ba30519381f8f605057846f06f86d742784f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to simplify enabling neovim inlay hints(neovim 0.10+).</div>",
+            "url": "https://github.com/MysticalDevil/inlay-hints.nvim",
+            "title": "MysticalDevil/inlay-hints.nvim: A plugin to simplify enabling neovim inlay hints(neovim 0.10+).",
+            "date_modified": "2024-05-20T13:29:56.000Z",
+            "date_published": "2023-11-18T04:07:28.000Z",
+            "author": {
+                "name": "MysticalDevil",
+                "url": "https://github.com/MysticalDevil"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-05-20T13:26:48.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.</div>",
+            "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
+            "title": "rachartier/tiny-devicons-auto-colors.nvim: A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.",
+            "date_modified": "2024-05-20T13:49:40.000Z",
+            "date_published": "2024-05-18T02:46:44.000Z",
+            "author": {
+                "name": "rachartier",
+                "url": "https://github.com/rachartier"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
             "url": "https://github.com/catgoose/nvim",
             "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-05-20T12:52:26.000Z",
+            "date_modified": "2024-05-20T13:15:23.000Z",
             "date_published": "2023-03-05T23:35:23.000Z",
             "author": {
                 "name": "catgoose",
@@ -108,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-05-20T12:57:26.000Z",
+            "date_modified": "2024-05-20T13:57:07.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -119,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
             "url": "https://github.com/nvim-lualine/lualine.nvim",
             "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
-            "date_modified": "2024-05-20T11:14:33.000Z",
+            "date_modified": "2024-05-20T13:33:48.000Z",
             "date_published": "2020-12-30T14:35:10.000Z",
             "author": {
                 "name": "nvim-lualine",
@@ -146,83 +223,6 @@
             "author": {
                 "name": "h4ckm1n-dev",
                 "url": "https://github.com/h4ckm1n-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36300441?u=05cba456887d1beedd4e92ff5bc5c8fafc31c3c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.</div>",
-            "url": "https://github.com/rebelot/heirline.nvim",
-            "title": "rebelot/heirline.nvim: Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.",
-            "date_modified": "2024-05-20T10:22:50.000Z",
-            "date_published": "2022-01-01T15:50:03.000Z",
-            "author": {
-                "name": "rebelot",
-                "url": "https://github.com/rebelot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47593166?u=59d7769aeee871017601c2200f1a5379f5c65b35&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SKK Neovim plugin in Lua and Rust</div>",
-            "url": "https://github.com/exfinen/minskk",
-            "title": "exfinen/minskk: SKK Neovim plugin in Lua and Rust",
-            "date_modified": "2024-05-20T10:13:27.000Z",
-            "date_published": "2024-05-08T04:47:55.000Z",
-            "author": {
-                "name": "exfinen",
-                "url": "https://github.com/exfinen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20689156?u=b9559f176b8317f628ecb4560ef0677b7999a38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.</div>",
-            "url": "https://github.com/shortcuts/no-neck-pain.nvim",
-            "title": "shortcuts/no-neck-pain.nvim: ☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.",
-            "date_modified": "2024-05-20T12:17:39.000Z",
-            "date_published": "2022-10-23T12:09:24.000Z",
-            "author": {
-                "name": "shortcuts",
-                "url": "https://github.com/shortcuts"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71392160?u=e11c0316a5dbf2af1fb58bd3bc558b49c3d6e170&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Take a code screenshot using freeze by <a href=\"https://charm.sh/\" rel=\"nofollow\">https://charm.sh/</a></div>",
-            "url": "https://github.com/AlejandroSuero/freeze-code.nvim",
-            "title": "AlejandroSuero/freeze-code.nvim: Take a code screenshot using freeze by https://charm.sh/",
-            "date_modified": "2024-05-20T10:51:34.000Z",
-            "date_published": "2024-05-12T03:09:23.000Z",
-            "author": {
-                "name": "AlejandroSuero",
-                "url": "https://github.com/AlejandroSuero"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
-            "url": "https://github.com/tamago324/nlsp-settings.nvim",
-            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
-            "date_modified": "2024-05-20T10:02:33.000Z",
-            "date_published": "2021-03-21T05:46:20.000Z",
-            "author": {
-                "name": "tamago324",
-                "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9415256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A quick setup and customized configuration for Neovim, including essential plugins and key mappings to enhance productivity.</div>",
-            "url": "https://github.com/genecywang/nvim-setup",
-            "title": "genecywang/nvim-setup: A quick setup and customized configuration for Neovim, including essential plugins and key mappings to enhance productivity.",
-            "date_modified": "2024-05-20T09:48:42.000Z",
-            "date_published": "2024-05-19T02:35:55.000Z",
-            "author": {
-                "name": "genecywang",
-                "url": "https://github.com/genecywang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Code analysis &amp; navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍</div>",
-            "url": "https://github.com/ray-x/navigator.lua",
-            "title": "ray-x/navigator.lua: Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍",
-            "date_modified": "2024-05-20T09:46:20.000Z",
-            "date_published": "2021-04-19T02:54:05.000Z",
-            "author": {
-                "name": "ray-x",
-                "url": "https://github.com/ray-x"
             }
         }
     ]
