@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
+            "url": "https://github.com/folke/noice.nvim",
+            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+            "date_modified": "2024-05-22T19:06:17.000Z",
+            "date_published": "2022-09-21T19:32:33.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6422188?u=d4b8035de0bc19a8d24d5f94329d79acf22fb085&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for interacting with LLM's and building editor integrated prompts.</div>",
+            "url": "https://github.com/gsuuon/model.nvim",
+            "title": "gsuuon/model.nvim: Neovim plugin for interacting with LLM's and building editor integrated prompts.",
+            "date_modified": "2024-05-22T19:05:48.000Z",
+            "date_published": "2023-04-16T04:18:10.000Z",
+            "author": {
+                "name": "gsuuon",
+                "url": "https://github.com/gsuuon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94317938?u=f8021932f4f0646a4b609aa6494d6a022b1e3376&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal Neovim configuration. Includes syntax highlighting, autocompletion, code linting, git integration, filesystem integration, and other useful plugins.</div>",
+            "url": "https://github.com/cshmookler/config.nvim",
+            "title": "cshmookler/config.nvim: My personal Neovim configuration. Includes syntax highlighting, autocompletion, code linting, git integration, filesystem integration, and other useful plugins.",
+            "date_modified": "2024-05-22T19:04:13.000Z",
+            "date_published": "2023-10-22T06:58:15.000Z",
+            "author": {
+                "name": "cshmookler",
+                "url": "https://github.com/cshmookler"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
             "url": "https://github.com/AstroNvim/astrocommunity",
             "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-05-22T18:11:23.000Z",
+            "date_modified": "2024-05-22T18:35:36.000Z",
             "date_published": "2023-02-21T14:55:56.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -86,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tiny plugin to enhance Neovim's native comments</div>",
             "url": "https://github.com/folke/ts-comments.nvim",
             "title": "folke/ts-comments.nvim: Tiny plugin to enhance Neovim's native comments",
-            "date_modified": "2024-05-22T17:32:04.000Z",
+            "date_modified": "2024-05-22T18:52:26.000Z",
             "date_published": "2024-05-20T21:09:01.000Z",
             "author": {
                 "name": "folke",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "stevearc",
                 "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16870174?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple todolist plugin for Neovim, a reference for learning nvim plugins.</div>",
-            "url": "https://github.com/digitalnightjar/todo.nvim",
-            "title": "digitalnightjar/todo.nvim: A simple todolist plugin for Neovim, a reference for learning nvim plugins.",
-            "date_modified": "2024-05-22T13:54:44.000Z",
-            "date_published": "2024-05-19T15:19:03.000Z",
-            "author": {
-                "name": "digitalnightjar",
-                "url": "https://github.com/digitalnightjar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47593166?u=59d7769aeee871017601c2200f1a5379f5c65b35&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim SKK plugin written in Rust and Lua</div>",
-            "url": "https://github.com/exfinen/minskk",
-            "title": "exfinen/minskk: Neovim SKK plugin written in Rust and Lua",
-            "date_modified": "2024-05-22T13:29:47.000Z",
-            "date_published": "2024-05-08T04:47:55.000Z",
-            "author": {
-                "name": "exfinen",
-                "url": "https://github.com/exfinen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86842365?u=216ea23a1fb4e7e8d0f2eb58683454abad95f7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Common utils for my neovim plugins</div>",
-            "url": "https://github.com/samsze0/utils.nvim",
-            "title": "samsze0/utils.nvim: Common utils for my neovim plugins",
-            "date_modified": "2024-05-22T13:24:20.000Z",
-            "date_published": "2024-05-15T03:34:24.000Z",
-            "author": {
-                "name": "samsze0",
-                "url": "https://github.com/samsze0"
             }
         }
     ]
