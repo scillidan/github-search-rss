@@ -6,6 +6,39 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22550919?u=2b1184414c5c3a9960017707b084f75398a8cb3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.</div>",
+            "url": "https://github.com/BazzaCuda/MinimalistMediaPlayerX",
+            "title": "BazzaCuda/MinimalistMediaPlayerX: An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.",
+            "date_modified": "2024-05-23T22:00:42.000Z",
+            "date_published": "2023-07-08T16:26:50.000Z",
+            "author": {
+                "name": "BazzaCuda",
+                "url": "https://github.com/BazzaCuda"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9336788?u=02424696c5fcb241b6ae15c870423b540662ba6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible-powered dotfiles</div>",
+            "url": "https://github.com/claha/dotfiles",
+            "title": "claha/dotfiles: Ansible-powered dotfiles",
+            "date_modified": "2024-05-23T21:47:08.000Z",
+            "date_published": "2020-12-28T21:01:12.000Z",
+            "author": {
+                "name": "claha",
+                "url": "https://github.com/claha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38372270?u=5dfac45e2fa0a450b6ba45c8da8795b13d4b0681&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>libmpv wrapper in zig</div>",
+            "url": "https://github.com/hasanpasha/zmpv",
+            "title": "hasanpasha/zmpv: libmpv wrapper in zig",
+            "date_modified": "2024-05-23T21:38:28.000Z",
+            "date_published": "2024-05-10T17:32:55.000Z",
+            "author": {
+                "name": "hasanpasha",
+                "url": "https://github.com/hasanpasha"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6325414?u=3e85eb947b31f911a63f3637e077f9a965762694&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight full screen RTSP streamer in a container. Based on MPV and X11. Use this when you need to permanently display an RTSP stream full screen on a display. </div>",
             "url": "https://github.com/adamgranted/rtspstreamer",
             "title": "adamgranted/rtspstreamer: Lightweight full screen RTSP streamer in a container. Based on MPV and X11. Use this when you need to permanently display an RTSP stream full screen on a display. ",
@@ -61,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22550919?u=2b1184414c5c3a9960017707b084f75398a8cb3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.</div>",
-            "url": "https://github.com/BazzaCuda/MinimalistMediaPlayerX",
-            "title": "BazzaCuda/MinimalistMediaPlayerX: An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.",
-            "date_modified": "2024-05-23T18:29:34.000Z",
-            "date_published": "2023-07-08T16:26:50.000Z",
-            "author": {
-                "name": "BazzaCuda",
-                "url": "https://github.com/BazzaCuda"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149047?u=7f451beec35c7bf72ca64e7adcc0e3966d6267fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Official mirror of libplacebo</div>",
             "url": "https://github.com/haasn/libplacebo",
             "title": "haasn/libplacebo: Official mirror of libplacebo",
@@ -113,17 +135,6 @@
             "author": {
                 "name": "TinosNitso",
                 "url": "https://github.com/TinosNitso"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38372270?u=5dfac45e2fa0a450b6ba45c8da8795b13d4b0681&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>libmpv wrapper in zig</div>",
-            "url": "https://github.com/hasanpasha/zmpv",
-            "title": "hasanpasha/zmpv: libmpv wrapper in zig",
-            "date_modified": "2024-05-23T16:48:49.000Z",
-            "date_published": "2024-05-10T17:32:55.000Z",
-            "author": {
-                "name": "hasanpasha",
-                "url": "https://github.com/hasanpasha"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tuurep",
                 "url": "https://github.com/tuurep"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18324369?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C-Play is a cluster-based video/image/audio player, utilizing MPV as media player engine,  SGCT for master/client cluster support, and Qt/QML for master UI.</div>",
-            "url": "https://github.com/c-toolbox/C-Play",
-            "title": "c-toolbox/C-Play: C-Play is a cluster-based video/image/audio player, utilizing MPV as media player engine,  SGCT for master/client cluster support, and Qt/QML for master UI.",
-            "date_modified": "2024-05-23T11:10:07.000Z",
-            "date_published": "2021-04-01T13:39:28.000Z",
-            "author": {
-                "name": "c-toolbox",
-                "url": "https://github.com/c-toolbox"
             }
         }
     ]
