@@ -6,14 +6,36 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23144950?u=473c22c5f1064f725e2b0bbead11d14b9589897d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>更好的离线翻译效果mBART-50，优于MarianMT，并且支持预设翻译词，内置了大量建筑单词。</div>",
+            "url": "https://github.com/leeguandong/sd_webui_prompt_translator_architecture",
+            "title": "leeguandong/sd_webui_prompt_translator_architecture: 更好的离线翻译效果mBART-50，优于MarianMT，并且支持预设翻译词，内置了大量建筑单词。",
+            "date_modified": "2024-05-23T11:54:50.000Z",
+            "date_published": "2024-05-23T08:16:56.000Z",
+            "author": {
+                "name": "leeguandong",
+                "url": "https://github.com/leeguandong"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117971281?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>API client for AUTOMATIC111/stable-diffusion-webui for nodejs/browser</div>",
             "url": "https://github.com/StableCanvas/sd-webui-a1111-client",
             "title": "StableCanvas/sd-webui-a1111-client: API client for AUTOMATIC111/stable-diffusion-webui for nodejs/browser",
-            "date_modified": "2024-05-23T11:03:55.000Z",
+            "date_modified": "2024-05-23T11:37:56.000Z",
             "date_published": "2023-07-20T07:48:55.000Z",
             "author": {
                 "name": "StableCanvas",
                 "url": "https://github.com/StableCanvas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/232347?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Checkpoint model mixer/merger extension</div>",
+            "url": "https://github.com/wkpark/sd-webui-model-mixer",
+            "title": "wkpark/sd-webui-model-mixer: Checkpoint model mixer/merger extension",
+            "date_modified": "2024-05-23T11:33:35.000Z",
+            "date_published": "2023-08-28T13:12:51.000Z",
+            "author": {
+                "name": "wkpark",
+                "url": "https://github.com/wkpark"
             }
         },
         {
@@ -127,6 +149,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>model merge extention for stable diffusion web ui</div>",
+            "url": "https://github.com/hako-mikan/sd-webui-supermerger",
+            "title": "hako-mikan/sd-webui-supermerger: model merge extention for stable diffusion web ui",
+            "date_modified": "2024-05-23T11:54:29.000Z",
+            "date_published": "2023-01-18T13:20:58.000Z",
+            "author": {
+                "name": "hako-mikan",
+                "url": "https://github.com/hako-mikan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91235086?u=7701fb82931ca55a7277363a16e531f22f8d424f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>sd-webui 扩展插件， 用于实现可控动漫视频生成（开发中）</div>",
             "url": "https://github.com/AkiiLucky/sd-webui-animed-video-controlnet",
             "title": "AkiiLucky/sd-webui-animed-video-controlnet: sd-webui 扩展插件， 用于实现可控动漫视频生成（开发中）",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Physton",
                 "url": "https://github.com/Physton"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12066768?u=5ebd8294103633c8526ed3aff6b5852dca253dfa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。</div>",
-            "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
-            "title": "Physton/sd-webui-prompt-all-in-one: This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。",
-            "date_modified": "2024-05-22T16:13:50.000Z",
-            "date_published": "2023-05-08T12:23:21.000Z",
-            "author": {
-                "name": "Physton",
-                "url": "https://github.com/Physton"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37621276?u=cd9adbd464534b7ee67ae34ebbbf2b6092a66a7b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Auto detecting, masking and inpainting with detection model.</div>",
-            "url": "https://github.com/Bing-su/adetailer",
-            "title": "Bing-su/adetailer: Auto detecting, masking and inpainting with detection model.",
-            "date_modified": "2024-05-22T12:52:42.000Z",
-            "date_published": "2023-04-26T07:54:51.000Z",
-            "author": {
-                "name": "Bing-su",
-                "url": "https://github.com/Bing-su"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9644716?u=9a836a0e016e610fa976caf85584e06f7440885d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension to access CivitAI via WebUI: download, delete, scan for updates, list installed models, assign tags, and boost downloads with multi-threading.</div>",
-            "url": "https://github.com/BlafKing/sd-civitai-browser-plus",
-            "title": "BlafKing/sd-civitai-browser-plus: Extension to access CivitAI via WebUI: download, delete, scan for updates, list installed models, assign tags, and boost downloads with multi-threading.",
-            "date_modified": "2024-05-21T14:01:05.000Z",
-            "date_published": "2023-08-20T21:35:48.000Z",
-            "author": {
-                "name": "BlafKing",
-                "url": "https://github.com/BlafKing"
             }
         }
     ]
