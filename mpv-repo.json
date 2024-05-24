@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7908073?u=1157429b1969cf3895076471546b60bf1748724b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>70+ CLI tools to build, browse, and blend your media library. An index for your archive.</div>",
+            "url": "https://github.com/chapmanjacobd/library",
+            "title": "chapmanjacobd/library: 70+ CLI tools to build, browse, and blend your media library. An index for your archive.",
+            "date_modified": "2024-05-24T15:03:14.000Z",
+            "date_published": "2021-12-05T06:37:19.000Z",
+            "author": {
+                "name": "chapmanjacobd",
+                "url": "https://github.com/chapmanjacobd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2024-05-24T14:56:55.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32032905?u=02369d476794c6e2da6d0018f37acc123dc3ce92&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configuration files and automation wizard for Arch Linux meta distribution</div>",
+            "url": "https://github.com/oniani/dot",
+            "title": "oniani/dot: Configuration files and automation wizard for Arch Linux meta distribution",
+            "date_modified": "2024-05-24T14:39:47.000Z",
+            "date_published": "2019-04-10T22:14:23.000Z",
+            "author": {
+                "name": "oniani",
+                "url": "https://github.com/oniani"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50797982?u=89a5228fd3c733568fffe50d9d6342e05d1d71a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>InputEvent.lua for mpv-player, enhanced input.conf with better, conflict-free, low-latency event mechanism.</div>",
+            "url": "https://github.com/natural-harmonia-gropius/input-event",
+            "title": "natural-harmonia-gropius/input-event: InputEvent.lua for mpv-player, enhanced input.conf with better, conflict-free, low-latency event mechanism.",
+            "date_modified": "2024-05-24T14:12:33.000Z",
+            "date_published": "2022-10-10T04:16:41.000Z",
+            "author": {
+                "name": "natural-harmonia-gropius",
+                "url": "https://github.com/natural-harmonia-gropius"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77244135?u=0a890fdae49071e891c16261adf6b2262385504d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.</div>",
             "url": "https://github.com/rorgoroth/mingw-cmake-env",
             "title": "rorgoroth/mingw-cmake-env: Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.",
@@ -86,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22550919?u=2b1184414c5c3a9960017707b084f75398a8cb3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.</div>",
             "url": "https://github.com/BazzaCuda/MinimalistMediaPlayerX",
             "title": "BazzaCuda/MinimalistMediaPlayerX: An MPV-based minimal-interface media player written in Delphi 11.3 for Windows 64-Bit. Lots of keyboard-controlled functionality but with minimal screen clutter. Automatically adjusts the window to match the video dimensions, without a window caption/title bar, to give an immersive viewing experience whether in window mode or fullscreen mode.",
-            "date_modified": "2024-05-24T12:25:49.000Z",
+            "date_modified": "2024-05-24T14:18:34.000Z",
             "date_published": "2023-07-08T16:26:50.000Z",
             "author": {
                 "name": "BazzaCuda",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "dragonflylee",
                 "url": "https://github.com/dragonflylee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170664043?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> The script was made at the request of primary school teachers to automatically launch a warm-up video. Installs by running install_autolaunch_mpv.py. Tested on MOS 12 in X11 and Wayland sessions</div>",
-            "url": "https://github.com/HardRaple/autolaunch_mpv",
-            "title": "HardRaple/autolaunch_mpv:  The script was made at the request of primary school teachers to automatically launch a warm-up video. Installs by running install_autolaunch_mpv.py. Tested on MOS 12 in X11 and Wayland sessions",
-            "date_modified": "2024-05-24T09:44:47.000Z",
-            "date_published": "2024-05-24T08:00:44.000Z",
-            "author": {
-                "name": "HardRaple",
-                "url": "https://github.com/HardRaple"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170664043?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatically launch mpv with given videos using bash and python scripts. Manual placement required.</div>",
-            "url": "https://github.com/HardRaple/mpv_launcher",
-            "title": "HardRaple/mpv_launcher: Automatically launch mpv with given videos using bash and python scripts. Manual placement required.",
-            "date_modified": "2024-05-24T09:46:18.000Z",
-            "date_published": "2024-05-24T08:53:44.000Z",
-            "author": {
-                "name": "HardRaple",
-                "url": "https://github.com/HardRaple"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2024-05-24T13:12:35.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115993332?u=253a9eeecdf127e3671293e8c10870866cba47eb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A pywal generated colorscheme on the based on wallpaper</div>",
-            "url": "https://github.com/xArcGit/dotfiles",
-            "title": "xArcGit/dotfiles: A pywal generated colorscheme on the based on wallpaper",
-            "date_modified": "2024-05-24T08:07:52.000Z",
-            "date_published": "2023-09-17T12:41:28.000Z",
-            "author": {
-                "name": "xArcGit",
-                "url": "https://github.com/xArcGit"
             }
         }
     ]
