@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107015?u=6de0431b67525dc76030214070c7ecf5e80ec26f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim</div>",
+            "url": "https://github.com/andrewferrier/wrapping.nvim",
+            "title": "andrewferrier/wrapping.nvim: Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim",
+            "date_modified": "2024-05-25T16:03:46.000Z",
+            "date_published": "2016-11-24T14:25:18.000Z",
+            "author": {
+                "name": "andrewferrier",
+                "url": "https://github.com/andrewferrier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55287795?u=d875d5c32110080df8a44d1b1de52c3638fc9486&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin that displays file function names.</div>",
+            "url": "https://github.com/marcosalvalaggio/funktree",
+            "title": "marcosalvalaggio/funktree: Simple Neovim plugin that displays file function names.",
+            "date_modified": "2024-05-25T15:35:48.000Z",
+            "date_published": "2023-08-04T10:37:32.000Z",
+            "author": {
+                "name": "marcosalvalaggio",
+                "url": "https://github.com/marcosalvalaggio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-05-25T15:23:18.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-05-25T15:21:52.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95718239?u=4d4b5475d175ebd042dc8d3b0d92f1db63333b25&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archivo de configuración de neovim. Plugins incluidos</div>",
             "url": "https://github.com/JonnerPaz/nvim-config",
             "title": "JonnerPaz/nvim-config: Archivo de configuración de neovim. Plugins incluidos",
@@ -17,25 +61,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-05-25T15:02:24.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
+            "url": "https://github.com/folke/lazy.nvim",
+            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+            "date_modified": "2024-05-25T15:17:02.000Z",
+            "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107015?u=6de0431b67525dc76030214070c7ecf5e80ec26f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim</div>",
-            "url": "https://github.com/andrewferrier/wrapping.nvim",
-            "title": "andrewferrier/wrapping.nvim: Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim",
-            "date_modified": "2024-05-25T14:58:49.000Z",
-            "date_published": "2016-11-24T14:25:18.000Z",
-            "author": {
-                "name": "andrewferrier",
-                "url": "https://github.com/andrewferrier"
+                "name": "folke",
+                "url": "https://github.com/folke"
             }
         },
         {
@@ -187,39 +220,6 @@
             "title": "echasnovski/mini.jump2d: Neovim Lua plugin to jump within visible lines. Part of 'mini.nvim' library.",
             "date_modified": "2024-05-25T14:08:18.000Z",
             "date_published": "2022-10-24T16:23:17.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to jump forward/backward to a single character. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.jump",
-            "title": "echasnovski/mini.jump: Neovim Lua plugin to jump forward/backward to a single character. Part of 'mini.nvim' library.",
-            "date_modified": "2024-05-25T14:08:17.000Z",
-            "date_published": "2022-10-24T16:22:42.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.indentscope",
-            "title": "echasnovski/mini.indentscope: Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.",
-            "date_modified": "2024-05-25T14:08:16.000Z",
-            "date_published": "2022-10-24T16:22:07.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with fuzzy matching functionality. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.fuzzy",
-            "title": "echasnovski/mini.fuzzy: Neovim Lua plugin with fuzzy matching functionality. Part of 'mini.nvim' library.",
-            "date_modified": "2024-05-25T14:08:10.000Z",
-            "date_published": "2022-10-24T16:21:25.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
