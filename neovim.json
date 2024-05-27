@@ -6,25 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106535281?u=7cedaa4edcc8709840bdb5f6450ee9ccd772914d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Concept pair programming plugin for Neovim.</div>",
-            "url": "https://github.com/skeletony007/pair.nvim",
-            "title": "skeletony007/pair.nvim: Concept pair programming plugin for Neovim.",
-            "date_modified": "2024-05-27T18:11:07.000Z",
-            "date_published": "2024-05-26T12:18:57.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay",
+            "date_modified": "2024-05-27T19:05:25.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
             "author": {
-                "name": "skeletony007",
-                "url": "https://github.com/skeletony007"
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-05-27T17:59:41.000Z",
+            "date_modified": "2024-05-27T18:35:22.000Z",
             "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of DOs and DON'Ts for modern Neovim Lua plugin development</div>",
+            "url": "https://github.com/nvim-neorocks/nvim-best-practices",
+            "title": "nvim-neorocks/nvim-best-practices: Collection of DOs and DON'Ts for modern Neovim Lua plugin development",
+            "date_modified": "2024-05-27T18:29:27.000Z",
+            "date_published": "2024-05-14T06:45:21.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106535281?u=7cedaa4edcc8709840bdb5f6450ee9ccd772914d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pair programming plugin for Neovim.</div>",
+            "url": "https://github.com/skeletony007/pair.nvim",
+            "title": "skeletony007/pair.nvim: Pair programming plugin for Neovim.",
+            "date_modified": "2024-05-27T18:15:47.000Z",
+            "date_published": "2024-05-26T12:18:57.000Z",
+            "author": {
+                "name": "skeletony007",
+                "url": "https://github.com/skeletony007"
             }
         },
         {
@@ -105,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay",
-            "date_modified": "2024-05-27T16:45:43.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47322901?u=e0e47a2dd343ce0f1859ac399555a499faeed359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Debug adapter for Neovim plugins</div>",
             "url": "https://github.com/jbyuki/one-small-step-for-vimkind",
             "title": "jbyuki/one-small-step-for-vimkind: Debug adapter for Neovim plugins",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI",
-            "date_modified": "2024-05-27T16:24:56.000Z",
+            "date_modified": "2024-05-27T18:48:47.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "congnghe88",
                 "url": "https://github.com/congnghe88"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34254373?u=743f971be68bf4f3bcfaefa0bff9305673f50b3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow</div>",
-            "url": "https://github.com/CRAG666/code_runner.nvim",
-            "title": "CRAG666/code_runner.nvim: Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow",
-            "date_modified": "2024-05-27T14:46:11.000Z",
-            "date_published": "2021-04-26T05:50:33.000Z",
-            "author": {
-                "name": "CRAG666",
-                "url": "https://github.com/CRAG666"
             }
         }
     ]
