@@ -6,6 +6,50 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)</div>",
+            "url": "https://github.com/kyoh86/denops-zenn_dev.vim",
+            "title": "kyoh86/denops-zenn_dev.vim: A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)",
+            "date_modified": "2024-05-27T13:01:56.000Z",
+            "date_published": "2024-04-04T19:25:15.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-05-27T12:47:23.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13349592?u=75edd250e992e87fc4449eafd72240ee904c499f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin to manage projects and sessions</div>",
+            "url": "https://github.com/leafOfTree/vim-project",
+            "title": "leafOfTree/vim-project: A vim plugin to manage projects and sessions",
+            "date_modified": "2024-05-27T12:27:13.000Z",
+            "date_published": "2020-09-26T11:14:41.000Z",
+            "author": {
+                "name": "leafOfTree",
+                "url": "https://github.com/leafOfTree"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-05-27T12:40:11.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102575?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just my vim plugins and things</div>",
             "url": "https://github.com/sanjayankur31/vimfiles",
             "title": "sanjayankur31/vimfiles: Just my vim plugins and things",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "NixNeovim",
                 "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123140?u=b01a7fb21b31d1edc5f4f66ba546a589c8ddc1db&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My vim setup in desperate need of plugin detox…</div>",
-            "url": "https://github.com/obreitwi/dot_vim",
-            "title": "obreitwi/dot_vim: My vim setup in desperate need of plugin detox…",
-            "date_modified": "2024-05-26T20:47:58.000Z",
-            "date_published": "2013-09-04T11:54:56.000Z",
-            "author": {
-                "name": "obreitwi",
-                "url": "https://github.com/obreitwi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7468255?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git vim plugin.</div>",
-            "url": "https://github.com/kevmuret/vim-git",
-            "title": "kevmuret/vim-git: Git vim plugin.",
-            "date_modified": "2024-05-26T18:11:46.000Z",
-            "date_published": "2024-02-25T19:00:17.000Z",
-            "author": {
-                "name": "kevmuret",
-                "url": "https://github.com/kevmuret"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19657652?u=cfecbd7ac3d853d03eb0802d9135589070c1e228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦾 A plugin adding exubertant ctags and universal-ctags integration to vim</div>",
-            "url": "https://github.com/lukelbd/vim-tags",
-            "title": "lukelbd/vim-tags: 🦾 A plugin adding exubertant ctags and universal-ctags integration to vim",
-            "date_modified": "2024-05-26T17:56:39.000Z",
-            "date_published": "2019-04-18T22:34:25.000Z",
-            "author": {
-                "name": "lukelbd",
-                "url": "https://github.com/lukelbd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin to provide a taglist/outline of the current source file.</div>",
-            "url": "https://github.com/ervandew/taglisttoo",
-            "title": "ervandew/taglisttoo: Vim plugin to provide a taglist/outline of the current source file.",
-            "date_modified": "2024-05-26T15:51:15.000Z",
-            "date_published": "2011-01-01T02:11:16.000Z",
-            "author": {
-                "name": "ervandew",
-                "url": "https://github.com/ervandew"
             }
         }
     ]

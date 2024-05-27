@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of \"small\" plugins</div>",
+            "url": "https://github.com/altermo/small.nvim",
+            "title": "altermo/small.nvim: A collection of \"small\" plugins",
+            "date_modified": "2024-05-27T13:07:42.000Z",
+            "date_published": "2023-09-15T22:07:14.000Z",
+            "author": {
+                "name": "altermo",
+                "url": "https://github.com/altermo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)</div>",
+            "url": "https://github.com/kyoh86/denops-zenn_dev.vim",
+            "title": "kyoh86/denops-zenn_dev.vim: A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)",
+            "date_modified": "2024-05-27T13:01:56.000Z",
+            "date_published": "2024-04-04T19:25:15.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15260226?u=acbb2c1ca0ce3362b4a61162348c8e17149201e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A bookmark plugin for neovim written in lua</div>",
+            "url": "https://github.com/kdnk/bookmarks.nvim",
+            "title": "kdnk/bookmarks.nvim: A bookmark plugin for neovim written in lua",
+            "date_modified": "2024-05-27T12:59:51.000Z",
+            "date_published": "2024-02-13T10:56:56.000Z",
+            "author": {
+                "name": "kdnk",
+                "url": "https://github.com/kdnk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-05-27T12:47:23.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106535281?u=7cedaa4edcc8709840bdb5f6450ee9ccd772914d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Concept pair programming plugin for Neovim.</div>",
+            "url": "https://github.com/skeletony007/pair.nvim",
+            "title": "skeletony007/pair.nvim: Concept pair programming plugin for Neovim.",
+            "date_modified": "2024-05-27T12:20:29.000Z",
+            "date_published": "2024-05-26T12:18:57.000Z",
+            "author": {
+                "name": "skeletony007",
+                "url": "https://github.com/skeletony007"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
             "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
             "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
@@ -25,6 +80,17 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-05-27T12:40:11.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "roobert",
                 "url": "https://github.com/roobert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-05-27T12:13:57.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32009816?u=66bc3f2b25fb43ebfc835b611b136b5890876741&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin para neovim, complemento para el plugin mkdnflow. Es un buscador de notas, y demas ...</div>",
-            "url": "https://github.com/hakyns/linksmd.nvim",
-            "title": "hakyns/linksmd.nvim: Plugin para neovim, complemento para el plugin mkdnflow. Es un buscador de notas, y demas ...",
-            "date_modified": "2024-05-27T06:35:30.000Z",
-            "date_published": "2024-05-09T09:45:40.000Z",
-            "author": {
-                "name": "hakyns",
-                "url": "https://github.com/hakyns"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57088952?u=87c9124a476f20fe30ce50aadc3488959a234038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The local file is synchronized with the server file by neovim plugin</div>",
-            "url": "https://github.com/denstiny/karasync.nvim",
-            "title": "denstiny/karasync.nvim: The local file is synchronized with the server file by neovim plugin",
-            "date_modified": "2024-05-27T06:15:17.000Z",
-            "date_published": "2024-02-27T05:19:05.000Z",
-            "author": {
-                "name": "denstiny",
-                "url": "https://github.com/denstiny"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-05-27T08:58:44.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-05-27T12:11:55.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/117501417?u=607960978d4aec08224e88810f320de30c3c6487&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My CLI based code editor(Neovim) configuration with most efficient plugins I found on the internet</div>",
-            "url": "https://github.com/NewsonUpreti/My-neovim-config",
-            "title": "NewsonUpreti/My-neovim-config: My CLI based code editor(Neovim) configuration with most efficient plugins I found on the internet",
-            "date_modified": "2024-05-27T06:01:01.000Z",
-            "date_published": "2023-11-21T15:29:55.000Z",
-            "author": {
-                "name": "NewsonUpreti",
-                "url": "https://github.com/NewsonUpreti"
             }
         }
     ]
