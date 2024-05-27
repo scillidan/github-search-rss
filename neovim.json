@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22454918?u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to visualise and resolve merge conflicts in neovim</div>",
+            "url": "https://github.com/akinsho/git-conflict.nvim",
+            "title": "akinsho/git-conflict.nvim: A plugin to visualise and resolve merge conflicts in neovim",
+            "date_modified": "2024-05-27T08:47:20.000Z",
+            "date_published": "2022-03-13T00:21:52.000Z",
+            "author": {
+                "name": "akinsho",
+                "url": "https://github.com/akinsho"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50913410?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for forester</div>",
+            "url": "https://github.com/kentookura/forester.nvim",
+            "title": "kentookura/forester.nvim: Neovim plugin for forester",
+            "date_modified": "2024-05-27T08:21:28.000Z",
+            "date_published": "2023-12-12T13:57:24.000Z",
+            "author": {
+                "name": "kentookura",
+                "url": "https://github.com/kentookura"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41967813?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling neovim plugin written in lua</div>",
             "url": "https://github.com/karb94/neoscroll.nvim",
             "title": "karb94/neoscroll.nvim: Smooth scrolling neovim plugin written in lua",
@@ -14,6 +36,17 @@
             "author": {
                 "name": "karb94",
                 "url": "https://github.com/karb94"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111564053?u=a94fe776c0edc1e00ae7bbf1ad2586bddb544f5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed</div>",
+            "url": "https://github.com/shellRaining/hlchunk.nvim",
+            "title": "shellRaining/hlchunk.nvim: This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed",
+            "date_modified": "2024-05-27T08:44:34.000Z",
+            "date_published": "2023-02-12T03:32:57.000Z",
+            "author": {
+                "name": "shellRaining",
+                "url": "https://github.com/shellRaining"
             }
         },
         {
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-05-27T07:17:25.000Z",
+            "date_modified": "2024-05-27T08:38:18.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -86,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-05-27T06:14:55.000Z",
+            "date_modified": "2024-05-27T08:58:44.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "manuuurino",
                 "url": "https://github.com/manuuurino"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
-            "url": "https://github.com/Shougo/dpp.vim",
-            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
-            "date_modified": "2024-05-27T04:00:50.000Z",
-            "date_published": "2023-08-08T23:23:02.000Z",
-            "author": {
-                "name": "Shougo",
-                "url": "https://github.com/Shougo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34254373?u=743f971be68bf4f3bcfaefa0bff9305673f50b3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best terminal you could have (well for me it is), is very similar to that of VScode.</div>",
-            "url": "https://github.com/CRAG666/betterTerm.nvim",
-            "title": "CRAG666/betterTerm.nvim: The best terminal you could have (well for me it is), is very similar to that of VScode.",
-            "date_modified": "2024-05-27T03:43:11.000Z",
-            "date_published": "2022-10-15T19:36:40.000Z",
-            "author": {
-                "name": "CRAG666",
-                "url": "https://github.com/CRAG666"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
-            "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
-            "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
-            "date_modified": "2024-05-27T03:28:12.000Z",
-            "date_published": "2023-01-07T09:43:06.000Z",
-            "author": {
-                "name": "ca-mantis-shrimp",
-                "url": "https://github.com/ca-mantis-shrimp"
             }
         }
     ]
