@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
+            "url": "https://github.com/m15a/flake-vim-plugin-analects",
+            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
+            "date_modified": "2024-05-28T01:34:54.000Z",
+            "date_published": "2024-04-11T07:27:53.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
+            "url": "https://github.com/R-nvim/R.nvim",
+            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
+            "date_modified": "2024-05-28T01:24:21.000Z",
+            "date_published": "2024-01-22T20:23:10.000Z",
+            "author": {
+                "name": "R-nvim",
+                "url": "https://github.com/R-nvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85853847?u=3dd19d3054717def615ad55ea5013d00b5def762&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>React-Boilerplate.nvim - A Neovim plugin for generating React component boilerplate code</div>",
+            "url": "https://github.com/tylerengineer/react-boilerplate.nvim",
+            "title": "tylerengineer/react-boilerplate.nvim: React-Boilerplate.nvim - A Neovim plugin for generating React component boilerplate code",
+            "date_modified": "2024-05-28T01:16:29.000Z",
+            "date_published": "2024-05-27T02:37:19.000Z",
+            "author": {
+                "name": "tylerengineer",
+                "url": "https://github.com/tylerengineer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
+            "title": "yutkat/new-neovim-plugin-with-category-rss",
+            "date_modified": "2024-05-28T01:00:04.000Z",
+            "date_published": "2023-05-24T19:57:02.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
+            "url": "https://github.com/yutkat/my-neovim-pluginlist",
+            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
+            "date_modified": "2024-05-28T00:59:31.000Z",
+            "date_published": "2022-04-17T14:53:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -75,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
             "url": "https://github.com/AstroNvim/astrocommunity",
             "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-05-27T23:53:46.000Z",
+            "date_modified": "2024-05-28T01:37:37.000Z",
             "date_published": "2023-02-21T14:55:56.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "mfussenegger",
                 "url": "https://github.com/mfussenegger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of DOs and DON'Ts for modern Neovim Lua plugin development</div>",
-            "url": "https://github.com/nvim-neorocks/nvim-best-practices",
-            "title": "nvim-neorocks/nvim-best-practices: Collection of DOs and DON'Ts for modern Neovim Lua plugin development",
-            "date_modified": "2024-05-27T22:12:03.000Z",
-            "date_published": "2024-05-14T06:45:21.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
-            "url": "https://github.com/nvim-neorocks/rocks.nvim",
-            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-05-27T20:59:56.000Z",
-            "date_published": "2023-07-05T11:24:40.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106535281?u=7cedaa4edcc8709840bdb5f6450ee9ccd772914d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Pair programming plugin for Neovim.</div>",
-            "url": "https://github.com/skeletony007/pair.nvim",
-            "title": "skeletony007/pair.nvim: Pair programming plugin for Neovim.",
-            "date_modified": "2024-05-27T18:15:47.000Z",
-            "date_published": "2024-05-26T12:18:57.000Z",
-            "author": {
-                "name": "skeletony007",
-                "url": "https://github.com/skeletony007"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47398876?u=762a6cd4ec15726e61e5b435247b1068719fb8f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple AI chat plugin for neovim</div>",
-            "url": "https://github.com/e-cal/chat.nvim",
-            "title": "e-cal/chat.nvim: Simple AI chat plugin for neovim",
-            "date_modified": "2024-05-27T17:46:02.000Z",
-            "date_published": "2024-03-21T19:12:40.000Z",
-            "author": {
-                "name": "e-cal",
-                "url": "https://github.com/e-cal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/339433?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to assist work with CSV files</div>",
-            "url": "https://github.com/emmanueltouzery/decisive.nvim",
-            "title": "emmanueltouzery/decisive.nvim: Neovim plugin to assist work with CSV files",
-            "date_modified": "2024-05-27T17:41:04.000Z",
-            "date_published": "2024-05-23T19:36:11.000Z",
-            "author": {
-                "name": "emmanueltouzery",
-                "url": "https://github.com/emmanueltouzery"
             }
         }
     ]
