@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7420227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git source for nvim-cmp</div>",
+            "url": "https://github.com/petertriho/cmp-git",
+            "title": "petertriho/cmp-git: Git source for nvim-cmp",
+            "date_modified": "2024-05-28T09:52:25.000Z",
+            "date_published": "2021-10-24T03:29:23.000Z",
+            "author": {
+                "name": "petertriho",
+                "url": "https://github.com/petertriho"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64483945?u=1cc1ba30519381f8f605057846f06f86d742784f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to simplify enabling neovim inlay hints(neovim 0.10+).</div>",
+            "url": "https://github.com/MysticalDevil/inlay-hints.nvim",
+            "title": "MysticalDevil/inlay-hints.nvim: A plugin to simplify enabling neovim inlay hints(neovim 0.10+).",
+            "date_modified": "2024-05-28T09:27:34.000Z",
+            "date_published": "2023-11-18T04:07:28.000Z",
+            "author": {
+                "name": "MysticalDevil",
+                "url": "https://github.com/MysticalDevil"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-05-28T09:19:07.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/864752?u=c8d76f76c04ac4c01e7b03c3f79b72b300325dbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to interface with Jira</div>",
+            "url": "https://github.com/kid-icarus/jira.nvim",
+            "title": "kid-icarus/jira.nvim: A neovim plugin to interface with Jira",
+            "date_modified": "2024-05-28T09:14:31.000Z",
+            "date_published": "2023-04-01T08:17:01.000Z",
+            "author": {
+                "name": "kid-icarus",
+                "url": "https://github.com/kid-icarus"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17877050?u=117e973b7671a2ce4590b520c0de7e75d18af737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings</div>",
             "url": "https://github.com/lobneroO/nvim_conf",
             "title": "lobneroO/nvim_conf: config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "lobneroO",
                 "url": "https://github.com/lobneroO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/864752?u=c8d76f76c04ac4c01e7b03c3f79b72b300325dbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to interface with Jira</div>",
-            "url": "https://github.com/kid-icarus/jira.nvim",
-            "title": "kid-icarus/jira.nvim: A neovim plugin to interface with Jira",
-            "date_modified": "2024-05-28T09:06:12.000Z",
-            "date_published": "2023-04-01T08:17:01.000Z",
-            "author": {
-                "name": "kid-icarus",
-                "url": "https://github.com/kid-icarus"
             }
         },
         {
@@ -102,17 +135,6 @@
             "author": {
                 "name": "nvimdev",
                 "url": "https://github.com/nvimdev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-05-28T05:19:01.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "thiru",
                 "url": "https://github.com/thiru"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
-            "url": "https://github.com/m15a/flake-vim-plugin-analects",
-            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
-            "date_modified": "2024-05-28T01:34:54.000Z",
-            "date_published": "2024-04-11T07:27:53.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
-            "url": "https://github.com/R-nvim/R.nvim",
-            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
-            "date_modified": "2024-05-28T01:24:21.000Z",
-            "date_published": "2024-01-22T20:23:10.000Z",
-            "author": {
-                "name": "R-nvim",
-                "url": "https://github.com/R-nvim"
             }
         }
     ]
