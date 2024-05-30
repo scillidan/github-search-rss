@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-05-30T08:57:01.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tiny plugin to enhance Neovim's native comments</div>",
+            "url": "https://github.com/folke/ts-comments.nvim",
+            "title": "folke/ts-comments.nvim: Tiny plugin to enhance Neovim's native comments",
+            "date_modified": "2024-05-30T08:35:44.000Z",
+            "date_published": "2024-05-20T21:09:01.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26099427?u=b3dd3acee623ceb11f473c74c45905d738720ad3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Highlight colors for neovim</div>",
+            "url": "https://github.com/brenoprata10/nvim-highlight-colors",
+            "title": "brenoprata10/nvim-highlight-colors: Highlight colors for neovim",
+            "date_modified": "2024-05-30T08:34:38.000Z",
+            "date_published": "2022-07-17T11:09:45.000Z",
+            "author": {
+                "name": "brenoprata10",
+                "url": "https://github.com/brenoprata10"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97511408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.</div>",
+            "url": "https://github.com/h4ckm1n-dev/kube-utils-nvim",
+            "title": "h4ckm1n-dev/kube-utils-nvim: 🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.",
+            "date_modified": "2024-05-30T08:26:56.000Z",
+            "date_published": "2024-05-10T21:31:16.000Z",
+            "author": {
+                "name": "h4ckm1n-dev",
+                "url": "https://github.com/h4ckm1n-dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29731084?u=0a8bc0f14ebab13afb750e424bda02391fe25ff2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for session and branch management</div>",
             "url": "https://github.com/elmiguel2110/drawer.nvim",
             "title": "elmiguel2110/drawer.nvim: A neovim plugin for session and branch management",
@@ -72,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tiny plugin to enhance Neovim's native comments</div>",
-            "url": "https://github.com/folke/ts-comments.nvim",
-            "title": "folke/ts-comments.nvim: Tiny plugin to enhance Neovim's native comments",
-            "date_modified": "2024-05-30T07:54:20.000Z",
-            "date_published": "2024-05-20T21:09:01.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
             "url": "https://github.com/nvim-plugnplay/database",
             "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
@@ -124,6 +157,17 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim Node.js client and plugin host</div>",
+            "url": "https://github.com/neovim/node-client",
+            "title": "neovim/node-client: Nvim Node.js client and plugin host",
+            "date_modified": "2024-05-30T08:29:22.000Z",
+            "date_published": "2015-02-11T14:23:57.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
             }
         },
         {
@@ -176,50 +220,6 @@
             "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
             "date_modified": "2024-05-30T02:07:15.000Z",
             "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160942098?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simply Neovim plugin to toggle cursor top, bottom and middle autocmds</div>",
-            "url": "https://github.com/rlychrisg/keepcursor.nvim",
-            "title": "rlychrisg/keepcursor.nvim: A simply Neovim plugin to toggle cursor top, bottom and middle autocmds",
-            "date_modified": "2024-05-30T02:24:39.000Z",
-            "date_published": "2024-05-30T00:34:27.000Z",
-            "author": {
-                "name": "rlychrisg",
-                "url": "https://github.com/rlychrisg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4988?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin and configuration management plugin, highly inspired by lazy, using nix.</div>",
-            "url": "https://github.com/lemarsu/sloth-flake.nvim",
-            "title": "lemarsu/sloth-flake.nvim: A neovim plugin and configuration management plugin, highly inspired by lazy, using nix.",
-            "date_modified": "2024-05-30T01:19:43.000Z",
-            "date_published": "2024-05-28T21:43:23.000Z",
-            "author": {
-                "name": "lemarsu",
-                "url": "https://github.com/lemarsu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7340772?u=8ea5609745e1414589d53260c4b69e5c2db5d9aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A (Neo)vim plugin for formatting code.</div>",
-            "url": "https://github.com/sbdchd/neoformat",
-            "title": "sbdchd/neoformat: :sparkles: A (Neo)vim plugin for formatting code.",
-            "date_modified": "2024-05-30T00:58:25.000Z",
-            "date_published": "2016-03-15T03:50:00.000Z",
-            "author": {
-                "name": "sbdchd",
-                "url": "https://github.com/sbdchd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
-            "url": "https://github.com/folke/noice.nvim",
-            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
-            "date_modified": "2024-05-30T08:10:40.000Z",
-            "date_published": "2022-09-21T19:32:33.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
