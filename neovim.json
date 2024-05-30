@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
+            "date_modified": "2024-05-30T14:48:36.000Z",
+            "date_published": "2024-05-04T09:33:14.000Z",
+            "author": {
+                "name": "lima1909",
+                "url": "https://github.com/lima1909"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80419299?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim/Neovim plugin for lelwel</div>",
+            "url": "https://github.com/0x2a-42/nvim-lelwel",
+            "title": "0x2a-42/nvim-lelwel: Vim/Neovim plugin for lelwel",
+            "date_modified": "2024-05-30T14:41:15.000Z",
+            "date_published": "2021-08-29T15:35:36.000Z",
+            "author": {
+                "name": "0x2a-42",
+                "url": "https://github.com/0x2a-42"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-05-30T14:23:12.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of \"small\" plugins</div>",
             "url": "https://github.com/altermo/small.nvim",
             "title": "altermo/small.nvim: A collection of \"small\" plugins",
@@ -130,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.</div>",
             "url": "https://github.com/ray-x/go.nvim",
             "title": "ray-x/go.nvim: A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.",
-            "date_modified": "2024-05-30T12:54:08.000Z",
+            "date_modified": "2024-05-30T14:32:40.000Z",
             "date_published": "2021-03-10T10:23:02.000Z",
             "author": {
                 "name": "ray-x",
@@ -152,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127350487?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Neovim plugin for Supermaven</div>",
             "url": "https://github.com/supermaven-inc/supermaven-nvim",
             "title": "supermaven-inc/supermaven-nvim: The official Neovim plugin for Supermaven",
-            "date_modified": "2024-05-30T14:04:06.000Z",
+            "date_modified": "2024-05-30T14:30:09.000Z",
             "date_published": "2024-05-08T17:37:53.000Z",
             "author": {
                 "name": "supermaven-inc",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "roobert",
                 "url": "https://github.com/roobert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139011070?u=abc315afd9a6b5feb60b837f44d414dcec06279d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins</div>",
-            "url": "https://github.com/omardoescode/nvim-dotfiles",
-            "title": "omardoescode/nvim-dotfiles: These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins",
-            "date_modified": "2024-05-30T11:47:43.000Z",
-            "date_published": "2024-05-29T09:59:28.000Z",
-            "author": {
-                "name": "omardoescode",
-                "url": "https://github.com/omardoescode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67477499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A starter template for a Neovim plugin written in Lua</div>",
-            "url": "https://github.com/nvim-lua/nvim-lua-plugin-template",
-            "title": "nvim-lua/nvim-lua-plugin-template: A starter template for a Neovim plugin written in Lua",
-            "date_modified": "2024-05-30T11:41:13.000Z",
-            "date_published": "2021-07-23T19:30:58.000Z",
-            "author": {
-                "name": "nvim-lua",
-                "url": "https://github.com/nvim-lua"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A treesitter supported autopairing plugin with extensions, and much more</div>",
-            "url": "https://github.com/altermo/ultimate-autopair.nvim",
-            "title": "altermo/ultimate-autopair.nvim: A treesitter supported autopairing plugin with extensions, and much more",
-            "date_modified": "2024-05-30T10:52:49.000Z",
-            "date_published": "2023-02-02T20:38:20.000Z",
-            "author": {
-                "name": "altermo",
-                "url": "https://github.com/altermo"
             }
         }
     ]
