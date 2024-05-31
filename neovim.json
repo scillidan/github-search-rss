@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2261839?u=58e78b1a911533b43c117eb6a6976521696d3e01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Navigate from Neovim to GitHub quickly with this plugin</div>",
+            "url": "https://github.com/wassimk/gh-navigator.nvim",
+            "title": "wassimk/gh-navigator.nvim: Navigate from Neovim to GitHub quickly with this plugin",
+            "date_modified": "2024-05-31T05:04:23.000Z",
+            "date_published": "2024-05-26T19:04:08.000Z",
+            "author": {
+                "name": "wassimk",
+                "url": "https://github.com/wassimk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-05-31T05:00:30.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-05-31T04:59:41.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3581973?u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a delightful mostly grayscale colorscheme thats soft on the eyes, and supports heaps of neovim plugins</div>",
+            "url": "https://github.com/slugbyte/lackluster.nvim",
+            "title": "slugbyte/lackluster.nvim: a delightful mostly grayscale colorscheme thats soft on the eyes, and supports heaps of neovim plugins",
+            "date_modified": "2024-05-31T04:28:24.000Z",
+            "date_published": "2024-05-20T10:19:15.000Z",
+            "author": {
+                "name": "slugbyte",
+                "url": "https://github.com/slugbyte"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65824523?u=3b9929af080629f6b3965ff2c9b3b115c0159231&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for setting motion and visual selection endpoints</div>",
             "url": "https://github.com/vanaigr/motion.nvim",
             "title": "vanaigr/motion.nvim: Neovim plugin for setting motion and visual selection endpoints",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "vanaigr",
                 "url": "https://github.com/vanaigr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3581973?u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a delightful mostly grayscale colorscheme thats soft on the eyes, and supports heaps of neovim plugins</div>",
-            "url": "https://github.com/slugbyte/lackluster.nvim",
-            "title": "slugbyte/lackluster.nvim: a delightful mostly grayscale colorscheme thats soft on the eyes, and supports heaps of neovim plugins",
-            "date_modified": "2024-05-31T03:55:26.000Z",
-            "date_published": "2024-05-20T10:19:15.000Z",
-            "author": {
-                "name": "slugbyte",
-                "url": "https://github.com/slugbyte"
             }
         },
         {
@@ -80,17 +113,6 @@
             "author": {
                 "name": "niuiic",
                 "url": "https://github.com/niuiic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-05-31T02:06:08.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12659034?u=1a2f355b9ba3733035574f989a9b8efabbd22e63&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows easy deployment of source files through SFTP or Rsync.</div>",
-            "url": "https://github.com/iFarmGolems/deploy.nvim",
-            "title": "iFarmGolems/deploy.nvim: Neovim plugin that allows easy deployment of source files through SFTP or Rsync.",
-            "date_modified": "2024-05-30T23:56:40.000Z",
-            "date_published": "2024-05-28T14:06:38.000Z",
-            "author": {
-                "name": "iFarmGolems",
-                "url": "https://github.com/iFarmGolems"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
-            "url": "https://github.com/nvim-neorocks/rocks.nvim",
-            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-05-30T23:20:54.000Z",
-            "date_published": "2023-07-05T11:24:40.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
             }
         }
     ]
