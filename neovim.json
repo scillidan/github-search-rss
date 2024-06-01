@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-06-01T19:08:37.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50913410?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for forester</div>",
+            "url": "https://github.com/kentookura/forester.nvim",
+            "title": "kentookura/forester.nvim: Neovim plugin for forester",
+            "date_modified": "2024-06-01T19:07:23.000Z",
+            "date_published": "2023-12-12T13:57:24.000Z",
+            "author": {
+                "name": "kentookura",
+                "url": "https://github.com/kentookura"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84726450?u=a33a58ea5575f852585cf8eecc2254a2a9ba55b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A highly configurable input method(im) auto-switch plugin for neovim</div>",
+            "url": "https://github.com/Old-Farmer/im-autoswitch.nvim",
+            "title": "Old-Farmer/im-autoswitch.nvim: A highly configurable input method(im) auto-switch plugin for neovim",
+            "date_modified": "2024-06-01T18:56:39.000Z",
+            "date_published": "2024-05-31T08:17:12.000Z",
+            "author": {
+                "name": "Old-Farmer",
+                "url": "https://github.com/Old-Farmer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/overseer.nvim",
+            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
+            "date_modified": "2024-06-01T18:40:56.000Z",
+            "date_published": "2022-05-18T00:03:58.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9076885?u=2e6ae61bcee056e7e15cbf7fc81c1de3f8dcb87f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mongodn.nvim mongo client ui plugin for neovim</div>",
+            "url": "https://github.com/donus3/mongodb.nvim",
+            "title": "donus3/mongodb.nvim: mongodn.nvim mongo client ui plugin for neovim",
+            "date_modified": "2024-06-01T18:52:44.000Z",
+            "date_published": "2024-05-26T13:30:45.000Z",
+            "author": {
+                "name": "donus3",
+                "url": "https://github.com/donus3"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23341710?u=d99141ca3f57d4bf87cb4e5597d140359f73a02e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Clipboard manager neovim plugin with telescope integration</div>",
             "url": "https://github.com/AckslD/nvim-neoclip.lua",
             "title": "AckslD/nvim-neoclip.lua: Clipboard manager neovim plugin with telescope integration",
@@ -75,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-01T17:12:19.000Z",
+            "date_modified": "2024-06-01T18:38:55.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "notomo",
                 "url": "https://github.com/notomo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111601320?u=3f7aa88daa9aa62dab8dba9f7ae74581e0e20a74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Notion API wrapper for Neovim</div>",
-            "url": "https://github.com/Al0den/notion.nvim",
-            "title": "Al0den/notion.nvim: Notion API wrapper for Neovim",
-            "date_modified": "2024-06-01T13:06:48.000Z",
-            "date_published": "2023-04-07T06:58:26.000Z",
-            "author": {
-                "name": "Al0den",
-                "url": "https://github.com/Al0den"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74842863?u=7cc69730fb9fff071c5a16c7ae9f97caead058bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin helping you establish good command workflow and quit bad habit</div>",
-            "url": "https://github.com/m4xshen/hardtime.nvim",
-            "title": "m4xshen/hardtime.nvim: A Neovim plugin helping you establish good command workflow and quit bad habit",
-            "date_modified": "2024-06-01T12:22:00.000Z",
-            "date_published": "2023-04-24T17:38:50.000Z",
-            "author": {
-                "name": "m4xshen",
-                "url": "https://github.com/m4xshen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
-            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
-            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
-            "date_modified": "2024-06-01T12:10:53.000Z",
-            "date_published": "2024-03-10T11:54:02.000Z",
-            "author": {
-                "name": "ttak0422",
-                "url": "https://github.com/ttak0422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-06-01T12:09:00.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73286100?u=1302c813e30231fdc7f3661b3af69bb9b0d8ef30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Search neovim plugins and online :help via Alfred</div>",
-            "url": "https://github.com/chrisgrieser/alfred-neovim-utilities",
-            "title": "chrisgrieser/alfred-neovim-utilities: Search neovim plugins and online :help via Alfred",
-            "date_modified": "2024-06-01T12:06:02.000Z",
-            "date_published": "2022-11-27T10:48:31.000Z",
-            "author": {
-                "name": "chrisgrieser",
-                "url": "https://github.com/chrisgrieser"
             }
         }
     ]
