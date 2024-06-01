@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31372378?u=faf4bb26e97e16bae7c90c2b0848d037de3bd189&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim/tmux/kitty plugin to provide a consistent set of hotkeys to move between vim/neovim, tmux and kitty panes</div>",
+            "url": "https://github.com/excited-bore/vim-tmux-kitty-navigator",
+            "title": "excited-bore/vim-tmux-kitty-navigator: A vim/tmux/kitty plugin to provide a consistent set of hotkeys to move between vim/neovim, tmux and kitty panes",
+            "date_modified": "2024-06-01T22:02:35.000Z",
+            "date_published": "2024-01-22T02:01:13.000Z",
+            "author": {
+                "name": "excited-bore",
+                "url": "https://github.com/excited-bore"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-01T21:13:41.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52346246?u=4e500c2195cbb526ed506246eadab66d56e13c1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple plugin to allow alignment over multiple lines.</div>",
             "url": "https://github.com/jokesper/align.nvim",
             "title": "jokesper/align.nvim: A simple plugin to allow alignment over multiple lines.",
@@ -14,6 +36,17 @@
             "author": {
                 "name": "jokesper",
                 "url": "https://github.com/jokesper"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A treesitter supported autopairing plugin with extensions, and much more</div>",
+            "url": "https://github.com/altermo/ultimate-autopair.nvim",
+            "title": "altermo/ultimate-autopair.nvim: A treesitter supported autopairing plugin with extensions, and much more",
+            "date_modified": "2024-06-01T21:29:10.000Z",
+            "date_published": "2023-02-02T20:38:20.000Z",
+            "author": {
+                "name": "altermo",
+                "url": "https://github.com/altermo"
             }
         },
         {
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127350487?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Neovim plugin for Supermaven</div>",
             "url": "https://github.com/supermaven-inc/supermaven-nvim",
             "title": "supermaven-inc/supermaven-nvim: The official Neovim plugin for Supermaven",
-            "date_modified": "2024-06-01T20:26:25.000Z",
+            "date_modified": "2024-06-01T21:55:47.000Z",
             "date_published": "2024-05-08T17:37:53.000Z",
             "author": {
                 "name": "supermaven-inc",
@@ -91,6 +124,17 @@
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
+            "url": "https://github.com/nvim-lualine/lualine.nvim",
+            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+            "date_modified": "2024-06-01T21:24:01.000Z",
+            "date_published": "2020-12-30T14:35:10.000Z",
+            "author": {
+                "name": "nvim-lualine",
+                "url": "https://github.com/nvim-lualine"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "AckslD",
                 "url": "https://github.com/AckslD"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12221141?u=568c85ceeae77747245a16b06abd6d0ec5354e5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin used to synchronize active note and scroll position between neovim and obsidian</div>",
-            "url": "https://github.com/oflisback/obsidian-bridge.nvim",
-            "title": "oflisback/obsidian-bridge.nvim: A neovim plugin used to synchronize active note and scroll position between neovim and obsidian",
-            "date_modified": "2024-06-01T17:56:12.000Z",
-            "date_published": "2023-09-17T16:17:18.000Z",
-            "author": {
-                "name": "oflisback",
-                "url": "https://github.com/oflisback"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129792323?u=493bccd8e44a4ad82c35e37724bbb5e6c027d9f0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Template for Neovim plugins</div>",
-            "url": "https://github.com/tim-kuntz/plugin-template.nvim",
-            "title": "tim-kuntz/plugin-template.nvim: Template for Neovim plugins",
-            "date_modified": "2024-06-01T17:41:35.000Z",
-            "date_published": "2024-05-31T16:37:29.000Z",
-            "author": {
-                "name": "tim-kuntz",
-                "url": "https://github.com/tim-kuntz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
-            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
-            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
-            "date_modified": "2024-06-01T17:20:51.000Z",
-            "date_published": "2021-12-11T08:13:56.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-06-01T17:17:00.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         }
     ]
