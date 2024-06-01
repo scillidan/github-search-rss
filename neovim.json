@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-06-01T10:55:39.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76241135?u=c616a84dc0b844404280b9b48030562eb8bd8bc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A completion plugin for neovim.</div>",
+            "url": "https://github.com/brianaung/autocompl.nvim",
+            "title": "brianaung/autocompl.nvim: A completion plugin for neovim.",
+            "date_modified": "2024-06-01T10:59:44.000Z",
+            "date_published": "2024-06-01T10:52:25.000Z",
+            "author": {
+                "name": "brianaung",
+                "url": "https://github.com/brianaung"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24732205?u=7d3142d41e11b48de83819b47a24b2e23fb28933&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim/Neovim plugin for working with CMake projects</div>",
+            "url": "https://github.com/cdelledonne/vim-cmake",
+            "title": "cdelledonne/vim-cmake: Vim/Neovim plugin for working with CMake projects",
+            "date_modified": "2024-06-01T10:49:41.000Z",
+            "date_published": "2020-05-09T13:41:16.000Z",
+            "author": {
+                "name": "cdelledonne",
+                "url": "https://github.com/cdelledonne"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31414624?u=c8aee74894b58e57790932368797611bd65fbf29&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to interact with Spotify directly from our beautiful editor :)</div>",
+            "url": "https://github.com/alfredosa/spotify.nvim",
+            "title": "alfredosa/spotify.nvim: A neovim plugin to interact with Spotify directly from our beautiful editor :)",
+            "date_modified": "2024-06-01T10:48:50.000Z",
+            "date_published": "2024-05-26T15:40:36.000Z",
+            "author": {
+                "name": "alfredosa",
+                "url": "https://github.com/alfredosa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12528765?u=20f7c7b958fd28962804f7295cc5e2e6f68ea9ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple plugin to add a Tmux-like zoom functionality to Neovim</div>",
+            "url": "https://github.com/fasterius/simple-zoom.nvim",
+            "title": "fasterius/simple-zoom.nvim: A simple plugin to add a Tmux-like zoom functionality to Neovim",
+            "date_modified": "2024-06-01T10:45:29.000Z",
+            "date_published": "2024-03-14T10:41:00.000Z",
+            "author": {
+                "name": "fasterius",
+                "url": "https://github.com/fasterius"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61856080?u=c8ede4593ffe56679a13700a265a3af8fdf2cab9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Picture In Markdown. A plugin written in Lua for Neovim to paste images from clipboard.</div>",
             "url": "https://github.com/mistgc/pinmd.nvim",
             "title": "mistgc/pinmd.nvim: Picture In Markdown. A plugin written in Lua for Neovim to paste images from clipboard.",
-            "date_modified": "2024-06-01T09:49:18.000Z",
+            "date_modified": "2024-06-01T10:40:08.000Z",
             "date_published": "2023-07-22T10:48:01.000Z",
             "author": {
                 "name": "mistgc",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "tim-kuntz",
                 "url": "https://github.com/tim-kuntz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1324601?u=2465d6619f67aec51a1c90f404135b611e1fd003&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GPTModels - a stable, clean, multi model, window based LLM AI plugin for neovim</div>",
-            "url": "https://github.com/Aaronik/GPTModels.nvim",
-            "title": "Aaronik/GPTModels.nvim: GPTModels - a stable, clean, multi model, window based LLM AI plugin for neovim",
-            "date_modified": "2024-06-01T03:57:37.000Z",
-            "date_published": "2024-03-26T19:57:22.000Z",
-            "author": {
-                "name": "Aaronik",
-                "url": "https://github.com/Aaronik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45423661?u=ccf81baa557331e76b4377d2f274164081cd1919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to share the filename and line where your cursor in code is</div>",
-            "url": "https://github.com/diegoulloao/nvim-file-location",
-            "title": "diegoulloao/nvim-file-location: neovim plugin to share the filename and line where your cursor in code is",
-            "date_modified": "2024-06-01T02:58:19.000Z",
-            "date_published": "2022-11-05T17:35:03.000Z",
-            "author": {
-                "name": "diegoulloao",
-                "url": "https://github.com/diegoulloao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45423661?u=ccf81baa557331e76b4377d2f274164081cd1919&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nvim theme blending lava red and ice blue for a vibrant coding experience ✨</div>",
-            "url": "https://github.com/diegoulloao/neofusion.nvim",
-            "title": "diegoulloao/neofusion.nvim: nvim theme blending lava red and ice blue for a vibrant coding experience ✨",
-            "date_modified": "2024-06-01T08:47:01.000Z",
-            "date_published": "2024-05-20T20:41:35.000Z",
-            "author": {
-                "name": "diegoulloao",
-                "url": "https://github.com/diegoulloao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
-            "url": "https://github.com/benlubas/molten-nvim",
-            "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
-            "date_modified": "2024-06-01T02:25:37.000Z",
-            "date_published": "2023-10-05T18:25:49.000Z",
-            "author": {
-                "name": "benlubas",
-                "url": "https://github.com/benlubas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-06-01T01:29:05.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
             }
         }
     ]
