@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53278269?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)</div>",
+            "url": "https://github.com/dense-analysis/neural",
+            "title": "dense-analysis/neural: AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)",
+            "date_modified": "2024-06-02T13:08:37.000Z",
+            "date_published": "2022-12-21T23:51:53.000Z",
+            "author": {
+                "name": "dense-analysis",
+                "url": "https://github.com/dense-analysis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123140?u=b01a7fb21b31d1edc5f4f66ba546a589c8ddc1db&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My vim setup in desperate need of plugin detox…</div>",
+            "url": "https://github.com/obreitwi/dot_vim",
+            "title": "obreitwi/dot_vim: My vim setup in desperate need of plugin detox…",
+            "date_modified": "2024-06-02T12:40:25.000Z",
+            "date_published": "2013-09-04T11:54:56.000Z",
+            "author": {
+                "name": "obreitwi",
+                "url": "https://github.com/obreitwi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53395609?u=cf2c6a27d9f10e75601a2aa0284880c23003b325&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitHub Copilot plugin for Typora on both Windows, macOS and Linux, provided through Copilot.vim.</div>",
+            "url": "https://github.com/Snowflyt/typora-copilot",
+            "title": "Snowflyt/typora-copilot: GitHub Copilot plugin for Typora on both Windows, macOS and Linux, provided through Copilot.vim.",
+            "date_modified": "2024-06-02T12:20:49.000Z",
+            "date_published": "2023-12-11T17:55:04.000Z",
+            "author": {
+                "name": "Snowflyt",
+                "url": "https://github.com/Snowflyt"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5419011?u=e3e8394305ebe3717869bf3a7a64fe476fd12315&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔨 Minimal Toolset for Vim as Plugin</div>",
             "url": "https://github.com/Jeanhwea/vim-minitool",
             "title": "Jeanhwea/vim-minitool: 🔨 Minimal Toolset for Vim as Plugin",
@@ -14,17 +47,6 @@
             "author": {
                 "name": "Jeanhwea",
                 "url": "https://github.com/Jeanhwea"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53395609?u=cf2c6a27d9f10e75601a2aa0284880c23003b325&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitHub Copilot plugin for Typora on both Windows, macOS and Linux, provided through Copilot.vim.</div>",
-            "url": "https://github.com/Snowflyt/typora-copilot",
-            "title": "Snowflyt/typora-copilot: GitHub Copilot plugin for Typora on both Windows, macOS and Linux, provided through Copilot.vim.",
-            "date_modified": "2024-06-02T11:29:41.000Z",
-            "date_published": "2023-12-11T17:55:04.000Z",
-            "author": {
-                "name": "Snowflyt",
-                "url": "https://github.com/Snowflyt"
             }
         },
         {
@@ -86,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to improve the default vim.ui interfaces</div>",
             "url": "https://github.com/stevearc/dressing.nvim",
             "title": "stevearc/dressing.nvim: Neovim plugin to improve the default vim.ui interfaces",
-            "date_modified": "2024-06-02T02:27:50.000Z",
+            "date_modified": "2024-06-02T12:35:18.000Z",
             "date_published": "2021-12-03T01:43:51.000Z",
             "author": {
                 "name": "stevearc",
@@ -198,28 +220,6 @@
             "title": "lukelbd/vim-scrollwrapped: 🎡 A plugin for scrolling through vim documents with heavily wrapped lines",
             "date_modified": "2024-06-01T18:26:08.000Z",
             "date_published": "2019-04-18T20:26:45.000Z",
-            "author": {
-                "name": "lukelbd",
-                "url": "https://github.com/lukelbd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19657652?u=cfecbd7ac3d853d03eb0802d9135589070c1e228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦾 A plugin adding exubertant ctags and universal-ctags integration to vim</div>",
-            "url": "https://github.com/lukelbd/vim-tags",
-            "title": "lukelbd/vim-tags: 🦾 A plugin adding exubertant ctags and universal-ctags integration to vim",
-            "date_modified": "2024-06-01T18:18:24.000Z",
-            "date_published": "2019-04-18T22:34:25.000Z",
-            "author": {
-                "name": "lukelbd",
-                "url": "https://github.com/lukelbd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19657652?u=cfecbd7ac3d853d03eb0802d9135589070c1e228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>1️⃣ Plugin for toggling \"boolean-ish\" things on and off</div>",
-            "url": "https://github.com/lukelbd/vim-toggle",
-            "title": "lukelbd/vim-toggle: 1️⃣ Plugin for toggling \"boolean-ish\" things on and off",
-            "date_modified": "2024-06-01T18:13:58.000Z",
-            "date_published": "2019-04-18T20:56:07.000Z",
             "author": {
                 "name": "lukelbd",
                 "url": "https://github.com/lukelbd"
