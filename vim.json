@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46231?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My ~/.vim directory, with custom plugins and filetype configurations - everything that is not installed by plug</div>",
+            "url": "https://github.com/lpenz/dotvim",
+            "title": "lpenz/dotvim: My ~/.vim directory, with custom plugins and filetype configurations - everything that is not installed by plug",
+            "date_modified": "2024-06-02T18:41:13.000Z",
+            "date_published": "2015-05-24T18:31:17.000Z",
+            "author": {
+                "name": "lpenz",
+                "url": "https://github.com/lpenz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1004455?u=453f95f0e6ffba92cb58b862d5ef591a047c3cf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.</div>",
+            "url": "https://github.com/rafaelromao/keyboards",
+            "title": "rafaelromao/keyboards: A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.",
+            "date_modified": "2024-06-02T18:41:09.000Z",
+            "date_published": "2022-01-11T15:05:34.000Z",
+            "author": {
+                "name": "rafaelromao",
+                "url": "https://github.com/rafaelromao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75865258?u=b2c450ac9b69af0e67cf36e189c95a89caeb61ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>pure-go vim plugin management</div>",
+            "url": "https://github.com/samjtro/vplug",
+            "title": "samjtro/vplug: pure-go vim plugin management",
+            "date_modified": "2024-06-02T18:27:18.000Z",
+            "date_published": "2024-06-02T04:07:01.000Z",
+            "author": {
+                "name": "samjtro",
+                "url": "https://github.com/samjtro"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38392952?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A  vim9 fuzzy finder plugin with minimal dependency and mordern UI</div>",
             "url": "https://github.com/Donaldttt/fuzzyy",
             "title": "Donaldttt/fuzzyy: A  vim9 fuzzy finder plugin with minimal dependency and mordern UI",
@@ -17,21 +50,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1004455?u=453f95f0e6ffba92cb58b862d5ef591a047c3cf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.</div>",
-            "url": "https://github.com/rafaelromao/keyboards",
-            "title": "rafaelromao/keyboards: A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins.",
-            "date_modified": "2024-06-02T14:48:26.000Z",
-            "date_published": "2022-01-11T15:05:34.000Z",
-            "author": {
-                "name": "rafaelromao",
-                "url": "https://github.com/rafaelromao"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-06-02T14:43:38.000Z",
+            "date_modified": "2024-06-02T18:56:24.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -130,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!</div>",
             "url": "https://github.com/declancm/cinnamon.nvim",
             "title": "declancm/cinnamon.nvim: Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!",
-            "date_modified": "2024-06-02T08:40:11.000Z",
+            "date_modified": "2024-06-02T18:42:37.000Z",
             "date_published": "2022-02-28T23:30:26.000Z",
             "author": {
                 "name": "declancm",
@@ -157,17 +179,6 @@
             "author": {
                 "name": "samsze0",
                 "url": "https://github.com/samsze0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75865258?u=b2c450ac9b69af0e67cf36e189c95a89caeb61ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>manage my vim plugins</div>",
-            "url": "https://github.com/samjtro/vplug",
-            "title": "samjtro/vplug: manage my vim plugins",
-            "date_modified": "2024-06-02T04:07:04.000Z",
-            "date_published": "2024-06-02T04:07:01.000Z",
-            "author": {
-                "name": "samjtro",
-                "url": "https://github.com/samjtro"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "daUnknownCoder",
                 "url": "https://github.com/daUnknownCoder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21080902?u=8f647ae27895074f61ebe8be67e4f305b34195a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. </div>",
-            "url": "https://github.com/felpafel/inlay-hint.nvim",
-            "title": "felpafel/inlay-hint.nvim: Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. ",
-            "date_modified": "2024-06-02T01:05:43.000Z",
-            "date_published": "2024-03-23T00:34:24.000Z",
-            "author": {
-                "name": "felpafel",
-                "url": "https://github.com/felpafel"
             }
         }
     ]
