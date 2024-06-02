@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-06-02T01:18:43.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
+            "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
+            "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
+            "date_modified": "2024-06-02T01:16:06.000Z",
+            "date_published": "2023-01-07T09:43:06.000Z",
+            "author": {
+                "name": "ca-mantis-shrimp",
+                "url": "https://github.com/ca-mantis-shrimp"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21080902?u=8f647ae27895074f61ebe8be67e4f305b34195a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. </div>",
+            "url": "https://github.com/felpafel/inlay-hint.nvim",
+            "title": "felpafel/inlay-hint.nvim: Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. ",
+            "date_modified": "2024-06-02T01:05:43.000Z",
+            "date_published": "2024-03-23T00:34:24.000Z",
+            "author": {
+                "name": "felpafel",
+                "url": "https://github.com/felpafel"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
             "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
             "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
@@ -69,6 +102,17 @@
             "author": {
                 "name": "stevearc",
                 "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128740042?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Elixir</div>",
+            "url": "https://github.com/elixir-tools/elixir-tools.nvim",
+            "title": "elixir-tools/elixir-tools.nvim: Neovim plugin for Elixir",
+            "date_modified": "2024-06-02T00:49:31.000Z",
+            "date_published": "2022-03-23T13:10:50.000Z",
+            "author": {
+                "name": "elixir-tools",
+                "url": "https://github.com/elixir-tools"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "festeh",
                 "url": "https://github.com/festeh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111601320?u=3f7aa88daa9aa62dab8dba9f7ae74581e0e20a74&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Notion API wrapper for Neovim</div>",
-            "url": "https://github.com/Al0den/notion.nvim",
-            "title": "Al0den/notion.nvim: Notion API wrapper for Neovim",
-            "date_modified": "2024-06-01T19:53:34.000Z",
-            "date_published": "2023-04-07T06:58:26.000Z",
-            "author": {
-                "name": "Al0den",
-                "url": "https://github.com/Al0den"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78494833?u=5176752bc3584121640cfa4932ea700e6d926da1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>tgpt plugin for neovim</div>",
-            "url": "https://github.com/GhoulBoii/tgpt.nvim",
-            "title": "GhoulBoii/tgpt.nvim: tgpt plugin for neovim",
-            "date_modified": "2024-06-01T19:52:22.000Z",
-            "date_published": "2024-06-01T19:52:19.000Z",
-            "author": {
-                "name": "GhoulBoii",
-                "url": "https://github.com/GhoulBoii"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51069488?u=ecdfded359a317cb27b429e02a2360ee4b035223&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins</div>",
-            "url": "https://github.com/cirofabianbermudez/nvim",
-            "title": "cirofabianbermudez/nvim: Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins",
-            "date_modified": "2024-06-01T19:42:34.000Z",
-            "date_published": "2024-03-23T12:20:18.000Z",
-            "author": {
-                "name": "cirofabianbermudez",
-                "url": "https://github.com/cirofabianbermudez"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127350487?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Neovim plugin for Supermaven</div>",
-            "url": "https://github.com/supermaven-inc/supermaven-nvim",
-            "title": "supermaven-inc/supermaven-nvim: The official Neovim plugin for Supermaven",
-            "date_modified": "2024-06-02T00:35:12.000Z",
-            "date_published": "2024-05-08T17:37:53.000Z",
-            "author": {
-                "name": "supermaven-inc",
-                "url": "https://github.com/supermaven-inc"
             }
         }
     ]
