@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file browser</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45842304?u=9c759934e29425799bd94c0454c3904b3bb755bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A colorscheme plugin for Neovim</div>",
+            "url": "https://github.com/tar80/loose.nvim",
+            "title": "tar80/loose.nvim: A colorscheme plugin for Neovim",
+            "date_modified": "2024-06-03T13:06:59.000Z",
+            "date_published": "2023-09-13T13:05:07.000Z",
+            "author": {
+                "name": "tar80",
+                "url": "https://github.com/tar80"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17877050?u=117e973b7671a2ce4590b520c0de7e75d18af737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings</div>",
+            "url": "https://github.com/lobneroO/nvim_conf",
+            "title": "lobneroO/nvim_conf: config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings",
+            "date_modified": "2024-06-03T12:45:06.000Z",
+            "date_published": "2024-02-04T13:47:18.000Z",
+            "author": {
+                "name": "lobneroO",
+                "url": "https://github.com/lobneroO"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82267684?u=4ebe86e71117697244081c1863d81312978362d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Color picker and highlighter plugin for Neovim.</div>",
+            "url": "https://github.com/uga-rosa/ccc.nvim",
+            "title": "uga-rosa/ccc.nvim: Color picker and highlighter plugin for Neovim.",
+            "date_modified": "2024-06-03T12:39:35.000Z",
+            "date_published": "2022-09-13T19:33:58.000Z",
+            "author": {
+                "name": "uga-rosa",
+                "url": "https://github.com/uga-rosa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84726450?u=a33a58ea5575f852585cf8eecc2254a2a9ba55b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A highly configurable and expansible input method(im) auto-switch plugin for neovim</div>",
+            "url": "https://github.com/Old-Farmer/im-autoswitch.nvim",
+            "title": "Old-Farmer/im-autoswitch.nvim: A highly configurable and expansible input method(im) auto-switch plugin for neovim",
+            "date_modified": "2024-06-03T12:35:57.000Z",
+            "date_published": "2024-05-31T08:17:12.000Z",
+            "author": {
+                "name": "Old-Farmer",
+                "url": "https://github.com/Old-Farmer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
             "url": "https://github.com/mikavilpas/yazi.nvim",
-            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file browser",
-            "date_modified": "2024-06-03T12:13:42.000Z",
+            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
+            "date_modified": "2024-06-03T12:22:50.000Z",
             "date_published": "2024-02-25T13:33:19.000Z",
             "author": {
                 "name": "mikavilpas",
@@ -86,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7420227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extensible Neovim Scrollbar</div>",
             "url": "https://github.com/petertriho/nvim-scrollbar",
             "title": "petertriho/nvim-scrollbar: Extensible Neovim Scrollbar",
-            "date_modified": "2024-06-03T09:18:06.000Z",
+            "date_modified": "2024-06-03T12:26:41.000Z",
             "date_published": "2022-01-07T03:03:06.000Z",
             "author": {
                 "name": "petertriho",
@@ -141,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-03T12:09:20.000Z",
+            "date_modified": "2024-06-03T13:07:22.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "niuiic",
                 "url": "https://github.com/niuiic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97511408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.</div>",
-            "url": "https://github.com/h4ckm1n-dev/kube-utils-nvim",
-            "title": "h4ckm1n-dev/kube-utils-nvim: 🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.",
-            "date_modified": "2024-06-03T06:58:57.000Z",
-            "date_published": "2024-05-10T21:31:16.000Z",
-            "author": {
-                "name": "h4ckm1n-dev",
-                "url": "https://github.com/h4ckm1n-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4208028?u=56c3b4434a83a07b41a5a27daf7751973cdd5102&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!</div>",
-            "url": "https://github.com/nanozuki/tabby.nvim",
-            "title": "nanozuki/tabby.nvim: A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!",
-            "date_modified": "2024-06-03T06:36:49.000Z",
-            "date_published": "2021-09-24T03:48:51.000Z",
-            "author": {
-                "name": "nanozuki",
-                "url": "https://github.com/nanozuki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94317938?u=f8021932f4f0646a4b609aa6494d6a022b1e3376&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal Neovim configuration. Includes syntax highlighting, autocompletion, code linting, git integration, filesystem integration, and other useful plugins.</div>",
-            "url": "https://github.com/cshmookler/config.nvim",
-            "title": "cshmookler/config.nvim: My personal Neovim configuration. Includes syntax highlighting, autocompletion, code linting, git integration, filesystem integration, and other useful plugins.",
-            "date_modified": "2024-06-03T05:37:48.000Z",
-            "date_published": "2023-10-22T06:58:15.000Z",
-            "author": {
-                "name": "cshmookler",
-                "url": "https://github.com/cshmookler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1324601?u=2465d6619f67aec51a1c90f404135b611e1fd003&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GPTModels - a stable, clean, multi model, window based LLM AI plugin for neovim</div>",
-            "url": "https://github.com/Aaronik/GPTModels.nvim",
-            "title": "Aaronik/GPTModels.nvim: GPTModels - a stable, clean, multi model, window based LLM AI plugin for neovim",
-            "date_modified": "2024-06-03T05:35:50.000Z",
-            "date_published": "2024-03-26T19:57:22.000Z",
-            "author": {
-                "name": "Aaronik",
-                "url": "https://github.com/Aaronik"
             }
         }
     ]
