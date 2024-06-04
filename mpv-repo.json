@@ -6,10 +6,65 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
+            "url": "https://github.com/zhongfly/mpv-winbuild",
+            "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
+            "date_modified": "2024-06-04T07:07:35.000Z",
+            "date_published": "2021-10-01T08:09:13.000Z",
+            "author": {
+                "name": "zhongfly",
+                "url": "https://github.com/zhongfly"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92977828?u=3f2f7d01efef08982487de0665467b662d7a7393&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nix flakes for my system (light wip)</div>",
+            "url": "https://github.com/71zenith/nix-dots",
+            "title": "71zenith/nix-dots: nix flakes for my system (light wip)",
+            "date_modified": "2024-06-04T06:43:36.000Z",
+            "date_published": "2024-02-09T12:47:53.000Z",
+            "author": {
+                "name": "71zenith",
+                "url": "https://github.com/71zenith"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>switch portlibs for mpv</div>",
+            "url": "https://github.com/dragonflylee/mpv-portlibs",
+            "title": "dragonflylee/mpv-portlibs: switch portlibs for mpv",
+            "date_modified": "2024-06-04T06:34:18.000Z",
+            "date_published": "2024-04-19T02:20:08.000Z",
+            "author": {
+                "name": "dragonflylee",
+                "url": "https://github.com/dragonflylee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7908073?u=1157429b1969cf3895076471546b60bf1748724b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>70+ CLI tools to build, browse, and blend your media library. An index for your archive.</div>",
+            "url": "https://github.com/chapmanjacobd/library",
+            "title": "chapmanjacobd/library: 70+ CLI tools to build, browse, and blend your media library. An index for your archive.",
+            "date_modified": "2024-06-04T06:32:12.000Z",
+            "date_published": "2021-12-05T06:37:19.000Z",
+            "author": {
+                "name": "chapmanjacobd",
+                "url": "https://github.com/chapmanjacobd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6219280?u=26a64417e451557813b761c2dfaa5c6b829b61a6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Third-party native Jellyfin client for Nintendo Switch</div>",
+            "url": "https://github.com/dragonflylee/switchfin",
+            "title": "dragonflylee/switchfin: Third-party native Jellyfin client for Nintendo Switch",
+            "date_modified": "2024-06-04T06:30:11.000Z",
+            "date_published": "2023-06-12T08:40:59.000Z",
+            "author": {
+                "name": "dragonflylee",
+                "url": "https://github.com/dragonflylee"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18324369?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C-Play is a cluster-based video/image/audio player, utilizing MPV as media player engine,  SGCT for master/client cluster support, and Qt/QML for master UI.</div>",
             "url": "https://github.com/c-toolbox/C-Play",
             "title": "c-toolbox/C-Play: C-Play is a cluster-based video/image/audio player, utilizing MPV as media player engine,  SGCT for master/client cluster support, and Qt/QML for master UI.",
-            "date_modified": "2024-06-04T06:06:56.000Z",
+            "date_modified": "2024-06-04T06:23:54.000Z",
             "date_published": "2021-04-01T13:39:28.000Z",
             "author": {
                 "name": "c-toolbox",
@@ -58,17 +113,6 @@
             "author": {
                 "name": "nurupo",
                 "url": "https://github.com/nurupo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
-            "url": "https://github.com/zhongfly/mpv-winbuild",
-            "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
-            "date_modified": "2024-06-04T04:31:35.000Z",
-            "date_published": "2021-10-01T08:09:13.000Z",
-            "author": {
-                "name": "zhongfly",
-                "url": "https://github.com/zhongfly"
             }
         },
         {
@@ -141,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35151645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The modern video player for macOS.</div>",
             "url": "https://github.com/iina/iina",
             "title": "iina/iina: The modern video player for macOS.",
-            "date_modified": "2024-06-04T04:43:51.000Z",
+            "date_modified": "2024-06-04T07:09:04.000Z",
             "date_published": "2016-12-19T07:18:45.000Z",
             "author": {
                 "name": "iina",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "BazzaCuda",
                 "url": "https://github.com/BazzaCuda"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96212687?u=1ebce8ca0d9fd48d62345eac844650c34e753f5d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My mpv config</div>",
-            "url": "https://github.com/xzi/mpv",
-            "title": "xzi/mpv: My mpv config",
-            "date_modified": "2024-06-03T21:18:55.000Z",
-            "date_published": "2024-06-02T21:09:12.000Z",
-            "author": {
-                "name": "xzi",
-                "url": "https://github.com/xzi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143771512?u=87d8e87c5b68d49c914e08ff6209de0ef6905ee5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vicious Viper Dotfiles</div>",
-            "url": "https://github.com/Cybersnake223/Hypr",
-            "title": "Cybersnake223/Hypr: Vicious Viper Dotfiles",
-            "date_modified": "2024-06-04T04:59:53.000Z",
-            "date_published": "2023-09-01T02:59:49.000Z",
-            "author": {
-                "name": "Cybersnake223",
-                "url": "https://github.com/Cybersnake223"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89104690?u=931e116c9a1f7b922144ab57216a1cea1f335a28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>manage playlists for mpv in your Linux terminal</div>",
-            "url": "https://github.com/archusXIV/mpv-playlists-manager",
-            "title": "archusXIV/mpv-playlists-manager: manage playlists for mpv in your Linux terminal",
-            "date_modified": "2024-06-03T18:33:15.000Z",
-            "date_published": "2022-07-24T08:26:31.000Z",
-            "author": {
-                "name": "archusXIV",
-                "url": "https://github.com/archusXIV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67880600?u=9fdc65119be2396fe4b9d1d9f973a26ed4edc690&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my mpv configuration stuff</div>",
-            "url": "https://github.com/hexa0/mpv-conf",
-            "title": "hexa0/mpv-conf: my mpv configuration stuff",
-            "date_modified": "2024-06-03T18:24:14.000Z",
-            "date_published": "2022-02-08T08:45:24.000Z",
-            "author": {
-                "name": "hexa0",
-                "url": "https://github.com/hexa0"
             }
         }
     ]
