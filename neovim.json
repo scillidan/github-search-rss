@@ -6,14 +6,80 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81760194?u=2e7dfd10f37815d5dc7d780689d4ce4400f4b15a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that extends functionality of mark-motions.</div>",
+            "url": "https://github.com/nkey-ops/extended-marks.nvim",
+            "title": "nkey-ops/extended-marks.nvim: Neovim plugin that extends functionality of mark-motions.",
+            "date_modified": "2024-06-04T20:08:29.000Z",
+            "date_published": "2024-05-26T20:09:16.000Z",
+            "author": {
+                "name": "nkey-ops",
+                "url": "https://github.com/nkey-ops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23741265?u=f8ae5b261cd405452a4f3181832907a8f773fd89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin designed to synchronize Kubernetes Custom Resource Definitions (CRDs) with your Neovim setup</div>",
+            "url": "https://github.com/anasinnyk/nvim-k8s-crd",
+            "title": "anasinnyk/nvim-k8s-crd: Neovim plugin designed to synchronize Kubernetes Custom Resource Definitions (CRDs) with your Neovim setup",
+            "date_modified": "2024-06-04T20:04:00.000Z",
+            "date_published": "2024-05-29T13:21:55.000Z",
+            "author": {
+                "name": "anasinnyk",
+                "url": "https://github.com/anasinnyk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
             "url": "https://github.com/folke/noice.nvim",
             "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
-            "date_modified": "2024-06-04T19:03:50.000Z",
+            "date_modified": "2024-06-04T19:55:13.000Z",
             "date_published": "2022-09-21T19:32:33.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=972e3aec2962b5a72c50e1c36c7bc63d54d93c57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that helps managing crates.io dependencies</div>",
+            "url": "https://github.com/Saecki/crates.nvim",
+            "title": "Saecki/crates.nvim: A neovim plugin that helps managing crates.io dependencies",
+            "date_modified": "2024-06-04T19:50:00.000Z",
+            "date_published": "2021-08-24T17:13:20.000Z",
+            "author": {
+                "name": "Saecki",
+                "url": "https://github.com/Saecki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
+            "url": "https://github.com/MagicDuck/grug-far.nvim",
+            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
+            "date_modified": "2024-06-04T19:39:14.000Z",
+            "date_published": "2024-04-28T18:15:17.000Z",
+            "author": {
+                "name": "MagicDuck",
+                "url": "https://github.com/MagicDuck"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/overseer.nvim",
+            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
+            "date_modified": "2024-06-04T19:38:03.000Z",
+            "date_published": "2022-05-18T00:03:58.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149238?u=1449eae7884be9567a5b1103a42c0bfe3bb805b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A theme, config and collection of plugins for Neovim</div>",
+            "url": "https://github.com/prurigro/darkcloud-nvimconfig",
+            "title": "prurigro/darkcloud-nvimconfig: A theme, config and collection of plugins for Neovim",
+            "date_modified": "2024-06-04T19:33:45.000Z",
+            "date_published": "2024-03-02T03:22:29.000Z",
+            "author": {
+                "name": "prurigro",
+                "url": "https://github.com/prurigro"
             }
         },
         {
@@ -28,10 +94,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A treesitter supported autopairing plugin with extensions, and much more</div>",
+            "url": "https://github.com/altermo/ultimate-autopair.nvim",
+            "title": "altermo/ultimate-autopair.nvim: A treesitter supported autopairing plugin with extensions, and much more",
+            "date_modified": "2024-06-04T19:17:34.000Z",
+            "date_published": "2023-02-02T20:38:20.000Z",
+            "author": {
+                "name": "altermo",
+                "url": "https://github.com/altermo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125334277?u=99fc4d6cbd33581d9a0ec477d3c09f02c5e998f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rosa-Nvim, a customized Neovim distribution that combines the flexibility of Neovim with the ready-made configurations and plugins from LunarVim. This distro focuses on practicality and performance for the user, making the code editing experience more enjoyable and unique. </div>",
             "url": "https://github.com/pedrorosa-dev/rosa-nvim",
             "title": "pedrorosa-dev/rosa-nvim: Rosa-Nvim, a customized Neovim distribution that combines the flexibility of Neovim with the ready-made configurations and plugins from LunarVim. This distro focuses on practicality and performance for the user, making the code editing experience more enjoyable and unique. ",
-            "date_modified": "2024-06-04T18:06:56.000Z",
+            "date_modified": "2024-06-04T20:02:39.000Z",
             "date_published": "2024-06-04T07:02:47.000Z",
             "author": {
                 "name": "pedrorosa-dev",
@@ -138,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/overseer.nvim",
-            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
-            "date_modified": "2024-06-04T18:40:12.000Z",
-            "date_published": "2022-05-18T00:03:58.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2881382?u=c4b3cd868a4bf39f7cdb1e38eda822b099436845&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A very small plugin for toggling alternate \"boolean\" values.</div>",
             "url": "https://github.com/rmagatti/alternate-toggler",
             "title": "rmagatti/alternate-toggler: A very small plugin for toggling alternate \"boolean\" values.",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "rmagatti",
                 "url": "https://github.com/rmagatti"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=972e3aec2962b5a72c50e1c36c7bc63d54d93c57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that helps managing crates.io dependencies</div>",
-            "url": "https://github.com/Saecki/crates.nvim",
-            "title": "Saecki/crates.nvim: A neovim plugin that helps managing crates.io dependencies",
-            "date_modified": "2024-06-04T16:18:34.000Z",
-            "date_published": "2021-08-24T17:13:20.000Z",
-            "author": {
-                "name": "Saecki",
-                "url": "https://github.com/Saecki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12281609?u=f967c96c093d36c8a3618e0c3b0ee8d331bd4ab9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for managing node's package.json</div>",
-            "url": "https://github.com/diegofigs/npackages.nvim",
-            "title": "diegofigs/npackages.nvim: neovim plugin for managing node's package.json",
-            "date_modified": "2024-06-04T16:05:04.000Z",
-            "date_published": "2024-06-04T15:04:51.000Z",
-            "author": {
-                "name": "diegofigs",
-                "url": "https://github.com/diegofigs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
-            "url": "https://github.com/lima1909/resty.nvim",
-            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
-            "date_modified": "2024-06-04T15:42:27.000Z",
-            "date_published": "2024-05-04T09:33:14.000Z",
-            "author": {
-                "name": "lima1909",
-                "url": "https://github.com/lima1909"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3581973?u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a delightful mostly grayscale colorscheme thats soft on the eyes, and supports heaps of neovim plugins</div>",
-            "url": "https://github.com/slugbyte/lackluster.nvim",
-            "title": "slugbyte/lackluster.nvim: a delightful mostly grayscale colorscheme thats soft on the eyes, and supports heaps of neovim plugins",
-            "date_modified": "2024-06-04T16:42:20.000Z",
-            "date_published": "2024-05-20T10:19:15.000Z",
-            "author": {
-                "name": "slugbyte",
-                "url": "https://github.com/slugbyte"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-06-04T14:57:45.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.</div>",
-            "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
-            "title": "rachartier/tiny-devicons-auto-colors.nvim: A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.",
-            "date_modified": "2024-06-04T18:39:53.000Z",
-            "date_published": "2024-05-18T02:46:44.000Z",
-            "author": {
-                "name": "rachartier",
-                "url": "https://github.com/rachartier"
             }
         }
     ]
