@@ -6,10 +6,87 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2261839?u=58e78b1a911533b43c117eb6a6976521696d3e01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for fast find-and-replace in a buffer</div>",
+            "url": "https://github.com/wassimk/scalpel.nvim",
+            "title": "wassimk/scalpel.nvim: A Neovim plugin for fast find-and-replace in a buffer",
+            "date_modified": "2024-06-04T23:06:10.000Z",
+            "date_published": "2024-05-27T13:10:22.000Z",
+            "author": {
+                "name": "wassimk",
+                "url": "https://github.com/wassimk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12281609?u=f967c96c093d36c8a3618e0c3b0ee8d331bd4ab9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for managing node's package.json</div>",
+            "url": "https://github.com/diegofigs/npackages.nvim",
+            "title": "diegofigs/npackages.nvim: neovim plugin for managing node's package.json",
+            "date_modified": "2024-06-04T23:05:42.000Z",
+            "date_published": "2024-06-04T15:04:51.000Z",
+            "author": {
+                "name": "diegofigs",
+                "url": "https://github.com/diegofigs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2261839?u=58e78b1a911533b43c117eb6a6976521696d3e01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Navigate from Neovim to GitHub quickly with this plugin</div>",
+            "url": "https://github.com/wassimk/gh-navigator.nvim",
+            "title": "wassimk/gh-navigator.nvim: Navigate from Neovim to GitHub quickly with this plugin",
+            "date_modified": "2024-06-04T23:05:41.000Z",
+            "date_published": "2024-05-26T19:04:08.000Z",
+            "author": {
+                "name": "wassimk",
+                "url": "https://github.com/wassimk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-06-04T22:45:49.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36510152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A categorized list of neo/vim-plugins.</div>",
+            "url": "https://github.com/astier/vlugins",
+            "title": "astier/vlugins: A categorized list of neo/vim-plugins.",
+            "date_modified": "2024-06-04T22:42:39.000Z",
+            "date_published": "2021-02-09T14:09:11.000Z",
+            "author": {
+                "name": "astier",
+                "url": "https://github.com/astier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7904185?u=7469bedc5537c1cd65783a60457e6d3029223384&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hover plugin framework for Neovim</div>",
+            "url": "https://github.com/lewis6991/hover.nvim",
+            "title": "lewis6991/hover.nvim: Hover plugin framework for Neovim",
+            "date_modified": "2024-06-04T22:22:38.000Z",
+            "date_published": "2022-03-16T12:03:01.000Z",
+            "author": {
+                "name": "lewis6991",
+                "url": "https://github.com/lewis6991"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127350487?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Neovim plugin for Supermaven</div>",
+            "url": "https://github.com/supermaven-inc/supermaven-nvim",
+            "title": "supermaven-inc/supermaven-nvim: The official Neovim plugin for Supermaven",
+            "date_modified": "2024-06-04T22:18:02.000Z",
+            "date_published": "2024-05-08T17:37:53.000Z",
+            "author": {
+                "name": "supermaven-inc",
+                "url": "https://github.com/supermaven-inc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82623687?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to make your code more readable through syntax abstractions to hide unnecessary words or patterns. These set patterns will only show up when your cursor is hovering over the line containing the abstraction.</div>",
             "url": "https://github.com/RyanBlaney/syntax-tract.nvim",
             "title": "RyanBlaney/syntax-tract.nvim: A neovim plugin to make your code more readable through syntax abstractions to hide unnecessary words or patterns. These set patterns will only show up when your cursor is hovering over the line containing the abstraction.",
-            "date_modified": "2024-06-04T22:08:38.000Z",
+            "date_modified": "2024-06-04T22:16:35.000Z",
             "date_published": "2024-05-23T22:49:31.000Z",
             "author": {
                 "name": "RyanBlaney",
@@ -64,22 +141,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)</div>",
             "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
             "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
-            "date_modified": "2024-06-04T21:38:13.000Z",
+            "date_modified": "2024-06-04T22:36:08.000Z",
             "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
                 "name": "wojciech-kulik",
                 "url": "https://github.com/wojciech-kulik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127350487?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Neovim plugin for Supermaven</div>",
-            "url": "https://github.com/supermaven-inc/supermaven-nvim",
-            "title": "supermaven-inc/supermaven-nvim: The official Neovim plugin for Supermaven",
-            "date_modified": "2024-06-04T21:16:30.000Z",
-            "date_published": "2024-05-08T17:37:53.000Z",
-            "author": {
-                "name": "supermaven-inc",
-                "url": "https://github.com/supermaven-inc"
             }
         },
         {
@@ -127,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-06-04T20:38:48.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1324601?u=2465d6619f67aec51a1c90f404135b611e1fd003&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GPTModels - a stable, clean, multi model, window based LLM AI plugin for neovim</div>",
             "url": "https://github.com/Aaronik/GPTModels.nvim",
             "title": "Aaronik/GPTModels.nvim: GPTModels - a stable, clean, multi model, window based LLM AI plugin for neovim",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "nkey-ops",
                 "url": "https://github.com/nkey-ops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.</div>",
-            "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
-            "title": "rachartier/tiny-devicons-auto-colors.nvim: A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.",
-            "date_modified": "2024-06-04T20:54:50.000Z",
-            "date_published": "2024-05-18T02:46:44.000Z",
-            "author": {
-                "name": "rachartier",
-                "url": "https://github.com/rachartier"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23741265?u=f8ae5b261cd405452a4f3181832907a8f773fd89&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin designed to synchronize Kubernetes Custom Resource Definitions (CRDs) with your Neovim setup</div>",
-            "url": "https://github.com/anasinnyk/nvim-k8s-crd",
-            "title": "anasinnyk/nvim-k8s-crd: Neovim plugin designed to synchronize Kubernetes Custom Resource Definitions (CRDs) with your Neovim setup",
-            "date_modified": "2024-06-04T20:04:00.000Z",
-            "date_published": "2024-05-29T13:21:55.000Z",
-            "author": {
-                "name": "anasinnyk",
-                "url": "https://github.com/anasinnyk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-06-04T20:46:41.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=972e3aec2962b5a72c50e1c36c7bc63d54d93c57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that helps managing crates.io dependencies</div>",
-            "url": "https://github.com/Saecki/crates.nvim",
-            "title": "Saecki/crates.nvim: A neovim plugin that helps managing crates.io dependencies",
-            "date_modified": "2024-06-04T19:50:00.000Z",
-            "date_published": "2021-08-24T17:13:20.000Z",
-            "author": {
-                "name": "Saecki",
-                "url": "https://github.com/Saecki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
-            "url": "https://github.com/MagicDuck/grug-far.nvim",
-            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-06-04T20:35:55.000Z",
-            "date_published": "2024-04-28T18:15:17.000Z",
-            "author": {
-                "name": "MagicDuck",
-                "url": "https://github.com/MagicDuck"
             }
         }
     ]
