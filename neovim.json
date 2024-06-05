@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11340522?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to interact with Ollama</div>",
+            "url": "https://github.com/arzezak/llama",
+            "title": "arzezak/llama: Neovim plugin to interact with Ollama",
+            "date_modified": "2024-06-05T13:41:32.000Z",
+            "date_published": "2024-06-04T23:17:08.000Z",
+            "author": {
+                "name": "arzezak",
+                "url": "https://github.com/arzezak"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A starter template for a Neovim plugin written in Lua with a Nix CI</div>",
+            "url": "https://github.com/mrcjkb/nvim-lua-nix-plugin-template",
+            "title": "mrcjkb/nvim-lua-nix-plugin-template: A starter template for a Neovim plugin written in Lua with a Nix CI",
+            "date_modified": "2024-06-05T13:28:01.000Z",
+            "date_published": "2022-11-20T19:32:24.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-05T13:25:26.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-06-05T13:12:18.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121399271?u=79f1fa760248825d900e68286ed05725bcd58683&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple neovim plugin for sipler navigation within the line best described as horizontal word counter</div>",
             "url": "https://github.com/Vlazum/cheat_line.nvim",
             "title": "Vlazum/cheat_line.nvim: simple neovim plugin for sipler navigation within the line best described as horizontal word counter",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "brenoprata10",
                 "url": "https://github.com/brenoprata10"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
-            "url": "https://github.com/niuiic/modern-neovim-configuration",
-            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
-            "date_modified": "2024-06-05T09:21:09.000Z",
-            "date_published": "2021-05-05T11:05:56.000Z",
-            "author": {
-                "name": "niuiic",
-                "url": "https://github.com/niuiic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-06-05T09:17:37.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3139113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by AI.</div>",
-            "url": "https://github.com/gera2ld/ai.nvim",
-            "title": "gera2ld/ai.nvim: A Neovim plugin powered by AI.",
-            "date_modified": "2024-06-05T09:12:01.000Z",
-            "date_published": "2023-12-17T14:21:13.000Z",
-            "author": {
-                "name": "gera2ld",
-                "url": "https://github.com/gera2ld"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
-            "url": "https://github.com/m15a/flake-vim-plugin-analects",
-            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
-            "date_modified": "2024-06-05T08:53:04.000Z",
-            "date_published": "2024-04-11T07:27:53.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
             }
         }
     ]
