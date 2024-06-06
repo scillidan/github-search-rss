@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15847857?u=7d9c09d956dfdf6cd66af3aef96f36961aaa985f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.</div>",
+            "url": "https://github.com/madox2/vim-ai",
+            "title": "madox2/vim-ai: AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.",
+            "date_modified": "2024-06-06T16:44:32.000Z",
+            "date_published": "2023-02-27T20:23:49.000Z",
+            "author": {
+                "name": "madox2",
+                "url": "https://github.com/madox2"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32599364?u=c0eb1362841c093add4a964e7ed52b4507e672a7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.</div>",
+            "url": "https://github.com/TerminalFi/LSP-copilot",
+            "title": "TerminalFi/LSP-copilot: GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.",
+            "date_modified": "2024-06-06T16:42:25.000Z",
+            "date_published": "2022-06-26T21:25:03.000Z",
+            "author": {
+                "name": "TerminalFi",
+                "url": "https://github.com/TerminalFi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1430971?u=bd428837b8fc248aeb8daa8dd877ceff6636eae9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal vim config and plugins</div>",
+            "url": "https://github.com/czarnota/.vim",
+            "title": "czarnota/.vim: Personal vim config and plugins",
+            "date_modified": "2024-06-06T16:38:45.000Z",
+            "date_published": "2015-10-26T21:06:30.000Z",
+            "author": {
+                "name": "czarnota",
+                "url": "https://github.com/czarnota"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9919?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for GitHub Copilot</div>",
             "url": "https://github.com/github/copilot.vim",
             "title": "github/copilot.vim: Neovim plugin for GitHub Copilot",
@@ -163,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-06-06T14:13:51.000Z",
+            "date_modified": "2024-06-06T16:44:43.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "thinca",
                 "url": "https://github.com/thinca"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86842365?u=216ea23a1fb4e7e8d0f2eb58683454abad95f7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that provides an implementation for vim.notify</div>",
-            "url": "https://github.com/samsze0/notifier.nvim",
-            "title": "samsze0/notifier.nvim: A neovim plugin that provides an implementation for vim.notify",
-            "date_modified": "2024-06-06T08:56:23.000Z",
-            "date_published": "2024-05-15T12:04:19.000Z",
-            "author": {
-                "name": "samsze0",
-                "url": "https://github.com/samsze0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3108565?u=3b3b1c0a7ced944dc390466c4b6bec08282cbfa7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Knowledge Base (KB) that collects things I frequently look up. The content of which is maintained using Vim and the VimWiki plugin.</div>",
-            "url": "https://github.com/rifazn/KB",
-            "title": "rifazn/KB: My Knowledge Base (KB) that collects things I frequently look up. The content of which is maintained using Vim and the VimWiki plugin.",
-            "date_modified": "2024-06-06T06:14:58.000Z",
-            "date_published": "2023-09-17T16:15:18.000Z",
-            "author": {
-                "name": "rifazn",
-                "url": "https://github.com/rifazn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16723609?u=cbed4e4806b32c03de40d67b876e36cb1fd0f669&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An intuitive CLI client and Vim9 plugin for the OpenAI API, enabling seamless AI-powered text generation directly from your command line or within Vim. Simple to use, yet powerful.</div>",
-            "url": "https://github.com/micheam/ai-assistant-console",
-            "title": "micheam/ai-assistant-console: An intuitive CLI client and Vim9 plugin for the OpenAI API, enabling seamless AI-powered text generation directly from your command line or within Vim. Simple to use, yet powerful.",
-            "date_modified": "2024-06-06T05:56:32.000Z",
-            "date_published": "2023-05-01T01:09:35.000Z",
-            "author": {
-                "name": "micheam",
-                "url": "https://github.com/micheam"
             }
         }
     ]
