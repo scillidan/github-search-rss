@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82763825?u=6745f608ebf054e489af270aa5037dd29029a3be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal plugins for Neovim. Based on LazyVim</div>",
+            "url": "https://github.com/gabvannay/Neovim-Customization",
+            "title": "gabvannay/Neovim-Customization: My personal plugins for Neovim. Based on LazyVim",
+            "date_modified": "2024-06-06T20:53:40.000Z",
+            "date_published": "2024-06-06T16:36:04.000Z",
+            "author": {
+                "name": "gabvannay",
+                "url": "https://github.com/gabvannay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5642902?u=4ee288002460604dd7fc551750b0bfdef2c56ef5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A framework for building Neovim plugins</div>",
+            "url": "https://github.com/ldelossa/litee.nvim",
+            "title": "ldelossa/litee.nvim: A framework for building Neovim plugins",
+            "date_modified": "2024-06-06T20:43:57.000Z",
+            "date_published": "2021-11-17T12:22:53.000Z",
+            "author": {
+                "name": "ldelossa",
+                "url": "https://github.com/ldelossa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121399271?u=79f1fa760248825d900e68286ed05725bcd58683&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple neovim plugin for simpler navigation within the line best described as horizontal word counter</div>",
+            "url": "https://github.com/Vlazum/cheat_line.nvim",
+            "title": "Vlazum/cheat_line.nvim: simple neovim plugin for simpler navigation within the line best described as horizontal word counter",
+            "date_modified": "2024-06-06T20:39:33.000Z",
+            "date_published": "2024-06-01T16:43:23.000Z",
+            "author": {
+                "name": "Vlazum",
+                "url": "https://github.com/Vlazum"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1009936?u=cbc13f23c6019e24ef42ab323a8ce51f325aa885&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to generate text using LLMs with customizable prompts</div>",
+            "url": "https://github.com/David-Kunz/gen.nvim",
+            "title": "David-Kunz/gen.nvim: Neovim plugin to generate text using LLMs with customizable prompts",
+            "date_modified": "2024-06-06T20:35:38.000Z",
+            "date_published": "2023-09-30T09:28:53.000Z",
+            "author": {
+                "name": "David-Kunz",
+                "url": "https://github.com/David-Kunz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6877858?u=a88119ca791982f4957b75191c163d81bc67a740&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for interacting with Todoist API</div>",
+            "url": "https://github.com/festeh/todoist.lua",
+            "title": "festeh/todoist.lua: Neovim plugin for interacting with Todoist API",
+            "date_modified": "2024-06-06T20:31:22.000Z",
+            "date_published": "2024-02-28T21:31:15.000Z",
+            "author": {
+                "name": "festeh",
+                "url": "https://github.com/festeh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.</div>",
+            "url": "https://github.com/folke/which-key.nvim",
+            "title": "folke/which-key.nvim: 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
+            "date_modified": "2024-06-06T20:26:06.000Z",
+            "date_published": "2021-04-28T10:13:18.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
             "url": "https://github.com/AstroNvim/AstroNvim",
             "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
@@ -53,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
             "url": "https://github.com/MagicDuck/grug-far.nvim",
             "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-06-06T19:37:43.000Z",
+            "date_modified": "2024-06-06T20:32:43.000Z",
             "date_published": "2024-04-28T18:15:17.000Z",
             "author": {
                 "name": "MagicDuck",
@@ -102,17 +168,6 @@
             "author": {
                 "name": "tamago324",
                 "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82763825?u=6745f608ebf054e489af270aa5037dd29029a3be&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal plugins for Neovim. Based on LazyVim</div>",
-            "url": "https://github.com/gabvannay/Neovim-Customization",
-            "title": "gabvannay/Neovim-Customization: My personal plugins for Neovim. Based on LazyVim",
-            "date_modified": "2024-06-06T16:47:47.000Z",
-            "date_published": "2024-06-06T16:36:04.000Z",
-            "author": {
-                "name": "gabvannay",
-                "url": "https://github.com/gabvannay"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "zachcoyle",
                 "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.</div>",
-            "url": "https://github.com/folke/which-key.nvim",
-            "title": "folke/which-key.nvim: 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
-            "date_modified": "2024-06-06T15:07:28.000Z",
-            "date_published": "2021-04-28T10:13:18.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76241135?u=c616a84dc0b844404280b9b48030562eb8bd8bc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A code autocomplete plugin for Neovim.</div>",
-            "url": "https://github.com/brianaung/autocompl.nvim",
-            "title": "brianaung/autocompl.nvim: A code autocomplete plugin for Neovim.",
-            "date_modified": "2024-06-06T15:02:14.000Z",
-            "date_published": "2024-06-01T10:52:25.000Z",
-            "author": {
-                "name": "brianaung",
-                "url": "https://github.com/brianaung"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-06-06T19:16:51.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-06-06T14:23:10.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161720020?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to support Talon Voice and Cursorless</div>",
-            "url": "https://github.com/hands-free-vim/talon.nvim",
-            "title": "hands-free-vim/talon.nvim: Neovim plugin to support Talon Voice and Cursorless",
-            "date_modified": "2024-06-06T15:56:05.000Z",
-            "date_published": "2024-02-29T03:30:15.000Z",
-            "author": {
-                "name": "hands-free-vim",
-                "url": "https://github.com/hands-free-vim"
             }
         }
     ]
