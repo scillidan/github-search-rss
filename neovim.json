@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1392578?u=e6db605bf5bda77ca313b317a4500fa9acffd03b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A devcontainer-cli plugin for neovim</div>",
+            "url": "https://github.com/erichlf/devcontainer-cli.nvim",
+            "title": "erichlf/devcontainer-cli.nvim: A devcontainer-cli plugin for neovim",
+            "date_modified": "2024-06-07T05:48:54.000Z",
+            "date_published": "2024-04-09T06:03:54.000Z",
+            "author": {
+                "name": "erichlf",
+                "url": "https://github.com/erichlf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-07T05:18:58.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
+            "url": "https://github.com/folke/noice.nvim",
+            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+            "date_modified": "2024-06-07T05:56:18.000Z",
+            "date_published": "2022-09-21T19:32:33.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50617144?u=3ccc7448bbbe2b710c4c387d785a08f8802077e9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to query Bible verses and display them on the screen or insert them into the current buffer.</div>",
             "url": "https://github.com/anthony-halim/bible-verse.nvim",
             "title": "anthony-halim/bible-verse.nvim: Neovim plugin to query Bible verses and display them on the screen or insert them into the current buffer.",
@@ -31,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-07T04:05:38.000Z",
+            "date_modified": "2024-06-07T05:26:52.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -58,17 +91,6 @@
             "author": {
                 "name": "diegoulloao",
                 "url": "https://github.com/diegoulloao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-06-07T01:56:46.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "tanvirtin",
                 "url": "https://github.com/tanvirtin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
-            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
-            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
-            "date_modified": "2024-06-06T22:29:05.000Z",
-            "date_published": "2023-07-13T06:54:44.000Z",
-            "author": {
-                "name": "polirritmico",
-                "url": "https://github.com/polirritmico"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8628530?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rich development workflow with Clojure support, using AstroNvim 4 and selected plugins</div>",
-            "url": "https://github.com/practicalli/astronvim-user-config",
-            "title": "practicalli/astronvim-user-config: Rich development workflow with Clojure support, using AstroNvim 4 and selected plugins",
-            "date_modified": "2024-06-06T22:28:25.000Z",
-            "date_published": "2024-04-02T19:59:16.000Z",
-            "author": {
-                "name": "practicalli",
-                "url": "https://github.com/practicalli"
             }
         }
     ]
