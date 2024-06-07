@@ -6,11 +6,44 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92977828?u=3f2f7d01efef08982487de0665467b662d7a7393&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nix flakes for my system (light wip)</div>",
+            "url": "https://github.com/71zenith/nix-dots",
+            "title": "71zenith/nix-dots: nix flakes for my system (light wip)",
+            "date_modified": "2024-06-07T05:08:27.000Z",
+            "date_published": "2024-02-09T12:47:53.000Z",
+            "author": {
+                "name": "71zenith",
+                "url": "https://github.com/71zenith"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46796031?u=250eda0977ec227cc8d23eaecaa9e3b5f83ff12b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>compilation of dotfiles for the i3 window manager environment</div>",
+            "url": "https://github.com/mrdotx/dotfiles",
+            "title": "mrdotx/dotfiles: compilation of dotfiles for the i3 window manager environment",
+            "date_modified": "2024-06-07T05:07:12.000Z",
+            "date_published": "2019-10-09T11:25:30.000Z",
+            "author": {
+                "name": "mrdotx",
+                "url": "https://github.com/mrdotx"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50797982?u=89a5228fd3c733568fffe50d9d6342e05d1d71a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal config for mpv-player.</div>",
             "url": "https://github.com/natural-harmonia-gropius/mpv-config",
             "title": "natural-harmonia-gropius/mpv-config: Personal config for mpv-player.",
-            "date_modified": "2024-06-07T03:59:59.000Z",
+            "date_modified": "2024-06-07T04:34:33.000Z",
             "date_published": "2021-09-26T08:38:36.000Z",
+            "author": {
+                "name": "natural-harmonia-gropius",
+                "url": "https://github.com/natural-harmonia-gropius"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50797982?u=89a5228fd3c733568fffe50d9d6342e05d1d71a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>InputEvent.lua for mpv-player, enhanced input.conf with better, conflict-free, low-latency event mechanism.</div>",
+            "url": "https://github.com/natural-harmonia-gropius/input-event",
+            "title": "natural-harmonia-gropius/input-event: InputEvent.lua for mpv-player, enhanced input.conf with better, conflict-free, low-latency event mechanism.",
+            "date_modified": "2024-06-07T04:20:23.000Z",
+            "date_published": "2022-10-10T04:16:41.000Z",
             "author": {
                 "name": "natural-harmonia-gropius",
                 "url": "https://github.com/natural-harmonia-gropius"
@@ -36,17 +69,6 @@
             "author": {
                 "name": "zydezu",
                 "url": "https://github.com/zydezu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50797982?u=89a5228fd3c733568fffe50d9d6342e05d1d71a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>InputEvent.lua for mpv-player, enhanced input.conf with better, conflict-free, low-latency event mechanism.</div>",
-            "url": "https://github.com/natural-harmonia-gropius/input-event",
-            "title": "natural-harmonia-gropius/input-event: InputEvent.lua for mpv-player, enhanced input.conf with better, conflict-free, low-latency event mechanism.",
-            "date_modified": "2024-06-07T03:47:37.000Z",
-            "date_published": "2022-10-10T04:16:41.000Z",
-            "author": {
-                "name": "natural-harmonia-gropius",
-                "url": "https://github.com/natural-harmonia-gropius"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "patsh90",
                 "url": "https://github.com/patsh90"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91965834?u=1ccb5cceefd168fb30802556e18e17ed7f3a659c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Audio speed randomization (aspeed.lua), animated masks (automask.lua), animated dual spectra (autocomplex.lua), cropping (autocrop.lua) &amp; video-clock for MPV &amp; SMPlayer! Copy/paste these scripts. All free &amp; for Windows, Linux &amp; MacOS. YouTube, MP4, MP3, JPEG, etc. 🙂</div>",
-            "url": "https://github.com/TinosNitso/mpv-scripts",
-            "title": "TinosNitso/mpv-scripts: Audio speed randomization (aspeed.lua), animated masks (automask.lua), animated dual spectra (autocomplex.lua), cropping (autocrop.lua) & video-clock for MPV & SMPlayer! Copy/paste these scripts. All free & for Windows, Linux & MacOS. YouTube, MP4, MP3, JPEG, etc. 🙂",
-            "date_modified": "2024-06-06T17:55:08.000Z",
-            "date_published": "2023-11-22T17:13:42.000Z",
-            "author": {
-                "name": "TinosNitso",
-                "url": "https://github.com/TinosNitso"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34724135?u=87e1e9810922eb7379e966cc20be903ae5ddccfd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple installer for MPV Player with vs-RIFE TensorRT interpolation, MVTools and UOSC interface.</div>",
-            "url": "https://github.com/F0903/mpv-rife",
-            "title": "F0903/mpv-rife: Simple installer for MPV Player with vs-RIFE TensorRT interpolation, MVTools and UOSC interface.",
-            "date_modified": "2024-06-06T17:36:06.000Z",
-            "date_published": "2024-05-26T00:57:52.000Z",
-            "author": {
-                "name": "F0903",
-                "url": "https://github.com/F0903"
             }
         }
     ]
