@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1737522?u=4a8ab087accdf21b7f72b6993d7638699a81ab28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Template for building new neovim plugins</div>",
+            "url": "https://github.com/adaschevici/neovim-plugin-copier-tpl",
+            "title": "adaschevici/neovim-plugin-copier-tpl: Template for building new neovim plugins",
+            "date_modified": "2024-06-08T08:47:28.000Z",
+            "date_published": "2024-06-07T15:26:06.000Z",
+            "author": {
+                "name": "adaschevici",
+                "url": "https://github.com/adaschevici"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6099327?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin adding support for the jayvee language server</div>",
+            "url": "https://github.com/jvalue/jayvee.nvim",
+            "title": "jvalue/jayvee.nvim: Neovim plugin adding support for the jayvee language server",
+            "date_modified": "2024-06-08T08:47:02.000Z",
+            "date_published": "2024-04-17T08:18:40.000Z",
+            "author": {
+                "name": "jvalue",
+                "url": "https://github.com/jvalue"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109933089?u=a1bf8b5bf3e4a83c7ea3ae36324919c0204f4e29&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mewlix syntax highlighting plugin for Vim / Neovim.</div>",
             "url": "https://github.com/kbmackenzie/mewlix.vim",
             "title": "kbmackenzie/mewlix.vim: Mewlix syntax highlighting plugin for Vim / Neovim.",
-            "date_modified": "2024-06-08T08:07:56.000Z",
+            "date_modified": "2024-06-08T08:25:18.000Z",
             "date_published": "2024-03-12T07:55:23.000Z",
             "author": {
                 "name": "kbmackenzie",
                 "url": "https://github.com/kbmackenzie"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
+            "url": "https://github.com/nvim-lualine/lualine.nvim",
+            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+            "date_modified": "2024-06-08T09:06:22.000Z",
+            "date_published": "2020-12-30T14:35:10.000Z",
+            "author": {
+                "name": "nvim-lualine",
+                "url": "https://github.com/nvim-lualine"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "GianlucaP106",
                 "url": "https://github.com/GianlucaP106"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-06-08T00:28:14.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-06-08T00:25:11.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs",
-            "date_modified": "2024-06-08T00:19:01.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
             }
         }
     ]
