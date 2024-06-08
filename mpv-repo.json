@@ -6,10 +6,76 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69281441?u=aefd7aa3c17499359ff8d94169b6b0cffaf5c004&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/Karnbir/mpv",
+            "title": "Karnbir/mpv",
+            "date_modified": "2024-06-08T21:53:48.000Z",
+            "date_published": "2024-06-08T21:49:15.000Z",
+            "author": {
+                "name": "Karnbir",
+                "url": "https://github.com/Karnbir"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67721412?u=37cea875eb4d9a33132b454f86d2f857b3f21dfe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv configs for windows</div>",
+            "url": "https://github.com/pochenyun/mpv-config-windows",
+            "title": "pochenyun/mpv-config-windows: mpv configs for windows",
+            "date_modified": "2024-06-08T21:47:14.000Z",
+            "date_published": "2024-06-08T21:46:23.000Z",
+            "author": {
+                "name": "pochenyun",
+                "url": "https://github.com/pochenyun"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12078193?u=92e0485b9ad985e61d7a3f0945da726df5b09c1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Super-Resolution Convolutional Neural Networks as GLSL shaders for mpv</div>",
+            "url": "https://github.com/Artoriuz/ArtCNN",
+            "title": "Artoriuz/ArtCNN: Super-Resolution Convolutional Neural Networks as GLSL shaders for mpv",
+            "date_modified": "2024-06-08T21:43:09.000Z",
+            "date_published": "2024-01-16T20:38:51.000Z",
+            "author": {
+                "name": "Artoriuz",
+                "url": "https://github.com/Artoriuz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7908073?u=1157429b1969cf3895076471546b60bf1748724b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>70+ CLI tools to build, browse, and blend your media library. An index for your archive.</div>",
+            "url": "https://github.com/chapmanjacobd/library",
+            "title": "chapmanjacobd/library: 70+ CLI tools to build, browse, and blend your media library. An index for your archive.",
+            "date_modified": "2024-06-08T21:37:42.000Z",
+            "date_published": "2021-12-05T06:37:19.000Z",
+            "author": {
+                "name": "chapmanjacobd",
+                "url": "https://github.com/chapmanjacobd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32691832?u=42730bee8cb50b98568f361e780b9b94b0ae7d7c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv lua script to overlay youtube chat on top of a video using yt-dlp</div>",
+            "url": "https://github.com/BanchouBoo/mpv-youtube-chat",
+            "title": "BanchouBoo/mpv-youtube-chat: mpv lua script to overlay youtube chat on top of a video using yt-dlp",
+            "date_modified": "2024-06-08T21:30:04.000Z",
+            "date_published": "2022-12-09T23:57:44.000Z",
+            "author": {
+                "name": "BanchouBoo",
+                "url": "https://github.com/BanchouBoo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15963835?u=d7fe65429fc7bdc2e1f85bc90cea66c0fe063cff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern video player based on libmpv and Qt</div>",
+            "url": "https://github.com/brainrom/kokovp",
+            "title": "brainrom/kokovp: Modern video player based on libmpv and Qt",
+            "date_modified": "2024-06-08T21:21:55.000Z",
+            "date_published": "2024-05-10T18:23:20.000Z",
+            "author": {
+                "name": "brainrom",
+                "url": "https://github.com/brainrom"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
             "url": "https://github.com/mpv-player/mpv",
             "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2024-06-08T21:07:20.000Z",
+            "date_modified": "2024-06-08T21:42:26.000Z",
             "date_published": "2012-10-13T08:08:44.000Z",
             "author": {
                 "name": "mpv-player",
@@ -20,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/227121?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Local Desktop Environment setup - X11 WM, conky, mpv, systemd --user and such</div>",
             "url": "https://github.com/mk-fg/de-setup",
             "title": "mk-fg/de-setup: Local Desktop Environment setup - X11 WM, conky, mpv, systemd --user and such",
-            "date_modified": "2024-06-08T21:04:27.000Z",
+            "date_modified": "2024-06-08T21:10:42.000Z",
             "date_published": "2012-02-05T19:22:42.000Z",
             "author": {
                 "name": "mk-fg",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "gaesa",
                 "url": "https://github.com/gaesa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71256557?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A TypeScript implementation of mpv’s autoload.lua. It is optimized for modularity, readability and and simplicity.</div>",
-            "url": "https://github.com/gaesa/mpv-autoload",
-            "title": "gaesa/mpv-autoload: A TypeScript implementation of mpv’s autoload.lua. It is optimized for modularity, readability and and simplicity.",
-            "date_modified": "2024-06-08T14:15:12.000Z",
-            "date_published": "2023-09-23T17:11:33.000Z",
-            "author": {
-                "name": "gaesa",
-                "url": "https://github.com/gaesa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32453770?u=046b8e229a184bb9f5eaaae515f44e98c126ea77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>All-in-one Android app for RSS, BitTorrent dl &amp; play. MVI arch, Material You style. ⭐️ Star to support! 一站式 RSS 订阅、BitTorrent 下载和媒体播放 Android 应用。采用 MVI 架构和 Material You 风格。⭐️点个 Star 以支持工作</div>",
-            "url": "https://github.com/SkyD666/AniVu",
-            "title": "SkyD666/AniVu: All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support! 一站式 RSS 订阅、BitTorrent 下载和媒体播放 Android 应用。采用 MVI 架构和 Material You 风格。⭐️点个 Star 以支持工作",
-            "date_modified": "2024-06-08T15:03:46.000Z",
-            "date_published": "2024-02-07T16:20:43.000Z",
-            "author": {
-                "name": "SkyD666",
-                "url": "https://github.com/SkyD666"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67721412?u=37cea875eb4d9a33132b454f86d2f857b3f21dfe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv config on Linux</div>",
-            "url": "https://github.com/pochenyun/mpv-config-linux",
-            "title": "pochenyun/mpv-config-linux: mpv config on Linux",
-            "date_modified": "2024-06-08T13:32:07.000Z",
-            "date_published": "2024-06-08T13:25:29.000Z",
-            "author": {
-                "name": "pochenyun",
-                "url": "https://github.com/pochenyun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61972253?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv stuff</div>",
-            "url": "https://github.com/rexackermann/mpv",
-            "title": "rexackermann/mpv: mpv stuff",
-            "date_modified": "2024-06-08T12:43:52.000Z",
-            "date_published": "2022-10-20T16:11:18.000Z",
-            "author": {
-                "name": "rexackermann",
-                "url": "https://github.com/rexackermann"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12019987?u=9896dd84a1b106d22ec554e40220dba0effd86fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>tk mpv player</div>",
-            "url": "https://github.com/slair/tkmpvf",
-            "title": "slair/tkmpvf: tk mpv player",
-            "date_modified": "2024-06-08T12:34:07.000Z",
-            "date_published": "2023-04-16T12:18:26.000Z",
-            "author": {
-                "name": "slair",
-                "url": "https://github.com/slair"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Desktop Jellyfin Client made with Tauri and React ⚛️ [WIP]</div>",
-            "url": "https://github.com/prayag17/Blink",
-            "title": "prayag17/Blink: Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol: [WIP]",
-            "date_modified": "2024-06-08T12:22:00.000Z",
-            "date_published": "2022-03-05T14:56:10.000Z",
-            "author": {
-                "name": "prayag17",
-                "url": "https://github.com/prayag17"
             }
         }
     ]
