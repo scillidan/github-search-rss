@@ -6,25 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168831070?u=3e30fcf2086c0c7df31253f641cb7ec96a3f8988&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for highlighting coding standard violations using Norminette</div>",
-            "url": "https://github.com/lvan-gef/norminette-check",
-            "title": "lvan-gef/norminette-check: Neovim plugin for highlighting coding standard violations using Norminette",
-            "date_modified": "2024-06-08T16:11:01.000Z",
-            "date_published": "2024-05-12T21:34:57.000Z",
-            "author": {
-                "name": "lvan-gef",
-                "url": "https://github.com/lvan-gef"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130167541?u=44f073c7f597ce880d27e483778867597fe063e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to search words and replace words</div>",
             "url": "https://github.com/NotNoss/nvim-replace",
             "title": "NotNoss/nvim-replace: A neovim plugin to search words and replace words",
-            "date_modified": "2024-06-08T15:49:19.000Z",
+            "date_modified": "2024-06-08T17:00:25.000Z",
             "date_published": "2024-06-08T15:48:40.000Z",
             "author": {
                 "name": "NotNoss",
                 "url": "https://github.com/NotNoss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.</div>",
+            "url": "https://github.com/echasnovski/mini.ai",
+            "title": "echasnovski/mini.ai: Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.",
+            "date_modified": "2024-06-08T16:36:23.000Z",
+            "date_published": "2022-10-24T16:12:37.000Z",
+            "author": {
+                "name": "echasnovski",
+                "url": "https://github.com/echasnovski"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21986384?u=e1f32c548ad0b824d4a02320c5140c2a1e8de043&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for managing and using file templates</div>",
+            "url": "https://github.com/dheerajshenoy/templatory.nvim",
+            "title": "dheerajshenoy/templatory.nvim: A neovim plugin for managing and using file templates",
+            "date_modified": "2024-06-08T16:31:16.000Z",
+            "date_published": "2024-05-23T18:42:15.000Z",
+            "author": {
+                "name": "dheerajshenoy",
+                "url": "https://github.com/dheerajshenoy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168831070?u=3e30fcf2086c0c7df31253f641cb7ec96a3f8988&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for highlighting coding standard violations using Norminette</div>",
+            "url": "https://github.com/lvan-gef/norminette-check",
+            "title": "lvan-gef/norminette-check: Neovim plugin for highlighting coding standard violations using Norminette",
+            "date_modified": "2024-06-08T16:13:16.000Z",
+            "date_published": "2024-05-12T21:34:57.000Z",
+            "author": {
+                "name": "lvan-gef",
+                "url": "https://github.com/lvan-gef"
             }
         },
         {
@@ -58,6 +80,17 @@
             "author": {
                 "name": "yukimemi",
                 "url": "https://github.com/yukimemi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5492542?u=816023f072c98842cdc5046da550407f7515c1a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>markdown preview plugin for (neo)vim</div>",
+            "url": "https://github.com/iamcco/markdown-preview.nvim",
+            "title": "iamcco/markdown-preview.nvim: markdown preview plugin for (neo)vim",
+            "date_modified": "2024-06-08T16:55:50.000Z",
+            "date_published": "2018-10-23T18:23:34.000Z",
+            "author": {
+                "name": "iamcco",
+                "url": "https://github.com/iamcco"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "notomo",
                 "url": "https://github.com/notomo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-06-08T12:08:49.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1737522?u=4a8ab087accdf21b7f72b6993d7638699a81ab28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Template for building new neovim plugins</div>",
-            "url": "https://github.com/adaschevici/omniarch-copier-tpl",
-            "title": "adaschevici/omniarch-copier-tpl: Template for building new neovim plugins",
-            "date_modified": "2024-06-08T10:46:11.000Z",
-            "date_published": "2024-06-07T15:26:06.000Z",
-            "author": {
-                "name": "adaschevici",
-                "url": "https://github.com/adaschevici"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6099327?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin adding support for the jayvee language server</div>",
-            "url": "https://github.com/jvalue/jayvee.nvim",
-            "title": "jvalue/jayvee.nvim: Neovim plugin adding support for the jayvee language server",
-            "date_modified": "2024-06-08T10:45:07.000Z",
-            "date_published": "2024-04-17T08:18:40.000Z",
-            "author": {
-                "name": "jvalue",
-                "url": "https://github.com/jvalue"
             }
         }
     ]
