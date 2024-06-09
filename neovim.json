@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1144308?u=96a6ad9b59f78cefe28901cc2c33381fe7dea501&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐞 An extension for nvim-dap to provide C, C++, and Rust debugging support.</div>",
+            "url": "https://github.com/julianolf/nvim-dap-lldb",
+            "title": "julianolf/nvim-dap-lldb: 🐞 An extension for nvim-dap to provide C, C++, and Rust debugging support.",
+            "date_modified": "2024-06-09T22:06:30.000Z",
+            "date_published": "2024-03-01T05:21:23.000Z",
+            "author": {
+                "name": "julianolf",
+                "url": "https://github.com/julianolf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97511408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.</div>",
+            "url": "https://github.com/h4ckm1n-dev/kube-utils-nvim",
+            "title": "h4ckm1n-dev/kube-utils-nvim: 🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.",
+            "date_modified": "2024-06-09T22:00:24.000Z",
+            "date_published": "2024-05-10T21:31:16.000Z",
+            "author": {
+                "name": "h4ckm1n-dev",
+                "url": "https://github.com/h4ckm1n-dev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16845233?u=b882907abf762dddba2958161973b8205598f5e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Configurations &amp; Plugins</div>",
+            "url": "https://github.com/eccanto/nvim-config",
+            "title": "eccanto/nvim-config: Neovim Configurations & Plugins",
+            "date_modified": "2024-06-09T21:36:05.000Z",
+            "date_published": "2022-01-05T22:56:22.000Z",
+            "author": {
+                "name": "eccanto",
+                "url": "https://github.com/eccanto"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-09T21:16:45.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6252160?u=03d15a8a80a91be02bf2d46d902c18fca97fd876&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple plugin for neovim to show twitch messages</div>",
             "url": "https://github.com/inferst/nvim-plugin",
             "title": "inferst/nvim-plugin: Simple plugin for neovim to show twitch messages",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "inferst",
                 "url": "https://github.com/inferst"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97511408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.</div>",
-            "url": "https://github.com/h4ckm1n-dev/kube-utils-nvim",
-            "title": "h4ckm1n-dev/kube-utils-nvim: 🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.",
-            "date_modified": "2024-06-09T21:00:10.000Z",
-            "date_published": "2024-05-10T21:31:16.000Z",
-            "author": {
-                "name": "h4ckm1n-dev",
-                "url": "https://github.com/h4ckm1n-dev"
             }
         },
         {
@@ -171,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-06-09T17:17:23.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111564053?u=a94fe776c0edc1e00ae7bbf1ad2586bddb544f5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed</div>",
             "url": "https://github.com/shellRaining/hlchunk.nvim",
             "title": "shellRaining/hlchunk.nvim: This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "slugbyte",
                 "url": "https://github.com/slugbyte"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1737522?u=4a8ab087accdf21b7f72b6993d7638699a81ab28&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Template for building new neovim plugins</div>",
-            "url": "https://github.com/adaschevici/omniarch-copier-tpl",
-            "title": "adaschevici/omniarch-copier-tpl: Template for building new neovim plugins",
-            "date_modified": "2024-06-09T15:39:05.000Z",
-            "date_published": "2024-06-07T15:26:06.000Z",
-            "author": {
-                "name": "adaschevici",
-                "url": "https://github.com/adaschevici"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
-            "url": "https://github.com/niuiic/modern-neovim-configuration",
-            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
-            "date_modified": "2024-06-09T15:29:12.000Z",
-            "date_published": "2021-05-05T11:05:56.000Z",
-            "author": {
-                "name": "niuiic",
-                "url": "https://github.com/niuiic"
             }
         }
     ]
