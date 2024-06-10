@@ -6,21 +6,32 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46413291?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal init.vim for Neovim 0.5 or higher. Does NOT work with Vim (has some Lua plugins).</div>",
-            "url": "https://github.com/tedlava/neovim-config",
-            "title": "tedlava/neovim-config: My personal init.vim for Neovim 0.5 or higher. Does NOT work with Vim (has some Lua plugins).",
-            "date_modified": "2024-06-10T17:04:36.000Z",
-            "date_published": "2022-06-27T21:29:29.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs",
+            "date_modified": "2024-06-10T18:08:52.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
-                "name": "tedlava",
-                "url": "https://github.com/tedlava"
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8064029?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to integrate neovim and godo</div>",
+            "url": "https://github.com/arthuradolfo/godo.nvim",
+            "title": "arthuradolfo/godo.nvim: Plugin to integrate neovim and godo",
+            "date_modified": "2024-06-10T18:08:29.000Z",
+            "date_published": "2024-05-27T13:51:29.000Z",
+            "author": {
+                "name": "arthuradolfo",
+                "url": "https://github.com/arthuradolfo"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97410685?u=13d6424b8413a02cedbd9ae9260e8ae4c78de2a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal neovim configuration using packer.nvim to manage plugins</div>",
             "url": "https://github.com/froopy090/nvim-config",
             "title": "froopy090/nvim-config: My personal neovim configuration using packer.nvim to manage plugins",
-            "date_modified": "2024-06-10T16:54:54.000Z",
+            "date_modified": "2024-06-10T18:01:54.000Z",
             "date_published": "2024-06-10T16:54:50.000Z",
             "author": {
                 "name": "froopy090",
@@ -28,14 +39,80 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs",
-            "date_modified": "2024-06-10T16:45:57.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82942315?u=5cc207c768f5d70953f5bd14181ce982334892a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin provide apis for resizing window as we expected</div>",
+            "url": "https://github.com/pogyomo/winresize.nvim",
+            "title": "pogyomo/winresize.nvim: A neovim plugin provide apis for resizing window as we expected",
+            "date_modified": "2024-06-10T17:57:40.000Z",
+            "date_published": "2024-06-10T17:57:37.000Z",
             "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
+                "name": "pogyomo",
+                "url": "https://github.com/pogyomo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dead simple lazy-loading Lua library for Neovim plugins.</div>",
+            "url": "https://github.com/nvim-neorocks/lz.n",
+            "title": "nvim-neorocks/lz.n: A dead simple lazy-loading Lua library for Neovim plugins.",
+            "date_modified": "2024-06-10T17:47:14.000Z",
+            "date_published": "2024-01-05T13:38:49.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-06-10T17:46:59.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46413291?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal init.vim for Neovim 0.5 or higher. Does NOT work with Vim (has some Lua plugins).</div>",
+            "url": "https://github.com/tedlava/neovim-config",
+            "title": "tedlava/neovim-config: My personal init.vim for Neovim 0.5 or higher. Does NOT work with Vim (has some Lua plugins).",
+            "date_modified": "2024-06-10T17:44:05.000Z",
+            "date_published": "2022-06-27T21:29:29.000Z",
+            "author": {
+                "name": "tedlava",
+                "url": "https://github.com/tedlava"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lint",
+            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+            "date_modified": "2024-06-10T18:12:27.000Z",
+            "date_published": "2021-02-14T11:18:45.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-06-10T17:21:57.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-10T17:17:53.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -105,21 +182,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dead simple lazy-loading Lua library for Neovim plugins.</div>",
-            "url": "https://github.com/nvim-neorocks/lz.n",
-            "title": "nvim-neorocks/lz.n: A dead simple lazy-loading Lua library for Neovim plugins.",
-            "date_modified": "2024-06-10T16:57:09.000Z",
-            "date_published": "2024-01-05T13:38:49.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-06-10T16:50:58.000Z",
+            "date_modified": "2024-06-10T17:17:44.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41214204?u=e4cc4af1d92b3f87358947024af31f8f3cc34fb1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to add support for NX workspaces to various plugins</div>",
-            "url": "https://github.com/shadowgate15/nx.nvim",
-            "title": "shadowgate15/nx.nvim: Neovim plugin to add support for NX workspaces to various plugins",
-            "date_modified": "2024-06-10T13:49:12.000Z",
-            "date_published": "2024-06-08T13:24:32.000Z",
-            "author": {
-                "name": "shadowgate15",
-                "url": "https://github.com/shadowgate15"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-06-10T13:46:23.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-06-10T13:31:01.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
-            "url": "https://github.com/yutkat/my-neovim-pluginlist",
-            "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
-            "date_modified": "2024-06-10T12:55:59.000Z",
-            "date_published": "2022-04-17T14:53:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-06-10T12:10:41.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
-            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
-            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
-            "date_modified": "2024-06-10T12:10:30.000Z",
-            "date_published": "2024-03-10T11:54:02.000Z",
-            "author": {
-                "name": "ttak0422",
-                "url": "https://github.com/ttak0422"
             }
         }
     ]
