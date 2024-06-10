@@ -6,25 +6,91 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61948252?u=4fe2afd5d8de7d3ee7b41a2ec5e9987bbcbf2f23&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for setting up keymap option</div>",
-            "url": "https://github.com/lostl1ght/keymap-switch.nvim",
-            "title": "lostl1ght/keymap-switch.nvim: Neovim plugin for setting up keymap option",
-            "date_modified": "2024-06-10T19:07:49.000Z",
-            "date_published": "2022-09-24T17:18:37.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-06-10T20:09:00.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
             "author": {
-                "name": "lostl1ght",
-                "url": "https://github.com/lostl1ght"
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11889938?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim plugin to quickly jump between files of Angular components</div>",
+            "url": "https://github.com/matthiasweiss/angular-quickswitch.nvim",
+            "title": "matthiasweiss/angular-quickswitch.nvim: NeoVim plugin to quickly jump between files of Angular components",
+            "date_modified": "2024-06-10T20:00:50.000Z",
+            "date_published": "2024-06-10T19:56:54.000Z",
+            "author": {
+                "name": "matthiasweiss",
+                "url": "https://github.com/matthiasweiss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14210967?u=f6b5d8764ef44a9e2f32aea835201c30252d46a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nvim-ros2 is a simple lua plugin that adds useful features to enhance your development workflow while developing ROS 2 modules.</div>",
+            "url": "https://github.com/ErickKramer/nvim-ros2",
+            "title": "ErickKramer/nvim-ros2: nvim-ros2 is a simple lua plugin that adds useful features to enhance your development workflow while developing ROS 2 modules.",
+            "date_modified": "2024-06-10T19:57:42.000Z",
+            "date_published": "2024-02-25T20:22:44.000Z",
+            "author": {
+                "name": "ErickKramer",
+                "url": "https://github.com/ErickKramer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3657473?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> ddu source for multiple ai plugin using favorite prompts.</div>",
+            "url": "https://github.com/nekowasabi/ddu-ai-prompt-connecter",
+            "title": "nekowasabi/ddu-ai-prompt-connecter:  ddu source for multiple ai plugin using favorite prompts.",
+            "date_modified": "2024-06-10T19:55:26.000Z",
+            "date_published": "2024-05-18T03:30:51.000Z",
+            "author": {
+                "name": "nekowasabi",
+                "url": "https://github.com/nekowasabi"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82942315?u=5cc207c768f5d70953f5bd14181ce982334892a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin provide apis for resizing window as we expected</div>",
             "url": "https://github.com/pogyomo/winresize.nvim",
             "title": "pogyomo/winresize.nvim: A neovim plugin provide apis for resizing window as we expected",
-            "date_modified": "2024-06-10T19:03:37.000Z",
+            "date_modified": "2024-06-10T19:48:53.000Z",
             "date_published": "2024-06-10T17:57:37.000Z",
             "author": {
                 "name": "pogyomo",
                 "url": "https://github.com/pogyomo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46413291?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal init.vim for Neovim 0.5 or higher. Does NOT work with Vim (has some Lua plugins).</div>",
+            "url": "https://github.com/tedlava/neovim-config",
+            "title": "tedlava/neovim-config: My personal init.vim for Neovim 0.5 or higher. Does NOT work with Vim (has some Lua plugins).",
+            "date_modified": "2024-06-10T19:43:45.000Z",
+            "date_published": "2022-06-27T21:29:29.000Z",
+            "author": {
+                "name": "tedlava",
+                "url": "https://github.com/tedlava"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97410685?u=13d6424b8413a02cedbd9ae9260e8ae4c78de2a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal neovim configuration using packer.nvim to manage plugins</div>",
+            "url": "https://github.com/froopy090/nvim-config",
+            "title": "froopy090/nvim-config: My personal neovim configuration using packer.nvim to manage plugins",
+            "date_modified": "2024-06-10T19:43:09.000Z",
+            "date_published": "2024-06-10T16:54:50.000Z",
+            "author": {
+                "name": "froopy090",
+                "url": "https://github.com/froopy090"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61948252?u=4fe2afd5d8de7d3ee7b41a2ec5e9987bbcbf2f23&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for setting up keymap option</div>",
+            "url": "https://github.com/lostl1ght/keymap-switch.nvim",
+            "title": "lostl1ght/keymap-switch.nvim: Neovim plugin for setting up keymap option",
+            "date_modified": "2024-06-10T19:12:02.000Z",
+            "date_published": "2022-09-24T17:18:37.000Z",
+            "author": {
+                "name": "lostl1ght",
+                "url": "https://github.com/lostl1ght"
             }
         },
         {
@@ -39,10 +105,21 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
+            "url": "https://github.com/rockerBOO/awesome-neovim",
+            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
+            "date_modified": "2024-06-10T19:50:20.000Z",
+            "date_published": "2020-09-18T18:40:59.000Z",
+            "author": {
+                "name": "rockerBOO",
+                "url": "https://github.com/rockerBOO"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs",
-            "date_modified": "2024-06-10T18:08:52.000Z",
+            "date_modified": "2024-06-10T19:37:24.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -58,17 +135,6 @@
             "author": {
                 "name": "arthuradolfo",
                 "url": "https://github.com/arthuradolfo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97410685?u=13d6424b8413a02cedbd9ae9260e8ae4c78de2a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal neovim configuration using packer.nvim to manage plugins</div>",
-            "url": "https://github.com/froopy090/nvim-config",
-            "title": "froopy090/nvim-config: My personal neovim configuration using packer.nvim to manage plugins",
-            "date_modified": "2024-06-10T18:01:54.000Z",
-            "date_published": "2024-06-10T16:54:50.000Z",
-            "author": {
-                "name": "froopy090",
-                "url": "https://github.com/froopy090"
             }
         },
         {
@@ -91,17 +157,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46413291?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal init.vim for Neovim 0.5 or higher. Does NOT work with Vim (has some Lua plugins).</div>",
-            "url": "https://github.com/tedlava/neovim-config",
-            "title": "tedlava/neovim-config: My personal init.vim for Neovim 0.5 or higher. Does NOT work with Vim (has some Lua plugins).",
-            "date_modified": "2024-06-10T17:44:05.000Z",
-            "date_published": "2022-06-27T21:29:29.000Z",
-            "author": {
-                "name": "tedlava",
-                "url": "https://github.com/tedlava"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "gregorias",
                 "url": "https://github.com/gregorias"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60624696?u=89eef956ce7341f33cf3b7bec12f4fab172b08dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to automatically save and load shada files based on git branches</div>",
-            "url": "https://github.com/rufex/lapacho.nvim",
-            "title": "rufex/lapacho.nvim: Neovim plugin to automatically save and load shada files based on git branches",
-            "date_modified": "2024-06-10T15:43:22.000Z",
-            "date_published": "2024-06-05T15:38:48.000Z",
-            "author": {
-                "name": "rufex",
-                "url": "https://github.com/rufex"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A treesitter supported autopairing plugin with extensions, and much more</div>",
-            "url": "https://github.com/altermo/ultimate-autopair.nvim",
-            "title": "altermo/ultimate-autopair.nvim: A treesitter supported autopairing plugin with extensions, and much more",
-            "date_modified": "2024-06-10T15:39:24.000Z",
-            "date_published": "2023-02-02T20:38:20.000Z",
-            "author": {
-                "name": "altermo",
-                "url": "https://github.com/altermo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
-            "url": "https://github.com/folke/tokyonight.nvim",
-            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-06-10T17:17:44.000Z",
-            "date_published": "2021-04-16T17:21:40.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
-            "url": "https://github.com/lima1909/resty.nvim",
-            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
-            "date_modified": "2024-06-10T15:12:11.000Z",
-            "date_published": "2024-05-04T09:33:14.000Z",
-            "author": {
-                "name": "lima1909",
-                "url": "https://github.com/lima1909"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-06-10T15:11:51.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
             }
         }
     ]
