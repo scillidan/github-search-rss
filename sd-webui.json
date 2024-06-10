@@ -6,6 +6,39 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adds GPU Model name, VRAM, CPU Model name, RAM and Taken Time into generated image metadata</div>",
+            "url": "https://github.com/light-and-ray/sd-webui-hardware-info-in-metadata",
+            "title": "light-and-ray/sd-webui-hardware-info-in-metadata: Adds GPU Model name, VRAM, CPU Model name, RAM and Taken Time into generated image metadata",
+            "date_modified": "2024-06-10T15:44:11.000Z",
+            "date_published": "2024-05-17T20:50:40.000Z",
+            "author": {
+                "name": "light-and-ray",
+                "url": "https://github.com/light-and-ray"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20929282?u=b5f9b482cc55c583cd99add92c4235b57e6e6d1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ComfyUI style LDM patching in A1111</div>",
+            "url": "https://github.com/huchenlei/sd-webui-model-patcher",
+            "title": "huchenlei/sd-webui-model-patcher: ComfyUI style LDM patching in A1111",
+            "date_modified": "2024-06-10T15:43:03.000Z",
+            "date_published": "2024-05-26T14:53:12.000Z",
+            "author": {
+                "name": "huchenlei",
+                "url": "https://github.com/huchenlei"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76895225?u=c55d15532fd4197ba5d2163c43412d0467498788&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个支持部署多种 WebUI 的 Jupyter Notebook</div>",
+            "url": "https://github.com/licyk/sd-webui-all-in-one",
+            "title": "licyk/sd-webui-all-in-one: 一个支持部署多种 WebUI 的 Jupyter Notebook",
+            "date_modified": "2024-06-10T15:28:46.000Z",
+            "date_published": "2024-05-08T10:28:50.000Z",
+            "author": {
+                "name": "licyk",
+                "url": "https://github.com/licyk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51263003?u=8ca2bf8c41ee96216ce03f3bc0e12a2471051529&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A utility for working with SD-WebUI and ComfUI images</div>",
             "url": "https://github.com/ServOKio/CImaGen",
             "title": "ServOKio/CImaGen: A utility for working with SD-WebUI and ComfUI images",
@@ -94,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76895225?u=c55d15532fd4197ba5d2163c43412d0467498788&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个支持部署多种 WebUI 的 Jupyter Notebook</div>",
-            "url": "https://github.com/licyk/sd-webui-all-in-one",
-            "title": "licyk/sd-webui-all-in-one: 一个支持部署多种 WebUI 的 Jupyter Notebook",
-            "date_modified": "2024-06-09T18:06:05.000Z",
-            "date_published": "2024-05-08T10:28:50.000Z",
-            "author": {
-                "name": "licyk",
-                "url": "https://github.com/licyk"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=fb5bc556ba21239a05c2373b0aa06ee1549d532c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that adds a 2nd Generate button</div>",
             "url": "https://github.com/Haoming02/sd-webui-moar-generate",
             "title": "Haoming02/sd-webui-moar-generate: An Extension for Automatic1111 Webui that adds a 2nd Generate button",
@@ -119,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31246794?u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WebUI extension for ControlNet</div>",
             "url": "https://github.com/Mikubill/sd-webui-controlnet",
             "title": "Mikubill/sd-webui-controlnet: WebUI extension for ControlNet",
-            "date_modified": "2024-06-10T07:24:18.000Z",
+            "date_modified": "2024-06-10T15:29:14.000Z",
             "date_published": "2023-02-12T16:26:27.000Z",
             "author": {
                 "name": "Mikubill",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "v0xie",
                 "url": "https://github.com/v0xie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/172137216?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/RenSir-zw/sd-webui-aki-v4.7",
-            "title": "RenSir-zw/sd-webui-aki-v4.7",
-            "date_modified": "2024-06-08T17:17:43.000Z",
-            "date_published": "2024-06-08T17:17:42.000Z",
-            "author": {
-                "name": "RenSir-zw",
-                "url": "https://github.com/RenSir-zw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/153407565?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Three functional generation buttons will be added to the txt2img and img2img screens.The activation/deactivation of other features will be linked to the Hires.fix toggle. / txt2img, img2img の画面に三つの機能付き生成ボタンを追加します。Hires.fix のオン/オフに連動して他の機能のオン/オフを切り替えます。</div>",
-            "url": "https://github.com/Takenoko3333/sd-webui-reuse-seed-plus",
-            "title": "Takenoko3333/sd-webui-reuse-seed-plus: Three functional generation buttons will be added to the txt2img and img2img screens.The activation/deactivation of other features will be linked to the Hires.fix toggle. / txt2img, img2img の画面に三つの機能付き生成ボタンを追加します。Hires.fix のオン/オフに連動して他の機能のオン/オフを切り替えます。",
-            "date_modified": "2024-06-10T14:44:00.000Z",
-            "date_published": "2024-06-06T04:56:01.000Z",
-            "author": {
-                "name": "Takenoko3333",
-                "url": "https://github.com/Takenoko3333"
             }
         }
     ]
