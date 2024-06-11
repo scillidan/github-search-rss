@@ -6,10 +6,54 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3332307?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin for a code assistant with local LLMs</div>",
+            "url": "https://github.com/leocus/codeassistant.vim",
+            "title": "leocus/codeassistant.vim: A Vim plugin for a code assistant with local LLMs",
+            "date_modified": "2024-06-11T18:08:57.000Z",
+            "date_published": "2024-02-21T22:07:19.000Z",
+            "author": {
+                "name": "leocus",
+                "url": "https://github.com/leocus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1740244?u=9cb207432dafc94e5edec96ec367c4e3db4286bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin which enables simple live previews for anything text.</div>",
+            "url": "https://github.com/BigPeet/vim-live-preview",
+            "title": "BigPeet/vim-live-preview: A vim plugin which enables simple live previews for anything text.",
+            "date_modified": "2024-06-11T17:45:42.000Z",
+            "date_published": "2024-05-22T20:07:09.000Z",
+            "author": {
+                "name": "BigPeet",
+                "url": "https://github.com/BigPeet"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-06-11T17:19:16.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3767728?u=1cfdf2e48d0b47d46d4114953a4ddfd7e6574129&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Safely load your project specific configurations written in json, lua or vimscript</div>",
+            "url": "https://github.com/creativenull/projectlocal.vim",
+            "title": "creativenull/projectlocal.vim: Safely load your project specific configurations written in json, lua or vimscript",
+            "date_modified": "2024-06-11T17:13:42.000Z",
+            "date_published": "2021-08-02T16:31:03.000Z",
+            "author": {
+                "name": "creativenull",
+                "url": "https://github.com/creativenull"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/438920?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Go development plugin for Vim</div>",
             "url": "https://github.com/fatih/vim-go",
             "title": "fatih/vim-go: Go development plugin for Vim",
-            "date_modified": "2024-06-11T17:02:03.000Z",
+            "date_modified": "2024-06-11T17:49:52.000Z",
             "date_published": "2014-03-24T13:12:26.000Z",
             "author": {
                 "name": "fatih",
@@ -149,21 +193,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
-            "url": "https://github.com/folke/tokyonight.nvim",
-            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-06-11T14:03:29.000Z",
-            "date_published": "2021-04-16T17:21:40.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-06-11T13:41:16.000Z",
+            "date_modified": "2024-06-11T17:39:14.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "sbdchd",
                 "url": "https://github.com/sbdchd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nightly</div>",
-            "url": "https://github.com/ttak0422/vim-plugins-overlay",
-            "title": "ttak0422/vim-plugins-overlay: nightly",
-            "date_modified": "2024-06-11T00:22:50.000Z",
-            "date_published": "2022-10-04T13:31:11.000Z",
-            "author": {
-                "name": "ttak0422",
-                "url": "https://github.com/ttak0422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1625763?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin for the Khronos Group's SPIR-V standard.</div>",
-            "url": "https://github.com/kbenzie/vim-spirv",
-            "title": "kbenzie/vim-spirv: A vim plugin for the Khronos Group's SPIR-V standard.",
-            "date_modified": "2024-06-11T00:12:27.000Z",
-            "date_published": "2016-11-16T21:13:00.000Z",
-            "author": {
-                "name": "kbenzie",
-                "url": "https://github.com/kbenzie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2746374?u=119fd2407fa36292bee85ff07671c3367c120311&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.</div>",
-            "url": "https://github.com/EdenEast/nightfox.nvim",
-            "title": "EdenEast/nightfox.nvim: 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
-            "date_modified": "2024-06-11T10:45:46.000Z",
-            "date_published": "2021-07-20T23:19:53.000Z",
-            "author": {
-                "name": "EdenEast",
-                "url": "https://github.com/EdenEast"
             }
         }
     ]
