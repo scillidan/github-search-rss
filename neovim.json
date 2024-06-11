@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97410685?u=13d6424b8413a02cedbd9ae9260e8ae4c78de2a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal neovim configuration using packer.nvim to manage plugins</div>",
+            "url": "https://github.com/froopy090/nvim-config",
+            "title": "froopy090/nvim-config: My personal neovim configuration using packer.nvim to manage plugins",
+            "date_modified": "2024-06-11T21:42:50.000Z",
+            "date_published": "2024-06-10T16:54:50.000Z",
+            "author": {
+                "name": "froopy090",
+                "url": "https://github.com/froopy090"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-06-11T21:33:04.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-06-11T21:17:11.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35736957?u=8d9db3b09cdaf58b441689a67e84433afd1a30f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Package.json dependency checker for Neovim</div>",
+            "url": "https://github.com/robertazzopardi/depsync",
+            "title": "robertazzopardi/depsync: Package.json dependency checker for Neovim",
+            "date_modified": "2024-06-11T20:51:02.000Z",
+            "date_published": "2024-05-29T17:16:09.000Z",
+            "author": {
+                "name": "robertazzopardi",
+                "url": "https://github.com/robertazzopardi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3349855?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Jsonnet (in Lua)</div>",
+            "url": "https://github.com/Duologic/nvim-jsonnet",
+            "title": "Duologic/nvim-jsonnet: Neovim plugin for Jsonnet (in Lua)",
+            "date_modified": "2024-06-11T20:27:52.000Z",
+            "date_published": "2023-07-23T18:11:44.000Z",
+            "author": {
+                "name": "Duologic",
+                "url": "https://github.com/Duologic"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-06-11T20:09:02.000Z",
+            "date_modified": "2024-06-11T21:00:23.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -25,17 +80,6 @@
             "author": {
                 "name": "oflisback",
                 "url": "https://github.com/oflisback"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
-            "url": "https://github.com/nvim-neorocks/rocks.nvim",
-            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-06-11T19:18:20.000Z",
-            "date_published": "2023-07-05T11:24:40.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
             }
         },
         {
@@ -141,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
             "url": "https://github.com/MagicDuck/grug-far.nvim",
             "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-06-11T17:07:44.000Z",
+            "date_modified": "2024-06-11T20:32:34.000Z",
             "date_published": "2024-04-28T18:15:17.000Z",
             "author": {
                 "name": "MagicDuck",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "crnvl96",
                 "url": "https://github.com/crnvl96"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17877050?u=117e973b7671a2ce4590b520c0de7e75d18af737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings</div>",
-            "url": "https://github.com/lobneroO/nvim_conf",
-            "title": "lobneroO/nvim_conf: config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings",
-            "date_modified": "2024-06-11T16:43:50.000Z",
-            "date_published": "2024-02-04T13:47:18.000Z",
-            "author": {
-                "name": "lobneroO",
-                "url": "https://github.com/lobneroO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97511408?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.</div>",
-            "url": "https://github.com/h4ckm1n-dev/kube-utils-nvim",
-            "title": "h4ckm1n-dev/kube-utils-nvim: 🚀 Neovim Kubernetes Plugin : This Neovim plugin provides seamless integration with Kubernetes and Helm, allowing you to deploy and manage Kubernetes resources directly from your editor.",
-            "date_modified": "2024-06-11T16:32:47.000Z",
-            "date_published": "2024-05-10T21:31:16.000Z",
-            "author": {
-                "name": "h4ckm1n-dev",
-                "url": "https://github.com/h4ckm1n-dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of DOs and DON'Ts for modern Neovim Lua plugin development</div>",
-            "url": "https://github.com/nvim-neorocks/nvim-best-practices",
-            "title": "nvim-neorocks/nvim-best-practices: Collection of DOs and DON'Ts for modern Neovim Lua plugin development",
-            "date_modified": "2024-06-11T16:30:29.000Z",
-            "date_published": "2024-05-14T06:45:21.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97410685?u=13d6424b8413a02cedbd9ae9260e8ae4c78de2a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal neovim configuration using packer.nvim to manage plugins</div>",
-            "url": "https://github.com/froopy090/nvim-config",
-            "title": "froopy090/nvim-config: My personal neovim configuration using packer.nvim to manage plugins",
-            "date_modified": "2024-06-11T16:01:16.000Z",
-            "date_published": "2024-06-10T16:54:50.000Z",
-            "author": {
-                "name": "froopy090",
-                "url": "https://github.com/froopy090"
             }
         }
     ]
