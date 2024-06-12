@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-06-12T02:15:07.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Task manager for neovim.</div>",
+            "url": "https://github.com/niuiic/task.nvim",
+            "title": "niuiic/task.nvim: Task manager for neovim.",
+            "date_modified": "2024-06-12T02:10:24.000Z",
+            "date_published": "2024-05-21T08:33:53.000Z",
+            "author": {
+                "name": "niuiic",
+                "url": "https://github.com/niuiic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36510152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A categorized list of neo/vim-plugins.</div>",
+            "url": "https://github.com/astier/vlugins",
+            "title": "astier/vlugins: A categorized list of neo/vim-plugins.",
+            "date_modified": "2024-06-12T02:06:04.000Z",
+            "date_published": "2021-02-09T14:09:11.000Z",
+            "author": {
+                "name": "astier",
+                "url": "https://github.com/astier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57921252?u=9a7770b83718e7277afb393a72acb8d99105a591&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin improving access to recent yank history</div>",
+            "url": "https://github.com/ptdewey/yankbank-nvim",
+            "title": "ptdewey/yankbank-nvim: Neovim plugin improving access to recent yank history",
+            "date_modified": "2024-06-12T02:01:44.000Z",
+            "date_published": "2024-03-14T23:12:23.000Z",
+            "author": {
+                "name": "ptdewey",
+                "url": "https://github.com/ptdewey"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
             "url": "https://github.com/nvim-plugnplay/database",
             "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "NixNeovim",
                 "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35736957?u=8d9db3b09cdaf58b441689a67e84433afd1a30f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Package.json dependency checker for Neovim</div>",
-            "url": "https://github.com/robertazzopardi/depsync",
-            "title": "robertazzopardi/depsync: Package.json dependency checker for Neovim",
-            "date_modified": "2024-06-11T20:51:02.000Z",
-            "date_published": "2024-05-29T17:16:09.000Z",
-            "author": {
-                "name": "robertazzopardi",
-                "url": "https://github.com/robertazzopardi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3349855?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Jsonnet (in Lua)</div>",
-            "url": "https://github.com/Duologic/nvim-jsonnet",
-            "title": "Duologic/nvim-jsonnet: Neovim plugin for Jsonnet (in Lua)",
-            "date_modified": "2024-06-11T20:27:52.000Z",
-            "date_published": "2023-07-23T18:11:44.000Z",
-            "author": {
-                "name": "Duologic",
-                "url": "https://github.com/Duologic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-06-12T00:59:51.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12221141?u=568c85ceeae77747245a16b06abd6d0ec5354e5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin used to synchronize active note and scroll position between neovim and obsidian</div>",
-            "url": "https://github.com/oflisback/obsidian-bridge.nvim",
-            "title": "oflisback/obsidian-bridge.nvim: A neovim plugin used to synchronize active note and scroll position between neovim and obsidian",
-            "date_modified": "2024-06-12T00:04:18.000Z",
-            "date_published": "2023-09-17T16:17:18.000Z",
-            "author": {
-                "name": "oflisback",
-                "url": "https://github.com/oflisback"
             }
         }
     ]
