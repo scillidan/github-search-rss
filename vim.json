@@ -6,14 +6,47 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-06-13T14:55:45.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16723609?u=cbed4e4806b32c03de40d67b876e36cb1fd0f669&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An intuitive CLI client and Vim9 plugin for the OpenAI API, enabling seamless AI-powered text generation directly from your command line or within Vim. Simple to use, yet powerful.</div>",
             "url": "https://github.com/micheam/ai-assistant-console",
             "title": "micheam/ai-assistant-console: An intuitive CLI client and Vim9 plugin for the OpenAI API, enabling seamless AI-powered text generation directly from your command line or within Vim. Simple to use, yet powerful.",
-            "date_modified": "2024-06-13T14:05:11.000Z",
+            "date_modified": "2024-06-13T14:38:48.000Z",
             "date_published": "2023-05-01T01:09:35.000Z",
             "author": {
                 "name": "micheam",
                 "url": "https://github.com/micheam"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37610000?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.</div>",
+            "url": "https://github.com/themix-project/themix-gui",
+            "title": "themix-project/themix-gui: Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.",
+            "date_modified": "2024-06-13T14:45:34.000Z",
+            "date_published": "2014-05-25T13:45:31.000Z",
+            "author": {
+                "name": "themix-project",
+                "url": "https://github.com/themix-project"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-06-13T14:21:11.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
             }
         },
         {
@@ -42,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
             "url": "https://github.com/AstroNvim/AstroNvim",
             "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-06-13T13:43:29.000Z",
+            "date_modified": "2024-06-13T15:05:43.000Z",
             "date_published": "2022-02-02T22:33:34.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "averagejoey2000",
                 "url": "https://github.com/averagejoey2000"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1740244?u=9cb207432dafc94e5edec96ec367c4e3db4286bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin which enables simple live previews for anything text.</div>",
-            "url": "https://github.com/BigPeet/vim-live-preview",
-            "title": "BigPeet/vim-live-preview: A vim plugin which enables simple live previews for anything text.",
-            "date_modified": "2024-06-12T22:03:04.000Z",
-            "date_published": "2024-05-22T20:07:09.000Z",
-            "author": {
-                "name": "BigPeet",
-                "url": "https://github.com/BigPeet"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44566328?u=4c69f595ce2871a9bb5eee5a54900978ac56a6ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>textobj plugin to select trimmed inner tag region.</div>",
-            "url": "https://github.com/Omochice/vim-textobj-bettertag",
-            "title": "Omochice/vim-textobj-bettertag: textobj plugin to select trimmed inner tag region.",
-            "date_modified": "2024-06-12T20:34:24.000Z",
-            "date_published": "2022-11-07T12:10:34.000Z",
-            "author": {
-                "name": "Omochice",
-                "url": "https://github.com/Omochice"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29489988?u=29ac0dc22db78e609d01048ea4230c2877b6b4fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for displaying GitHub issues and (some details about) pull requests inside Vim.</div>",
-            "url": "https://github.com/LunarWatcher/Skye.vim",
-            "title": "LunarWatcher/Skye.vim: Plugin for displaying GitHub issues and (some details about) pull requests inside Vim.",
-            "date_modified": "2024-06-12T19:04:18.000Z",
-            "date_published": "2021-05-09T12:16:22.000Z",
-            "author": {
-                "name": "LunarWatcher",
-                "url": "https://github.com/LunarWatcher"
             }
         }
     ]
