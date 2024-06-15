@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187674?u=54e9e99613db6f555398ca036fd54a33eac9c857&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that adds support for file operations using built-in LSP</div>",
+            "url": "https://github.com/antosha417/nvim-lsp-file-operations",
+            "title": "antosha417/nvim-lsp-file-operations: Neovim plugin that adds support for file operations using built-in LSP",
+            "date_modified": "2024-06-15T14:43:45.000Z",
+            "date_published": "2023-01-08T22:05:58.000Z",
+            "author": {
+                "name": "antosha417",
+                "url": "https://github.com/antosha417"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/339433?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin: set of functions to navigate code without LSP.</div>",
+            "url": "https://github.com/emmanueltouzery/code-compass.nvim",
+            "title": "emmanueltouzery/code-compass.nvim: Neovim plugin: set of functions to navigate code without LSP.",
+            "date_modified": "2024-06-15T14:39:21.000Z",
+            "date_published": "2024-03-30T18:30:36.000Z",
+            "author": {
+                "name": "emmanueltouzery",
+                "url": "https://github.com/emmanueltouzery"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73286100?u=1302c813e30231fdc7f3661b3af69bb9b0d8ef30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Search neovim plugins and online :help via Alfred</div>",
+            "url": "https://github.com/chrisgrieser/alfred-neovim-utilities",
+            "title": "chrisgrieser/alfred-neovim-utilities: Search neovim plugins and online :help via Alfred",
+            "date_modified": "2024-06-15T14:26:46.000Z",
+            "date_published": "2022-11-27T10:48:31.000Z",
+            "author": {
+                "name": "chrisgrieser",
+                "url": "https://github.com/chrisgrieser"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/715660?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Chase after organizing the project configuration and running things...</div>",
+            "url": "https://github.com/candango/chase.nvim",
+            "title": "candango/chase.nvim: Chase after organizing the project configuration and running things...",
+            "date_modified": "2024-06-15T14:18:28.000Z",
+            "date_published": "2023-06-17T23:13:07.000Z",
+            "author": {
+                "name": "candango",
+                "url": "https://github.com/candango"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76592799?u=cc4c8b2a7f3c2fc2bfdb3bb12bab3438589982e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔱 Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins</div>",
             "url": "https://github.com/marko-cerovac/material.nvim",
             "title": "marko-cerovac/material.nvim: :trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins",
@@ -174,55 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
             "url": "https://github.com/mrcjkb/rustaceanvim",
             "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-06-15T13:49:31.000Z",
+            "date_modified": "2024-06-15T15:03:48.000Z",
             "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
                 "name": "mrcjkb",
                 "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82512988?u=288080a3b90cbe42726c3397564380d7c5f49ea4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to vacuum up unused file buffers</div>",
-            "url": "https://github.com/ChuufMaster/buffer-vacuum",
-            "title": "ChuufMaster/buffer-vacuum: A neovim plugin to vacuum up unused file buffers",
-            "date_modified": "2024-06-15T09:50:25.000Z",
-            "date_published": "2024-06-12T11:31:05.000Z",
-            "author": {
-                "name": "ChuufMaster",
-                "url": "https://github.com/ChuufMaster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2666479?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LSP-AI plugin for Neovim</div>",
-            "url": "https://github.com/SuperBo/lsp-ai.nvim",
-            "title": "SuperBo/lsp-ai.nvim: LSP-AI plugin for Neovim",
-            "date_modified": "2024-06-15T09:44:35.000Z",
-            "date_published": "2024-06-15T09:44:32.000Z",
-            "author": {
-                "name": "SuperBo",
-                "url": "https://github.com/SuperBo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17877050?u=117e973b7671a2ce4590b520c0de7e75d18af737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings</div>",
-            "url": "https://github.com/lobneroO/nvim_conf",
-            "title": "lobneroO/nvim_conf: config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings",
-            "date_modified": "2024-06-15T09:36:28.000Z",
-            "date_published": "2024-02-04T13:47:18.000Z",
-            "author": {
-                "name": "lobneroO",
-                "url": "https://github.com/lobneroO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82512988?u=288080a3b90cbe42726c3397564380d7c5f49ea4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Generate inteligent customisable markdown TOC with affordances for emojis and relative file paths.</div>",
-            "url": "https://github.com/ChuufMaster/markdown-toc",
-            "title": "ChuufMaster/markdown-toc: Generate inteligent customisable markdown TOC with affordances for emojis and relative file paths.",
-            "date_modified": "2024-06-15T08:39:35.000Z",
-            "date_published": "2024-06-13T12:44:14.000Z",
-            "author": {
-                "name": "ChuufMaster",
-                "url": "https://github.com/ChuufMaster"
             }
         }
     ]
