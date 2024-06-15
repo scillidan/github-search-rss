@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43011293?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for Neovim to provide some LSP-like functionalities</div>",
+            "url": "https://github.com/harrison-dean/genero-tools",
+            "title": "harrison-dean/genero-tools: Plugin for Neovim to provide some LSP-like functionalities",
+            "date_modified": "2024-06-15T21:06:40.000Z",
+            "date_published": "2024-06-15T20:18:13.000Z",
+            "author": {
+                "name": "harrison-dean",
+                "url": "https://github.com/harrison-dean"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31730729?u=9b5f151994618c616e2e1a4ec5d87a5da3113db9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Status column plugin that provides a configurable 'statuscolumn' and click handlers.</div>",
+            "url": "https://github.com/luukvbaal/statuscol.nvim",
+            "title": "luukvbaal/statuscol.nvim: Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
+            "date_modified": "2024-06-15T20:25:52.000Z",
+            "date_published": "2022-11-21T12:04:24.000Z",
+            "author": {
+                "name": "luukvbaal",
+                "url": "https://github.com/luukvbaal"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168831070?u=3e30fcf2086c0c7df31253f641cb7ec96a3f8988&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for inserting and updating the Codam header</div>",
+            "url": "https://github.com/lvan-gef/codam-header",
+            "title": "lvan-gef/codam-header: A neovim plugin for inserting and updating the Codam header",
+            "date_modified": "2024-06-15T20:10:44.000Z",
+            "date_published": "2024-05-10T23:09:02.000Z",
+            "author": {
+                "name": "lvan-gef",
+                "url": "https://github.com/lvan-gef"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168831070?u=3e30fcf2086c0c7df31253f641cb7ec96a3f8988&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for highlighting coding standard violations using Norminette</div>",
             "url": "https://github.com/lvan-gef/norminette-check",
             "title": "lvan-gef/norminette-check: Neovim plugin for highlighting coding standard violations using Norminette",
@@ -130,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13983258?u=87f1b47e4de1b08a5dfe154ea9201f9006f1bd51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A  neovim plugin to convert JSON objects to write types.</div>",
             "url": "https://github.com/Redoxahmii/json-to-types.nvim",
             "title": "Redoxahmii/json-to-types.nvim: A  neovim plugin to convert JSON objects to write types.",
-            "date_modified": "2024-06-15T17:46:25.000Z",
+            "date_modified": "2024-06-15T20:38:40.000Z",
             "date_published": "2024-02-01T21:16:51.000Z",
             "author": {
                 "name": "Redoxahmii",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "candango",
                 "url": "https://github.com/candango"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76592799?u=cc4c8b2a7f3c2fc2bfdb3bb12bab3438589982e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔱 Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins</div>",
-            "url": "https://github.com/marko-cerovac/material.nvim",
-            "title": "marko-cerovac/material.nvim: :trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins",
-            "date_modified": "2024-06-15T16:19:24.000Z",
-            "date_published": "2021-03-21T00:44:43.000Z",
-            "author": {
-                "name": "marko-cerovac",
-                "url": "https://github.com/marko-cerovac"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
-            "url": "https://github.com/folke/noice.nvim",
-            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
-            "date_modified": "2024-06-15T13:46:03.000Z",
-            "date_published": "2022-09-21T19:32:33.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46505033?u=de0c2e507f2ee8fabad0eb24b23a7dd510e25f3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to hold my snippet's</div>",
-            "url": "https://github.com/BrendanArmstrong1/lua_snippet_repo.nvim",
-            "title": "BrendanArmstrong1/lua_snippet_repo.nvim: neovim plugin to hold my snippet's",
-            "date_modified": "2024-06-15T13:38:42.000Z",
-            "date_published": "2024-03-12T10:50:15.000Z",
-            "author": {
-                "name": "BrendanArmstrong1",
-                "url": "https://github.com/BrendanArmstrong1"
             }
         }
     ]
