@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95718239?u=4d4b5475d175ebd042dc8d3b0d92f1db63333b25&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archivo de configuración de neovim. Plugins incluidos</div>",
+            "url": "https://github.com/JonnerPaz/nvim-config",
+            "title": "JonnerPaz/nvim-config: Archivo de configuración de neovim. Plugins incluidos",
+            "date_modified": "2024-06-16T17:43:59.000Z",
+            "date_published": "2022-08-04T18:02:15.000Z",
+            "author": {
+                "name": "JonnerPaz",
+                "url": "https://github.com/JonnerPaz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.</div>",
+            "url": "https://github.com/rachartier/tiny-devicons-auto-colors.nvim",
+            "title": "rachartier/tiny-devicons-auto-colors.nvim: A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.",
+            "date_modified": "2024-06-16T17:30:24.000Z",
+            "date_published": "2024-05-18T02:46:44.000Z",
+            "author": {
+                "name": "rachartier",
+                "url": "https://github.com/rachartier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-06-16T17:20:06.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3767728?u=1cfdf2e48d0b47d46d4114953a4ddfd7e6574129&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Web development plugin for neovim</div>",
+            "url": "https://github.com/creativenull/web.nvim",
+            "title": "creativenull/web.nvim: Web development plugin for neovim",
+            "date_modified": "2024-06-16T17:16:36.000Z",
+            "date_published": "2023-10-02T14:27:28.000Z",
+            "author": {
+                "name": "creativenull",
+                "url": "https://github.com/creativenull"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-16T17:15:45.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
             "url": "https://github.com/nvim-neorocks/lz.n",
             "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
@@ -20,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
             "url": "https://github.com/mrcjkb/rustaceanvim",
             "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-06-16T16:40:44.000Z",
+            "date_modified": "2024-06-16T17:16:00.000Z",
             "date_published": "2021-05-11T06:39:38.000Z",
             "author": {
                 "name": "mrcjkb",
@@ -108,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-16T16:51:31.000Z",
+            "date_modified": "2024-06-16T17:51:42.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -119,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
             "url": "https://github.com/folke/noice.nvim",
             "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
-            "date_modified": "2024-06-16T17:04:57.000Z",
+            "date_modified": "2024-06-16T17:49:29.000Z",
             "date_published": "2022-09-21T19:32:33.000Z",
             "author": {
                 "name": "folke",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "mrcjkb",
                 "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-06-16T13:24:09.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23409060?u=06c75ea2287aa89543fa9c6791acab774d5244cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to run a script using the built-in terminal</div>",
-            "url": "https://github.com/ojroques/nvim-buildme",
-            "title": "ojroques/nvim-buildme: A Neovim plugin to run a script using the built-in terminal",
-            "date_modified": "2024-06-16T13:02:24.000Z",
-            "date_published": "2021-01-17T18:22:05.000Z",
-            "author": {
-                "name": "ojroques",
-                "url": "https://github.com/ojroques"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127350487?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Neovim plugin for Supermaven</div>",
-            "url": "https://github.com/supermaven-inc/supermaven-nvim",
-            "title": "supermaven-inc/supermaven-nvim: The official Neovim plugin for Supermaven",
-            "date_modified": "2024-06-16T15:50:14.000Z",
-            "date_published": "2024-05-08T17:37:53.000Z",
-            "author": {
-                "name": "supermaven-inc",
-                "url": "https://github.com/supermaven-inc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13983258?u=87f1b47e4de1b08a5dfe154ea9201f9006f1bd51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A  neovim plugin to convert JSON objects to write types.</div>",
-            "url": "https://github.com/Redoxahmii/json-to-types.nvim",
-            "title": "Redoxahmii/json-to-types.nvim: A  neovim plugin to convert JSON objects to write types.",
-            "date_modified": "2024-06-16T14:38:34.000Z",
-            "date_published": "2024-02-01T21:16:51.000Z",
-            "author": {
-                "name": "Redoxahmii",
-                "url": "https://github.com/Redoxahmii"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
-            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
-            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
-            "date_modified": "2024-06-16T12:10:08.000Z",
-            "date_published": "2024-03-10T11:54:02.000Z",
-            "author": {
-                "name": "ttak0422",
-                "url": "https://github.com/ttak0422"
             }
         }
     ]
