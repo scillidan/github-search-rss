@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101342105?u=d83eb94a87455ab03dc949683fddd938f5806ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for easier integration of <a href=\"https://github.com/Axlefublr/harp\">https://github.com/Axlefublr/harp</a> into a Neovim config</div>",
+            "url": "https://github.com/Axlefublr/harp-nvim",
+            "title": "Axlefublr/harp-nvim: Plugin for easier integration of https://github.com/Axlefublr/harp into a Neovim config",
+            "date_modified": "2024-06-17T06:10:50.000Z",
+            "date_published": "2024-04-23T03:00:24.000Z",
+            "author": {
+                "name": "Axlefublr",
+                "url": "https://github.com/Axlefublr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
+            "url": "https://github.com/folke/noice.nvim",
+            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+            "date_modified": "2024-06-17T06:04:21.000Z",
+            "date_published": "2022-09-21T19:32:33.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-17T05:23:33.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32016110?u=c593848dd19f63499cbf0dd69323c96dfb1b015b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lua plugin to turn github copilot into a cmp source</div>",
+            "url": "https://github.com/zbirenbaum/copilot-cmp",
+            "title": "zbirenbaum/copilot-cmp: Lua plugin to turn github copilot into a cmp source",
+            "date_modified": "2024-06-17T05:21:53.000Z",
+            "date_published": "2022-04-02T22:24:10.000Z",
+            "author": {
+                "name": "zbirenbaum",
+                "url": "https://github.com/zbirenbaum"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166581427?u=483ce3c7471ad0eed9fa5d37eed04ddd3fc09b9f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My configuration of neovim, using lazy.nvim as plugin manager.</div>",
+            "url": "https://github.com/spectrumzero/nvimforzero",
+            "title": "spectrumzero/nvimforzero: My configuration of neovim, using lazy.nvim as plugin manager.",
+            "date_modified": "2024-06-17T05:14:52.000Z",
+            "date_published": "2024-05-21T09:53:23.000Z",
+            "author": {
+                "name": "spectrumzero",
+                "url": "https://github.com/spectrumzero"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30348075?u=fc7c41dd14bf0d1584026c9f43e3169331b376e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Yazi plugin which the behavior consistent with flash.nvim in Neovim, allow search str to generate lable to jump.</div>",
             "url": "https://github.com/DreamMaoMao/searchjump.yazi",
             "title": "DreamMaoMao/searchjump.yazi: A Yazi plugin which the behavior consistent with flash.nvim in Neovim, allow search str to generate lable to jump.",
@@ -36,6 +91,17 @@
             "author": {
                 "name": "donus3",
                 "url": "https://github.com/donus3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-06-17T05:52:24.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
             }
         },
         {
@@ -108,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-06-17T00:29:47.000Z",
+            "date_modified": "2024-06-17T06:01:03.000Z",
             "date_published": "2024-03-01T19:42:19.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34950778?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for interacting with Please repositories</div>",
-            "url": "https://github.com/marcuscaisey/please.nvim",
-            "title": "marcuscaisey/please.nvim: A Neovim plugin for interacting with Please repositories",
-            "date_modified": "2024-06-16T23:09:20.000Z",
-            "date_published": "2022-03-28T23:17:26.000Z",
-            "author": {
-                "name": "marcuscaisey",
-                "url": "https://github.com/marcuscaisey"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8628530?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rich development workflow with Clojure support, using AstroNvim 4 and selected plugins</div>",
-            "url": "https://github.com/practicalli/astro",
-            "title": "practicalli/astro: Rich development workflow with Clojure support, using AstroNvim 4 and selected plugins",
-            "date_modified": "2024-06-16T22:49:31.000Z",
-            "date_published": "2024-04-02T19:59:16.000Z",
-            "author": {
-                "name": "practicalli",
-                "url": "https://github.com/practicalli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43011293?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to provide some LSP-like functionalities for the Genero language by FourJs</div>",
-            "url": "https://github.com/harrison-dean/genero-tools.nvim",
-            "title": "harrison-dean/genero-tools.nvim: A Neovim plugin to provide some LSP-like functionalities for the Genero language by FourJs",
-            "date_modified": "2024-06-17T03:02:53.000Z",
-            "date_published": "2024-06-15T22:48:43.000Z",
-            "author": {
-                "name": "harrison-dean",
-                "url": "https://github.com/harrison-dean"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-06-16T21:39:33.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-06-16T21:14:00.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71392160?u=e11c0316a5dbf2af1fb58bd3bc558b49c3d6e170&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that emulates commitizen CLI tool to keep those commits following the conventional commit rules</div>",
-            "url": "https://github.com/AlejandroSuero/commitizen.nvim",
-            "title": "AlejandroSuero/commitizen.nvim: Neovim plugin that emulates commitizen CLI tool to keep those commits following the conventional commit rules",
-            "date_modified": "2024-06-16T20:14:14.000Z",
-            "date_published": "2024-06-16T20:14:09.000Z",
-            "author": {
-                "name": "AlejandroSuero",
-                "url": "https://github.com/AlejandroSuero"
             }
         }
     ]
