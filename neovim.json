@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
+            "url": "https://github.com/yongleyuan/nvim-config",
+            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
+            "date_modified": "2024-06-18T01:55:38.000Z",
+            "date_published": "2024-06-18T01:55:38.000Z",
+            "author": {
+                "name": "yongleyuan",
+                "url": "https://github.com/yongleyuan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46505033?u=de0c2e507f2ee8fabad0eb24b23a7dd510e25f3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to hold my snippet's</div>",
+            "url": "https://github.com/BrendanArmstrong1/lua_snippet_repo.nvim",
+            "title": "BrendanArmstrong1/lua_snippet_repo.nvim: neovim plugin to hold my snippet's",
+            "date_modified": "2024-06-18T01:49:27.000Z",
+            "date_published": "2024-03-12T10:50:15.000Z",
+            "author": {
+                "name": "BrendanArmstrong1",
+                "url": "https://github.com/BrendanArmstrong1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78927152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that provides battery info from upower</div>",
+            "url": "https://github.com/leonnelc/battery.nvim",
+            "title": "leonnelc/battery.nvim: Neovim plugin that provides battery info from upower",
+            "date_modified": "2024-06-18T01:31:44.000Z",
+            "date_published": "2024-06-17T18:14:53.000Z",
+            "author": {
+                "name": "leonnelc",
+                "url": "https://github.com/leonnelc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
+            "url": "https://github.com/folke/neoconf.nvim",
+            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
+            "date_modified": "2024-06-18T01:29:09.000Z",
+            "date_published": "2022-09-07T16:15:13.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101342105?u=d83eb94a87455ab03dc949683fddd938f5806ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for easier integration of <a href=\"https://github.com/Axlefublr/harp\">https://github.com/Axlefublr/harp</a> into a Neovim config</div>",
+            "url": "https://github.com/Axlefublr/harp-nvim",
+            "title": "Axlefublr/harp-nvim: Plugin for easier integration of https://github.com/Axlefublr/harp into a Neovim config",
+            "date_modified": "2024-06-18T01:24:24.000Z",
+            "date_published": "2024-04-23T03:00:24.000Z",
+            "author": {
+                "name": "Axlefublr",
+                "url": "https://github.com/Axlefublr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LSP's Go to definition plugin for neovim.</div>",
+            "url": "https://github.com/hrsh7th/nvim-gtd",
+            "title": "hrsh7th/nvim-gtd: LSP's Go to definition plugin for neovim.",
+            "date_modified": "2024-06-18T01:06:26.000Z",
+            "date_published": "2022-11-28T17:11:13.000Z",
+            "author": {
+                "name": "hrsh7th",
+                "url": "https://github.com/hrsh7th"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
+            "url": "https://github.com/R-nvim/R.nvim",
+            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
+            "date_modified": "2024-06-18T00:45:03.000Z",
+            "date_published": "2024-01-22T20:23:10.000Z",
+            "author": {
+                "name": "R-nvim",
+                "url": "https://github.com/R-nvim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1760589?u=4d33579cbfad406ca04eda989470fcc2e45a6367&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to automatically adjust `git` env vars when syncing dotfiles using the \"bare git repo\" method</div>",
             "url": "https://github.com/ejrichards/baredot.nvim",
             "title": "ejrichards/baredot.nvim: Neovim plugin to automatically adjust `git` env vars when syncing dotfiles using the \"bare git repo\" method",
@@ -86,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-06-17T23:15:58.000Z",
+            "date_modified": "2024-06-18T01:38:12.000Z",
             "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -146,83 +223,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82512988?u=288080a3b90cbe42726c3397564380d7c5f49ea4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to vacuum up unused file buffers</div>",
-            "url": "https://github.com/ChuufMaster/buffer-vacuum",
-            "title": "ChuufMaster/buffer-vacuum: A neovim plugin to vacuum up unused file buffers",
-            "date_modified": "2024-06-17T21:05:07.000Z",
-            "date_published": "2024-06-12T11:31:05.000Z",
-            "author": {
-                "name": "ChuufMaster",
-                "url": "https://github.com/ChuufMaster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56195553?u=138e1a98081ad697d6d11b7a32a1441fa12ec40f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim template plugin</div>",
-            "url": "https://github.com/marvalarva2929/paris",
-            "title": "marvalarva2929/paris: A neovim template plugin",
-            "date_modified": "2024-06-17T20:58:55.000Z",
-            "date_published": "2024-06-17T20:57:28.000Z",
-            "author": {
-                "name": "marvalarva2929",
-                "url": "https://github.com/marvalarva2929"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71392160?u=e11c0316a5dbf2af1fb58bd3bc558b49c3d6e170&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that emulates commitizen CLI tool to keep those commits following the conventional commit rules</div>",
-            "url": "https://github.com/AlejandroSuero/commitizen.nvim",
-            "title": "AlejandroSuero/commitizen.nvim: Neovim plugin that emulates commitizen CLI tool to keep those commits following the conventional commit rules",
-            "date_modified": "2024-06-17T20:35:40.000Z",
-            "date_published": "2024-06-16T20:14:09.000Z",
-            "author": {
-                "name": "AlejandroSuero",
-                "url": "https://github.com/AlejandroSuero"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9398410?u=b1012f55b84c4a2e23d9836508bd8eddfdb58fde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/iancleary/neovim-plugins-overlay",
-            "title": "iancleary/neovim-plugins-overlay",
-            "date_modified": "2024-06-17T20:26:06.000Z",
-            "date_published": "2024-06-10T23:23:55.000Z",
-            "author": {
-                "name": "iancleary",
-                "url": "https://github.com/iancleary"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78927152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that provides battery info from upower</div>",
-            "url": "https://github.com/leonnelc/battery.nvim",
-            "title": "leonnelc/battery.nvim: Neovim plugin that provides battery info from upower",
-            "date_modified": "2024-06-17T19:54:54.000Z",
-            "date_published": "2024-06-17T18:14:53.000Z",
-            "author": {
-                "name": "leonnelc",
-                "url": "https://github.com/leonnelc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52210954?u=6ef6a3ccbe6d0a852824791f33a25545633e281f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to conceal long class attributes.</div>",
-            "url": "https://github.com/razak17/tailwind-fold.nvim",
-            "title": "razak17/tailwind-fold.nvim: Neovim plugin to conceal long class attributes.",
-            "date_modified": "2024-06-17T19:47:39.000Z",
-            "date_published": "2023-05-11T20:11:22.000Z",
-            "author": {
-                "name": "razak17",
-                "url": "https://github.com/razak17"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15918021?u=f7b68af007a0dd9b2809f2b3623622fd4d8d6be7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config with plugins</div>",
-            "url": "https://github.com/malex37/nvim-config",
-            "title": "malex37/nvim-config: Neovim config with plugins",
-            "date_modified": "2024-06-17T19:37:58.000Z",
-            "date_published": "2023-09-08T17:57:23.000Z",
-            "author": {
-                "name": "malex37",
-                "url": "https://github.com/malex37"
             }
         }
     ]
