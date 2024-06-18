@@ -6,14 +6,36 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3581973?u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.</div>",
+            "url": "https://github.com/slugbyte/lackluster.nvim",
+            "title": "slugbyte/lackluster.nvim: a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.",
+            "date_modified": "2024-06-18T13:55:06.000Z",
+            "date_published": "2024-05-20T10:19:15.000Z",
+            "author": {
+                "name": "slugbyte",
+                "url": "https://github.com/slugbyte"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78927152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that provides battery info from upower</div>",
             "url": "https://github.com/leonnelc/battery.nvim",
             "title": "leonnelc/battery.nvim: Neovim plugin that provides battery info from upower",
-            "date_modified": "2024-06-18T13:09:29.000Z",
+            "date_modified": "2024-06-18T13:26:04.000Z",
             "date_published": "2024-06-17T18:14:53.000Z",
             "author": {
                 "name": "leonnelc",
                 "url": "https://github.com/leonnelc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-18T13:25:46.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -47,6 +69,17 @@
             "author": {
                 "name": "diegofigs",
                 "url": "https://github.com/diegofigs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-06-18T14:02:30.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
             }
         },
         {
@@ -108,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
             "url": "https://github.com/vim-denops/denops.vim",
             "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
-            "date_modified": "2024-06-18T11:15:43.000Z",
+            "date_modified": "2024-06-18T13:16:51.000Z",
             "date_published": "2021-02-08T15:46:07.000Z",
             "author": {
                 "name": "vim-denops",
@@ -171,21 +204,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-06-18T09:18:55.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim fuzzy finder that updates on every keystroke.</div>",
             "url": "https://github.com/linrongbin16/fzfx.nvim",
             "title": "linrongbin16/fzfx.nvim: A Neovim fuzzy finder that updates on every keystroke.",
-            "date_modified": "2024-06-18T09:17:00.000Z",
+            "date_modified": "2024-06-18T14:00:56.000Z",
             "date_published": "2023-07-26T09:58:20.000Z",
             "author": {
                 "name": "linrongbin16",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "lewis6991",
                 "url": "https://github.com/lewis6991"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59741700?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that uses httpyac cli to send http requests and prints result to buffer</div>",
-            "url": "https://github.com/ZieMcd/nvim-httpyac",
-            "title": "ZieMcd/nvim-httpyac: A neovim plugin that uses httpyac cli to send http requests and prints result to buffer",
-            "date_modified": "2024-06-18T08:09:26.000Z",
-            "date_published": "2024-06-15T18:08:14.000Z",
-            "author": {
-                "name": "ZieMcd",
-                "url": "https://github.com/ZieMcd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48688801?u=6717824d9f1ce35731d7c15319340c97a5165804&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>File template plugin based on buffer filetype</div>",
-            "url": "https://github.com/doganalper/template.nvim",
-            "title": "doganalper/template.nvim: File template plugin based on buffer filetype",
-            "date_modified": "2024-06-18T07:32:18.000Z",
-            "date_published": "2023-08-03T15:23:13.000Z",
-            "author": {
-                "name": "doganalper",
-                "url": "https://github.com/doganalper"
             }
         }
     ]
