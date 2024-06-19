@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-06-19T19:00:03.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30614453?u=1a7a019c11d3622f7a747f35e1451283030ca5f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nvim-smartchr is a single-character expansion plugin for Neovim.</div>",
+            "url": "https://github.com/enoatu/nvim-smartchr",
+            "title": "enoatu/nvim-smartchr: nvim-smartchr is a single-character expansion plugin for Neovim.",
+            "date_modified": "2024-06-19T18:47:28.000Z",
+            "date_published": "2024-06-19T15:24:18.000Z",
+            "author": {
+                "name": "enoatu",
+                "url": "https://github.com/enoatu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74779146?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Trunk Check Plugin for Neovim</div>",
+            "url": "https://github.com/trunk-io/neovim-trunk",
+            "title": "trunk-io/neovim-trunk: The official Trunk Check Plugin for Neovim",
+            "date_modified": "2024-06-19T18:34:38.000Z",
+            "date_published": "2023-09-01T21:09:59.000Z",
+            "author": {
+                "name": "trunk-io",
+                "url": "https://github.com/trunk-io"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-06-19T18:33:58.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78927152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that provides battery info from upower</div>",
             "url": "https://github.com/leonnelc/battery.nvim",
             "title": "leonnelc/battery.nvim: Neovim plugin that provides battery info from upower",
@@ -36,17 +80,6 @@
             "author": {
                 "name": "m15a",
                 "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30614453?u=1a7a019c11d3622f7a747f35e1451283030ca5f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nvim-smartchr is a single-character expansion plugin for Neovim.</div>",
-            "url": "https://github.com/enoatu/nvim-smartchr",
-            "title": "enoatu/nvim-smartchr: nvim-smartchr is a single-character expansion plugin for Neovim.",
-            "date_modified": "2024-06-19T17:21:39.000Z",
-            "date_published": "2024-06-19T15:24:18.000Z",
-            "author": {
-                "name": "enoatu",
-                "url": "https://github.com/enoatu"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "cirofabianbermudez",
                 "url": "https://github.com/cirofabianbermudez"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
-            "url": "https://github.com/tamago324/nlsp-settings.nvim",
-            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
-            "date_modified": "2024-06-19T13:04:13.000Z",
-            "date_published": "2021-03-21T05:46:20.000Z",
-            "author": {
-                "name": "tamago324",
-                "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.</div>",
-            "url": "https://github.com/ray-x/go.nvim",
-            "title": "ray-x/go.nvim: A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.",
-            "date_modified": "2024-06-19T17:22:10.000Z",
-            "date_published": "2021-03-10T10:23:02.000Z",
-            "author": {
-                "name": "ray-x",
-                "url": "https://github.com/ray-x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11340522?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to create floating windows</div>",
-            "url": "https://github.com/arzezak/floaty",
-            "title": "arzezak/floaty: Neovim plugin to create floating windows",
-            "date_modified": "2024-06-19T12:43:00.000Z",
-            "date_published": "2024-06-04T12:52:37.000Z",
-            "author": {
-                "name": "arzezak",
-                "url": "https://github.com/arzezak"
             }
         }
     ]
