@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55673467?u=b8c59b680732900fb19c02b0e687f8c4a9c7936e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin written in lua to automatically detect your current workspace's build system and set makeprg accordingly</div>",
+            "url": "https://github.com/cyuria/build.nvim",
+            "title": "cyuria/build.nvim: A neovim plugin written in lua to automatically detect your current workspace's build system and set makeprg accordingly",
+            "date_modified": "2024-06-19T05:07:43.000Z",
+            "date_published": "2024-04-20T09:09:07.000Z",
+            "author": {
+                "name": "cyuria",
+                "url": "https://github.com/cyuria"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-06-19T05:03:29.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
+            "url": "https://github.com/folke/lazy.nvim",
+            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+            "date_modified": "2024-06-19T04:54:04.000Z",
+            "date_published": "2022-11-20T21:36:02.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1760589?u=4d33579cbfad406ca04eda989470fcc2e45a6367&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>3rd party Neovim plugin that compliments <a href=\"https://mise.jdx.dev/\" rel=\"nofollow\">https://mise.jdx.dev/</a></div>",
+            "url": "https://github.com/ejrichards/mise.nvim",
+            "title": "ejrichards/mise.nvim: 3rd party Neovim plugin that compliments https://mise.jdx.dev/",
+            "date_modified": "2024-06-19T04:36:28.000Z",
+            "date_published": "2024-06-18T21:37:37.000Z",
+            "author": {
+                "name": "ejrichards",
+                "url": "https://github.com/ejrichards"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78927152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that provides battery info from upower</div>",
             "url": "https://github.com/leonnelc/battery.nvim",
             "title": "leonnelc/battery.nvim: Neovim plugin that provides battery info from upower",
@@ -171,58 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-06-19T02:40:18.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-06-19T04:49:22.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/706002?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to create and rename Denote-style notes</div>",
-            "url": "https://github.com/DefaultGen/simple-denote.nvim",
-            "title": "DefaultGen/simple-denote.nvim: Neovim plugin to create and rename Denote-style notes",
-            "date_modified": "2024-06-18T22:56:44.000Z",
-            "date_published": "2024-06-03T17:40:33.000Z",
-            "author": {
-                "name": "DefaultGen",
-                "url": "https://github.com/DefaultGen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-19T03:42:00.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76068197?u=56473e57be61c7ef2f45316de1c1e355767187ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find the best Neovim plugins</div>",
-            "url": "https://github.com/codicocodes/dotfyle",
-            "title": "codicocodes/dotfyle: Find the best Neovim plugins",
-            "date_modified": "2024-06-19T03:52:36.000Z",
-            "date_published": "2023-03-15T16:32:24.000Z",
-            "author": {
-                "name": "codicocodes",
-                "url": "https://github.com/codicocodes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60556553?u=d4e2d4d64f86e0f0916a9378bcb139819facf12f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository showcases my personal dotfiles, including i3 config, neovim configurations, zsh plugins, and more.</div>",
-            "url": "https://github.com/fotscode/dotfiles",
-            "title": "fotscode/dotfiles: This repository showcases my personal dotfiles, including i3 config, neovim configurations, zsh plugins, and more.",
-            "date_modified": "2024-06-18T21:38:41.000Z",
-            "date_published": "2023-04-09T19:03:46.000Z",
-            "author": {
-                "name": "fotscode",
-                "url": "https://github.com/fotscode"
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
             }
         }
     ]
