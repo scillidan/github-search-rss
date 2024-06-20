@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-06-20T12:13:46.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
+            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
+            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
+            "date_modified": "2024-06-20T12:10:19.000Z",
+            "date_published": "2024-03-10T11:54:02.000Z",
+            "author": {
+                "name": "ttak0422",
+                "url": "https://github.com/ttak0422"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130372558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim statusline plugin blazing fast than any statusline plugin</div>",
+            "url": "https://github.com/nvimdev/modeline.nvim",
+            "title": "nvimdev/modeline.nvim: neovim statusline plugin blazing fast than any statusline plugin",
+            "date_modified": "2024-06-20T12:04:29.000Z",
+            "date_published": "2023-01-31T04:56:38.000Z",
+            "author": {
+                "name": "nvimdev",
+                "url": "https://github.com/nvimdev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-06-20T12:03:30.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-06-20T12:00:43.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34950778?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for interacting with Please repositories</div>",
+            "url": "https://github.com/marcuscaisey/please.nvim",
+            "title": "marcuscaisey/please.nvim: A Neovim plugin for interacting with Please repositories",
+            "date_modified": "2024-06-20T11:53:08.000Z",
+            "date_published": "2022-03-28T23:17:26.000Z",
+            "author": {
+                "name": "marcuscaisey",
+                "url": "https://github.com/marcuscaisey"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99210748?u=195e1c1e5b5485f3e64f8812bb856a4dd4e4ae2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Jupyter Notebook Manager Plugin</div>",
+            "url": "https://github.com/DavidRR-F/notebook-manager.nvim",
+            "title": "DavidRR-F/notebook-manager.nvim: Neovim Jupyter Notebook Manager Plugin",
+            "date_modified": "2024-06-20T11:46:17.000Z",
+            "date_published": "2024-06-19T11:35:51.000Z",
+            "author": {
+                "name": "DavidRR-F",
+                "url": "https://github.com/DavidRR-F"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101342105?u=d83eb94a87455ab03dc949683fddd938f5806ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that lets you edit a register in a floating window</div>",
             "url": "https://github.com/Axlefublr/edister.nvim",
             "title": "Axlefublr/edister.nvim: Neovim plugin that lets you edit a register in a floating window",
@@ -72,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99210748?u=195e1c1e5b5485f3e64f8812bb856a4dd4e4ae2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Jupyter Notebook Manager Plugin</div>",
-            "url": "https://github.com/DavidRR-F/notebook-manager",
-            "title": "DavidRR-F/notebook-manager: Neovim Jupyter Notebook Manager Plugin",
-            "date_modified": "2024-06-20T09:29:28.000Z",
-            "date_published": "2024-06-19T11:35:51.000Z",
-            "author": {
-                "name": "DavidRR-F",
-                "url": "https://github.com/DavidRR-F"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1846147?u=96e52c39a8ac6a4fd969f8a0085a3206f9bcea5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin manager for neovim</div>",
             "url": "https://github.com/MisanthropicBit/parcel.nvim",
             "title": "MisanthropicBit/parcel.nvim: A plugin manager for neovim",
@@ -108,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-06-20T10:32:01.000Z",
+            "date_modified": "2024-06-20T11:15:37.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "Shobhit-Nagpal",
                 "url": "https://github.com/Shobhit-Nagpal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76894615?u=ec6071621862fad8c3507650af2daa6cc749d8cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.</div>",
-            "url": "https://github.com/HCY-ASLEEP/NVIM-Config",
-            "title": "HCY-ASLEEP/NVIM-Config: Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.",
-            "date_modified": "2024-06-20T07:02:14.000Z",
-            "date_published": "2022-11-09T13:44:16.000Z",
-            "author": {
-                "name": "HCY-ASLEEP",
-                "url": "https://github.com/HCY-ASLEEP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63202668?u=0c8ce9557cf8cef43d1b12601bc6f69df6343a86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that integrates Harpoon with Fern</div>",
-            "url": "https://github.com/dragonlobster/harpoon-fern",
-            "title": "dragonlobster/harpoon-fern: Neovim plugin that integrates Harpoon with Fern",
-            "date_modified": "2024-06-20T06:59:08.000Z",
-            "date_published": "2024-06-20T05:52:52.000Z",
-            "author": {
-                "name": "dragonlobster",
-                "url": "https://github.com/dragonlobster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-06-20T06:16:11.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78927152?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that provides battery info from upower</div>",
-            "url": "https://github.com/leonnelc/battery.nvim",
-            "title": "leonnelc/battery.nvim: Neovim plugin that provides battery info from upower",
-            "date_modified": "2024-06-20T04:37:35.000Z",
-            "date_published": "2024-06-17T18:14:53.000Z",
-            "author": {
-                "name": "leonnelc",
-                "url": "https://github.com/leonnelc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim fuzzy finder that updates on every keystroke.</div>",
-            "url": "https://github.com/linrongbin16/fzfx.nvim",
-            "title": "linrongbin16/fzfx.nvim: A Neovim fuzzy finder that updates on every keystroke.",
-            "date_modified": "2024-06-20T03:51:37.000Z",
-            "date_published": "2023-07-26T09:58:20.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84354013?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to open LazyDocker without quiting neovim</div>",
-            "url": "https://github.com/crnvl96/lazydocker.nvim",
-            "title": "crnvl96/lazydocker.nvim: Plugin to open LazyDocker without quiting neovim",
-            "date_modified": "2024-06-20T03:44:35.000Z",
-            "date_published": "2023-08-19T01:29:04.000Z",
-            "author": {
-                "name": "crnvl96",
-                "url": "https://github.com/crnvl96"
             }
         }
     ]
