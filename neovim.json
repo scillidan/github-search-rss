@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46111684?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚧 [WIP] Neovim plugin for common PHP operations and Composer integration</div>",
+            "url": "https://github.com/RVxLab/composer.nvim",
+            "title": "RVxLab/composer.nvim: 🚧 [WIP] Neovim plugin for common PHP operations and Composer integration",
+            "date_modified": "2024-06-21T07:04:27.000Z",
+            "date_published": "2024-04-01T23:00:47.000Z",
+            "author": {
+                "name": "RVxLab",
+                "url": "https://github.com/RVxLab"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9919?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for GitHub Copilot</div>",
+            "url": "https://github.com/github/copilot.vim",
+            "title": "github/copilot.vim: Neovim plugin for GitHub Copilot",
+            "date_modified": "2024-06-21T06:22:12.000Z",
+            "date_published": "2021-10-20T18:29:13.000Z",
+            "author": {
+                "name": "github",
+                "url": "https://github.com/github"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4814844?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lua plugin for powerlevel10k style prompt and WakaTime time tracking</div>",
+            "url": "https://github.com/wakatime/prompt-style.lua",
+            "title": "wakatime/prompt-style.lua: Lua plugin for powerlevel10k style prompt and WakaTime time tracking",
+            "date_modified": "2024-06-21T06:18:02.000Z",
+            "date_published": "2023-07-28T05:56:13.000Z",
+            "author": {
+                "name": "wakatime",
+                "url": "https://github.com/wakatime"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
             "url": "https://github.com/tamago324/nlsp-settings.nvim",
             "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
@@ -97,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17382962?u=3e3e1d98217fd029b37f0475e27cfd9e92cc0baa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.</div>",
             "url": "https://github.com/tristone13th/lspmark.nvim",
             "title": "tristone13th/lspmark.nvim: A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.",
-            "date_modified": "2024-06-21T05:40:10.000Z",
+            "date_modified": "2024-06-21T06:55:45.000Z",
             "date_published": "2024-06-09T08:59:13.000Z",
             "author": {
                 "name": "tristone13th",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "LongerHV",
                 "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95161388?u=a74e246651b4f0a92f824b691a6097abf0421c8c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim lua plugin to manage todos in your markdown files</div>",
-            "url": "https://github.com/thewisepigeon/md_todo",
-            "title": "thewisepigeon/md_todo: Neovim lua plugin to manage todos in your markdown files",
-            "date_modified": "2024-06-21T00:10:14.000Z",
-            "date_published": "2024-06-19T11:42:47.000Z",
-            "author": {
-                "name": "thewisepigeon",
-                "url": "https://github.com/thewisepigeon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-06-21T00:03:56.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/706002?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to nicely search Denote files using fzf-lua</div>",
-            "url": "https://github.com/DefaultGen/denote-fzf-lua",
-            "title": "DefaultGen/denote-fzf-lua: Neovim plugin to nicely search Denote files using fzf-lua",
-            "date_modified": "2024-06-21T01:24:10.000Z",
-            "date_published": "2024-06-14T02:23:08.000Z",
-            "author": {
-                "name": "DefaultGen",
-                "url": "https://github.com/DefaultGen"
             }
         }
     ]
