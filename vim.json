@@ -6,6 +6,28 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-06-23T04:06:03.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6695?u=1751c801353b0210ea90ff6c1061aa729bad98fd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>fork of ancient spf13-vim, removed all legacy code and using powerful dein plugin manager.</div>",
+            "url": "https://github.com/carakan/supra-vim",
+            "title": "carakan/supra-vim: fork of ancient spf13-vim, removed all legacy code and using powerful dein plugin manager.",
+            "date_modified": "2024-06-23T03:59:58.000Z",
+            "date_published": "2017-02-02T21:31:19.000Z",
+            "author": {
+                "name": "carakan",
+                "url": "https://github.com/carakan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93693693?u=dd4ce314f34c77664a92b6d25dffd853ce4487e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal LazyVim config. Contains a few extra plugins</div>",
             "url": "https://github.com/GianlucaP106/lazyvim-config",
             "title": "GianlucaP106/lazyvim-config: My personal LazyVim config. Contains a few extra plugins",
@@ -83,14 +105,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-06-22T21:13:07.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=c05c09542bf6d0418639be0c5eacde032ad025fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
+            "date_modified": "2024-06-23T03:26:46.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
             "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
+                "name": "redyf",
+                "url": "https://github.com/redyf"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "ervandew",
                 "url": "https://github.com/ervandew"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3428189?u=4bd5203fddb228f20248a953fa9cc5efada9e145&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AWS SSM Parameter Store Plugin for Vim/NeoVim</div>",
-            "url": "https://github.com/oguzhancoskun/aws-ssm.nvim",
-            "title": "oguzhancoskun/aws-ssm.nvim: AWS SSM Parameter Store Plugin for Vim/NeoVim",
-            "date_modified": "2024-06-21T20:46:26.000Z",
-            "date_published": "2024-06-13T23:28:29.000Z",
-            "author": {
-                "name": "oguzhancoskun",
-                "url": "https://github.com/oguzhancoskun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37610000?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.</div>",
-            "url": "https://github.com/themix-project/themix-gui",
-            "title": "themix-project/themix-gui: Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.",
-            "date_modified": "2024-06-21T20:38:31.000Z",
-            "date_published": "2014-05-25T13:45:31.000Z",
-            "author": {
-                "name": "themix-project",
-                "url": "https://github.com/themix-project"
             }
         }
     ]
