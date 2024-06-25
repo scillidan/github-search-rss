@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
+            "url": "https://github.com/folke/lazy.nvim",
+            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+            "date_modified": "2024-06-25T19:05:44.000Z",
+            "date_published": "2022-11-20T21:36:02.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/706002?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to nicely search Denote files using fzf-lua</div>",
+            "url": "https://github.com/DefaultGen/denote-fzf-lua",
+            "title": "DefaultGen/denote-fzf-lua: Neovim plugin to nicely search Denote files using fzf-lua",
+            "date_modified": "2024-06-25T19:02:34.000Z",
+            "date_published": "2024-06-14T02:23:08.000Z",
+            "author": {
+                "name": "DefaultGen",
+                "url": "https://github.com/DefaultGen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/706002?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to create and rename Denote-style notes</div>",
+            "url": "https://github.com/DefaultGen/simple-denote.nvim",
+            "title": "DefaultGen/simple-denote.nvim: Neovim plugin to create and rename Denote-style notes",
+            "date_modified": "2024-06-25T18:59:44.000Z",
+            "date_published": "2024-06-03T17:40:33.000Z",
+            "author": {
+                "name": "DefaultGen",
+                "url": "https://github.com/DefaultGen"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
             "url": "https://github.com/AstroNvim/astrocommunity",
             "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-06-25T18:10:35.000Z",
+            "date_modified": "2024-06-25T18:14:18.000Z",
             "date_published": "2023-02-21T14:55:56.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -64,22 +97,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36933074?u=b8d11012666eb159bc63ebd51cbd68f30a90269f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A multi cursor plugin for Neovim.</div>",
             "url": "https://github.com/smoka7/multicursors.nvim",
             "title": "smoka7/multicursors.nvim: A multi cursor plugin for Neovim.",
-            "date_modified": "2024-06-25T18:05:15.000Z",
+            "date_modified": "2024-06-25T18:37:03.000Z",
             "date_published": "2023-07-01T13:11:46.000Z",
             "author": {
                 "name": "smoka7",
                 "url": "https://github.com/smoka7"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-25T16:13:25.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         },
         {
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
             "url": "https://github.com/AstroNvim/AstroNvim",
             "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-06-25T17:46:57.000Z",
+            "date_modified": "2024-06-25T18:37:38.000Z",
             "date_published": "2022-02-02T22:33:34.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-06-25T14:48:50.000Z",
+            "date_modified": "2024-06-25T18:27:02.000Z",
             "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "DannickBedard",
                 "url": "https://github.com/DannickBedard"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55287795?u=d875d5c32110080df8a44d1b1de52c3638fc9486&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin that displays file function names.</div>",
-            "url": "https://github.com/marcosalvalaggio/funktree",
-            "title": "marcosalvalaggio/funktree: Simple Neovim plugin that displays file function names.",
-            "date_modified": "2024-06-25T13:22:57.000Z",
-            "date_published": "2023-08-04T10:37:32.000Z",
-            "author": {
-                "name": "marcosalvalaggio",
-                "url": "https://github.com/marcosalvalaggio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3581973?u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.</div>",
-            "url": "https://github.com/slugbyte/lackluster.nvim",
-            "title": "slugbyte/lackluster.nvim: a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.",
-            "date_modified": "2024-06-25T13:20:25.000Z",
-            "date_published": "2024-05-20T10:19:15.000Z",
-            "author": {
-                "name": "slugbyte",
-                "url": "https://github.com/slugbyte"
             }
         }
     ]
