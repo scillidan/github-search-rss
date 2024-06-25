@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
+            "url": "https://github.com/folke/lazy.nvim",
+            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+            "date_modified": "2024-06-25T13:55:10.000Z",
+            "date_published": "2022-11-20T21:36:02.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23345185?u=39d6bb183b59b9c554cbc1fbaf9c4c41eacb9ae7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My repo for testing neovim plugin</div>",
+            "url": "https://github.com/DannickBedard/test.nvim",
+            "title": "DannickBedard/test.nvim: My repo for testing neovim plugin",
+            "date_modified": "2024-06-25T13:47:53.000Z",
+            "date_published": "2024-06-24T18:14:59.000Z",
+            "author": {
+                "name": "DannickBedard",
+                "url": "https://github.com/DannickBedard"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-25T13:29:13.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55287795?u=d875d5c32110080df8a44d1b1de52c3638fc9486&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin that displays file function names.</div>",
+            "url": "https://github.com/marcosalvalaggio/funktree",
+            "title": "marcosalvalaggio/funktree: Simple Neovim plugin that displays file function names.",
+            "date_modified": "2024-06-25T13:22:57.000Z",
+            "date_published": "2023-08-04T10:37:32.000Z",
+            "author": {
+                "name": "marcosalvalaggio",
+                "url": "https://github.com/marcosalvalaggio"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3581973?u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.</div>",
             "url": "https://github.com/slugbyte/lackluster.nvim",
             "title": "slugbyte/lackluster.nvim: a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.",
-            "date_modified": "2024-06-25T12:59:37.000Z",
+            "date_modified": "2024-06-25T13:20:25.000Z",
             "date_published": "2024-05-20T10:19:15.000Z",
             "author": {
                 "name": "slugbyte",
@@ -28,17 +72,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55287795?u=d875d5c32110080df8a44d1b1de52c3638fc9486&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin that displays file function names.</div>",
-            "url": "https://github.com/marcosalvalaggio/funktree",
-            "title": "marcosalvalaggio/funktree: Simple Neovim plugin that displays file function names.",
-            "date_modified": "2024-06-25T12:57:35.000Z",
-            "date_published": "2023-08-04T10:37:32.000Z",
-            "author": {
-                "name": "marcosalvalaggio",
-                "url": "https://github.com/marcosalvalaggio"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
             "url": "https://github.com/AstroNvim/AstroNvim",
             "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-            "date_modified": "2024-06-25T12:46:45.000Z",
+            "date_modified": "2024-06-25T13:30:13.000Z",
             "date_published": "2022-02-02T22:33:34.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -108,22 +141,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-06-25T12:24:26.000Z",
+            "date_modified": "2024-06-25T13:26:46.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
                 "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-25T13:07:55.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         },
         {
@@ -146,17 +168,6 @@
             "author": {
                 "name": "frankroeder",
                 "url": "https://github.com/frankroeder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-06-25T09:18:39.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "iFarmGolems",
                 "url": "https://github.com/iFarmGolems"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/310927?u=275f6d70cf9855632f93eaed7951b3d8b28e3555&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for key mappings sessions</div>",
-            "url": "https://github.com/shmerl/session-keys",
-            "title": "shmerl/session-keys: Neovim plugin for key mappings sessions",
-            "date_modified": "2024-06-25T12:43:39.000Z",
-            "date_published": "2024-06-24T22:35:17.000Z",
-            "author": {
-                "name": "shmerl",
-                "url": "https://github.com/shmerl"
             }
         }
     ]
