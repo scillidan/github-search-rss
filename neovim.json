@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63654361?u=ae2ef3fe6a7df789c72f26ce7f84c7f4bd54fd0d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for creating template project structures for various languages</div>",
+            "url": "https://github.com/KDesp73/project-starter.nvim",
+            "title": "KDesp73/project-starter.nvim: A neovim plugin for creating template project structures for various languages",
+            "date_modified": "2024-06-26T23:03:16.000Z",
+            "date_published": "2023-12-21T18:18:59.000Z",
+            "author": {
+                "name": "KDesp73",
+                "url": "https://github.com/KDesp73"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
+            "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
+            "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
+            "date_modified": "2024-06-26T22:45:56.000Z",
+            "date_published": "2024-03-18T04:13:43.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
+            "url": "https://github.com/frankroeder/parrot.nvim",
+            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
+            "date_modified": "2024-06-26T22:15:16.000Z",
+            "date_published": "2023-08-15T10:16:36.000Z",
+            "author": {
+                "name": "frankroeder",
+                "url": "https://github.com/frankroeder"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35736957?u=8d9db3b09cdaf58b441689a67e84433afd1a30f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Package.json dependency checker for Neovim</div>",
             "url": "https://github.com/robertazzopardi/depsync",
             "title": "robertazzopardi/depsync: Package.json dependency checker for Neovim",
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-26T22:03:43.000Z",
+            "date_modified": "2024-06-26T22:32:59.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -69,17 +102,6 @@
             "author": {
                 "name": "JustBarnt",
                 "url": "https://github.com/JustBarnt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
-            "url": "https://github.com/frankroeder/parrot.nvim",
-            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
-            "date_modified": "2024-06-26T20:37:53.000Z",
-            "date_published": "2023-08-15T10:16:36.000Z",
-            "author": {
-                "name": "frankroeder",
-                "url": "https://github.com/frankroeder"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "dundalek",
                 "url": "https://github.com/dundalek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!</div>",
-            "url": "https://github.com/declancm/cinnamon.nvim",
-            "title": "declancm/cinnamon.nvim: Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!",
-            "date_modified": "2024-06-26T15:48:41.000Z",
-            "date_published": "2022-02-28T23:30:26.000Z",
-            "author": {
-                "name": "declancm",
-                "url": "https://github.com/declancm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
-            "url": "https://github.com/mfussenegger/nvim-lint",
-            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-06-26T15:18:38.000Z",
-            "date_published": "2021-02-14T11:18:45.000Z",
-            "author": {
-                "name": "mfussenegger",
-                "url": "https://github.com/mfussenegger"
             }
         }
     ]
