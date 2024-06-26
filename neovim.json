@@ -6,6 +6,17 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17382962?u=3e3e1d98217fd029b37f0475e27cfd9e92cc0baa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.</div>",
+            "url": "https://github.com/tristone13th/lspmark.nvim",
+            "title": "tristone13th/lspmark.nvim: A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.",
+            "date_modified": "2024-06-26T03:30:32.000Z",
+            "date_published": "2024-06-09T08:59:13.000Z",
+            "author": {
+                "name": "tristone13th",
+                "url": "https://github.com/tristone13th"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74437706?u=9399e5d8ee7ecf26370fb66fc9a233ca563fcd1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Command completion for Neovim inspired by Helix</div>",
             "url": "https://github.com/vzze/cmdline.nvim",
             "title": "vzze/cmdline.nvim: Command completion for Neovim inspired by Helix",
@@ -75,11 +86,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
             "url": "https://github.com/folke/neoconf.nvim",
             "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-06-26T01:28:58.000Z",
+            "date_modified": "2024-06-26T03:37:30.000Z",
             "date_published": "2022-09-07T16:15:13.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "date_modified": "2024-06-26T04:01:58.000Z",
+            "date_published": "2021-12-12T13:38:23.000Z",
+            "author": {
+                "name": "nvim-neo-tree",
+                "url": "https://github.com/nvim-neo-tree"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-06-25T21:29:16.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/706002?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to nicely search Denote files using fzf-lua</div>",
-            "url": "https://github.com/DefaultGen/denote-fzf-lua",
-            "title": "DefaultGen/denote-fzf-lua: Neovim plugin to nicely search Denote files using fzf-lua",
-            "date_modified": "2024-06-25T19:02:34.000Z",
-            "date_published": "2024-06-14T02:23:08.000Z",
-            "author": {
-                "name": "DefaultGen",
-                "url": "https://github.com/DefaultGen"
             }
         }
     ]
