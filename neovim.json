@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1058131?u=8401b2c0339895748d7de053f19bd79b4163f799&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Powerful but minimal context menu plugin for neovim.</div>",
+            "url": "https://github.com/meznaric/conmenu",
+            "title": "meznaric/conmenu: Powerful but minimal context menu plugin for neovim.",
+            "date_modified": "2024-06-26T09:59:23.000Z",
+            "date_published": "2021-10-25T16:15:06.000Z",
+            "author": {
+                "name": "meznaric",
+                "url": "https://github.com/meznaric"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
+            "url": "https://github.com/frankroeder/parrot.nvim",
+            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
+            "date_modified": "2024-06-26T09:28:03.000Z",
+            "date_published": "2023-08-15T10:16:36.000Z",
+            "author": {
+                "name": "frankroeder",
+                "url": "https://github.com/frankroeder"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
+            "url": "https://github.com/niuiic/modern-neovim-configuration",
+            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
+            "date_modified": "2024-06-26T09:20:00.000Z",
+            "date_published": "2021-05-05T11:05:56.000Z",
+            "author": {
+                "name": "niuiic",
+                "url": "https://github.com/niuiic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-26T09:19:17.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74437706?u=9399e5d8ee7ecf26370fb66fc9a233ca563fcd1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Wildmenu replacement for Neovim inspired by Helix</div>",
+            "url": "https://github.com/vzze/cmdline.nvim",
+            "title": "vzze/cmdline.nvim: Wildmenu replacement for Neovim inspired by Helix",
+            "date_modified": "2024-06-26T09:16:46.000Z",
+            "date_published": "2023-01-27T17:43:03.000Z",
+            "author": {
+                "name": "vzze",
+                "url": "https://github.com/vzze"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
             "url": "https://github.com/disrupted/dotfiles",
             "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
@@ -83,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-06-26T05:18:37.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/722385?u=e1d49c9644925636185989403469e011b8ce8adb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for toggling options.</div>",
             "url": "https://github.com/gregorias/toggle.nvim",
             "title": "gregorias/toggle.nvim: A Neovim plugin for toggling options.",
@@ -124,17 +168,6 @@
             "author": {
                 "name": "tristone13th",
                 "url": "https://github.com/tristone13th"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74437706?u=9399e5d8ee7ecf26370fb66fc9a233ca563fcd1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Command completion for Neovim inspired by Helix</div>",
-            "url": "https://github.com/vzze/cmdline.nvim",
-            "title": "vzze/cmdline.nvim: Command completion for Neovim inspired by Helix",
-            "date_modified": "2024-06-26T03:09:48.000Z",
-            "date_published": "2023-01-27T17:43:03.000Z",
-            "author": {
-                "name": "vzze",
-                "url": "https://github.com/vzze"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
-            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
-            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
-            "date_modified": "2024-06-26T05:07:19.000Z",
-            "date_published": "2021-12-12T13:38:23.000Z",
-            "author": {
-                "name": "nvim-neo-tree",
-                "url": "https://github.com/nvim-neo-tree"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-06-26T00:27:51.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-06-26T00:27:41.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         }
     ]
