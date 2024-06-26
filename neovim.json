@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
+            "url": "https://github.com/folke/lazy.nvim",
+            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+            "date_modified": "2024-06-26T20:06:07.000Z",
+            "date_published": "2022-11-20T21:36:02.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
+            "url": "https://github.com/R-nvim/R.nvim",
+            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
+            "date_modified": "2024-06-26T19:31:13.000Z",
+            "date_published": "2024-01-22T20:23:10.000Z",
+            "author": {
+                "name": "R-nvim",
+                "url": "https://github.com/R-nvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=972e3aec2962b5a72c50e1c36c7bc63d54d93c57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that helps managing crates.io dependencies</div>",
+            "url": "https://github.com/Saecki/crates.nvim",
+            "title": "Saecki/crates.nvim: A neovim plugin that helps managing crates.io dependencies",
+            "date_modified": "2024-06-26T19:11:23.000Z",
+            "date_published": "2021-08-24T17:13:20.000Z",
+            "author": {
+                "name": "Saecki",
+                "url": "https://github.com/Saecki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/145573612?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>UwUify your comments (neovim plugin)</div>",
+            "url": "https://github.com/HlibShutov/Uwuifier",
+            "title": "HlibShutov/Uwuifier: UwUify your comments (neovim plugin)",
+            "date_modified": "2024-06-26T19:09:22.000Z",
+            "date_published": "2024-06-24T17:12:20.000Z",
+            "author": {
+                "name": "HlibShutov",
+                "url": "https://github.com/HlibShutov"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67477499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A starter template for a Neovim plugin written in Lua</div>",
             "url": "https://github.com/nvim-lua/nvim-lua-plugin-template",
             "title": "nvim-lua/nvim-lua-plugin-template: A starter template for a Neovim plugin written in Lua",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "nvim-lua",
                 "url": "https://github.com/nvim-lua"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-26T18:58:08.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "cirofabianbermudez",
                 "url": "https://github.com/cirofabianbermudez"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
-            "url": "https://github.com/disrupted/dotfiles",
-            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
-            "date_modified": "2024-06-26T13:59:54.000Z",
-            "date_published": "2020-08-18T11:47:17.000Z",
-            "author": {
-                "name": "disrupted",
-                "url": "https://github.com/disrupted"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
-            "url": "https://github.com/tamago324/nlsp-settings.nvim",
-            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
-            "date_modified": "2024-06-26T13:04:28.000Z",
-            "date_published": "2021-03-21T05:46:20.000Z",
-            "author": {
-                "name": "tamago324",
-                "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
-            "url": "https://github.com/nvim-neorocks/lz.n",
-            "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
-            "date_modified": "2024-06-26T12:12:25.000Z",
-            "date_published": "2024-01-05T13:38:49.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
             }
         }
     ]
