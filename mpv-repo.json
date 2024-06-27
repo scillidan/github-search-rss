@@ -6,10 +6,43 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6302101?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv script to precache the next entry in your playlist if it is a network source by downloading it to a temp file ahead of time. Change Line 20 to temp directory. It will delete the directory on exit. Old gist: <a href=\"https://gist.github.com/bitingsock/17d90e3deeb35b5f75e55adb19098f58\">https://gist.github.com/bitingsock/17d90e3deeb35b5f75e55adb19098f58</a></div>",
+            "url": "https://github.com/bitingsock/ytdl-preload",
+            "title": "bitingsock/ytdl-preload: mpv script to precache the next entry in your playlist if it is a network source by downloading it to a temp file ahead of time. Change Line 20 to temp directory. It will delete the directory on exit. Old gist: https://gist.github.com/bitingsock/17d90e3deeb35b5f75e55adb19098f58",
+            "date_modified": "2024-06-27T18:58:31.000Z",
+            "date_published": "2024-06-21T18:37:23.000Z",
+            "author": {
+                "name": "bitingsock",
+                "url": "https://github.com/bitingsock"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92977828?u=3f2f7d01efef08982487de0665467b662d7a7393&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nix flakes for my system (light wip)</div>",
+            "url": "https://github.com/71zenith/nix-dots",
+            "title": "71zenith/nix-dots: nix flakes for my system (light wip)",
+            "date_modified": "2024-06-27T18:24:38.000Z",
+            "date_published": "2024-02-09T12:47:53.000Z",
+            "author": {
+                "name": "71zenith",
+                "url": "https://github.com/71zenith"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
+            "url": "https://github.com/mpv-player/mpv",
+            "title": "mpv-player/mpv: 🎥 Command line video player",
+            "date_modified": "2024-06-27T18:24:19.000Z",
+            "date_published": "2012-10-13T08:08:44.000Z",
+            "author": {
+                "name": "mpv-player",
+                "url": "https://github.com/mpv-player"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46932317?u=5c16484212def0c7d9d7efef7403e6234f19b06f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Love to KISS my hyprland. Nah, I meant keep it simple stupid, jeez!</div>",
             "url": "https://github.com/Pahasara/dotFiles",
             "title": "Pahasara/dotFiles: Love to KISS my hyprland. Nah, I meant keep it simple stupid, jeez!",
-            "date_modified": "2024-06-27T18:04:40.000Z",
+            "date_modified": "2024-06-27T18:21:28.000Z",
             "date_published": "2024-04-08T14:54:40.000Z",
             "author": {
                 "name": "Pahasara",
@@ -36,28 +69,6 @@
             "author": {
                 "name": "tapebysea",
                 "url": "https://github.com/tapebysea"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
-            "url": "https://github.com/mpv-player/mpv",
-            "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2024-06-27T16:54:31.000Z",
-            "date_published": "2012-10-13T08:08:44.000Z",
-            "author": {
-                "name": "mpv-player",
-                "url": "https://github.com/mpv-player"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92977828?u=3f2f7d01efef08982487de0665467b662d7a7393&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nix flakes for my system (light wip)</div>",
-            "url": "https://github.com/71zenith/nix-dots",
-            "title": "71zenith/nix-dots: nix flakes for my system (light wip)",
-            "date_modified": "2024-06-27T16:38:28.000Z",
-            "date_published": "2024-02-09T12:47:53.000Z",
-            "author": {
-                "name": "71zenith",
-                "url": "https://github.com/71zenith"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tsl0922",
                 "url": "https://github.com/tsl0922"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38372270?u=5dfac45e2fa0a450b6ba45c8da8795b13d4b0681&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>libmpv bindings in zig</div>",
-            "url": "https://github.com/hasanpasha/zmpv",
-            "title": "hasanpasha/zmpv: libmpv bindings in zig",
-            "date_modified": "2024-06-27T08:16:40.000Z",
-            "date_published": "2024-05-10T17:32:55.000Z",
-            "author": {
-                "name": "hasanpasha",
-                "url": "https://github.com/hasanpasha"
             }
         }
     ]
