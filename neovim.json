@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77207702?u=7e820eedd86e2d6b83582dd0e55459668ad78ebf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim configuration, plugins, etc.</div>",
+            "url": "https://github.com/JRS-Developer/nvim-config",
+            "title": "JRS-Developer/nvim-config: My neovim configuration, plugins, etc.",
+            "date_modified": "2024-06-27T21:58:18.000Z",
+            "date_published": "2021-12-22T14:57:00.000Z",
+            "author": {
+                "name": "JRS-Developer",
+                "url": "https://github.com/JRS-Developer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-06-27T21:44:11.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-06-27T21:16:07.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35736957?u=8d9db3b09cdaf58b441689a67e84433afd1a30f2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Package.json dependency checker for Neovim</div>",
             "url": "https://github.com/robertazzopardi/depsync",
             "title": "robertazzopardi/depsync: Package.json dependency checker for Neovim",
@@ -72,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-06-27T20:17:18.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87674867?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration for TheAltF4Stream as a plugin.</div>",
             "url": "https://github.com/ALT-F4-LLC/dotfiles.nix",
             "title": "ALT-F4-LLC/dotfiles.nix: Neovim configuration for TheAltF4Stream as a plugin.",
@@ -130,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.</div>",
             "url": "https://github.com/folke/which-key.nvim",
             "title": "folke/which-key.nvim: 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
-            "date_modified": "2024-06-27T19:58:23.000Z",
+            "date_modified": "2024-06-27T21:46:24.000Z",
             "date_published": "2021-04-28T10:13:18.000Z",
             "author": {
                 "name": "folke",
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
             "url": "https://github.com/stevearc/conform.nvim",
             "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-06-27T20:15:01.000Z",
+            "date_modified": "2024-06-27T21:45:33.000Z",
             "date_published": "2023-08-25T03:31:42.000Z",
             "author": {
                 "name": "stevearc",
@@ -198,28 +220,6 @@
             "title": "OxygeNvim/ui: UI elements for OxygeNvim",
             "date_modified": "2024-06-27T17:31:57.000Z",
             "date_published": "2023-02-21T14:02:29.000Z",
-            "author": {
-                "name": "OxygeNvim",
-                "url": "https://github.com/OxygeNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
-            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
-            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
-            "date_modified": "2024-06-27T17:24:59.000Z",
-            "date_published": "2021-12-11T08:13:56.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122473329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extensions for OxygeNvim</div>",
-            "url": "https://github.com/OxygeNvim/extensions",
-            "title": "OxygeNvim/extensions: Extensions for OxygeNvim",
-            "date_modified": "2024-06-27T17:18:26.000Z",
-            "date_published": "2023-03-09T18:48:56.000Z",
             "author": {
                 "name": "OxygeNvim",
                 "url": "https://github.com/OxygeNvim"
