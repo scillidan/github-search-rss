@@ -6,6 +6,28 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34285115?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Automatically load (Japanese) subtitles in MPV</div>",
+            "url": "https://github.com/nairyosangha/mpv-subversive",
+            "title": "nairyosangha/mpv-subversive: Automatically load (Japanese) subtitles in MPV",
+            "date_modified": "2024-06-27T20:01:55.000Z",
+            "date_published": "2024-05-01T08:46:59.000Z",
+            "author": {
+                "name": "nairyosangha",
+                "url": "https://github.com/nairyosangha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12078193?u=92e0485b9ad985e61d7a3f0945da726df5b09c1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Super-Resolution Convolutional Neural Networks as GLSL shaders for mpv</div>",
+            "url": "https://github.com/Artoriuz/ArtCNN",
+            "title": "Artoriuz/ArtCNN: Super-Resolution Convolutional Neural Networks as GLSL shaders for mpv",
+            "date_modified": "2024-06-27T19:23:39.000Z",
+            "date_published": "2024-01-16T20:38:51.000Z",
+            "author": {
+                "name": "Artoriuz",
+                "url": "https://github.com/Artoriuz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6302101?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv script to precache the next entry in your playlist if it is a network source by downloading it to a temp file ahead of time. Change Line 20 to temp directory. It will delete the directory on exit. Old gist: <a href=\"https://gist.github.com/bitingsock/17d90e3deeb35b5f75e55adb19098f58\">https://gist.github.com/bitingsock/17d90e3deeb35b5f75e55adb19098f58</a></div>",
             "url": "https://github.com/bitingsock/ytdl-preload",
             "title": "bitingsock/ytdl-preload: mpv script to precache the next entry in your playlist if it is a network source by downloading it to a temp file ahead of time. Change Line 20 to temp directory. It will delete the directory on exit. Old gist: https://gist.github.com/bitingsock/17d90e3deeb35b5f75e55adb19098f58",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "guidocella",
                 "url": "https://github.com/guidocella"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93834534?u=d80f1c955fdf30c1d17a89c4987aef91aa4c54f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Chrome extension that lets you open videos in webpages with a media player program.</div>",
-            "url": "https://github.com/taupiqueur/chrome-mpv",
-            "title": "taupiqueur/chrome-mpv: A Chrome extension that lets you open videos in webpages with a media player program.",
-            "date_modified": "2024-06-27T09:25:17.000Z",
-            "date_published": "2023-02-12T20:56:58.000Z",
-            "author": {
-                "name": "taupiqueur",
-                "url": "https://github.com/taupiqueur"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1680515?u=88e57a57c6bac5f53ad0486360d054d6e08c26e5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>context menu, file dialog, clipboard support for mpv</div>",
-            "url": "https://github.com/tsl0922/mpv-menu-plugin",
-            "title": "tsl0922/mpv-menu-plugin: context menu, file dialog, clipboard support for mpv",
-            "date_modified": "2024-06-27T08:58:25.000Z",
-            "date_published": "2023-12-11T07:13:22.000Z",
-            "author": {
-                "name": "tsl0922",
-                "url": "https://github.com/tsl0922"
             }
         }
     ]
