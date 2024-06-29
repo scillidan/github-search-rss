@@ -6,10 +6,76 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25078429?u=9af35cb1e06706b04319fa14a2f040192aaf0d31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to run curl commands</div>",
+            "url": "https://github.com/oysandvik94/curl.nvim",
+            "title": "oysandvik94/curl.nvim: Simple Neovim plugin to run curl commands",
+            "date_modified": "2024-06-29T08:04:50.000Z",
+            "date_published": "2024-06-28T15:32:22.000Z",
+            "author": {
+                "name": "oysandvik94",
+                "url": "https://github.com/oysandvik94"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71897876?u=f32fa7a7bbc8fc3f8e0a15e4269045ccdf3a4d49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>(N)Vim plugin for YAGPDB Custom Commands.</div>",
+            "url": "https://github.com/l-zeuch/yagpdb.vim",
+            "title": "l-zeuch/yagpdb.vim: (N)Vim plugin for YAGPDB Custom Commands.",
+            "date_modified": "2024-06-29T08:01:11.000Z",
+            "date_published": "2021-08-06T19:16:54.000Z",
+            "author": {
+                "name": "l-zeuch",
+                "url": "https://github.com/l-zeuch"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84726450?u=a33a58ea5575f852585cf8eecc2254a2a9ba55b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A highly configurable &amp; flexible input method(im) auto-switch plugin for neovim</div>",
+            "url": "https://github.com/Old-Farmer/im-autoswitch.nvim",
+            "title": "Old-Farmer/im-autoswitch.nvim: A highly configurable & flexible input method(im) auto-switch plugin for neovim",
+            "date_modified": "2024-06-29T07:57:40.000Z",
+            "date_published": "2024-05-31T08:17:12.000Z",
+            "author": {
+                "name": "Old-Farmer",
+                "url": "https://github.com/Old-Farmer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109933089?u=a1bf8b5bf3e4a83c7ea3ae36324919c0204f4e29&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mewlix syntax highlighting plugin for Vim / Neovim.</div>",
+            "url": "https://github.com/kbmackenzie/mewlix.vim",
+            "title": "kbmackenzie/mewlix.vim: Mewlix syntax highlighting plugin for Vim / Neovim.",
+            "date_modified": "2024-06-29T07:25:46.000Z",
+            "date_published": "2024-03-12T07:55:23.000Z",
+            "author": {
+                "name": "kbmackenzie",
+                "url": "https://github.com/kbmackenzie"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-06-29T07:18:05.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
+            "url": "https://github.com/mikavilpas/yazi.nvim",
+            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
+            "date_modified": "2024-06-29T07:14:12.000Z",
+            "date_published": "2024-02-25T13:33:19.000Z",
+            "author": {
+                "name": "mikavilpas",
+                "url": "https://github.com/mikavilpas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-06-29T06:48:59.000Z",
+            "date_modified": "2024-06-29T07:17:57.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -42,22 +108,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-29T06:29:49.000Z",
+            "date_modified": "2024-06-29T07:18:56.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-06-29T06:20:14.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "Axlefublr",
                 "url": "https://github.com/Axlefublr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101342105?u=d83eb94a87455ab03dc949683fddd938f5806ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that lets you edit a register in a floating window</div>",
-            "url": "https://github.com/Axlefublr/edister.nvim",
-            "title": "Axlefublr/edister.nvim: Neovim plugin that lets you edit a register in a floating window",
-            "date_modified": "2024-06-29T01:50:16.000Z",
-            "date_published": "2024-06-20T04:54:15.000Z",
-            "author": {
-                "name": "Axlefublr",
-                "url": "https://github.com/Axlefublr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85178719?u=37cb5ac417f41e7cebc49e093f9b02fa712cf289&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for quick navigation in and out of surrounding characters like quotes, parentheses, curly braces, and square brackets.</div>",
-            "url": "https://github.com/ysmb-wtsg/in-and-out.nvim",
-            "title": "ysmb-wtsg/in-and-out.nvim: Neovim plugin for quick navigation in and out of surrounding characters like quotes, parentheses, curly braces, and square brackets.",
-            "date_modified": "2024-06-29T04:21:40.000Z",
-            "date_published": "2024-06-04T03:56:31.000Z",
-            "author": {
-                "name": "ysmb-wtsg",
-                "url": "https://github.com/ysmb-wtsg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-06-29T00:27:27.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
-            "title": "LongerHV/neovim-plugins-overlay",
-            "date_modified": "2024-06-29T00:13:26.000Z",
-            "date_published": "2022-12-22T21:42:57.000Z",
-            "author": {
-                "name": "LongerHV",
-                "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30348075?u=fc7c41dd14bf0d1584026c9f43e3169331b376e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Yazi plugin which the behavior consistent with flash.nvim in Neovim, allow search str to generate lable to jump.</div>",
-            "url": "https://github.com/DreamMaoMao/searchjump.yazi",
-            "title": "DreamMaoMao/searchjump.yazi: A Yazi plugin which the behavior consistent with flash.nvim in Neovim, allow search str to generate lable to jump.",
-            "date_modified": "2024-06-29T00:04:32.000Z",
-            "date_published": "2024-05-31T06:21:32.000Z",
-            "author": {
-                "name": "DreamMaoMao",
-                "url": "https://github.com/DreamMaoMao"
             }
         }
     ]
