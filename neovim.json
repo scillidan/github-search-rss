@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/722385?u=e1d49c9644925636185989403469e011b8ce8adb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for toggling options.</div>",
+            "url": "https://github.com/gregorias/toggle.nvim",
+            "title": "gregorias/toggle.nvim: A Neovim plugin for toggling options.",
+            "date_modified": "2024-06-29T17:03:43.000Z",
+            "date_published": "2023-12-27T10:15:06.000Z",
+            "author": {
+                "name": "gregorias",
+                "url": "https://github.com/gregorias"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.</div>",
+            "url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim",
+            "title": "rachartier/tiny-inline-diagnostic.nvim: A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.",
+            "date_modified": "2024-06-29T17:06:59.000Z",
+            "date_published": "2024-06-29T14:13:21.000Z",
+            "author": {
+                "name": "rachartier",
+                "url": "https://github.com/rachartier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44144536?u=aebb64684142100c8645ef2b46e9a246589fff90&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages</div>",
+            "url": "https://github.com/michaelb/sniprun",
+            "title": "michaelb/sniprun: A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages",
+            "date_modified": "2024-06-29T16:26:00.000Z",
+            "date_published": "2020-08-17T20:44:45.000Z",
+            "author": {
+                "name": "michaelb",
+                "url": "https://github.com/michaelb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11819607?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Search installed neovim plugins</div>",
             "url": "https://github.com/jackieaskins/raycast-neovim-plugins",
             "title": "jackieaskins/raycast-neovim-plugins: Search installed neovim plugins",
@@ -42,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-06-29T15:01:45.000Z",
+            "date_modified": "2024-06-29T16:18:20.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -187,39 +220,6 @@
             "title": "echasnovski/mini.fuzzy: Neovim Lua plugin with fuzzy matching functionality. Part of 'mini.nvim' library.",
             "date_modified": "2024-06-29T14:41:12.000Z",
             "date_published": "2022-10-24T16:21:25.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to generate Neovim help files. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.doc",
-            "title": "echasnovski/mini.doc: Neovim Lua plugin to generate Neovim help files. Part of 'mini.nvim' library.",
-            "date_modified": "2024-06-29T14:41:10.000Z",
-            "date_published": "2022-10-24T16:20:31.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin for autohighlighting word under cursor. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.cursorword",
-            "title": "echasnovski/mini.cursorword: Neovim Lua plugin for autohighlighting word under cursor. Part of 'mini.nvim' library.",
-            "date_modified": "2024-06-29T14:41:08.000Z",
-            "date_published": "2022-10-24T16:19:50.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.completion",
-            "title": "echasnovski/mini.completion: Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.",
-            "date_modified": "2024-06-29T14:41:07.000Z",
-            "date_published": "2022-10-24T16:19:08.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
