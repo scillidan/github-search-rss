@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
+            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
+            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
+            "date_modified": "2024-07-01T23:02:50.000Z",
+            "date_published": "2023-07-13T06:54:44.000Z",
+            "author": {
+                "name": "polirritmico",
+                "url": "https://github.com/polirritmico"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!</div>",
+            "url": "https://github.com/declancm/cinnamon.nvim",
+            "title": "declancm/cinnamon.nvim: Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!",
+            "date_modified": "2024-07-01T22:44:39.000Z",
+            "date_published": "2022-02-28T23:30:26.000Z",
+            "author": {
+                "name": "declancm",
+                "url": "https://github.com/declancm"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35613401?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim config and plugin specs, etc.</div>",
+            "url": "https://github.com/KLimit/nvimfiles",
+            "title": "KLimit/nvimfiles: My neovim config and plugin specs, etc.",
+            "date_modified": "2024-07-01T22:42:26.000Z",
+            "date_published": "2023-02-28T18:35:25.000Z",
+            "author": {
+                "name": "KLimit",
+                "url": "https://github.com/KLimit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-01T22:18:17.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-01T22:05:42.000Z",
+            "date_modified": "2024-07-01T22:23:37.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -25,17 +69,6 @@
             "author": {
                 "name": "olimorris",
                 "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-01T21:19:12.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -149,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35613401?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim config and plugin specs, etc.</div>",
-            "url": "https://github.com/KLimit/nvimfiles",
-            "title": "KLimit/nvimfiles: My neovim config and plugin specs, etc.",
-            "date_modified": "2024-07-01T18:24:14.000Z",
-            "date_published": "2023-02-28T18:35:25.000Z",
-            "author": {
-                "name": "KLimit",
-                "url": "https://github.com/KLimit"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.</div>",
             "url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim",
             "title": "rachartier/tiny-inline-diagnostic.nvim: A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "stevearc",
                 "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59532941?u=28eeb25b68ef12a6d86520c9c4b8478f9322c6c2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for JavaScript, TypeScript projects. It provides a way to execute npm scripts without leaving the editor.</div>",
-            "url": "https://github.com/sajjathossain/nvim-npm",
-            "title": "sajjathossain/nvim-npm: A Neovim plugin for JavaScript, TypeScript projects. It provides a way to execute npm scripts without leaving the editor.",
-            "date_modified": "2024-07-01T17:30:03.000Z",
-            "date_published": "2024-06-30T17:00:46.000Z",
-            "author": {
-                "name": "sajjathossain",
-                "url": "https://github.com/sajjathossain"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
-            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
-            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
-            "date_modified": "2024-07-01T17:26:38.000Z",
-            "date_published": "2021-12-11T08:13:56.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
             }
         }
     ]
