@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25078429?u=9af35cb1e06706b04319fa14a2f040192aaf0d31&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to run curl commands</div>",
+            "url": "https://github.com/oysandvik94/curl.nvim",
+            "title": "oysandvik94/curl.nvim: Simple Neovim plugin to run curl commands",
+            "date_modified": "2024-07-01T10:10:45.000Z",
+            "date_published": "2024-06-28T15:32:22.000Z",
+            "author": {
+                "name": "oysandvik94",
+                "url": "https://github.com/oysandvik94"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=972e3aec2962b5a72c50e1c36c7bc63d54d93c57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that helps managing crates.io dependencies</div>",
+            "url": "https://github.com/Saecki/crates.nvim",
+            "title": "Saecki/crates.nvim: A neovim plugin that helps managing crates.io dependencies",
+            "date_modified": "2024-07-01T09:57:02.000Z",
+            "date_published": "2021-08-24T17:13:20.000Z",
+            "author": {
+                "name": "Saecki",
+                "url": "https://github.com/Saecki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6033094?u=6ee36ad19855bb7a7b39c137f3a92417205d4c61&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.</div>",
+            "url": "https://github.com/joshuadanpeterson/typewriter.nvim",
+            "title": "joshuadanpeterson/typewriter.nvim: A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.",
+            "date_modified": "2024-07-01T09:53:23.000Z",
+            "date_published": "2024-05-25T02:44:21.000Z",
+            "author": {
+                "name": "joshuadanpeterson",
+                "url": "https://github.com/joshuadanpeterson"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17450586?u=cc2ec8fc2bd9c13f75cec6daf01c9a050f606fde&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration to show my plugins in action.</div>",
+            "url": "https://github.com/jmbuhr/quarto-nvim-kickstarter",
+            "title": "jmbuhr/quarto-nvim-kickstarter: Neovim configuration to show my plugins in action.",
+            "date_modified": "2024-07-01T09:40:06.000Z",
+            "date_published": "2022-06-03T07:59:41.000Z",
+            "author": {
+                "name": "jmbuhr",
+                "url": "https://github.com/jmbuhr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.</div>",
+            "url": "https://github.com/echasnovski/mini.surround",
+            "title": "echasnovski/mini.surround: Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.",
+            "date_modified": "2024-07-01T09:22:34.000Z",
+            "date_published": "2022-10-24T16:30:02.000Z",
+            "author": {
+                "name": "echasnovski",
+                "url": "https://github.com/echasnovski"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-01T09:19:49.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-07-01T09:19:14.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to manage trailspace (highlight and remove). Part of 'mini.nvim' library.</div>",
             "url": "https://github.com/echasnovski/mini.trailspace",
             "title": "echasnovski/mini.trailspace: Neovim Lua plugin to manage trailspace (highlight and remove). Part of 'mini.nvim' library.",
@@ -33,17 +110,6 @@
             "title": "echasnovski/mini.tabline: Neovim Lua plugin with minimal and fast tabline. Part of 'mini.nvim' library.",
             "date_modified": "2024-07-01T08:30:23.000Z",
             "date_published": "2022-10-24T16:30:46.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.surround",
-            "title": "echasnovski/mini.surround: Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.",
-            "date_modified": "2024-07-01T08:30:21.000Z",
-            "date_published": "2022-10-24T16:30:02.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
@@ -154,72 +220,6 @@
             "title": "echasnovski/mini.jump: Neovim Lua plugin to jump forward/backward to a single character. Part of 'mini.nvim' library.",
             "date_modified": "2024-07-01T08:30:02.000Z",
             "date_published": "2022-10-24T16:22:42.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.indentscope",
-            "title": "echasnovski/mini.indentscope: Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.",
-            "date_modified": "2024-07-01T08:30:00.000Z",
-            "date_published": "2022-10-24T16:22:07.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with fuzzy matching functionality. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.fuzzy",
-            "title": "echasnovski/mini.fuzzy: Neovim Lua plugin with fuzzy matching functionality. Part of 'mini.nvim' library.",
-            "date_modified": "2024-07-01T08:29:55.000Z",
-            "date_published": "2022-10-24T16:21:25.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to generate Neovim help files. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.doc",
-            "title": "echasnovski/mini.doc: Neovim Lua plugin to generate Neovim help files. Part of 'mini.nvim' library.",
-            "date_modified": "2024-07-01T08:29:50.000Z",
-            "date_published": "2022-10-24T16:20:31.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin manager. Part of 'mini.nvim' library. </div>",
-            "url": "https://github.com/echasnovski/mini.deps",
-            "title": "echasnovski/mini.deps: Plugin manager. Part of 'mini.nvim' library. ",
-            "date_modified": "2024-07-01T08:29:47.000Z",
-            "date_published": "2024-02-11T11:22:41.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin for autohighlighting word under cursor. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.cursorword",
-            "title": "echasnovski/mini.cursorword: Neovim Lua plugin for autohighlighting word under cursor. Part of 'mini.nvim' library.",
-            "date_modified": "2024-07-01T08:29:46.000Z",
-            "date_published": "2022-10-24T16:19:50.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.completion",
-            "title": "echasnovski/mini.completion: Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.",
-            "date_modified": "2024-07-01T08:29:44.000Z",
-            "date_published": "2022-10-24T16:19:08.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
