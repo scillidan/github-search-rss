@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48160881?u=e8dbee3bc9d1bb2f54847983ddeff5cc8bee0ed4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension for A1111's Stable Diffusion Webui. Controls amount of detail.</div>",
+            "url": "https://github.com/muerrilla/sd-webui-detail-daemon",
+            "title": "muerrilla/sd-webui-detail-daemon: Extension for A1111's Stable Diffusion Webui. Controls amount of detail.",
+            "date_modified": "2024-07-01T18:43:26.000Z",
+            "date_published": "2024-05-09T21:58:52.000Z",
+            "author": {
+                "name": "muerrilla",
+                "url": "https://github.com/muerrilla"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.</div>",
+            "url": "https://github.com/canonical/sdcore-webui-k8s-operator",
+            "title": "canonical/sdcore-webui-k8s-operator: A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.",
+            "date_modified": "2024-07-01T18:15:38.000Z",
+            "date_published": "2023-05-19T15:43:33.000Z",
+            "author": {
+                "name": "canonical",
+                "url": "https://github.com/canonical"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115807826?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple FastApi to WebUI api of SD</div>",
             "url": "https://github.com/IvanBalyasnikov/sd_api",
             "title": "IvanBalyasnikov/sd_api: Simple FastApi to WebUI api of SD",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "QodiCat",
                 "url": "https://github.com/QodiCat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93578501?u=b8a0e3d09857014fa1b5b79cbc793dafa6588cbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable-Diffusion-WebUI. One simple notebook for two environments: Colab (Pro|Free), Kaggle.</div>",
-            "url": "https://github.com/anxety-solo/sd-webui-notebook",
-            "title": "anxety-solo/sd-webui-notebook: Stable-Diffusion-WebUI. One simple notebook for two environments: Colab (Pro|Free), Kaggle.",
-            "date_modified": "2024-06-29T14:16:29.000Z",
-            "date_published": "2023-08-16T12:08:41.000Z",
-            "author": {
-                "name": "anxety-solo",
-                "url": "https://github.com/anxety-solo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tab for sd-webui for replacing objects in pictures or videos using detection prompt</div>",
-            "url": "https://github.com/light-and-ray/sd-webui-replacer",
-            "title": "light-and-ray/sd-webui-replacer: A tab for sd-webui for replacing objects in pictures or videos using detection prompt",
-            "date_modified": "2024-06-29T09:52:58.000Z",
-            "date_published": "2023-11-06T10:09:24.000Z",
-            "author": {
-                "name": "light-and-ray",
-                "url": "https://github.com/light-and-ray"
             }
         }
     ]
