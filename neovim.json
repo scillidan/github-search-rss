@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-07-03T12:50:57.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63251660?u=011c2411ee9afa3c5452c33e19c9e10731b8cf0c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fully-featured code generation plugin for NeoVIM. Inspired from the PHPStorm code generation tool</div>",
+            "url": "https://github.com/CommandMaker/php-tools.nvim",
+            "title": "CommandMaker/php-tools.nvim: A fully-featured code generation plugin for NeoVIM. Inspired from the PHPStorm code generation tool",
+            "date_modified": "2024-07-03T12:40:45.000Z",
+            "date_published": "2024-07-03T12:40:45.000Z",
+            "author": {
+                "name": "CommandMaker",
+                "url": "https://github.com/CommandMaker"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1560508?u=e325f5fc21568f32f5edbe2f9c68b1822c4755ec&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a Neovim plugin that allows you to disable all default keymaps in Neovim with a single command.</div>",
+            "url": "https://github.com/ryoppippi/nvim-reset",
+            "title": "ryoppippi/nvim-reset: a Neovim plugin that allows you to disable all default keymaps in Neovim with a single command.",
+            "date_modified": "2024-07-03T12:32:40.000Z",
+            "date_published": "2024-05-30T14:27:24.000Z",
+            "author": {
+                "name": "ryoppippi",
+                "url": "https://github.com/ryoppippi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-03T12:20:27.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130372558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim statusline plugin blazing fast than any statusline plugin</div>",
+            "url": "https://github.com/nvimdev/modeline.nvim",
+            "title": "nvimdev/modeline.nvim: neovim statusline plugin blazing fast than any statusline plugin",
+            "date_modified": "2024-07-03T12:17:41.000Z",
+            "date_published": "2023-01-31T04:56:38.000Z",
+            "author": {
+                "name": "nvimdev",
+                "url": "https://github.com/nvimdev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -28,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-03T11:18:02.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14210967?u=f6b5d8764ef44a9e2f32aea835201c30252d46a8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nvim-ros2 is a simple lua plugin that adds useful features to enhance your development workflow while developing ROS 2 modules.</div>",
             "url": "https://github.com/ErickKramer/nvim-ros2",
             "title": "ErickKramer/nvim-ros2: nvim-ros2 is a simple lua plugin that adds useful features to enhance your development workflow while developing ROS 2 modules.",
@@ -53,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-03T12:12:50.000Z",
+            "date_modified": "2024-07-03T12:59:11.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "mistricky",
                 "url": "https://github.com/mistricky"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
-            "url": "https://github.com/m15a/flake-vim-plugin-analects",
-            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
-            "date_modified": "2024-07-03T08:53:24.000Z",
-            "date_published": "2024-04-11T07:27:53.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-07-03T08:51:52.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122292089?u=b68ea212023b312b344ce67d5bb2d07a2d09b12b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugins to support your work with neovim.</div>",
-            "url": "https://github.com/hihimamuLab/hihimamu.nvim",
-            "title": "hihimamuLab/hihimamu.nvim: Plugins to support your work with neovim.",
-            "date_modified": "2024-07-03T08:45:32.000Z",
-            "date_published": "2024-06-30T01:55:15.000Z",
-            "author": {
-                "name": "hihimamuLab",
-                "url": "https://github.com/hihimamuLab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
-            "url": "https://github.com/disrupted/dotfiles",
-            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
-            "date_modified": "2024-07-03T08:44:26.000Z",
-            "date_published": "2020-08-18T11:47:17.000Z",
-            "author": {
-                "name": "disrupted",
-                "url": "https://github.com/disrupted"
             }
         }
     ]
