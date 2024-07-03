@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
+            "url": "https://github.com/yukimemi/dvpm",
+            "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
+            "date_modified": "2024-07-03T06:06:06.000Z",
+            "date_published": "2023-05-14T12:16:02.000Z",
+            "author": {
+                "name": "yukimemi",
+                "url": "https://github.com/yukimemi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9450943?u=fe52d065569c202b6f967b42bca11b150e00c332&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.</div>",
+            "url": "https://github.com/JoosepAlviste/nvim-ts-context-commentstring",
+            "title": "JoosepAlviste/nvim-ts-context-commentstring: Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.",
+            "date_modified": "2024-07-03T06:02:25.000Z",
+            "date_published": "2021-02-24T19:33:53.000Z",
+            "author": {
+                "name": "JoosepAlviste",
+                "url": "https://github.com/JoosepAlviste"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!</div>",
+            "url": "https://github.com/declancm/cinnamon.nvim",
+            "title": "declancm/cinnamon.nvim: Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!",
+            "date_modified": "2024-07-03T05:56:26.000Z",
+            "date_published": "2022-02-28T23:30:26.000Z",
+            "author": {
+                "name": "declancm",
+                "url": "https://github.com/declancm"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57088952?u=87c9124a476f20fe30ce50aadc3488959a234038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The local file is synchronized with the server file by neovim plugin</div>",
+            "url": "https://github.com/denstiny/karasync.nvim",
+            "title": "denstiny/karasync.nvim: The local file is synchronized with the server file by neovim plugin",
+            "date_modified": "2024-07-03T05:52:47.000Z",
+            "date_published": "2024-02-27T05:19:05.000Z",
+            "author": {
+                "name": "denstiny",
+                "url": "https://github.com/denstiny"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-07-03T05:51:27.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36301891?u=2b5e317d9ab7ea5691bcd3fb5279af242bcb9ee0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for editing Eno files.</div>",
+            "url": "https://github.com/fawni/eno.nvim",
+            "title": "fawni/eno.nvim: A Neovim plugin for editing Eno files.",
+            "date_modified": "2024-07-03T05:25:15.000Z",
+            "date_published": "2024-05-29T00:37:54.000Z",
+            "author": {
+                "name": "fawni",
+                "url": "https://github.com/fawni"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-07-03T05:16:51.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121399271?u=79f1fa760248825d900e68286ed05725bcd58683&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple neovim plugin for simpler navigation within the line best described as horizontal word counter</div>",
             "url": "https://github.com/Vlazum/cheat-line.nvim",
             "title": "Vlazum/cheat-line.nvim: simple neovim plugin for simpler navigation within the line best described as horizontal word counter",
@@ -143,83 +220,6 @@
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
             "date_modified": "2024-07-03T00:28:27.000Z",
             "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-03T00:25:10.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
-            "title": "LongerHV/neovim-plugins-overlay",
-            "date_modified": "2024-07-03T00:13:58.000Z",
-            "date_published": "2022-12-22T21:42:57.000Z",
-            "author": {
-                "name": "LongerHV",
-                "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-07-03T00:04:32.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66312028?u=229a43f16349b83a3af4a99b724a53c090fd7182&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for viewing recently yanked snippets</div>",
-            "url": "https://github.com/ikeasamoahansah/telescope-copy.nvim",
-            "title": "ikeasamoahansah/telescope-copy.nvim: neovim plugin for viewing recently yanked snippets",
-            "date_modified": "2024-07-02T23:55:30.000Z",
-            "date_published": "2024-06-29T22:30:12.000Z",
-            "author": {
-                "name": "ikeasamoahansah",
-                "url": "https://github.com/ikeasamoahansah"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115044400?u=964ba43bed0d6d02adedfdadfd5cb14eee9bf25b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin to Use LLMs to Code</div>",
-            "url": "https://github.com/presindent/coddit.nvim",
-            "title": "presindent/coddit.nvim: Neovim Plugin to Use LLMs to Code",
-            "date_modified": "2024-07-02T23:20:32.000Z",
-            "date_published": "2024-06-21T10:38:05.000Z",
-            "author": {
-                "name": "presindent",
-                "url": "https://github.com/presindent"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
-            "url": "https://github.com/folke/tokyonight.nvim",
-            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-03T00:49:54.000Z",
-            "date_published": "2021-04-16T17:21:40.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
-            "url": "https://github.com/nvim-neorocks/rocks.nvim",
-            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-07-02T22:43:36.000Z",
-            "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
