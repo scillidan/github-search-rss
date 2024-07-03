@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-07-03T10:02:37.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51069488?u=ecdfded359a317cb27b429e02a2360ee4b035223&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins</div>",
+            "url": "https://github.com/cirofabianbermudez/nvim",
+            "title": "cirofabianbermudez/nvim: Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins",
+            "date_modified": "2024-07-03T09:55:01.000Z",
+            "date_published": "2024-03-23T12:20:18.000Z",
+            "author": {
+                "name": "cirofabianbermudez",
+                "url": "https://github.com/cirofabianbermudez"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-07-03T09:55:00.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17382962?u=3e3e1d98217fd029b37f0475e27cfd9e92cc0baa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.</div>",
+            "url": "https://github.com/tristone13th/lspmark.nvim",
+            "title": "tristone13th/lspmark.nvim: A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.",
+            "date_modified": "2024-07-03T09:41:37.000Z",
+            "date_published": "2024-06-09T08:59:13.000Z",
+            "author": {
+                "name": "tristone13th",
+                "url": "https://github.com/tristone13th"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-07-03T09:23:57.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-03T09:18:49.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57088952?u=87c9124a476f20fe30ce50aadc3488959a234038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The local file is synchronized with the server file by neovim plugin</div>",
+            "url": "https://github.com/denstiny/karasync.nvim",
+            "title": "denstiny/karasync.nvim: The local file is synchronized with the server file by neovim plugin",
+            "date_modified": "2024-07-03T09:11:11.000Z",
+            "date_published": "2024-02-27T05:19:05.000Z",
+            "author": {
+                "name": "denstiny",
+                "url": "https://github.com/denstiny"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=afb3154ed7b4e9cfaec422d752f2056f94a2bc66&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim</div>",
             "url": "https://github.com/mistricky/codesnap.nvim",
             "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
@@ -64,22 +141,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-03T08:20:41.000Z",
+            "date_modified": "2024-07-03T09:57:14.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-03T08:20:14.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "declancm",
                 "url": "https://github.com/declancm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57088952?u=87c9124a476f20fe30ce50aadc3488959a234038&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The local file is synchronized with the server file by neovim plugin</div>",
-            "url": "https://github.com/denstiny/karasync.nvim",
-            "title": "denstiny/karasync.nvim: The local file is synchronized with the server file by neovim plugin",
-            "date_modified": "2024-07-03T05:52:47.000Z",
-            "date_published": "2024-02-27T05:19:05.000Z",
-            "author": {
-                "name": "denstiny",
-                "url": "https://github.com/denstiny"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36301891?u=2b5e317d9ab7ea5691bcd3fb5279af242bcb9ee0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for editing Eno files.</div>",
-            "url": "https://github.com/fawni/eno.nvim",
-            "title": "fawni/eno.nvim: A Neovim plugin for editing Eno files.",
-            "date_modified": "2024-07-03T05:25:15.000Z",
-            "date_published": "2024-05-29T00:37:54.000Z",
-            "author": {
-                "name": "fawni",
-                "url": "https://github.com/fawni"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-07-03T05:16:51.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121399271?u=79f1fa760248825d900e68286ed05725bcd58683&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>simple neovim plugin for simpler navigation within the line best described as horizontal word counter</div>",
-            "url": "https://github.com/Vlazum/cheat-line.nvim",
-            "title": "Vlazum/cheat-line.nvim: simple neovim plugin for simpler navigation within the line best described as horizontal word counter",
-            "date_modified": "2024-07-03T05:06:20.000Z",
-            "date_published": "2024-06-01T16:43:23.000Z",
-            "author": {
-                "name": "Vlazum",
-                "url": "https://github.com/Vlazum"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17382962?u=3e3e1d98217fd029b37f0475e27cfd9e92cc0baa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.</div>",
-            "url": "https://github.com/tristone13th/lspmark.nvim",
-            "title": "tristone13th/lspmark.nvim: A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.",
-            "date_modified": "2024-07-03T03:56:46.000Z",
-            "date_published": "2024-06-09T08:59:13.000Z",
-            "author": {
-                "name": "tristone13th",
-                "url": "https://github.com/tristone13th"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/753059?u=b0e792ba81115540f6b996a69d1c43ae023c4480&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to detect and view battery information</div>",
-            "url": "https://github.com/justinhj/battery.nvim",
-            "title": "justinhj/battery.nvim: Neovim plugin to detect and view battery information",
-            "date_modified": "2024-07-03T09:04:50.000Z",
-            "date_published": "2022-07-24T17:27:46.000Z",
-            "author": {
-                "name": "justinhj",
-                "url": "https://github.com/justinhj"
             }
         }
     ]
