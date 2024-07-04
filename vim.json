@@ -6,6 +6,28 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)</div>",
+            "url": "https://github.com/kyoh86/denops-zenn_dev.vim",
+            "title": "kyoh86/denops-zenn_dev.vim: A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)",
+            "date_modified": "2024-07-04T17:14:11.000Z",
+            "date_published": "2024-04-04T19:25:15.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ddu.vim source collects plugins managed in lazy.nvim.</div>",
+            "url": "https://github.com/kyoh86/ddu-source-lazy_nvim",
+            "title": "kyoh86/ddu-source-lazy_nvim: ddu.vim source collects plugins managed in lazy.nvim.",
+            "date_modified": "2024-07-04T17:13:00.000Z",
+            "date_published": "2023-06-06T22:38:40.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1525226?u=e47bca2443e8506b9cd3b8b62ad208ba8591e378&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The missing sidebar manager for Vim/Neovim</div>",
             "url": "https://github.com/brglng/vim-sidebar-manager",
             "title": "brglng/vim-sidebar-manager: The missing sidebar manager for Vim/Neovim",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-04T17:08:05.000Z",
+            "date_modified": "2024-07-04T18:09:28.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "declancm",
                 "url": "https://github.com/declancm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-07-04T11:37:35.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The commons lua library for Neovim plugin project.</div>",
-            "url": "https://github.com/linrongbin16/commons.nvim",
-            "title": "linrongbin16/commons.nvim: The commons lua library for Neovim plugin project.",
-            "date_modified": "2024-07-04T02:51:50.000Z",
-            "date_published": "2023-12-11T13:48:32.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
             }
         }
     ]
