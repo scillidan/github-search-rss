@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-04T19:02:22.000Z",
+            "date_modified": "2024-07-04T20:09:33.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -17,10 +17,131 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/137426021?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to help compile and run code with tmux integration</div>",
+            "url": "https://github.com/sashetophizika/compal.nvim",
+            "title": "sashetophizika/compal.nvim: Neovim plugin to help compile and run code with tmux integration",
+            "date_modified": "2024-07-04T19:38:40.000Z",
+            "date_published": "2023-06-26T07:52:36.000Z",
+            "author": {
+                "name": "sashetophizika",
+                "url": "https://github.com/sashetophizika"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for LSP rename function in a centered popup</div>",
+            "url": "https://github.com/javiorfo/nvim-renamid",
+            "title": "javiorfo/nvim-renamid: Neovim plugin for LSP rename function in a centered popup",
+            "date_modified": "2024-07-04T19:33:17.000Z",
+            "date_published": "2024-04-17T14:10:46.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for deploying Java war (or ear) files on Tomcat, JBoss or Wildfly</div>",
+            "url": "https://github.com/javiorfo/nvim-wildcat",
+            "title": "javiorfo/nvim-wildcat: Neovim plugin written in Lua for deploying Java war (or ear) files on Tomcat, JBoss or Wildfly",
+            "date_modified": "2024-07-04T19:31:49.000Z",
+            "date_published": "2023-02-02T02:22:57.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for running a main or script in several languages</div>",
+            "url": "https://github.com/javiorfo/nvim-fuel",
+            "title": "javiorfo/nvim-fuel: Neovim plugin written in Lua for running a main or script in several languages",
+            "date_modified": "2024-07-04T19:30:01.000Z",
+            "date_published": "2023-02-02T02:20:37.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7510943?u=9948757ff83d43ac3e85b6f4f5ff6119d2abaf6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The best way to make neovim plugins in Rust</div>",
+            "url": "https://github.com/Norlock/neo-api-rs",
+            "title": "Norlock/neo-api-rs: The best way to make neovim plugins in Rust",
+            "date_modified": "2024-07-04T19:29:21.000Z",
+            "date_published": "2024-04-15T18:47:05.000Z",
+            "author": {
+                "name": "Norlock",
+                "url": "https://github.com/Norlock"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for commenting code</div>",
+            "url": "https://github.com/javiorfo/nvim-hemingway",
+            "title": "javiorfo/nvim-hemingway: Neovim plugin written in Lua for commenting code",
+            "date_modified": "2024-07-04T19:28:12.000Z",
+            "date_published": "2023-02-02T02:23:54.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin based on Spring Initializr</div>",
+            "url": "https://github.com/javiorfo/nvim-springtime",
+            "title": "javiorfo/nvim-springtime: Neovim plugin based on Spring Initializr",
+            "date_modified": "2024-07-04T19:27:22.000Z",
+            "date_published": "2023-02-02T02:13:33.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for calling APIs (REST and GraphQL)  written in Lua</div>",
+            "url": "https://github.com/javiorfo/nvim-ship",
+            "title": "javiorfo/nvim-ship: Neovim plugin for calling APIs (REST and GraphQL)  written in Lua",
+            "date_modified": "2024-07-04T19:24:40.000Z",
+            "date_published": "2023-02-02T02:24:49.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-04T19:18:53.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for Plant UML</div>",
+            "url": "https://github.com/javiorfo/nvim-soil",
+            "title": "javiorfo/nvim-soil: Neovim plugin written in Lua for Plant UML",
+            "date_modified": "2024-07-04T19:18:30.000Z",
+            "date_published": "2023-02-02T02:22:02.000Z",
+            "author": {
+                "name": "javiorfo",
+                "url": "https://github.com/javiorfo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-07-04T19:10:22.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-04T19:02:01.000Z",
+            "date_modified": "2024-07-04T20:09:21.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -47,17 +168,6 @@
             "author": {
                 "name": "Old-Farmer",
                 "url": "https://github.com/Old-Farmer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-04T18:19:42.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -113,116 +223,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)</div>",
-            "url": "https://github.com/kyoh86/denops-zenn_dev.vim",
-            "title": "kyoh86/denops-zenn_dev.vim: A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)",
-            "date_modified": "2024-07-04T17:14:11.000Z",
-            "date_published": "2024-04-04T19:25:15.000Z",
-            "author": {
-                "name": "kyoh86",
-                "url": "https://github.com/kyoh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76439641?u=46510435e1ca00be651e0ea65d398b63e1b325ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repo contains my Neovim config files and plugins i use...</div>",
-            "url": "https://github.com/navaneet-rao/neovim-config",
-            "title": "navaneet-rao/neovim-config: This repo contains my Neovim config files and plugins i use...",
-            "date_modified": "2024-07-04T16:59:49.000Z",
-            "date_published": "2024-02-21T13:52:30.000Z",
-            "author": {
-                "name": "navaneet-rao",
-                "url": "https://github.com/navaneet-rao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1525226?u=e47bca2443e8506b9cd3b8b62ad208ba8591e378&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The missing sidebar manager for Vim/Neovim</div>",
-            "url": "https://github.com/brglng/vim-sidebar-manager",
-            "title": "brglng/vim-sidebar-manager: The missing sidebar manager for Vim/Neovim",
-            "date_modified": "2024-07-04T16:41:29.000Z",
-            "date_published": "2020-02-15T14:15:09.000Z",
-            "author": {
-                "name": "brglng",
-                "url": "https://github.com/brglng"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3100053?u=47dbf33b5d849efcf85489bb8a4fc777b7410feb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope. </div>",
-            "url": "https://github.com/coffebar/neovim-project",
-            "title": "coffebar/neovim-project: Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope. ",
-            "date_modified": "2024-07-04T16:19:43.000Z",
-            "date_published": "2023-09-17T11:47:03.000Z",
-            "author": {
-                "name": "coffebar",
-                "url": "https://github.com/coffebar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47322901?u=e0e47a2dd343ce0f1859ac399555a499faeed359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Debug adapter for Neovim plugins</div>",
-            "url": "https://github.com/jbyuki/one-small-step-for-vimkind",
-            "title": "jbyuki/one-small-step-for-vimkind: Debug adapter for Neovim plugins",
-            "date_modified": "2024-07-04T15:55:06.000Z",
-            "date_published": "2021-03-23T08:49:30.000Z",
-            "author": {
-                "name": "jbyuki",
-                "url": "https://github.com/jbyuki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46977173?u=1e18377032c13cd60d5ac802a811ea78c7cc15d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for splitting/joining blocks of code</div>",
-            "url": "https://github.com/Wansmer/treesj",
-            "title": "Wansmer/treesj: Neovim plugin for splitting/joining blocks of code",
-            "date_modified": "2024-07-04T15:09:33.000Z",
-            "date_published": "2022-11-11T12:09:43.000Z",
-            "author": {
-                "name": "Wansmer",
-                "url": "https://github.com/Wansmer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
-            "url": "https://github.com/yongleyuan/nvim-config",
-            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
-            "date_modified": "2024-07-04T14:26:56.000Z",
-            "date_published": "2024-06-18T01:55:38.000Z",
-            "author": {
-                "name": "yongleyuan",
-                "url": "https://github.com/yongleyuan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61948252?u=4fe2afd5d8de7d3ee7b41a2ec5e9987bbcbf2f23&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for setting up keymap option</div>",
-            "url": "https://github.com/lostl1ght/keymap-switch.nvim",
-            "title": "lostl1ght/keymap-switch.nvim: Neovim plugin for setting up keymap option",
-            "date_modified": "2024-07-04T14:25:09.000Z",
-            "date_published": "2022-09-24T17:18:37.000Z",
-            "author": {
-                "name": "lostl1ght",
-                "url": "https://github.com/lostl1ght"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-07-04T14:22:24.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88496834?u=47e91b3f44c52b584d704f1f56abab8b601e54ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple logging system for Neovim plugins.</div>",
-            "url": "https://github.com/jnpngshiii/logger.nvim",
-            "title": "jnpngshiii/logger.nvim: A simple logging system for Neovim plugins.",
-            "date_modified": "2024-07-04T15:10:59.000Z",
-            "date_published": "2024-07-03T14:00:16.000Z",
-            "author": {
-                "name": "jnpngshiii",
-                "url": "https://github.com/jnpngshiii"
             }
         }
     ]
