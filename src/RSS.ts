@@ -94,5 +94,11 @@ export const SEARCH_ITEMS: RSSItem[] = [
         query: "neovim plugin sort:updated-desc",
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/neovim.json`
+    },
+    {
+        title: "omegat",
+        query: "omegat sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/omegat.json`
     }
 ];
