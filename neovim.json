@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9415256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A quick setup and customized configuration for Neovim, including essential plugins and key mappings to enhance productivity.</div>",
+            "url": "https://github.com/genecywang/nvim-setup",
+            "title": "genecywang/nvim-setup: A quick setup and customized configuration for Neovim, including essential plugins and key mappings to enhance productivity.",
+            "date_modified": "2024-07-04T09:03:01.000Z",
+            "date_published": "2024-05-19T02:35:55.000Z",
+            "author": {
+                "name": "genecywang",
+                "url": "https://github.com/genecywang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vivid dark theme for modern Neovim.</div>",
+            "url": "https://github.com/ray-x/aurora",
+            "title": "ray-x/aurora: A vivid dark theme for modern Neovim.",
+            "date_modified": "2024-07-04T08:45:09.000Z",
+            "date_published": "2020-06-07T13:02:17.000Z",
+            "author": {
+                "name": "ray-x",
+                "url": "https://github.com/ray-x"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6033094?u=6ee36ad19855bb7a7b39c137f3a92417205d4c61&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.</div>",
+            "url": "https://github.com/joshuadanpeterson/typewriter.nvim",
+            "title": "joshuadanpeterson/typewriter.nvim: A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.",
+            "date_modified": "2024-07-04T08:41:12.000Z",
+            "date_published": "2024-05-25T02:44:21.000Z",
+            "author": {
+                "name": "joshuadanpeterson",
+                "url": "https://github.com/joshuadanpeterson"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84726450?u=a33a58ea5575f852585cf8eecc2254a2a9ba55b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A highly configurable &amp; flexible input method(im) auto-switch plugin for neovim</div>",
             "url": "https://github.com/Old-Farmer/im-autoswitch.nvim",
             "title": "Old-Farmer/im-autoswitch.nvim: A highly configurable & flexible input method(im) auto-switch plugin for neovim",
@@ -119,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-04T08:07:28.000Z",
+            "date_modified": "2024-07-04T09:06:37.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -141,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-04T07:14:17.000Z",
+            "date_modified": "2024-07-04T08:45:37.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -187,39 +220,6 @@
             "title": "linrongbin16/fzfx.nvim: A Neovim fuzzy finder that updates on every keystroke.",
             "date_modified": "2024-07-04T03:06:39.000Z",
             "date_published": "2023-07-26T09:58:20.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/148591235?u=214ec7aa4d5efe98d84d848a24413c529089e28c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal Neovim configuration. It includes settings, key mappings, plugins, and themes tailored to my preferences and workflow</div>",
-            "url": "https://github.com/MonalBarse/nvim-config",
-            "title": "MonalBarse/nvim-config: My personal Neovim configuration. It includes settings, key mappings, plugins, and themes tailored to my preferences and workflow",
-            "date_modified": "2024-07-04T03:00:56.000Z",
-            "date_published": "2024-05-08T08:18:33.000Z",
-            "author": {
-                "name": "MonalBarse",
-                "url": "https://github.com/MonalBarse"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-07-04T05:23:19.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The commons lua library for Neovim plugin project.</div>",
-            "url": "https://github.com/linrongbin16/commons.nvim",
-            "title": "linrongbin16/commons.nvim: The commons lua library for Neovim plugin project.",
-            "date_modified": "2024-07-04T02:51:50.000Z",
-            "date_published": "2023-12-11T13:48:32.000Z",
             "author": {
                 "name": "linrongbin16",
                 "url": "https://github.com/linrongbin16"
