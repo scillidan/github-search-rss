@@ -6,10 +6,21 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin to provide quick lookup of vimscript function/command/var definition/references/docs.</div>",
+            "url": "https://github.com/ervandew/lookup",
+            "title": "ervandew/lookup: Vim plugin to provide quick lookup of vimscript function/command/var definition/references/docs.",
+            "date_modified": "2024-07-05T15:12:10.000Z",
+            "date_published": "2011-02-20T16:56:48.000Z",
+            "author": {
+                "name": "ervandew",
+                "url": "https://github.com/ervandew"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-05T14:52:01.000Z",
+            "date_modified": "2024-07-05T16:09:00.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26169924?u=269b4c9cf7e7a1f389d3570d2165db7f515d6f7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple cursors plugin for vim/neovim</div>",
             "url": "https://github.com/mg979/vim-visual-multi",
             "title": "mg979/vim-visual-multi: Multiple cursors plugin for vim/neovim",
-            "date_modified": "2024-07-05T06:59:47.000Z",
+            "date_modified": "2024-07-05T15:40:58.000Z",
             "date_published": "2018-04-12T06:55:46.000Z",
             "author": {
                 "name": "mg979",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "gw31415",
                 "url": "https://github.com/gw31415"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40532058?u=4b753ef54aef2f3f4afcf4e1fad85597fc27ee45&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A very simple plugin that allows multiple custom vim.ui.open handlers to co-exist</div>",
-            "url": "https://github.com/mrshmllow/open-handlers.nvim",
-            "title": "mrshmllow/open-handlers.nvim: A very simple plugin that allows multiple custom vim.ui.open handlers to co-exist",
-            "date_modified": "2024-07-05T01:21:35.000Z",
-            "date_published": "2023-07-22T02:45:25.000Z",
-            "author": {
-                "name": "mrshmllow",
-                "url": "https://github.com/mrshmllow"
             }
         }
     ]
