@@ -6,14 +6,80 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116134?u=ad4a3190a319c2e748aae7e410661723dfc66581&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Obsidian (<a href=\"https://obsidian.md/\" rel=\"nofollow\">https://obsidian.md/</a>) plugin for sharing your notes as a GitHub gist - either privately or publicly.</div>",
+            "url": "https://github.com/timrogers/obsidian-share-as-gist",
+            "title": "timrogers/obsidian-share-as-gist: An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.",
+            "date_modified": "2024-07-05T13:05:41.000Z",
+            "date_published": "2022-06-07T07:11:25.000Z",
+            "author": {
+                "name": "timrogers",
+                "url": "https://github.com/timrogers"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174064239?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple datepicker widget for Obsidian.</div>",
+            "url": "https://github.com/joycode-hub/datepicker-plugin",
+            "title": "joycode-hub/datepicker-plugin: Simple datepicker widget for Obsidian.",
+            "date_modified": "2024-07-05T13:01:38.000Z",
+            "date_published": "2024-06-28T04:08:55.000Z",
+            "author": {
+                "name": "joycode-hub",
+                "url": "https://github.com/joycode-hub"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10094264?u=15b217fd51f7cea912942122dfaa62a930e4886b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A meal plan &amp; recipe manager plugin for Obsidian</div>",
+            "url": "https://github.com/tmayoff/obsidian-meals",
+            "title": "tmayoff/obsidian-meals: A meal plan & recipe manager plugin for Obsidian",
+            "date_modified": "2024-07-05T12:55:10.000Z",
+            "date_published": "2023-11-19T16:43:25.000Z",
+            "author": {
+                "name": "tmayoff",
+                "url": "https://github.com/tmayoff"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/170906675?u=6acc11271c5f2d17277ad13acf2b1a9e6ea79ed3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/cyber-loafing/obsidian-dev-plugin",
             "title": "cyber-loafing/obsidian-dev-plugin",
-            "date_modified": "2024-07-05T12:10:01.000Z",
+            "date_modified": "2024-07-05T12:47:24.000Z",
             "date_published": "2024-07-05T12:01:48.000Z",
             "author": {
                 "name": "cyber-loafing",
                 "url": "https://github.com/cyber-loafing"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52699794?u=9d7ff31a6419ded94ac6eb3d75465a0151033fab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Manage your tasks in vikunja.</div>",
+            "url": "https://github.com/Heiss/obsidian-vikunja-plugin",
+            "title": "Heiss/obsidian-vikunja-plugin: Manage your tasks in vikunja.",
+            "date_modified": "2024-07-05T12:43:54.000Z",
+            "date_published": "2024-06-18T16:24:28.000Z",
+            "author": {
+                "name": "Heiss",
+                "url": "https://github.com/Heiss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61602848?u=1f1f59163246556e235958801f0b27e30412d346&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.</div>",
+            "url": "https://github.com/mProjectsCode/obsidian-meta-bind-plugin",
+            "title": "mProjectsCode/obsidian-meta-bind-plugin: A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.",
+            "date_modified": "2024-07-05T12:35:27.000Z",
+            "date_published": "2022-06-08T10:18:04.000Z",
+            "author": {
+                "name": "mProjectsCode",
+                "url": "https://github.com/mProjectsCode"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61602848?u=1f1f59163246556e235958801f0b27e30412d346&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.</div>",
+            "url": "https://github.com/mProjectsCode/obsidian-media-db-plugin",
+            "title": "mProjectsCode/obsidian-media-db-plugin: A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.",
+            "date_modified": "2024-07-05T12:27:27.000Z",
+            "date_published": "2022-05-04T12:43:18.000Z",
+            "author": {
+                "name": "mProjectsCode",
+                "url": "https://github.com/mProjectsCode"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "mnaoumov",
                 "url": "https://github.com/mnaoumov"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/133408963?u=3309a0e6fe8a9c58cf457cf6f4370aec00ebc281&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Interactivity lets you run local shell commands and scripts directly within your Obsidian notes, providing the output alongside your written content. Use your favorite tools like Python, Node.js, Java, Perl, PHP, bash, or any other REPLs.</div>",
-            "url": "https://github.com/ichichikin/obsidian-plugin-interactivity",
-            "title": "ichichikin/obsidian-plugin-interactivity: Interactivity lets you run local shell commands and scripts directly within your Obsidian notes, providing the output alongside your written content. Use your favorite tools like Python, Node.js, Java, Perl, PHP, bash, or any other REPLs.",
-            "date_modified": "2024-07-05T01:42:49.000Z",
-            "date_published": "2023-05-17T16:39:48.000Z",
-            "author": {
-                "name": "ichichikin",
-                "url": "https://github.com/ichichikin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/172094487?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian plugin for Ironsworn/Starforged games</div>",
-            "url": "https://github.com/iron-vault-plugin/iron-vault",
-            "title": "iron-vault-plugin/iron-vault: Obsidian plugin for Ironsworn/Starforged games",
-            "date_modified": "2024-07-05T00:57:34.000Z",
-            "date_published": "2023-09-22T20:16:32.000Z",
-            "author": {
-                "name": "iron-vault-plugin",
-                "url": "https://github.com/iron-vault-plugin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118616093?u=91000c16d0d4e555396da0c7d7053c032ce6cf8f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal vault of obsidian, storing my note in markdown, auto backup by git plugin</div>",
-            "url": "https://github.com/VoidKeishi/Keishi-Vault",
-            "title": "VoidKeishi/Keishi-Vault: My personal vault of obsidian, storing my note in markdown, auto backup by git plugin",
-            "date_modified": "2024-07-05T00:52:32.000Z",
-            "date_published": "2023-07-11T13:07:06.000Z",
-            "author": {
-                "name": "VoidKeishi",
-                "url": "https://github.com/VoidKeishi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61631665?u=f3f87e7a275e11bf71013248429e75ddc96eb611&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📃 • updated list of community themes &amp; plugins for obsidian.md!</div>",
-            "url": "https://github.com/konhi/obsidian-community-list",
-            "title": "konhi/obsidian-community-list: 📃 • updated list of community themes & plugins for obsidian.md!",
-            "date_modified": "2024-07-05T00:29:12.000Z",
-            "date_published": "2021-08-27T16:44:49.000Z",
-            "author": {
-                "name": "konhi",
-                "url": "https://github.com/konhi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9500018?u=409f92af80796e5d70aff0d97cfbcfc9031cb620&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is an Obsidian plugin which is another choice of Quick switcher.</div>",
-            "url": "https://github.com/tadashi-aikawa/obsidian-another-quick-switcher",
-            "title": "tadashi-aikawa/obsidian-another-quick-switcher: This is an Obsidian plugin which is another choice of Quick switcher.",
-            "date_modified": "2024-07-04T23:42:28.000Z",
-            "date_published": "2021-09-18T07:16:31.000Z",
-            "author": {
-                "name": "tadashi-aikawa",
-                "url": "https://github.com/tadashi-aikawa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2787454?u=29e637fa44fa04ce949de38f2ae4bbb58999530b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adds image metadata editing capabilities to Obsidian</div>",
-            "url": "https://github.com/alexeiskachykhin/obsidian-image-metadata-plugin",
-            "title": "alexeiskachykhin/obsidian-image-metadata-plugin: Adds image metadata editing capabilities to Obsidian",
-            "date_modified": "2024-07-04T23:09:10.000Z",
-            "date_published": "2024-06-24T00:40:02.000Z",
-            "author": {
-                "name": "alexeiskachykhin",
-                "url": "https://github.com/alexeiskachykhin"
             }
         }
     ]
