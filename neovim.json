@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
+            "url": "https://github.com/folke/lazy.nvim",
+            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+            "date_modified": "2024-07-05T07:05:28.000Z",
+            "date_published": "2022-11-20T21:36:02.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26169924?u=269b4c9cf7e7a1f389d3570d2165db7f515d6f7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple cursors plugin for vim/neovim</div>",
+            "url": "https://github.com/mg979/vim-visual-multi",
+            "title": "mg979/vim-visual-multi: Multiple cursors plugin for vim/neovim",
+            "date_modified": "2024-07-05T06:59:47.000Z",
+            "date_published": "2018-04-12T06:55:46.000Z",
+            "author": {
+                "name": "mg979",
+                "url": "https://github.com/mg979"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18416902?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>personal neovim config and plugin list</div>",
+            "url": "https://github.com/supengchuan/neovim-config",
+            "title": "supengchuan/neovim-config: personal neovim config and plugin list",
+            "date_modified": "2024-07-05T06:57:21.000Z",
+            "date_published": "2022-06-02T01:52:57.000Z",
+            "author": {
+                "name": "supengchuan",
+                "url": "https://github.com/supengchuan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-05T06:19:43.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13450321?u=59d0536ac9dab80004e5a72b81a5927c0e5e0f44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to check and display whether your machine have human rights.</div>",
+            "url": "https://github.com/mimikun/human-rights.nvim",
+            "title": "mimikun/human-rights.nvim: A neovim plugin to check and display whether your machine have human rights.",
+            "date_modified": "2024-07-05T06:19:11.000Z",
+            "date_published": "2024-02-15T12:46:35.000Z",
+            "author": {
+                "name": "mimikun",
+                "url": "https://github.com/mimikun"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/70950212?u=b5b624f30af83524d14200e5bc6283f2ef4786b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dumb neovim plugin to add/update copyright headers</div>",
             "url": "https://github.com/uroborosq/neovim-header",
             "title": "uroborosq/neovim-header: dumb neovim plugin to add/update copyright headers",
@@ -116,28 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18416902?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>personal neovim config and plugin list</div>",
-            "url": "https://github.com/supengchuan/neovim-config",
-            "title": "supengchuan/neovim-config: personal neovim config and plugin list",
-            "date_modified": "2024-07-05T02:49:29.000Z",
-            "date_published": "2022-06-02T01:52:57.000Z",
-            "author": {
-                "name": "supengchuan",
-                "url": "https://github.com/supengchuan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-05T02:24:52.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
             "title": "yutkat/new-neovim-plugin-with-category-rss",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-07-05T00:25:08.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
-            "title": "LongerHV/neovim-plugins-overlay",
-            "date_modified": "2024-07-05T00:13:50.000Z",
-            "date_published": "2022-12-22T21:42:57.000Z",
-            "author": {
-                "name": "LongerHV",
-                "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62602802?u=075df4f8928b8be82630b7fb5e394ce300022b18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin that open the link of current line on github</div>",
-            "url": "https://github.com/ksaito422/remote-line.nvim",
-            "title": "ksaito422/remote-line.nvim: neovim plugin that open the link of current line on github",
-            "date_modified": "2024-07-05T00:11:24.000Z",
-            "date_published": "2024-07-04T23:28:39.000Z",
-            "author": {
-                "name": "ksaito422",
-                "url": "https://github.com/ksaito422"
             }
         }
     ]
