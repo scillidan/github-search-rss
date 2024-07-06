@@ -6,14 +6,80 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
+            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
+            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
+            "date_modified": "2024-07-06T12:10:38.000Z",
+            "date_published": "2024-03-10T11:54:02.000Z",
+            "author": {
+                "name": "ttak0422",
+                "url": "https://github.com/ttak0422"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-07-06T12:09:07.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
+            "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
+            "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
+            "date_modified": "2024-07-06T12:00:18.000Z",
+            "date_published": "2024-03-18T04:13:43.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
+            "url": "https://github.com/folke/noice.nvim",
+            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+            "date_modified": "2024-07-06T11:50:39.000Z",
+            "date_published": "2022-09-21T19:32:33.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-06T11:04:15.000Z",
+            "date_modified": "2024-07-06T11:22:41.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34529290?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A coding time tracker plugin for neovim</div>",
+            "url": "https://github.com/rmarinn/codetime.nvim",
+            "title": "rmarinn/codetime.nvim: A coding time tracker plugin for neovim",
+            "date_modified": "2024-07-06T11:08:43.000Z",
+            "date_published": "2024-07-06T05:04:29.000Z",
+            "author": {
+                "name": "rmarinn",
+                "url": "https://github.com/rmarinn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
+            "url": "https://github.com/frankroeder/parrot.nvim",
+            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
+            "date_modified": "2024-07-06T12:12:41.000Z",
+            "date_published": "2023-08-15T10:16:36.000Z",
+            "author": {
+                "name": "frankroeder",
+                "url": "https://github.com/frankroeder"
             }
         },
         {
@@ -53,19 +119,8 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-06T09:48:30.000Z",
+            "date_modified": "2024-07-06T11:45:00.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
-            "url": "https://github.com/folke/noice.nvim",
-            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
-            "date_modified": "2024-07-06T09:48:24.000Z",
-            "date_published": "2022-09-21T19:32:33.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
@@ -168,61 +223,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36083692?u=055253d880d415dbedeb2e359d7da5e98be302d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for basic management of debugger breakpoints</div>",
-            "url": "https://github.com/Kafva/brk.nvim",
-            "title": "Kafva/brk.nvim: Neovim plugin for basic management of debugger breakpoints",
-            "date_modified": "2024-07-06T08:01:24.000Z",
-            "date_published": "2024-05-01T17:13:51.000Z",
-            "author": {
-                "name": "Kafva",
-                "url": "https://github.com/Kafva"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42227652?u=2df69e5312922792977db9f71c975ff4cde47ed7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My configuration and plugins of Neovim</div>",
-            "url": "https://github.com/Alexandroskw/nvim-config",
-            "title": "Alexandroskw/nvim-config: My configuration and plugins of Neovim",
-            "date_modified": "2024-07-06T07:57:01.000Z",
-            "date_published": "2024-07-06T07:45:09.000Z",
-            "author": {
-                "name": "Alexandroskw",
-                "url": "https://github.com/Alexandroskw"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
-            "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
-            "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-07-06T07:55:29.000Z",
-            "date_published": "2024-03-18T04:13:43.000Z",
-            "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18416902?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>personal neovim config and plugin list</div>",
-            "url": "https://github.com/supengchuan/neovim-config",
-            "title": "supengchuan/neovim-config: personal neovim config and plugin list",
-            "date_modified": "2024-07-06T07:41:31.000Z",
-            "date_published": "2022-06-02T01:52:57.000Z",
-            "author": {
-                "name": "supengchuan",
-                "url": "https://github.com/supengchuan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109153928?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that create a buffer for compilation results</div>",
-            "url": "https://github.com/JordenHuang/como.nvim",
-            "title": "JordenHuang/como.nvim: A neovim plugin that create a buffer for compilation results",
-            "date_modified": "2024-07-06T07:28:18.000Z",
-            "date_published": "2024-06-12T07:28:25.000Z",
-            "author": {
-                "name": "JordenHuang",
-                "url": "https://github.com/JordenHuang"
             }
         }
     ]
