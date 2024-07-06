@@ -6,25 +6,80 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-07-06T18:10:42.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-07-06T19:02:15.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
             "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47322901?u=e0e47a2dd343ce0f1859ac399555a499faeed359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Debug adapter for Neovim plugins</div>",
             "url": "https://github.com/jbyuki/one-small-step-for-vimkind",
             "title": "jbyuki/one-small-step-for-vimkind: Debug adapter for Neovim plugins",
-            "date_modified": "2024-07-06T18:08:37.000Z",
+            "date_modified": "2024-07-06T18:46:28.000Z",
             "date_published": "2021-03-23T08:49:30.000Z",
             "author": {
                 "name": "jbyuki",
                 "url": "https://github.com/jbyuki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to set a different colorscheme per filetype.</div>",
+            "url": "https://github.com/folke/styler.nvim",
+            "title": "folke/styler.nvim: Simple Neovim plugin to set a different colorscheme per filetype.",
+            "date_modified": "2024-07-06T18:35:43.000Z",
+            "date_published": "2022-11-14T11:21:05.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
+            "url": "https://github.com/R-nvim/R.nvim",
+            "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
+            "date_modified": "2024-07-06T18:35:57.000Z",
+            "date_published": "2024-01-22T20:23:10.000Z",
+            "author": {
+                "name": "R-nvim",
+                "url": "https://github.com/R-nvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78477652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimalistic LLM plugin for Neovim.</div>",
+            "url": "https://github.com/sudo-burger/m0.nvim",
+            "title": "sudo-burger/m0.nvim: Minimalistic LLM plugin for Neovim.",
+            "date_modified": "2024-07-06T18:20:06.000Z",
+            "date_published": "2024-03-17T13:52:59.000Z",
+            "author": {
+                "name": "sudo-burger",
+                "url": "https://github.com/sudo-burger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-06T18:18:57.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-07-06T18:30:15.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
             }
         },
         {
@@ -94,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim plugin to set a different colorscheme per filetype.</div>",
-            "url": "https://github.com/folke/styler.nvim",
-            "title": "folke/styler.nvim: Simple Neovim plugin to set a different colorscheme per filetype.",
-            "date_modified": "2024-07-06T16:06:35.000Z",
-            "date_published": "2022-11-14T11:21:05.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
             "url": "https://github.com/folke/noice.nvim",
             "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
@@ -152,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-06T18:07:59.000Z",
+            "date_modified": "2024-07-06T18:43:25.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.</div>",
-            "url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim",
-            "title": "rachartier/tiny-inline-diagnostic.nvim: A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.",
-            "date_modified": "2024-07-06T16:44:53.000Z",
-            "date_published": "2024-06-29T14:13:21.000Z",
-            "author": {
-                "name": "rachartier",
-                "url": "https://github.com/rachartier"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41177205?u=d79eac63e7ee5ff9bddc3d5238db5b1c5abba57b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A stripped down VimWiki for neovim</div>",
-            "url": "https://github.com/serenevoid/kiwi.nvim",
-            "title": "serenevoid/kiwi.nvim: A stripped down VimWiki for neovim",
-            "date_modified": "2024-07-06T16:29:52.000Z",
-            "date_published": "2023-07-13T05:10:06.000Z",
-            "author": {
-                "name": "serenevoid",
-                "url": "https://github.com/serenevoid"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-06T16:19:10.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89096890?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Tabletop Simulator scripting</div>",
-            "url": "https://github.com/KeepDrive/tts.nvim",
-            "title": "KeepDrive/tts.nvim: Neovim plugin for Tabletop Simulator scripting",
-            "date_modified": "2024-07-06T15:56:07.000Z",
-            "date_published": "2023-07-09T01:01:32.000Z",
-            "author": {
-                "name": "KeepDrive",
-                "url": "https://github.com/KeepDrive"
             }
         }
     ]
