@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
-            "url": "https://github.com/nvim-lualine/lualine.nvim",
-            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
-            "date_modified": "2024-07-07T07:03:39.000Z",
-            "date_published": "2020-12-30T14:35:10.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
+            "url": "https://github.com/folke/noice.nvim",
+            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+            "date_modified": "2024-07-07T08:03:26.000Z",
+            "date_published": "2022-09-21T19:32:33.000Z",
             "author": {
-                "name": "nvim-lualine",
-                "url": "https://github.com/nvim-lualine"
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🍁 Fun little plugin that can be used as a screensaver and on your dashboard</div>",
+            "url": "https://github.com/folke/drop.nvim",
+            "title": "folke/drop.nvim: 🍁 Fun little plugin that can be used as a screensaver and on your dashboard",
+            "date_modified": "2024-07-07T07:25:41.000Z",
+            "date_published": "2022-10-28T17:14:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6033094?u=6ee36ad19855bb7a7b39c137f3a92417205d4c61&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.</div>",
+            "url": "https://github.com/joshuadanpeterson/typewriter.nvim",
+            "title": "joshuadanpeterson/typewriter.nvim: A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.",
+            "date_modified": "2024-07-07T07:35:47.000Z",
+            "date_published": "2024-05-25T02:44:21.000Z",
+            "author": {
+                "name": "joshuadanpeterson",
+                "url": "https://github.com/joshuadanpeterson"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-07T07:18:20.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -28,6 +61,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
+            "url": "https://github.com/nvim-lualine/lualine.nvim",
+            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+            "date_modified": "2024-07-07T07:03:39.000Z",
+            "date_published": "2020-12-30T14:35:10.000Z",
+            "author": {
+                "name": "nvim-lualine",
+                "url": "https://github.com/nvim-lualine"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
             "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
             "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
@@ -36,28 +80,6 @@
             "author": {
                 "name": "ca-mantis-shrimp",
                 "url": "https://github.com/ca-mantis-shrimp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-07T06:19:43.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6033094?u=6ee36ad19855bb7a7b39c137f3a92417205d4c61&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.</div>",
-            "url": "https://github.com/joshuadanpeterson/typewriter.nvim",
-            "title": "joshuadanpeterson/typewriter.nvim: A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.",
-            "date_modified": "2024-07-07T06:19:36.000Z",
-            "date_published": "2024-05-25T02:44:21.000Z",
-            "author": {
-                "name": "joshuadanpeterson",
-                "url": "https://github.com/joshuadanpeterson"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-07-07T05:07:28.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Supercharge your Haskell experience in neovim!</div>",
-            "url": "https://github.com/mrcjkb/haskell-tools.nvim",
-            "title": "mrcjkb/haskell-tools.nvim: Supercharge your Haskell experience in neovim!",
-            "date_modified": "2024-07-07T00:21:56.000Z",
-            "date_published": "2022-10-15T14:18:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
             }
         }
     ]
