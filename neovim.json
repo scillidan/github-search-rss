@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
+            "url": "https://github.com/Shougo/dpp.vim",
+            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
+            "date_modified": "2024-07-07T04:54:06.000Z",
+            "date_published": "2023-08-08T23:23:02.000Z",
+            "author": {
+                "name": "Shougo",
+                "url": "https://github.com/Shougo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42390827?u=eee0b038684fe0855d34bab11ef34701820fd0c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration and plugins</div>",
+            "url": "https://github.com/RafaelZasas/nvim",
+            "title": "RafaelZasas/nvim: My Neovim configuration and plugins",
+            "date_modified": "2024-07-07T04:44:17.000Z",
+            "date_published": "2023-05-09T19:35:28.000Z",
+            "author": {
+                "name": "RafaelZasas",
+                "url": "https://github.com/RafaelZasas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark deno-powered hexadecimal plugin for neovim/Vim8</div>",
+            "url": "https://github.com/Shougo/ddx.vim",
+            "title": "Shougo/ddx.vim: Dark deno-powered hexadecimal plugin for neovim/Vim8",
+            "date_modified": "2024-07-07T04:32:28.000Z",
+            "date_published": "2022-04-08T08:36:36.000Z",
+            "author": {
+                "name": "Shougo",
+                "url": "https://github.com/Shougo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
             "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
             "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
             "url": "https://github.com/AstroNvim/astrocommunity",
             "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-07-07T00:28:36.000Z",
+            "date_modified": "2024-07-07T05:07:28.000Z",
             "date_published": "2023-02-21T14:55:56.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -185,41 +218,8 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-07T01:14:26.000Z",
+            "date_modified": "2024-07-07T05:03:34.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
-            "url": "https://github.com/folke/tokyonight.nvim",
-            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-07T02:22:45.000Z",
-            "date_published": "2021-04-16T17:21:40.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.</div>",
-            "url": "https://github.com/folke/which-key.nvim",
-            "title": "folke/which-key.nvim: 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
-            "date_modified": "2024-07-07T02:04:05.000Z",
-            "date_published": "2021-04-28T10:13:18.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.</div>",
-            "url": "https://github.com/folke/twilight.nvim",
-            "title": "folke/twilight.nvim: 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.",
-            "date_modified": "2024-07-06T21:45:45.000Z",
-            "date_published": "2021-07-12T07:37:37.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
