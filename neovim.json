@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88496834?u=47e91b3f44c52b584d704f1f56abab8b601e54ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple logging system for Neovim plugins.</div>",
+            "url": "https://github.com/jnpngshiii/logger.nvim",
+            "title": "jnpngshiii/logger.nvim: A simple logging system for Neovim plugins.",
+            "date_modified": "2024-07-07T22:55:03.000Z",
+            "date_published": "2024-07-03T14:00:16.000Z",
+            "author": {
+                "name": "jnpngshiii",
+                "url": "https://github.com/jnpngshiii"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116496520?u=28164ee18e20411f9e1ed1e4631c69a0b4ebd75c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for managing Docker from inside of Neovim</div>",
+            "url": "https://github.com/ej-shafran/docker-nvim",
+            "title": "ej-shafran/docker-nvim: A plugin for managing Docker from inside of Neovim",
+            "date_modified": "2024-07-07T22:30:42.000Z",
+            "date_published": "2024-07-07T22:30:30.000Z",
+            "author": {
+                "name": "ej-shafran",
+                "url": "https://github.com/ej-shafran"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-07T22:18:08.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!</div>",
             "url": "https://github.com/declancm/cinnamon.nvim",
             "title": "declancm/cinnamon.nvim: Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!",
@@ -61,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-07T21:19:21.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
             "url": "https://github.com/nvim-plugnplay/database",
             "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
@@ -119,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-07T22:00:13.000Z",
+            "date_modified": "2024-07-07T22:43:06.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "mikavilpas",
                 "url": "https://github.com/mikavilpas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97006502?u=4b1ea41571aca08160f70185811be1d4211d505a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Folder of plugins used for my neoVim configurations</div>",
-            "url": "https://github.com/bK0s/dev-environment-settings",
-            "title": "bK0s/dev-environment-settings: Folder of plugins used for my neoVim configurations",
-            "date_modified": "2024-07-07T18:12:57.000Z",
-            "date_published": "2024-07-07T17:40:55.000Z",
-            "author": {
-                "name": "bK0s",
-                "url": "https://github.com/bK0s"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
-            "url": "https://github.com/nvim-neorocks/rocks.nvim",
-            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-07-07T17:39:19.000Z",
-            "date_published": "2023-07-05T11:24:40.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
             }
         }
     ]
