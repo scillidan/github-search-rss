@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18416902?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>personal neovim config and plugin list</div>",
+            "url": "https://github.com/supengchuan/neovim-config",
+            "title": "supengchuan/neovim-config: personal neovim config and plugin list",
+            "date_modified": "2024-07-08T02:22:10.000Z",
+            "date_published": "2022-06-02T01:52:57.000Z",
+            "author": {
+                "name": "supengchuan",
+                "url": "https://github.com/supengchuan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10311?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.</div>",
+            "url": "https://github.com/jparise/vim-graphql",
+            "title": "jparise/vim-graphql: A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.",
+            "date_modified": "2024-07-08T02:05:52.000Z",
+            "date_published": "2015-12-31T00:44:29.000Z",
+            "author": {
+                "name": "jparise",
+                "url": "https://github.com/jparise"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-07-08T02:02:15.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-07-07T22:42:23.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
             "url": "https://github.com/folke/neoconf.nvim",
             "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
@@ -20,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
             "url": "https://github.com/catgoose/nvim",
             "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-07-08T01:15:35.000Z",
+            "date_modified": "2024-07-08T02:10:06.000Z",
             "date_published": "2023-03-05T23:35:23.000Z",
             "author": {
                 "name": "catgoose",
@@ -36,17 +80,6 @@
             "author": {
                 "name": "ciehanski",
                 "url": "https://github.com/ciehanski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
-            "url": "https://github.com/folke/tokyonight.nvim",
-            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-07T22:42:23.000Z",
-            "date_published": "2021-04-16T17:21:40.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "ALT-F4-LLC",
                 "url": "https://github.com/ALT-F4-LLC"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85462420?u=fe3ccd065bcd85613cc84e98259cbf860c7ca838&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim plugin for efficiently handling template strings in JavaScript, TypeScript and JSX/TSX files.</div>",
-            "url": "https://github.com/rxtsel/template-string.nvim",
-            "title": "rxtsel/template-string.nvim: A simple Neovim plugin for efficiently handling template strings in JavaScript, TypeScript and JSX/TSX files.",
-            "date_modified": "2024-07-07T21:30:51.000Z",
-            "date_published": "2024-05-22T23:16:56.000Z",
-            "author": {
-                "name": "rxtsel",
-                "url": "https://github.com/rxtsel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87674867?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration for TheAltF4Stream as a plugin.</div>",
-            "url": "https://github.com/ALT-F4-LLC/thealtf4stream.nvim",
-            "title": "ALT-F4-LLC/thealtf4stream.nvim: Neovim configuration for TheAltF4Stream as a plugin.",
-            "date_modified": "2024-07-07T21:29:36.000Z",
-            "date_published": "2024-01-12T23:17:53.000Z",
-            "author": {
-                "name": "ALT-F4-LLC",
-                "url": "https://github.com/ALT-F4-LLC"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76727386?u=352c441dd6a3864c131f8114a0a292b96e317c05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a Neovim plugin to help navigate betweeen Zellij panes as well as create new ones!</div>",
-            "url": "https://github.com/GR3YH4TT3R93/zellij-nav.nvim",
-            "title": "GR3YH4TT3R93/zellij-nav.nvim: a Neovim plugin to help navigate betweeen Zellij panes as well as create new ones!",
-            "date_modified": "2024-07-07T21:28:35.000Z",
-            "date_published": "2024-07-05T04:52:36.000Z",
-            "author": {
-                "name": "GR3YH4TT3R93",
-                "url": "https://github.com/GR3YH4TT3R93"
             }
         }
     ]
