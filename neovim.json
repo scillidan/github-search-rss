@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42797252?u=f295850c45c8df5f0267e2129c8258b4da6bace0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Incredible fast Neovim set up. It has all the plugins and configurations you need to develop React.js applications.</div>",
+            "url": "https://github.com/sergiornelas/nvim",
+            "title": "sergiornelas/nvim: Incredible fast Neovim set up. It has all the plugins and configurations you need to develop React.js applications.",
+            "date_modified": "2024-07-08T03:55:15.000Z",
+            "date_published": "2021-12-25T08:00:56.000Z",
+            "author": {
+                "name": "sergiornelas",
+                "url": "https://github.com/sergiornelas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim fuzzy finder that updates on every keystroke.</div>",
+            "url": "https://github.com/linrongbin16/fzfx.nvim",
+            "title": "linrongbin16/fzfx.nvim: A Neovim fuzzy finder that updates on every keystroke.",
+            "date_modified": "2024-07-08T03:22:37.000Z",
+            "date_published": "2023-07-26T09:58:20.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The commons lua library for Neovim plugin project.</div>",
+            "url": "https://github.com/linrongbin16/commons.nvim",
+            "title": "linrongbin16/commons.nvim: The commons lua library for Neovim plugin project.",
+            "date_modified": "2024-07-08T03:16:59.000Z",
+            "date_published": "2023-12-11T13:48:32.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76727386?u=352c441dd6a3864c131f8114a0a292b96e317c05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a Neovim plugin to help navigate betweeen Zellij panes as well as create new ones!</div>",
+            "url": "https://github.com/GR3YH4TT3R93/zellij-nav.nvim",
+            "title": "GR3YH4TT3R93/zellij-nav.nvim: a Neovim plugin to help navigate betweeen Zellij panes as well as create new ones!",
+            "date_modified": "2024-07-08T03:14:38.000Z",
+            "date_published": "2024-07-05T04:52:36.000Z",
+            "author": {
+                "name": "GR3YH4TT3R93",
+                "url": "https://github.com/GR3YH4TT3R93"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85842176?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config and plugins for Neovim</div>",
             "url": "https://github.com/rank1zen/dot-nvim",
             "title": "rank1zen/dot-nvim: Config and plugins for Neovim",
-            "date_modified": "2024-07-08T03:11:03.000Z",
+            "date_modified": "2024-07-08T03:12:39.000Z",
             "date_published": "2023-06-05T20:04:28.000Z",
             "author": {
                 "name": "rank1zen",
@@ -25,17 +69,6 @@
             "author": {
                 "name": "supengchuan",
                 "url": "https://github.com/supengchuan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=85443f8c420da54a053cc1287ef21097d2c99c85&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The commons lua library for Neovim plugin project.</div>",
-            "url": "https://github.com/linrongbin16/commons.nvim",
-            "title": "linrongbin16/commons.nvim: The commons lua library for Neovim plugin project.",
-            "date_modified": "2024-07-08T02:59:32.000Z",
-            "date_published": "2023-12-11T13:48:32.000Z",
-            "author": {
-                "name": "linrongbin16",
-                "url": "https://github.com/linrongbin16"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
-            "url": "https://github.com/folke/lazy.nvim",
-            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-08T00:31:46.000Z",
-            "date_published": "2022-11-20T21:36:02.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
-            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
-            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
-            "date_modified": "2024-07-07T23:33:33.000Z",
-            "date_published": "2023-07-13T06:54:44.000Z",
-            "author": {
-                "name": "polirritmico",
-                "url": "https://github.com/polirritmico"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116496520?u=28164ee18e20411f9e1ed1e4631c69a0b4ebd75c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for managing Docker from inside of Neovim</div>",
-            "url": "https://github.com/ej-shafran/docker-nvim",
-            "title": "ej-shafran/docker-nvim: A plugin for managing Docker from inside of Neovim",
-            "date_modified": "2024-07-07T22:30:42.000Z",
-            "date_published": "2024-07-07T22:30:30.000Z",
-            "author": {
-                "name": "ej-shafran",
-                "url": "https://github.com/ej-shafran"
             }
         }
     ]
