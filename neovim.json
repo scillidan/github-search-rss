@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119974430?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to embed an LLM API inside the editor</div>",
+            "url": "https://github.com/agheieff/nvim-ai",
+            "title": "agheieff/nvim-ai: Neovim plugin to embed an LLM API inside the editor",
+            "date_modified": "2024-07-09T13:59:00.000Z",
+            "date_published": "2024-06-23T16:45:34.000Z",
+            "author": {
+                "name": "agheieff",
+                "url": "https://github.com/agheieff"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-07-09T13:28:14.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight &amp; high performance UI plugin for nvchad</div>",
             "url": "https://github.com/NvChad/ui",
             "title": "NvChad/ui: Lightweight & high performance UI plugin for nvchad",
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-09T13:03:15.000Z",
+            "date_modified": "2024-07-09T14:00:24.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -53,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.</div>",
             "url": "https://github.com/folke/which-key.nvim",
             "title": "folke/which-key.nvim: 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
-            "date_modified": "2024-07-09T09:55:57.000Z",
+            "date_modified": "2024-07-09T14:06:59.000Z",
             "date_published": "2021-04-28T10:13:18.000Z",
             "author": {
                 "name": "folke",
@@ -193,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-07-09T09:18:05.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119963544?u=d96077dd7702c10e3989f2d235b8e1a7a5acec8e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Marks navigation plugin for Neovim</div>",
             "url": "https://github.com/davidbujok/navbuf",
             "title": "davidbujok/navbuf: Marks navigation plugin for Neovim",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "davidbujok",
                 "url": "https://github.com/davidbujok"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24727447?u=25e76c57be01004cd9898ebe65175f90f318b79b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more</div>",
-            "url": "https://github.com/numToStr/Comment.nvim",
-            "title": "numToStr/Comment.nvim: :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",
-            "date_modified": "2024-07-09T12:38:23.000Z",
-            "date_published": "2021-10-02T10:22:43.000Z",
-            "author": {
-                "name": "numToStr",
-                "url": "https://github.com/numToStr"
             }
         }
     ]
