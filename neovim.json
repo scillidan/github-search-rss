@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
+            "url": "https://github.com/disrupted/dotfiles",
+            "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
+            "date_modified": "2024-07-09T10:00:48.000Z",
+            "date_published": "2020-08-18T11:47:17.000Z",
+            "author": {
+                "name": "disrupted",
+                "url": "https://github.com/disrupted"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-09T09:19:41.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-07-09T09:18:05.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119963544?u=d96077dd7702c10e3989f2d235b8e1a7a5acec8e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Marks navigation plugin for Neovim</div>",
+            "url": "https://github.com/davidbujok/navbuf",
+            "title": "davidbujok/navbuf: Marks navigation plugin for Neovim",
+            "date_modified": "2024-07-09T09:16:35.000Z",
+            "date_published": "2024-07-05T11:34:35.000Z",
+            "author": {
+                "name": "davidbujok",
+                "url": "https://github.com/davidbujok"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24727447?u=25e76c57be01004cd9898ebe65175f90f318b79b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more</div>",
+            "url": "https://github.com/numToStr/Comment.nvim",
+            "title": "numToStr/Comment.nvim: :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",
+            "date_modified": "2024-07-09T10:08:39.000Z",
+            "date_published": "2021-10-02T10:22:43.000Z",
+            "author": {
+                "name": "numToStr",
+                "url": "https://github.com/numToStr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.</div>",
             "url": "https://github.com/folke/which-key.nvim",
             "title": "folke/which-key.nvim: 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
-            "date_modified": "2024-07-09T00:58:04.000Z",
+            "date_modified": "2024-07-09T09:55:57.000Z",
             "date_published": "2021-04-28T10:13:18.000Z",
             "author": {
                 "name": "folke",
@@ -17,25 +72,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40872910?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>convert c# (class or record) to  typescript interface, neovim plugin</div>",
-            "url": "https://github.com/Wordluc/FromCs_To_Typescript.nvim",
-            "title": "Wordluc/FromCs_To_Typescript.nvim: convert c# (class or record) to  typescript interface, neovim plugin",
-            "date_modified": "2024-07-09T08:42:01.000Z",
-            "date_published": "2024-06-26T20:23:20.000Z",
-            "author": {
-                "name": "Wordluc",
-                "url": "https://github.com/Wordluc"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
             "url": "https://github.com/frankroeder/parrot.nvim",
             "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
-            "date_modified": "2024-07-09T08:33:20.000Z",
+            "date_modified": "2024-07-09T09:25:45.000Z",
             "date_published": "2023-08-15T10:16:36.000Z",
             "author": {
                 "name": "frankroeder",
                 "url": "https://github.com/frankroeder"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40872910?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>convert c# (class or record) to  typescript interface, neovim plugin</div>",
+            "url": "https://github.com/Wordluc/FromCsToTypescript.nvim",
+            "title": "Wordluc/FromCsToTypescript.nvim: convert c# (class or record) to  typescript interface, neovim plugin",
+            "date_modified": "2024-07-09T09:44:01.000Z",
+            "date_published": "2024-06-26T20:23:20.000Z",
+            "author": {
+                "name": "Wordluc",
+                "url": "https://github.com/Wordluc"
             }
         },
         {
@@ -47,17 +102,6 @@
             "author": {
                 "name": "RanshLau",
                 "url": "https://github.com/RanshLau"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-09T08:19:12.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -80,17 +124,6 @@
             "author": {
                 "name": "MeanderingProgrammer",
                 "url": "https://github.com/MeanderingProgrammer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-07-09T05:17:00.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "LongerHV",
                 "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-07-09T00:04:05.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1813121?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for calling lazygit from within neovim.</div>",
-            "url": "https://github.com/kdheepak/lazygit.nvim",
-            "title": "kdheepak/lazygit.nvim: Plugin for calling lazygit from within neovim.",
-            "date_modified": "2024-07-09T07:36:56.000Z",
-            "date_published": "2020-04-03T22:27:25.000Z",
-            "author": {
-                "name": "kdheepak",
-                "url": "https://github.com/kdheepak"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/overseer.nvim",
-            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
-            "date_modified": "2024-07-09T06:38:22.000Z",
-            "date_published": "2022-05-18T00:03:58.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
             }
         }
     ]
