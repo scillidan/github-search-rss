@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47398876?u=762a6cd4ec15726e61e5b435247b1068719fb8f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple AI chat plugin for neovim</div>",
+            "url": "https://github.com/e-cal/chat.nvim",
+            "title": "e-cal/chat.nvim: Simple AI chat plugin for neovim",
+            "date_modified": "2024-07-10T21:04:05.000Z",
+            "date_published": "2024-03-21T19:12:40.000Z",
+            "author": {
+                "name": "e-cal",
+                "url": "https://github.com/e-cal"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78477652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimalistic LLM plugin for Neovim.</div>",
+            "url": "https://github.com/sudo-burger/m0.nvim",
+            "title": "sudo-burger/m0.nvim: Minimalistic LLM plugin for Neovim.",
+            "date_modified": "2024-07-10T20:49:46.000Z",
+            "date_published": "2024-03-17T13:52:59.000Z",
+            "author": {
+                "name": "sudo-burger",
+                "url": "https://github.com/sudo-burger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40872910?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>convert c# (class or record) to  typescript interface, neovim plugin</div>",
+            "url": "https://github.com/Wordluc/FromCsToTypescript.nvim",
+            "title": "Wordluc/FromCsToTypescript.nvim: convert c# (class or record) to  typescript interface, neovim plugin",
+            "date_modified": "2024-07-10T20:44:36.000Z",
+            "date_published": "2024-06-26T20:23:20.000Z",
+            "author": {
+                "name": "Wordluc",
+                "url": "https://github.com/Wordluc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82942315?u=5cc207c768f5d70953f5bd14181ce982334892a3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin which generates proper include guard for C++</div>",
+            "url": "https://github.com/pogyomo/cppguard.nvim",
+            "title": "pogyomo/cppguard.nvim: A neovim plugin which generates proper include guard for C++",
+            "date_modified": "2024-07-10T20:27:23.000Z",
+            "date_published": "2024-07-10T17:51:30.000Z",
+            "author": {
+                "name": "pogyomo",
+                "url": "https://github.com/pogyomo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-10T20:21:15.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
             "url": "https://github.com/nvim-neorocks/lz.n",
             "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
-            "date_modified": "2024-07-10T20:03:39.000Z",
+            "date_modified": "2024-07-10T20:20:04.000Z",
             "date_published": "2024-01-05T13:38:49.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -47,17 +102,6 @@
             "author": {
                 "name": "github",
                 "url": "https://github.com/github"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-10T19:20:08.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52529582?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to practice neovim movements, currently in \"open beta\"</div>",
-            "url": "https://github.com/Weyaaron/nvim-training",
-            "title": "Weyaaron/nvim-training: A plugin to practice neovim movements, currently in \"open beta\"",
-            "date_modified": "2024-07-10T16:30:06.000Z",
-            "date_published": "2023-07-11T12:08:19.000Z",
-            "author": {
-                "name": "Weyaaron",
-                "url": "https://github.com/Weyaaron"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
-            "url": "https://github.com/lervag/vimtex",
-            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
-            "date_modified": "2024-07-10T16:11:16.000Z",
-            "date_published": "2013-10-05T11:55:11.000Z",
-            "author": {
-                "name": "lervag",
-                "url": "https://github.com/lervag"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17382962?u=3e3e1d98217fd029b37f0475e27cfd9e92cc0baa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.</div>",
-            "url": "https://github.com/tristone13th/lspmark.nvim",
-            "title": "tristone13th/lspmark.nvim: A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.",
-            "date_modified": "2024-07-10T15:38:58.000Z",
-            "date_published": "2024-06-09T08:59:13.000Z",
-            "author": {
-                "name": "tristone13th",
-                "url": "https://github.com/tristone13th"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62622114?u=f419304359ee607a9cf80b5e40ad541e3192e152&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to provide a quicklist to execute build script</div>",
-            "url": "https://github.com/KosekiDev/build_script",
-            "title": "KosekiDev/build_script: A Neovim plugin to provide a quicklist to execute build script",
-            "date_modified": "2024-07-10T15:21:53.000Z",
-            "date_published": "2023-04-01T23:14:46.000Z",
-            "author": {
-                "name": "KosekiDev",
-                "url": "https://github.com/KosekiDev"
             }
         }
     ]
