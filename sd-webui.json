@@ -6,6 +6,39 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use lama cleaner before inpainting inside stable-diffusion-webui</div>",
+            "url": "https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content",
+            "title": "light-and-ray/sd-webui-lama-cleaner-masked-content: Use lama cleaner before inpainting inside stable-diffusion-webui",
+            "date_modified": "2024-07-11T13:12:06.000Z",
+            "date_published": "2024-01-05T00:35:23.000Z",
+            "author": {
+                "name": "light-and-ray",
+                "url": "https://github.com/light-and-ray"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adds Resynthesizer - not NN old open-source content-aware-fill algorithm as masked content in stable-diffusion-webui</div>",
+            "url": "https://github.com/light-and-ray/sd-webui-resynthesizer-masked-content",
+            "title": "light-and-ray/sd-webui-resynthesizer-masked-content: Adds Resynthesizer - not NN old open-source content-aware-fill algorithm as masked content in stable-diffusion-webui",
+            "date_modified": "2024-07-11T12:57:30.000Z",
+            "date_published": "2024-07-11T12:49:57.000Z",
+            "author": {
+                "name": "light-and-ray",
+                "url": "https://github.com/light-and-ray"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Adds yandere inpainting, based on ESRGAN, into stable diffusion webui</div>",
+            "url": "https://github.com/light-and-ray/sd-webui-yandere-inpaint-masked-content",
+            "title": "light-and-ray/sd-webui-yandere-inpaint-masked-content: Adds yandere inpainting, based on ESRGAN, into stable diffusion webui",
+            "date_modified": "2024-07-11T12:48:30.000Z",
+            "date_published": "2024-07-01T15:43:12.000Z",
+            "author": {
+                "name": "light-and-ray",
+                "url": "https://github.com/light-and-ray"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=fb5bc556ba21239a05c2373b0aa06ee1549d532c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that helps cleaning up prompts</div>",
             "url": "https://github.com/Haoming02/sd-webui-prompt-format",
             "title": "Haoming02/sd-webui-prompt-format: An Extension for Automatic1111 Webui that helps cleaning up prompts",
@@ -42,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73768377?u=fb5bc556ba21239a05c2373b0aa06ee1549d532c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Extension for Automatic1111 Webui that displays the resource usage in real-time</div>",
             "url": "https://github.com/Haoming02/sd-webui-resource-monitor",
             "title": "Haoming02/sd-webui-resource-monitor: An Extension for Automatic1111 Webui that displays the resource usage in real-time",
-            "date_modified": "2024-07-11T07:09:19.000Z",
+            "date_modified": "2024-07-11T12:28:40.000Z",
             "date_published": "2024-07-10T06:50:18.000Z",
             "author": {
                 "name": "Haoming02",
@@ -91,17 +124,6 @@
             "author": {
                 "name": "zanllp",
                 "url": "https://github.com/zanllp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33491867?u=54c33cbe08363360afc26e4e114e4c0f6e7a8ba1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use lama cleaner before inpainting inside stable-diffusion-webui</div>",
-            "url": "https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content",
-            "title": "light-and-ray/sd-webui-lama-cleaner-masked-content: Use lama cleaner before inpainting inside stable-diffusion-webui",
-            "date_modified": "2024-07-10T17:29:04.000Z",
-            "date_published": "2024-01-05T00:35:23.000Z",
-            "author": {
-                "name": "light-and-ray",
-                "url": "https://github.com/light-and-ray"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "light-and-ray",
                 "url": "https://github.com/light-and-ray"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1684202?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/ss0201/sd-webui-civitai-lora-renamer",
-            "title": "ss0201/sd-webui-civitai-lora-renamer",
-            "date_modified": "2024-07-09T10:26:10.000Z",
-            "date_published": "2024-07-06T06:36:43.000Z",
-            "author": {
-                "name": "ss0201",
-                "url": "https://github.com/ss0201"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122196982?u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>set prompt to divided region</div>",
-            "url": "https://github.com/hako-mikan/sd-webui-regional-prompter",
-            "title": "hako-mikan/sd-webui-regional-prompter: set prompt to divided region",
-            "date_modified": "2024-07-09T11:16:21.000Z",
-            "date_published": "2023-03-19T14:46:35.000Z",
-            "author": {
-                "name": "hako-mikan",
-                "url": "https://github.com/hako-mikan"
             }
         }
     ]
