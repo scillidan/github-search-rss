@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26107760?u=8db546f0a0f07cb9028e080007ea66d8ea42a475&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A statusline/tabline local plugin for Neovim. Inspired by suckless.</div>",
+            "url": "https://github.com/JohanChane/kissline.nvim",
+            "title": "JohanChane/kissline.nvim: A statusline/tabline local plugin for Neovim. Inspired by suckless.",
+            "date_modified": "2024-07-15T23:09:47.000Z",
+            "date_published": "2024-07-02T10:16:36.000Z",
+            "author": {
+                "name": "JohanChane",
+                "url": "https://github.com/JohanChane"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
+            "url": "https://github.com/stevearc/aerial.nvim",
+            "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
+            "date_modified": "2024-07-15T23:09:47.000Z",
+            "date_published": "2020-09-19T22:59:49.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109052334?u=88937c9ca7560654e5e19d1f51a9a895206492ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for navigating database schemas and executing custom queries across multiple RDBMS and NoSQL DBs</div>",
+            "url": "https://github.com/rsdot/sqlpilot.nvim",
+            "title": "rsdot/sqlpilot.nvim: A neovim plugin for navigating database schemas and executing custom queries across multiple RDBMS and NoSQL DBs",
+            "date_modified": "2024-07-15T22:44:40.000Z",
+            "date_published": "2023-03-14T13:35:27.000Z",
+            "author": {
+                "name": "rsdot",
+                "url": "https://github.com/rsdot"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
             "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
             "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-15T21:18:40.000Z",
+            "date_modified": "2024-07-15T22:18:04.000Z",
             "date_published": "2024-05-26T17:25:07.000Z",
             "author": {
                 "name": "zachcoyle",
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs",
-            "date_modified": "2024-07-15T21:01:07.000Z",
+            "date_modified": "2024-07-15T22:48:33.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -69,17 +102,6 @@
             "author": {
                 "name": "Robitx",
                 "url": "https://github.com/Robitx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
-            "url": "https://github.com/stevearc/aerial.nvim",
-            "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
-            "date_modified": "2024-07-15T20:57:19.000Z",
-            "date_published": "2020-09-19T22:59:49.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
             }
         },
         {
@@ -119,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
             "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-07-15T20:04:50.000Z",
+            "date_modified": "2024-07-15T22:33:20.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -196,33 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-15T21:52:08.000Z",
+            "date_modified": "2024-07-15T22:47:02.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
-            "url": "https://github.com/folke/tokyonight.nvim",
-            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-15T21:12:48.000Z",
-            "date_published": "2021-04-16T17:21:40.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86842365?u=216ea23a1fb4e7e8d0f2eb58683454abad95f7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that provides integration between the editor and TUI apps</div>",
-            "url": "https://github.com/samsze0/tui.nvim",
-            "title": "samsze0/tui.nvim: A Neovim plugin that provides integration between the editor and TUI apps",
-            "date_modified": "2024-07-15T16:53:45.000Z",
-            "date_published": "2024-07-07T01:51:52.000Z",
-            "author": {
-                "name": "samsze0",
-                "url": "https://github.com/samsze0"
             }
         }
     ]
