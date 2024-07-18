@@ -6,14 +6,36 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10311?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.</div>",
+            "url": "https://github.com/jparise/vim-graphql",
+            "title": "jparise/vim-graphql: A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.",
+            "date_modified": "2024-07-18T11:41:51.000Z",
+            "date_published": "2015-12-31T00:44:29.000Z",
+            "author": {
+                "name": "jparise",
+                "url": "https://github.com/jparise"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4477729?u=c33d51341de85d173f1ef4071107118daf8b28d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LitREPL is a command-line tool and a Vim plugin for code snippet execution</div>",
             "url": "https://github.com/sergei-mironov/litrepl",
             "title": "sergei-mironov/litrepl: LitREPL is a command-line tool and a Vim plugin for code snippet execution",
-            "date_modified": "2024-07-18T11:08:13.000Z",
+            "date_modified": "2024-07-18T11:40:40.000Z",
             "date_published": "2022-08-13T22:33:25.000Z",
             "author": {
                 "name": "sergei-mironov",
                 "url": "https://github.com/sergei-mironov"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19657652?u=cfecbd7ac3d853d03eb0802d9135589070c1e228&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦾 A plugin adding exubertant ctags and universal-ctags integration to vim</div>",
+            "url": "https://github.com/lukelbd/vim-tags",
+            "title": "lukelbd/vim-tags: 🦾 A plugin adding exubertant ctags and universal-ctags integration to vim",
+            "date_modified": "2024-07-18T11:13:28.000Z",
+            "date_published": "2019-04-18T22:34:25.000Z",
+            "author": {
+                "name": "lukelbd",
+                "url": "https://github.com/lukelbd"
             }
         },
         {
@@ -53,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-18T08:48:51.000Z",
+            "date_modified": "2024-07-18T11:11:01.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60088301?u=4e199a88d6978352b09890eb615ea134b9fd1a68&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config WITHOUT plugins</div>",
             "url": "https://github.com/boltlessengineer/NativeVim",
             "title": "boltlessengineer/NativeVim: Neovim config WITHOUT plugins",
-            "date_modified": "2024-07-18T10:59:52.000Z",
+            "date_modified": "2024-07-18T12:17:24.000Z",
             "date_published": "2024-07-09T16:17:58.000Z",
             "author": {
                 "name": "boltlessengineer",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "wellle",
                 "url": "https://github.com/wellle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
-            "url": "https://github.com/m15a/flake-vim-plugin-analects",
-            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
-            "date_modified": "2024-07-17T08:52:55.000Z",
-            "date_published": "2024-04-11T07:27:53.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37610000?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.</div>",
-            "url": "https://github.com/themix-project/themix-gui",
-            "title": "themix-project/themix-gui: Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.",
-            "date_modified": "2024-07-18T07:46:24.000Z",
-            "date_published": "2014-05-25T13:45:31.000Z",
-            "author": {
-                "name": "themix-project",
-                "url": "https://github.com/themix-project"
             }
         }
     ]
