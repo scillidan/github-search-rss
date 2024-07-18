@@ -6,25 +6,80 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-07-18T14:06:42.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50220557?u=453615f338f41a25508ad5db96e63ae66dcc286b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📟 An opinionated but customizable tmux session manager heavily inspired by Neovim's Telescope plugin.</div>",
+            "url": "https://github.com/jasontheiler/tmuxion",
+            "title": "jasontheiler/tmuxion: 📟 An opinionated but customizable tmux session manager heavily inspired by Neovim's Telescope plugin.",
+            "date_modified": "2024-07-18T14:51:21.000Z",
+            "date_published": "2023-04-29T14:08:54.000Z",
             "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
+                "name": "jasontheiler",
+                "url": "https://github.com/jasontheiler"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-18T13:58:03.000Z",
+            "date_modified": "2024-07-18T14:32:34.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85533116?u=48d90c938a4bebe1a13f9953af6c80c483414ff1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>learning neovim plugin development</div>",
+            "url": "https://github.com/tokisuno/stackmap.nvim",
+            "title": "tokisuno/stackmap.nvim: learning neovim plugin development",
+            "date_modified": "2024-07-18T14:41:38.000Z",
+            "date_published": "2024-07-17T13:38:13.000Z",
+            "author": {
+                "name": "tokisuno",
+                "url": "https://github.com/tokisuno"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37595?u=f68d1e2cc9612865c147cbe06386ab1ed5642429&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to simplify masion, mason-lspconfig and lspconfig configuration.</div>",
+            "url": "https://github.com/rudionrails/quarry.nvim",
+            "title": "rudionrails/quarry.nvim: Neovim plugin to simplify masion, mason-lspconfig and lspconfig configuration.",
+            "date_modified": "2024-07-18T14:33:24.000Z",
+            "date_published": "2024-07-16T14:24:01.000Z",
+            "author": {
+                "name": "rudionrails",
+                "url": "https://github.com/rudionrails"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-07-18T14:21:12.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-18T14:18:16.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-07-18T14:12:29.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
             }
         },
         {
@@ -42,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
             "url": "https://github.com/MagicDuck/grug-far.nvim",
             "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-07-18T14:01:34.000Z",
+            "date_modified": "2024-07-18T15:06:35.000Z",
             "date_published": "2024-04-28T18:15:17.000Z",
             "author": {
                 "name": "MagicDuck",
@@ -72,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85533116?u=48d90c938a4bebe1a13f9953af6c80c483414ff1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>learning neovim plugin development</div>",
-            "url": "https://github.com/tokisuno/stackmap.nvim",
-            "title": "tokisuno/stackmap.nvim: learning neovim plugin development",
-            "date_modified": "2024-07-18T13:10:44.000Z",
-            "date_published": "2024-07-17T13:38:13.000Z",
-            "author": {
-                "name": "tokisuno",
-                "url": "https://github.com/tokisuno"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16238194?u=fd1da6d92403ddbaf5e52c9f7e94fe4314aa35ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An example neovim plugin made with lua.</div>",
             "url": "https://github.com/preetiman-misra/dateinsert",
             "title": "preetiman-misra/dateinsert: An example neovim plugin made with lua.",
@@ -102,17 +146,6 @@
             "author": {
                 "name": "roobert",
                 "url": "https://github.com/roobert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-18T12:21:36.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -171,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37595?u=f68d1e2cc9612865c147cbe06386ab1ed5642429&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to simplify masion, mason-lspconfig and lspconfig configuration.</div>",
-            "url": "https://github.com/rudionrails/quarry.nvim",
-            "title": "rudionrails/quarry.nvim: Neovim plugin to simplify masion, mason-lspconfig and lspconfig configuration.",
-            "date_modified": "2024-07-18T11:43:32.000Z",
-            "date_published": "2024-07-16T14:24:01.000Z",
-            "author": {
-                "name": "rudionrails",
-                "url": "https://github.com/rudionrails"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10311?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.</div>",
             "url": "https://github.com/jparise/vim-graphql",
             "title": "jparise/vim-graphql: A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Daparrag",
                 "url": "https://github.com/Daparrag"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
-            "url": "https://github.com/nvim-lualine/lualine.nvim",
-            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
-            "date_modified": "2024-07-18T14:06:36.000Z",
-            "date_published": "2020-12-30T14:35:10.000Z",
-            "author": {
-                "name": "nvim-lualine",
-                "url": "https://github.com/nvim-lualine"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
-            "url": "https://github.com/yongleyuan/nvim-config",
-            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
-            "date_modified": "2024-07-18T11:28:26.000Z",
-            "date_published": "2024-06-18T01:55:38.000Z",
-            "author": {
-                "name": "yongleyuan",
-                "url": "https://github.com/yongleyuan"
             }
         }
     ]
