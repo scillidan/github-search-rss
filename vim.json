@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Neovim plugin integrates with telescope.nvim and nvim-treesitter to enable interactive fuzzy finding and navigation through Java methods within a file.</div>",
+            "url": "https://github.com/jkeresman01/java-method-search.nvim",
+            "title": "jkeresman01/java-method-search.nvim: This Neovim plugin integrates with telescope.nvim and nvim-treesitter to enable interactive fuzzy finding and navigation through Java methods within a file.",
+            "date_modified": "2024-07-18T19:07:53.000Z",
+            "date_published": "2024-07-14T12:07:38.000Z",
+            "author": {
+                "name": "jkeresman01",
+                "url": "https://github.com/jkeresman01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37610000?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.</div>",
+            "url": "https://github.com/themix-project/themix-gui",
+            "title": "themix-project/themix-gui: Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.",
+            "date_modified": "2024-07-18T19:03:26.000Z",
+            "date_published": "2014-05-25T13:45:31.000Z",
+            "author": {
+                "name": "themix-project",
+                "url": "https://github.com/themix-project"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4477729?u=c33d51341de85d173f1ef4071107118daf8b28d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LitREPL is a command-line tool and a Vim plugin for code snippet evaluation</div>",
+            "url": "https://github.com/sergei-mironov/litrepl",
+            "title": "sergei-mironov/litrepl: LitREPL is a command-line tool and a Vim plugin for code snippet evaluation",
+            "date_modified": "2024-07-18T18:33:59.000Z",
+            "date_published": "2022-08-13T22:33:25.000Z",
+            "author": {
+                "name": "sergei-mironov",
+                "url": "https://github.com/sergei-mironov"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A straightforward, lightweight, and minimalist Neovim configuration featuring only the essential plugins</div>",
             "url": "https://github.com/jkeresman01/Minimalistic-Neovim-configuration",
             "title": "jkeresman01/Minimalistic-Neovim-configuration: A straightforward, lightweight, and minimalist Neovim configuration featuring only the essential plugins",
@@ -36,17 +69,6 @@
             "author": {
                 "name": "declancm",
                 "url": "https://github.com/declancm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4477729?u=c33d51341de85d173f1ef4071107118daf8b28d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LitREPL is a command-line tool and a Vim plugin for code snippet evaluation</div>",
-            "url": "https://github.com/sergei-mironov/litrepl",
-            "title": "sergei-mironov/litrepl: LitREPL is a command-line tool and a Vim plugin for code snippet evaluation",
-            "date_modified": "2024-07-18T17:20:44.000Z",
-            "date_published": "2022-08-13T22:33:25.000Z",
-            "author": {
-                "name": "sergei-mironov",
-                "url": "https://github.com/sergei-mironov"
             }
         },
         {
@@ -185,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-18T16:37:20.000Z",
+            "date_modified": "2024-07-18T18:20:25.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "jakesboy2",
                 "url": "https://github.com/jakesboy2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69195288?u=6be2beec4abe01c8ea1e227bfd6e2fe02e74bf7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simplest change falso to true neovim plugin. Similar to crtl+a crtl+x in vim but with custom cycles you define.</div>",
-            "url": "https://github.com/evertonse/cycler.nvim",
-            "title": "evertonse/cycler.nvim: Simplest change falso to true neovim plugin. Similar to crtl+a crtl+x in vim but with custom cycles you define.",
-            "date_modified": "2024-07-18T03:13:05.000Z",
-            "date_published": "2024-07-18T03:01:30.000Z",
-            "author": {
-                "name": "evertonse",
-                "url": "https://github.com/evertonse"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96783720?u=0ccbedc73529c5cdc8bf1744375630c2d6988550&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim markdown format plugin like vim-table-mode but write in lua</div>",
-            "url": "https://github.com/Kicamon/markdown-table-mode.nvim",
-            "title": "Kicamon/markdown-table-mode.nvim: A neovim markdown format plugin like vim-table-mode but write in lua",
-            "date_modified": "2024-07-18T10:01:02.000Z",
-            "date_published": "2024-03-30T02:54:45.000Z",
-            "author": {
-                "name": "Kicamon",
-                "url": "https://github.com/Kicamon"
             }
         }
     ]
