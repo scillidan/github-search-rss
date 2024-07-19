@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96783720?u=0ccbedc73529c5cdc8bf1744375630c2d6988550&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim markdown format plugin like vim-table-mode but write in lua</div>",
+            "url": "https://github.com/Kicamon/markdown-table-mode.nvim",
+            "title": "Kicamon/markdown-table-mode.nvim: A neovim markdown format plugin like vim-table-mode but write in lua",
+            "date_modified": "2024-07-19T15:53:46.000Z",
+            "date_published": "2024-03-30T02:54:45.000Z",
+            "author": {
+                "name": "Kicamon",
+                "url": "https://github.com/Kicamon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4477729?u=c33d51341de85d173f1ef4071107118daf8b28d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LitREPL is a command-line tool and a Vim plugin for code snippet evaluation</div>",
+            "url": "https://github.com/sergei-mironov/litrepl",
+            "title": "sergei-mironov/litrepl: LitREPL is a command-line tool and a Vim plugin for code snippet evaluation",
+            "date_modified": "2024-07-19T15:44:38.000Z",
+            "date_published": "2022-08-13T22:33:25.000Z",
+            "author": {
+                "name": "sergei-mironov",
+                "url": "https://github.com/sergei-mironov"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4477729?u=c33d51341de85d173f1ef4071107118daf8b28d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim paste (yank) pre-processing plugin</div>",
+            "url": "https://github.com/sergei-mironov/vim-pastething",
+            "title": "sergei-mironov/vim-pastething: Vim paste (yank) pre-processing plugin",
+            "date_modified": "2024-07-19T15:23:16.000Z",
+            "date_published": "2023-08-13T09:26:22.000Z",
+            "author": {
+                "name": "sergei-mironov",
+                "url": "https://github.com/sergei-mironov"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!</div>",
             "url": "https://github.com/declancm/cinnamon.nvim",
             "title": "declancm/cinnamon.nvim: Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!",
@@ -69,17 +102,6 @@
             "author": {
                 "name": "TamaMcGlinn",
                 "url": "https://github.com/TamaMcGlinn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4477729?u=c33d51341de85d173f1ef4071107118daf8b28d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LitREPL is a command-line tool and a Vim plugin for code snippet evaluation</div>",
-            "url": "https://github.com/sergei-mironov/litrepl",
-            "title": "sergei-mironov/litrepl: LitREPL is a command-line tool and a Vim plugin for code snippet evaluation",
-            "date_modified": "2024-07-19T11:23:06.000Z",
-            "date_published": "2022-08-13T22:33:25.000Z",
-            "author": {
-                "name": "sergei-mironov",
-                "url": "https://github.com/sergei-mironov"
             }
         },
         {
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-07-19T14:05:40.000Z",
+            "date_modified": "2024-07-19T15:28:49.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "contest-framework",
                 "url": "https://github.com/contest-framework"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65694?u=c52b5f29307b6fdce41f02f36707211747a6609a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim just the way I like it, fully loaded with plugin system: c,rust,ruby,jsx,react,lisp and friends.</div>",
-            "url": "https://github.com/cosier/dot-vim",
-            "title": "cosier/dot-vim: Vim just the way I like it, fully loaded with plugin system: c,rust,ruby,jsx,react,lisp and friends.",
-            "date_modified": "2024-07-18T19:55:57.000Z",
-            "date_published": "2017-08-25T04:49:51.000Z",
-            "author": {
-                "name": "cosier",
-                "url": "https://github.com/cosier"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10845685?u=ba66a5f0e894cc8d1bc2639a41f4147a7ea3cf09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tiny plugin on top of Termdebug for debugging MCUs code.</div>",
-            "url": "https://github.com/ubaldot/vim-microdebugger",
-            "title": "ubaldot/vim-microdebugger: A tiny plugin on top of Termdebug for debugging MCUs code.",
-            "date_modified": "2024-07-18T19:28:29.000Z",
-            "date_published": "2024-07-09T08:21:14.000Z",
-            "author": {
-                "name": "ubaldot",
-                "url": "https://github.com/ubaldot"
             }
         }
     ]
