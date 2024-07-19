@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12378126?u=c002bdb1e13a4685de38bb76a875708be4a8fc6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VIM plugins I use (Requires VIM 8)</div>",
+            "url": "https://github.com/ziqin/dotvim",
+            "title": "ziqin/dotvim: VIM plugins I use (Requires VIM 8)",
+            "date_modified": "2024-07-19T10:04:44.000Z",
+            "date_published": "2021-01-01T10:13:42.000Z",
+            "author": {
+                "name": "ziqin",
+                "url": "https://github.com/ziqin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4477729?u=c33d51341de85d173f1ef4071107118daf8b28d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LitREPL is a command-line tool and a Vim plugin for code snippet evaluation</div>",
+            "url": "https://github.com/sergei-mironov/litrepl",
+            "title": "sergei-mironov/litrepl: LitREPL is a command-line tool and a Vim plugin for code snippet evaluation",
+            "date_modified": "2024-07-19T10:03:57.000Z",
+            "date_published": "2022-08-13T22:33:25.000Z",
+            "author": {
+                "name": "sergei-mironov",
+                "url": "https://github.com/sergei-mironov"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/474504?u=19d89afae9c56636455e6d84d30680bd2fc3c7ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin that shows the context of the currently visible buffer contents</div>",
+            "url": "https://github.com/wellle/context.vim",
+            "title": "wellle/context.vim: Vim plugin that shows the context of the currently visible buffer contents",
+            "date_modified": "2024-07-19T09:51:34.000Z",
+            "date_published": "2019-12-07T22:34:27.000Z",
+            "author": {
+                "name": "wellle",
+                "url": "https://github.com/wellle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
             "url": "https://github.com/NixNeovim/NixNeovimPlugins",
             "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-07-19T08:04:20.000Z",
+            "date_modified": "2024-07-19T09:58:24.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -171,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4477729?u=c33d51341de85d173f1ef4071107118daf8b28d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LitREPL is a command-line tool and a Vim plugin for code snippet evaluation</div>",
-            "url": "https://github.com/sergei-mironov/litrepl",
-            "title": "sergei-mironov/litrepl: LitREPL is a command-line tool and a Vim plugin for code snippet evaluation",
-            "date_modified": "2024-07-18T18:33:59.000Z",
-            "date_published": "2022-08-13T22:33:25.000Z",
-            "author": {
-                "name": "sergei-mironov",
-                "url": "https://github.com/sergei-mironov"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A straightforward, lightweight, and minimalist Neovim configuration featuring only the essential plugins</div>",
             "url": "https://github.com/jkeresman01/Minimalistic-Neovim-configuration",
             "title": "jkeresman01/Minimalistic-Neovim-configuration: A straightforward, lightweight, and minimalist Neovim configuration featuring only the essential plugins",
@@ -196,33 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60088301?u=4e199a88d6978352b09890eb615ea134b9fd1a68&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config WITHOUT plugins</div>",
             "url": "https://github.com/boltlessengineer/NativeVim",
             "title": "boltlessengineer/NativeVim: Neovim config WITHOUT plugins",
-            "date_modified": "2024-07-19T09:05:47.000Z",
+            "date_modified": "2024-07-19T09:40:07.000Z",
             "date_published": "2024-07-09T16:17:58.000Z",
             "author": {
                 "name": "boltlessengineer",
                 "url": "https://github.com/boltlessengineer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/753059?u=b0e792ba81115540f6b996a69d1c43ae023c4480&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to detect and view battery information</div>",
-            "url": "https://github.com/justinhj/battery.nvim",
-            "title": "justinhj/battery.nvim: Neovim plugin to detect and view battery information",
-            "date_modified": "2024-07-18T17:19:25.000Z",
-            "date_published": "2022-07-24T17:27:46.000Z",
-            "author": {
-                "name": "justinhj",
-                "url": "https://github.com/justinhj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3537573?u=dc7b20049e6d4bec844de95b57e9f9af011b0921&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My preferred vim configuration and plugins, made portable.</div>",
-            "url": "https://github.com/rdeese/dotfiles",
-            "title": "rdeese/dotfiles: My preferred vim configuration and plugins, made portable.",
-            "date_modified": "2024-07-18T16:56:29.000Z",
-            "date_published": "2015-12-10T18:48:42.000Z",
-            "author": {
-                "name": "rdeese",
-                "url": "https://github.com/rdeese"
             }
         }
     ]
