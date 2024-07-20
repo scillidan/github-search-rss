@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tmux Switch is a Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.</div>",
+            "url": "https://github.com/jkeresman01/tmux-switch.nvim",
+            "title": "jkeresman01/tmux-switch.nvim: Tmux Switch is a Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.",
+            "date_modified": "2024-07-20T18:07:53.000Z",
+            "date_published": "2024-07-19T20:51:43.000Z",
+            "author": {
+                "name": "jkeresman01",
+                "url": "https://github.com/jkeresman01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159702116?u=a274db247ffe79c3f9cda3b6652e06c81a696842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for prompting Anthropic LLM's into the current buffer.</div>",
+            "url": "https://github.com/S41G0N/prompt-assistant",
+            "title": "S41G0N/prompt-assistant: Neovim plugin for prompting Anthropic LLM's into the current buffer.",
+            "date_modified": "2024-07-20T17:55:44.000Z",
+            "date_published": "2024-07-20T17:33:16.000Z",
+            "author": {
+                "name": "S41G0N",
+                "url": "https://github.com/S41G0N"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86842365?u=216ea23a1fb4e7e8d0f2eb58683454abad95f7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An unopinionated set of utility functions for neovim plugins</div>",
+            "url": "https://github.com/samsze0/utils.nvim",
+            "title": "samsze0/utils.nvim: An unopinionated set of utility functions for neovim plugins",
+            "date_modified": "2024-07-20T17:49:13.000Z",
+            "date_published": "2024-05-15T03:34:24.000Z",
+            "author": {
+                "name": "samsze0",
+                "url": "https://github.com/samsze0"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
+            "url": "https://github.com/Robitx/gp.nvim",
+            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
+            "date_modified": "2024-07-20T17:47:32.000Z",
+            "date_published": "2023-06-18T13:55:46.000Z",
+            "author": {
+                "name": "Robitx",
+                "url": "https://github.com/Robitx"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91647110?u=f72e0218582bb769478a71863fd78a450784da69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight neovim setup with only essential plugins</div>",
+            "url": "https://github.com/tryprncp/neovim",
+            "title": "tryprncp/neovim: Lightweight neovim setup with only essential plugins",
+            "date_modified": "2024-07-20T17:36:43.000Z",
+            "date_published": "2024-07-13T16:47:08.000Z",
+            "author": {
+                "name": "tryprncp",
+                "url": "https://github.com/tryprncp"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-07-20T16:58:10.000Z",
+            "date_modified": "2024-07-20T17:17:35.000Z",
             "date_published": "2024-03-01T19:42:19.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -17,14 +72,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91647110?u=f72e0218582bb769478a71863fd78a450784da69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight neovim setup with only essential plugins</div>",
-            "url": "https://github.com/tryprncp/neovim",
-            "title": "tryprncp/neovim: Lightweight neovim setup with only essential plugins",
-            "date_modified": "2024-07-20T16:49:46.000Z",
-            "date_published": "2024-07-13T16:47:08.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-07-20T17:16:25.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
             "author": {
-                "name": "tryprncp",
-                "url": "https://github.com/tryprncp"
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118763335?u=e86d86c8b4413aba3a1eb2dd4686ac5c6d0b0f17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PyPlotter is a Neovim plugin designed to streamline Python plotting and code execution directly within the Neovim editor. It offers commands for creating temporary Python buffers, executing code, and saving output plots as PNG files.</div>",
+            "url": "https://github.com/Espacio-root/PyPlotter",
+            "title": "Espacio-root/PyPlotter: PyPlotter is a Neovim plugin designed to streamline Python plotting and code execution directly within the Neovim editor. It offers commands for creating temporary Python buffers, executing code, and saving output plots as PNG files.",
+            "date_modified": "2024-07-20T17:15:09.000Z",
+            "date_published": "2024-07-20T17:11:20.000Z",
+            "author": {
+                "name": "Espacio-root",
+                "url": "https://github.com/Espacio-root"
             }
         },
         {
@@ -61,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159702116?u=a274db247ffe79c3f9cda3b6652e06c81a696842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for using LLM's right in the current buffer</div>",
-            "url": "https://github.com/S41G0N/prompt-assistant",
-            "title": "S41G0N/prompt-assistant: A Neovim plugin for using LLM's right in the current buffer",
-            "date_modified": "2024-07-20T15:55:38.000Z",
-            "date_published": "2024-07-19T19:17:06.000Z",
-            "author": {
-                "name": "S41G0N",
-                "url": "https://github.com/S41G0N"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/941660?u=99f77b22eb66d405d396db0bb45b6c311583d740&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to run golang tests</div>",
             "url": "https://github.com/vcraescu/gotest.nvim",
             "title": "vcraescu/gotest.nvim: Neovim plugin to run golang tests",
@@ -80,17 +135,6 @@
             "author": {
                 "name": "vcraescu",
                 "url": "https://github.com/vcraescu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tmux Switch is a Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.</div>",
-            "url": "https://github.com/jkeresman01/tmux-switch.nvim",
-            "title": "jkeresman01/tmux-switch.nvim: Tmux Switch is a Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.",
-            "date_modified": "2024-07-20T15:36:10.000Z",
-            "date_published": "2024-07-19T20:51:43.000Z",
-            "author": {
-                "name": "jkeresman01",
-                "url": "https://github.com/jkeresman01"
             }
         },
         {
@@ -113,17 +157,6 @@
             "author": {
                 "name": "AstroNvim",
                 "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-07-20T13:24:10.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "desdic",
                 "url": "https://github.com/desdic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)</div>",
-            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
-            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
-            "date_modified": "2024-07-20T12:04:49.000Z",
-            "date_published": "2023-11-01T17:40:49.000Z",
-            "author": {
-                "name": "wojciech-kulik",
-                "url": "https://github.com/wojciech-kulik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Neovim plugin integrates with telescope.nvim and nvim-treesitter to enable interactive fuzzy finding and navigation through Java methods within a file.</div>",
-            "url": "https://github.com/jkeresman01/java-method-search.nvim",
-            "title": "jkeresman01/java-method-search.nvim: This Neovim plugin integrates with telescope.nvim and nvim-treesitter to enable interactive fuzzy finding and navigation through Java methods within a file.",
-            "date_modified": "2024-07-20T11:15:40.000Z",
-            "date_published": "2024-07-14T12:07:38.000Z",
-            "author": {
-                "name": "jkeresman01",
-                "url": "https://github.com/jkeresman01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Neovim plugin, Java Maven Test, integrates with telescope.nvim and nvim-treesitter to facilitate interactive fuzzy searching and execution of Java tests within a class.</div>",
-            "url": "https://github.com/jkeresman01/java-maven-test.nvim",
-            "title": "jkeresman01/java-maven-test.nvim: This Neovim plugin, Java Maven Test, integrates with telescope.nvim and nvim-treesitter to facilitate interactive fuzzy searching and execution of Java tests within a class.",
-            "date_modified": "2024-07-20T11:12:37.000Z",
-            "date_published": "2024-07-16T19:38:47.000Z",
-            "author": {
-                "name": "jkeresman01",
-                "url": "https://github.com/jkeresman01"
             }
         }
     ]
