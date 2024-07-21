@@ -6,14 +6,69 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An example of a luarocks plugin for Neovim.</div>",
+            "url": "https://github.com/nvim-neorocks/sample-luarocks-plugin",
+            "title": "nvim-neorocks/sample-luarocks-plugin: An example of a luarocks plugin for Neovim.",
+            "date_modified": "2024-07-21T12:57:17.000Z",
+            "date_published": "2023-10-03T13:14:11.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
+            "url": "https://github.com/nvim-neorocks/rocks.nvim",
+            "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
+            "date_modified": "2024-07-21T12:55:33.000Z",
+            "date_published": "2023-07-05T11:24:40.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118763335?u=e86d86c8b4413aba3a1eb2dd4686ac5c6d0b0f17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PyPlotter is a Neovim plugin designed to streamline Python plotting and code execution directly within the Neovim editor. It offers commands for creating temporary Python buffers, executing code, and saving output plots as PNG files.</div>",
+            "url": "https://github.com/Espacio-root/PyPlotter",
+            "title": "Espacio-root/PyPlotter: PyPlotter is a Neovim plugin designed to streamline Python plotting and code execution directly within the Neovim editor. It offers commands for creating temporary Python buffers, executing code, and saving output plots as PNG files.",
+            "date_modified": "2024-07-21T12:50:38.000Z",
+            "date_published": "2024-07-20T17:11:20.000Z",
+            "author": {
+                "name": "Espacio-root",
+                "url": "https://github.com/Espacio-root"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17382962?u=3e3e1d98217fd029b37f0475e27cfd9e92cc0baa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.</div>",
+            "url": "https://github.com/tristone13th/lspmark.nvim",
+            "title": "tristone13th/lspmark.nvim: A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.",
+            "date_modified": "2024-07-21T12:40:15.000Z",
+            "date_published": "2024-06-09T08:59:13.000Z",
+            "author": {
+                "name": "tristone13th",
+                "url": "https://github.com/tristone13th"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-07-21T12:10:35.000Z",
+            "date_modified": "2024-07-21T12:33:17.000Z",
             "date_published": "2024-03-01T19:42:19.000Z",
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-07-21T12:24:19.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
             }
         },
         {
@@ -130,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
             "url": "https://github.com/folke/noice.nvim",
             "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
-            "date_modified": "2024-07-21T12:06:07.000Z",
+            "date_modified": "2024-07-21T12:34:27.000Z",
             "date_published": "2022-09-21T19:32:33.000Z",
             "author": {
                 "name": "folke",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "m4xshen",
                 "url": "https://github.com/m4xshen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
-            "url": "https://github.com/mikavilpas/yazi.nvim",
-            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2024-07-21T10:39:18.000Z",
-            "date_published": "2024-02-25T13:33:19.000Z",
-            "author": {
-                "name": "mikavilpas",
-                "url": "https://github.com/mikavilpas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99117038?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for neovim which changes the colour of CursorColumn depending on mode.</div>",
-            "url": "https://github.com/svampkorg/moody.nvim",
-            "title": "svampkorg/moody.nvim: A plugin for neovim which changes the colour of CursorColumn depending on mode.",
-            "date_modified": "2024-07-21T09:23:11.000Z",
-            "date_published": "2024-07-10T08:23:50.000Z",
-            "author": {
-                "name": "svampkorg",
-                "url": "https://github.com/svampkorg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47271147?u=e46ad872967b7c0abac4711a7e5260749ac3407b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>multi_cursor plugin for neovim</div>",
-            "url": "https://github.com/lhommenul/multi_cursor",
-            "title": "lhommenul/multi_cursor: multi_cursor plugin for neovim",
-            "date_modified": "2024-07-21T09:19:52.000Z",
-            "date_published": "2024-07-21T09:16:57.000Z",
-            "author": {
-                "name": "lhommenul",
-                "url": "https://github.com/lhommenul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-07-21T09:16:50.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52382992?u=f8dee2345515ad2849d49df11ca017aaed5067e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Implementation of gx without the need of netrw</div>",
-            "url": "https://github.com/chrishrb/gx.nvim",
-            "title": "chrishrb/gx.nvim: Implementation of gx without the need of netrw",
-            "date_modified": "2024-07-21T09:03:53.000Z",
-            "date_published": "2023-03-14T12:25:56.000Z",
-            "author": {
-                "name": "chrishrb",
-                "url": "https://github.com/chrishrb"
             }
         }
     ]
