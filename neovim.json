@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14832454?u=b8500e6a3ec3c8139ec1a4ecb657431b40db0ccc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An ivy-mode port to neovim.</div>",
+            "url": "https://github.com/AdeAttwood/ivy.nvim",
+            "title": "AdeAttwood/ivy.nvim: An ivy-mode port to neovim.",
+            "date_modified": "2024-07-21T11:06:36.000Z",
+            "date_published": "2022-07-10T20:16:08.000Z",
+            "author": {
+                "name": "AdeAttwood",
+                "url": "https://github.com/AdeAttwood"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
+            "url": "https://github.com/folke/noice.nvim",
+            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+            "date_modified": "2024-07-21T10:46:00.000Z",
+            "date_published": "2022-09-21T19:32:33.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6033094?u=6ee36ad19855bb7a7b39c137f3a92417205d4c61&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.</div>",
+            "url": "https://github.com/joshuadanpeterson/typewriter.nvim",
+            "title": "joshuadanpeterson/typewriter.nvim: A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.",
+            "date_modified": "2024-07-21T10:35:14.000Z",
+            "date_published": "2024-05-25T02:44:21.000Z",
+            "author": {
+                "name": "joshuadanpeterson",
+                "url": "https://github.com/joshuadanpeterson"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-21T10:18:42.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A straightforward, lightweight, and minimalist Neovim configuration featuring only the essential plugins</div>",
+            "url": "https://github.com/jkeresman01/Minimalistic-Neovim-configuration",
+            "title": "jkeresman01/Minimalistic-Neovim-configuration: A straightforward, lightweight, and minimalist Neovim configuration featuring only the essential plugins",
+            "date_modified": "2024-07-21T10:17:08.000Z",
+            "date_published": "2024-05-16T11:19:34.000Z",
+            "author": {
+                "name": "jkeresman01",
+                "url": "https://github.com/jkeresman01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74842863?u=7cc69730fb9fff071c5a16c7ae9f97caead058bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimalist Neovim plugin that auto pairs &amp; closes brackets</div>",
             "url": "https://github.com/m4xshen/autoclose.nvim",
             "title": "m4xshen/autoclose.nvim: A minimalist Neovim plugin that auto pairs & closes brackets",
-            "date_modified": "2024-07-21T10:08:32.000Z",
+            "date_modified": "2024-07-21T10:14:06.000Z",
             "date_published": "2022-02-07T08:58:16.000Z",
             "author": {
                 "name": "m4xshen",
@@ -28,6 +83,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
+            "url": "https://github.com/mikavilpas/yazi.nvim",
+            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
+            "date_modified": "2024-07-21T10:39:18.000Z",
+            "date_published": "2024-02-25T13:33:19.000Z",
+            "author": {
+                "name": "mikavilpas",
+                "url": "https://github.com/mikavilpas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43895423?u=b0d8f575b28abd10c4eafd3a387db194e408272a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lualine component for grapple.nvim</div>",
             "url": "https://github.com/will-lynas/grapple-line.nvim",
             "title": "will-lynas/grapple-line.nvim: A lualine component for grapple.nvim",
@@ -36,17 +102,6 @@
             "author": {
                 "name": "will-lynas",
                 "url": "https://github.com/will-lynas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
-            "url": "https://github.com/mikavilpas/yazi.nvim",
-            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2024-07-21T09:32:38.000Z",
-            "date_published": "2024-02-25T13:33:19.000Z",
-            "author": {
-                "name": "mikavilpas",
-                "url": "https://github.com/mikavilpas"
             }
         },
         {
@@ -69,17 +124,6 @@
             "author": {
                 "name": "lhommenul",
                 "url": "https://github.com/lhommenul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-21T09:18:58.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "nvimdev",
                 "url": "https://github.com/nvimdev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7967463?u=73a5dd5bf1ba7ddffe4949073329a6fa7ce829b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a simple plugin to manage workspace directories in neovim</div>",
-            "url": "https://github.com/natecraddock/workspaces.nvim",
-            "title": "natecraddock/workspaces.nvim: a simple plugin to manage workspace directories in neovim",
-            "date_modified": "2024-07-21T06:44:13.000Z",
-            "date_published": "2022-01-20T21:36:16.000Z",
-            "author": {
-                "name": "natecraddock",
-                "url": "https://github.com/natecraddock"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/856285?u=fa5aaff22bae344ede01adaf4380e622f8842ea0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for displaying Git blame information in vim-fugitive style with some enhancements.</div>",
-            "url": "https://github.com/psjay/blamer.nvim",
-            "title": "psjay/blamer.nvim: Neovim plugin for displaying Git blame information in vim-fugitive style with some enhancements.",
-            "date_modified": "2024-07-21T08:04:41.000Z",
-            "date_published": "2024-07-17T16:05:55.000Z",
-            "author": {
-                "name": "psjay",
-                "url": "https://github.com/psjay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91647110?u=f72e0218582bb769478a71863fd78a450784da69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight neovim setup with only essential plugins</div>",
-            "url": "https://github.com/tryprncp/neovim",
-            "title": "tryprncp/neovim: Lightweight neovim setup with only essential plugins",
-            "date_modified": "2024-07-21T03:54:49.000Z",
-            "date_published": "2024-07-13T16:47:08.000Z",
-            "author": {
-                "name": "tryprncp",
-                "url": "https://github.com/tryprncp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86842365?u=216ea23a1fb4e7e8d0f2eb58683454abad95f7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that provides integration with yazi</div>",
-            "url": "https://github.com/samsze0/yazi.nvim",
-            "title": "samsze0/yazi.nvim: A neovim plugin that provides integration with yazi",
-            "date_modified": "2024-07-21T03:23:19.000Z",
-            "date_published": "2024-06-08T16:00:51.000Z",
-            "author": {
-                "name": "samsze0",
-                "url": "https://github.com/samsze0"
             }
         }
     ]
