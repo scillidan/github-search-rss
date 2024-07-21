@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin for fast and familiar per-line commenting. Part of 'mini.nvim' library.</div>",
+            "url": "https://github.com/echasnovski/mini.comment",
+            "title": "echasnovski/mini.comment: Neovim Lua plugin for fast and familiar per-line commenting. Part of 'mini.nvim' library.",
+            "date_modified": "2024-07-21T16:59:42.000Z",
+            "date_published": "2022-10-24T16:18:06.000Z",
+            "author": {
+                "name": "echasnovski",
+                "url": "https://github.com/echasnovski"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-07-21T15:55:33.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-07-21T16:53:47.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
+            "url": "https://github.com/Robitx/gp.nvim",
+            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
+            "date_modified": "2024-07-21T16:34:50.000Z",
+            "date_published": "2023-06-18T13:55:46.000Z",
+            "author": {
+                "name": "Robitx",
+                "url": "https://github.com/Robitx"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91647110?u=f72e0218582bb769478a71863fd78a450784da69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight neovim setup with only essential plugins</div>",
+            "url": "https://github.com/tryprncp/neovim",
+            "title": "tryprncp/neovim: Lightweight neovim setup with only essential plugins",
+            "date_modified": "2024-07-21T16:30:42.000Z",
+            "date_published": "2024-07-13T16:47:08.000Z",
+            "author": {
+                "name": "tryprncp",
+                "url": "https://github.com/tryprncp"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-21T16:19:31.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
@@ -17,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91647110?u=f72e0218582bb769478a71863fd78a450784da69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight neovim setup with only essential plugins</div>",
-            "url": "https://github.com/tryprncp/neovim",
-            "title": "tryprncp/neovim: Lightweight neovim setup with only essential plugins",
-            "date_modified": "2024-07-21T15:51:02.000Z",
-            "date_published": "2024-07-13T16:47:08.000Z",
-            "author": {
-                "name": "tryprncp",
-                "url": "https://github.com/tryprncp"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118763335?u=e86d86c8b4413aba3a1eb2dd4686ac5c6d0b0f17&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>PyPlotter is a Neovim plugin designed to streamline Python plotting and code execution directly within the Neovim editor. It offers commands for creating temporary Python buffers, executing code, and saving output plots as PNG files.</div>",
             "url": "https://github.com/Espacio-root/PyPlotter",
             "title": "Espacio-root/PyPlotter: PyPlotter is a Neovim plugin designed to streamline Python plotting and code execution directly within the Neovim editor. It offers commands for creating temporary Python buffers, executing code, and saving output plots as PNG files.",
@@ -36,17 +91,6 @@
             "author": {
                 "name": "Espacio-root",
                 "url": "https://github.com/Espacio-root"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-07-21T15:31:46.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
             }
         },
         {
@@ -105,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-21T14:18:54.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159702116?u=a274db247ffe79c3f9cda3b6652e06c81a696842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for prompting Anthropic LLM's into the current buffer.</div>",
             "url": "https://github.com/S41G0N/prompt-assistant",
             "title": "S41G0N/prompt-assistant: Neovim plugin for prompting Anthropic LLM's into the current buffer.",
@@ -141,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
             "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-07-21T16:10:37.000Z",
+            "date_modified": "2024-07-21T16:56:16.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -171,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
-            "url": "https://github.com/Robitx/gp.nvim",
-            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
-            "date_modified": "2024-07-21T13:23:17.000Z",
-            "date_published": "2023-06-18T13:55:46.000Z",
-            "author": {
-                "name": "Robitx",
-                "url": "https://github.com/Robitx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An example of a luarocks plugin for Neovim.</div>",
             "url": "https://github.com/nvim-neorocks/sample-luarocks-plugin",
             "title": "nvim-neorocks/sample-luarocks-plugin: An example of a luarocks plugin for Neovim.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17382962?u=3e3e1d98217fd029b37f0475e27cfd9e92cc0baa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.</div>",
-            "url": "https://github.com/tristone13th/lspmark.nvim",
-            "title": "tristone13th/lspmark.nvim: A Sane Project-wise Bookmarks Plugin with Persistent Storage Based on LSP for Neovim.",
-            "date_modified": "2024-07-21T12:40:15.000Z",
-            "date_published": "2024-06-09T08:59:13.000Z",
-            "author": {
-                "name": "tristone13th",
-                "url": "https://github.com/tristone13th"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-07-21T12:24:19.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
             }
         }
     ]
