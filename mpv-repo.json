@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100697091?u=b663957c5ae2f5becfc77dd124ada603e4326cb5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>JellyVR is your personal movie theater for Jellyfin, made in Unreal Engine 5 with C++.</div>",
+            "url": "https://github.com/VersaYT/JellyVR",
+            "title": "VersaYT/JellyVR: JellyVR is your personal movie theater for Jellyfin, made in Unreal Engine 5 with C++.",
+            "date_modified": "2024-07-22T16:55:10.000Z",
+            "date_published": "2024-05-25T01:40:13.000Z",
+            "author": {
+                "name": "VersaYT",
+                "url": "https://github.com/VersaYT"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175352658?u=105a79133be989a21ee0f4fa803b9b5b81210f1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MPV playlist helper written in Python</div>",
+            "url": "https://github.com/LogVoid/sp",
+            "title": "LogVoid/sp: MPV playlist helper written in Python",
+            "date_modified": "2024-07-22T16:49:59.000Z",
+            "date_published": "2024-07-22T09:58:46.000Z",
+            "author": {
+                "name": "LogVoid",
+                "url": "https://github.com/LogVoid"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61936050?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lua script to load local damaku files (.xml) for mpv player</div>",
+            "url": "https://github.com/dyphire/mpv-load-danmaku",
+            "title": "dyphire/mpv-load-danmaku: A lua script to load local damaku files (.xml) for mpv player",
+            "date_modified": "2024-07-22T16:25:24.000Z",
+            "date_published": "2024-07-19T19:50:18.000Z",
+            "author": {
+                "name": "dyphire",
+                "url": "https://github.com/dyphire"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Desktop Jellyfin Client made with Tauri and React ⚛️ [WIP]</div>",
+            "url": "https://github.com/prayag17/Blink",
+            "title": "prayag17/Blink: Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol: [WIP]",
+            "date_modified": "2024-07-22T16:22:01.000Z",
+            "date_published": "2022-03-05T14:56:10.000Z",
+            "author": {
+                "name": "prayag17",
+                "url": "https://github.com/prayag17"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38372270?u=5dfac45e2fa0a450b6ba45c8da8795b13d4b0681&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>libmpv bindings in zig</div>",
             "url": "https://github.com/hasanpasha/zmpv",
             "title": "hasanpasha/zmpv: libmpv bindings in zig",
@@ -94,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern Desktop Jellyfin Client made with Tauri and React ⚛️ [WIP]</div>",
-            "url": "https://github.com/prayag17/Blink",
-            "title": "prayag17/Blink: Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol: [WIP]",
-            "date_modified": "2024-07-22T13:29:48.000Z",
-            "date_published": "2022-03-05T14:56:10.000Z",
-            "author": {
-                "name": "prayag17",
-                "url": "https://github.com/prayag17"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35151645?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The modern video player for macOS.</div>",
             "url": "https://github.com/iina/iina",
             "title": "iina/iina: The modern video player for macOS.",
@@ -138,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/175352658?u=105a79133be989a21ee0f4fa803b9b5b81210f1b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MPV playlist helper written in Python</div>",
-            "url": "https://github.com/LogVoid/sp",
-            "title": "LogVoid/sp: MPV playlist helper written in Python",
-            "date_modified": "2024-07-22T10:04:51.000Z",
-            "date_published": "2024-07-22T09:58:46.000Z",
-            "author": {
-                "name": "LogVoid",
-                "url": "https://github.com/LogVoid"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/27268838?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/flathub/io.mpv.Mpv",
             "title": "flathub/io.mpv.Mpv",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18583292?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>#mpv-android @ libera.chat</div>",
             "url": "https://github.com/mpv-android/mpv-android",
             "title": "mpv-android/mpv-android: #mpv-android @ libera.chat",
-            "date_modified": "2024-07-22T16:07:40.000Z",
+            "date_modified": "2024-07-22T16:59:57.000Z",
             "date_published": "2016-04-20T21:29:44.000Z",
             "author": {
                 "name": "mpv-android",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "71zenith",
                 "url": "https://github.com/71zenith"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/119555371?u=10fa96dfa0b5572b9539b339f0d0586b70f5b4dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My mpv config.</div>",
-            "url": "https://github.com/fr0st-iwnl/mpv-config",
-            "title": "fr0st-iwnl/mpv-config: My mpv config.",
-            "date_modified": "2024-07-22T02:31:40.000Z",
-            "date_published": "2024-07-22T00:32:24.000Z",
-            "author": {
-                "name": "fr0st-iwnl",
-                "url": "https://github.com/fr0st-iwnl"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1436727?u=2e7b5528cc41345019930518318d3cea226ed55c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My configuration files (zsh, urxvt, i3, mpv, ...)</div>",
-            "url": "https://github.com/jonathanpoelen/dotfiles",
-            "title": "jonathanpoelen/dotfiles: My configuration files (zsh, urxvt, i3, mpv, ...)",
-            "date_modified": "2024-07-22T00:36:20.000Z",
-            "date_published": "2014-06-05T20:33:31.000Z",
-            "author": {
-                "name": "jonathanpoelen",
-                "url": "https://github.com/jonathanpoelen"
             }
         }
     ]
