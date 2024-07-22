@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/856285?u=fa5aaff22bae344ede01adaf4380e622f8842ea0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for displaying Git blame information in vim-fugitive style with some enhancements.</div>",
+            "url": "https://github.com/psjay/blamer.nvim",
+            "title": "psjay/blamer.nvim: Neovim plugin for displaying Git blame information in vim-fugitive style with some enhancements.",
+            "date_modified": "2024-07-22T04:05:20.000Z",
+            "date_published": "2024-07-17T16:05:55.000Z",
+            "author": {
+                "name": "psjay",
+                "url": "https://github.com/psjay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/80717302?u=45fb68d86c714910ecb975ca4025889fe4cfbb4b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for word synonyms/definitions</div>",
+            "url": "https://github.com/carsonmagnuson/obscure.nvim",
+            "title": "carsonmagnuson/obscure.nvim: neovim plugin for word synonyms/definitions",
+            "date_modified": "2024-07-22T03:49:15.000Z",
+            "date_published": "2024-07-14T13:16:02.000Z",
+            "author": {
+                "name": "carsonmagnuson",
+                "url": "https://github.com/carsonmagnuson"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47196755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for getting dictionary definitions</div>",
+            "url": "https://github.com/pythonmcpi/define.nvim",
+            "title": "pythonmcpi/define.nvim: A neovim plugin for getting dictionary definitions",
+            "date_modified": "2024-07-22T03:33:42.000Z",
+            "date_published": "2024-07-22T03:33:24.000Z",
+            "author": {
+                "name": "pythonmcpi",
+                "url": "https://github.com/pythonmcpi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
+            "url": "https://github.com/niuiic/modern-neovim-configuration",
+            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
+            "date_modified": "2024-07-22T03:18:55.000Z",
+            "date_published": "2021-05-05T11:05:56.000Z",
+            "author": {
+                "name": "niuiic",
+                "url": "https://github.com/niuiic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69827203?u=6f4631b41dd813690c85fdc77a3db1a2e98eda59&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim setup. Plugins and key bindings. Written in lua</div>",
+            "url": "https://github.com/Konadu-Akwasi-Akuoko/neovim",
+            "title": "Konadu-Akwasi-Akuoko/neovim: My neovim setup. Plugins and key bindings. Written in lua",
+            "date_modified": "2024-07-22T03:15:11.000Z",
+            "date_published": "2024-07-16T20:46:30.000Z",
+            "author": {
+                "name": "Konadu-Akwasi-Akuoko",
+                "url": "https://github.com/Konadu-Akwasi-Akuoko"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=bdb1b747955f9809d3b5b234c5f80e9aa8121ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of simple, performant neovim plugins</div>",
             "url": "https://github.com/Saghen/blink.nvim",
             "title": "Saghen/blink.nvim: Set of simple, performant neovim plugins",
@@ -75,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
             "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-07-22T02:28:24.000Z",
+            "date_modified": "2024-07-22T03:43:22.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -97,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-21T22:41:04.000Z",
+            "date_modified": "2024-07-22T03:51:28.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "dstein64",
                 "url": "https://github.com/dstein64"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78477652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimalistic LLM plugin for Neovim.</div>",
-            "url": "https://github.com/sudo-burger/m0.nvim",
-            "title": "sudo-burger/m0.nvim: Minimalistic LLM plugin for Neovim.",
-            "date_modified": "2024-07-21T22:56:28.000Z",
-            "date_published": "2024-03-17T13:52:59.000Z",
-            "author": {
-                "name": "sudo-burger",
-                "url": "https://github.com/sudo-burger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85842176?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config and plugins for Neovim</div>",
-            "url": "https://github.com/rank1zen/dot-nvim",
-            "title": "rank1zen/dot-nvim: Config and plugins for Neovim",
-            "date_modified": "2024-07-21T22:36:17.000Z",
-            "date_published": "2023-06-05T20:04:28.000Z",
-            "author": {
-                "name": "rank1zen",
-                "url": "https://github.com/rank1zen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!</div>",
-            "url": "https://github.com/declancm/cinnamon.nvim",
-            "title": "declancm/cinnamon.nvim: Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!",
-            "date_modified": "2024-07-21T21:21:02.000Z",
-            "date_published": "2022-02-28T23:30:26.000Z",
-            "author": {
-                "name": "declancm",
-                "url": "https://github.com/declancm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
-            "url": "https://github.com/killitar/obscure.nvim",
-            "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
-            "date_modified": "2024-07-21T19:54:58.000Z",
-            "date_published": "2024-07-21T11:56:28.000Z",
-            "author": {
-                "name": "killitar",
-                "url": "https://github.com/killitar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93538042?u=d8e5089e58171e9307bf79fcbc1967f3a320e2c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Custom neovim configuration with lazy plugin manager and IDE setup</div>",
-            "url": "https://github.com/jude7733/nvim",
-            "title": "jude7733/nvim: Custom neovim configuration with lazy plugin manager and IDE setup",
-            "date_modified": "2024-07-21T19:43:26.000Z",
-            "date_published": "2024-01-18T12:05:11.000Z",
-            "author": {
-                "name": "jude7733",
-                "url": "https://github.com/jude7733"
             }
         }
     ]
