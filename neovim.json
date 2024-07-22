@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-07-22T10:57:07.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
+            "url": "https://github.com/mikavilpas/yazi.nvim",
+            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
+            "date_modified": "2024-07-22T10:44:31.000Z",
+            "date_published": "2024-02-25T13:33:19.000Z",
+            "author": {
+                "name": "mikavilpas",
+                "url": "https://github.com/mikavilpas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-22T10:19:19.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
             "url": "https://github.com/niuiic/modern-neovim-configuration",
             "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
@@ -61,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-22T09:19:25.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166581427?u=483ce3c7471ad0eed9fa5d37eed04ddd3fc09b9f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My configuration of neovim, using lazy.nvim as plugin manager.</div>",
             "url": "https://github.com/spectrumzero/nvimforzero",
             "title": "spectrumzero/nvimforzero: My configuration of neovim, using lazy.nvim as plugin manager.",
@@ -97,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-22T09:54:54.000Z",
+            "date_modified": "2024-07-22T11:07:23.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -108,11 +130,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
             "url": "https://github.com/MagicDuck/grug-far.nvim",
             "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-07-22T09:27:17.000Z",
+            "date_modified": "2024-07-22T10:43:15.000Z",
             "date_published": "2024-04-28T18:15:17.000Z",
             "author": {
                 "name": "MagicDuck",
                 "url": "https://github.com/MagicDuck"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/overseer.nvim",
+            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
+            "date_modified": "2024-07-22T11:03:24.000Z",
+            "date_published": "2022-05-18T00:03:58.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "huantrinh1802",
                 "url": "https://github.com/huantrinh1802"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collection of DOs and DON'Ts for modern Neovim Lua plugin development</div>",
-            "url": "https://github.com/nvim-neorocks/nvim-best-practices",
-            "title": "nvim-neorocks/nvim-best-practices: Collection of DOs and DON'Ts for modern Neovim Lua plugin development",
-            "date_modified": "2024-07-22T06:06:40.000Z",
-            "date_published": "2024-05-14T06:45:21.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83387409?u=3a0b9a5d09d6764631188871527588e0c3c54fdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Complete neovim dotfiles with the plugins I use. Completely updated with lazy as the plugin manager.</div>",
-            "url": "https://github.com/Nishaaaanth/neovimDotfile",
-            "title": "Nishaaaanth/neovimDotfile: Complete neovim dotfiles with the plugins I use. Completely updated with lazy as the plugin manager.",
-            "date_modified": "2024-07-22T05:20:30.000Z",
-            "date_published": "2024-01-15T06:40:39.000Z",
-            "author": {
-                "name": "Nishaaaanth",
-                "url": "https://github.com/Nishaaaanth"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78145602?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An empty plugin specification for Neovim that won't execute anything.</div>",
-            "url": "https://github.com/MaJinjie/null.nvim",
-            "title": "MaJinjie/null.nvim: An empty plugin specification for Neovim that won't execute anything.",
-            "date_modified": "2024-07-22T05:10:21.000Z",
-            "date_published": "2024-07-22T04:53:28.000Z",
-            "author": {
-                "name": "MaJinjie",
-                "url": "https://github.com/MaJinjie"
             }
         }
     ]
