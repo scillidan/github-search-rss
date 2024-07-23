@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-07-23T05:23:59.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
+            "url": "https://github.com/niuiic/modern-neovim-configuration",
+            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
+            "date_modified": "2024-07-23T05:54:08.000Z",
+            "date_published": "2021-05-05T11:05:56.000Z",
+            "author": {
+                "name": "niuiic",
+                "url": "https://github.com/niuiic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
+            "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
+            "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
+            "date_modified": "2024-07-23T06:09:10.000Z",
+            "date_published": "2024-03-18T04:13:43.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-23T05:19:35.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-07-23T05:17:13.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tiny plugin to enhance Neovim's native comments</div>",
             "url": "https://github.com/folke/ts-comments.nvim",
             "title": "folke/ts-comments.nvim: Tiny plugin to enhance Neovim's native comments",
@@ -28,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-23T04:19:54.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126838970?u=9247c1b9cb850e7949aafa2091ad1a1e081e479a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my neovim plugin</div>",
             "url": "https://github.com/ericksjp/jazzy.nvim",
             "title": "ericksjp/jazzy.nvim: my neovim plugin",
@@ -53,11 +97,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-07-23T04:26:55.000Z",
+            "date_modified": "2024-07-23T05:37:46.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5492542?u=816023f072c98842cdc5046da550407f7515c1a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>markdown preview plugin for (neo)vim</div>",
+            "url": "https://github.com/iamcco/markdown-preview.nvim",
+            "title": "iamcco/markdown-preview.nvim: markdown preview plugin for (neo)vim",
+            "date_modified": "2024-07-23T05:49:49.000Z",
+            "date_published": "2018-10-23T18:23:34.000Z",
+            "author": {
+                "name": "iamcco",
+                "url": "https://github.com/iamcco"
             }
         },
         {
@@ -91,17 +146,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
-            "url": "https://github.com/niuiic/modern-neovim-configuration",
-            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
-            "date_modified": "2024-07-23T02:28:13.000Z",
-            "date_published": "2021-05-05T11:05:56.000Z",
-            "author": {
-                "name": "niuiic",
-                "url": "https://github.com/niuiic"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "LongerHV",
                 "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-07-23T00:04:18.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45900396?u=3ca55cb97120ac5ce4f66d9c01f6382c3b6e4105&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A quick togglable terminal plugin for neovim</div>",
-            "url": "https://github.com/lpstankus/qck",
-            "title": "lpstankus/qck: A quick togglable terminal plugin for neovim",
-            "date_modified": "2024-07-23T00:00:15.000Z",
-            "date_published": "2024-07-22T23:58:16.000Z",
-            "author": {
-                "name": "lpstankus",
-                "url": "https://github.com/lpstankus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96022404?u=85f712c1af7407e33981c1e8ef83d3703ed7e764&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A smart (frecency-based) buffer switcher</div>",
-            "url": "https://github.com/dzfrias/arena.nvim",
-            "title": "dzfrias/arena.nvim: A smart (frecency-based) buffer switcher",
-            "date_modified": "2024-07-22T23:57:28.000Z",
-            "date_published": "2023-09-17T14:46:48.000Z",
-            "author": {
-                "name": "dzfrias",
-                "url": "https://github.com/dzfrias"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90753599?u=f272340c38873621cb31ff8133cd169e2fc350ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration and plugins</div>",
-            "url": "https://github.com/Ssionn/dotfiles",
-            "title": "Ssionn/dotfiles: Neovim configuration and plugins",
-            "date_modified": "2024-07-22T23:28:27.000Z",
-            "date_published": "2024-04-22T22:20:05.000Z",
-            "author": {
-                "name": "Ssionn",
-                "url": "https://github.com/Ssionn"
             }
         }
     ]
