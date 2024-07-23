@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122287853?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by Google Gemini and ChatGPT</div>",
+            "url": "https://github.com/natixgroup/code-ai.nvim",
+            "title": "natixgroup/code-ai.nvim: A Neovim plugin powered by Google Gemini and ChatGPT",
+            "date_modified": "2024-07-23T10:50:58.000Z",
+            "date_published": "2024-07-22T17:52:59.000Z",
+            "author": {
+                "name": "natixgroup",
+                "url": "https://github.com/natixgroup"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1087399?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for turning neovim into terminal multiplexer</div>",
+            "url": "https://github.com/spywhere/tmux.nvim",
+            "title": "spywhere/tmux.nvim: neovim plugin for turning neovim into terminal multiplexer",
+            "date_modified": "2024-07-23T10:40:28.000Z",
+            "date_published": "2022-01-11T18:04:37.000Z",
+            "author": {
+                "name": "spywhere",
+                "url": "https://github.com/spywhere"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36324537?u=4494af55553923aa3593a847f8dd03d72eaf21af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim plugin for editing Hexo blog posts.</div>",
+            "url": "https://github.com/alohaia/vim-hexowiki",
+            "title": "alohaia/vim-hexowiki: NeoVim plugin for editing Hexo blog posts.",
+            "date_modified": "2024-07-23T10:38:29.000Z",
+            "date_published": "2021-03-17T14:34:14.000Z",
+            "author": {
+                "name": "alohaia",
+                "url": "https://github.com/alohaia"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-23T10:19:35.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4771462?u=07c58252282b552ae2fc3c3cdc41f5aaa78f9f52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager &amp; powerlevel10k prompt</div>",
             "url": "https://github.com/disrupted/dotfiles",
             "title": "disrupted/dotfiles: 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt",
@@ -61,43 +105,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-23T09:19:00.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1087399?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for turning neovim into terminal multiplexer</div>",
-            "url": "https://github.com/spywhere/tmux.nvim",
-            "title": "spywhere/tmux.nvim: neovim plugin for turning neovim into terminal multiplexer",
-            "date_modified": "2024-07-23T09:18:09.000Z",
-            "date_published": "2022-01-11T18:04:37.000Z",
-            "author": {
-                "name": "spywhere",
-                "url": "https://github.com/spywhere"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122287853?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by Google Gemini and ChatGPT</div>",
-            "url": "https://github.com/natixgroup/code-ai.nvim",
-            "title": "natixgroup/code-ai.nvim: A Neovim plugin powered by Google Gemini and ChatGPT",
-            "date_modified": "2024-07-23T08:43:48.000Z",
-            "date_published": "2024-07-22T17:52:59.000Z",
-            "author": {
-                "name": "natixgroup",
-                "url": "https://github.com/natixgroup"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-07-23T09:18:18.000Z",
+            "date_modified": "2024-07-23T11:02:42.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32016110?u=c593848dd19f63499cbf0dd69323c96dfb1b015b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more</div>",
             "url": "https://github.com/zbirenbaum/neodim",
             "title": "zbirenbaum/neodim: Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more",
-            "date_modified": "2024-07-23T08:02:16.000Z",
+            "date_modified": "2024-07-23T11:00:33.000Z",
             "date_published": "2022-04-08T08:26:20.000Z",
             "author": {
                 "name": "zbirenbaum",
@@ -119,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
             "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-07-23T10:05:09.000Z",
+            "date_modified": "2024-07-23T11:07:01.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-23T10:04:49.000Z",
+            "date_modified": "2024-07-23T10:26:52.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "pythonmcpi",
                 "url": "https://github.com/pythonmcpi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tiny plugin to enhance Neovim's native comments</div>",
-            "url": "https://github.com/folke/ts-comments.nvim",
-            "title": "folke/ts-comments.nvim: Tiny plugin to enhance Neovim's native comments",
-            "date_modified": "2024-07-23T04:55:55.000Z",
-            "date_published": "2024-05-20T21:09:01.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         }
     ]
