@@ -6,10 +6,43 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21080902?u=8f647ae27895074f61ebe8be67e4f305b34195a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. </div>",
+            "url": "https://github.com/felpafel/inlay-hint.nvim",
+            "title": "felpafel/inlay-hint.nvim: Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. ",
+            "date_modified": "2024-07-24T16:04:07.000Z",
+            "date_published": "2024-03-23T00:34:24.000Z",
+            "author": {
+                "name": "felpafel",
+                "url": "https://github.com/felpafel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56785356?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin that displays tags in a window, ordered by scope</div>",
+            "url": "https://github.com/preservim/tagbar",
+            "title": "preservim/tagbar: Vim plugin that displays tags in a window, ordered by scope",
+            "date_modified": "2024-07-24T16:01:23.000Z",
+            "date_published": "2011-01-11T09:26:10.000Z",
+            "author": {
+                "name": "preservim",
+                "url": "https://github.com/preservim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15192752?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple python plugin to calculate all define values in a C source project.</div>",
+            "url": "https://github.com/ukyouz/Vim-C-Defines",
+            "title": "ukyouz/Vim-C-Defines: A simple python plugin to calculate all define values in a C source project.",
+            "date_modified": "2024-07-24T15:41:32.000Z",
+            "date_published": "2022-10-19T04:55:01.000Z",
+            "author": {
+                "name": "ukyouz",
+                "url": "https://github.com/ukyouz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74842863?u=7cc69730fb9fff071c5a16c7ae9f97caead058bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin helping you establish good command workflow and quit bad habit</div>",
             "url": "https://github.com/m4xshen/hardtime.nvim",
             "title": "m4xshen/hardtime.nvim: A Neovim plugin helping you establish good command workflow and quit bad habit",
-            "date_modified": "2024-07-24T15:10:11.000Z",
+            "date_modified": "2024-07-24T15:12:51.000Z",
             "date_published": "2023-04-24T17:38:50.000Z",
             "author": {
                 "name": "m4xshen",
@@ -36,6 +69,17 @@
             "author": {
                 "name": "rafaelromao",
                 "url": "https://github.com/rafaelromao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
+            "url": "https://github.com/Robitx/gp.nvim",
+            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
+            "date_modified": "2024-07-24T15:57:22.000Z",
+            "date_published": "2023-06-18T13:55:46.000Z",
+            "author": {
+                "name": "Robitx",
+                "url": "https://github.com/Robitx"
             }
         },
         {
@@ -97,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-24T08:46:41.000Z",
+            "date_modified": "2024-07-24T15:45:23.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -171,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
-            "url": "https://github.com/Robitx/gp.nvim",
-            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
-            "date_modified": "2024-07-24T06:08:48.000Z",
-            "date_published": "2023-06-18T13:55:46.000Z",
-            "author": {
-                "name": "Robitx",
-                "url": "https://github.com/Robitx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66903243?u=8f66befdfc71da410cff9edc678f302365abe5df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bullet journal plugin for Vim</div>",
             "url": "https://github.com/b0dee/vim-bujo",
             "title": "b0dee/vim-bujo: Bullet journal plugin for Vim",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "b0dee",
                 "url": "https://github.com/b0dee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40899632?u=976eafdac54517a21b46767dee0770abac413ba6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin which provides IDE features for developing RNRS Scheme applications.</div>",
-            "url": "https://github.com/dehidehidehi/vim-tools-for-scheme",
-            "title": "dehidehidehi/vim-tools-for-scheme: Vim plugin which provides IDE features for developing RNRS Scheme applications.",
-            "date_modified": "2024-07-23T20:27:56.000Z",
-            "date_published": "2024-06-16T11:22:59.000Z",
-            "author": {
-                "name": "dehidehidehi",
-                "url": "https://github.com/dehidehidehi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37899722?u=fd9e93c1edd042967b8507fc8ac4918bac388c77&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Search your git history by commit message, content and author in Neovim</div>",
-            "url": "https://github.com/aaronhallaert/advanced-git-search.nvim",
-            "title": "aaronhallaert/advanced-git-search.nvim: Search your git history by commit message, content and author in Neovim",
-            "date_modified": "2024-07-24T14:59:30.000Z",
-            "date_published": "2023-03-01T16:33:25.000Z",
-            "author": {
-                "name": "aaronhallaert",
-                "url": "https://github.com/aaronhallaert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tmux Switch is a Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.</div>",
-            "url": "https://github.com/jkeresman01/tmux-switch.nvim",
-            "title": "jkeresman01/tmux-switch.nvim: Tmux Switch is a Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.",
-            "date_modified": "2024-07-23T20:14:38.000Z",
-            "date_published": "2024-07-19T20:51:43.000Z",
-            "author": {
-                "name": "jkeresman01",
-                "url": "https://github.com/jkeresman01"
             }
         }
     ]
