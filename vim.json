@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
+            "url": "https://github.com/lervag/vimtex",
+            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+            "date_modified": "2024-07-24T20:05:30.000Z",
+            "date_published": "2013-10-05T11:55:11.000Z",
+            "author": {
+                "name": "lervag",
+                "url": "https://github.com/lervag"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
+            "url": "https://github.com/Robitx/gp.nvim",
+            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
+            "date_modified": "2024-07-24T19:55:41.000Z",
+            "date_published": "2023-06-18T13:55:46.000Z",
+            "author": {
+                "name": "Robitx",
+                "url": "https://github.com/Robitx"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108037606?u=634a02ce88ff1f53f636e9c1327d11b5033b6d01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal, contrast-based, dark &amp; light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
+            "url": "https://github.com/ccxnu/rosebones",
+            "title": "ccxnu/rosebones: A minimal, contrast-based, dark & light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
+            "date_modified": "2024-07-24T19:50:51.000Z",
+            "date_published": "2024-03-01T06:15:30.000Z",
+            "author": {
+                "name": "ccxnu",
+                "url": "https://github.com/ccxnu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21080902?u=8f647ae27895074f61ebe8be67e4f305b34195a4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. </div>",
             "url": "https://github.com/felpafel/inlay-hint.nvim",
             "title": "felpafel/inlay-hint.nvim: Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints. ",
@@ -72,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
-            "url": "https://github.com/Robitx/gp.nvim",
-            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
-            "date_modified": "2024-07-24T15:57:22.000Z",
-            "date_published": "2023-06-18T13:55:46.000Z",
-            "author": {
-                "name": "Robitx",
-                "url": "https://github.com/Robitx"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39263956?u=2d9dc6d1fdfb8131b43c185d14c3b12a07009939&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dotfiles and Vim-Plugins</div>",
             "url": "https://github.com/jonasjucker/dotfiles",
             "title": "jonasjucker/dotfiles: Dotfiles and Vim-Plugins",
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-07-24T15:45:23.000Z",
+            "date_modified": "2024-07-24T19:33:20.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "wsdjeg",
                 "url": "https://github.com/wsdjeg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!</div>",
-            "url": "https://github.com/declancm/cinnamon.nvim",
-            "title": "declancm/cinnamon.nvim: Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!",
-            "date_modified": "2024-07-24T09:55:10.000Z",
-            "date_published": "2022-02-28T23:30:26.000Z",
-            "author": {
-                "name": "declancm",
-                "url": "https://github.com/declancm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10845685?u=ba66a5f0e894cc8d1bc2639a41f4147a7ea3cf09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tiny plugin on top of Termdebug for debugging MCUs code.</div>",
-            "url": "https://github.com/ubaldot/vim-microdebugger",
-            "title": "ubaldot/vim-microdebugger: A tiny plugin on top of Termdebug for debugging MCUs code.",
-            "date_modified": "2024-07-23T22:59:15.000Z",
-            "date_published": "2024-07-09T08:21:14.000Z",
-            "author": {
-                "name": "ubaldot",
-                "url": "https://github.com/ubaldot"
             }
         }
     ]
