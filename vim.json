@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-07-24T05:45:33.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-07-24T05:37:06.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/118997?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Vim Profile &amp; Plugins</div>",
+            "url": "https://github.com/zx1986/xVim",
+            "title": "zx1986/xVim: My Vim Profile & Plugins",
+            "date_modified": "2024-07-24T05:20:22.000Z",
+            "date_published": "2013-06-08T07:18:10.000Z",
+            "author": {
+                "name": "zx1986",
+                "url": "https://github.com/zx1986"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101342105?u=d83eb94a87455ab03dc949683fddd938f5806ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that replaces vim.ui.select with a vscode-like floating window next to the cursor</div>",
             "url": "https://github.com/Axlefublr/selabel.nvim",
             "title": "Axlefublr/selabel.nvim: Neovim plugin that replaces vim.ui.select with a vscode-like floating window next to the cursor",
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!</div>",
             "url": "https://github.com/declancm/cinnamon.nvim",
             "title": "declancm/cinnamon.nvim: Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!",
-            "date_modified": "2024-07-23T23:13:18.000Z",
+            "date_modified": "2024-07-24T06:08:55.000Z",
             "date_published": "2022-02-28T23:30:26.000Z",
             "author": {
                 "name": "declancm",
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
             "url": "https://github.com/Robitx/gp.nvim",
             "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
-            "date_modified": "2024-07-23T22:34:04.000Z",
+            "date_modified": "2024-07-24T06:08:48.000Z",
             "date_published": "2023-06-18T13:55:46.000Z",
             "author": {
                 "name": "Robitx",
@@ -113,17 +146,6 @@
             "author": {
                 "name": "dehidehidehi",
                 "url": "https://github.com/dehidehidehi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-07-23T22:34:20.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "dzfrias",
                 "url": "https://github.com/dzfrias"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74842863?u=7cc69730fb9fff071c5a16c7ae9f97caead058bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin helping you establish good command workflow and quit bad habit</div>",
-            "url": "https://github.com/m4xshen/hardtime.nvim",
-            "title": "m4xshen/hardtime.nvim: A Neovim plugin helping you establish good command workflow and quit bad habit",
-            "date_modified": "2024-07-23T22:01:39.000Z",
-            "date_published": "2023-04-24T17:38:50.000Z",
-            "author": {
-                "name": "m4xshen",
-                "url": "https://github.com/m4xshen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75845110?u=c642c277f68c82865ffcadc770a3d23f853ec4d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is my NeoVim Config.  With my themes and some plugins and using packer as a plugin manager</div>",
-            "url": "https://github.com/harshsharma420/myNeoVimConfig",
-            "title": "harshsharma420/myNeoVimConfig: This is my NeoVim Config.  With my themes and some plugins and using packer as a plugin manager",
-            "date_modified": "2024-07-23T13:40:02.000Z",
-            "date_published": "2024-07-23T13:39:58.000Z",
-            "author": {
-                "name": "harshsharma420",
-                "url": "https://github.com/harshsharma420"
             }
         }
     ]
