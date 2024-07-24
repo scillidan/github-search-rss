@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85842176?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config and plugins for Neovim</div>",
+            "url": "https://github.com/rank1zen/dot-nvim",
+            "title": "rank1zen/dot-nvim: Config and plugins for Neovim",
+            "date_modified": "2024-07-24T05:08:54.000Z",
+            "date_published": "2023-06-05T20:04:28.000Z",
+            "author": {
+                "name": "rank1zen",
+                "url": "https://github.com/rank1zen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>",
+            "url": "https://github.com/folke/noice.nvim",
+            "title": "folke/noice.nvim: 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+            "date_modified": "2024-07-24T05:02:31.000Z",
+            "date_published": "2022-09-21T19:32:33.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101342105?u=d83eb94a87455ab03dc949683fddd938f5806ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that replaces vim.ui.select with a vscode-like floating window next to the cursor</div>",
+            "url": "https://github.com/Axlefublr/selabel.nvim",
+            "title": "Axlefublr/selabel.nvim: Neovim plugin that replaces vim.ui.select with a vscode-like floating window next to the cursor",
+            "date_modified": "2024-07-24T04:58:53.000Z",
+            "date_published": "2024-07-24T02:04:22.000Z",
+            "author": {
+                "name": "Axlefublr",
+                "url": "https://github.com/Axlefublr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/870029?u=cc065539910207b6661bbabba39a9e78294e251d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.</div>",
+            "url": "https://github.com/jellydn/hurl.nvim",
+            "title": "jellydn/hurl.nvim: Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.",
+            "date_modified": "2024-07-24T05:03:32.000Z",
+            "date_published": "2023-10-21T01:37:42.000Z",
+            "author": {
+                "name": "jellydn",
+                "url": "https://github.com/jellydn"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
             "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
             "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-24T03:19:06.000Z",
+            "date_modified": "2024-07-24T04:19:57.000Z",
             "date_published": "2024-05-26T17:25:07.000Z",
             "author": {
                 "name": "zachcoyle",
@@ -64,22 +108,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
             "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-07-24T04:08:46.000Z",
+            "date_modified": "2024-07-24T04:56:32.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
                 "url": "https://github.com/MeanderingProgrammer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101342105?u=d83eb94a87455ab03dc949683fddd938f5806ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that replaces vim.ui.select with a vscode-like floating window next to the cursor</div>",
-            "url": "https://github.com/Axlefublr/selabel.nvim",
-            "title": "Axlefublr/selabel.nvim: Neovim plugin that replaces vim.ui.select with a vscode-like floating window next to the cursor",
-            "date_modified": "2024-07-24T02:55:14.000Z",
-            "date_published": "2024-07-24T02:04:22.000Z",
-            "author": {
-                "name": "Axlefublr",
-                "url": "https://github.com/Axlefublr"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86842365?u=216ea23a1fb4e7e8d0f2eb58683454abad95f7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An unopinionated set of utility functions for neovim plugins</div>",
-            "url": "https://github.com/samsze0/utils.nvim",
-            "title": "samsze0/utils.nvim: An unopinionated set of utility functions for neovim plugins",
-            "date_modified": "2024-07-24T00:00:06.000Z",
-            "date_published": "2024-05-15T03:34:24.000Z",
-            "author": {
-                "name": "samsze0",
-                "url": "https://github.com/samsze0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13450321?u=59d0536ac9dab80004e5a72b81a5927c0e5e0f44&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to check and display whether your machine have human rights.</div>",
-            "url": "https://github.com/mimikun/human-rights.nvim",
-            "title": "mimikun/human-rights.nvim: A neovim plugin to check and display whether your machine have human rights.",
-            "date_modified": "2024-07-23T23:41:35.000Z",
-            "date_published": "2024-02-15T12:46:35.000Z",
-            "author": {
-                "name": "mimikun",
-                "url": "https://github.com/mimikun"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90937622?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!</div>",
-            "url": "https://github.com/declancm/cinnamon.nvim",
-            "title": "declancm/cinnamon.nvim: Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!",
-            "date_modified": "2024-07-23T23:13:18.000Z",
-            "date_published": "2022-02-28T23:30:26.000Z",
-            "author": {
-                "name": "declancm",
-                "url": "https://github.com/declancm"
             }
         }
     ]
