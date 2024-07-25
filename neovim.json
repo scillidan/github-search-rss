@@ -6,22 +6,33 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8628530?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rich development workflow with Clojure support, using AstroNvim 4 and selected plugins</div>",
-            "url": "https://github.com/practicalli/astro",
-            "title": "practicalli/astro: Rich development workflow with Clojure support, using AstroNvim 4 and selected plugins",
-            "date_modified": "2024-07-25T22:07:07.000Z",
-            "date_published": "2024-04-02T19:59:16.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=fe799758beaba30fef760003a0aba864cb1b5b9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
+            "date_modified": "2024-07-25T23:06:22.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
             "author": {
-                "name": "practicalli",
-                "url": "https://github.com/practicalli"
+                "name": "redyf",
+                "url": "https://github.com/redyf"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=bdb1b747955f9809d3b5b234c5f80e9aa8121ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of simple, performant neovim plugins</div>",
             "url": "https://github.com/Saghen/blink.nvim",
             "title": "Saghen/blink.nvim: Set of simple, performant neovim plugins",
-            "date_modified": "2024-07-25T22:02:47.000Z",
+            "date_modified": "2024-07-25T22:57:03.000Z",
             "date_published": "2024-05-14T00:27:50.000Z",
+            "author": {
+                "name": "Saghen",
+                "url": "https://github.com/Saghen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=bdb1b747955f9809d3b5b234c5f80e9aa8121ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, simple, completion plugin for NeoVim</div>",
+            "url": "https://github.com/Saghen/blink.cmp",
+            "title": "Saghen/blink.cmp: Performant, simple, completion plugin for NeoVim",
+            "date_modified": "2024-07-25T22:56:31.000Z",
+            "date_published": "2024-07-24T21:19:29.000Z",
             "author": {
                 "name": "Saghen",
                 "url": "https://github.com/Saghen"
@@ -31,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
             "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-07-25T21:54:35.000Z",
+            "date_modified": "2024-07-25T22:22:10.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -39,14 +50,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=bdb1b747955f9809d3b5b234c5f80e9aa8121ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, simple, completion plugin for NeoVim</div>",
-            "url": "https://github.com/Saghen/blink.cmp",
-            "title": "Saghen/blink.cmp: Performant, simple, completion plugin for NeoVim",
-            "date_modified": "2024-07-25T21:48:17.000Z",
-            "date_published": "2024-07-24T21:19:29.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-25T22:18:18.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
             "author": {
-                "name": "Saghen",
-                "url": "https://github.com/Saghen"
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43151285?u=b1dd55ff2d596674d63b746b4ed01caac845c3c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for dotnet development because i really dislike the tooling in neovim for dotnet</div>",
+            "url": "https://github.com/adamkali/dotnvim",
+            "title": "adamkali/dotnvim: A plugin for dotnet development because i really dislike the tooling in neovim for dotnet",
+            "date_modified": "2024-07-25T22:20:27.000Z",
+            "date_published": "2024-07-23T16:41:05.000Z",
+            "author": {
+                "name": "adamkali",
+                "url": "https://github.com/adamkali"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8628530?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rich development workflow with Clojure support, using AstroNvim 4 and selected plugins</div>",
+            "url": "https://github.com/practicalli/astro",
+            "title": "practicalli/astro: Rich development workflow with Clojure support, using AstroNvim 4 and selected plugins",
+            "date_modified": "2024-07-25T22:07:07.000Z",
+            "date_published": "2024-04-02T19:59:16.000Z",
+            "author": {
+                "name": "practicalli",
+                "url": "https://github.com/practicalli"
             }
         },
         {
@@ -113,17 +146,6 @@
             "author": {
                 "name": "trixnz",
                 "url": "https://github.com/trixnz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-25T19:17:43.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "razak17",
                 "url": "https://github.com/razak17"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🍁 Fun little plugin that can be used as a screensaver and on your dashboard</div>",
-            "url": "https://github.com/folke/drop.nvim",
-            "title": "folke/drop.nvim: 🍁 Fun little plugin that can be used as a screensaver and on your dashboard",
-            "date_modified": "2024-07-25T01:29:58.000Z",
-            "date_published": "2022-10-28T17:14:40.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-07-25T17:19:05.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         }
     ]
