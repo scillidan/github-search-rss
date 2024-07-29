@@ -6,14 +6,69 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97336083?u=ab87d8f9a42e856919bb58bdb10bbfff2526ac8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A project explorer plugin for neovim</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139011070?u=abc315afd9a6b5feb60b837f44d414dcec06279d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins</div>",
+            "url": "https://github.com/omardoescode/nvim-dotfiles",
+            "title": "omardoescode/nvim-dotfiles: These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins",
+            "date_modified": "2024-07-29T15:01:06.000Z",
+            "date_published": "2024-05-29T09:59:28.000Z",
+            "author": {
+                "name": "omardoescode",
+                "url": "https://github.com/omardoescode"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35686555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config using lazy.nvim as plugin manager</div>",
+            "url": "https://github.com/thomasmethrayil/nvim-config",
+            "title": "thomasmethrayil/nvim-config: Neovim config using lazy.nvim as plugin manager",
+            "date_modified": "2024-07-29T14:58:47.000Z",
+            "date_published": "2024-02-28T09:57:22.000Z",
+            "author": {
+                "name": "thomasmethrayil",
+                "url": "https://github.com/thomasmethrayil"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
+            "url": "https://github.com/frankroeder/parrot.nvim",
+            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
+            "date_modified": "2024-07-29T14:57:00.000Z",
+            "date_published": "2023-08-15T10:16:36.000Z",
+            "author": {
+                "name": "frankroeder",
+                "url": "https://github.com/frankroeder"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10311?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.</div>",
+            "url": "https://github.com/jparise/vim-graphql",
+            "title": "jparise/vim-graphql: A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.",
+            "date_modified": "2024-07-29T14:42:07.000Z",
+            "date_published": "2015-12-31T00:44:29.000Z",
+            "author": {
+                "name": "jparise",
+                "url": "https://github.com/jparise"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97336083?u=ab87d8f9a42e856919bb58bdb10bbfff2526ac8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple project explorer plugin for neovim</div>",
             "url": "https://github.com/Rics-Dev/project-explorer.nvim",
-            "title": "Rics-Dev/project-explorer.nvim: A project explorer plugin for neovim",
-            "date_modified": "2024-07-29T14:07:44.000Z",
+            "title": "Rics-Dev/project-explorer.nvim: A simple project explorer plugin for neovim",
+            "date_modified": "2024-07-29T14:38:01.000Z",
             "date_published": "2024-07-27T22:18:52.000Z",
             "author": {
                 "name": "Rics-Dev",
                 "url": "https://github.com/Rics-Dev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53635735?u=fd2d63e8043e117cada1edcbb49675ec783ed563&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Another simple autopair plugin for NeoVim.</div>",
+            "url": "https://github.com/Chattille/pairs.nvim",
+            "title": "Chattille/pairs.nvim: Another simple autopair plugin for NeoVim.",
+            "date_modified": "2024-07-29T14:18:18.000Z",
+            "date_published": "2024-07-28T15:40:58.000Z",
+            "author": {
+                "name": "Chattille",
+                "url": "https://github.com/Chattille"
             }
         },
         {
@@ -138,6 +193,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/919935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to create code images using the external silicon tool.</div>",
+            "url": "https://github.com/michaelrommel/nvim-silicon",
+            "title": "michaelrommel/nvim-silicon: neovim plugin to create code images using the external silicon tool.",
+            "date_modified": "2024-07-29T14:19:08.000Z",
+            "date_published": "2023-05-02T23:57:21.000Z",
+            "author": {
+                "name": "michaelrommel",
+                "url": "https://github.com/michaelrommel"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14832454?u=b8500e6a3ec3c8139ec1a4ecb657431b40db0ccc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An ivy-mode port to neovim.</div>",
             "url": "https://github.com/AdeAttwood/ivy.nvim",
             "title": "AdeAttwood/ivy.nvim: An ivy-mode port to neovim.",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "roobert",
                 "url": "https://github.com/roobert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Telescope picker to quickly access configurations of plugins managed by lazy.nvim.</div>",
-            "url": "https://github.com/polirritmico/telescope-lazy-plugins.nvim",
-            "title": "polirritmico/telescope-lazy-plugins.nvim: A Telescope picker to quickly access configurations of plugins managed by lazy.nvim.",
-            "date_modified": "2024-07-29T07:13:36.000Z",
-            "date_published": "2024-02-04T19:18:48.000Z",
-            "author": {
-                "name": "polirritmico",
-                "url": "https://github.com/polirritmico"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-07-29T13:20:23.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=bdb1b747955f9809d3b5b234c5f80e9aa8121ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of simple, performant neovim plugins</div>",
-            "url": "https://github.com/Saghen/blink.nvim",
-            "title": "Saghen/blink.nvim: Set of simple, performant neovim plugins",
-            "date_modified": "2024-07-29T06:19:41.000Z",
-            "date_published": "2024-05-14T00:27:50.000Z",
-            "author": {
-                "name": "Saghen",
-                "url": "https://github.com/Saghen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
-            "url": "https://github.com/tamago324/nlsp-settings.nvim",
-            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
-            "date_modified": "2024-07-29T06:02:55.000Z",
-            "date_published": "2021-03-21T05:46:20.000Z",
-            "author": {
-                "name": "tamago324",
-                "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139011070?u=abc315afd9a6b5feb60b837f44d414dcec06279d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins</div>",
-            "url": "https://github.com/omardoescode/nvim-dotfiles",
-            "title": "omardoescode/nvim-dotfiles: These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins",
-            "date_modified": "2024-07-29T05:56:37.000Z",
-            "date_published": "2024-05-29T09:59:28.000Z",
-            "author": {
-                "name": "omardoescode",
-                "url": "https://github.com/omardoescode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
-            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
-            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
-            "date_modified": "2024-07-29T05:54:54.000Z",
-            "date_published": "2023-07-13T06:54:44.000Z",
-            "author": {
-                "name": "polirritmico",
-                "url": "https://github.com/polirritmico"
             }
         }
     ]
