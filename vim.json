@@ -6,14 +6,58 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1898104?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>customed configurations for vim -- plugins managed by vundle and more.</div>",
+            "url": "https://github.com/halftan/dotfiles",
+            "title": "halftan/dotfiles: customed configurations for vim -- plugins managed by vundle and more.",
+            "date_modified": "2024-07-29T05:57:23.000Z",
+            "date_published": "2013-06-13T15:43:06.000Z",
+            "author": {
+                "name": "halftan",
+                "url": "https://github.com/halftan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-07-29T05:44:26.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/823277?u=2bd448fd47ffdb80a92e49b497332c9a499e436c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins</div>",
             "url": "https://github.com/rhysd/action-setup-vim",
             "title": "rhysd/action-setup-vim: GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins",
-            "date_modified": "2024-07-29T03:06:16.000Z",
+            "date_modified": "2024-07-29T05:41:31.000Z",
             "date_published": "2020-01-24T03:39:54.000Z",
             "author": {
                 "name": "rhysd",
                 "url": "https://github.com/rhysd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
+            "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
+            "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
+            "date_modified": "2024-07-29T05:34:54.000Z",
+            "date_published": "2023-01-07T09:43:06.000Z",
+            "author": {
+                "name": "ca-mantis-shrimp",
+                "url": "https://github.com/ca-mantis-shrimp"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40995042?u=8a6cade55f5d6ca715c3794c0d7f81e0001a60e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin for taking notes on git repositories.</div>",
+            "url": "https://github.com/jiangyinzuo/codenote",
+            "title": "jiangyinzuo/codenote: A vim plugin for taking notes on git repositories.",
+            "date_modified": "2024-07-29T05:19:07.000Z",
+            "date_published": "2024-04-26T12:49:32.000Z",
+            "author": {
+                "name": "jiangyinzuo",
+                "url": "https://github.com/jiangyinzuo"
             }
         },
         {
@@ -138,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40995042?u=8a6cade55f5d6ca715c3794c0d7f81e0001a60e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim plugin for taking notes on git repositories.</div>",
-            "url": "https://github.com/jiangyinzuo/codenote",
-            "title": "jiangyinzuo/codenote: A vim plugin for taking notes on git repositories.",
-            "date_modified": "2024-07-28T16:06:57.000Z",
-            "date_published": "2024-04-26T12:49:32.000Z",
-            "author": {
-                "name": "jiangyinzuo",
-                "url": "https://github.com/jiangyinzuo"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44566328?u=4c69f595ce2871a9bb5eee5a54900978ac56a6ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>textobj plugin to select trimmed inner tag region.</div>",
             "url": "https://github.com/Omochice/vim-textobj-bettertag",
             "title": "Omochice/vim-textobj-bettertag: textobj plugin to select trimmed inner tag region.",
@@ -182,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-07-29T01:16:46.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36663503?u=9b18f3ab4438efa371bbfd7ef58d6bed19a34a6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Asynchronous LSP Gateway Plugin for denops.vim</div>",
             "url": "https://github.com/kuuote/lspoints",
             "title": "kuuote/lspoints: Asynchronous LSP Gateway Plugin for denops.vim",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "kuuote",
                 "url": "https://github.com/kuuote"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim / Neovim random colorscheme plugin</div>",
-            "url": "https://github.com/yukimemi/spectrism.vim",
-            "title": "yukimemi/spectrism.vim: Vim / Neovim random colorscheme plugin",
-            "date_modified": "2024-07-28T12:36:01.000Z",
-            "date_published": "2022-10-01T16:11:03.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yukimemi/dps-ahdr",
-            "title": "yukimemi/dps-ahdr",
-            "date_modified": "2024-07-28T11:59:30.000Z",
-            "date_published": "2021-03-07T01:12:25.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
             }
         }
     ]
