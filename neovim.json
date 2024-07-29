@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-07-29T20:05:27.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs",
+            "date_modified": "2024-07-29T20:04:59.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25811797?u=95d1efebabde29fc3e595ac99d41f8eb9491dd30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My sensivle Neovim config with useful plugins</div>",
+            "url": "https://github.com/maths-lover/neovim_config",
+            "title": "maths-lover/neovim_config: My sensivle Neovim config with useful plugins",
+            "date_modified": "2024-07-29T19:47:59.000Z",
+            "date_published": "2024-03-25T21:34:40.000Z",
+            "author": {
+                "name": "maths-lover",
+                "url": "https://github.com/maths-lover"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122287853?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by Google Gemini and ChatGPT</div>",
+            "url": "https://github.com/natixgroup/code-ai.nvim",
+            "title": "natixgroup/code-ai.nvim: A Neovim plugin powered by Google Gemini and ChatGPT",
+            "date_modified": "2024-07-29T19:10:45.000Z",
+            "date_published": "2024-07-22T17:52:59.000Z",
+            "author": {
+                "name": "natixgroup",
+                "url": "https://github.com/natixgroup"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35686555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config using lazy.nvim as plugin manager</div>",
+            "url": "https://github.com/thomasmethrayil/nvim-config",
+            "title": "thomasmethrayil/nvim-config: Neovim config using lazy.nvim as plugin manager",
+            "date_modified": "2024-07-29T19:10:21.000Z",
+            "date_published": "2024-02-28T09:57:22.000Z",
+            "author": {
+                "name": "thomasmethrayil",
+                "url": "https://github.com/thomasmethrayil"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
             "url": "https://github.com/MagicDuck/grug-far.nvim",
             "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-07-29T18:54:27.000Z",
+            "date_modified": "2024-07-29T20:05:53.000Z",
             "date_published": "2024-04-28T18:15:17.000Z",
             "author": {
                 "name": "MagicDuck",
@@ -149,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs",
-            "date_modified": "2024-07-29T16:27:31.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6877714?u=2286052c66cb85b798497772f8ef567f5f5d004b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple plugin manager for Neovim</div>",
             "url": "https://github.com/ceceppa/projects.nvim",
             "title": "ceceppa/projects.nvim: A simple plugin manager for Neovim",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "adamkali",
                 "url": "https://github.com/adamkali"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
-            "url": "https://github.com/kyoh86/denops-util",
-            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
-            "date_modified": "2024-07-29T16:09:13.000Z",
-            "date_published": "2024-01-06T00:19:26.000Z",
-            "author": {
-                "name": "kyoh86",
-                "url": "https://github.com/kyoh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91647110?u=f72e0218582bb769478a71863fd78a450784da69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight neovim setup with only essential plugins</div>",
-            "url": "https://github.com/tryprncp/neovim",
-            "title": "tryprncp/neovim: Lightweight neovim setup with only essential plugins",
-            "date_modified": "2024-07-29T15:52:44.000Z",
-            "date_published": "2024-07-13T16:47:08.000Z",
-            "author": {
-                "name": "tryprncp",
-                "url": "https://github.com/tryprncp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35686555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config using lazy.nvim as plugin manager</div>",
-            "url": "https://github.com/thomasmethrayil/nvim-config",
-            "title": "thomasmethrayil/nvim-config: Neovim config using lazy.nvim as plugin manager",
-            "date_modified": "2024-07-29T14:58:47.000Z",
-            "date_published": "2024-02-28T09:57:22.000Z",
-            "author": {
-                "name": "thomasmethrayil",
-                "url": "https://github.com/thomasmethrayil"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
-            "url": "https://github.com/frankroeder/parrot.nvim",
-            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
-            "date_modified": "2024-07-29T14:57:00.000Z",
-            "date_published": "2023-08-15T10:16:36.000Z",
-            "author": {
-                "name": "frankroeder",
-                "url": "https://github.com/frankroeder"
             }
         }
     ]
