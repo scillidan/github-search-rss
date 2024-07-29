@@ -6,14 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=bdb1b747955f9809d3b5b234c5f80e9aa8121ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of simple, performant neovim plugins</div>",
+            "url": "https://github.com/Saghen/blink.nvim",
+            "title": "Saghen/blink.nvim: Set of simple, performant neovim plugins",
+            "date_modified": "2024-07-29T22:04:08.000Z",
+            "date_published": "2024-05-14T00:27:50.000Z",
+            "author": {
+                "name": "Saghen",
+                "url": "https://github.com/Saghen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.</div>",
+            "url": "https://github.com/frankroeder/parrot.nvim",
+            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.",
+            "date_modified": "2024-07-29T21:42:57.000Z",
+            "date_published": "2023-08-15T10:16:36.000Z",
+            "author": {
+                "name": "frankroeder",
+                "url": "https://github.com/frankroeder"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8383244?u=6b51fe8c4fe68bf72306b10bb772e02cf57db79f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A (WIP!) neovim plugin for the Getting Things Done framework</div>",
+            "url": "https://github.com/tcrundall/gtd.nvim",
+            "title": "tcrundall/gtd.nvim: A (WIP!) neovim plugin for the Getting Things Done framework",
+            "date_modified": "2024-07-29T21:33:56.000Z",
+            "date_published": "2024-07-29T21:32:47.000Z",
+            "author": {
+                "name": "tcrundall",
+                "url": "https://github.com/tcrundall"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
             "url": "https://github.com/ins0mniaque/sacrilege.nvim",
             "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
-            "date_modified": "2024-07-29T21:06:38.000Z",
+            "date_modified": "2024-07-29T21:21:49.000Z",
             "date_published": "2024-07-23T20:51:49.000Z",
             "author": {
                 "name": "ins0mniaque",
                 "url": "https://github.com/ins0mniaque"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-07-29T21:16:12.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -119,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin management inspired by Cargo, powered by luarocks</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-07-29T18:16:22.000Z",
+            "date_modified": "2024-07-29T21:32:26.000Z",
             "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "jkeresman01",
                 "url": "https://github.com/jkeresman01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/161720020?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to support Cursorless</div>",
-            "url": "https://github.com/hands-free-vim/cursorless.nvim",
-            "title": "hands-free-vim/cursorless.nvim: Neovim plugin to support Cursorless",
-            "date_modified": "2024-07-29T17:30:40.000Z",
-            "date_published": "2024-04-24T08:50:18.000Z",
-            "author": {
-                "name": "hands-free-vim",
-                "url": "https://github.com/hands-free-vim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97336083?u=ab87d8f9a42e856919bb58bdb10bbfff2526ac8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple project explorer plugin for neovim</div>",
-            "url": "https://github.com/Rics-Dev/project-explorer.nvim",
-            "title": "Rics-Dev/project-explorer.nvim: A simple project explorer plugin for neovim",
-            "date_modified": "2024-07-29T17:24:48.000Z",
-            "date_published": "2024-07-27T22:18:52.000Z",
-            "author": {
-                "name": "Rics-Dev",
-                "url": "https://github.com/Rics-Dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-07-29T17:24:23.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139011070?u=abc315afd9a6b5feb60b837f44d414dcec06279d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins</div>",
-            "url": "https://github.com/omardoescode/nvim-dotfiles",
-            "title": "omardoescode/nvim-dotfiles: These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins",
-            "date_modified": "2024-07-29T16:38:10.000Z",
-            "date_published": "2024-05-29T09:59:28.000Z",
-            "author": {
-                "name": "omardoescode",
-                "url": "https://github.com/omardoescode"
             }
         }
     ]
