@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
+            "url": "https://github.com/MagicDuck/grug-far.nvim",
+            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
+            "date_modified": "2024-07-31T04:53:03.000Z",
+            "date_published": "2024-04-28T18:15:17.000Z",
+            "author": {
+                "name": "MagicDuck",
+                "url": "https://github.com/MagicDuck"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18545852?u=ad716ca7b79b2bec40fdc33727735d28dc223da1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to gamify development in the spirit of old school Runescape</div>",
+            "url": "https://github.com/jakesboy2/vimscape2007.nvim",
+            "title": "jakesboy2/vimscape2007.nvim: Neovim plugin to gamify development in the spirit of old school Runescape",
+            "date_modified": "2024-07-31T04:16:44.000Z",
+            "date_published": "2024-07-13T05:30:41.000Z",
+            "author": {
+                "name": "jakesboy2",
+                "url": "https://github.com/jakesboy2"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
             "url": "https://github.com/Shougo/dpp.vim",
             "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
@@ -47,17 +69,6 @@
             "author": {
                 "name": "ktappdev",
                 "url": "https://github.com/ktappdev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
-            "url": "https://github.com/MagicDuck/grug-far.nvim",
-            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-07-31T02:57:31.000Z",
-            "date_published": "2024-04-28T18:15:17.000Z",
-            "author": {
-                "name": "MagicDuck",
-                "url": "https://github.com/MagicDuck"
             }
         },
         {
@@ -141,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
             "url": "https://github.com/folke/neoconf.nvim",
             "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-07-31T01:21:42.000Z",
+            "date_modified": "2024-07-31T04:13:16.000Z",
             "date_published": "2022-09-07T16:15:13.000Z",
             "author": {
                 "name": "folke",
@@ -193,6 +204,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
+            "url": "https://github.com/nvim-lualine/lualine.nvim",
+            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+            "date_modified": "2024-07-31T04:27:42.000Z",
+            "date_published": "2020-12-30T14:35:10.000Z",
+            "author": {
+                "name": "nvim-lualine",
+                "url": "https://github.com/nvim-lualine"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99920520?u=1800d8007e42f34727480fa1b16165bc871be6fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A comprehensive and optimized Neovim configuration. Includes custom settings, key mappings, plugins, and themes tailored for an enhanced development experience.</div>",
             "url": "https://github.com/Lexnyan/nvim-config",
             "title": "Lexnyan/nvim-config: A comprehensive and optimized Neovim configuration. Includes custom settings, key mappings, plugins, and themes tailored for an enhanced development experience.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Lexnyan",
                 "url": "https://github.com/Lexnyan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-07-31T00:03:29.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.</div>",
-            "url": "https://github.com/rachartier/tiny-code-action.nvim",
-            "title": "rachartier/tiny-code-action.nvim: A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.",
-            "date_modified": "2024-07-30T23:07:57.000Z",
-            "date_published": "2024-07-22T23:02:50.000Z",
-            "author": {
-                "name": "rachartier",
-                "url": "https://github.com/rachartier"
             }
         }
     ]
