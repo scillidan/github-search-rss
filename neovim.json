@@ -6,25 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/870029?u=cc065539910207b6661bbabba39a9e78294e251d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.</div>",
-            "url": "https://github.com/jellydn/hurl.nvim",
-            "title": "jellydn/hurl.nvim: Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.",
-            "date_modified": "2024-07-31T15:09:19.000Z",
-            "date_published": "2023-10-21T01:37:42.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.</div>",
+            "url": "https://github.com/rachartier/tiny-code-action.nvim",
+            "title": "rachartier/tiny-code-action.nvim: A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.",
+            "date_modified": "2024-07-31T16:05:33.000Z",
+            "date_published": "2024-07-22T23:02:50.000Z",
             "author": {
-                "name": "jellydn",
-                "url": "https://github.com/jellydn"
+                "name": "rachartier",
+                "url": "https://github.com/rachartier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48520530?u=7a0a8bce6168137d88becf8ecbc6647b79dfd01a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My dotfiles for i3, i3-status, tmux, bashrc, gtk, neovim (lazy plugin manager)  </div>",
+            "url": "https://github.com/dfenerski/dotfiles",
+            "title": "dfenerski/dotfiles: My dotfiles for i3, i3-status, tmux, bashrc, gtk, neovim (lazy plugin manager)  ",
+            "date_modified": "2024-07-31T15:26:59.000Z",
+            "date_published": "2023-09-07T18:00:27.000Z",
+            "author": {
+                "name": "dfenerski",
+                "url": "https://github.com/dfenerski"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43011293?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to provide some LSP-like functionalities for the Genero language by FourJs</div>",
+            "url": "https://github.com/harrison-dean/genero-tools.nvim",
+            "title": "harrison-dean/genero-tools.nvim: A Neovim plugin to provide some LSP-like functionalities for the Genero language by FourJs",
+            "date_modified": "2024-07-31T15:16:57.000Z",
+            "date_published": "2024-06-15T22:48:43.000Z",
+            "author": {
+                "name": "harrison-dean",
+                "url": "https://github.com/harrison-dean"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12248144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple neovim plugin to run bazel test and bazel build</div>",
             "url": "https://github.com/mrheinen/bazelbub.nvim",
             "title": "mrheinen/bazelbub.nvim: A simple neovim plugin to run bazel test and bazel build",
-            "date_modified": "2024-07-31T15:08:25.000Z",
+            "date_modified": "2024-07-31T15:11:18.000Z",
             "date_published": "2024-07-24T17:51:36.000Z",
             "author": {
                 "name": "mrheinen",
                 "url": "https://github.com/mrheinen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/870029?u=cc065539910207b6661bbabba39a9e78294e251d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.</div>",
+            "url": "https://github.com/jellydn/hurl.nvim",
+            "title": "jellydn/hurl.nvim: Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.",
+            "date_modified": "2024-07-31T15:18:47.000Z",
+            "date_published": "2023-10-21T01:37:42.000Z",
+            "author": {
+                "name": "jellydn",
+                "url": "https://github.com/jellydn"
             }
         },
         {
@@ -53,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
             "url": "https://github.com/mikavilpas/yazi.nvim",
             "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2024-07-31T14:33:13.000Z",
+            "date_modified": "2024-07-31T15:13:22.000Z",
             "date_published": "2024-02-25T13:33:19.000Z",
             "author": {
                 "name": "mikavilpas",
@@ -113,6 +146,17 @@
             "author": {
                 "name": "Robitx",
                 "url": "https://github.com/Robitx"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
+            "url": "https://github.com/nvim-lualine/lualine.nvim",
+            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+            "date_modified": "2024-07-31T15:31:50.000Z",
+            "date_published": "2020-12-30T14:35:10.000Z",
+            "author": {
+                "name": "nvim-lualine",
+                "url": "https://github.com/nvim-lualine"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "pilarskikt",
                 "url": "https://github.com/pilarskikt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31730729?u=9b5f151994618c616e2e1a4ec5d87a5da3113db9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Status column plugin that provides a configurable 'statuscolumn' and click handlers.</div>",
-            "url": "https://github.com/luukvbaal/statuscol.nvim",
-            "title": "luukvbaal/statuscol.nvim: Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
-            "date_modified": "2024-07-31T10:47:45.000Z",
-            "date_published": "2022-11-21T12:04:24.000Z",
-            "author": {
-                "name": "luukvbaal",
-                "url": "https://github.com/luukvbaal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130372558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim statusline plugin blazing fast than any statusline plugin</div>",
-            "url": "https://github.com/nvimdev/modeline.nvim",
-            "title": "nvimdev/modeline.nvim: neovim statusline plugin blazing fast than any statusline plugin",
-            "date_modified": "2024-07-31T10:34:00.000Z",
-            "date_published": "2023-01-31T04:56:38.000Z",
-            "author": {
-                "name": "nvimdev",
-                "url": "https://github.com/nvimdev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4748288?u=8389e748aa7e3546f52fa72f4f315a25818679b3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to access obsidian vaults conveniently</div>",
-            "url": "https://github.com/Schartey/obsidian-nvim",
-            "title": "Schartey/obsidian-nvim: Neovim plugin to access obsidian vaults conveniently",
-            "date_modified": "2024-07-31T09:54:13.000Z",
-            "date_published": "2024-07-31T09:50:49.000Z",
-            "author": {
-                "name": "Schartey",
-                "url": "https://github.com/Schartey"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
-            "url": "https://github.com/m15a/flake-vim-plugin-analects",
-            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
-            "date_modified": "2024-07-31T08:53:25.000Z",
-            "date_published": "2024-04-11T07:27:53.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
             }
         }
     ]
