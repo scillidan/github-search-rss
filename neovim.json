@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12248144?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple neovim plugin to run bazel test and bazel build</div>",
+            "url": "https://github.com/mrheinen/bazelbub.nvim",
+            "title": "mrheinen/bazelbub.nvim: A simple neovim plugin to run bazel test and bazel build",
+            "date_modified": "2024-07-31T07:48:19.000Z",
+            "date_published": "2024-07-24T17:51:36.000Z",
+            "author": {
+                "name": "mrheinen",
+                "url": "https://github.com/mrheinen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim</div>",
+            "url": "https://github.com/ray-x/go.nvim",
+            "title": "ray-x/go.nvim: G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim",
+            "date_modified": "2024-07-31T07:37:42.000Z",
+            "date_published": "2021-03-10T10:23:02.000Z",
+            "author": {
+                "name": "ray-x",
+                "url": "https://github.com/ray-x"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139094?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for Marp</div>",
+            "url": "https://github.com/mpas/marp-nvim",
+            "title": "mpas/marp-nvim: A neovim plugin for Marp",
+            "date_modified": "2024-07-31T07:31:59.000Z",
+            "date_published": "2023-12-20T16:14:16.000Z",
+            "author": {
+                "name": "mpas",
+                "url": "https://github.com/mpas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-07-31T07:17:34.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1559506?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>template neovim plugin code by lua</div>",
             "url": "https://github.com/tyamaz/helloneovimluaplugin.nvim",
             "title": "tyamaz/helloneovimluaplugin.nvim: template neovim plugin code by lua",
@@ -127,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-07-31T03:19:06.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66100652?u=cff2f13488b83c9c70e7be601e9396726614a23d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight Neovim plugin that easy to share your code to llm for fixes, the errors are displayed as comments above the actual error</div>",
             "url": "https://github.com/ktappdev/diagnostic-comments.nvim",
             "title": "ktappdev/diagnostic-comments.nvim: A lightweight Neovim plugin that easy to share your code to llm for fixes, the errors are displayed as comments above the actual error",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
-            "url": "https://github.com/folke/neoconf.nvim",
-            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-07-31T04:13:16.000Z",
-            "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9500018?u=409f92af80796e5d70aff0d97cfbcfc9031cb620&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to share Markdown task lists as Slack posts.</div>",
-            "url": "https://github.com/tadashi-aikawa/ghostwriter.nvim",
-            "title": "tadashi-aikawa/ghostwriter.nvim: A Neovim plugin to share Markdown task lists as Slack posts.",
-            "date_modified": "2024-07-31T01:07:39.000Z",
-            "date_published": "2024-07-30T11:43:05.000Z",
-            "author": {
-                "name": "tadashi-aikawa",
-                "url": "https://github.com/tadashi-aikawa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47162587?u=6e42662b8dba31b23aff5dc5d9643a815364312e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GhostText plugin powered by denops.vim</div>",
-            "url": "https://github.com/gamoutatsumi/dps-ghosttext.vim",
-            "title": "gamoutatsumi/dps-ghosttext.vim: GhostText plugin powered by denops.vim",
-            "date_modified": "2024-07-31T01:01:37.000Z",
-            "date_published": "2021-03-16T11:54:09.000Z",
-            "author": {
-                "name": "gamoutatsumi",
-                "url": "https://github.com/gamoutatsumi"
             }
         }
     ]
