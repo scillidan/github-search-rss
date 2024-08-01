@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins </div>",
+            "url": "https://github.com/AstroNvim/AstroNvim",
+            "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
+            "date_modified": "2024-08-01T14:06:47.000Z",
+            "date_published": "2022-02-02T22:33:34.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-08-01T13:55:59.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121890473?u=16919de4c387aef8576cd5b01cdb7ebe39eda16c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim config directory with plugins</div>",
+            "url": "https://github.com/kolbbond/nvim-config",
+            "title": "kolbbond/nvim-config: neovim config directory with plugins",
+            "date_modified": "2024-08-01T13:41:04.000Z",
+            "date_published": "2024-03-22T14:45:17.000Z",
+            "author": {
+                "name": "kolbbond",
+                "url": "https://github.com/kolbbond"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43011293?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to provide some LSP-like functionalities for the Genero language by FourJs</div>",
+            "url": "https://github.com/harrison-dean/genero-tools.nvim",
+            "title": "harrison-dean/genero-tools.nvim: A Neovim plugin to provide some LSP-like functionalities for the Genero language by FourJs",
+            "date_modified": "2024-08-01T13:38:21.000Z",
+            "date_published": "2024-06-15T22:48:43.000Z",
+            "author": {
+                "name": "harrison-dean",
+                "url": "https://github.com/harrison-dean"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-08-01T13:27:56.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-01T13:20:03.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10319377?u=f29147cbf5f97c332c13f0256ff9c4a75c7f7985&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Easily follow markdown links with this neovim plugin</div>",
             "url": "https://github.com/jghauser/follow-md-links.nvim",
             "title": "jghauser/follow-md-links.nvim: Easily follow markdown links with this neovim plugin",
@@ -83,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-01T11:18:12.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62074594?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Lua plugin for Neovim that helps manage breakpoints, create advanced breakpoints using vim.ui.input, and display breakpoint properties as virtual text with nvim-dap.</div>",
             "url": "https://github.com/Carcuis/dap-breakpoints.nvim",
             "title": "Carcuis/dap-breakpoints.nvim: A Lua plugin for Neovim that helps manage breakpoints, create advanced breakpoints using vim.ui.input, and display breakpoint properties as virtual text with nvim-dap.",
@@ -124,17 +179,6 @@
             "author": {
                 "name": "Rics-Dev",
                 "url": "https://github.com/Rics-Dev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43011293?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to provide some LSP-like functionalities for the Genero language by FourJs</div>",
-            "url": "https://github.com/harrison-dean/genero-tools.nvim",
-            "title": "harrison-dean/genero-tools.nvim: A Neovim plugin to provide some LSP-like functionalities for the Genero language by FourJs",
-            "date_modified": "2024-08-01T10:36:01.000Z",
-            "date_published": "2024-06-15T22:48:43.000Z",
-            "author": {
-                "name": "harrison-dean",
-                "url": "https://github.com/harrison-dean"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "altermo",
                 "url": "https://github.com/altermo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-08-01T09:18:42.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122287853?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin powered by Google Gemini and ChatGPT</div>",
-            "url": "https://github.com/natixgroup/code-ai.nvim",
-            "title": "natixgroup/code-ai.nvim: A Neovim plugin powered by Google Gemini and ChatGPT",
-            "date_modified": "2024-08-01T08:45:46.000Z",
-            "date_published": "2024-07-22T17:52:59.000Z",
-            "author": {
-                "name": "natixgroup",
-                "url": "https://github.com/natixgroup"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69827203?u=6f4631b41dd813690c85fdc77a3db1a2e98eda59&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim setup + wezterm setup. Plugins and key bindings. Written in lua and shell script</div>",
-            "url": "https://github.com/Konadu-Akwasi-Akuoko/dotfiles",
-            "title": "Konadu-Akwasi-Akuoko/dotfiles: My neovim setup + wezterm setup. Plugins and key bindings. Written in lua and shell script",
-            "date_modified": "2024-08-01T08:43:59.000Z",
-            "date_published": "2024-07-16T20:46:30.000Z",
-            "author": {
-                "name": "Konadu-Akwasi-Akuoko",
-                "url": "https://github.com/Konadu-Akwasi-Akuoko"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
-            "url": "https://github.com/ins0mniaque/sacrilege.nvim",
-            "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
-            "date_modified": "2024-08-01T08:40:47.000Z",
-            "date_published": "2024-07-23T20:51:49.000Z",
-            "author": {
-                "name": "ins0mniaque",
-                "url": "https://github.com/ins0mniaque"
             }
         }
     ]
