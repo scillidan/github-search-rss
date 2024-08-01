@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43151285?u=b1dd55ff2d596674d63b746b4ed01caac845c3c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The sample config for dotnvim. Serves either as a tryout for the plugin and as a starting point for any .Net dev trying to start their neovim journey.</div>",
+            "url": "https://github.com/adamkali/dotnvim-config",
+            "title": "adamkali/dotnvim-config: The sample config for dotnvim. Serves either as a tryout for the plugin and as a starting point for any .Net dev trying to start their neovim journey.",
+            "date_modified": "2024-08-01T20:08:31.000Z",
+            "date_published": "2024-08-01T17:33:57.000Z",
+            "author": {
+                "name": "adamkali",
+                "url": "https://github.com/adamkali"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47322901?u=ec205ea49ce534aeb9ad0d18bc33b598f1a50ab1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Debug adapter for Neovim plugins</div>",
             "url": "https://github.com/jbyuki/one-small-step-for-vimkind",
             "title": "jbyuki/one-small-step-for-vimkind: Debug adapter for Neovim plugins",
-            "date_modified": "2024-08-01T18:50:37.000Z",
+            "date_modified": "2024-08-01T19:25:50.000Z",
             "date_published": "2021-03-23T08:49:30.000Z",
             "author": {
                 "name": "jbyuki",
                 "url": "https://github.com/jbyuki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177039172?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim surround plugin for editing multiple characters at once</div>",
+            "url": "https://github.com/cz875/multichar-surround.nvim",
+            "title": "cz875/multichar-surround.nvim: A simple Neovim surround plugin for editing multiple characters at once",
+            "date_modified": "2024-08-01T19:19:54.000Z",
+            "date_published": "2024-08-01T14:02:56.000Z",
+            "author": {
+                "name": "cz875",
+                "url": "https://github.com/cz875"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-01T19:17:23.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -61,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-01T18:19:21.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
             "url": "https://github.com/ins0mniaque/sacrilege.nvim",
             "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
@@ -83,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177039172?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim surround plugin for editing multiple characters at once</div>",
-            "url": "https://github.com/cz875/multichar-surround.nvim",
-            "title": "cz875/multichar-surround.nvim: A simple Neovim surround plugin for editing multiple characters at once",
-            "date_modified": "2024-08-01T18:34:58.000Z",
-            "date_published": "2024-08-01T14:02:56.000Z",
-            "author": {
-                "name": "cz875",
-                "url": "https://github.com/cz875"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139011070?u=abc315afd9a6b5feb60b837f44d414dcec06279d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins</div>",
             "url": "https://github.com/omardoescode/nvim-dotfiles",
             "title": "omardoescode/nvim-dotfiles: These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins",
@@ -102,17 +113,6 @@
             "author": {
                 "name": "omardoescode",
                 "url": "https://github.com/omardoescode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43151285?u=b1dd55ff2d596674d63b746b4ed01caac845c3c4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The sample config for dotnvim. Serves either as a tryout for the plugin and as a starting point for any .Net dev trying to start their neovim journey.</div>",
-            "url": "https://github.com/adamkali/dotnvim-config",
-            "title": "adamkali/dotnvim-config: The sample config for dotnvim. Serves either as a tryout for the plugin and as a starting point for any .Net dev trying to start their neovim journey.",
-            "date_modified": "2024-08-01T17:34:01.000Z",
-            "date_published": "2024-08-01T17:33:57.000Z",
-            "author": {
-                "name": "adamkali",
-                "url": "https://github.com/adamkali"
             }
         },
         {
