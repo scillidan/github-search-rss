@@ -6,6 +6,61 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125545555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>TIL using Obsidian git plugin</div>",
+            "url": "https://github.com/jbrunoo/Obsidian_TIL",
+            "title": "jbrunoo/Obsidian_TIL: TIL using Obsidian git plugin",
+            "date_modified": "2024-08-02T09:03:19.000Z",
+            "date_published": "2023-11-02T07:08:46.000Z",
+            "author": {
+                "name": "jbrunoo",
+                "url": "https://github.com/jbrunoo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16841202?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a plugin for <a href=\"https://obsidian.md\" rel=\"nofollow\">https://obsidian.md</a>. It extracts Annotations from PDF Files.</div>",
+            "url": "https://github.com/munach/obsidian-extract-pdf-annotations",
+            "title": "munach/obsidian-extract-pdf-annotations: This is a plugin for https://obsidian.md. It extracts Annotations from PDF Files.",
+            "date_modified": "2024-08-02T08:52:47.000Z",
+            "date_published": "2022-03-05T12:53:48.000Z",
+            "author": {
+                "name": "munach",
+                "url": "https://github.com/munach"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73286100?u=1302c813e30231fdc7f3661b3af69bb9b0d8ef30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian Plugin for social-scientific Qualitative Data Analysis (QDA). An open alternative to MAXQDA and atlas.ti, using Markdown to store data and research codes.</div>",
+            "url": "https://github.com/chrisgrieser/obsidian-quadro",
+            "title": "chrisgrieser/obsidian-quadro: Obsidian Plugin for social-scientific Qualitative Data Analysis (QDA). An open alternative to MAXQDA and atlas.ti, using Markdown to store data and research codes.",
+            "date_modified": "2024-08-02T08:52:19.000Z",
+            "date_published": "2023-12-04T11:38:00.000Z",
+            "author": {
+                "name": "chrisgrieser",
+                "url": "https://github.com/chrisgrieser"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52699794?u=9d7ff31a6419ded94ac6eb3d75465a0151033fab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Manage your tasks in vikunja.</div>",
+            "url": "https://github.com/Heiss/obsidian-vikunja-plugin",
+            "title": "Heiss/obsidian-vikunja-plugin: Manage your tasks in vikunja.",
+            "date_modified": "2024-08-02T08:52:10.000Z",
+            "date_published": "2024-06-18T16:24:28.000Z",
+            "author": {
+                "name": "Heiss",
+                "url": "https://github.com/Heiss"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55538951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Grabs data from IVRE and brings it into Obsidian notes</div>",
+            "url": "https://github.com/ivre/obsidian-ivre-plugin",
+            "title": "ivre/obsidian-ivre-plugin: Grabs data from IVRE and brings it into Obsidian notes",
+            "date_modified": "2024-08-02T08:31:46.000Z",
+            "date_published": "2022-11-30T19:31:23.000Z",
+            "author": {
+                "name": "ivre",
+                "url": "https://github.com/ivre"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40307803?u=2215666ba10ea8b43779b67afd3c8cf7cc35286a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Documentation for the Obsidian Vault Explorer Plugin</div>",
             "url": "https://github.com/decaf-dev/vaultexplorer.com",
             "title": "decaf-dev/vaultexplorer.com: Documentation for the Obsidian Vault Explorer Plugin",
@@ -160,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52699794?u=9d7ff31a6419ded94ac6eb3d75465a0151033fab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Manage your tasks in vikunja.</div>",
-            "url": "https://github.com/Heiss/obsidian-vikunja-plugin",
-            "title": "Heiss/obsidian-vikunja-plugin: Manage your tasks in vikunja.",
-            "date_modified": "2024-08-01T20:48:20.000Z",
-            "date_published": "2024-06-18T16:24:28.000Z",
-            "author": {
-                "name": "Heiss",
-                "url": "https://github.com/Heiss"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14358394?u=8b35a915119ac21a5753d57c3b79bc1981ff39a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to edit and view Excalidraw drawings in Obsidian</div>",
             "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
             "title": "zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings in Obsidian",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "zsviczian",
                 "url": "https://github.com/zsviczian"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14121906?u=b457d024fc2883520597d2ddae9a1a6a679b5c3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Typewriter Mode is a plugin that adds typewriter scrolling (current line stays at a fixed position on the screen), a highlight for the current line, dimming of unfocused paragraphs and more to Obsidian.</div>",
-            "url": "https://github.com/davisriedel/obsidian-typewriter-mode",
-            "title": "davisriedel/obsidian-typewriter-mode: Typewriter Mode is a plugin that adds typewriter scrolling (current line stays at a fixed position on the screen), a highlight for the current line, dimming of unfocused paragraphs and more to Obsidian.",
-            "date_modified": "2024-08-01T15:04:37.000Z",
-            "date_published": "2023-04-03T08:42:43.000Z",
-            "author": {
-                "name": "davisriedel",
-                "url": "https://github.com/davisriedel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13245989?u=34d8449240e7240d2853501332de4dcdeb2222e7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Caret, an Obsidian Plugin</div>",
-            "url": "https://github.com/jcollingj/caret",
-            "title": "jcollingj/caret: Caret, an Obsidian Plugin",
-            "date_modified": "2024-08-01T14:53:43.000Z",
-            "date_published": "2024-05-08T14:48:38.000Z",
-            "author": {
-                "name": "jcollingj",
-                "url": "https://github.com/jcollingj"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174064239?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Datepicker widget for Obsidian.</div>",
-            "url": "https://github.com/joycode-hub/datepicker-plugin",
-            "title": "joycode-hub/datepicker-plugin: Datepicker widget for Obsidian.",
-            "date_modified": "2024-08-01T14:06:20.000Z",
-            "date_published": "2024-06-28T04:08:55.000Z",
-            "author": {
-                "name": "joycode-hub",
-                "url": "https://github.com/joycode-hub"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71190322?u=130c1f80e9b10cb85e200663b519100bb079fbf6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A DMN evaluation plugin for obsidian notes.</div>",
-            "url": "https://github.com/joleaf/obsidian-dmn-eval-plugin",
-            "title": "joleaf/obsidian-dmn-eval-plugin: A DMN evaluation plugin for obsidian notes.",
-            "date_modified": "2024-08-01T13:11:31.000Z",
-            "date_published": "2022-12-06T18:25:46.000Z",
-            "author": {
-                "name": "joleaf",
-                "url": "https://github.com/joleaf"
             }
         }
     ]
