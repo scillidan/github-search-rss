@@ -6,14 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15827817?u=bec6438dc8666030a4abcbd5312a895c83356ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental: provide tested neovim and plugins</div>",
+            "url": "https://github.com/ttak0422/neovim-treesitter-overlay",
+            "title": "ttak0422/neovim-treesitter-overlay: Experimental: provide tested neovim and plugins",
+            "date_modified": "2024-08-03T12:10:30.000Z",
+            "date_published": "2024-03-10T11:54:02.000Z",
+            "author": {
+                "name": "ttak0422",
+                "url": "https://github.com/ttak0422"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-08-03T12:09:29.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
             "url": "https://github.com/vim-denops/denops.vim",
             "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
-            "date_modified": "2024-08-03T10:35:45.000Z",
+            "date_modified": "2024-08-03T12:06:10.000Z",
             "date_published": "2021-02-08T15:46:07.000Z",
             "author": {
                 "name": "vim-denops",
                 "url": "https://github.com/vim-denops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9500018?u=409f92af80796e5d70aff0d97cfbcfc9031cb620&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to share Markdown task lists as Slack posts.</div>",
+            "url": "https://github.com/tadashi-aikawa/ghostwriter.nvim",
+            "title": "tadashi-aikawa/ghostwriter.nvim: A Neovim plugin to share Markdown task lists as Slack posts.",
+            "date_modified": "2024-08-03T12:04:41.000Z",
+            "date_published": "2024-07-30T11:43:05.000Z",
+            "author": {
+                "name": "tadashi-aikawa",
+                "url": "https://github.com/tadashi-aikawa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47322901?u=ec205ea49ce534aeb9ad0d18bc33b598f1a50ab1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Debug adapter for Neovim plugins</div>",
+            "url": "https://github.com/jbyuki/one-small-step-for-vimkind",
+            "title": "jbyuki/one-small-step-for-vimkind: Debug adapter for Neovim plugins",
+            "date_modified": "2024-08-03T11:43:28.000Z",
+            "date_published": "2021-03-23T08:49:30.000Z",
+            "author": {
+                "name": "jbyuki",
+                "url": "https://github.com/jbyuki"
             }
         },
         {
@@ -36,17 +80,6 @@
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9500018?u=409f92af80796e5d70aff0d97cfbcfc9031cb620&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to share Markdown task lists as Slack posts.</div>",
-            "url": "https://github.com/tadashi-aikawa/ghostwriter.nvim",
-            "title": "tadashi-aikawa/ghostwriter.nvim: A Neovim plugin to share Markdown task lists as Slack posts.",
-            "date_modified": "2024-08-03T09:57:47.000Z",
-            "date_published": "2024-07-30T11:43:05.000Z",
-            "author": {
-                "name": "tadashi-aikawa",
-                "url": "https://github.com/tadashi-aikawa"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "ins0mniaque",
                 "url": "https://github.com/ins0mniaque"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
-            "url": "https://github.com/tamago324/nlsp-settings.nvim",
-            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
-            "date_modified": "2024-08-03T07:02:33.000Z",
-            "date_published": "2021-03-21T05:46:20.000Z",
-            "author": {
-                "name": "tamago324",
-                "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/694547?u=8d953632231c25e8cf22d230e3a0d71fb4a5c7c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim/Neovim plugin to detect indentation options automatically powered by denops.vim</div>",
-            "url": "https://github.com/kg8m/vim-detect-indent",
-            "title": "kg8m/vim-detect-indent: A Vim/Neovim plugin to detect indentation options automatically powered by denops.vim",
-            "date_modified": "2024-08-03T06:48:09.000Z",
-            "date_published": "2022-06-25T15:29:24.000Z",
-            "author": {
-                "name": "kg8m",
-                "url": "https://github.com/kg8m"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
-            "url": "https://github.com/yukimemi/dvpm",
-            "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
-            "date_modified": "2024-08-03T06:05:40.000Z",
-            "date_published": "2023-05-14T12:16:02.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
             }
         }
     ]
