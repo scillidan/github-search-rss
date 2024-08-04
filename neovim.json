@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6904777?u=2b4709ff024b93c15be93067fb036e402a16d58a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git Graph plugin for neovim</div>",
+            "url": "https://github.com/isakbm/gitgraph.nvim",
+            "title": "isakbm/gitgraph.nvim: Git Graph plugin for neovim",
+            "date_modified": "2024-08-04T11:05:17.000Z",
+            "date_published": "2024-07-24T20:58:36.000Z",
+            "author": {
+                "name": "isakbm",
+                "url": "https://github.com/isakbm"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9500018?u=409f92af80796e5d70aff0d97cfbcfc9031cb620&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to share Markdown task lists as Slack posts.</div>",
+            "url": "https://github.com/tadashi-aikawa/ghostwriter.nvim",
+            "title": "tadashi-aikawa/ghostwriter.nvim: A Neovim plugin to share Markdown task lists as Slack posts.",
+            "date_modified": "2024-08-04T10:42:54.000Z",
+            "date_published": "2024-07-30T11:43:05.000Z",
+            "author": {
+                "name": "tadashi-aikawa",
+                "url": "https://github.com/tadashi-aikawa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
+            "url": "https://github.com/vim-denops/denops.vim",
+            "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
+            "date_modified": "2024-08-04T10:30:07.000Z",
+            "date_published": "2021-02-08T15:46:07.000Z",
+            "author": {
+                "name": "vim-denops",
+                "url": "https://github.com/vim-denops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-04T10:19:11.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/markdown.nvim",
             "title": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-08-04T10:02:15.000Z",
+            "date_modified": "2024-08-04T11:07:52.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -20,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
             "url": "https://github.com/nvim-neorocks/lz.n",
             "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
-            "date_modified": "2024-08-04T09:56:54.000Z",
+            "date_modified": "2024-08-04T10:35:49.000Z",
             "date_published": "2024-01-05T13:38:49.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -50,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6904777?u=2b4709ff024b93c15be93067fb036e402a16d58a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git Graph plugin for neovim</div>",
-            "url": "https://github.com/isakbm/gitgraph.nvim",
-            "title": "isakbm/gitgraph.nvim: Git Graph plugin for neovim",
-            "date_modified": "2024-08-04T10:04:54.000Z",
-            "date_published": "2024-07-24T20:58:36.000Z",
-            "author": {
-                "name": "isakbm",
-                "url": "https://github.com/isakbm"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17556343?u=7adbc79224e9aef6cf5f481a194dff6e585e16b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Basic template for LazyVim plugin 💤</div>",
             "url": "https://github.com/l0kr/starter.nvim",
             "title": "l0kr/starter.nvim: Basic template for LazyVim plugin 💤",
@@ -69,17 +102,6 @@
             "author": {
                 "name": "l0kr",
                 "url": "https://github.com/l0kr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-04T09:20:00.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -149,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9500018?u=409f92af80796e5d70aff0d97cfbcfc9031cb620&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to share Markdown task lists as Slack posts.</div>",
-            "url": "https://github.com/tadashi-aikawa/ghostwriter.nvim",
-            "title": "tadashi-aikawa/ghostwriter.nvim: A Neovim plugin to share Markdown task lists as Slack posts.",
-            "date_modified": "2024-08-04T08:20:23.000Z",
-            "date_published": "2024-07-30T11:43:05.000Z",
-            "author": {
-                "name": "tadashi-aikawa",
-                "url": "https://github.com/tadashi-aikawa"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.</div>",
             "url": "https://github.com/echasnovski/mini.misc",
             "title": "echasnovski/mini.misc: Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Axlefublr",
                 "url": "https://github.com/Axlefublr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
-            "title": "yutkat/new-neovim-plugin-with-category-rss",
-            "date_modified": "2024-08-04T05:04:19.000Z",
-            "date_published": "2023-05-24T19:57:02.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
             }
         }
     ]
