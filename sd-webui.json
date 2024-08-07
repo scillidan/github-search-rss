@@ -6,6 +6,28 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143005960?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>OneDiff: An out-of-the-box acceleration library for diffusion models.</div>",
+            "url": "https://github.com/siliconflow/onediff",
+            "title": "siliconflow/onediff: OneDiff: An out-of-the-box acceleration library for diffusion models.",
+            "date_modified": "2024-08-07T03:04:19.000Z",
+            "date_published": "2022-09-21T07:34:13.000Z",
+            "author": {
+                "name": "siliconflow",
+                "url": "https://github.com/siliconflow"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23144950?u=473c22c5f1064f725e2b0bbead11d14b9589897d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ZeST是zero-shot的材质迁移模型，本质上是ip-adapter+controlnet+inpaint算法的组合，只是在输入到inpaint的图生图的图上做了一些改动，包括对image+mask的改动</div>",
+            "url": "https://github.com/leeguandong/sd_webui_ZeST",
+            "title": "leeguandong/sd_webui_ZeST: ZeST是zero-shot的材质迁移模型，本质上是ip-adapter+controlnet+inpaint算法的组合，只是在输入到inpaint的图生图的图上做了一些改动，包括对image+mask的改动",
+            "date_modified": "2024-08-07T02:28:06.000Z",
+            "date_published": "2024-08-07T00:27:32.000Z",
+            "author": {
+                "name": "leeguandong",
+                "url": "https://github.com/leeguandong"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23144950?u=473c22c5f1064f725e2b0bbead11d14b9589897d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Instantid在stable diffusion webui上的插件，instantid是风格迁移和换脸，脸部id信息保留的很好的选择。</div>",
             "url": "https://github.com/leeguandong/sd_webui_instantid",
             "title": "leeguandong/sd_webui_instantid: Instantid在stable diffusion webui上的插件，instantid是风格迁移和换脸，脸部id信息保留的很好的选择。",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "Iniquitatis",
                 "url": "https://github.com/Iniquitatis"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34448969?u=6a31917fc4919633ccad373f1ed8fbbdc243d92a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI</div>",
-            "url": "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete",
-            "title": "DominikDoom/a1111-sd-webui-tagcomplete: Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI",
-            "date_modified": "2024-08-06T06:51:38.000Z",
-            "date_published": "2022-10-11T17:33:14.000Z",
-            "author": {
-                "name": "DominikDoom",
-                "url": "https://github.com/DominikDoom"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23422027?u=213287ce2ef8b72a93547dc07e09096074c044ab&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple library based on sd-webui-reactor implementation</div>",
-            "url": "https://github.com/mikecokina/reactor-lib",
-            "title": "mikecokina/reactor-lib: Simple library based on sd-webui-reactor implementation",
-            "date_modified": "2024-08-05T09:46:07.000Z",
-            "date_published": "2024-07-24T11:10:34.000Z",
-            "author": {
-                "name": "mikecokina",
-                "url": "https://github.com/mikecokina"
             }
         }
     ]
