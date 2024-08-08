@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91647110?u=f72e0218582bb769478a71863fd78a450784da69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ultra fast and lightweight neovim setup with just essential plugins</div>",
+            "url": "https://github.com/tryprncp/neovim",
+            "title": "tryprncp/neovim: Ultra fast and lightweight neovim setup with just essential plugins",
+            "date_modified": "2024-08-08T04:06:11.000Z",
+            "date_published": "2024-07-13T16:47:08.000Z",
+            "author": {
+                "name": "tryprncp",
+                "url": "https://github.com/tryprncp"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
+            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
+            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
+            "date_modified": "2024-08-08T03:55:04.000Z",
+            "date_published": "2023-07-13T06:54:44.000Z",
+            "author": {
+                "name": "polirritmico",
+                "url": "https://github.com/polirritmico"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98367120?u=72082ce54b6a501df5dad6b74f30bd7e7a65204b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An html renderer for neovim plugin UIs</div>",
+            "url": "https://github.com/CWood-sdf/banana.nvim",
+            "title": "CWood-sdf/banana.nvim: An html renderer for neovim plugin UIs",
+            "date_modified": "2024-08-08T03:44:30.000Z",
+            "date_published": "2024-02-03T20:36:39.000Z",
+            "author": {
+                "name": "CWood-sdf",
+                "url": "https://github.com/CWood-sdf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight &amp; high performance UI plugin for nvchad</div>",
+            "url": "https://github.com/NvChad/ui",
+            "title": "NvChad/ui: Lightweight & high performance UI plugin for nvchad",
+            "date_modified": "2024-08-08T03:36:57.000Z",
+            "date_published": "2022-07-14T10:20:35.000Z",
+            "author": {
+                "name": "NvChad",
+                "url": "https://github.com/NvChad"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
+            "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
+            "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
+            "date_modified": "2024-08-08T03:27:22.000Z",
+            "date_published": "2023-01-07T09:43:06.000Z",
+            "author": {
+                "name": "ca-mantis-shrimp",
+                "url": "https://github.com/ca-mantis-shrimp"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/68250?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Snippet plugin for Neovim written in Lua</div>",
             "url": "https://github.com/dcampos/nvim-snippy",
             "title": "dcampos/nvim-snippy: Snippet plugin for Neovim written in Lua",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "maths-lover",
                 "url": "https://github.com/maths-lover"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1003047?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to dynamically adjust the scrolloff setting</div>",
-            "url": "https://github.com/tonymajestro/smart-scrolloff.nvim",
-            "title": "tonymajestro/smart-scrolloff.nvim: Neovim plugin to dynamically adjust the scrolloff setting",
-            "date_modified": "2024-08-07T20:35:39.000Z",
-            "date_published": "2024-08-05T03:56:15.000Z",
-            "author": {
-                "name": "tonymajestro",
-                "url": "https://github.com/tonymajestro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177039172?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim surround plugin for editing multiple characters at once</div>",
-            "url": "https://github.com/cz875/multichar-surround.nvim",
-            "title": "cz875/multichar-surround.nvim: A simple Neovim surround plugin for editing multiple characters at once",
-            "date_modified": "2024-08-07T20:15:28.000Z",
-            "date_published": "2024-08-01T14:02:56.000Z",
-            "author": {
-                "name": "cz875",
-                "url": "https://github.com/cz875"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105074770?u=99031309c6a56775b3e21dfdebe9ac012301cf11&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal and opinionated neovim configuration. It's packed with few, but powerful plugins.</div>",
-            "url": "https://github.com/gabriel-salmoria/nvim",
-            "title": "gabriel-salmoria/nvim: My personal and opinionated neovim configuration. It's packed with few, but powerful plugins.",
-            "date_modified": "2024-08-07T20:03:57.000Z",
-            "date_published": "2024-08-07T18:41:46.000Z",
-            "author": {
-                "name": "gabriel-salmoria",
-                "url": "https://github.com/gabriel-salmoria"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-08-07T19:31:19.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
-            "url": "https://github.com/nvim-lualine/lualine.nvim",
-            "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
-            "date_modified": "2024-08-08T00:11:49.000Z",
-            "date_published": "2020-12-30T14:35:10.000Z",
-            "author": {
-                "name": "nvim-lualine",
-                "url": "https://github.com/nvim-lualine"
             }
         }
     ]
