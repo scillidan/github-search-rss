@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/101342105?u=d83eb94a87455ab03dc949683fddd938f5806ca8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for better interaction with the quickfixlist.</div>",
+            "url": "https://github.com/Axlefublr/qfetter.nvim",
+            "title": "Axlefublr/qfetter.nvim: Neovim plugin for better interaction with the quickfixlist.",
+            "date_modified": "2024-08-09T10:01:51.000Z",
+            "date_published": "2024-06-24T07:04:00.000Z",
+            "author": {
+                "name": "Axlefublr",
+                "url": "https://github.com/Axlefublr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58348396?u=b983f66861bce30bff3c24283563fb37c7eb450c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A todo app plugin written in lua for neovim</div>",
+            "url": "https://github.com/Bottle7/lua-nvim-todo",
+            "title": "Bottle7/lua-nvim-todo: A todo app plugin written in lua for neovim",
+            "date_modified": "2024-08-09T09:54:51.000Z",
+            "date_published": "2024-08-09T04:30:50.000Z",
+            "author": {
+                "name": "Bottle7",
+                "url": "https://github.com/Bottle7"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130372558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minimal neovim plugin management</div>",
+            "url": "https://github.com/nvimdev/minpm.nvim",
+            "title": "nvimdev/minpm.nvim: minimal neovim plugin management",
+            "date_modified": "2024-08-09T09:44:47.000Z",
+            "date_published": "2024-08-04T06:40:26.000Z",
+            "author": {
+                "name": "nvimdev",
+                "url": "https://github.com/nvimdev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-08-09T09:24:14.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-09T09:18:50.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
             "url": "https://github.com/ins0mniaque/sacrilege.nvim",
             "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
@@ -25,28 +80,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130372558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minimal neovim plugin management</div>",
-            "url": "https://github.com/nvimdev/minpm.nvim",
-            "title": "nvimdev/minpm.nvim: minimal neovim plugin management",
-            "date_modified": "2024-08-09T08:29:39.000Z",
-            "date_published": "2024-08-04T06:40:26.000Z",
-            "author": {
-                "name": "nvimdev",
-                "url": "https://github.com/nvimdev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58348396?u=b983f66861bce30bff3c24283563fb37c7eb450c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A todo app plugin written in lua for neovim</div>",
-            "url": "https://github.com/Bottle7/lua-nvim-todo",
-            "title": "Bottle7/lua-nvim-todo: A todo app plugin written in lua for neovim",
-            "date_modified": "2024-08-09T08:20:25.000Z",
-            "date_published": "2024-08-09T04:30:50.000Z",
-            "author": {
-                "name": "Bottle7",
-                "url": "https://github.com/Bottle7"
             }
         },
         {
@@ -83,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-09T07:19:21.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
             "url": "https://github.com/lervag/vimtex",
             "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
@@ -108,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
             "url": "https://github.com/AstroNvim/astrocommunity",
             "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-08-09T07:13:20.000Z",
+            "date_modified": "2024-08-09T09:37:08.000Z",
             "date_published": "2023-02-21T14:55:56.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -160,21 +182,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-08-09T05:23:08.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
             "url": "https://github.com/Robitx/gp.nvim",
             "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
-            "date_modified": "2024-08-09T09:05:39.000Z",
+            "date_modified": "2024-08-09T09:30:56.000Z",
             "date_published": "2023-06-18T13:55:46.000Z",
             "author": {
                 "name": "Robitx",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "nvimdev",
                 "url": "https://github.com/nvimdev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95718239?u=4d4b5475d175ebd042dc8d3b0d92f1db63333b25&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archivo de configuración de neovim. Plugins incluidos</div>",
-            "url": "https://github.com/JonnerPaz/nvim-config",
-            "title": "JonnerPaz/nvim-config: Archivo de configuración de neovim. Plugins incluidos",
-            "date_modified": "2024-08-09T02:54:20.000Z",
-            "date_published": "2022-08-04T18:02:15.000Z",
-            "author": {
-                "name": "JonnerPaz",
-                "url": "https://github.com/JonnerPaz"
             }
         }
     ]
