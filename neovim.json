@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
+            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
+            "date_modified": "2024-08-10T01:49:28.000Z",
+            "date_published": "2024-03-18T04:13:43.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-10T01:43:08.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
+            "url": "https://github.com/folke/neoconf.nvim",
+            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
+            "date_modified": "2024-08-10T01:29:27.000Z",
+            "date_published": "2022-09-07T16:15:13.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hot-reloading manager for neovim lua plugin development</div>",
+            "url": "https://github.com/notomo/lreload.nvim",
+            "title": "notomo/lreload.nvim: Hot-reloading manager for neovim lua plugin development",
+            "date_modified": "2024-08-10T00:48:27.000Z",
+            "date_published": "2021-02-07T02:23:01.000Z",
+            "author": {
+                "name": "notomo",
+                "url": "https://github.com/notomo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62602802?u=075df4f8928b8be82630b7fb5e394ce300022b18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin that open the link of current line on github</div>",
             "url": "https://github.com/ksaito422/remote-line.nvim",
             "title": "ksaito422/remote-line.nvim: neovim plugin that open the link of current line on github",
@@ -25,17 +69,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-10T00:29:09.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "kbmackenzie",
                 "url": "https://github.com/kbmackenzie"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95161388?u=a74e246651b4f0a92f824b691a6097abf0421c8c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin providing a small set of useful commands for working with Arduino</div>",
-            "url": "https://github.com/joseph0x45/arduinoo",
-            "title": "joseph0x45/arduinoo: Neovim plugin providing a small set of useful commands for working with Arduino",
-            "date_modified": "2024-08-09T19:57:11.000Z",
-            "date_published": "2024-08-09T10:00:50.000Z",
-            "author": {
-                "name": "joseph0x45",
-                "url": "https://github.com/joseph0x45"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
-            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
-            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
-            "date_modified": "2024-08-09T19:47:43.000Z",
-            "date_published": "2023-07-13T06:54:44.000Z",
-            "author": {
-                "name": "polirritmico",
-                "url": "https://github.com/polirritmico"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
-            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
-            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-08-09T19:43:50.000Z",
-            "date_published": "2024-03-18T04:13:43.000Z",
-            "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
             }
         }
     ]
