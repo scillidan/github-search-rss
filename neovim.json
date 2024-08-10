@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.</div>",
+            "url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim",
+            "title": "rachartier/tiny-inline-diagnostic.nvim: A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.",
+            "date_modified": "2024-08-10T12:54:06.000Z",
+            "date_published": "2024-06-29T14:13:21.000Z",
+            "author": {
+                "name": "rachartier",
+                "url": "https://github.com/rachartier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-10T12:20:05.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -18,9 +40,9 @@
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17304947?u=76de2f3c142f4a899eb484060a9bc9a526724ca3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Lua plugin to add multplex navigation to NeoVim. Compatible with Tmux and Zellij</div>",
-            "url": "https://github.com/Danielwsx64/multiplex-nav.nvim",
-            "title": "Danielwsx64/multiplex-nav.nvim: A Lua plugin to add multplex navigation to NeoVim. Compatible with Tmux and Zellij",
-            "date_modified": "2024-08-10T12:04:55.000Z",
+            "url": "https://github.com/Danielwsx64/multiplex.nvim",
+            "title": "Danielwsx64/multiplex.nvim: A Lua plugin to add multplex navigation to NeoVim. Compatible with Tmux and Zellij",
+            "date_modified": "2024-08-10T12:30:45.000Z",
             "date_published": "2024-08-10T12:04:51.000Z",
             "author": {
                 "name": "Danielwsx64",
@@ -47,17 +69,6 @@
             "author": {
                 "name": "isakbm",
                 "url": "https://github.com/isakbm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-10T11:17:34.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -207,22 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-08-10T07:04:17.000Z",
+            "date_modified": "2024-08-10T12:52:45.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14884849?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for diff-ing two directories, written in Rust.</div>",
-            "url": "https://github.com/jayong93/diffdirs.nvim",
-            "title": "jayong93/diffdirs.nvim: Neovim plugin for diff-ing two directories, written in Rust.",
-            "date_modified": "2024-08-10T06:05:12.000Z",
-            "date_published": "2024-07-23T14:22:40.000Z",
-            "author": {
-                "name": "jayong93",
-                "url": "https://github.com/jayong93"
             }
         }
     ]
