@@ -6,14 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-08-10T06:12:37.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14884849?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for diff-ing two directories, written in Rust.</div>",
+            "url": "https://github.com/jayong93/diffdirs.nvim",
+            "title": "jayong93/diffdirs.nvim: Neovim plugin for diff-ing two directories, written in Rust.",
+            "date_modified": "2024-08-10T06:05:12.000Z",
+            "date_published": "2024-07-23T14:22:40.000Z",
+            "author": {
+                "name": "jayong93",
+                "url": "https://github.com/jayong93"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44644302?u=3747d371d96673ef19733056ede2ed7dc24e7b37&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal config files for linux. (zsh, neovim, rofi, shortcuts, functions, aliases, plugins &amp; more)</div>",
+            "url": "https://github.com/r3vskd/zsh_configuration",
+            "title": "r3vskd/zsh_configuration: My personal config files for linux. (zsh, neovim, rofi, shortcuts, functions, aliases, plugins & more)",
+            "date_modified": "2024-08-10T06:03:27.000Z",
+            "date_published": "2024-08-10T05:51:45.000Z",
+            "author": {
+                "name": "r3vskd",
+                "url": "https://github.com/r3vskd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71162231?u=d5f213ce7bcea93780c63246913ab4f129dc8728&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to elevate markdown footnote editing experiences</div>",
             "url": "https://github.com/chenxin-yan/footnote.nvim",
             "title": "chenxin-yan/footnote.nvim: A neovim plugin to elevate markdown footnote editing experiences",
-            "date_modified": "2024-08-10T04:55:26.000Z",
+            "date_modified": "2024-08-10T05:23:39.000Z",
             "date_published": "2024-08-05T05:37:29.000Z",
             "author": {
                 "name": "chenxin-yan",
                 "url": "https://github.com/chenxin-yan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-08-10T05:19:17.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -36,6 +80,17 @@
             "author": {
                 "name": "BrunoCiccarino",
                 "url": "https://github.com/BrunoCiccarino"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69250723?u=1a5fec3d222c3fc3cac306c5794c569c52292477&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin enabling you to solve LeetCode problems.</div>",
+            "url": "https://github.com/kawre/leetcode.nvim",
+            "title": "kawre/leetcode.nvim: A Neovim plugin enabling you to solve LeetCode problems.",
+            "date_modified": "2024-08-10T06:07:53.000Z",
+            "date_published": "2023-09-16T11:25:17.000Z",
+            "author": {
+                "name": "kawre",
+                "url": "https://github.com/kawre"
             }
         },
         {
@@ -80,17 +135,6 @@
             "author": {
                 "name": "WhoIsSethDaniel",
                 "url": "https://github.com/WhoIsSethDaniel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-08-10T02:02:27.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "adamkali",
                 "url": "https://github.com/adamkali"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1324601?u=2465d6619f67aec51a1c90f404135b611e1fd003&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GPTModels - a multi model, window based LLM AI plugin for neovim, with an emphasis on stability and clean code</div>",
-            "url": "https://github.com/Aaronik/GPTModels.nvim",
-            "title": "Aaronik/GPTModels.nvim: GPTModels - a multi model, window based LLM AI plugin for neovim, with an emphasis on stability and clean code",
-            "date_modified": "2024-08-09T21:54:27.000Z",
-            "date_published": "2024-03-26T19:57:22.000Z",
-            "author": {
-                "name": "Aaronik",
-                "url": "https://github.com/Aaronik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15816726?u=902cd00a563151acf2f2724ca96eaf88aa5fa2e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Overloaded ; and , keys in Neovim</div>",
-            "url": "https://github.com/mawkler/demicolon.nvim",
-            "title": "mawkler/demicolon.nvim: Overloaded ; and , keys in Neovim",
-            "date_modified": "2024-08-10T04:35:31.000Z",
-            "date_published": "2024-08-06T20:41:10.000Z",
-            "author": {
-                "name": "mawkler",
-                "url": "https://github.com/mawkler"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/97324991?u=ec27bc5bc8438903d367d24ce92b8948dd0be6c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple scrap paper plugin for neovim.</div>",
-            "url": "https://github.com/tr1ptychs/scrap.nvim",
-            "title": "tr1ptychs/scrap.nvim: Simple scrap paper plugin for neovim.",
-            "date_modified": "2024-08-09T21:44:27.000Z",
-            "date_published": "2024-08-09T20:58:53.000Z",
-            "author": {
-                "name": "tr1ptychs",
-                "url": "https://github.com/tr1ptychs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
-            "url": "https://github.com/Robitx/gp.nvim",
-            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
-            "date_modified": "2024-08-09T20:38:04.000Z",
-            "date_published": "2023-06-18T13:55:46.000Z",
-            "author": {
-                "name": "Robitx",
-                "url": "https://github.com/Robitx"
             }
         }
     ]
