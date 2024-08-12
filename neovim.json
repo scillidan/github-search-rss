@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22773355?u=31787923a75dc992af53a2806c02b355122540b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lsp Plugin for working with Python virtual environments</div>",
+            "url": "https://github.com/HallerPatrick/py_lsp.nvim",
+            "title": "HallerPatrick/py_lsp.nvim: Lsp Plugin for working with Python virtual environments",
+            "date_modified": "2024-08-12T08:09:54.000Z",
+            "date_published": "2021-07-10T21:45:34.000Z",
+            "author": {
+                "name": "HallerPatrick",
+                "url": "https://github.com/HallerPatrick"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34334226?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for KACTL</div>",
+            "url": "https://github.com/DedsecKnight/dactl.nvim",
+            "title": "DedsecKnight/dactl.nvim: Neovim plugin for KACTL",
+            "date_modified": "2024-08-12T08:06:12.000Z",
+            "date_published": "2024-08-10T21:40:09.000Z",
+            "author": {
+                "name": "DedsecKnight",
+                "url": "https://github.com/DedsecKnight"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
+            "url": "https://github.com/rockerBOO/awesome-neovim",
+            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
+            "date_modified": "2024-08-12T07:41:46.000Z",
+            "date_published": "2020-09-18T18:40:59.000Z",
+            "author": {
+                "name": "rockerBOO",
+                "url": "https://github.com/rockerBOO"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15816726?u=902cd00a563151acf2f2724ca96eaf88aa5fa2e8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Overloaded ; and , keys in Neovim</div>",
+            "url": "https://github.com/mawkler/demicolon.nvim",
+            "title": "mawkler/demicolon.nvim: Overloaded ; and , keys in Neovim",
+            "date_modified": "2024-08-12T07:40:51.000Z",
+            "date_published": "2024-08-06T20:41:10.000Z",
+            "author": {
+                "name": "mawkler",
+                "url": "https://github.com/mawkler"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8770486?u=6b132dea3a2fe32043a601c0ee4c661c2be52359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua</div>",
+            "url": "https://github.com/MoaidHathot/dotnet.nvim",
+            "title": "MoaidHathot/dotnet.nvim: Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua",
+            "date_modified": "2024-08-12T07:35:26.000Z",
+            "date_published": "2023-09-23T21:19:38.000Z",
+            "author": {
+                "name": "MoaidHathot",
+                "url": "https://github.com/MoaidHathot"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
             "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
             "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-12T06:20:38.000Z",
+            "date_modified": "2024-08-12T07:19:33.000Z",
             "date_published": "2024-05-26T17:25:07.000Z",
             "author": {
                 "name": "zachcoyle",
@@ -31,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
             "url": "https://github.com/mikavilpas/yazi.nvim",
             "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2024-08-12T06:05:34.000Z",
+            "date_modified": "2024-08-12T08:00:32.000Z",
             "date_published": "2024-02-25T13:33:19.000Z",
             "author": {
                 "name": "mikavilpas",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "javiorfo",
                 "url": "https://github.com/javiorfo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9dd091182ae2d5da0a74db71300a00913212b737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin based on Spring Initializr</div>",
-            "url": "https://github.com/javiorfo/nvim-springtime",
-            "title": "javiorfo/nvim-springtime: Neovim plugin based on Spring Initializr",
-            "date_modified": "2024-08-12T03:14:20.000Z",
-            "date_published": "2023-02-02T02:13:33.000Z",
-            "author": {
-                "name": "javiorfo",
-                "url": "https://github.com/javiorfo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9dd091182ae2d5da0a74db71300a00913212b737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for calling APIs (REST and GraphQL)  written in Lua</div>",
-            "url": "https://github.com/javiorfo/nvim-ship",
-            "title": "javiorfo/nvim-ship: Neovim plugin for calling APIs (REST and GraphQL)  written in Lua",
-            "date_modified": "2024-08-12T03:12:17.000Z",
-            "date_published": "2023-02-02T02:24:49.000Z",
-            "author": {
-                "name": "javiorfo",
-                "url": "https://github.com/javiorfo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9dd091182ae2d5da0a74db71300a00913212b737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for running a main or script in several languages</div>",
-            "url": "https://github.com/javiorfo/nvim-fuel",
-            "title": "javiorfo/nvim-fuel: Neovim plugin written in Lua for running a main or script in several languages",
-            "date_modified": "2024-08-12T03:11:19.000Z",
-            "date_published": "2023-02-02T02:20:37.000Z",
-            "author": {
-                "name": "javiorfo",
-                "url": "https://github.com/javiorfo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62602802?u=075df4f8928b8be82630b7fb5e394ce300022b18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin that open the link of current line on github</div>",
-            "url": "https://github.com/ksaito422/remote-line.nvim",
-            "title": "ksaito422/remote-line.nvim: neovim plugin that open the link of current line on github",
-            "date_modified": "2024-08-12T01:53:03.000Z",
-            "date_published": "2024-07-04T23:28:39.000Z",
-            "author": {
-                "name": "ksaito422",
-                "url": "https://github.com/ksaito422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25948785?u=924d39677e2f27b508e200466c58a3ca19f73b0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for managing Todoist through Neovim using a more vim-like syntax</div>",
-            "url": "https://github.com/ca-mantis-shrimp/Todoist.nvim",
-            "title": "ca-mantis-shrimp/Todoist.nvim: Plugin for managing Todoist through Neovim using a more vim-like syntax",
-            "date_modified": "2024-08-12T01:35:14.000Z",
-            "date_published": "2023-01-07T09:43:06.000Z",
-            "author": {
-                "name": "ca-mantis-shrimp",
-                "url": "https://github.com/ca-mantis-shrimp"
             }
         }
     ]
