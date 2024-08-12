@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56882049?u=3a13ba1cdeccee36fce68d51c5da2fd500479aa7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for clean up default keymap but leave essentials</div>",
+            "url": "https://github.com/iceice666/pruner.nvim",
+            "title": "iceice666/pruner.nvim: A neovim plugin for clean up default keymap but leave essentials",
+            "date_modified": "2024-08-12T16:50:28.000Z",
+            "date_published": "2024-08-12T16:50:28.000Z",
+            "author": {
+                "name": "iceice666",
+                "url": "https://github.com/iceice666"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs",
+            "date_modified": "2024-08-12T16:36:08.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for locking a buffer to a window</div>",
+            "url": "https://github.com/stevearc/stickybuf.nvim",
+            "title": "stevearc/stickybuf.nvim: Neovim plugin for locking a buffer to a window",
+            "date_modified": "2024-08-12T16:22:17.000Z",
+            "date_published": "2021-07-06T20:29:00.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
+            "url": "https://github.com/stevearc/aerial.nvim",
+            "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
+            "date_modified": "2024-08-12T16:21:51.000Z",
+            "date_published": "2020-09-19T22:59:49.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26107760?u=8db546f0a0f07cb9028e080007ea66d8ea42a475&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A statusline/tabline/bufline local plugin for Neovim. Inspired by suckless.</div>",
             "url": "https://github.com/JohanChane/mykissline.nvim",
             "title": "JohanChane/mykissline.nvim: A statusline/tabline/bufline local plugin for Neovim. Inspired by suckless.",
@@ -108,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92503039?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</div>",
             "url": "https://github.com/nvim-lualine/lualine.nvim",
             "title": "nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
-            "date_modified": "2024-08-12T14:39:27.000Z",
+            "date_modified": "2024-08-12T16:41:32.000Z",
             "date_published": "2020-12-30T14:35:10.000Z",
             "author": {
                 "name": "nvim-lualine",
@@ -124,17 +168,6 @@
             "author": {
                 "name": "catgoose",
                 "url": "https://github.com/catgoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs",
-            "date_modified": "2024-08-12T15:12:21.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "MeanderingProgrammer",
                 "url": "https://github.com/MeanderingProgrammer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159702116?u=a274db247ffe79c3f9cda3b6652e06c81a696842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for prompting Anthropic LLM's into the current buffer.</div>",
-            "url": "https://github.com/S41G0N/prompt-assistant",
-            "title": "S41G0N/prompt-assistant: Neovim plugin for prompting Anthropic LLM's into the current buffer.",
-            "date_modified": "2024-08-12T11:45:07.000Z",
-            "date_published": "2024-07-20T17:33:16.000Z",
-            "author": {
-                "name": "S41G0N",
-                "url": "https://github.com/S41G0N"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.</div>",
-            "url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim",
-            "title": "rachartier/tiny-inline-diagnostic.nvim: A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.",
-            "date_modified": "2024-08-12T11:38:04.000Z",
-            "date_published": "2024-06-29T14:13:21.000Z",
-            "author": {
-                "name": "rachartier",
-                "url": "https://github.com/rachartier"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47992493?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim plugin to manage and use templates</div>",
-            "url": "https://github.com/MyLittlePenguin/teaplate",
-            "title": "MyLittlePenguin/teaplate: A simple Neovim plugin to manage and use templates",
-            "date_modified": "2024-08-12T10:07:50.000Z",
-            "date_published": "2024-07-08T19:49:15.000Z",
-            "author": {
-                "name": "MyLittlePenguin",
-                "url": "https://github.com/MyLittlePenguin"
             }
         }
     ]
