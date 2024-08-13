@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31581514?u=f409cfdd55ee5850005244e9d05a9a2242d745ba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for switching, previewing, and saving color schemes.</div>",
+            "url": "https://github.com/liiuhaao/colorswitch.nvim",
+            "title": "liiuhaao/colorswitch.nvim: A Neovim plugin for switching, previewing, and saving color schemes.",
+            "date_modified": "2024-08-13T20:01:33.000Z",
+            "date_published": "2024-08-13T18:50:39.000Z",
+            "author": {
+                "name": "liiuhaao",
+                "url": "https://github.com/liiuhaao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121890473?u=16919de4c387aef8576cd5b01cdb7ebe39eda16c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim config directory with plugins</div>",
+            "url": "https://github.com/kolbbond/nvim-config",
+            "title": "kolbbond/nvim-config: neovim config directory with plugins",
+            "date_modified": "2024-08-13T19:57:40.000Z",
+            "date_published": "2024-03-22T14:45:17.000Z",
+            "author": {
+                "name": "kolbbond",
+                "url": "https://github.com/kolbbond"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-08-13T16:04:26.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-13T19:19:09.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122473329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extensions for OxygeNvim</div>",
+            "url": "https://github.com/OxygeNvim/extensions",
+            "title": "OxygeNvim/extensions: Extensions for OxygeNvim",
+            "date_modified": "2024-08-13T19:15:55.000Z",
+            "date_published": "2023-03-09T18:48:56.000Z",
+            "author": {
+                "name": "OxygeNvim",
+                "url": "https://github.com/OxygeNvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1423607?u=a736aab5a9d4a7543079c64450cd4d1c25417a75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The neovim tabline plugin.</div>",
+            "url": "https://github.com/romgrk/barbar.nvim",
+            "title": "romgrk/barbar.nvim: The neovim tabline plugin.",
+            "date_modified": "2024-08-13T19:14:12.000Z",
+            "date_published": "2020-10-22T10:32:07.000Z",
+            "author": {
+                "name": "romgrk",
+                "url": "https://github.com/romgrk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177695206?u=f05ea07e3b178cc4d85e8060a4103adb270d45b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>jumplist plugin for neovim</div>",
+            "url": "https://github.com/Rex-Sanchez/jumplist.nvim",
+            "title": "Rex-Sanchez/jumplist.nvim: jumplist plugin for neovim",
+            "date_modified": "2024-08-13T19:11:53.000Z",
+            "date_published": "2024-08-13T18:24:22.000Z",
+            "author": {
+                "name": "Rex-Sanchez",
+                "url": "https://github.com/Rex-Sanchez"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71162231?u=d5f213ce7bcea93780c63246913ab4f129dc8728&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that makes working with markdown footnote easier</div>",
             "url": "https://github.com/chenxin-yan/footnote.nvim",
             "title": "chenxin-yan/footnote.nvim: A neovim plugin that makes working with markdown footnote easier",
@@ -14,17 +91,6 @@
             "author": {
                 "name": "chenxin-yan",
                 "url": "https://github.com/chenxin-yan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177695206?u=f05ea07e3b178cc4d85e8060a4103adb270d45b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>jumplist plugin for neovim</div>",
-            "url": "https://github.com/Rex-Sanchez/jumplist.nvim",
-            "title": "Rex-Sanchez/jumplist.nvim: jumplist plugin for neovim",
-            "date_modified": "2024-08-13T18:56:39.000Z",
-            "date_published": "2024-08-13T18:24:22.000Z",
-            "author": {
-                "name": "Rex-Sanchez",
-                "url": "https://github.com/Rex-Sanchez"
             }
         },
         {
@@ -47,17 +113,6 @@
             "author": {
                 "name": "Isrothy",
                 "url": "https://github.com/Isrothy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-13T18:19:32.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "rachartier",
                 "url": "https://github.com/rachartier"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
-            "url": "https://github.com/yongleyuan/nvim-config",
-            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
-            "date_modified": "2024-08-13T14:26:35.000Z",
-            "date_published": "2024-06-18T01:55:38.000Z",
-            "author": {
-                "name": "yongleyuan",
-                "url": "https://github.com/yongleyuan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83115125?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My first neovim plugin</div>",
-            "url": "https://github.com/ic-768/quick-files",
-            "title": "ic-768/quick-files: My first neovim plugin",
-            "date_modified": "2024-08-13T14:10:45.000Z",
-            "date_published": "2024-08-05T16:42:48.000Z",
-            "author": {
-                "name": "ic-768",
-                "url": "https://github.com/ic-768"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76894615?u=ec6071621862fad8c3507650af2daa6cc749d8cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.</div>",
-            "url": "https://github.com/HCY-ASLEEP/NVIM-Config",
-            "title": "HCY-ASLEEP/NVIM-Config: Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.",
-            "date_modified": "2024-08-13T12:53:21.000Z",
-            "date_published": "2022-11-09T13:44:16.000Z",
-            "author": {
-                "name": "HCY-ASLEEP",
-                "url": "https://github.com/HCY-ASLEEP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9371020?u=4855891347d4f0466f1d2244e800b83afa06457f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Unofficial Zilog Z80 Assembly Documentation</div>",
-            "url": "https://github.com/ericnantel/vim-z80-docs",
-            "title": "ericnantel/vim-z80-docs: Unofficial Zilog Z80 Assembly Documentation",
-            "date_modified": "2024-08-13T12:53:11.000Z",
-            "date_published": "2024-08-10T03:46:38.000Z",
-            "author": {
-                "name": "ericnantel",
-                "url": "https://github.com/ericnantel"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53029771?u=82b5090f810e47d0950f47cf10ea4cacaca85df0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim setup configured with Lua and a bunch of plugins.</div>",
-            "url": "https://github.com/tuffgniuz/nvim.lua",
-            "title": "tuffgniuz/nvim.lua: My neovim setup configured with Lua and a bunch of plugins.",
-            "date_modified": "2024-08-13T12:42:20.000Z",
-            "date_published": "2021-12-12T10:26:46.000Z",
-            "author": {
-                "name": "tuffgniuz",
-                "url": "https://github.com/tuffgniuz"
             }
         }
     ]
