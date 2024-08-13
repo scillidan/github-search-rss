@@ -6,25 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31581514?u=f409cfdd55ee5850005244e9d05a9a2242d745ba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for switching, previewing, and saving color schemes.</div>",
-            "url": "https://github.com/liiuhaao/colorswitch.nvim",
-            "title": "liiuhaao/colorswitch.nvim: A Neovim plugin for switching, previewing, and saving color schemes.",
-            "date_modified": "2024-08-13T20:01:33.000Z",
-            "date_published": "2024-08-13T18:50:39.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108037606?u=634a02ce88ff1f53f636e9c1327d11b5033b6d01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal, contrast-based, dark &amp; light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
+            "url": "https://github.com/ccxnu/rosebones",
+            "title": "ccxnu/rosebones: A minimal, contrast-based, dark & light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
+            "date_modified": "2024-08-13T20:55:50.000Z",
+            "date_published": "2024-03-01T06:15:30.000Z",
             "author": {
-                "name": "liiuhaao",
-                "url": "https://github.com/liiuhaao"
+                "name": "ccxnu",
+                "url": "https://github.com/ccxnu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
+            "url": "https://github.com/Isrothy/neominimap.nvim",
+            "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
+            "date_modified": "2024-08-13T20:55:24.000Z",
+            "date_published": "2024-06-24T13:52:02.000Z",
+            "author": {
+                "name": "Isrothy",
+                "url": "https://github.com/Isrothy"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-08-13T20:47:23.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121890473?u=16919de4c387aef8576cd5b01cdb7ebe39eda16c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim config directory with plugins</div>",
             "url": "https://github.com/kolbbond/nvim-config",
             "title": "kolbbond/nvim-config: neovim config directory with plugins",
-            "date_modified": "2024-08-13T19:57:40.000Z",
+            "date_modified": "2024-08-13T20:22:26.000Z",
             "date_published": "2024-03-22T14:45:17.000Z",
             "author": {
                 "name": "kolbbond",
                 "url": "https://github.com/kolbbond"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-13T20:18:59.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -36,17 +69,6 @@
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-13T19:19:09.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -102,17 +124,6 @@
             "author": {
                 "name": "mikavilpas",
                 "url": "https://github.com/mikavilpas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
-            "url": "https://github.com/Isrothy/neominimap.nvim",
-            "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
-            "date_modified": "2024-08-13T18:31:04.000Z",
-            "date_published": "2024-06-24T13:52:02.000Z",
-            "author": {
-                "name": "Isrothy",
-                "url": "https://github.com/Isrothy"
             }
         },
         {
@@ -201,17 +212,6 @@
             "author": {
                 "name": "SunnyTamang",
                 "url": "https://github.com/SunnyTamang"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-08-13T16:48:59.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
             }
         },
         {
