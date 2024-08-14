@@ -6,10 +6,21 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177039172?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim surround plugin for editing multiple characters at once</div>",
+            "url": "https://github.com/cz875/multichar-surround.nvim",
+            "title": "cz875/multichar-surround.nvim: A simple Neovim surround plugin for editing multiple characters at once",
+            "date_modified": "2024-08-14T17:53:45.000Z",
+            "date_published": "2024-08-01T14:02:56.000Z",
+            "author": {
+                "name": "cz875",
+                "url": "https://github.com/cz875"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1206493?u=14e88bb74a6088c623eb014da9dabb36d6723584&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>[Alpha] avante.nvim is a Neovim plugin designed to emulate the behavior of the Cursor AI IDE</div>",
             "url": "https://github.com/yetone/avante.nvim",
             "title": "yetone/avante.nvim: [Alpha] avante.nvim is a Neovim plugin designed to emulate the behavior of the Cursor AI IDE",
-            "date_modified": "2024-08-14T17:08:04.000Z",
+            "date_modified": "2024-08-14T17:45:49.000Z",
             "date_published": "2024-08-14T16:45:16.000Z",
             "author": {
                 "name": "yetone",
@@ -17,14 +28,69 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47204120?u=5fb366cc66bc119e3bda023dbcaf0973ba835efb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Perform telescope functions in a selected directory</div>",
+            "url": "https://github.com/princejoogie/dir-telescope.nvim",
+            "title": "princejoogie/dir-telescope.nvim: Perform telescope functions in a selected directory",
+            "date_modified": "2024-08-14T17:28:21.000Z",
+            "date_published": "2022-10-19T08:23:45.000Z",
+            "author": {
+                "name": "princejoogie",
+                "url": "https://github.com/princejoogie"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-08-14T17:25:42.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-08-14T17:23:58.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
             "url": "https://github.com/killitar/obscure.nvim",
             "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
-            "date_modified": "2024-08-14T16:55:27.000Z",
+            "date_modified": "2024-08-14T17:19:16.000Z",
             "date_published": "2024-07-21T11:56:28.000Z",
             "author": {
                 "name": "killitar",
                 "url": "https://github.com/killitar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-14T17:17:58.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
+            "date_modified": "2024-08-14T17:12:10.000Z",
+            "date_published": "2024-05-04T09:33:14.000Z",
+            "author": {
+                "name": "lima1909",
+                "url": "https://github.com/lima1909"
             }
         },
         {
@@ -36,17 +102,6 @@
             "author": {
                 "name": "Legrems",
                 "url": "https://github.com/Legrems"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-14T16:19:48.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -138,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-08-14T13:28:06.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
             "url": "https://github.com/R-nvim/R.nvim",
             "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "kitagry",
                 "url": "https://github.com/kitagry"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83115125?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My first neovim plugin. Like harpoon, but global!</div>",
-            "url": "https://github.com/ic-768/quick-files",
-            "title": "ic-768/quick-files: My first neovim plugin. Like harpoon, but global!",
-            "date_modified": "2024-08-14T11:45:19.000Z",
-            "date_published": "2024-08-05T16:42:48.000Z",
-            "author": {
-                "name": "ic-768",
-                "url": "https://github.com/ic-768"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32909388?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vitest adapter for Neovim Neotest plugin</div>",
-            "url": "https://github.com/marilari88/neotest-vitest",
-            "title": "marilari88/neotest-vitest: Vitest adapter for Neovim Neotest plugin",
-            "date_modified": "2024-08-14T14:46:39.000Z",
-            "date_published": "2022-08-20T15:30:29.000Z",
-            "author": {
-                "name": "marilari88",
-                "url": "https://github.com/marilari88"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35730763?u=fb87d9a606a5827f80a75fc2c869223eb042995f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Install neovim with plugins for puppet development</div>",
-            "url": "https://github.com/c8m6/ansible-role_vim",
-            "title": "c8m6/ansible-role_vim: Install neovim with plugins for puppet development",
-            "date_modified": "2024-08-14T11:28:50.000Z",
-            "date_published": "2018-04-05T17:01:02.000Z",
-            "author": {
-                "name": "c8m6",
-                "url": "https://github.com/c8m6"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
-            "url": "https://github.com/ins0mniaque/sacrilege.nvim",
-            "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
-            "date_modified": "2024-08-14T10:19:04.000Z",
-            "date_published": "2024-07-23T20:51:49.000Z",
-            "author": {
-                "name": "ins0mniaque",
-                "url": "https://github.com/ins0mniaque"
             }
         }
     ]
