@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal neovim setup with 180+ plugins.</div>",
+            "url": "https://github.com/ray-x/nvim",
+            "title": "ray-x/nvim: Personal neovim setup with 180+ plugins.",
+            "date_modified": "2024-08-15T03:57:39.000Z",
+            "date_published": "2021-05-09T02:29:53.000Z",
+            "author": {
+                "name": "ray-x",
+                "url": "https://github.com/ray-x"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89324687?u=bd2dcefb934b6c72314b95c81d6863c5029bf0ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turn Neovim into an AI code editor</div>",
+            "url": "https://github.com/evanmcneely/enlighten.nvim",
+            "title": "evanmcneely/enlighten.nvim: Turn Neovim into an AI code editor",
+            "date_modified": "2024-08-15T03:54:24.000Z",
+            "date_published": "2024-07-21T17:26:06.000Z",
+            "author": {
+                "name": "evanmcneely",
+                "url": "https://github.com/evanmcneely"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
+            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
+            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
+            "date_modified": "2024-08-15T03:32:42.000Z",
+            "date_published": "2023-07-13T06:54:44.000Z",
+            "author": {
+                "name": "polirritmico",
+                "url": "https://github.com/polirritmico"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-15T03:18:43.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7420227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git source for nvim-cmp</div>",
             "url": "https://github.com/petertriho/cmp-git",
             "title": "petertriho/cmp-git: Git source for nvim-cmp",
@@ -36,17 +80,6 @@
             "author": {
                 "name": "ins0mniaque",
                 "url": "https://github.com/ins0mniaque"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-15T02:26:33.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "inkurey-22",
                 "url": "https://github.com/inkurey-22"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1917113?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for tree-sitter-asciidoc grammar</div>",
-            "url": "https://github.com/cpkio/nvim-treesitter-asciidoc",
-            "title": "cpkio/nvim-treesitter-asciidoc: Neovim plugin for tree-sitter-asciidoc grammar",
-            "date_modified": "2024-08-14T20:39:36.000Z",
-            "date_published": "2024-08-14T20:39:24.000Z",
-            "author": {
-                "name": "cpkio",
-                "url": "https://github.com/cpkio"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14262306?u=b98e876c8a44b8a69b53c1030d711061b1d0f0f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Directory browser plugin for Neovim, inspired by Ranger</div>",
-            "url": "https://github.com/simonmclean/triptych.nvim",
-            "title": "simonmclean/triptych.nvim: Directory browser plugin for Neovim, inspired by Ranger",
-            "date_modified": "2024-08-14T23:51:48.000Z",
-            "date_published": "2023-07-09T22:13:36.000Z",
-            "author": {
-                "name": "simonmclean",
-                "url": "https://github.com/simonmclean"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
-            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
-            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-08-15T01:53:33.000Z",
-            "date_published": "2024-03-18T04:13:43.000Z",
-            "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
             }
         }
     ]
