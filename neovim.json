@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48618675?u=0935aab697e014dcf7a74ff502beca9fb093ebbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to display lsp hover documentation in a side panel.</div>",
+            "url": "https://github.com/amrbashir/nvim-docs-view",
+            "title": "amrbashir/nvim-docs-view: A neovim plugin to display lsp hover documentation in a side panel.",
+            "date_modified": "2024-08-16T04:08:50.000Z",
+            "date_published": "2022-05-13T15:43:29.000Z",
+            "author": {
+                "name": "amrbashir",
+                "url": "https://github.com/amrbashir"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89324687?u=bd2dcefb934b6c72314b95c81d6863c5029bf0ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turn Neovim into an AI code editor</div>",
+            "url": "https://github.com/evanmcneely/enlighten.nvim",
+            "title": "evanmcneely/enlighten.nvim: Turn Neovim into an AI code editor",
+            "date_modified": "2024-08-16T04:08:28.000Z",
+            "date_published": "2024-07-21T17:26:06.000Z",
+            "author": {
+                "name": "evanmcneely",
+                "url": "https://github.com/evanmcneely"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149238?u=1449eae7884be9567a5b1103a42c0bfe3bb805b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A theme, config and collection of plugins for Neovim</div>",
+            "url": "https://github.com/prurigro/darkcloud-nvimconfig",
+            "title": "prurigro/darkcloud-nvimconfig: A theme, config and collection of plugins for Neovim",
+            "date_modified": "2024-08-16T03:54:50.000Z",
+            "date_published": "2024-03-02T03:22:29.000Z",
+            "author": {
+                "name": "prurigro",
+                "url": "https://github.com/prurigro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8770486?u=6b132dea3a2fe32043a601c0ee4c661c2be52359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua</div>",
+            "url": "https://github.com/MoaidHathot/dotnet.nvim",
+            "title": "MoaidHathot/dotnet.nvim: Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua",
+            "date_modified": "2024-08-16T03:57:02.000Z",
+            "date_published": "2023-09-23T21:19:38.000Z",
+            "author": {
+                "name": "MoaidHathot",
+                "url": "https://github.com/MoaidHathot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16932133?u=0166a268670d5088d6a4b4a5e94c9dcc7fa139e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lua part of plugin vim-eft, highlight character(s) in line when press keyboard f t F T</div>",
+            "url": "https://github.com/0x00-ketsu/eft.nvim",
+            "title": "0x00-ketsu/eft.nvim: Lua part of plugin vim-eft, highlight character(s) in line when press keyboard f t F T",
+            "date_modified": "2024-08-16T03:45:21.000Z",
+            "date_published": "2023-01-29T08:59:52.000Z",
+            "author": {
+                "name": "0x00-ketsu",
+                "url": "https://github.com/0x00-ketsu"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/167130209?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>configuracion de neovim con LSP, autocompletado y plugins basicos</div>",
             "url": "https://github.com/juligaleanop/neovim-config",
             "title": "juligaleanop/neovim-config: configuracion de neovim con LSP, autocompletado y plugins basicos",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "saecki",
                 "url": "https://github.com/saecki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123123188?u=892317acbca335a9483855a7adfd537ff7d9d8ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My new personal NeoVim config, which uses the Lazy package manager for vim plugins. It is heavily inspired by ThePrimeagen's config.</div>",
-            "url": "https://github.com/RogerDewald/LazyNeovimConfig",
-            "title": "RogerDewald/LazyNeovimConfig: My new personal NeoVim config, which uses the Lazy package manager for vim plugins. It is heavily inspired by ThePrimeagen's config.",
-            "date_modified": "2024-08-15T23:11:41.000Z",
-            "date_published": "2024-04-22T04:38:46.000Z",
-            "author": {
-                "name": "RogerDewald",
-                "url": "https://github.com/RogerDewald"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=972e3aec2962b5a72c50e1c36c7bc63d54d93c57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to live preview lsp renames</div>",
-            "url": "https://github.com/saecki/live-rename.nvim",
-            "title": "saecki/live-rename.nvim: A neovim plugin to live preview lsp renames",
-            "date_modified": "2024-08-15T23:05:17.000Z",
-            "date_published": "2024-08-11T10:23:22.000Z",
-            "author": {
-                "name": "saecki",
-                "url": "https://github.com/saecki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
-            "url": "https://github.com/mikavilpas/yazi.nvim",
-            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2024-08-15T23:24:00.000Z",
-            "date_published": "2024-02-25T13:33:19.000Z",
-            "author": {
-                "name": "mikavilpas",
-                "url": "https://github.com/mikavilpas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32909388?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vitest adapter for Neovim Neotest plugin</div>",
-            "url": "https://github.com/marilari88/neotest-vitest",
-            "title": "marilari88/neotest-vitest: Vitest adapter for Neovim Neotest plugin",
-            "date_modified": "2024-08-15T22:08:02.000Z",
-            "date_published": "2022-08-20T15:30:29.000Z",
-            "author": {
-                "name": "marilari88",
-                "url": "https://github.com/marilari88"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8770486?u=6b132dea3a2fe32043a601c0ee4c661c2be52359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua</div>",
-            "url": "https://github.com/MoaidHathot/dotnet.nvim",
-            "title": "MoaidHathot/dotnet.nvim: Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua",
-            "date_modified": "2024-08-16T02:44:35.000Z",
-            "date_published": "2023-09-23T21:19:38.000Z",
-            "author": {
-                "name": "MoaidHathot",
-                "url": "https://github.com/MoaidHathot"
             }
         }
     ]
