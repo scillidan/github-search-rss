@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Github action for typechecking a neovim plugin</div>",
+            "url": "https://github.com/stevearc/nvim-typecheck-action",
+            "title": "stevearc/nvim-typecheck-action: Github action for typechecking a neovim plugin",
+            "date_modified": "2024-08-16T22:04:45.000Z",
+            "date_published": "2023-08-13T05:09:59.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-08-16T22:02:13.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
+            "url": "https://github.com/ins0mniaque/sacrilege.nvim",
+            "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
+            "date_modified": "2024-08-16T21:58:40.000Z",
+            "date_published": "2024-07-23T20:51:49.000Z",
+            "author": {
+                "name": "ins0mniaque",
+                "url": "https://github.com/ins0mniaque"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/115907714?u=7c106720190b32a5e99eaab6a0e56bdba6da2c87&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configuration with plugins to make neovim better.</div>",
+            "url": "https://github.com/Dudu-Passoni/Neovim-Config",
+            "title": "Dudu-Passoni/Neovim-Config: Configuration with plugins to make neovim better.",
+            "date_modified": "2024-08-16T21:47:41.000Z",
+            "date_published": "2024-08-16T14:33:31.000Z",
+            "author": {
+                "name": "Dudu-Passoni",
+                "url": "https://github.com/Dudu-Passoni"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15564552?u=24378123401360ed9ef5c87de9e68191bf3b5404&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configuration of LazyVim plugin manager for Neovim</div>",
+            "url": "https://github.com/avdhoeke/MyLazyVim",
+            "title": "avdhoeke/MyLazyVim: Configuration of LazyVim plugin manager for Neovim",
+            "date_modified": "2024-08-16T21:39:11.000Z",
+            "date_published": "2024-08-16T21:26:39.000Z",
+            "author": {
+                "name": "avdhoeke",
+                "url": "https://github.com/avdhoeke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-16T21:18:35.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-08-16T21:16:22.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/430272?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A really light statusline/tabline/winbar plugin for Neovim using Lua.</div>",
             "url": "https://github.com/adelarsq/bar.nvim",
             "title": "adelarsq/bar.nvim: A really light statusline/tabline/winbar plugin for Neovim using Lua.",
@@ -39,21 +116,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-16T20:19:48.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
             "url": "https://github.com/Isrothy/neominimap.nvim",
             "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
-            "date_modified": "2024-08-16T20:25:05.000Z",
+            "date_modified": "2024-08-16T22:09:22.000Z",
             "date_published": "2024-06-24T13:52:02.000Z",
             "author": {
                 "name": "Isrothy",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "m15a",
                 "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/167130209?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>configuracion de neovim con LSP, autocompletado y plugins basicos</div>",
-            "url": "https://github.com/juligaleanop/neovim-config",
-            "title": "juligaleanop/neovim-config: configuracion de neovim con LSP, autocompletado y plugins basicos",
-            "date_modified": "2024-08-16T17:27:23.000Z",
-            "date_published": "2024-07-14T23:05:29.000Z",
-            "author": {
-                "name": "juligaleanop",
-                "url": "https://github.com/juligaleanop"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-08-16T17:24:39.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96783720?u=0ccbedc73529c5cdc8bf1744375630c2d6988550&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim statusline and bufferline plugin</div>",
-            "url": "https://github.com/Kicamon/SimpleLine.nvim",
-            "title": "Kicamon/SimpleLine.nvim: A neovim statusline and bufferline plugin",
-            "date_modified": "2024-08-16T16:53:34.000Z",
-            "date_published": "2023-09-23T15:21:41.000Z",
-            "author": {
-                "name": "Kicamon",
-                "url": "https://github.com/Kicamon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149238?u=1449eae7884be9567a5b1103a42c0bfe3bb805b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A theme, config and collection of plugins for Neovim</div>",
-            "url": "https://github.com/prurigro/darkcloud-nvimconfig",
-            "title": "prurigro/darkcloud-nvimconfig: A theme, config and collection of plugins for Neovim",
-            "date_modified": "2024-08-16T16:08:56.000Z",
-            "date_published": "2024-03-02T03:22:29.000Z",
-            "author": {
-                "name": "prurigro",
-                "url": "https://github.com/prurigro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
-            "url": "https://github.com/tamago324/nlsp-settings.nvim",
-            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
-            "date_modified": "2024-08-16T16:02:47.000Z",
-            "date_published": "2021-03-21T05:46:20.000Z",
-            "author": {
-                "name": "tamago324",
-                "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/430272?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Image Preview for Neovim 🖼</div>",
-            "url": "https://github.com/adelarsq/image_preview.nvim",
-            "title": "adelarsq/image_preview.nvim: Image Preview for Neovim 🖼",
-            "date_modified": "2024-08-16T18:43:56.000Z",
-            "date_published": "2022-10-08T16:03:01.000Z",
-            "author": {
-                "name": "adelarsq",
-                "url": "https://github.com/adelarsq"
             }
         }
     ]
