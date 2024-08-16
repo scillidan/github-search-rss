@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-08-16T05:01:56.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-16T04:18:53.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48618675?u=0935aab697e014dcf7a74ff502beca9fb093ebbd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to display lsp hover documentation in a side panel.</div>",
             "url": "https://github.com/amrbashir/nvim-docs-view",
             "title": "amrbashir/nvim-docs-view: A neovim plugin to display lsp hover documentation in a side panel.",
@@ -39,10 +61,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8770486?u=6b132dea3a2fe32043a601c0ee4c661c2be52359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8770486?u=6b132dea3a2fe32043a601c0ee4c661c2be52359&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>.NET Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua</div>",
             "url": "https://github.com/MoaidHathot/dotnet.nvim",
-            "title": "MoaidHathot/dotnet.nvim: Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua",
-            "date_modified": "2024-08-16T03:57:02.000Z",
+            "title": "MoaidHathot/dotnet.nvim: .NET Neovim plugin for improving the .NET dev experience in Neovim,  written completely in Lua",
+            "date_modified": "2024-08-16T05:04:23.000Z",
             "date_published": "2023-09-23T21:19:38.000Z",
             "author": {
                 "name": "MoaidHathot",
@@ -72,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-16T02:28:11.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
             "url": "https://github.com/ins0mniaque/sacrilege.nvim",
             "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9919?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for GitHub Copilot</div>",
             "url": "https://github.com/github/copilot.vim",
             "title": "github/copilot.vim: Neovim plugin for GitHub Copilot",
-            "date_modified": "2024-08-16T02:07:34.000Z",
+            "date_modified": "2024-08-16T05:02:53.000Z",
             "date_published": "2021-10-20T18:29:13.000Z",
             "author": {
                 "name": "github",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=972e3aec2962b5a72c50e1c36c7bc63d54d93c57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that helps managing crates.io dependencies</div>",
-            "url": "https://github.com/saecki/crates.nvim",
-            "title": "saecki/crates.nvim: A neovim plugin that helps managing crates.io dependencies",
-            "date_modified": "2024-08-15T23:36:04.000Z",
-            "date_published": "2021-08-24T17:13:20.000Z",
-            "author": {
-                "name": "saecki",
-                "url": "https://github.com/saecki"
             }
         }
     ]
