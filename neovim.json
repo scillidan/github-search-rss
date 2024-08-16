@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/430272?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A really light statusline/tabline/winbar plugin for Neovim using Lua.</div>",
+            "url": "https://github.com/adelarsq/bar.nvim",
+            "title": "adelarsq/bar.nvim: A really light statusline/tabline/winbar plugin for Neovim using Lua.",
+            "date_modified": "2024-08-16T21:08:53.000Z",
+            "date_published": "2024-01-06T02:15:08.000Z",
+            "author": {
+                "name": "adelarsq",
+                "url": "https://github.com/adelarsq"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3923558?u=8246f7a36edbf0e0c3cd0a810c27a43199c64157&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nvim plugin to annotate files with thoughts</div>",
+            "url": "https://github.com/nhomble/thought-flow.nvim",
+            "title": "nhomble/thought-flow.nvim: nvim plugin to annotate files with thoughts",
+            "date_modified": "2024-08-16T21:00:48.000Z",
+            "date_published": "2024-08-12T03:32:45.000Z",
+            "author": {
+                "name": "nhomble",
+                "url": "https://github.com/nhomble"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lint",
+            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+            "date_modified": "2024-08-16T20:22:44.000Z",
+            "date_published": "2021-02-14T11:18:45.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-16T20:19:48.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
+            "url": "https://github.com/Isrothy/neominimap.nvim",
+            "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
+            "date_modified": "2024-08-16T20:25:05.000Z",
+            "date_published": "2024-06-24T13:52:02.000Z",
+            "author": {
+                "name": "Isrothy",
+                "url": "https://github.com/Isrothy"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72610319?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A NeoVim plugin providing syntax highlighting and LSP support for Noir</div>",
             "url": "https://github.com/noir-lang/noir-nvim",
             "title": "noir-lang/noir-nvim: A NeoVim plugin providing syntax highlighting and LSP support for Noir",
@@ -61,28 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-16T19:17:53.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
-            "url": "https://github.com/Isrothy/neominimap.nvim",
-            "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
-            "date_modified": "2024-08-16T20:04:27.000Z",
-            "date_published": "2024-06-24T13:52:02.000Z",
-            "author": {
-                "name": "Isrothy",
-                "url": "https://github.com/Isrothy"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87674867?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration for TheAltF4Stream as a plugin.</div>",
             "url": "https://github.com/ALT-F4-LLC/thealtf4stream.nvim",
             "title": "ALT-F4-LLC/thealtf4stream.nvim: Neovim configuration for TheAltF4Stream as a plugin.",
@@ -91,17 +124,6 @@
             "author": {
                 "name": "ALT-F4-LLC",
                 "url": "https://github.com/ALT-F4-LLC"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
-            "url": "https://github.com/mfussenegger/nvim-lint",
-            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-08-16T18:59:35.000Z",
-            "date_published": "2021-02-14T11:18:45.000Z",
-            "author": {
-                "name": "mfussenegger",
-                "url": "https://github.com/mfussenegger"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "adelarsq",
                 "url": "https://github.com/adelarsq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3923558?u=8246f7a36edbf0e0c3cd0a810c27a43199c64157&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nvim plugin to annotate files with thoughts</div>",
-            "url": "https://github.com/nhomble/thought-flow.nvim",
-            "title": "nhomble/thought-flow.nvim: nvim plugin to annotate files with thoughts",
-            "date_modified": "2024-08-16T14:17:39.000Z",
-            "date_published": "2024-08-12T03:32:45.000Z",
-            "author": {
-                "name": "nhomble",
-                "url": "https://github.com/nhomble"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44616505?u=de870e92f31fb358e338615a35cbda083cc33068&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔎 A NeoVim plugin for inline Git Blame logs</div>",
-            "url": "https://github.com/theoboldalex/gitlens.nvim",
-            "title": "theoboldalex/gitlens.nvim: 🔎 A NeoVim plugin for inline Git Blame logs",
-            "date_modified": "2024-08-16T13:52:04.000Z",
-            "date_published": "2024-01-18T22:59:01.000Z",
-            "author": {
-                "name": "theoboldalex",
-                "url": "https://github.com/theoboldalex"
             }
         }
     ]
