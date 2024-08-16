@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85601344?u=37eba59243e012010b2df88f356cdca257ac6de8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration, and others soon</div>",
+            "url": "https://github.com/nijuyonkadesu/dotfiles",
+            "title": "nijuyonkadesu/dotfiles: Neovim configuration, and others soon",
+            "date_modified": "2024-08-16T12:17:47.000Z",
+            "date_published": "2022-12-23T07:00:17.000Z",
+            "author": {
+                "name": "nijuyonkadesu",
+                "url": "https://github.com/nijuyonkadesu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-08-16T12:11:58.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-08-16T12:03:51.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.</div>",
+            "url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim",
+            "title": "rachartier/tiny-inline-diagnostic.nvim: A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.",
+            "date_modified": "2024-08-16T11:38:08.000Z",
+            "date_published": "2024-06-29T14:13:21.000Z",
+            "author": {
+                "name": "rachartier",
+                "url": "https://github.com/rachartier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76894615?u=ec6071621862fad8c3507650af2daa6cc749d8cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.</div>",
+            "url": "https://github.com/HCY-ASLEEP/NVIM-Config",
+            "title": "HCY-ASLEEP/NVIM-Config: Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.",
+            "date_modified": "2024-08-16T11:25:13.000Z",
+            "date_published": "2022-11-09T13:44:16.000Z",
+            "author": {
+                "name": "HCY-ASLEEP",
+                "url": "https://github.com/HCY-ASLEEP"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
             "url": "https://github.com/R-nvim/R.nvim",
             "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
@@ -149,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76894615?u=ec6071621862fad8c3507650af2daa6cc749d8cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.</div>",
-            "url": "https://github.com/HCY-ASLEEP/NVIM-Config",
-            "title": "HCY-ASLEEP/NVIM-Config: Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.",
-            "date_modified": "2024-08-16T08:26:35.000Z",
-            "date_published": "2022-11-09T13:44:16.000Z",
-            "author": {
-                "name": "HCY-ASLEEP",
-                "url": "https://github.com/HCY-ASLEEP"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
             "url": "https://github.com/yutkat/my-neovim-pluginlist",
             "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "naaysayer",
                 "url": "https://github.com/naaysayer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
-            "url": "https://github.com/niuiic/modern-neovim-configuration",
-            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
-            "date_modified": "2024-08-16T06:30:56.000Z",
-            "date_published": "2021-05-05T11:05:56.000Z",
-            "author": {
-                "name": "niuiic",
-                "url": "https://github.com/niuiic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6076614?u=075e09ce954d2a559626cbeb3fd5d621c5ba90c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple utility plugin for taskwarrior in Neovim</div>",
-            "url": "https://github.com/huantrinh1802/m_taskwarrior_d.nvim",
-            "title": "huantrinh1802/m_taskwarrior_d.nvim: Simple utility plugin for taskwarrior in Neovim",
-            "date_modified": "2024-08-16T06:16:16.000Z",
-            "date_published": "2024-03-16T09:11:02.000Z",
-            "author": {
-                "name": "huantrinh1802",
-                "url": "https://github.com/huantrinh1802"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-08-16T06:09:37.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/conform.nvim",
-            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
-            "date_modified": "2024-08-16T05:46:26.000Z",
-            "date_published": "2023-08-25T03:31:42.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
             }
         }
     ]
