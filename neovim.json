@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight &amp; high performance UI plugin for nvchad</div>",
+            "url": "https://github.com/NvChad/ui",
+            "title": "NvChad/ui: Lightweight & high performance UI plugin for nvchad",
+            "date_modified": "2024-08-18T14:34:57.000Z",
+            "date_published": "2022-07-14T10:20:35.000Z",
+            "author": {
+                "name": "NvChad",
+                "url": "https://github.com/NvChad"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9500018?u=409f92af80796e5d70aff0d97cfbcfc9031cb620&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remake of the Obsidian plugin 'Silhouette' for Neovim.</div>",
+            "url": "https://github.com/tadashi-aikawa/silhouette.nvim",
+            "title": "tadashi-aikawa/silhouette.nvim: Remake of the Obsidian plugin 'Silhouette' for Neovim.",
+            "date_modified": "2024-08-18T14:27:44.000Z",
+            "date_published": "2024-08-18T05:09:02.000Z",
+            "author": {
+                "name": "tadashi-aikawa",
+                "url": "https://github.com/tadashi-aikawa"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-08-18T14:20:37.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4941333?u=f5b4530cd299f9b2c13c03598a7a1af95bb6280c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to switch between repositories with ease</div>",
+            "url": "https://github.com/mohitsinghs/repo.nvim",
+            "title": "mohitsinghs/repo.nvim: Neovim plugin to switch between repositories with ease",
+            "date_modified": "2024-08-18T14:20:30.000Z",
+            "date_published": "2023-02-20T06:21:42.000Z",
+            "author": {
+                "name": "mohitsinghs",
+                "url": "https://github.com/mohitsinghs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-18T14:17:58.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-08-18T14:09:19.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
             "url": "https://github.com/mikavilpas/yazi.nvim",
             "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
@@ -14,6 +80,17 @@
             "author": {
                 "name": "mikavilpas",
                 "url": "https://github.com/mikavilpas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130372558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>async fast minimalist plugin make format easy in neovim</div>",
+            "url": "https://github.com/nvimdev/guard.nvim",
+            "title": "nvimdev/guard.nvim: async fast minimalist plugin make format easy in neovim",
+            "date_modified": "2024-08-18T14:11:40.000Z",
+            "date_published": "2023-02-15T09:28:11.000Z",
+            "author": {
+                "name": "nvimdev",
+                "url": "https://github.com/nvimdev"
             }
         },
         {
@@ -31,22 +108,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74842863?u=7cc69730fb9fff071c5a16c7ae9f97caead058bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin helping you establish good command workflow and quit bad habit</div>",
             "url": "https://github.com/m4xshen/hardtime.nvim",
             "title": "m4xshen/hardtime.nvim: A Neovim plugin helping you establish good command workflow and quit bad habit",
-            "date_modified": "2024-08-18T14:01:17.000Z",
+            "date_modified": "2024-08-18T15:03:29.000Z",
             "date_published": "2023-04-24T17:38:50.000Z",
             "author": {
                 "name": "m4xshen",
                 "url": "https://github.com/m4xshen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-18T13:18:31.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "ksaito422",
                 "url": "https://github.com/ksaito422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎃 Vim plugin to help install/uninstall denops-shared-server</div>",
-            "url": "https://github.com/vim-denops/denops-shared-server.vim",
-            "title": "vim-denops/denops-shared-server.vim: 🎃 Vim plugin to help install/uninstall denops-shared-server",
-            "date_modified": "2024-08-18T12:19:15.000Z",
-            "date_published": "2022-08-25T19:06:38.000Z",
-            "author": {
-                "name": "vim-denops",
-                "url": "https://github.com/vim-denops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43189865?u=e5e20b89a31d58c850d9c5dead2bfee023c17af8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My NeoVim plugins set up.</div>",
-            "url": "https://github.com/brendocruz/dotfiles",
-            "title": "brendocruz/dotfiles: My NeoVim plugins set up.",
-            "date_modified": "2024-08-18T12:01:01.000Z",
-            "date_published": "2022-09-13T05:07:31.000Z",
-            "author": {
-                "name": "brendocruz",
-                "url": "https://github.com/brendocruz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-08-18T12:00:50.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/415262?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plus opionated set of plugins for NixOS</div>",
-            "url": "https://github.com/binarycode/neovim.nix",
-            "title": "binarycode/neovim.nix: Neovim plus opionated set of plugins for NixOS",
-            "date_modified": "2024-08-18T11:50:47.000Z",
-            "date_published": "2021-06-20T05:25:07.000Z",
-            "author": {
-                "name": "binarycode",
-                "url": "https://github.com/binarycode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76006232?u=ef2b716f2908065b15cb34d6961a50fa1753b176&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>part of my chaotic neovim config as a plugin (mostly reusable functions and commands)</div>",
-            "url": "https://github.com/debdutdeb/chaos.nvim",
-            "title": "debdutdeb/chaos.nvim: part of my chaotic neovim config as a plugin (mostly reusable functions and commands)",
-            "date_modified": "2024-08-18T11:39:54.000Z",
-            "date_published": "2023-09-05T15:09:41.000Z",
-            "author": {
-                "name": "debdutdeb",
-                "url": "https://github.com/debdutdeb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
-            "url": "https://github.com/tamago324/nlsp-settings.nvim",
-            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
-            "date_modified": "2024-08-18T11:02:14.000Z",
-            "date_published": "2021-03-21T05:46:20.000Z",
-            "author": {
-                "name": "tamago324",
-                "url": "https://github.com/tamago324"
             }
         }
     ]
