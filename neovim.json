@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64483945?u=1cc1ba30519381f8f605057846f06f86d742784f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to simplify enabling neovim inlay hints(neovim 0.10+).</div>",
+            "url": "https://github.com/MysticalDevil/inlay-hints.nvim",
+            "title": "MysticalDevil/inlay-hints.nvim: A plugin to simplify enabling neovim inlay hints(neovim 0.10+).",
+            "date_modified": "2024-08-18T05:38:04.000Z",
+            "date_published": "2023-11-18T04:07:28.000Z",
+            "author": {
+                "name": "MysticalDevil",
+                "url": "https://github.com/MysticalDevil"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
+            "url": "https://github.com/ins0mniaque/sacrilege.nvim",
+            "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
+            "date_modified": "2024-08-18T05:38:01.000Z",
+            "date_published": "2024-07-23T20:51:49.000Z",
+            "author": {
+                "name": "ins0mniaque",
+                "url": "https://github.com/ins0mniaque"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76006232?u=ef2b716f2908065b15cb34d6961a50fa1753b176&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>part of my chaotic neovim config as a plugin (mostly reusable functions and commands)</div>",
+            "url": "https://github.com/debdutdeb/chaos.nvim",
+            "title": "debdutdeb/chaos.nvim: part of my chaotic neovim config as a plugin (mostly reusable functions and commands)",
+            "date_modified": "2024-08-18T05:20:21.000Z",
+            "date_published": "2023-09-05T15:09:41.000Z",
+            "author": {
+                "name": "debdutdeb",
+                "url": "https://github.com/debdutdeb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-08-18T05:18:53.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9500018?u=409f92af80796e5d70aff0d97cfbcfc9031cb620&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remake of the Obsidian plugin 'Silhouette' for Neovim.</div>",
             "url": "https://github.com/tadashi-aikawa/silhouette.nvim",
             "title": "tadashi-aikawa/silhouette.nvim: Remake of the Obsidian plugin 'Silhouette' for Neovim.",
@@ -58,17 +102,6 @@
             "author": {
                 "name": "evanmcneely",
                 "url": "https://github.com/evanmcneely"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
-            "url": "https://github.com/ins0mniaque/sacrilege.nvim",
-            "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
-            "date_modified": "2024-08-18T03:57:03.000Z",
-            "date_published": "2024-07-23T20:51:49.000Z",
-            "author": {
-                "name": "ins0mniaque",
-                "url": "https://github.com/ins0mniaque"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "sisoe24",
                 "url": "https://github.com/sisoe24"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4656860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A very simple indent guides plugin.</div>",
-            "url": "https://github.com/gravndal/shiftwidth_leadmultispace.nvim",
-            "title": "gravndal/shiftwidth_leadmultispace.nvim: A very simple indent guides plugin.",
-            "date_modified": "2024-08-17T21:34:46.000Z",
-            "date_published": "2022-08-05T21:37:28.000Z",
-            "author": {
-                "name": "gravndal",
-                "url": "https://github.com/gravndal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
-            "url": "https://github.com/Isrothy/neominimap.nvim",
-            "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
-            "date_modified": "2024-08-18T00:17:57.000Z",
-            "date_published": "2024-06-24T13:52:02.000Z",
-            "author": {
-                "name": "Isrothy",
-                "url": "https://github.com/Isrothy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-08-17T21:15:25.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         }
     ]
