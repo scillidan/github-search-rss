@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99483158?u=37ac3c12b87673525bc41e3cfc8dc7365d31d8b3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a window inidcator plugin for neovim </div>",
+            "url": "https://github.com/Antony-AXS/indicator.nvim",
+            "title": "Antony-AXS/indicator.nvim: a window inidcator plugin for neovim ",
+            "date_modified": "2024-08-19T17:04:50.000Z",
+            "date_published": "2024-08-17T05:30:39.000Z",
+            "author": {
+                "name": "Antony-AXS",
+                "url": "https://github.com/Antony-AXS"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159702116?u=a274db247ffe79c3f9cda3b6652e06c81a696842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for prompting Anthropic LLM's into the current buffer.</div>",
+            "url": "https://github.com/S41G0N/prompt-assistant",
+            "title": "S41G0N/prompt-assistant: Neovim plugin for prompting Anthropic LLM's into the current buffer.",
+            "date_modified": "2024-08-19T16:53:34.000Z",
+            "date_published": "2024-07-20T17:33:16.000Z",
+            "author": {
+                "name": "S41G0N",
+                "url": "https://github.com/S41G0N"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96783720?u=0ccbedc73529c5cdc8bf1744375630c2d6988550&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim markdown format plugin like vim-table-mode but write in lua</div>",
+            "url": "https://github.com/Kicamon/markdown-table-mode.nvim",
+            "title": "Kicamon/markdown-table-mode.nvim: A neovim markdown format plugin like vim-table-mode but write in lua",
+            "date_modified": "2024-08-19T16:39:37.000Z",
+            "date_published": "2024-03-30T02:54:45.000Z",
+            "author": {
+                "name": "Kicamon",
+                "url": "https://github.com/Kicamon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-19T16:19:27.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
             "url": "https://github.com/benlubas/molten-nvim",
             "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
@@ -53,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.</div>",
             "url": "https://github.com/frankroeder/parrot.nvim",
             "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.",
-            "date_modified": "2024-08-19T15:47:42.000Z",
+            "date_modified": "2024-08-19T17:06:33.000Z",
             "date_published": "2023-08-15T10:16:36.000Z",
             "author": {
                 "name": "frankroeder",
@@ -91,17 +135,6 @@
             "author": {
                 "name": "saecki",
                 "url": "https://github.com/saecki"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-19T14:18:43.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "lbrayner",
                 "url": "https://github.com/lbrayner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
-            "url": "https://github.com/vim-denops/denops.vim",
-            "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
-            "date_modified": "2024-08-19T11:45:21.000Z",
-            "date_published": "2021-02-08T15:46:07.000Z",
-            "author": {
-                "name": "vim-denops",
-                "url": "https://github.com/vim-denops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62602802?u=075df4f8928b8be82630b7fb5e394ce300022b18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin that open the link of current line on github</div>",
-            "url": "https://github.com/ksaito422/remote-line.nvim",
-            "title": "ksaito422/remote-line.nvim: neovim plugin that open the link of current line on github",
-            "date_modified": "2024-08-19T11:02:47.000Z",
-            "date_published": "2024-07-04T23:28:39.000Z",
-            "author": {
-                "name": "ksaito422",
-                "url": "https://github.com/ksaito422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
-            "url": "https://github.com/vyfor/cord.nvim",
-            "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
-            "date_modified": "2024-08-19T10:27:05.000Z",
-            "date_published": "2024-04-07T15:20:39.000Z",
-            "author": {
-                "name": "vyfor",
-                "url": "https://github.com/vyfor"
             }
         }
     ]
