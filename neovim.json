@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62202958?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugins to handle lua errors before they are printed by neovim</div>",
+            "url": "https://github.com/aaron-p1/handle_lua_errors.nvim",
+            "title": "aaron-p1/handle_lua_errors.nvim: A neovim plugins to handle lua errors before they are printed by neovim",
+            "date_modified": "2024-08-19T15:05:47.000Z",
+            "date_published": "2024-08-18T17:40:37.000Z",
+            "author": {
+                "name": "aaron-p1",
+                "url": "https://github.com/aaron-p1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-08-19T14:36:24.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=972e3aec2962b5a72c50e1c36c7bc63d54d93c57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to live preview lsp renames</div>",
+            "url": "https://github.com/saecki/live-rename.nvim",
+            "title": "saecki/live-rename.nvim: A neovim plugin to live preview lsp renames",
+            "date_modified": "2024-08-19T14:28:54.000Z",
+            "date_published": "2024-08-11T10:23:22.000Z",
+            "author": {
+                "name": "saecki",
+                "url": "https://github.com/saecki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-19T14:18:43.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
             "url": "https://github.com/benlubas/molten-nvim",
             "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
-            "date_modified": "2024-08-19T13:44:05.000Z",
+            "date_modified": "2024-08-19T14:34:17.000Z",
             "date_published": "2023-10-05T18:25:49.000Z",
             "author": {
                 "name": "benlubas",
@@ -39,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-19T13:19:26.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9500018?u=409f92af80796e5d70aff0d97cfbcfc9031cb620&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Remake of the Obsidian plugin 'Silhouette' for Neovim.</div>",
             "url": "https://github.com/tadashi-aikawa/silhouette.nvim",
             "title": "tadashi-aikawa/silhouette.nvim: Remake of the Obsidian plugin 'Silhouette' for Neovim.",
@@ -64,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
             "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-08-19T13:19:21.000Z",
+            "date_modified": "2024-08-19T14:57:59.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "MoaidHathot",
                 "url": "https://github.com/MoaidHathot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9076885?u=2e6ae61bcee056e7e15cbf7fc81c1de3f8dcb87f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mongo.nvim mongo client UI plugin for neovim</div>",
-            "url": "https://github.com/donus3/mongo.nvim",
-            "title": "donus3/mongo.nvim: mongo.nvim mongo client UI plugin for neovim",
-            "date_modified": "2024-08-19T09:00:06.000Z",
-            "date_published": "2024-05-26T13:30:45.000Z",
-            "author": {
-                "name": "donus3",
-                "url": "https://github.com/donus3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-08-19T08:35:44.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-08-19T13:53:24.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
             }
         }
     ]
