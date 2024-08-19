@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4594?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A NeoVim plugin to browse and create issues in your Linear workspace. Written in Lua</div>",
+            "url": "https://github.com/rmanocha/linear-nvim",
+            "title": "rmanocha/linear-nvim: A NeoVim plugin to browse and create issues in your Linear workspace. Written in Lua",
+            "date_modified": "2024-08-19T01:44:54.000Z",
+            "date_published": "2024-04-28T21:47:42.000Z",
+            "author": {
+                "name": "rmanocha",
+                "url": "https://github.com/rmanocha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-19T01:44:00.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
+            "url": "https://github.com/folke/neoconf.nvim",
+            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
+            "date_modified": "2024-08-19T01:29:42.000Z",
+            "date_published": "2022-09-07T16:15:13.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78519441?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal vim set up with plugins and instructions for installation</div>",
             "url": "https://github.com/lukevdc/neovim-config",
             "title": "lukevdc/neovim-config: My personal vim set up with plugins and instructions for installation",
-            "date_modified": "2024-08-19T00:45:17.000Z",
+            "date_modified": "2024-08-19T00:47:45.000Z",
             "date_published": "2024-08-18T22:32:09.000Z",
             "author": {
                 "name": "lukevdc",
@@ -25,17 +58,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-19T00:30:24.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -119,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
             "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-08-18T23:25:56.000Z",
+            "date_modified": "2024-08-19T01:17:19.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122473329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extra plugin, linter, formatter, language and framework packs for OxygeNvim</div>",
-            "url": "https://github.com/OxygeNvim/packs",
-            "title": "OxygeNvim/packs: Extra plugin, linter, formatter, language and framework packs for OxygeNvim",
-            "date_modified": "2024-08-18T21:09:13.000Z",
-            "date_published": "2023-06-02T20:12:27.000Z",
-            "author": {
-                "name": "OxygeNvim",
-                "url": "https://github.com/OxygeNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122473329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extensions for OxygeNvim</div>",
-            "url": "https://github.com/OxygeNvim/extensions",
-            "title": "OxygeNvim/extensions: Extensions for OxygeNvim",
-            "date_modified": "2024-08-18T21:15:26.000Z",
-            "date_published": "2023-03-09T18:48:56.000Z",
-            "author": {
-                "name": "OxygeNvim",
-                "url": "https://github.com/OxygeNvim"
             }
         }
     ]
