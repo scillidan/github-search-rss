@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
+            "date_modified": "2024-08-20T08:09:15.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84206502?u=3f4ff4ce7c37fda2cbe4d3a2682b19f33533e4d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to chat and prompt with a local or remote ollama ai server.</div>",
+            "url": "https://github.com/Lommix/ollamachad.nvim",
+            "title": "Lommix/ollamachad.nvim: neovim plugin to chat and prompt with a local or remote ollama ai server.",
+            "date_modified": "2024-08-20T07:59:01.000Z",
+            "date_published": "2024-01-03T10:11:56.000Z",
+            "author": {
+                "name": "Lommix",
+                "url": "https://github.com/Lommix"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-20T07:18:20.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
             "url": "https://github.com/niuiic/modern-neovim-configuration",
             "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
@@ -14,17 +47,6 @@
             "author": {
                 "name": "niuiic",
                 "url": "https://github.com/niuiic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-20T06:21:47.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
             "url": "https://github.com/folke/neoconf.nvim",
             "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-08-20T01:55:11.000Z",
+            "date_modified": "2024-08-20T07:57:00.000Z",
             "date_published": "2022-09-07T16:15:13.000Z",
             "author": {
                 "name": "folke",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim</div>",
             "url": "https://github.com/ray-x/go.nvim",
             "title": "ray-x/go.nvim: G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim",
-            "date_modified": "2024-08-20T00:50:36.000Z",
+            "date_modified": "2024-08-20T07:39:25.000Z",
             "date_published": "2021-03-10T10:23:02.000Z",
             "author": {
                 "name": "ray-x",
@@ -196,33 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
             "url": "https://github.com/Isrothy/neominimap.nvim",
             "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
-            "date_modified": "2024-08-20T04:56:35.000Z",
+            "date_modified": "2024-08-20T07:19:06.000Z",
             "date_published": "2024-06-24T13:52:02.000Z",
             "author": {
                 "name": "Isrothy",
                 "url": "https://github.com/Isrothy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-08-20T00:04:34.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89324687?u=bd2dcefb934b6c72314b95c81d6863c5029bf0ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Turn Neovim into an AI code editor</div>",
-            "url": "https://github.com/evanmcneely/enlighten.nvim",
-            "title": "evanmcneely/enlighten.nvim: Turn Neovim into an AI code editor",
-            "date_modified": "2024-08-19T23:26:20.000Z",
-            "date_published": "2024-07-21T17:26:06.000Z",
-            "author": {
-                "name": "evanmcneely",
-                "url": "https://github.com/evanmcneely"
             }
         }
     ]
