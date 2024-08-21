@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35730763?u=fb87d9a606a5827f80a75fc2c869223eb042995f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Install neovim with plugins for puppet development</div>",
+            "url": "https://github.com/c8m6/ansible-role_vim",
+            "title": "c8m6/ansible-role_vim: Install neovim with plugins for puppet development",
+            "date_modified": "2024-08-21T14:02:50.000Z",
+            "date_published": "2018-04-05T17:01:02.000Z",
+            "author": {
+                "name": "c8m6",
+                "url": "https://github.com/c8m6"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-08-21T13:51:23.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.</div>",
+            "url": "https://github.com/rachartier/tiny-code-action.nvim",
+            "title": "rachartier/tiny-code-action.nvim: A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.",
+            "date_modified": "2024-08-21T13:29:52.000Z",
+            "date_published": "2024-07-22T23:02:50.000Z",
+            "author": {
+                "name": "rachartier",
+                "url": "https://github.com/rachartier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81760194?u=2e7dfd10f37815d5dc7d780689d4ce4400f4b15a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that extends functionality of mark-motions.</div>",
+            "url": "https://github.com/nkey-ops/extended-marks.nvim",
+            "title": "nkey-ops/extended-marks.nvim: Neovim plugin that extends functionality of mark-motions.",
+            "date_modified": "2024-08-21T13:29:33.000Z",
+            "date_published": "2024-05-26T20:09:16.000Z",
+            "author": {
+                "name": "nkey-ops",
+                "url": "https://github.com/nkey-ops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-08-21T13:26:31.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
+            "url": "https://github.com/Shougo/dpp.vim",
+            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
+            "date_modified": "2024-08-21T13:25:04.000Z",
+            "date_published": "2023-08-08T23:23:02.000Z",
+            "author": {
+                "name": "Shougo",
+                "url": "https://github.com/Shougo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31811?u=d1bf6b46223407d4a5cfec666957196121a836fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple session management plugin for neovim.</div>",
             "url": "https://github.com/tigion/nvim-sessions",
             "title": "tigion/nvim-sessions: A simple session management plugin for neovim.",
@@ -20,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-08-21T13:06:42.000Z",
+            "date_modified": "2024-08-21T13:24:26.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -61,28 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-08-21T11:54:58.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
-            "url": "https://github.com/Shougo/dpp.vim",
-            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
-            "date_modified": "2024-08-21T10:09:13.000Z",
-            "date_published": "2023-08-08T23:23:02.000Z",
-            "author": {
-                "name": "Shougo",
-                "url": "https://github.com/Shougo"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83385358?u=dcd878d007b2de25f94f8a6b6f0e5e8260a4198f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>just a simple compile command module to use inside neovim (not a plugin)</div>",
             "url": "https://github.com/commrade-goad/nvim-cc-module",
             "title": "commrade-goad/nvim-cc-module: just a simple compile command module to use inside neovim (not a plugin)",
@@ -113,17 +157,6 @@
             "author": {
                 "name": "jssteinberg",
                 "url": "https://github.com/jssteinberg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-08-21T09:26:53.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Lommix",
                 "url": "https://github.com/Lommix"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
-            "url": "https://github.com/ins0mniaque/sacrilege.nvim",
-            "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
-            "date_modified": "2024-08-21T06:12:26.000Z",
-            "date_published": "2024-07-23T20:51:49.000Z",
-            "author": {
-                "name": "ins0mniaque",
-                "url": "https://github.com/ins0mniaque"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
-            "url": "https://github.com/yongleyuan/nvim-config",
-            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
-            "date_modified": "2024-08-21T05:38:33.000Z",
-            "date_published": "2024-06-18T01:55:38.000Z",
-            "author": {
-                "name": "yongleyuan",
-                "url": "https://github.com/yongleyuan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
-            "url": "https://github.com/mikavilpas/yazi.nvim",
-            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2024-08-21T04:47:39.000Z",
-            "date_published": "2024-02-25T13:33:19.000Z",
-            "author": {
-                "name": "mikavilpas",
-                "url": "https://github.com/mikavilpas"
             }
         }
     ]
