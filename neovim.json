@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
+            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
+            "date_modified": "2024-08-21T20:10:17.000Z",
+            "date_published": "2024-03-18T04:13:43.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48688801?u=6717824d9f1ce35731d7c15319340c97a5165804&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>File template plugin based on buffer filetype</div>",
+            "url": "https://github.com/doganalper/template.nvim",
+            "title": "doganalper/template.nvim: File template plugin based on buffer filetype",
+            "date_modified": "2024-08-21T19:55:22.000Z",
+            "date_published": "2023-08-03T15:23:13.000Z",
+            "author": {
+                "name": "doganalper",
+                "url": "https://github.com/doganalper"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47638216?u=4ee134546171252a890f6acc55adf5aa0ac1a889&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python Import Management for Neovim: A Lua Plugin for Automatic Import Refactoring &amp; Resolution</div>",
+            "url": "https://github.com/alexpasmantier/pymple.nvim",
+            "title": "alexpasmantier/pymple.nvim: Python Import Management for Neovim: A Lua Plugin for Automatic Import Refactoring & Resolution",
+            "date_modified": "2024-08-21T19:49:11.000Z",
+            "date_published": "2024-07-19T16:25:55.000Z",
+            "author": {
+                "name": "alexpasmantier",
+                "url": "https://github.com/alexpasmantier"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
+            "url": "https://github.com/vyfor/cord.nvim",
+            "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
+            "date_modified": "2024-08-21T19:24:18.000Z",
+            "date_published": "2024-04-07T15:20:39.000Z",
+            "author": {
+                "name": "vyfor",
+                "url": "https://github.com/vyfor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7415984?u=ff80c3b3811a47ffa44abca3b2134cd5e19be458&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal neovim notes plugin</div>",
+            "url": "https://github.com/ndom91/notes-nvim",
+            "title": "ndom91/notes-nvim: Personal neovim notes plugin",
+            "date_modified": "2024-08-21T19:22:32.000Z",
+            "date_published": "2024-08-21T19:15:23.000Z",
+            "author": {
+                "name": "ndom91",
+                "url": "https://github.com/ndom91"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-21T19:18:11.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159702116?u=a274db247ffe79c3f9cda3b6652e06c81a696842&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for prompting Anthropic LLM's into the current buffer.</div>",
+            "url": "https://github.com/S41G0N/prompt-assistant",
+            "title": "S41G0N/prompt-assistant: Neovim plugin for prompting Anthropic LLM's into the current buffer.",
+            "date_modified": "2024-08-21T19:15:18.000Z",
+            "date_published": "2024-07-20T17:33:16.000Z",
+            "author": {
+                "name": "S41G0N",
+                "url": "https://github.com/S41G0N"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
             "url": "https://github.com/nvim-neorocks/lz.n",
             "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
@@ -20,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
             "url": "https://github.com/Isrothy/neominimap.nvim",
             "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
-            "date_modified": "2024-08-21T19:00:12.000Z",
+            "date_modified": "2024-08-21T20:01:51.000Z",
             "date_published": "2024-06-24T13:52:02.000Z",
             "author": {
                 "name": "Isrothy",
@@ -47,17 +124,6 @@
             "author": {
                 "name": "ins0mniaque",
                 "url": "https://github.com/ins0mniaque"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
-            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
-            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-08-21T18:36:50.000Z",
-            "date_published": "2024-03-18T04:13:43.000Z",
-            "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "Kicamon",
                 "url": "https://github.com/Kicamon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
-            "url": "https://github.com/catgoose/nvim",
-            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
-            "date_modified": "2024-08-21T17:10:58.000Z",
-            "date_published": "2023-03-05T23:35:23.000Z",
-            "author": {
-                "name": "catgoose",
-                "url": "https://github.com/catgoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62202958?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to handle errors with a lua function before they are printed by neovim</div>",
-            "url": "https://github.com/aaron-p1/handle_errors.nvim",
-            "title": "aaron-p1/handle_errors.nvim: A neovim plugin to handle errors with a lua function before they are printed by neovim",
-            "date_modified": "2024-08-21T16:54:43.000Z",
-            "date_published": "2024-08-18T17:40:37.000Z",
-            "author": {
-                "name": "aaron-p1",
-                "url": "https://github.com/aaron-p1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-21T16:20:21.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81760194?u=2e7dfd10f37815d5dc7d780689d4ce4400f4b15a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that extends functionality of mark-motions.</div>",
-            "url": "https://github.com/nkey-ops/extended-marks.nvim",
-            "title": "nkey-ops/extended-marks.nvim: Neovim plugin that extends functionality of mark-motions.",
-            "date_modified": "2024-08-21T15:15:54.000Z",
-            "date_published": "2024-05-26T20:09:16.000Z",
-            "author": {
-                "name": "nkey-ops",
-                "url": "https://github.com/nkey-ops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
-            "url": "https://github.com/rockerBOO/awesome-neovim",
-            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-08-21T18:11:28.000Z",
-            "date_published": "2020-09-18T18:40:59.000Z",
-            "author": {
-                "name": "rockerBOO",
-                "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/339433?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to assist work with CSV files</div>",
-            "url": "https://github.com/emmanueltouzery/decisive.nvim",
-            "title": "emmanueltouzery/decisive.nvim: Neovim plugin to assist work with CSV files",
-            "date_modified": "2024-08-21T15:11:38.000Z",
-            "date_published": "2024-05-23T19:36:11.000Z",
-            "author": {
-                "name": "emmanueltouzery",
-                "url": "https://github.com/emmanueltouzery"
             }
         }
     ]
