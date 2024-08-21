@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41495?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark powered plugin manager for Vim/neovim</div>",
+            "url": "https://github.com/Shougo/dpp.vim",
+            "title": "Shougo/dpp.vim: Dark powered plugin manager for Vim/neovim",
+            "date_modified": "2024-08-21T10:09:13.000Z",
+            "date_published": "2023-08-08T23:23:02.000Z",
+            "author": {
+                "name": "Shougo",
+                "url": "https://github.com/Shougo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/729055?u=6409652cdd4617e84af324b4b2979fc7f5d1ad37&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tiny package/plugin for Neovim and Vim to quickly toggle open your (Neo)vim terminals logically for CWDs.</div>",
+            "url": "https://github.com/jssteinberg/termcwd",
+            "title": "jssteinberg/termcwd: A tiny package/plugin for Neovim and Vim to quickly toggle open your (Neo)vim terminals logically for CWDs.",
+            "date_modified": "2024-08-21T09:27:58.000Z",
+            "date_published": "2023-03-16T22:34:10.000Z",
+            "author": {
+                "name": "jssteinberg",
+                "url": "https://github.com/jssteinberg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-08-21T09:22:40.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1874135?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Setup of vim and some plugins for MacOS, Debian, Ubuntu and Alpine Linux.</div>",
             "url": "https://github.com/sillkongen/vim-bada-ving",
             "title": "sillkongen/vim-bada-ving: Setup of vim and some plugins for MacOS, Debian, Ubuntu and Alpine Linux.",
@@ -61,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-08-21T08:27:13.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38392952?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A  vim9 fuzzy finder plugin with minimal dependency and mordern UI</div>",
             "url": "https://github.com/Donaldttt/fuzzyy",
             "title": "Donaldttt/fuzzyy: A  vim9 fuzzy finder plugin with minimal dependency and mordern UI",
@@ -102,6 +124,17 @@
             "author": {
                 "name": "liskin",
                 "url": "https://github.com/liskin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=fbdb61d3f58db213e3f0c86814cca1ac44d48564&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
+            "date_modified": "2024-08-21T09:49:34.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
+            "author": {
+                "name": "redyf",
+                "url": "https://github.com/redyf"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "srv-meta",
                 "url": "https://github.com/srv-meta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/244927?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Filetype plugin for csv files</div>",
-            "url": "https://github.com/chrisbra/csv.vim",
-            "title": "chrisbra/csv.vim: A Filetype plugin for csv files",
-            "date_modified": "2024-08-20T17:47:22.000Z",
-            "date_published": "2010-04-20T17:47:48.000Z",
-            "author": {
-                "name": "chrisbra",
-                "url": "https://github.com/chrisbra"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=fbdb61d3f58db213e3f0c86814cca1ac44d48564&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
-            "url": "https://github.com/redyf/Neve",
-            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
-            "date_modified": "2024-08-20T16:03:21.000Z",
-            "date_published": "2024-01-03T14:38:56.000Z",
-            "author": {
-                "name": "redyf",
-                "url": "https://github.com/redyf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-08-20T15:10:17.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
             }
         }
     ]
