@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35730763?u=fb87d9a606a5827f80a75fc2c869223eb042995f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Install neovim with plugins for puppet development</div>",
+            "url": "https://github.com/c8m6/ansible-role_vim",
+            "title": "c8m6/ansible-role_vim: Install neovim with plugins for puppet development",
+            "date_modified": "2024-08-22T12:43:44.000Z",
+            "date_published": "2018-04-05T17:01:02.000Z",
+            "author": {
+                "name": "c8m6",
+                "url": "https://github.com/c8m6"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/609213?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to format tsserver LSP errors</div>",
+            "url": "https://github.com/davidosomething/format-ts-errors.nvim",
+            "title": "davidosomething/format-ts-errors.nvim: Neovim plugin to format tsserver LSP errors",
+            "date_modified": "2024-08-22T12:30:23.000Z",
+            "date_published": "2023-04-18T21:27:21.000Z",
+            "author": {
+                "name": "davidosomething",
+                "url": "https://github.com/davidosomething"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/823277?u=2bd448fd47ffdb80a92e49b497332c9a499e436c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim and Neovim plugin to reveal the commit messages under the cursor</div>",
+            "url": "https://github.com/rhysd/git-messenger.vim",
+            "title": "rhysd/git-messenger.vim: Vim and Neovim plugin to reveal the commit messages under the cursor",
+            "date_modified": "2024-08-22T12:29:41.000Z",
+            "date_published": "2013-04-22T13:28:09.000Z",
+            "author": {
+                "name": "rhysd",
+                "url": "https://github.com/rhysd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49926234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Custom NeoVim config for packages and plugins</div>",
+            "url": "https://github.com/klauri/nvim-config",
+            "title": "klauri/nvim-config: Custom NeoVim config for packages and plugins",
+            "date_modified": "2024-08-22T12:20:57.000Z",
+            "date_published": "2023-12-27T19:42:19.000Z",
+            "author": {
+                "name": "klauri",
+                "url": "https://github.com/klauri"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
             "url": "https://github.com/catgoose/nvim",
             "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Aaronik",
                 "url": "https://github.com/Aaronik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
-            "url": "https://github.com/ins0mniaque/sacrilege.nvim",
-            "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
-            "date_modified": "2024-08-22T06:59:28.000Z",
-            "date_published": "2024-07-23T20:51:49.000Z",
-            "author": {
-                "name": "ins0mniaque",
-                "url": "https://github.com/ins0mniaque"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226654?u=42669bdd5c052036c28e36f704d0252339629ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Activate is a plugin installation system for Neovim</div>",
-            "url": "https://github.com/roobert/activate.nvim",
-            "title": "roobert/activate.nvim: 🚀 Activate is a plugin installation system for Neovim",
-            "date_modified": "2024-08-22T06:34:27.000Z",
-            "date_published": "2023-09-06T21:22:57.000Z",
-            "author": {
-                "name": "roobert",
-                "url": "https://github.com/roobert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
-            "url": "https://github.com/mikavilpas/yazi.nvim",
-            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2024-08-22T08:40:00.000Z",
-            "date_published": "2024-02-25T13:33:19.000Z",
-            "author": {
-                "name": "mikavilpas",
-                "url": "https://github.com/mikavilpas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
-            "url": "https://github.com/stevearc/aerial.nvim",
-            "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
-            "date_modified": "2024-08-22T10:14:36.000Z",
-            "date_published": "2020-09-19T22:59:49.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
             }
         }
     ]
