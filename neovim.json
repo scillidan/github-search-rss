@@ -6,10 +6,32 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
+            "url": "https://github.com/nvim-neorocks/lz.n",
+            "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
+            "date_modified": "2024-08-22T23:07:39.000Z",
+            "date_published": "2024-01-05T13:38:49.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99920520?u=1800d8007e42f34727480fa1b16165bc871be6fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A comprehensive and optimized Neovim configuration. Includes custom settings, key mappings, plugins, and themes tailored for an enhanced development experience.</div>",
+            "url": "https://github.com/Lexnyan/nvim-config",
+            "title": "Lexnyan/nvim-config: A comprehensive and optimized Neovim configuration. Includes custom settings, key mappings, plugins, and themes tailored for an enhanced development experience.",
+            "date_modified": "2024-08-22T23:03:58.000Z",
+            "date_published": "2024-07-27T19:37:52.000Z",
+            "author": {
+                "name": "Lexnyan",
+                "url": "https://github.com/Lexnyan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.</div>",
             "url": "https://github.com/frankroeder/parrot.nvim",
             "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.",
-            "date_modified": "2024-08-22T22:08:21.000Z",
+            "date_modified": "2024-08-22T22:15:56.000Z",
             "date_published": "2023-08-15T10:16:36.000Z",
             "author": {
                 "name": "frankroeder",
@@ -20,11 +42,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-08-22T21:56:39.000Z",
+            "date_modified": "2024-08-22T22:50:16.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
                 "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
+            "url": "https://github.com/Isrothy/neominimap.nvim",
+            "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
+            "date_modified": "2024-08-22T22:54:04.000Z",
+            "date_published": "2024-06-24T13:52:02.000Z",
+            "author": {
+                "name": "Isrothy",
+                "url": "https://github.com/Isrothy"
             }
         },
         {
@@ -149,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
-            "url": "https://github.com/nvim-neorocks/lz.n",
-            "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
-            "date_modified": "2024-08-22T19:29:46.000Z",
-            "date_published": "2024-01-05T13:38:49.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
             "url": "https://github.com/catgoose/nvim",
             "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "sourcegraph",
                 "url": "https://github.com/sourcegraph"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83350364?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for creating marks in the line number column</div>",
-            "url": "https://github.com/sfpvk/field-marks",
-            "title": "sfpvk/field-marks: neovim plugin for creating marks in the line number column",
-            "date_modified": "2024-08-22T18:17:09.000Z",
-            "date_published": "2024-08-21T14:52:03.000Z",
-            "author": {
-                "name": "sfpvk",
-                "url": "https://github.com/sfpvk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
-            "url": "https://github.com/lima1909/resty.nvim",
-            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
-            "date_modified": "2024-08-22T18:09:34.000Z",
-            "date_published": "2024-05-04T09:33:14.000Z",
-            "author": {
-                "name": "lima1909",
-                "url": "https://github.com/lima1909"
             }
         }
     ]
