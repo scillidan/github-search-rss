@@ -6,14 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
+            "url": "https://github.com/nvim-neorocks/lz.n",
+            "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
+            "date_modified": "2024-08-23T07:57:11.000Z",
+            "date_published": "2024-01-05T13:38:49.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5302150?u=f1d607aa505b6ab4d1ffcb9a53eac8e4e807734e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for chatcli.</div>",
+            "url": "https://github.com/cthulahoops/chatcli-vim",
+            "title": "cthulahoops/chatcli-vim: A neovim plugin for chatcli.",
+            "date_modified": "2024-08-23T07:49:15.000Z",
+            "date_published": "2024-08-23T07:20:38.000Z",
+            "author": {
+                "name": "cthulahoops",
+                "url": "https://github.com/cthulahoops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31811?u=d1bf6b46223407d4a5cfec666957196121a836fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple session management plugin for neovim.</div>",
+            "url": "https://github.com/tigion/nvim-sessions",
+            "title": "tigion/nvim-sessions: A simple session management plugin for neovim.",
+            "date_modified": "2024-08-23T07:38:22.000Z",
+            "date_published": "2024-08-21T12:37:08.000Z",
+            "author": {
+                "name": "tigion",
+                "url": "https://github.com/tigion"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32382130?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple neovim plugin for running a custom command on the terminal</div>",
             "url": "https://github.com/ppouke/Runrun.nvim",
             "title": "ppouke/Runrun.nvim: Simple neovim plugin for running a custom command on the terminal",
-            "date_modified": "2024-08-23T06:48:11.000Z",
+            "date_modified": "2024-08-23T07:35:45.000Z",
             "date_published": "2024-08-21T07:25:00.000Z",
             "author": {
                 "name": "ppouke",
                 "url": "https://github.com/ppouke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-23T07:18:42.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -25,17 +69,6 @@
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-23T06:19:23.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -160,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
-            "url": "https://github.com/nvim-neorocks/lz.n",
-            "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
-            "date_modified": "2024-08-23T00:50:56.000Z",
-            "date_published": "2024-01-05T13:38:49.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "LongerHV",
                 "url": "https://github.com/LongerHV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
-            "title": "yutkat/new-neovim-plugin-rss",
-            "date_modified": "2024-08-23T00:04:21.000Z",
-            "date_published": "2022-08-28T04:58:40.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
-            "url": "https://github.com/Isrothy/neominimap.nvim",
-            "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
-            "date_modified": "2024-08-23T00:01:50.000Z",
-            "date_published": "2024-06-24T13:52:02.000Z",
-            "author": {
-                "name": "Isrothy",
-                "url": "https://github.com/Isrothy"
             }
         }
     ]
