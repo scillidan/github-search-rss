@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42227652?u=2df69e5312922792977db9f71c975ff4cde47ed7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My configuration and plugins of Neovim</div>",
+            "url": "https://github.com/Alexandroskw/nvim-config",
+            "title": "Alexandroskw/nvim-config: My configuration and plugins of Neovim",
+            "date_modified": "2024-08-25T04:08:23.000Z",
+            "date_published": "2024-07-06T07:45:09.000Z",
+            "author": {
+                "name": "Alexandroskw",
+                "url": "https://github.com/Alexandroskw"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34167738?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An interactive Git plugin for Neovim using libgit2</div>",
+            "url": "https://github.com/bdsilver89/git2.nvim",
+            "title": "bdsilver89/git2.nvim: An interactive Git plugin for Neovim using libgit2",
+            "date_modified": "2024-08-25T04:07:39.000Z",
+            "date_published": "2024-08-25T03:14:46.000Z",
+            "author": {
+                "name": "bdsilver89",
+                "url": "https://github.com/bdsilver89"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29335192?u=2b9f85d0b719b194691e5795d08d4f075ee9d1c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>collama.nvim is a Neovim plugin that leverages Ollama to provide source code completion capabilities similar to GitHub Copilot.</div>",
+            "url": "https://github.com/yuys13/collama.nvim",
+            "title": "yuys13/collama.nvim: collama.nvim is a Neovim plugin that leverages Ollama to provide source code completion capabilities similar to GitHub Copilot.",
+            "date_modified": "2024-08-25T03:55:24.000Z",
+            "date_published": "2024-02-23T07:05:28.000Z",
+            "author": {
+                "name": "yuys13",
+                "url": "https://github.com/yuys13"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-25T03:18:41.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116496520?u=28164ee18e20411f9e1ed1e4631c69a0b4ebd75c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Neovim inspired by Emacs' Compilation Mode</div>",
             "url": "https://github.com/ej-shafran/compile-mode.nvim",
             "title": "ej-shafran/compile-mode.nvim: A plugin for Neovim inspired by Emacs' Compilation Mode",
@@ -36,28 +80,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29335192?u=2b9f85d0b719b194691e5795d08d4f075ee9d1c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>collama.nvim is a Neovim plugin that leverages Ollama to provide source code completion capabilities similar to GitHub Copilot.</div>",
-            "url": "https://github.com/yuys13/collama.nvim",
-            "title": "yuys13/collama.nvim: collama.nvim is a Neovim plugin that leverages Ollama to provide source code completion capabilities similar to GitHub Copilot.",
-            "date_modified": "2024-08-25T02:38:48.000Z",
-            "date_published": "2024-02-23T07:05:28.000Z",
-            "author": {
-                "name": "yuys13",
-                "url": "https://github.com/yuys13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-25T02:32:44.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55058351?u=6d056f309ab66e5b88fbd5249477f931d4e69188&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Efficiency plugin designed to optimize code actions in Neovim</div>",
-            "url": "https://github.com/Chaitanyabsprip/fastaction.nvim",
-            "title": "Chaitanyabsprip/fastaction.nvim: Efficiency plugin designed to optimize code actions in Neovim",
-            "date_modified": "2024-08-24T23:11:15.000Z",
-            "date_published": "2024-07-12T12:06:53.000Z",
-            "author": {
-                "name": "Chaitanyabsprip",
-                "url": "https://github.com/Chaitanyabsprip"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-08-25T00:53:06.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
             }
         }
     ]
