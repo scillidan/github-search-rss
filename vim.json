@@ -6,10 +6,32 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82559809?u=254a96315c74b42807120803cd45c78ee8a0460b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal neovim configuration with a beautiful ui powered by many powerful plugins like Telescope, nvim-tree, lspconfig. Completely written in lua.</div>",
+            "url": "https://github.com/knid/nvim",
+            "title": "knid/nvim: My personal neovim configuration with a beautiful ui powered by many powerful plugins like Telescope, nvim-tree, lspconfig. Completely written in lua.",
+            "date_modified": "2024-08-25T15:50:24.000Z",
+            "date_published": "2022-11-24T15:02:45.000Z",
+            "author": {
+                "name": "knid",
+                "url": "https://github.com/knid"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10050180?u=28473b5c51572e92afa28dfb77c131f5789320e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A shell based bulk installer and manager for vim and shell plugins.</div>",
+            "url": "https://github.com/paulkaspriskie/bevy",
+            "title": "paulkaspriskie/bevy: A shell based bulk installer and manager for vim and shell plugins.",
+            "date_modified": "2024-08-25T15:44:28.000Z",
+            "date_published": "2024-04-11T00:20:26.000Z",
+            "author": {
+                "name": "paulkaspriskie",
+                "url": "https://github.com/paulkaspriskie"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
             "url": "https://github.com/killitar/obscure.nvim",
             "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
-            "date_modified": "2024-08-25T14:54:13.000Z",
+            "date_modified": "2024-08-25T15:36:43.000Z",
             "date_published": "2024-07-21T11:56:28.000Z",
             "author": {
                 "name": "killitar",
@@ -17,14 +39,58 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10050180?u=28473b5c51572e92afa28dfb77c131f5789320e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A shell based bulk installer and manager for vim and shell plugins.</div>",
-            "url": "https://github.com/paulkaspriskie/bevy",
-            "title": "paulkaspriskie/bevy: A shell based bulk installer and manager for vim and shell plugins.",
-            "date_modified": "2024-08-25T14:47:47.000Z",
-            "date_published": "2024-04-11T00:20:26.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
+            "date_modified": "2024-08-25T15:21:29.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
             "author": {
-                "name": "paulkaspriskie",
-                "url": "https://github.com/paulkaspriskie"
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9595795?u=b25436c6e2084f48def7fcdd701b2139b41a892d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin for Limboole support.</div>",
+            "url": "https://github.com/MarcelSimader/Vim-Limboole",
+            "title": "MarcelSimader/Vim-Limboole: A Vim plugin for Limboole support.",
+            "date_modified": "2024-08-25T15:19:53.000Z",
+            "date_published": "2023-06-23T17:18:53.000Z",
+            "author": {
+                "name": "MarcelSimader",
+                "url": "https://github.com/MarcelSimader"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9595795?u=b25436c6e2084f48def7fcdd701b2139b41a892d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Vim plugin for QCIR editing support. </div>",
+            "url": "https://github.com/MarcelSimader/Vim-QCIR",
+            "title": "MarcelSimader/Vim-QCIR: A simple Vim plugin for QCIR editing support. ",
+            "date_modified": "2024-08-25T15:19:39.000Z",
+            "date_published": "2023-10-12T17:55:15.000Z",
+            "author": {
+                "name": "MarcelSimader",
+                "url": "https://github.com/MarcelSimader"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9595795?u=b25436c6e2084f48def7fcdd701b2139b41a892d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Vim plugin for DIMACS editing support.</div>",
+            "url": "https://github.com/MarcelSimader/Vim-DIMACS",
+            "title": "MarcelSimader/Vim-DIMACS: A simple Vim plugin for DIMACS editing support.",
+            "date_modified": "2024-08-25T15:19:16.000Z",
+            "date_published": "2023-06-23T09:41:36.000Z",
+            "author": {
+                "name": "MarcelSimader",
+                "url": "https://github.com/MarcelSimader"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9595795?u=b25436c6e2084f48def7fcdd701b2139b41a892d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This plugin is a combination of previously split plugins. These include 'Vim-DIMACS', 'Vim-QCIR', and 'Vim-Limboole'. Now, the plugin is a repository for many types of SAT/QBF-related files, including syntax highlighting, file type plugins, file type detection, etc.</div>",
+            "url": "https://github.com/MarcelSimader/Vim-SAT-QBF",
+            "title": "MarcelSimader/Vim-SAT-QBF: This plugin is a combination of previously split plugins. These include 'Vim-DIMACS', 'Vim-QCIR', and 'Vim-Limboole'. Now, the plugin is a repository for many types of SAT/QBF-related files, including syntax highlighting, file type plugins, file type detection, etc.",
+            "date_modified": "2024-08-25T15:18:10.000Z",
+            "date_published": "2024-08-25T15:16:54.000Z",
+            "author": {
+                "name": "MarcelSimader",
+                "url": "https://github.com/MarcelSimader"
             }
         },
         {
@@ -69,17 +135,6 @@
             "author": {
                 "name": "kyoh86",
                 "url": "https://github.com/kyoh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
-            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
-            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
-            "date_modified": "2024-08-25T13:36:33.000Z",
-            "date_published": "2024-04-02T18:24:40.000Z",
-            "author": {
-                "name": "GustavEikaas",
-                "url": "https://github.com/GustavEikaas"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "Shougo",
                 "url": "https://github.com/Shougo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4468354?u=d7cd1cc56b2e781a00ba6e59067bcfca04cdba33&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin that remaps the `*` key to be better</div>",
-            "url": "https://github.com/yogeshdhamija/better-asterisk-remap.vim",
-            "title": "yogeshdhamija/better-asterisk-remap.vim: Vim plugin that remaps the `*` key to be better",
-            "date_modified": "2024-08-25T05:36:58.000Z",
-            "date_published": "2020-07-07T00:44:26.000Z",
-            "author": {
-                "name": "yogeshdhamija",
-                "url": "https://github.com/yogeshdhamija"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34588326?u=46cf9787e502dd1f7c817761b9f7c670919114c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal plugin/config file for neovim.</div>",
-            "url": "https://github.com/catielanier/vim-config",
-            "title": "catielanier/vim-config: My personal plugin/config file for neovim.",
-            "date_modified": "2024-08-25T04:49:27.000Z",
-            "date_published": "2020-06-29T22:40:07.000Z",
-            "author": {
-                "name": "catielanier",
-                "url": "https://github.com/catielanier"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> 🦥 Supercharge your Haskell experience in neovim!</div>",
-            "url": "https://github.com/mrcjkb/haskell-tools.nvim",
-            "title": "mrcjkb/haskell-tools.nvim:  🦥 Supercharge your Haskell experience in neovim!",
-            "date_modified": "2024-08-25T00:20:19.000Z",
-            "date_published": "2022-10-15T14:18:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19822996?u=953eb98f7a76c860a8f20ede6aa355159279c273&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Read-only repository for the elk shell vim plugin</div>",
-            "url": "https://github.com/PaddiM8/elk-vim",
-            "title": "PaddiM8/elk-vim: Read-only repository for the elk shell vim plugin",
-            "date_modified": "2024-08-24T22:59:01.000Z",
-            "date_published": "2024-08-24T22:34:16.000Z",
-            "author": {
-                "name": "PaddiM8",
-                "url": "https://github.com/PaddiM8"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/806502?u=d33fd4fb23a290350e5e62bcbf765997bfdc44db&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim settings and plugins</div>",
-            "url": "https://github.com/ivanalejandro0/nvim.config",
-            "title": "ivanalejandro0/nvim.config: My neovim settings and plugins",
-            "date_modified": "2024-08-24T20:10:09.000Z",
-            "date_published": "2013-06-24T00:10:57.000Z",
-            "author": {
-                "name": "ivanalejandro0",
-                "url": "https://github.com/ivanalejandro0"
             }
         }
     ]
