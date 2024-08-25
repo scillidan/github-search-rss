@@ -6,11 +6,66 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
+            "url": "https://github.com/killitar/obscure.nvim",
+            "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
+            "date_modified": "2024-08-25T14:54:13.000Z",
+            "date_published": "2024-07-21T11:56:28.000Z",
+            "author": {
+                "name": "killitar",
+                "url": "https://github.com/killitar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10050180?u=28473b5c51572e92afa28dfb77c131f5789320e2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A shell based bulk installer and manager for vim and shell plugins.</div>",
+            "url": "https://github.com/paulkaspriskie/bevy",
+            "title": "paulkaspriskie/bevy: A shell based bulk installer and manager for vim and shell plugins.",
+            "date_modified": "2024-08-25T14:47:47.000Z",
+            "date_published": "2024-04-11T00:20:26.000Z",
+            "author": {
+                "name": "paulkaspriskie",
+                "url": "https://github.com/paulkaspriskie"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-08-25T14:19:58.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ddu.vim source collects plugins managed in lazy.nvim.</div>",
+            "url": "https://github.com/kyoh86/ddu-source-lazy_nvim",
+            "title": "kyoh86/ddu-source-lazy_nvim: ddu.vim source collects plugins managed in lazy.nvim.",
+            "date_modified": "2024-08-25T14:19:29.000Z",
+            "date_published": "2023-06-06T22:38:40.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)</div>",
             "url": "https://github.com/kyoh86/denops-zenn_dev.vim",
             "title": "kyoh86/denops-zenn_dev.vim: A Vim plugin to manage Zenn.dev using denops.vim (without Node.js)",
-            "date_modified": "2024-08-25T14:04:27.000Z",
+            "date_modified": "2024-08-25T14:19:01.000Z",
             "date_published": "2024-04-04T19:25:15.000Z",
+            "author": {
+                "name": "kyoh86",
+                "url": "https://github.com/kyoh86"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of utilities to develop Vim/Neovim plugins via denops.vim</div>",
+            "url": "https://github.com/kyoh86/denops-util",
+            "title": "kyoh86/denops-util: Set of utilities to develop Vim/Neovim plugins via denops.vim",
+            "date_modified": "2024-08-25T14:18:48.000Z",
+            "date_published": "2024-01-06T00:19:26.000Z",
             "author": {
                 "name": "kyoh86",
                 "url": "https://github.com/kyoh86"
@@ -47,17 +102,6 @@
             "author": {
                 "name": "owjs3901",
                 "url": "https://github.com/owjs3901"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5582459?u=062f9074b6d432f073b7e09940e70fc1c092e072&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>ddu.vim source collects plugins managed in lazy.nvim.</div>",
-            "url": "https://github.com/kyoh86/ddu-source-lazy_nvim",
-            "title": "kyoh86/ddu-source-lazy_nvim: ddu.vim source collects plugins managed in lazy.nvim.",
-            "date_modified": "2024-08-25T11:32:37.000Z",
-            "date_published": "2023-06-06T22:38:40.000Z",
-            "author": {
-                "name": "kyoh86",
-                "url": "https://github.com/kyoh86"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "ivanalejandro0",
                 "url": "https://github.com/ivanalejandro0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47638216?u=4ee134546171252a890f6acc55adf5aa0ac1a889&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Python Import Management for Neovim: A Lua Plugin for Automatic Import Refactoring &amp; Resolution</div>",
-            "url": "https://github.com/alexpasmantier/pymple.nvim",
-            "title": "alexpasmantier/pymple.nvim: Python Import Management for Neovim: A Lua Plugin for Automatic Import Refactoring & Resolution",
-            "date_modified": "2024-08-24T20:06:27.000Z",
-            "date_published": "2024-07-19T16:25:55.000Z",
-            "author": {
-                "name": "alexpasmantier",
-                "url": "https://github.com/alexpasmantier"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9595795?u=b25436c6e2084f48def7fcdd701b2139b41a892d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Vim plugin for QCIR editing support. </div>",
-            "url": "https://github.com/MarcelSimader/Vim-QCIR",
-            "title": "MarcelSimader/Vim-QCIR: A simple Vim plugin for QCIR editing support. ",
-            "date_modified": "2024-08-24T19:58:58.000Z",
-            "date_published": "2023-10-12T17:55:15.000Z",
-            "author": {
-                "name": "MarcelSimader",
-                "url": "https://github.com/MarcelSimader"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1034518?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>lite-xl plugin to turn lite-xl into vim</div>",
-            "url": "https://github.com/adamharrison/vim-xl",
-            "title": "adamharrison/vim-xl: lite-xl plugin to turn lite-xl into vim",
-            "date_modified": "2024-08-25T02:49:15.000Z",
-            "date_published": "2024-08-23T19:38:22.000Z",
-            "author": {
-                "name": "adamharrison",
-                "url": "https://github.com/adamharrison"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A wiki plugin for Vim</div>",
-            "url": "https://github.com/lervag/wiki.vim",
-            "title": "lervag/wiki.vim: A wiki plugin for Vim",
-            "date_modified": "2024-08-24T17:20:36.000Z",
-            "date_published": "2016-05-27T13:18:56.000Z",
-            "author": {
-                "name": "lervag",
-                "url": "https://github.com/lervag"
             }
         }
     ]
