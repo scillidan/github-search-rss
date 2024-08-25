@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
+            "date_modified": "2024-08-25T17:04:36.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
+            "author": {
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
+            "url": "https://github.com/killitar/obscure.nvim",
+            "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
+            "date_modified": "2024-08-25T16:50:06.000Z",
+            "date_published": "2024-07-21T11:56:28.000Z",
+            "author": {
+                "name": "killitar",
+                "url": "https://github.com/killitar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Neovim plugin to autosave</div>",
+            "url": "https://github.com/brianhuster/autosave.nvim",
+            "title": "brianhuster/autosave.nvim: A simple Neovim plugin to autosave",
+            "date_modified": "2024-08-25T16:35:40.000Z",
+            "date_published": "2024-08-25T15:08:00.000Z",
+            "author": {
+                "name": "brianhuster",
+                "url": "https://github.com/brianhuster"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-25T16:19:00.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/82559809?u=254a96315c74b42807120803cd45c78ee8a0460b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal neovim configuration with a beautiful ui powered by many powerful plugins like Telescope, nvim-tree, lspconfig. Completely written in lua.</div>",
             "url": "https://github.com/knid/nvim",
             "title": "knid/nvim: My personal neovim configuration with a beautiful ui powered by many powerful plugins like Telescope, nvim-tree, lspconfig. Completely written in lua.",
@@ -17,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
-            "url": "https://github.com/killitar/obscure.nvim",
-            "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
-            "date_modified": "2024-08-25T15:36:43.000Z",
-            "date_published": "2024-07-21T11:56:28.000Z",
-            "author": {
-                "name": "killitar",
-                "url": "https://github.com/killitar"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13891133?u=97dfb320dccd7b76d96a924807e988e9dbfe78e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua, powered by omnisharp-roslyn, that aims to enhance the development experience for .NET developers.</div>",
             "url": "https://github.com/iabdelkareem/csharp.nvim",
             "title": "iabdelkareem/csharp.nvim: Neovim plugin written in Lua, powered by omnisharp-roslyn, that aims to enhance the development experience for .NET developers.",
@@ -36,28 +69,6 @@
             "author": {
                 "name": "iabdelkareem",
                 "url": "https://github.com/iabdelkareem"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
-            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
-            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
-            "date_modified": "2024-08-25T15:21:29.000Z",
-            "date_published": "2024-04-02T18:24:40.000Z",
-            "author": {
-                "name": "GustavEikaas",
-                "url": "https://github.com/GustavEikaas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-25T15:19:27.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57921252?u=9a7770b83718e7277afb393a72acb8d99105a591&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin improving access to recent yank history</div>",
             "url": "https://github.com/ptdewey/yankbank-nvim",
             "title": "ptdewey/yankbank-nvim: Neovim plugin improving access to recent yank history",
-            "date_modified": "2024-08-25T15:20:29.000Z",
+            "date_modified": "2024-08-25T17:02:31.000Z",
             "date_published": "2024-03-14T23:12:23.000Z",
             "author": {
                 "name": "ptdewey",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "catgoose",
                 "url": "https://github.com/catgoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25811797?u=95d1efebabde29fc3e595ac99d41f8eb9491dd30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My sensivle Neovim config with useful plugins</div>",
-            "url": "https://github.com/maths-lover/neovim_config",
-            "title": "maths-lover/neovim_config: My sensivle Neovim config with useful plugins",
-            "date_modified": "2024-08-25T10:43:09.000Z",
-            "date_published": "2024-03-25T21:34:40.000Z",
-            "author": {
-                "name": "maths-lover",
-                "url": "https://github.com/maths-lover"
             }
         }
     ]
