@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116496520?u=28164ee18e20411f9e1ed1e4631c69a0b4ebd75c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Neovim inspired by Emacs' Compilation Mode</div>",
+            "url": "https://github.com/ej-shafran/compile-mode.nvim",
+            "title": "ej-shafran/compile-mode.nvim: A plugin for Neovim inspired by Emacs' Compilation Mode",
+            "date_modified": "2024-08-25T19:00:51.000Z",
+            "date_published": "2023-10-15T19:44:38.000Z",
+            "author": {
+                "name": "ej-shafran",
+                "url": "https://github.com/ej-shafran"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
+            "url": "https://github.com/yongleyuan/nvim-config",
+            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
+            "date_modified": "2024-08-25T18:56:47.000Z",
+            "date_published": "2024-06-18T01:55:38.000Z",
+            "author": {
+                "name": "yongleyuan",
+                "url": "https://github.com/yongleyuan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
+            "url": "https://github.com/brianhuster/live-preview.nvim",
+            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
+            "date_modified": "2024-08-25T18:41:12.000Z",
+            "date_published": "2024-07-24T10:30:05.000Z",
+            "author": {
+                "name": "brianhuster",
+                "url": "https://github.com/brianhuster"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93693693?u=dd4ce314f34c77664a92b6d25dffd853ce4487e3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal LazyVim config. Contains a few extra plugins</div>",
+            "url": "https://github.com/GianlucaP106/lazyvim-config",
+            "title": "GianlucaP106/lazyvim-config: My personal LazyVim config. Contains a few extra plugins",
+            "date_modified": "2024-08-25T18:36:48.000Z",
+            "date_published": "2024-01-07T00:05:19.000Z",
+            "author": {
+                "name": "GianlucaP106",
+                "url": "https://github.com/GianlucaP106"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-25T18:19:07.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
+            "date_modified": "2024-08-25T18:19:00.000Z",
+            "date_published": "2024-05-04T09:33:14.000Z",
+            "author": {
+                "name": "lima1909",
+                "url": "https://github.com/lima1909"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
+            "date_modified": "2024-08-25T18:17:28.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
+            "author": {
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
             "url": "https://github.com/R-nvim/R.nvim",
             "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
@@ -17,17 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
-            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
-            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
-            "date_modified": "2024-08-25T17:48:26.000Z",
-            "date_published": "2024-04-02T18:24:40.000Z",
-            "author": {
-                "name": "GustavEikaas",
-                "url": "https://github.com/GustavEikaas"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
             "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
             "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
@@ -36,17 +102,6 @@
             "author": {
                 "name": "m15a",
                 "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-25T17:19:19.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -94,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
-            "url": "https://github.com/brianhuster/live-preview.nvim",
-            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
-            "date_modified": "2024-08-25T15:06:46.000Z",
-            "date_published": "2024-07-24T10:30:05.000Z",
-            "author": {
-                "name": "brianhuster",
-                "url": "https://github.com/brianhuster"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.</div>",
             "url": "https://github.com/echasnovski/mini.misc",
             "title": "echasnovski/mini.misc: Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.",
@@ -141,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/57921252?u=9a7770b83718e7277afb393a72acb8d99105a591&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin improving access to recent yank history</div>",
             "url": "https://github.com/ptdewey/yankbank-nvim",
             "title": "ptdewey/yankbank-nvim: Neovim plugin improving access to recent yank history",
-            "date_modified": "2024-08-25T17:59:06.000Z",
+            "date_modified": "2024-08-25T19:04:37.000Z",
             "date_published": "2024-03-14T23:12:23.000Z",
             "author": {
                 "name": "ptdewey",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "kyoh86",
                 "url": "https://github.com/kyoh86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-08-25T13:28:02.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-08-25T12:10:11.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99483158?u=37ac3c12b87673525bc41e3cfc8dc7365d31d8b3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a window indicator plugin for neovim </div>",
-            "url": "https://github.com/Antony-AXS/indicator.nvim",
-            "title": "Antony-AXS/indicator.nvim: a window indicator plugin for neovim ",
-            "date_modified": "2024-08-25T11:39:14.000Z",
-            "date_published": "2024-08-17T05:30:39.000Z",
-            "author": {
-                "name": "Antony-AXS",
-                "url": "https://github.com/Antony-AXS"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9076885?u=2e6ae61bcee056e7e15cbf7fc81c1de3f8dcb87f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mongo.nvim mongo client UI plugin for neovim</div>",
-            "url": "https://github.com/donus3/mongo.nvim",
-            "title": "donus3/mongo.nvim: mongo.nvim mongo client UI plugin for neovim",
-            "date_modified": "2024-08-25T11:30:34.000Z",
-            "date_published": "2024-05-26T13:30:45.000Z",
-            "author": {
-                "name": "donus3",
-                "url": "https://github.com/donus3"
             }
         }
     ]
