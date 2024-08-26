@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23266335?u=b39a81b5e77c57ebdaeba40fb231ddf01c49c144&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is the vim configuration I'm using. It loads a bunch of plugins and shortcuts</div>",
+            "url": "https://github.com/cchampou/vim",
+            "title": "cchampou/vim: This is the vim configuration I'm using. It loads a bunch of plugins and shortcuts",
+            "date_modified": "2024-08-26T09:58:21.000Z",
+            "date_published": "2021-02-06T02:44:03.000Z",
+            "author": {
+                "name": "cchampou",
+                "url": "https://github.com/cchampou"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-08-26T09:20:24.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-26T09:19:41.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/41364823?u=7280b6d16249406b007973f0dcf190b077177269&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for silicon in Rust</div>",
+            "url": "https://github.com/krivahtoo/silicon.nvim",
+            "title": "krivahtoo/silicon.nvim: Neovim plugin for silicon in Rust",
+            "date_modified": "2024-08-26T09:17:47.000Z",
+            "date_published": "2022-08-27T09:14:30.000Z",
+            "author": {
+                "name": "krivahtoo",
+                "url": "https://github.com/krivahtoo"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45213563?u=7eb4d3e8e9ba036d7fe11fafacd10cb899dbb989&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple plugin to toggle a floating terminal window with customizable starting program</div>",
             "url": "https://github.com/Ernest1338/termplug.nvim",
             "title": "Ernest1338/termplug.nvim: Simple plugin to toggle a floating terminal window with customizable starting program",
@@ -20,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36446499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim lua plugin for helm-ls</div>",
             "url": "https://github.com/qvalentin/helm-ls.nvim",
             "title": "qvalentin/helm-ls.nvim: neovim lua plugin for helm-ls",
-            "date_modified": "2024-08-26T09:07:19.000Z",
+            "date_modified": "2024-08-26T09:13:54.000Z",
             "date_published": "2024-08-26T08:32:44.000Z",
             "author": {
                 "name": "qvalentin",
@@ -42,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-08-26T09:03:59.000Z",
+            "date_modified": "2024-08-26T09:31:20.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -91,17 +135,6 @@
             "author": {
                 "name": "jackMort",
                 "url": "https://github.com/jackMort"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-26T08:19:34.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "VicoHBB",
                 "url": "https://github.com/VicoHBB"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌒 Neovim plugin management inspired by Cargo, powered by luarocks</div>",
-            "url": "https://github.com/nvim-neorocks/rocks.nvim",
-            "title": "nvim-neorocks/rocks.nvim: 🌒 Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-08-26T05:55:20.000Z",
-            "date_published": "2023-07-05T11:24:40.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-08-26T05:51:18.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-08-26T05:19:02.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         }
     ]
