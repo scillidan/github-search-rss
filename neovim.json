@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
+            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
+            "date_modified": "2024-08-26T21:02:05.000Z",
+            "date_published": "2024-03-18T04:13:43.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36446499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim lua plugin for helm-ls</div>",
+            "url": "https://github.com/qvalentin/helm-ls.nvim",
+            "title": "qvalentin/helm-ls.nvim: neovim lua plugin for helm-ls",
+            "date_modified": "2024-08-26T20:57:11.000Z",
+            "date_published": "2024-08-26T08:32:44.000Z",
+            "author": {
+                "name": "qvalentin",
+                "url": "https://github.com/qvalentin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52346246?u=4e500c2195cbb526ed506246eadab66d56e13c1e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple plugin to allow alignment over multiple lines.</div>",
+            "url": "https://github.com/jokesper/align.nvim",
+            "title": "jokesper/align.nvim: A simple plugin to allow alignment over multiple lines.",
+            "date_modified": "2024-08-26T20:56:37.000Z",
+            "date_published": "2024-05-02T20:11:04.000Z",
+            "author": {
+                "name": "jokesper",
+                "url": "https://github.com/jokesper"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35329469?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin configurations for Neovim using Lazy.nvim and plugin-configuration-loader.nvim</div>",
+            "url": "https://github.com/RadicalTeapot/plugin-configurations",
+            "title": "RadicalTeapot/plugin-configurations: Plugin configurations for Neovim using Lazy.nvim and plugin-configuration-loader.nvim",
+            "date_modified": "2024-08-26T20:38:27.000Z",
+            "date_published": "2024-04-16T21:44:09.000Z",
+            "author": {
+                "name": "RadicalTeapot",
+                "url": "https://github.com/RadicalTeapot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that helps manage python requirements.</div>",
+            "url": "https://github.com/MeanderingProgrammer/py-requirements.nvim",
+            "title": "MeanderingProgrammer/py-requirements.nvim: Neovim plugin that helps manage python requirements.",
+            "date_modified": "2024-08-26T20:44:48.000Z",
+            "date_published": "2024-01-23T05:38:34.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50273941?u=2566da61a5d8fc14bed3f35e63fd97808cce21ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DiagFloat is a Neovim plugin that enhances your coding experience by displaying diagnostic messages in customizable floating windows.</div>",
+            "url": "https://github.com/maxmx03/diagpop.nvim",
+            "title": "maxmx03/diagpop.nvim: DiagFloat is a Neovim plugin that enhances your coding experience by displaying diagnostic messages in customizable floating windows.",
+            "date_modified": "2024-08-26T20:27:19.000Z",
+            "date_published": "2024-08-22T13:40:28.000Z",
+            "author": {
+                "name": "maxmx03",
+                "url": "https://github.com/maxmx03"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-26T20:19:16.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50273941?u=2566da61a5d8fc14bed3f35e63fd97808cce21ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Schemecraft is a versatile colorscheme generator designed for Neovim and Vim9. It provides support for multiple variants, allowing users to customize and create unique color schemes tailored to their preferences.</div>",
             "url": "https://github.com/maxmx03/schemecraft",
             "title": "maxmx03/schemecraft: Schemecraft is a versatile colorscheme generator designed for Neovim and Vim9. It provides support for multiple variants, allowing users to customize and create unique color schemes tailored to their preferences.",
@@ -83,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-26T18:19:47.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1998490?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Disable/Enable LSP clients and NullLS sources for buffers.</div>",
             "url": "https://github.com/adoyle-h/lsp-toggle.nvim",
             "title": "adoyle-h/lsp-toggle.nvim: Disable/Enable LSP clients and NullLS sources for buffers.",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116496520?u=28164ee18e20411f9e1ed1e4631c69a0b4ebd75c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for managing Docker from inside of Neovim</div>",
-            "url": "https://github.com/ej-shafran/docker-nvim",
-            "title": "ej-shafran/docker-nvim: A plugin for managing Docker from inside of Neovim",
-            "date_modified": "2024-08-26T17:05:40.000Z",
-            "date_published": "2024-07-07T22:30:30.000Z",
-            "author": {
-                "name": "ej-shafran",
-                "url": "https://github.com/ej-shafran"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91647110?u=f72e0218582bb769478a71863fd78a450784da69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ultra fast and lightweight neovim setup with just essential plugins</div>",
-            "url": "https://github.com/tryprncp/neovim",
-            "title": "tryprncp/neovim: Ultra fast and lightweight neovim setup with just essential plugins",
-            "date_modified": "2024-08-26T16:52:01.000Z",
-            "date_published": "2024-07-13T16:47:08.000Z",
-            "author": {
-                "name": "tryprncp",
-                "url": "https://github.com/tryprncp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86842365?u=216ea23a1fb4e7e8d0f2eb58683454abad95f7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that provides an implementation for vim.notify</div>",
-            "url": "https://github.com/samsze0/notifier.nvim",
-            "title": "samsze0/notifier.nvim: A neovim plugin that provides an implementation for vim.notify",
-            "date_modified": "2024-08-26T16:24:38.000Z",
-            "date_published": "2024-05-15T12:04:19.000Z",
-            "author": {
-                "name": "samsze0",
-                "url": "https://github.com/samsze0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127350487?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Neovim plugin for Supermaven</div>",
-            "url": "https://github.com/supermaven-inc/supermaven-nvim",
-            "title": "supermaven-inc/supermaven-nvim: The official Neovim plugin for Supermaven",
-            "date_modified": "2024-08-26T16:54:09.000Z",
-            "date_published": "2024-05-08T17:37:53.000Z",
-            "author": {
-                "name": "supermaven-inc",
-                "url": "https://github.com/supermaven-inc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-08-26T19:57:16.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34167738?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An interactive Git plugin for Neovim using libgit2</div>",
-            "url": "https://github.com/bdsilver89/git2.nvim",
-            "title": "bdsilver89/git2.nvim: An interactive Git plugin for Neovim using libgit2",
-            "date_modified": "2024-08-26T14:37:21.000Z",
-            "date_published": "2024-08-25T03:14:46.000Z",
-            "author": {
-                "name": "bdsilver89",
-                "url": "https://github.com/bdsilver89"
             }
         }
     ]
