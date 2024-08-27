@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34167738?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An interactive libgit2 based Git plugin for Neovim</div>",
+            "url": "https://github.com/bdsilver89/git2.nvim",
+            "title": "bdsilver89/git2.nvim: An interactive libgit2 based Git plugin for Neovim",
+            "date_modified": "2024-08-27T12:11:34.000Z",
+            "date_published": "2024-08-27T12:11:30.000Z",
+            "author": {
+                "name": "bdsilver89",
+                "url": "https://github.com/bdsilver89"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-08-27T12:11:15.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55988677?u=345bfa0b3b16a718943b98f716eb7c56a3d99e7e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim, Zsh, plugins, and a bunch of other stuff</div>",
+            "url": "https://github.com/tiagokrebs/dotfiles",
+            "title": "tiagokrebs/dotfiles: NeoVim, Zsh, plugins, and a bunch of other stuff",
+            "date_modified": "2024-08-27T11:43:19.000Z",
+            "date_published": "2022-07-16T15:27:17.000Z",
+            "author": {
+                "name": "tiagokrebs",
+                "url": "https://github.com/tiagokrebs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-27T11:18:28.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52529582?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to practice neovim movements, currently in \"open beta\"</div>",
             "url": "https://github.com/Weyaaron/nvim-training",
             "title": "Weyaaron/nvim-training: A plugin to practice neovim movements, currently in \"open beta\"",
@@ -97,22 +141,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-08-27T11:00:06.000Z",
+            "date_modified": "2024-08-27T11:45:21.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
                 "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-27T08:19:52.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -141,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226654?u=42669bdd5c052036c28e36f704d0252339629ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Activate is a plugin installation system for Neovim</div>",
             "url": "https://github.com/roobert/activate.nvim",
             "title": "roobert/activate.nvim: 🚀 Activate is a plugin installation system for Neovim",
-            "date_modified": "2024-08-27T07:59:23.000Z",
+            "date_modified": "2024-08-27T11:19:33.000Z",
             "date_published": "2023-09-06T21:22:57.000Z",
             "author": {
                 "name": "roobert",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "nhomble",
                 "url": "https://github.com/nhomble"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
-            "url": "https://github.com/MagicDuck/grug-far.nvim",
-            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-08-27T09:14:59.000Z",
-            "date_published": "2024-04-28T18:15:17.000Z",
-            "author": {
-                "name": "MagicDuck",
-                "url": "https://github.com/MagicDuck"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
-            "url": "https://github.com/tamago324/nlsp-settings.nvim",
-            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
-            "date_modified": "2024-08-27T05:02:37.000Z",
-            "date_published": "2021-03-21T05:46:20.000Z",
-            "author": {
-                "name": "tamago324",
-                "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99483158?u=37ac3c12b87673525bc41e3cfc8dc7365d31d8b3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a window indicating plugin for neovim </div>",
-            "url": "https://github.com/Antony-AXS/indicator.nvim",
-            "title": "Antony-AXS/indicator.nvim: a window indicating plugin for neovim ",
-            "date_modified": "2024-08-27T07:47:25.000Z",
-            "date_published": "2024-08-17T05:30:39.000Z",
-            "author": {
-                "name": "Antony-AXS",
-                "url": "https://github.com/Antony-AXS"
             }
         }
     ]
