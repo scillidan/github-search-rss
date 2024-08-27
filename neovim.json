@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/625364?u=0af3461d421435959bfaed67c7f2483953231865&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, packaged as a plugin.</div>",
+            "url": "https://github.com/ooloth/config.nvim",
+            "title": "ooloth/config.nvim: My Neovim configuration, packaged as a plugin.",
+            "date_modified": "2024-08-27T20:10:23.000Z",
+            "date_published": "2024-08-22T19:48:51.000Z",
+            "author": {
+                "name": "ooloth",
+                "url": "https://github.com/ooloth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-08-27T19:06:01.000Z",
+            "date_modified": "2024-08-27T19:46:58.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
                 "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36446499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim lua plugin for helm-ls</div>",
+            "url": "https://github.com/qvalentin/helm-ls.nvim",
+            "title": "qvalentin/helm-ls.nvim: neovim lua plugin for helm-ls",
+            "date_modified": "2024-08-27T19:52:45.000Z",
+            "date_published": "2024-08-26T08:32:44.000Z",
+            "author": {
+                "name": "qvalentin",
+                "url": "https://github.com/qvalentin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
+            "date_modified": "2024-08-27T19:28:10.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
+            "author": {
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
             }
         },
         {
@@ -116,28 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/625364?u=0af3461d421435959bfaed67c7f2483953231865&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, packaged as a plugin.</div>",
-            "url": "https://github.com/ooloth/config.nvim",
-            "title": "ooloth/config.nvim: My Neovim configuration, packaged as a plugin.",
-            "date_modified": "2024-08-27T16:19:08.000Z",
-            "date_published": "2024-08-22T19:48:51.000Z",
-            "author": {
-                "name": "ooloth",
-                "url": "https://github.com/ooloth"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
-            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
-            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
-            "date_modified": "2024-08-27T16:15:36.000Z",
-            "date_published": "2024-04-02T18:24:40.000Z",
-            "author": {
-                "name": "GustavEikaas",
-                "url": "https://github.com/GustavEikaas"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37036732?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to for LLM support in neovim.</div>",
             "url": "https://github.com/spielhuus/llamacode.nvim",
             "title": "spielhuus/llamacode.nvim: Plugin to for LLM support in neovim.",
@@ -209,17 +220,6 @@
             "title": "echasnovski/mini.starter: Neovim Lua plugin with fast and flexible start screen. Part of 'mini.nvim' library.",
             "date_modified": "2024-08-27T13:56:30.000Z",
             "date_published": "2022-10-24T16:28:08.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.misc",
-            "title": "echasnovski/mini.misc: Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.",
-            "date_modified": "2024-08-27T13:56:25.000Z",
-            "date_published": "2022-10-24T16:25:16.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
