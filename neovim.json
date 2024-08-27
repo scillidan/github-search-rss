@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177695206?u=f05ea07e3b178cc4d85e8060a4103adb270d45b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>jumplist plugin for neovim</div>",
+            "url": "https://github.com/Rex-Sanchez/jumplist.nvim",
+            "title": "Rex-Sanchez/jumplist.nvim: jumplist plugin for neovim",
+            "date_modified": "2024-08-27T17:41:30.000Z",
+            "date_published": "2024-08-13T18:24:22.000Z",
+            "author": {
+                "name": "Rex-Sanchez",
+                "url": "https://github.com/Rex-Sanchez"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
+            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
+            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
+            "date_modified": "2024-08-27T17:22:46.000Z",
+            "date_published": "2021-12-11T08:13:56.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-27T17:19:04.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-08-27T17:19:01.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
+            "date_modified": "2024-08-27T17:15:57.000Z",
+            "date_published": "2024-05-04T09:33:14.000Z",
+            "author": {
+                "name": "lima1909",
+                "url": "https://github.com/lima1909"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-08-27T16:51:31.000Z",
+            "date_modified": "2024-08-27T17:23:44.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -20,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.</div>",
             "url": "https://github.com/frankroeder/parrot.nvim",
             "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.",
-            "date_modified": "2024-08-27T16:28:19.000Z",
+            "date_modified": "2024-08-27T17:39:59.000Z",
             "date_published": "2023-08-15T10:16:36.000Z",
             "author": {
                 "name": "frankroeder",
@@ -47,28 +102,6 @@
             "author": {
                 "name": "adelarsq",
                 "url": "https://github.com/adelarsq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a small http/rest client plugin for neovim</div>",
-            "url": "https://github.com/lima1909/resty.nvim",
-            "title": "lima1909/resty.nvim: a small http/rest client plugin for neovim",
-            "date_modified": "2024-08-27T16:21:57.000Z",
-            "date_published": "2024-05-04T09:33:14.000Z",
-            "author": {
-                "name": "lima1909",
-                "url": "https://github.com/lima1909"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-27T16:19:13.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -124,17 +157,6 @@
             "author": {
                 "name": "CRAG666",
                 "url": "https://github.com/CRAG666"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177695206?u=f05ea07e3b178cc4d85e8060a4103adb270d45b2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>jumplist plugin for neovim</div>",
-            "url": "https://github.com/Rex-Sanchez/jumplist.nvim",
-            "title": "Rex-Sanchez/jumplist.nvim: jumplist plugin for neovim",
-            "date_modified": "2024-08-27T15:04:22.000Z",
-            "date_published": "2024-08-13T18:24:22.000Z",
-            "author": {
-                "name": "Rex-Sanchez",
-                "url": "https://github.com/Rex-Sanchez"
             }
         },
         {
@@ -198,28 +220,6 @@
             "title": "echasnovski/mini.map: Neovim Lua plugin to manage window with buffer text overview. Part of 'mini.nvim' library.",
             "date_modified": "2024-08-27T13:56:23.000Z",
             "date_published": "2022-10-24T16:24:10.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.completion",
-            "title": "echasnovski/mini.completion: Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.",
-            "date_modified": "2024-08-27T13:56:21.000Z",
-            "date_published": "2022-10-24T16:19:08.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library. </div>",
-            "url": "https://github.com/echasnovski/mini.animate",
-            "title": "echasnovski/mini.animate: Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library. ",
-            "date_modified": "2024-08-27T13:56:19.000Z",
-            "date_published": "2022-12-22T08:18:05.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
