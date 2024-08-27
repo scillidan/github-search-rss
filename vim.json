@@ -6,10 +6,32 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-08-27T14:02:08.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38392952?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A  vim9 fuzzy finder plugin with minimal dependency and mordern UI</div>",
+            "url": "https://github.com/Donaldttt/fuzzyy",
+            "title": "Donaldttt/fuzzyy: A  vim9 fuzzy finder plugin with minimal dependency and mordern UI",
+            "date_modified": "2024-08-27T14:01:46.000Z",
+            "date_published": "2023-04-30T04:46:01.000Z",
+            "author": {
+                "name": "Donaldttt",
+                "url": "https://github.com/Donaldttt"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1034518?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>lite-xl plugin to turn lite-xl into vim</div>",
             "url": "https://github.com/adamharrison/quetta",
             "title": "adamharrison/quetta: lite-xl plugin to turn lite-xl into vim",
-            "date_modified": "2024-08-27T13:11:39.000Z",
+            "date_modified": "2024-08-27T13:59:41.000Z",
             "date_published": "2024-08-23T19:38:22.000Z",
             "author": {
                 "name": "adamharrison",
@@ -17,10 +39,32 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2363406?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin to manage colour schemes.</div>",
+            "url": "https://github.com/kheaactua/vim-managecolor",
+            "title": "kheaactua/vim-managecolor: Vim plugin to manage colour schemes.",
+            "date_modified": "2024-08-27T13:55:35.000Z",
+            "date_published": "2019-04-01T12:40:24.000Z",
+            "author": {
+                "name": "kheaactua",
+                "url": "https://github.com/kheaactua"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/657951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!</div>",
+            "url": "https://github.com/TaDaa/vimade",
+            "title": "TaDaa/vimade: An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!",
+            "date_modified": "2024-08-27T13:25:47.000Z",
+            "date_published": "2019-01-07T17:47:35.000Z",
+            "author": {
+                "name": "TaDaa",
+                "url": "https://github.com/TaDaa"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-08-27T13:08:10.000Z",
+            "date_modified": "2024-08-27T13:56:47.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -116,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/657951?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!</div>",
-            "url": "https://github.com/TaDaa/vimade",
-            "title": "TaDaa/vimade: An eye friendly plugin that fades your inactive buffers and preserves your syntax highlighting!",
-            "date_modified": "2024-08-27T06:16:46.000Z",
-            "date_published": "2019-01-07T17:47:35.000Z",
-            "author": {
-                "name": "TaDaa",
-                "url": "https://github.com/TaDaa"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5875706?u=886d2005a6225db9677c8b898913fc2d327d8bba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazingly fast, stunningly beautiful, powerful git branch viewer for Vim/Neovim.</div>",
             "url": "https://github.com/rbong/vim-flog",
             "title": "rbong/vim-flog: A blazingly fast, stunningly beautiful, powerful git branch viewer for Vim/Neovim.",
@@ -163,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47204120?u=5fb366cc66bc119e3bda023dbcaf0973ba835efb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Perform telescope functions in a selected directory</div>",
             "url": "https://github.com/princejoogie/dir-telescope.nvim",
             "title": "princejoogie/dir-telescope.nvim: Perform telescope functions in a selected directory",
-            "date_modified": "2024-08-27T00:49:04.000Z",
+            "date_modified": "2024-08-27T13:23:39.000Z",
             "date_published": "2022-10-19T08:23:45.000Z",
             "author": {
                 "name": "princejoogie",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "ogaken-1",
                 "url": "https://github.com/ogaken-1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/891655?u=292b5cf2482528001d1789d7a9e57e1fb2d5aef4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin for integration with Zotero</div>",
-            "url": "https://github.com/jalvesaq/zotcite",
-            "title": "jalvesaq/zotcite: Vim plugin for integration with Zotero",
-            "date_modified": "2024-08-27T00:06:54.000Z",
-            "date_published": "2018-08-04T17:50:15.000Z",
-            "author": {
-                "name": "jalvesaq",
-                "url": "https://github.com/jalvesaq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/891655?u=292b5cf2482528001d1789d7a9e57e1fb2d5aef4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin to work with R</div>",
-            "url": "https://github.com/jalvesaq/Nvim-R",
-            "title": "jalvesaq/Nvim-R: Vim plugin to work with R",
-            "date_modified": "2024-08-27T00:54:22.000Z",
-            "date_published": "2014-12-26T21:16:04.000Z",
-            "author": {
-                "name": "jalvesaq",
-                "url": "https://github.com/jalvesaq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35704742?u=9afa83e3ba749bfa6f50a618c637f832510ffe99&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim plugin that provides useful commands for file operations.</div>",
-            "url": "https://github.com/cwshugg/fops.vim",
-            "title": "cwshugg/fops.vim: A Vim plugin that provides useful commands for file operations.",
-            "date_modified": "2024-08-26T21:14:59.000Z",
-            "date_published": "2024-07-24T21:24:18.000Z",
-            "author": {
-                "name": "cwshugg",
-                "url": "https://github.com/cwshugg"
             }
         }
     ]
