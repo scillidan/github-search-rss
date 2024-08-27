@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/625364?u=0af3461d421435959bfaed67c7f2483953231865&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, packaged as a plugin.</div>",
+            "url": "https://github.com/ooloth/config.nvim",
+            "title": "ooloth/config.nvim: My Neovim configuration, packaged as a plugin.",
+            "date_modified": "2024-08-27T22:53:31.000Z",
+            "date_published": "2024-08-22T19:48:51.000Z",
+            "author": {
+                "name": "ooloth",
+                "url": "https://github.com/ooloth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-27T22:19:38.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/206899?u=5e7b9b35012bd6bcc6e652c1ff80871191c69c52&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sacrilegious insertmode plugin for Neovim</div>",
+            "url": "https://github.com/ins0mniaque/sacrilege.nvim",
+            "title": "ins0mniaque/sacrilege.nvim: A sacrilegious insertmode plugin for Neovim",
+            "date_modified": "2024-08-27T22:17:21.000Z",
+            "date_published": "2024-07-23T20:51:49.000Z",
+            "author": {
+                "name": "ins0mniaque",
+                "url": "https://github.com/ins0mniaque"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
@@ -61,28 +94,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-27T20:18:52.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/625364?u=0af3461d421435959bfaed67c7f2483953231865&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, packaged as a plugin.</div>",
-            "url": "https://github.com/ooloth/config.nvim",
-            "title": "ooloth/config.nvim: My Neovim configuration, packaged as a plugin.",
-            "date_modified": "2024-08-27T20:10:23.000Z",
-            "date_published": "2024-08-22T19:48:51.000Z",
-            "author": {
-                "name": "ooloth",
-                "url": "https://github.com/ooloth"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36446499?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim lua plugin for helm-ls</div>",
             "url": "https://github.com/qvalentin/helm-ls.nvim",
             "title": "qvalentin/helm-ls.nvim: neovim lua plugin for helm-ls",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5875706?u=886d2005a6225db9677c8b898913fc2d327d8bba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.</div>",
             "url": "https://github.com/rbong/vim-flog",
             "title": "rbong/vim-flog: A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.",
-            "date_modified": "2024-08-27T19:03:39.000Z",
+            "date_modified": "2024-08-27T22:27:06.000Z",
             "date_published": "2018-11-27T03:17:13.000Z",
             "author": {
                 "name": "rbong",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tamago324",
                 "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-08-27T14:02:08.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
             }
         }
     ]
