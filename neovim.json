@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9919?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for GitHub Copilot</div>",
+            "url": "https://github.com/github/copilot.vim",
+            "title": "github/copilot.vim: Neovim plugin for GitHub Copilot",
+            "date_modified": "2024-08-29T19:00:19.000Z",
+            "date_published": "2021-10-20T18:29:13.000Z",
+            "author": {
+                "name": "github",
+                "url": "https://github.com/github"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99483158?u=37ac3c12b87673525bc41e3cfc8dc7365d31d8b3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a window indicating plugin for neovim </div>",
+            "url": "https://github.com/Antony-AXS/indicator.nvim",
+            "title": "Antony-AXS/indicator.nvim: a window indicating plugin for neovim ",
+            "date_modified": "2024-08-29T18:22:55.000Z",
+            "date_published": "2024-08-17T05:30:39.000Z",
+            "author": {
+                "name": "Antony-AXS",
+                "url": "https://github.com/Antony-AXS"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
+            "url": "https://github.com/MagicDuck/grug-far.nvim",
+            "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
+            "date_modified": "2024-08-29T18:20:38.000Z",
+            "date_published": "2024-04-28T18:15:17.000Z",
+            "author": {
+                "name": "MagicDuck",
+                "url": "https://github.com/MagicDuck"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-08-29T18:19:46.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Set of simple, performant neovim plugins</div>",
             "url": "https://github.com/Saghen/blink.nvim",
             "title": "Saghen/blink.nvim: Set of simple, performant neovim plugins",
@@ -42,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-08-29T18:10:48.000Z",
+            "date_modified": "2024-08-29T18:24:26.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -102,17 +146,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-08-29T17:18:36.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "NixNeovim",
                 "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50273941?u=2566da61a5d8fc14bed3f35e63fd97808cce21ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>DiagFloat is a Neovim plugin that enhances your coding experience by displaying diagnostic messages in customizable floating windows.</div>",
-            "url": "https://github.com/maxmx03/diagpop.nvim",
-            "title": "maxmx03/diagpop.nvim: DiagFloat is a Neovim plugin that enhances your coding experience by displaying diagnostic messages in customizable floating windows.",
-            "date_modified": "2024-08-29T14:10:46.000Z",
-            "date_published": "2024-08-22T13:40:28.000Z",
-            "author": {
-                "name": "maxmx03",
-                "url": "https://github.com/maxmx03"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46334926?u=268634b0bf75ede31f6fe1447669fc713a1f9eb9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim Config. Notable plugins &amp; featues: Telescope, Harpoon, Lazy, VimBeGood, Bright-flash text  yank to system clipboard, and much, much more. </div>",
-            "url": "https://github.com/LinuxUser255/nvim",
-            "title": "LinuxUser255/nvim: My Neovim Config. Notable plugins & featues: Telescope, Harpoon, Lazy, VimBeGood, Bright-flash text  yank to system clipboard, and much, much more. ",
-            "date_modified": "2024-08-29T14:04:00.000Z",
-            "date_published": "2024-07-10T16:14:48.000Z",
-            "author": {
-                "name": "LinuxUser255",
-                "url": "https://github.com/LinuxUser255"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
-            "url": "https://github.com/brianhuster/live-preview.nvim",
-            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
-            "date_modified": "2024-08-29T12:57:54.000Z",
-            "date_published": "2024-07-24T10:30:05.000Z",
-            "author": {
-                "name": "brianhuster",
-                "url": "https://github.com/brianhuster"
             }
         }
     ]
