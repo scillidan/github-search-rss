@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10734352?u=4c43a4f9be03fe2f5de4a83fb7434479a1b506df&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This project was heavily inspired by the LazyVim distribuition, but I decided to create a new project to customize the plugin as I wanted and learn to more about how to configure the stuff on NeoVim</div>",
+            "url": "https://github.com/alaurentinoofficial/nvim",
+            "title": "alaurentinoofficial/nvim: This project was heavily inspired by the LazyVim distribuition, but I decided to create a new project to customize the plugin as I wanted and learn to more about how to configure the stuff on NeoVim",
+            "date_modified": "2024-08-31T20:09:05.000Z",
+            "date_published": "2024-03-06T15:48:35.000Z",
+            "author": {
+                "name": "alaurentinoofficial",
+                "url": "https://github.com/alaurentinoofficial"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
+            "url": "https://github.com/yongleyuan/nvim-config",
+            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
+            "date_modified": "2024-08-31T19:52:25.000Z",
+            "date_published": "2024-06-18T01:55:38.000Z",
+            "author": {
+                "name": "yongleyuan",
+                "url": "https://github.com/yongleyuan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/625364?u=0af3461d421435959bfaed67c7f2483953231865&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, packaged as a plugin.</div>",
+            "url": "https://github.com/ooloth/config.nvim",
+            "title": "ooloth/config.nvim: My Neovim configuration, packaged as a plugin.",
+            "date_modified": "2024-08-31T19:50:07.000Z",
+            "date_published": "2024-08-22T19:48:51.000Z",
+            "author": {
+                "name": "ooloth",
+                "url": "https://github.com/ooloth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
             "url": "https://github.com/MagicDuck/grug-far.nvim",
             "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-08-31T18:46:54.000Z",
+            "date_modified": "2024-08-31T19:38:45.000Z",
             "date_published": "2024-04-28T18:15:17.000Z",
             "author": {
                 "name": "MagicDuck",
@@ -47,6 +80,17 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22257750?u=d5734871bad49dcc75475fa43a02b11456c2f586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An unpolished writing tool powered by LLM ✍️</div>",
+            "url": "https://github.com/S1M0N38/dante.nvim",
+            "title": "S1M0N38/dante.nvim: An unpolished writing tool powered by LLM ✍️",
+            "date_modified": "2024-08-31T20:07:37.000Z",
+            "date_published": "2023-11-16T08:11:14.000Z",
+            "author": {
+                "name": "S1M0N38",
+                "url": "https://github.com/S1M0N38"
             }
         },
         {
@@ -119,22 +163,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61075605?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yet another minimap plugin for Neovim</div>",
             "url": "https://github.com/Isrothy/neominimap.nvim",
             "title": "Isrothy/neominimap.nvim: Yet another minimap plugin for Neovim",
-            "date_modified": "2024-08-31T15:23:34.000Z",
+            "date_modified": "2024-08-31T19:33:00.000Z",
             "date_published": "2024-06-24T13:52:02.000Z",
             "author": {
                 "name": "Isrothy",
                 "url": "https://github.com/Isrothy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/625364?u=0af3461d421435959bfaed67c7f2483953231865&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, packaged as a plugin.</div>",
-            "url": "https://github.com/ooloth/config.nvim",
-            "title": "ooloth/config.nvim: My Neovim configuration, packaged as a plugin.",
-            "date_modified": "2024-08-31T15:20:14.000Z",
-            "date_published": "2024-08-22T19:48:51.000Z",
-            "author": {
-                "name": "ooloth",
-                "url": "https://github.com/ooloth"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "simonmclean",
                 "url": "https://github.com/simonmclean"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
-            "url": "https://github.com/nvim-neorocks/lz.n",
-            "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
-            "date_modified": "2024-08-31T13:08:29.000Z",
-            "date_published": "2024-01-05T13:38:49.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26881592?u=0d8d1367c09029c7c18b344fc10ac4e4ec614da6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Youtrack plugin for neovim.</div>",
-            "url": "https://github.com/cenk1cenk2/youtrack-nvim",
-            "title": "cenk1cenk2/youtrack-nvim: Youtrack plugin for neovim.",
-            "date_modified": "2024-08-31T12:48:18.000Z",
-            "date_published": "2024-08-30T22:01:57.000Z",
-            "author": {
-                "name": "cenk1cenk2",
-                "url": "https://github.com/cenk1cenk2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-08-31T12:10:24.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
             }
         }
     ]
