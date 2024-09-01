@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
+            "url": "https://github.com/lervag/vimtex",
+            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+            "date_modified": "2024-09-01T14:36:25.000Z",
+            "date_published": "2013-10-05T11:55:11.000Z",
+            "author": {
+                "name": "lervag",
+                "url": "https://github.com/lervag"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125701?u=3a01e6929aa1ae0c1dc796928df3c91e22e1ca0f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CodeQL plugin for Neovim</div>",
+            "url": "https://github.com/pwntester/codeql.nvim",
+            "title": "pwntester/codeql.nvim: CodeQL plugin for Neovim",
+            "date_modified": "2024-09-01T14:35:17.000Z",
+            "date_published": "2019-12-12T21:30:22.000Z",
+            "author": {
+                "name": "pwntester",
+                "url": "https://github.com/pwntester"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-09-01T14:20:29.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-01T14:17:51.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/625364?u=0af3461d421435959bfaed67c7f2483953231865&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, packaged as a plugin.</div>",
+            "url": "https://github.com/ooloth/config.nvim",
+            "title": "ooloth/config.nvim: My Neovim configuration, packaged as a plugin.",
+            "date_modified": "2024-09-01T14:16:52.000Z",
+            "date_published": "2024-08-22T19:48:51.000Z",
+            "author": {
+                "name": "ooloth",
+                "url": "https://github.com/ooloth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/758880?u=3b1512d361e19d026853c7fd8c6eadc37b1dd99b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NeoVim dot files (lua, plugins, etc)</div>",
             "url": "https://github.com/n3krodamus/neovim",
             "title": "n3krodamus/neovim: NeoVim dot files (lua, plugins, etc)",
@@ -14,17 +69,6 @@
             "author": {
                 "name": "n3krodamus",
                 "url": "https://github.com/n3krodamus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/625364?u=0af3461d421435959bfaed67c7f2483953231865&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, packaged as a plugin.</div>",
-            "url": "https://github.com/ooloth/config.nvim",
-            "title": "ooloth/config.nvim: My Neovim configuration, packaged as a plugin.",
-            "date_modified": "2024-09-01T13:55:36.000Z",
-            "date_published": "2024-08-22T19:48:51.000Z",
-            "author": {
-                "name": "ooloth",
-                "url": "https://github.com/ooloth"
             }
         },
         {
@@ -58,17 +102,6 @@
             "author": {
                 "name": "altermo",
                 "url": "https://github.com/altermo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-01T13:19:14.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "ALT-F4-LLC",
                 "url": "https://github.com/ALT-F4-LLC"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1324601?u=2465d6619f67aec51a1c90f404135b611e1fd003&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GPTModels - a multi model, window based LLM AI plugin for neovim, with an emphasis on stability and clean code</div>",
-            "url": "https://github.com/Aaronik/GPTModels.nvim",
-            "title": "Aaronik/GPTModels.nvim: GPTModels - a multi model, window based LLM AI plugin for neovim, with an emphasis on stability and clean code",
-            "date_modified": "2024-09-01T07:22:02.000Z",
-            "date_published": "2024-03-26T19:57:22.000Z",
-            "author": {
-                "name": "Aaronik",
-                "url": "https://github.com/Aaronik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6261276?u=8d1652d821d4766a58014ff91283e68dcf92a563&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>free AI completion plugin for neovim</div>",
-            "url": "https://github.com/monkoose/neocodeium",
-            "title": "monkoose/neocodeium: free AI completion plugin for neovim",
-            "date_modified": "2024-09-01T11:22:05.000Z",
-            "date_published": "2024-04-01T15:01:46.000Z",
-            "author": {
-                "name": "monkoose",
-                "url": "https://github.com/monkoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
-            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
-            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-09-01T13:40:38.000Z",
-            "date_published": "2024-03-18T04:13:43.000Z",
-            "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
             }
         }
     ]
