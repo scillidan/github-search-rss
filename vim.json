@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30876423?u=b731a889006473dd34aeeded6d50923494b058ef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stupidly simple Vim/NeoVim plugin manager</div>",
+            "url": "https://github.com/BryceVandegrift/pm",
+            "title": "BryceVandegrift/pm: Stupidly simple Vim/NeoVim plugin manager",
+            "date_modified": "2024-09-02T15:19:30.000Z",
+            "date_published": "2022-11-04T23:51:29.000Z",
+            "author": {
+                "name": "BryceVandegrift",
+                "url": "https://github.com/BryceVandegrift"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36663503?u=9b18f3ab4438efa371bbfd7ef58d6bed19a34a6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Asynchronous LSP Gateway Plugin for denops.vim</div>",
+            "url": "https://github.com/kuuote/lspoints",
+            "title": "kuuote/lspoints: Asynchronous LSP Gateway Plugin for denops.vim",
+            "date_modified": "2024-09-02T15:14:26.000Z",
+            "date_published": "2023-08-21T11:41:51.000Z",
+            "author": {
+                "name": "kuuote",
+                "url": "https://github.com/kuuote"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/157031750?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Copy of the Ethersync Vim plugin from the main repo, for easier installation</div>",
+            "url": "https://github.com/ethersync/ethersync-vim",
+            "title": "ethersync/ethersync-vim: Copy of the Ethersync Vim plugin from the main repo, for easier installation",
+            "date_modified": "2024-09-02T15:12:39.000Z",
+            "date_published": "2024-01-18T15:59:52.000Z",
+            "author": {
+                "name": "ethersync",
+                "url": "https://github.com/ethersync"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45629548?u=7f5723ddfec9e3aeef04c735c3ecec331017652d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Small LLM (Claude) based Code Completion Plugin for Vim</div>",
             "url": "https://github.com/marvosyntactical/claudevimdone",
             "title": "marvosyntactical/claudevimdone: Small LLM (Claude) based Code Completion Plugin for Vim",
@@ -42,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-09-02T12:29:15.000Z",
+            "date_modified": "2024-09-02T15:59:24.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -163,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26169924?u=269b4c9cf7e7a1f389d3570d2165db7f515d6f7a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Multiple cursors plugin for vim/neovim</div>",
             "url": "https://github.com/mg979/vim-visual-multi",
             "title": "mg979/vim-visual-multi: Multiple cursors plugin for vim/neovim",
-            "date_modified": "2024-09-02T12:56:16.000Z",
+            "date_modified": "2024-09-02T15:24:15.000Z",
             "date_published": "2018-04-12T06:55:46.000Z",
             "author": {
                 "name": "mg979",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "subhadig",
                 "url": "https://github.com/subhadig"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/900716?u=b3f782e597638f05fee0f1cfa52a2379d40d2a94&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Android development plugin for vim</div>",
-            "url": "https://github.com/hsanson/vim-android",
-            "title": "hsanson/vim-android: Android development plugin for vim",
-            "date_modified": "2024-09-01T15:01:57.000Z",
-            "date_published": "2013-02-08T06:46:16.000Z",
-            "author": {
-                "name": "hsanson",
-                "url": "https://github.com/hsanson"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
-            "url": "https://github.com/lervag/vimtex",
-            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
-            "date_modified": "2024-09-02T11:10:19.000Z",
-            "date_published": "2013-10-05T11:55:11.000Z",
-            "author": {
-                "name": "lervag",
-                "url": "https://github.com/lervag"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-09-01T16:54:01.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
             }
         }
     ]
