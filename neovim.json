@@ -6,10 +6,65 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/625364?u=0af3461d421435959bfaed67c7f2483953231865&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, packaged as a plugin.</div>",
+            "url": "https://github.com/ooloth/config.nvim",
+            "title": "ooloth/config.nvim: My Neovim configuration, packaged as a plugin.",
+            "date_modified": "2024-09-05T18:09:41.000Z",
+            "date_published": "2024-08-22T19:48:51.000Z",
+            "author": {
+                "name": "ooloth",
+                "url": "https://github.com/ooloth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-09-05T17:32:25.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
+            "date_modified": "2024-09-05T17:34:30.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-09-05T17:24:57.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-05T17:18:07.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95201?u=24fb3497399fa434271959953efcdaa343f8f594&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Find And Replace plugin for neovim</div>",
             "url": "https://github.com/MagicDuck/grug-far.nvim",
             "title": "MagicDuck/grug-far.nvim: Find And Replace plugin for neovim",
-            "date_modified": "2024-09-05T17:01:54.000Z",
+            "date_modified": "2024-09-05T18:02:37.000Z",
             "date_published": "2024-04-28T18:15:17.000Z",
             "author": {
                 "name": "MagicDuck",
@@ -28,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-05T16:19:27.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139011070?u=abc315afd9a6b5feb60b837f44d414dcec06279d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins</div>",
             "url": "https://github.com/omardoescode/nvim-dotfiles",
             "title": "omardoescode/nvim-dotfiles: These are the up-to-date dotfiles for my neovim, including all options, keymaps, themes, and plugins",
@@ -47,17 +91,6 @@
             "author": {
                 "name": "omardoescode",
                 "url": "https://github.com/omardoescode"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-09-05T16:12:43.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
             }
         },
         {
@@ -80,17 +113,6 @@
             "author": {
                 "name": "yongleyuan",
                 "url": "https://github.com/yongleyuan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/625364?u=0af3461d421435959bfaed67c7f2483953231865&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration, packaged as a plugin.</div>",
-            "url": "https://github.com/ooloth/config.nvim",
-            "title": "ooloth/config.nvim: My Neovim configuration, packaged as a plugin.",
-            "date_modified": "2024-09-05T15:14:32.000Z",
-            "date_published": "2024-08-22T19:48:51.000Z",
-            "author": {
-                "name": "ooloth",
-                "url": "https://github.com/ooloth"
             }
         },
         {
@@ -198,28 +220,6 @@
             "title": "echasnovski/mini.bracketed: Neovim Lua plugin to go forward/backward with square brackets. Part of 'mini.nvim' library. ",
             "date_modified": "2024-09-05T13:34:02.000Z",
             "date_published": "2023-02-21T08:16:56.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.align",
-            "title": "echasnovski/mini.align: Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.",
-            "date_modified": "2024-09-05T13:34:00.000Z",
-            "date_published": "2022-10-24T16:14:49.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.ai",
-            "title": "echasnovski/mini.ai: Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.",
-            "date_modified": "2024-09-05T14:13:18.000Z",
-            "date_published": "2022-10-24T16:12:37.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
