@@ -6,25 +6,80 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69669786?u=4d753cd8976a7b5180c25822c4f9b427c879ef0c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains a customizable Neovim configuration designed to enhance development productivity. It includes a curated set of plugins for features like code completion, syntax highlighting, file navigation, multiple cursors, and more.</div>",
-            "url": "https://github.com/MayReel/vim-config",
-            "title": "MayReel/vim-config: This repository contains a customizable Neovim configuration designed to enhance development productivity. It includes a curated set of plugins for features like code completion, syntax highlighting, file navigation, multiple cursors, and more.",
-            "date_modified": "2024-09-06T00:46:40.000Z",
-            "date_published": "2024-09-05T23:43:22.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18416902?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>personal neovim config and plugin list</div>",
+            "url": "https://github.com/supengchuan/neovim-config",
+            "title": "supengchuan/neovim-config: personal neovim config and plugin list",
+            "date_modified": "2024-09-06T02:01:40.000Z",
+            "date_published": "2022-06-02T01:52:57.000Z",
             "author": {
-                "name": "MayReel",
-                "url": "https://github.com/MayReel"
+                "name": "supengchuan",
+                "url": "https://github.com/supengchuan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138314257?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim codemp plugin -- code multiplexer</div>",
+            "url": "https://github.com/hexedtech/codemp-nvim",
+            "title": "hexedtech/codemp-nvim: neovim codemp plugin -- code multiplexer",
+            "date_modified": "2024-09-06T01:54:02.000Z",
+            "date_published": "2024-08-03T13:04:07.000Z",
+            "author": {
+                "name": "hexedtech",
+                "url": "https://github.com/hexedtech"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/891655?u=292b5cf2482528001d1789d7a9e57e1fb2d5aef4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for integration with Zotero</div>",
+            "url": "https://github.com/jalvesaq/zotcite",
+            "title": "jalvesaq/zotcite: Neovim plugin for integration with Zotero",
+            "date_modified": "2024-09-06T01:52:50.000Z",
+            "date_published": "2018-08-04T17:50:15.000Z",
+            "author": {
+                "name": "jalvesaq",
+                "url": "https://github.com/jalvesaq"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
             "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
             "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-06T00:31:59.000Z",
+            "date_modified": "2024-09-06T01:46:50.000Z",
             "date_published": "2024-05-26T17:25:07.000Z",
             "author": {
                 "name": "zachcoyle",
                 "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76727386?u=352c441dd6a3864c131f8114a0a292b96e317c05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a Neovim plugin to help navigate betweeen Zellij panes as well as create new ones!</div>",
+            "url": "https://github.com/GR3YH4TT3R93/zellij-nav.nvim",
+            "title": "GR3YH4TT3R93/zellij-nav.nvim: a Neovim plugin to help navigate betweeen Zellij panes as well as create new ones!",
+            "date_modified": "2024-09-06T01:27:32.000Z",
+            "date_published": "2024-07-05T04:52:36.000Z",
+            "author": {
+                "name": "GR3YH4TT3R93",
+                "url": "https://github.com/GR3YH4TT3R93"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "date_modified": "2024-09-06T02:06:13.000Z",
+            "date_published": "2021-12-12T13:38:23.000Z",
+            "author": {
+                "name": "nvim-neo-tree",
+                "url": "https://github.com/nvim-neo-tree"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69669786?u=4d753cd8976a7b5180c25822c4f9b427c879ef0c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains a customizable Neovim configuration designed to enhance development productivity. It includes a curated set of plugins for features like code completion, syntax highlighting, file navigation, multiple cursors, and more.</div>",
+            "url": "https://github.com/MayReel/vim-config",
+            "title": "MayReel/vim-config: This repository contains a customizable Neovim configuration designed to enhance development productivity. It includes a curated set of plugins for features like code completion, syntax highlighting, file navigation, multiple cursors, and more.",
+            "date_modified": "2024-09-06T01:36:45.000Z",
+            "date_published": "2024-09-05T23:43:22.000Z",
+            "author": {
+                "name": "MayReel",
+                "url": "https://github.com/MayReel"
             }
         },
         {
@@ -80,17 +135,6 @@
             "author": {
                 "name": "yuys13",
                 "url": "https://github.com/yuys13"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138314257?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim codemp plugin -- code multiplexer</div>",
-            "url": "https://github.com/hexedtech/codemp-nvim",
-            "title": "hexedtech/codemp-nvim: neovim codemp plugin -- code multiplexer",
-            "date_modified": "2024-09-05T22:15:45.000Z",
-            "date_published": "2024-08-03T13:04:07.000Z",
-            "author": {
-                "name": "hexedtech",
-                "url": "https://github.com/hexedtech"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "lima1909",
                 "url": "https://github.com/lima1909"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1129276?u=f5f95126f5b84a54bfb4c9b476abda75a762debe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to open links (and custom phrases that can be converted to a link)</div>",
-            "url": "https://github.com/elentok/open-link.nvim",
-            "title": "elentok/open-link.nvim: Neovim plugin to open links (and custom phrases that can be converted to a link)",
-            "date_modified": "2024-09-05T19:19:08.000Z",
-            "date_published": "2023-10-23T14:49:34.000Z",
-            "author": {
-                "name": "elentok",
-                "url": "https://github.com/elentok"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2873379?u=7791a031abdcd6592d7b523a67145a5d895d48bc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Database plugin for neovim</div>",
-            "url": "https://github.com/paulocesar/neovim-db",
-            "title": "paulocesar/neovim-db: Database plugin for neovim",
-            "date_modified": "2024-09-05T18:36:19.000Z",
-            "date_published": "2020-05-09T07:38:35.000Z",
-            "author": {
-                "name": "paulocesar",
-                "url": "https://github.com/paulocesar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
-            "url": "https://github.com/mikavilpas/yazi.nvim",
-            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2024-09-06T00:25:54.000Z",
-            "date_published": "2024-02-25T13:33:19.000Z",
-            "author": {
-                "name": "mikavilpas",
-                "url": "https://github.com/mikavilpas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-09-05T22:28:22.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
             }
         }
     ]
