@@ -6,25 +6,58 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45028928?u=a69faba06ec8ac5c4fba47970ea02d4d24fc8f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Never manually save/write a buffer again!</div>",
-            "url": "https://github.com/tmillr/sos.nvim",
-            "title": "tmillr/sos.nvim: Never manually save/write a buffer again!",
-            "date_modified": "2024-09-06T13:57:10.000Z",
-            "date_published": "2022-10-18T12:52:35.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26058495?u=d287fcf6eab7ca845729e06c9214f16259e9ae35&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for better newcomer UX</div>",
+            "url": "https://github.com/tsilvs/kbdcheat.nvim",
+            "title": "tsilvs/kbdcheat.nvim: Neovim plugin for better newcomer UX",
+            "date_modified": "2024-09-06T15:10:45.000Z",
+            "date_published": "2024-08-30T13:54:57.000Z",
             "author": {
-                "name": "tmillr",
-                "url": "https://github.com/tmillr"
+                "name": "tsilvs",
+                "url": "https://github.com/tsilvs"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138314257?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim codemp plugin -- code multiplexer</div>",
+            "url": "https://github.com/hexedtech/codemp-nvim",
+            "title": "hexedtech/codemp-nvim: neovim codemp plugin -- code multiplexer",
+            "date_modified": "2024-09-06T15:06:30.000Z",
+            "date_published": "2024-08-03T13:04:07.000Z",
+            "author": {
+                "name": "hexedtech",
+                "url": "https://github.com/hexedtech"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
+            "url": "https://github.com/yongleyuan/nvim-config",
+            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
+            "date_modified": "2024-09-06T14:51:07.000Z",
+            "date_published": "2024-06-18T01:55:38.000Z",
+            "author": {
+                "name": "yongleyuan",
+                "url": "https://github.com/yongleyuan"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6871168?u=a44f109224f243af874e191d2991cdc91eedb712&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin to ask things to Gemini</div>",
             "url": "https://github.com/agusnt/askGemini.nvim",
             "title": "agusnt/askGemini.nvim: A Neovim Plugin to ask things to Gemini",
-            "date_modified": "2024-09-06T13:42:21.000Z",
+            "date_modified": "2024-09-06T14:26:40.000Z",
             "date_published": "2024-09-06T12:39:42.000Z",
             "author": {
                 "name": "agusnt",
                 "url": "https://github.com/agusnt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45028928?u=a69faba06ec8ac5c4fba47970ea02d4d24fc8f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Never manually save/write a buffer again!</div>",
+            "url": "https://github.com/tmillr/sos.nvim",
+            "title": "tmillr/sos.nvim: Never manually save/write a buffer again!",
+            "date_modified": "2024-09-06T14:15:17.000Z",
+            "date_published": "2022-10-18T12:52:35.000Z",
+            "author": {
+                "name": "tmillr",
+                "url": "https://github.com/tmillr"
             }
         },
         {
@@ -47,17 +80,6 @@
             "author": {
                 "name": "zachcoyle",
                 "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138314257?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim codemp plugin -- code multiplexer</div>",
-            "url": "https://github.com/hexedtech/codemp-nvim",
-            "title": "hexedtech/codemp-nvim: neovim codemp plugin -- code multiplexer",
-            "date_modified": "2024-09-06T13:13:52.000Z",
-            "date_published": "2024-08-03T13:04:07.000Z",
-            "author": {
-                "name": "hexedtech",
-                "url": "https://github.com/hexedtech"
             }
         },
         {
@@ -198,28 +220,6 @@
             "title": "echasnovski/mini.tabline: Neovim Lua plugin with minimal and fast tabline. Part of 'mini.nvim' library.",
             "date_modified": "2024-09-06T09:13:28.000Z",
             "date_published": "2022-10-24T16:30:46.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.surround",
-            "title": "echasnovski/mini.surround: Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.",
-            "date_modified": "2024-09-06T13:51:34.000Z",
-            "date_published": "2022-10-24T16:30:02.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.statusline",
-            "title": "echasnovski/mini.statusline: Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.",
-            "date_modified": "2024-09-06T09:13:25.000Z",
-            "date_published": "2022-10-24T16:29:00.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
