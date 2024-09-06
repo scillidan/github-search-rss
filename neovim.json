@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45028928?u=a69faba06ec8ac5c4fba47970ea02d4d24fc8f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Never manually save/write a buffer again!</div>",
+            "url": "https://github.com/tmillr/sos.nvim",
+            "title": "tmillr/sos.nvim: Never manually save/write a buffer again!",
+            "date_modified": "2024-09-06T13:57:10.000Z",
+            "date_published": "2022-10-18T12:52:35.000Z",
+            "author": {
+                "name": "tmillr",
+                "url": "https://github.com/tmillr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6871168?u=a44f109224f243af874e191d2991cdc91eedb712&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin to ask things to Gemini</div>",
+            "url": "https://github.com/agusnt/askGemini.nvim",
+            "title": "agusnt/askGemini.nvim: A Neovim Plugin to ask things to Gemini",
+            "date_modified": "2024-09-06T13:42:21.000Z",
+            "date_published": "2024-09-06T12:39:42.000Z",
+            "author": {
+                "name": "agusnt",
+                "url": "https://github.com/agusnt"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-09-06T13:28:13.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-06T13:20:09.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138314257?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim codemp plugin -- code multiplexer</div>",
             "url": "https://github.com/hexedtech/codemp-nvim",
             "title": "hexedtech/codemp-nvim: neovim codemp plugin -- code multiplexer",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "hexedtech",
                 "url": "https://github.com/hexedtech"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6871168?u=a44f109224f243af874e191d2991cdc91eedb712&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin to ask things to Gemini</div>",
-            "url": "https://github.com/agusnt/askGemini.nvim",
-            "title": "agusnt/askGemini.nvim: A Neovim Plugin to ask things to Gemini",
-            "date_modified": "2024-09-06T12:57:14.000Z",
-            "date_published": "2024-09-06T12:39:42.000Z",
-            "author": {
-                "name": "agusnt",
-                "url": "https://github.com/agusnt"
             }
         },
         {
@@ -138,28 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-09-06T09:20:47.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-06T09:19:53.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to manage trailspace (highlight and remove). Part of 'mini.nvim' library.</div>",
             "url": "https://github.com/echasnovski/mini.trailspace",
             "title": "echasnovski/mini.trailspace: Neovim Lua plugin to manage trailspace (highlight and remove). Part of 'mini.nvim' library.",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.</div>",
             "url": "https://github.com/echasnovski/mini.surround",
             "title": "echasnovski/mini.surround: Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.",
-            "date_modified": "2024-09-06T09:13:26.000Z",
+            "date_modified": "2024-09-06T13:51:34.000Z",
             "date_published": "2022-10-24T16:30:02.000Z",
             "author": {
                 "name": "echasnovski",
@@ -209,17 +220,6 @@
             "title": "echasnovski/mini.statusline: Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.",
             "date_modified": "2024-09-06T09:13:25.000Z",
             "date_published": "2022-10-24T16:29:00.000Z",
-            "author": {
-                "name": "echasnovski",
-                "url": "https://github.com/echasnovski"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin with fast and flexible start screen. Part of 'mini.nvim' library.</div>",
-            "url": "https://github.com/echasnovski/mini.starter",
-            "title": "echasnovski/mini.starter: Neovim Lua plugin with fast and flexible start screen. Part of 'mini.nvim' library.",
-            "date_modified": "2024-09-06T09:13:23.000Z",
-            "date_published": "2022-10-24T16:28:08.000Z",
             "author": {
                 "name": "echasnovski",
                 "url": "https://github.com/echasnovski"
