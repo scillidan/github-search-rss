@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A busted wrapper for testing neovim plugin</div>",
+            "url": "https://github.com/notomo/vusted",
+            "title": "notomo/vusted: A busted wrapper for testing neovim plugin",
+            "date_modified": "2024-09-09T23:08:01.000Z",
+            "date_published": "2020-05-20T13:25:03.000Z",
+            "author": {
+                "name": "notomo",
+                "url": "https://github.com/notomo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to generate import graph</div>",
+            "url": "https://github.com/notomo/importgraph.nvim",
+            "title": "notomo/importgraph.nvim: Neovim plugin to generate import graph",
+            "date_modified": "2024-09-09T22:32:22.000Z",
+            "date_published": "2022-04-03T09:24:20.000Z",
+            "author": {
+                "name": "notomo",
+                "url": "https://github.com/notomo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
+            "date_modified": "2024-09-09T23:06:49.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30728211?u=fa860eaa437d2ff9d3d4c97b160afeccfd787b55&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>configs and plugins for neovim.</div>",
             "url": "https://github.com/pellee/nvim-dotfiles",
             "title": "pellee/nvim-dotfiles: configs and plugins for neovim.",
@@ -94,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-09-09T21:32:36.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63556825?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gemini Neovim Plugin </div>",
             "url": "https://github.com/veseckytomas/gemini.nvim",
             "title": "veseckytomas/gemini.nvim: Gemini Neovim Plugin ",
@@ -130,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
             "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-09-09T18:20:47.000Z",
+            "date_modified": "2024-09-09T23:01:12.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -163,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6261276?u=8d1652d821d4766a58014ff91283e68dcf92a563&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>free AI completion plugin for neovim</div>",
             "url": "https://github.com/monkoose/neocodeium",
             "title": "monkoose/neocodeium: free AI completion plugin for neovim",
-            "date_modified": "2024-09-09T18:40:28.000Z",
+            "date_modified": "2024-09-09T23:09:01.000Z",
             "date_published": "2024-04-01T15:01:46.000Z",
             "author": {
                 "name": "monkoose",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "btd2010",
                 "url": "https://github.com/btd2010"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84653162?u=7355f982567b6a47e88c19b192490a879c517fdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>New neovim config, now using Lua and more modern plugins!!</div>",
-            "url": "https://github.com/ShigeoDev/nvim-config",
-            "title": "ShigeoDev/nvim-config: New neovim config, now using Lua and more modern plugins!!",
-            "date_modified": "2024-09-09T15:56:09.000Z",
-            "date_published": "2024-02-03T02:50:17.000Z",
-            "author": {
-                "name": "ShigeoDev",
-                "url": "https://github.com/ShigeoDev"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-09-09T15:32:39.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
             }
         }
     ]
