@@ -6,6 +6,28 @@
     "description": "datasette on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73594?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archives your RSS feeds to SQLite file, to be explored later with Datasette.</div>",
+            "url": "https://github.com/haron/feed-archiver",
+            "title": "haron/feed-archiver: Archives your RSS feeds to SQLite file, to be explored later with Datasette.",
+            "date_modified": "2024-09-10T17:04:55.000Z",
+            "date_published": "2024-09-02T19:25:31.000Z",
+            "author": {
+                "name": "haron",
+                "url": "https://github.com/haron"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139249755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Advanced permission management for Datasette</div>",
+            "url": "https://github.com/datasette/datasette-acl",
+            "title": "datasette/datasette-acl: Advanced permission management for Datasette",
+            "date_modified": "2024-09-10T16:14:37.000Z",
+            "date_published": "2024-08-29T21:52:08.000Z",
+            "author": {
+                "name": "datasette",
+                "url": "https://github.com/datasette"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6523121?u=017448c52d1fee302f9c1f38f12ff60e5a1d0935&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>legal data in machine-readable form</div>",
             "url": "https://github.com/hueyy/lacuna-db",
             "title": "hueyy/lacuna-db: legal data in machine-readable form",
@@ -14,17 +36,6 @@
             "author": {
                 "name": "hueyy",
                 "url": "https://github.com/hueyy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139249755?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Advanced permission management for Datasette</div>",
-            "url": "https://github.com/datasette/datasette-acl",
-            "title": "datasette/datasette-acl: Advanced permission management for Datasette",
-            "date_modified": "2024-09-10T15:44:44.000Z",
-            "date_published": "2024-08-29T21:52:08.000Z",
-            "author": {
-                "name": "datasette",
-                "url": "https://github.com/datasette"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "AustinDizzy",
                 "url": "https://github.com/AustinDizzy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9599?u=b14820695cc6ae03f8a831990697bc040596c0f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archive PyPI JSON information for all Datasette related packages</div>",
-            "url": "https://github.com/simonw/pypi-datasette-packages",
-            "title": "simonw/pypi-datasette-packages: Archive PyPI JSON information for all Datasette related packages",
-            "date_modified": "2024-09-07T03:55:42.000Z",
-            "date_published": "2022-04-07T19:34:54.000Z",
-            "author": {
-                "name": "simonw",
-                "url": "https://github.com/simonw"
             }
         }
     ]
