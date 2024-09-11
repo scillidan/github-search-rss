@@ -6,6 +6,28 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of Vim/Neovim plugins I use, as a Nix flake</div>",
+            "url": "https://github.com/m15a/flake-vim-plugin-analects",
+            "title": "m15a/flake-vim-plugin-analects: A collection of Vim/Neovim plugins I use, as a Nix flake",
+            "date_modified": "2024-09-11T08:53:12.000Z",
+            "date_published": "2024-04-11T07:27:53.000Z",
+            "author": {
+                "name": "m15a",
+                "url": "https://github.com/m15a"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10722656?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for the Obsidian.md note-taking software</div>",
+            "url": "https://github.com/esm7/obsidian-vimrc-support",
+            "title": "esm7/obsidian-vimrc-support: A plugin for the Obsidian.md note-taking software",
+            "date_modified": "2024-09-11T08:30:07.000Z",
+            "date_published": "2020-11-01T11:13:56.000Z",
+            "author": {
+                "name": "esm7",
+                "url": "https://github.com/esm7"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for creating reactive UI  in neovim</div>",
             "url": "https://github.com/NvChad/volt",
             "title": "NvChad/volt: Plugin for creating reactive UI  in neovim",
-            "date_modified": "2024-09-11T05:42:24.000Z",
+            "date_modified": "2024-09-11T08:16:16.000Z",
             "date_published": "2024-09-11T03:45:07.000Z",
             "author": {
                 "name": "NvChad",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "rafaelrojasmiliani",
                 "url": "https://github.com/rafaelrojasmiliani"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1354301?u=56fed9f714f15fe27585120086fae9e92148dde0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin: support command mode in Russian keyboard layout</div>",
-            "url": "https://github.com/powerman/vim-plugin-ruscmd",
-            "title": "powerman/vim-plugin-ruscmd: Vim plugin: support command mode in Russian keyboard layout",
-            "date_modified": "2024-09-10T09:38:04.000Z",
-            "date_published": "2012-05-10T18:02:13.000Z",
-            "author": {
-                "name": "powerman",
-                "url": "https://github.com/powerman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-09-10T08:43:08.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
             }
         }
     ]
