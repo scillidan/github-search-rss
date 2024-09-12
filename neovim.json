@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
+            "url": "https://github.com/lervag/vimtex",
+            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+            "date_modified": "2024-09-12T16:43:44.000Z",
+            "date_published": "2013-10-05T11:55:11.000Z",
+            "author": {
+                "name": "lervag",
+                "url": "https://github.com/lervag"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
+            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
+            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
+            "date_modified": "2024-09-12T16:37:39.000Z",
+            "date_published": "2023-07-13T06:54:44.000Z",
+            "author": {
+                "name": "polirritmico",
+                "url": "https://github.com/polirritmico"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-09-12T16:36:11.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-12T16:20:41.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76727386?u=352c441dd6a3864c131f8114a0a292b96e317c05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a Neovim plugin to help navigate betweeen Zellij panes as well as create new ones!</div>",
             "url": "https://github.com/GR3YH4TT3R93/zellij-nav.nvim",
             "title": "GR3YH4TT3R93/zellij-nav.nvim: a Neovim plugin to help navigate betweeen Zellij panes as well as create new ones!",
@@ -25,39 +69,6 @@
             "author": {
                 "name": "sergiornelas",
                 "url": "https://github.com/sergiornelas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24460484?u=f2bd3d68ed96ed8598bafc5e69ce3551e7e141f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.</div>",
-            "url": "https://github.com/polirritmico/monokai-nightasty.nvim",
-            "title": "polirritmico/monokai-nightasty.nvim: A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
-            "date_modified": "2024-09-12T15:51:08.000Z",
-            "date_published": "2023-07-13T06:54:44.000Z",
-            "author": {
-                "name": "polirritmico",
-                "url": "https://github.com/polirritmico"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
-            "url": "https://github.com/lervag/vimtex",
-            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
-            "date_modified": "2024-09-12T15:34:40.000Z",
-            "date_published": "2013-10-05T11:55:11.000Z",
-            "author": {
-                "name": "lervag",
-                "url": "https://github.com/lervag"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-12T15:21:13.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
             "url": "https://github.com/NixNeovim/NixNeovimPlugins",
             "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-09-12T14:26:08.000Z",
+            "date_modified": "2024-09-12T16:59:07.000Z",
             "date_published": "2022-08-13T14:50:55.000Z",
             "author": {
                 "name": "NixNeovim",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3581973?u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.</div>",
             "url": "https://github.com/slugbyte/lackluster.nvim",
             "title": "slugbyte/lackluster.nvim: a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.",
-            "date_modified": "2024-09-12T09:07:50.000Z",
+            "date_modified": "2024-09-12T16:24:20.000Z",
             "date_published": "2024-05-20T10:19:15.000Z",
             "author": {
                 "name": "slugbyte",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "TenzinPlatter",
                 "url": "https://github.com/TenzinPlatter"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166814964?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for mlx</div>",
-            "url": "https://github.com/ocaml-mlx/ocaml_mlx.nvim",
-            "title": "ocaml-mlx/ocaml_mlx.nvim: neovim plugin for mlx",
-            "date_modified": "2024-09-12T08:51:14.000Z",
-            "date_published": "2024-07-26T02:34:02.000Z",
-            "author": {
-                "name": "ocaml-mlx",
-                "url": "https://github.com/ocaml-mlx"
             }
         }
     ]
