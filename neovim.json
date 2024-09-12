@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-09-12T12:12:10.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
+            "url": "https://github.com/mfussenegger/nvim-lint",
+            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+            "date_modified": "2024-09-12T11:50:50.000Z",
+            "date_published": "2021-02-14T11:18:45.000Z",
+            "author": {
+                "name": "mfussenegger",
+                "url": "https://github.com/mfussenegger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2183720?u=cd67873658c68a156610cbe97c52824b1643671b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GithubLink is a Neovim plugin that generates Github links for the current line or selection in your code.</div>",
+            "url": "https://github.com/vincent178/nvim-github-linker",
+            "title": "vincent178/nvim-github-linker: GithubLink is a Neovim plugin that generates Github links for the current line or selection in your code.",
+            "date_modified": "2024-09-12T11:35:28.000Z",
+            "date_published": "2023-02-18T05:56:13.000Z",
+            "author": {
+                "name": "vincent178",
+                "url": "https://github.com/vincent178"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
             "url": "https://github.com/catgoose/nvim",
             "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
@@ -36,17 +69,6 @@
             "author": {
                 "name": "monkoose",
                 "url": "https://github.com/monkoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
-            "url": "https://github.com/mfussenegger/nvim-lint",
-            "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-            "date_modified": "2024-09-12T09:40:03.000Z",
-            "date_published": "2021-02-14T11:18:45.000Z",
-            "author": {
-                "name": "mfussenegger",
-                "url": "https://github.com/mfussenegger"
             }
         },
         {
@@ -130,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111564053?u=a94fe776c0edc1e00ae7bbf1ad2586bddb544f5e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed</div>",
             "url": "https://github.com/shellRaining/hlchunk.nvim",
             "title": "shellRaining/hlchunk.nvim: This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed",
-            "date_modified": "2024-09-12T10:33:04.000Z",
+            "date_modified": "2024-09-12T11:13:45.000Z",
             "date_published": "2023-02-12T03:32:57.000Z",
             "author": {
                 "name": "shellRaining",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "tamago324",
                 "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15847857?u=7d9c09d956dfdf6cd66af3aef96f36961aaa985f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.</div>",
-            "url": "https://github.com/madox2/vim-ai",
-            "title": "madox2/vim-ai: AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.",
-            "date_modified": "2024-09-12T06:27:14.000Z",
-            "date_published": "2023-02-27T20:23:49.000Z",
-            "author": {
-                "name": "madox2",
-                "url": "https://github.com/madox2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-09-12T10:04:30.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
             }
         }
     ]
