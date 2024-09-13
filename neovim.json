@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4729?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Drawer plugin for Neovim. AKA \"persistent split\" / \"persistent window\".</div>",
+            "url": "https://github.com/mikew/nvim-drawer",
+            "title": "mikew/nvim-drawer: A Drawer plugin for Neovim. AKA \"persistent split\" / \"persistent window\".",
+            "date_modified": "2024-09-13T18:53:20.000Z",
+            "date_published": "2024-08-25T23:22:29.000Z",
+            "author": {
+                "name": "mikew",
+                "url": "https://github.com/mikew"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93538042?u=d8e5089e58171e9307bf79fcbc1967f3a320e2c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Custom neovim configuration with lazy plugin manager and IDE setup</div>",
+            "url": "https://github.com/jude7733/nvim",
+            "title": "jude7733/nvim: Custom neovim configuration with lazy plugin manager and IDE setup",
+            "date_modified": "2024-09-13T18:28:24.000Z",
+            "date_published": "2024-01-18T12:05:11.000Z",
+            "author": {
+                "name": "jude7733",
+                "url": "https://github.com/jude7733"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98530202?u=066a7b7ebd92563f376acb1c0c722784db58a279&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Neovim configuration enhances productivity with robust plugin management, seamless LSP integration for intelligent code completion, and improved syntax highlighting. It offers streamlined workflows and high customizability, providing a modern and efficient development environment tailored to various coding needs.</div>",
+            "url": "https://github.com/SxxAq/nvim-conf",
+            "title": "SxxAq/nvim-conf: This Neovim configuration enhances productivity with robust plugin management, seamless LSP integration for intelligent code completion, and improved syntax highlighting. It offers streamlined workflows and high customizability, providing a modern and efficient development environment tailored to various coding needs.",
+            "date_modified": "2024-09-13T18:23:11.000Z",
+            "date_published": "2024-09-11T10:08:02.000Z",
+            "author": {
+                "name": "SxxAq",
+                "url": "https://github.com/SxxAq"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45028928?u=a69faba06ec8ac5c4fba47970ea02d4d24fc8f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Never manually save/write a buffer again!</div>",
+            "url": "https://github.com/tmillr/sos.nvim",
+            "title": "tmillr/sos.nvim: Never manually save/write a buffer again!",
+            "date_modified": "2024-09-13T18:20:29.000Z",
+            "date_published": "2022-10-18T12:52:35.000Z",
+            "author": {
+                "name": "tmillr",
+                "url": "https://github.com/tmillr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> An easy to use HTTP-Rest-Client plugin for neovim written in LUA</div>",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "title": "lima1909/resty.nvim:  An easy to use HTTP-Rest-Client plugin for neovim written in LUA",
+            "date_modified": "2024-09-13T18:15:50.000Z",
+            "date_published": "2024-05-04T09:33:14.000Z",
+            "author": {
+                "name": "lima1909",
+                "url": "https://github.com/lima1909"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/247965?u=5bc6d751e7c1c3a8e086f1d5b51f16fe68ab6254&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lists Neovim plugins (installed by Lazy.nvim) and shows their README file.</div>",
+            "url": "https://github.com/selectnull/plugin-readme.nvim",
+            "title": "selectnull/plugin-readme.nvim: Lists Neovim plugins (installed by Lazy.nvim) and shows their README file.",
+            "date_modified": "2024-09-13T18:15:21.000Z",
+            "date_published": "2024-09-13T09:24:06.000Z",
+            "author": {
+                "name": "selectnull",
+                "url": "https://github.com/selectnull"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
@@ -58,17 +124,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98530202?u=066a7b7ebd92563f376acb1c0c722784db58a279&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Neovim configuration enhances productivity with robust plugin management, seamless LSP integration for intelligent code completion, and improved syntax highlighting. It offers streamlined workflows and high customizability, providing a modern and efficient development environment tailored to various coding needs.</div>",
-            "url": "https://github.com/SxxAq/nvim-conf",
-            "title": "SxxAq/nvim-conf: This Neovim configuration enhances productivity with robust plugin management, seamless LSP integration for intelligent code completion, and improved syntax highlighting. It offers streamlined workflows and high customizability, providing a modern and efficient development environment tailored to various coding needs.",
-            "date_modified": "2024-09-13T17:14:28.000Z",
-            "date_published": "2024-09-11T10:08:02.000Z",
-            "author": {
-                "name": "SxxAq",
-                "url": "https://github.com/SxxAq"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "cenk1cenk2",
                 "url": "https://github.com/cenk1cenk2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12221141?u=568c85ceeae77747245a16b06abd6d0ec5354e5b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin used to synchronize active note and scroll position between neovim and obsidian</div>",
-            "url": "https://github.com/oflisback/obsidian-bridge.nvim",
-            "title": "oflisback/obsidian-bridge.nvim: A neovim plugin used to synchronize active note and scroll position between neovim and obsidian",
-            "date_modified": "2024-09-13T14:03:55.000Z",
-            "date_published": "2023-09-17T16:17:18.000Z",
-            "author": {
-                "name": "oflisback",
-                "url": "https://github.com/oflisback"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> An easy to use HTTP-Rest-Client plugin for neovim written in LUA</div>",
-            "url": "https://github.com/lima1909/resty.nvim",
-            "title": "lima1909/resty.nvim:  An easy to use HTTP-Rest-Client plugin for neovim written in LUA",
-            "date_modified": "2024-09-13T12:42:11.000Z",
-            "date_published": "2024-05-04T09:33:14.000Z",
-            "author": {
-                "name": "lima1909",
-                "url": "https://github.com/lima1909"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim</div>",
-            "url": "https://github.com/ray-x/go.nvim",
-            "title": "ray-x/go.nvim: G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim",
-            "date_modified": "2024-09-13T14:50:17.000Z",
-            "date_published": "2021-03-10T10:23:02.000Z",
-            "author": {
-                "name": "ray-x",
-                "url": "https://github.com/ray-x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17877050?u=117e973b7671a2ce4590b520c0de7e75d18af737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings</div>",
-            "url": "https://github.com/lobneroO/nvim_conf",
-            "title": "lobneroO/nvim_conf: config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings",
-            "date_modified": "2024-09-13T12:38:57.000Z",
-            "date_published": "2024-02-04T13:47:18.000Z",
-            "author": {
-                "name": "lobneroO",
-                "url": "https://github.com/lobneroO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of \"small\" plugins</div>",
-            "url": "https://github.com/altermo/small.nvim",
-            "title": "altermo/small.nvim: A collection of \"small\" plugins",
-            "date_modified": "2024-09-13T12:14:41.000Z",
-            "date_published": "2023-09-15T22:07:14.000Z",
-            "author": {
-                "name": "altermo",
-                "url": "https://github.com/altermo"
             }
         }
     ]
