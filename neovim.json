@@ -6,14 +6,69 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138314257?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim codemp plugin -- code multiplexer</div>",
+            "url": "https://github.com/hexedtech/codemp-nvim",
+            "title": "hexedtech/codemp-nvim: neovim codemp plugin -- code multiplexer",
+            "date_modified": "2024-09-14T22:01:55.000Z",
+            "date_published": "2024-08-03T13:04:07.000Z",
+            "author": {
+                "name": "hexedtech",
+                "url": "https://github.com/hexedtech"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45215789?u=7023df4cf97e32c6bdea88d1890ff4188c9f0ecd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Initially intended to be a markdown live preview, live.nvim is a powerful Neovim plugin that creates a real-time bridge between your editor and the web. It streams your buffer content to a web server, enabling live previews and collaborative editing.</div>",
+            "url": "https://github.com/mayerstrk/live.nvim",
+            "title": "mayerstrk/live.nvim: Initially intended to be a markdown live preview, live.nvim is a powerful Neovim plugin that creates a real-time bridge between your editor and the web. It streams your buffer content to a web server, enabling live previews and collaborative editing.",
+            "date_modified": "2024-09-14T21:48:14.000Z",
+            "date_published": "2024-09-14T09:57:28.000Z",
+            "author": {
+                "name": "mayerstrk",
+                "url": "https://github.com/mayerstrk"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3859906?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is just an example plugin for Neovim</div>",
             "url": "https://github.com/saltchicken/example_plugin",
             "title": "saltchicken/example_plugin: This is just an example plugin for Neovim",
-            "date_modified": "2024-09-14T21:09:02.000Z",
+            "date_modified": "2024-09-14T21:42:16.000Z",
             "date_published": "2024-09-14T20:51:41.000Z",
             "author": {
                 "name": "saltchicken",
                 "url": "https://github.com/saltchicken"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6359431?u=43f55c6072d63441f18303037fd9ee66e7d0e01c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>nvim plugin providing a subtle overview of LSP diagnostics</div>",
+            "url": "https://github.com/doums/dmap.nvim",
+            "title": "doums/dmap.nvim: nvim plugin providing a subtle overview of LSP diagnostics",
+            "date_modified": "2024-09-14T21:30:31.000Z",
+            "date_published": "2023-01-07T17:17:08.000Z",
+            "author": {
+                "name": "doums",
+                "url": "https://github.com/doums"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98530202?u=066a7b7ebd92563f376acb1c0c722784db58a279&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Neovim configuration enhances productivity with robust plugin management, seamless LSP integration for intelligent code completion, and improved syntax highlighting. It offers streamlined workflows and high customizability, providing a modern and efficient development environment tailored to various coding needs.</div>",
+            "url": "https://github.com/SxxAq/nvim-conf",
+            "title": "SxxAq/nvim-conf: This Neovim configuration enhances productivity with robust plugin management, seamless LSP integration for intelligent code completion, and improved syntax highlighting. It offers streamlined workflows and high customizability, providing a modern and efficient development environment tailored to various coding needs.",
+            "date_modified": "2024-09-14T21:26:58.000Z",
+            "date_published": "2024-09-11T10:08:02.000Z",
+            "author": {
+                "name": "SxxAq",
+                "url": "https://github.com/SxxAq"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-09-14T21:18:03.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -28,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45215789?u=7023df4cf97e32c6bdea88d1890ff4188c9f0ecd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Initially intended to be a markdown live preview, live.nvim is a powerful Neovim plugin that creates a real-time bridge between your editor and the web. It streams your buffer content to a web server, enabling live previews and collaborative editing.</div>",
-            "url": "https://github.com/mayerstrk/live.nvim",
-            "title": "mayerstrk/live.nvim: Initially intended to be a markdown live preview, live.nvim is a powerful Neovim plugin that creates a real-time bridge between your editor and the web. It streams your buffer content to a web server, enabling live previews and collaborative editing.",
-            "date_modified": "2024-09-14T21:01:32.000Z",
-            "date_published": "2024-09-14T09:57:28.000Z",
-            "author": {
-                "name": "mayerstrk",
-                "url": "https://github.com/mayerstrk"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26881592?u=0d8d1367c09029c7c18b344fc10ac4e4ec614da6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For the intersection set of handful of people that is using Youtrack and Neovim together. This plugin enables you to interact with Youtrack from Neovim.</div>",
             "url": "https://github.com/cenk1cenk2/youtrack.nvim",
             "title": "cenk1cenk2/youtrack.nvim: For the intersection set of handful of people that is using Youtrack and Neovim together. This plugin enables you to interact with Youtrack from Neovim.",
@@ -47,17 +91,6 @@
             "author": {
                 "name": "cenk1cenk2",
                 "url": "https://github.com/cenk1cenk2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98530202?u=066a7b7ebd92563f376acb1c0c722784db58a279&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Neovim configuration enhances productivity with robust plugin management, seamless LSP integration for intelligent code completion, and improved syntax highlighting. It offers streamlined workflows and high customizability, providing a modern and efficient development environment tailored to various coding needs.</div>",
-            "url": "https://github.com/SxxAq/nvim-conf",
-            "title": "SxxAq/nvim-conf: This Neovim configuration enhances productivity with robust plugin management, seamless LSP integration for intelligent code completion, and improved syntax highlighting. It offers streamlined workflows and high customizability, providing a modern and efficient development environment tailored to various coding needs.",
-            "date_modified": "2024-09-14T20:56:48.000Z",
-            "date_published": "2024-09-11T10:08:02.000Z",
-            "author": {
-                "name": "SxxAq",
-                "url": "https://github.com/SxxAq"
             }
         },
         {
@@ -160,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-09-14T17:22:50.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
             "url": "https://github.com/tamago324/nlsp-settings.nvim",
             "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "tek",
                 "url": "https://github.com/tek"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62602802?u=075df4f8928b8be82630b7fb5e394ce300022b18&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin that open the link of current line on github</div>",
-            "url": "https://github.com/ksaito422/remote-line.nvim",
-            "title": "ksaito422/remote-line.nvim: neovim plugin that open the link of current line on github",
-            "date_modified": "2024-09-14T14:02:08.000Z",
-            "date_published": "2024-07-04T23:28:39.000Z",
-            "author": {
-                "name": "ksaito422",
-                "url": "https://github.com/ksaito422"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64891486?u=a05ba3551212f5ac1eb281545f1d2804b82ec8b1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Inspired by the gitmoji CLI tool, this plugin offers a smooth and responsive emoji prompt, presenting a curated list of emojis for meaningful commit messages. Improve your commit message writing experience with this simple and easy-to-use plugin in Neovim. Happy committing with emojis! 🎉😄🚀</div>",
-            "url": "https://github.com/zakissimo/smoji.nvim",
-            "title": "zakissimo/smoji.nvim: Inspired by the gitmoji CLI tool, this plugin offers a smooth and responsive emoji prompt, presenting a curated list of emojis for meaningful commit messages. Improve your commit message writing experience with this simple and easy-to-use plugin in Neovim. Happy committing with emojis! 🎉😄🚀",
-            "date_modified": "2024-09-14T13:57:52.000Z",
-            "date_published": "2023-08-05T13:47:39.000Z",
-            "author": {
-                "name": "zakissimo",
-                "url": "https://github.com/zakissimo"
             }
         }
     ]
