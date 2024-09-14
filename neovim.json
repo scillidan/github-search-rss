@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3795551?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Run RSpec tests. View failure messages as diagnostic entries in Neovim</div>",
+            "url": "https://github.com/melopilosyan/rspec-integrated.nvim",
+            "title": "melopilosyan/rspec-integrated.nvim: Run RSpec tests. View failure messages as diagnostic entries in Neovim",
+            "date_modified": "2024-09-14T20:08:45.000Z",
+            "date_published": "2022-10-25T20:20:35.000Z",
+            "author": {
+                "name": "melopilosyan",
+                "url": "https://github.com/melopilosyan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13412491?u=ea12ae143a8e3c33a574ab48083b387457e1eea7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Razor Language Server Plugin for Neovim</div>",
+            "url": "https://github.com/rpollard00/cutlass.nvim",
+            "title": "rpollard00/cutlass.nvim: Razor Language Server Plugin for Neovim",
+            "date_modified": "2024-09-14T19:55:46.000Z",
+            "date_published": "2024-09-12T06:41:10.000Z",
+            "author": {
+                "name": "rpollard00",
+                "url": "https://github.com/rpollard00"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
+            "date_modified": "2024-09-14T19:43:51.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
+            "author": {
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26881592?u=0d8d1367c09029c7c18b344fc10ac4e4ec614da6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>For the intersection set of handful of people that is using Youtrack and Neovim together. This plugin enables you to interact with Youtrack from Neovim.</div>",
             "url": "https://github.com/cenk1cenk2/youtrack.nvim",
             "title": "cenk1cenk2/youtrack.nvim: For the intersection set of handful of people that is using Youtrack and Neovim together. This plugin enables you to interact with Youtrack from Neovim.",
-            "date_modified": "2024-09-14T19:06:59.000Z",
+            "date_modified": "2024-09-14T19:24:05.000Z",
             "date_published": "2024-08-30T22:01:57.000Z",
             "author": {
                 "name": "cenk1cenk2",
@@ -160,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects</div>",
-            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
-            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects",
-            "date_modified": "2024-09-14T14:33:36.000Z",
-            "date_published": "2024-04-02T18:24:40.000Z",
-            "author": {
-                "name": "GustavEikaas",
-                "url": "https://github.com/GustavEikaas"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138314257?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim codemp plugin -- code multiplexer</div>",
             "url": "https://github.com/hexedtech/codemp-nvim",
             "title": "hexedtech/codemp-nvim: neovim codemp plugin -- code multiplexer",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "David-Kunz",
                 "url": "https://github.com/David-Kunz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A busted wrapper for testing neovim plugin</div>",
-            "url": "https://github.com/notomo/vusted",
-            "title": "notomo/vusted: A busted wrapper for testing neovim plugin",
-            "date_modified": "2024-09-14T10:37:52.000Z",
-            "date_published": "2020-05-20T13:25:03.000Z",
-            "author": {
-                "name": "notomo",
-                "url": "https://github.com/notomo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-09-14T10:22:35.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
             }
         }
     ]
