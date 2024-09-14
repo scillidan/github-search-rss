@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-09-14T17:02:17.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38051220?u=12a3b0aecce4cd0663cc9de90f9d1fc7347773b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for updating neovim</div>",
+            "url": "https://github.com/rootiest/nvim-updater.nvim",
+            "title": "rootiest/nvim-updater.nvim: A plugin for updating neovim",
+            "date_modified": "2024-09-14T17:02:11.000Z",
+            "date_published": "2024-09-12T05:23:37.000Z",
+            "author": {
+                "name": "rootiest",
+                "url": "https://github.com/rootiest"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
             "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
             "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-14T15:18:27.000Z",
+            "date_modified": "2024-09-14T16:19:15.000Z",
             "date_published": "2024-05-26T17:25:07.000Z",
             "author": {
                 "name": "zachcoyle",
                 "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2632?u=7aeedb374423df1758f2a029293b2b1fc7f096d3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin host and framework for Haskell</div>",
+            "url": "https://github.com/tek/ribosome",
+            "title": "tek/ribosome: A Neovim plugin host and framework for Haskell",
+            "date_modified": "2024-09-14T16:12:27.000Z",
+            "date_published": "2018-12-28T16:23:57.000Z",
+            "author": {
+                "name": "tek",
+                "url": "https://github.com/tek"
             }
         },
         {
@@ -149,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38051220?u=12a3b0aecce4cd0663cc9de90f9d1fc7347773b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for updating neovim</div>",
-            "url": "https://github.com/rootiest/nvim-updater.nvim",
-            "title": "rootiest/nvim-updater.nvim: A plugin for updating neovim",
-            "date_modified": "2024-09-14T10:09:51.000Z",
-            "date_published": "2024-09-12T05:23:37.000Z",
-            "author": {
-                "name": "rootiest",
-                "url": "https://github.com/rootiest"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45215789?u=7023df4cf97e32c6bdea88d1890ff4188c9f0ecd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Initially intended to be a markdown live preview, live.nvim is a powerful Neovim plugin that creates a real-time bridge between your editor and the web. It streams your buffer content to a web server, enabling live previews and collaborative editing.</div>",
             "url": "https://github.com/mayerstrk/live.nvim",
             "title": "mayerstrk/live.nvim: Initially intended to be a markdown live preview, live.nvim is a powerful Neovim plugin that creates a real-time bridge between your editor and the web. It streams your buffer content to a web server, enabling live previews and collaborative editing.",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "SxxAq",
                 "url": "https://github.com/SxxAq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17877050?u=117e973b7671a2ce4590b520c0de7e75d18af737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings</div>",
-            "url": "https://github.com/lobneroO/nvim_conf",
-            "title": "lobneroO/nvim_conf: config for neovim, created from scratch. includes lazy and a few plugins for comment toggle, sensible code folding, LSP setup... also contains some key remappings",
-            "date_modified": "2024-09-14T09:14:20.000Z",
-            "date_published": "2024-02-04T13:47:18.000Z",
-            "author": {
-                "name": "lobneroO",
-                "url": "https://github.com/lobneroO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3581973?u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.</div>",
-            "url": "https://github.com/slugbyte/lackluster.nvim",
-            "title": "slugbyte/lackluster.nvim: a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.",
-            "date_modified": "2024-09-14T13:27:21.000Z",
-            "date_published": "2024-05-20T10:19:15.000Z",
-            "author": {
-                "name": "slugbyte",
-                "url": "https://github.com/slugbyte"
             }
         }
     ]
