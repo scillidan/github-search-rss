@@ -6,21 +6,10 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to update your current distro from its github remote</div>",
-            "url": "https://github.com/Zeioth/distroupdate.nvim",
-            "title": "Zeioth/distroupdate.nvim: Neovim plugin to update your current distro from its github remote",
-            "date_modified": "2024-09-15T19:05:17.000Z",
-            "date_published": "2024-01-23T16:34:38.000Z",
-            "author": {
-                "name": "Zeioth",
-                "url": "https://github.com/Zeioth"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3859906?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is just an example plugin for Neovim</div>",
             "url": "https://github.com/saltchicken/example_plugin",
             "title": "saltchicken/example_plugin: This is just an example plugin for Neovim",
-            "date_modified": "2024-09-15T19:05:16.000Z",
+            "date_modified": "2024-09-15T20:09:50.000Z",
             "date_published": "2024-09-14T20:51:41.000Z",
             "author": {
                 "name": "saltchicken",
@@ -28,10 +17,65 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77508906?u=0a6c3c8b774b0ad6cd4b601d17fc8e4172bb8630&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal NeoVim Config Repo: Store, manage, and share your customized NeoVim setup. Includes plugins, themes, key mappings, and documentation. Collaborate with the community. Keep your workflow optimized!</div>",
+            "url": "https://github.com/nathanosti/my-personal-neovim-configuration",
+            "title": "nathanosti/my-personal-neovim-configuration: Personal NeoVim Config Repo: Store, manage, and share your customized NeoVim setup. Includes plugins, themes, key mappings, and documentation. Collaborate with the community. Keep your workflow optimized!",
+            "date_modified": "2024-09-15T20:00:09.000Z",
+            "date_published": "2024-04-06T05:38:04.000Z",
+            "author": {
+                "name": "nathanosti",
+                "url": "https://github.com/nathanosti"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
+            "url": "https://github.com/yongleyuan/nvim-config",
+            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
+            "date_modified": "2024-09-15T19:55:41.000Z",
+            "date_published": "2024-06-18T01:55:38.000Z",
+            "author": {
+                "name": "yongleyuan",
+                "url": "https://github.com/yongleyuan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
+            "url": "https://github.com/killitar/obscure.nvim",
+            "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
+            "date_modified": "2024-09-15T19:55:32.000Z",
+            "date_published": "2024-07-21T11:56:28.000Z",
+            "author": {
+                "name": "killitar",
+                "url": "https://github.com/killitar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46505033?u=de0c2e507f2ee8fabad0eb24b23a7dd510e25f3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to sort based on visual block mode</div>",
+            "url": "https://github.com/BrendanArmstrong1/visual_sort.nvim",
+            "title": "BrendanArmstrong1/visual_sort.nvim: neovim plugin to sort based on visual block mode",
+            "date_modified": "2024-09-15T19:50:20.000Z",
+            "date_published": "2024-03-10T19:42:58.000Z",
+            "author": {
+                "name": "BrendanArmstrong1",
+                "url": "https://github.com/BrendanArmstrong1"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3357792?u=666108485bfd576a4f2829fe9d8cfacf382349ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to update your current distro from its github remote</div>",
+            "url": "https://github.com/Zeioth/distroupdate.nvim",
+            "title": "Zeioth/distroupdate.nvim: Neovim plugin to update your current distro from its github remote",
+            "date_modified": "2024-09-15T19:47:16.000Z",
+            "date_published": "2024-01-23T16:34:38.000Z",
+            "author": {
+                "name": "Zeioth",
+                "url": "https://github.com/Zeioth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22257750?u=d5734871bad49dcc75475fa43a02b11456c2f586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A template for Neovim plugin 🛠️</div>",
             "url": "https://github.com/S1M0N38/base.nvim",
             "title": "S1M0N38/base.nvim: A template for Neovim plugin 🛠️",
-            "date_modified": "2024-09-15T19:04:32.000Z",
+            "date_modified": "2024-09-15T19:41:06.000Z",
             "date_published": "2024-01-10T21:58:43.000Z",
             "author": {
                 "name": "S1M0N38",
@@ -39,14 +83,25 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
-            "url": "https://github.com/yongleyuan/nvim-config",
-            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
-            "date_modified": "2024-09-15T18:50:43.000Z",
-            "date_published": "2024-06-18T01:55:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13655323?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Salesforce development Neovim plugin</div>",
+            "url": "https://github.com/xixiaofinland/sf.nvim",
+            "title": "xixiaofinland/sf.nvim: A Salesforce development Neovim plugin",
+            "date_modified": "2024-09-15T19:28:54.000Z",
+            "date_published": "2024-01-03T18:32:44.000Z",
             "author": {
-                "name": "yongleyuan",
-                "url": "https://github.com/yongleyuan"
+                "name": "xixiaofinland",
+                "url": "https://github.com/xixiaofinland"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-15T19:18:38.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -102,17 +157,6 @@
             "author": {
                 "name": "m15a",
                 "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-15T17:17:46.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -179,50 +223,6 @@
             "author": {
                 "name": "f-person",
                 "url": "https://github.com/f-person"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4729?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Drawer plugin for Neovim. AKA \"persistent split\" / \"persistent window\".</div>",
-            "url": "https://github.com/mikew/nvim-drawer",
-            "title": "mikew/nvim-drawer: A Drawer plugin for Neovim. AKA \"persistent split\" / \"persistent window\".",
-            "date_modified": "2024-09-15T14:35:26.000Z",
-            "date_published": "2024-08-25T23:22:29.000Z",
-            "author": {
-                "name": "mikew",
-                "url": "https://github.com/mikew"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-09-15T14:21:51.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86408910?u=005dfeb02f6143643975914bc4437f9104c15556&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin with lua script</div>",
-            "url": "https://github.com/manhatsu/nvim-plugin-lua",
-            "title": "manhatsu/nvim-plugin-lua: neovim plugin with lua script",
-            "date_modified": "2024-09-15T13:57:16.000Z",
-            "date_published": "2024-09-07T05:29:37.000Z",
-            "author": {
-                "name": "manhatsu",
-                "url": "https://github.com/manhatsu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91608635?u=430a517b750cc0c185714a8aeee1082217fc46fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix Flake Neovim configuration for meDracula as a plugin.</div>",
-            "url": "https://github.com/meDracula/meDracula.nvim",
-            "title": "meDracula/meDracula.nvim: Nix Flake Neovim configuration for meDracula as a plugin.",
-            "date_modified": "2024-09-15T13:50:09.000Z",
-            "date_published": "2024-09-08T15:18:41.000Z",
-            "author": {
-                "name": "meDracula",
-                "url": "https://github.com/meDracula"
             }
         }
     ]
