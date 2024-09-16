@@ -6,25 +6,80 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13655323?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Salesforce development Neovim plugin</div>",
-            "url": "https://github.com/xixiaofinland/sf.nvim",
-            "title": "xixiaofinland/sf.nvim: A Salesforce development Neovim plugin",
-            "date_modified": "2024-09-16T15:11:16.000Z",
-            "date_published": "2024-01-03T18:32:44.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95718239?u=4d4b5475d175ebd042dc8d3b0d92f1db63333b25&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archivo de configuración de neovim. Plugins incluidos</div>",
+            "url": "https://github.com/JonnerPaz/nvim-config",
+            "title": "JonnerPaz/nvim-config: Archivo de configuración de neovim. Plugins incluidos",
+            "date_modified": "2024-09-16T16:04:42.000Z",
+            "date_published": "2022-08-04T18:02:15.000Z",
             "author": {
-                "name": "xixiaofinland",
-                "url": "https://github.com/xixiaofinland"
+                "name": "JonnerPaz",
+                "url": "https://github.com/JonnerPaz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44144536?u=aebb64684142100c8645ef2b46e9a246589fff90&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages</div>",
+            "url": "https://github.com/michaelb/sniprun",
+            "title": "michaelb/sniprun: A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages",
+            "date_modified": "2024-09-16T16:03:45.000Z",
+            "date_published": "2020-08-17T20:44:45.000Z",
+            "author": {
+                "name": "michaelb",
+                "url": "https://github.com/michaelb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127350487?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Neovim plugin for Supermaven</div>",
+            "url": "https://github.com/supermaven-inc/supermaven-nvim",
+            "title": "supermaven-inc/supermaven-nvim: The official Neovim plugin for Supermaven",
+            "date_modified": "2024-09-16T15:51:42.000Z",
+            "date_published": "2024-05-08T17:37:53.000Z",
+            "author": {
+                "name": "supermaven-inc",
+                "url": "https://github.com/supermaven-inc"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38051220?u=12a3b0aecce4cd0663cc9de90f9d1fc7347773b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for updating neovim</div>",
             "url": "https://github.com/rootiest/nvim-updater.nvim",
             "title": "rootiest/nvim-updater.nvim: A plugin for updating neovim",
-            "date_modified": "2024-09-16T15:01:16.000Z",
+            "date_modified": "2024-09-16T15:29:55.000Z",
             "date_published": "2024-09-12T05:23:37.000Z",
             "author": {
                 "name": "rootiest",
                 "url": "https://github.com/rootiest"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74616162?u=b1f47a2662abed9b26ad993180cda5a3fa994336&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neo Vim plugin that allows you to sort selected lines by length.</div>",
+            "url": "https://github.com/cqb13/line-length-sorter.nvim",
+            "title": "cqb13/line-length-sorter.nvim: A Neo Vim plugin that allows you to sort selected lines by length.",
+            "date_modified": "2024-09-16T15:29:03.000Z",
+            "date_published": "2024-09-16T15:00:56.000Z",
+            "author": {
+                "name": "cqb13",
+                "url": "https://github.com/cqb13"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
+            "url": "https://github.com/brianhuster/live-preview.nvim",
+            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
+            "date_modified": "2024-09-16T15:18:57.000Z",
+            "date_published": "2024-07-24T10:30:05.000Z",
+            "author": {
+                "name": "brianhuster",
+                "url": "https://github.com/brianhuster"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13655323?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Salesforce development Neovim plugin</div>",
+            "url": "https://github.com/xixiaofinland/sf.nvim",
+            "title": "xixiaofinland/sf.nvim: A Salesforce development Neovim plugin",
+            "date_modified": "2024-09-16T15:13:06.000Z",
+            "date_published": "2024-01-03T18:32:44.000Z",
+            "author": {
+                "name": "xixiaofinland",
+                "url": "https://github.com/xixiaofinland"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51149822?u=dddf3ec2944470546b86b648b2a87e451ff34e2a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💎 Blink-Bang-Word-Light is a Neovim plugin that highlights the word under the cursor throughout the buffer. </div>",
-            "url": "https://github.com/mei28/blink-bang-word-light.nvim",
-            "title": "mei28/blink-bang-word-light.nvim: 💎 Blink-Bang-Word-Light is a Neovim plugin that highlights the word under the cursor throughout the buffer. ",
-            "date_modified": "2024-09-16T12:12:52.000Z",
-            "date_published": "2024-07-30T04:06:10.000Z",
-            "author": {
-                "name": "mei28",
-                "url": "https://github.com/mei28"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51069488?u=ecdfded359a317cb27b429e02a2360ee4b035223&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins</div>",
-            "url": "https://github.com/cirofabianbermudez/nvim",
-            "title": "cirofabianbermudez/nvim: Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins",
-            "date_modified": "2024-09-16T12:05:12.000Z",
-            "date_published": "2024-03-23T12:20:18.000Z",
-            "author": {
-                "name": "cirofabianbermudez",
-                "url": "https://github.com/cirofabianbermudez"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83157348?u=01edf4ab58fb6bd7b032ef6f4a4a8a22326f03ba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized NeoVim IDE configuration based on the plugin LazyVim.</div>",
-            "url": "https://github.com/0x07CB/neovim-ide",
-            "title": "0x07CB/neovim-ide: Dockerized NeoVim IDE configuration based on the plugin LazyVim.",
-            "date_modified": "2024-09-16T11:58:58.000Z",
-            "date_published": "2024-09-16T11:48:13.000Z",
-            "author": {
-                "name": "0x07CB",
-                "url": "https://github.com/0x07CB"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use rocks.nvim to install plugins from git!</div>",
-            "url": "https://github.com/nvim-neorocks/rocks-git.nvim",
-            "title": "nvim-neorocks/rocks-git.nvim: Use rocks.nvim to install plugins from git!",
-            "date_modified": "2024-09-16T11:29:30.000Z",
-            "date_published": "2023-12-17T19:44:30.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24710985?u=6227e5cb98b7c1f15f2b0bce5ab65ee1a8f7345a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The simplest fuzzy selector plugin of Vim</div>",
-            "url": "https://github.com/gw31415/fzyselect.vim",
-            "title": "gw31415/fzyselect.vim: The simplest fuzzy selector plugin of Vim",
-            "date_modified": "2024-09-16T11:15:23.000Z",
-            "date_published": "2022-09-03T17:28:33.000Z",
-            "author": {
-                "name": "gw31415",
-                "url": "https://github.com/gw31415"
             }
         }
     ]
