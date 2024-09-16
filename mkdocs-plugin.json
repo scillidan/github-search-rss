@@ -6,10 +6,21 @@
     "description": "mkdocs plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76561516?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.</div>",
+            "url": "https://github.com/monosans/mkdocs-minify-html-plugin",
+            "title": "monosans/mkdocs-minify-html-plugin: MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.",
+            "date_modified": "2024-09-16T00:50:52.000Z",
+            "date_published": "2023-07-08T13:45:13.000Z",
+            "author": {
+                "name": "monosans",
+                "url": "https://github.com/monosans"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17495937?u=3ea5194f326f189cf195cfd08e7cd80f2ee64200&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for MkDocs to generate API documentation</div>",
             "url": "https://github.com/daizutabi/mkapi",
             "title": "daizutabi/mkapi: A plugin for MkDocs to generate API documentation",
-            "date_modified": "2024-09-15T21:33:28.000Z",
+            "date_modified": "2024-09-16T00:39:25.000Z",
             "date_published": "2020-04-19T07:43:40.000Z",
             "author": {
                 "name": "daizutabi",
@@ -39,17 +50,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76561516?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.</div>",
-            "url": "https://github.com/monosans/mkdocs-minify-html-plugin",
-            "title": "monosans/mkdocs-minify-html-plugin: MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.",
-            "date_modified": "2024-09-14T03:10:58.000Z",
-            "date_published": "2023-07-08T13:45:13.000Z",
-            "author": {
-                "name": "monosans",
-                "url": "https://github.com/monosans"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6098197?u=41f5782e1e175757f0fd83df0f934ec6966d13f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Build documentation files inside your code into a MkDocs site.</div>",
             "url": "https://github.com/athackst/mkdocs-simple-plugin",
             "title": "athackst/mkdocs-simple-plugin: Build documentation files inside your code into a MkDocs site.",
@@ -69,6 +69,17 @@
             "author": {
                 "name": "manuzhang",
                 "url": "https://github.com/manuzhang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5570380?u=529954242ffa63610fed217738dc15f81ef99674&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page</div>",
+            "url": "https://github.com/timvink/mkdocs-table-reader-plugin",
+            "title": "timvink/mkdocs-table-reader-plugin: MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page",
+            "date_modified": "2024-09-15T23:54:15.000Z",
+            "date_published": "2020-03-06T09:42:26.000Z",
+            "author": {
+                "name": "timvink",
+                "url": "https://github.com/timvink"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "TonyCrane",
                 "url": "https://github.com/TonyCrane"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75146254?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MkDocs plugin providing automatic API reference generation</div>",
-            "url": "https://github.com/jcayers20/mkdocs-autoapi",
-            "title": "jcayers20/mkdocs-autoapi: MkDocs plugin providing automatic API reference generation",
-            "date_modified": "2024-09-09T12:58:38.000Z",
-            "date_published": "2024-04-24T18:08:03.000Z",
-            "author": {
-                "name": "jcayers20",
-                "url": "https://github.com/jcayers20"
             }
         }
     ]
