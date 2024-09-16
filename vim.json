@@ -6,6 +6,50 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
+            "url": "https://github.com/vim-denops/denops.vim",
+            "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
+            "date_modified": "2024-09-16T09:06:18.000Z",
+            "date_published": "2021-02-08T15:46:07.000Z",
+            "author": {
+                "name": "vim-denops",
+                "url": "https://github.com/vim-denops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24710985?u=6227e5cb98b7c1f15f2b0bce5ab65ee1a8f7345a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The simplest fuzzy selector plugin of Vim</div>",
+            "url": "https://github.com/gw31415/fzyselect.vim",
+            "title": "gw31415/fzyselect.vim: The simplest fuzzy selector plugin of Vim",
+            "date_modified": "2024-09-16T08:51:19.000Z",
+            "date_published": "2022-09-03T17:28:33.000Z",
+            "author": {
+                "name": "gw31415",
+                "url": "https://github.com/gw31415"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/729055?u=6409652cdd4617e84af324b4b2979fc7f5d1ad37&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tiny package/plugin for Neovim and Vim to quickly toggle open your (Neo)vim terminals logically for CWDs.</div>",
+            "url": "https://github.com/jssteinberg/termcwd",
+            "title": "jssteinberg/termcwd: A tiny package/plugin for Neovim and Vim to quickly toggle open your (Neo)vim terminals logically for CWDs.",
+            "date_modified": "2024-09-16T08:30:00.000Z",
+            "date_published": "2023-03-16T22:34:10.000Z",
+            "author": {
+                "name": "jssteinberg",
+                "url": "https://github.com/jssteinberg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122723936?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LaTeX quickfix and SyncTeX plugin for Vim/Neovim on Linux</div>",
+            "url": "https://github.com/argon40kt/vim-nuxtex",
+            "title": "argon40kt/vim-nuxtex: LaTeX quickfix and SyncTeX plugin for Vim/Neovim on Linux",
+            "date_modified": "2024-09-16T08:25:27.000Z",
+            "date_published": "2024-03-10T10:32:12.000Z",
+            "author": {
+                "name": "argon40kt",
+                "url": "https://github.com/argon40kt"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36663503?u=9b18f3ab4438efa371bbfd7ef58d6bed19a34a6b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Asynchronous LSP Gateway Plugin for denops.vim</div>",
             "url": "https://github.com/kuuote/lspoints",
             "title": "kuuote/lspoints: Asynchronous LSP Gateway Plugin for denops.vim",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "GustavEikaas",
                 "url": "https://github.com/GustavEikaas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/823277?u=2bd448fd47ffdb80a92e49b497332c9a499e436c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins</div>",
-            "url": "https://github.com/rhysd/action-setup-vim",
-            "title": "rhysd/action-setup-vim: GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins",
-            "date_modified": "2024-09-15T15:49:34.000Z",
-            "date_published": "2020-01-24T03:39:54.000Z",
-            "author": {
-                "name": "rhysd",
-                "url": "https://github.com/rhysd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31893391?u=d384bd42cb11bffcf48caf4182769f8ec4f09df1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git Blame plugin for Neovim written in Lua</div>",
-            "url": "https://github.com/f-person/git-blame.nvim",
-            "title": "f-person/git-blame.nvim: Git Blame plugin for Neovim written in Lua",
-            "date_modified": "2024-09-15T16:17:47.000Z",
-            "date_published": "2020-08-29T13:27:26.000Z",
-            "author": {
-                "name": "f-person",
-                "url": "https://github.com/f-person"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
-            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
-            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
-            "date_modified": "2024-09-15T14:21:51.000Z",
-            "date_published": "2022-08-13T14:50:55.000Z",
-            "author": {
-                "name": "NixNeovim",
-                "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-09-16T01:15:37.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
             }
         }
     ]
