@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74616162?u=b1f47a2662abed9b26ad993180cda5a3fa994336&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neo Vim plugin that allows you to sort selected lines by length.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2695198?u=a92014b3d5c10c7ca9cc58ab42386f40920c59b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Easy to use HTTP client plugin for neovim.  Same syntax as IntelliJ HTTP client  </div>",
+            "url": "https://github.com/heilgar/nvim-http-client",
+            "title": "heilgar/nvim-http-client: Easy to use HTTP client plugin for neovim.  Same syntax as IntelliJ HTTP client  ",
+            "date_modified": "2024-09-17T03:51:15.000Z",
+            "date_published": "2024-09-09T03:13:02.000Z",
+            "author": {
+                "name": "heilgar",
+                "url": "https://github.com/heilgar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3581973?u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.</div>",
+            "url": "https://github.com/slugbyte/lackluster.nvim",
+            "title": "slugbyte/lackluster.nvim: a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.",
+            "date_modified": "2024-09-17T03:31:21.000Z",
+            "date_published": "2024-05-20T10:19:15.000Z",
+            "author": {
+                "name": "slugbyte",
+                "url": "https://github.com/slugbyte"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-17T03:20:18.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/74616162?u=b1f47a2662abed9b26ad993180cda5a3fa994336&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for sorting lines of text by length, either from longest to shortest or shortest to longest. Ideal for cleaning up and organizing your text or code.</div>",
             "url": "https://github.com/cqb13/line-length-sorter.nvim",
-            "title": "cqb13/line-length-sorter.nvim: A Neo Vim plugin that allows you to sort selected lines by length.",
-            "date_modified": "2024-09-17T03:09:53.000Z",
+            "title": "cqb13/line-length-sorter.nvim: A Neovim plugin for sorting lines of text by length, either from longest to shortest or shortest to longest. Ideal for cleaning up and organizing your text or code.",
+            "date_modified": "2024-09-17T03:19:20.000Z",
             "date_published": "2024-09-16T15:00:56.000Z",
             "author": {
                 "name": "cqb13",
@@ -36,28 +69,6 @@
             "author": {
                 "name": "SxxAq",
                 "url": "https://github.com/SxxAq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2695198?u=a92014b3d5c10c7ca9cc58ab42386f40920c59b9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Easy to use HTTP client plugin for neovim.  Same syntax as IntelliJ HTTP client  </div>",
-            "url": "https://github.com/heilgar/nvim-http-client",
-            "title": "heilgar/nvim-http-client: Easy to use HTTP client plugin for neovim.  Same syntax as IntelliJ HTTP client  ",
-            "date_modified": "2024-09-17T02:53:20.000Z",
-            "date_published": "2024-09-09T03:13:02.000Z",
-            "author": {
-                "name": "heilgar",
-                "url": "https://github.com/heilgar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-17T02:20:34.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "BrendanArmstrong1",
                 "url": "https://github.com/BrendanArmstrong1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> 🦥 Supercharge your Haskell experience in neovim!</div>",
-            "url": "https://github.com/mrcjkb/haskell-tools.nvim",
-            "title": "mrcjkb/haskell-tools.nvim:  🦥 Supercharge your Haskell experience in neovim!",
-            "date_modified": "2024-09-16T21:19:06.000Z",
-            "date_published": "2022-10-15T14:18:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
             }
         }
     ]
