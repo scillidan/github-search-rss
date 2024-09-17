@@ -6,6 +6,61 @@
     "description": "obsidian plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1501?u=618eb93489bdc66b6ec3a795ec1e60d8e2a342af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple Obsidian plugin that proxies `console.*()` calls and copies log messages and uncaught exceptions to a file in your vault.</div>",
+            "url": "https://github.com/czottmann/obsidian-logstravaganza",
+            "title": "czottmann/obsidian-logstravaganza: A simple Obsidian plugin that proxies `console.*()` calls and copies log messages and uncaught exceptions to a file in your vault.",
+            "date_modified": "2024-09-17T08:54:19.000Z",
+            "date_published": "2023-05-09T13:54:15.000Z",
+            "author": {
+                "name": "czottmann",
+                "url": "https://github.com/czottmann"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1501?u=618eb93489bdc66b6ec3a795ec1e60d8e2a342af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Obsidian (<a href=\"https://obsidian.md\" rel=\"nofollow\">https://obsidian.md</a>) that adds commands for increasing/decreasing the blockquote level of the current line or selection(s).</div>",
+            "url": "https://github.com/czottmann/obsidian-blockquote-levels",
+            "title": "czottmann/obsidian-blockquote-levels: A plugin for Obsidian (https://obsidian.md) that adds commands for increasing/decreasing the blockquote level of the current line or selection(s).",
+            "date_modified": "2024-09-17T08:53:23.000Z",
+            "date_published": "2022-09-09T14:56:06.000Z",
+            "author": {
+                "name": "czottmann",
+                "url": "https://github.com/czottmann"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1501?u=618eb93489bdc66b6ec3a795ec1e60d8e2a342af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Obsidian (<a href=\"https://obsidian.md\" rel=\"nofollow\">https://obsidian.md</a>) that adds a menu entry to its search view for copying the Obsidian search URL.</div>",
+            "url": "https://github.com/czottmann/obsidian-copy-search-url",
+            "title": "czottmann/obsidian-copy-search-url: A plugin for Obsidian (https://obsidian.md) that adds a menu entry to its search view for copying the Obsidian search URL.",
+            "date_modified": "2024-09-17T08:52:31.000Z",
+            "date_published": "2022-09-07T10:05:29.000Z",
+            "author": {
+                "name": "czottmann",
+                "url": "https://github.com/czottmann"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1501?u=618eb93489bdc66b6ec3a795ec1e60d8e2a342af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Obsidian (<a href=\"https://obsidian.md\" rel=\"nofollow\">https://obsidian.md</a>) that adds additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI.</div>",
+            "url": "https://github.com/czottmann/obsidian-actions-uri",
+            "title": "czottmann/obsidian-actions-uri: A plugin for Obsidian (https://obsidian.md) that adds additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI.",
+            "date_modified": "2024-09-17T08:51:13.000Z",
+            "date_published": "2022-09-20T16:33:43.000Z",
+            "author": {
+                "name": "czottmann",
+                "url": "https://github.com/czottmann"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13208?u=d760264ba43e3c6444da864cf18c04f8b02feae1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to let you change the case (camelCase, snake_case, etc) of the current selection.</div>",
+            "url": "https://github.com/dbrockman/obsidian-change-case",
+            "title": "dbrockman/obsidian-change-case: Plugin to let you change the case (camelCase, snake_case, etc) of the current selection.",
+            "date_modified": "2024-09-17T08:31:34.000Z",
+            "date_published": "2023-09-06T11:30:31.000Z",
+            "author": {
+                "name": "dbrockman",
+                "url": "https://github.com/dbrockman"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62875424?u=a94746b4161d5839022836f55f1e044d6997f13b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>obsidian.md plugin to compile TeX to SVG (using MikTeX (pdflatex) &amp; dvisvgm)</div>",
             "url": "https://github.com/adielBm/obsidian-tex-plugin",
             "title": "adielBm/obsidian-tex-plugin: obsidian.md plugin to compile TeX to SVG (using MikTeX (pdflatex) & dvisvgm)",
@@ -130,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65011256?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Community plugins list, theme list, and releases of Obsidian.</div>",
             "url": "https://github.com/obsidianmd/obsidian-releases",
             "title": "obsidianmd/obsidian-releases: Community plugins list, theme list, and releases of Obsidian.",
-            "date_modified": "2024-09-17T06:25:06.000Z",
+            "date_modified": "2024-09-17T08:35:50.000Z",
             "date_published": "2020-05-08T14:18:27.000Z",
             "author": {
                 "name": "obsidianmd",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "GiGiDKR",
                 "url": "https://github.com/GiGiDKR"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2589839?u=1d3c45e17864a603e6bed2bf06f9c1286ab0508f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian plugin to set featured image property from first Youtube link or first image in document. You can use this to show thumbnail previews in Dataview.</div>",
-            "url": "https://github.com/johansan/obsidian-featured-image",
-            "title": "johansan/obsidian-featured-image: Obsidian plugin to set featured image property from first Youtube link or first image in document. You can use this to show thumbnail previews in Dataview.",
-            "date_modified": "2024-09-16T21:08:10.000Z",
-            "date_published": "2024-09-01T06:43:54.000Z",
-            "author": {
-                "name": "johansan",
-                "url": "https://github.com/johansan"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10139245?u=5338c39425030978ae9ce0268246a05b2e00536b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Orgmode plugin for Obsidian</div>",
-            "url": "https://github.com/BBazard/obsidian-orgmode-cm6",
-            "title": "BBazard/obsidian-orgmode-cm6: Orgmode plugin for Obsidian",
-            "date_modified": "2024-09-16T20:31:22.000Z",
-            "date_published": "2023-12-09T09:59:42.000Z",
-            "author": {
-                "name": "BBazard",
-                "url": "https://github.com/BBazard"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29519076?u=f508a6484d87a7a556c5f9f5cf7829c052d77778&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.</div>",
-            "url": "https://github.com/oxdc/obsidian-vertical-tabs",
-            "title": "oxdc/obsidian-vertical-tabs: An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
-            "date_modified": "2024-09-16T18:21:07.000Z",
-            "date_published": "2024-07-20T11:25:43.000Z",
-            "author": {
-                "name": "oxdc",
-                "url": "https://github.com/oxdc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46483257?u=0e8354fadda88ae27b96a50c8296fed5aea45610&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Obsidian Plugin to execute code in a note.</div>",
-            "url": "https://github.com/twibiral/obsidian-execute-code",
-            "title": "twibiral/obsidian-execute-code: Obsidian Plugin to execute code in a note.",
-            "date_modified": "2024-09-17T03:38:46.000Z",
-            "date_published": "2022-03-17T14:21:27.000Z",
-            "author": {
-                "name": "twibiral",
-                "url": "https://github.com/twibiral"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62710937?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/Dabemuc/quartz_updater_obsidian_plugin",
-            "title": "Dabemuc/quartz_updater_obsidian_plugin",
-            "date_modified": "2024-09-16T16:46:27.000Z",
-            "date_published": "2024-09-15T15:02:17.000Z",
-            "author": {
-                "name": "Dabemuc",
-                "url": "https://github.com/Dabemuc"
             }
         }
     ]
