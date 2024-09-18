@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
+            "url": "https://github.com/brianhuster/live-preview.nvim",
+            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
+            "date_modified": "2024-09-18T17:08:27.000Z",
+            "date_published": "2024-07-24T10:30:05.000Z",
+            "author": {
+                "name": "brianhuster",
+                "url": "https://github.com/brianhuster"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83157348?u=01edf4ab58fb6bd7b032ef6f4a4a8a22326f03ba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized NeoVim IDE configuration based on the plugin LazyVim.</div>",
+            "url": "https://github.com/0x07CB/neovim-ide",
+            "title": "0x07CB/neovim-ide: Dockerized NeoVim IDE configuration based on the plugin LazyVim.",
+            "date_modified": "2024-09-18T17:07:50.000Z",
+            "date_published": "2024-09-16T11:48:13.000Z",
+            "author": {
+                "name": "0x07CB",
+                "url": "https://github.com/0x07CB"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-09-18T16:54:16.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7820034?u=205db245da9d6c2caa0253760d52a4132ad3d1c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/goncaloalves/neovim-plugin-hello-world",
+            "title": "goncaloalves/neovim-plugin-hello-world",
+            "date_modified": "2024-09-18T16:39:52.000Z",
+            "date_published": "2024-09-16T13:58:01.000Z",
+            "author": {
+                "name": "goncaloalves",
+                "url": "https://github.com/goncaloalves"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45215789?u=7023df4cf97e32c6bdea88d1890ff4188c9f0ecd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Initially intended to be a markdown live preview, live.nvim is a powerful Neovim plugin that creates a real-time bridge between your editor and the web. It streams your buffer content to a web server, enabling live previews and collaborative editing.</div>",
+            "url": "https://github.com/mayerstrk/live.nvim",
+            "title": "mayerstrk/live.nvim: Initially intended to be a markdown live preview, live.nvim is a powerful Neovim plugin that creates a real-time bridge between your editor and the web. It streams your buffer content to a web server, enabling live previews and collaborative editing.",
+            "date_modified": "2024-09-18T16:32:12.000Z",
+            "date_published": "2024-09-14T09:57:28.000Z",
+            "author": {
+                "name": "mayerstrk",
+                "url": "https://github.com/mayerstrk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
+            "date_modified": "2024-09-18T16:17:27.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5875706?u=886d2005a6225db9677c8b898913fc2d327d8bba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.</div>",
             "url": "https://github.com/rbong/vim-flog",
             "title": "rbong/vim-flog: A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.",
@@ -14,17 +80,6 @@
             "author": {
                 "name": "rbong",
                 "url": "https://github.com/rbong"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/83157348?u=01edf4ab58fb6bd7b032ef6f4a4a8a22326f03ba&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dockerized NeoVim IDE configuration based on the plugin LazyVim.</div>",
-            "url": "https://github.com/0x07CB/neovim-ide",
-            "title": "0x07CB/neovim-ide: Dockerized NeoVim IDE configuration based on the plugin LazyVim.",
-            "date_modified": "2024-09-18T16:02:16.000Z",
-            "date_published": "2024-09-16T11:48:13.000Z",
-            "author": {
-                "name": "0x07CB",
-                "url": "https://github.com/0x07CB"
             }
         },
         {
@@ -94,7 +149,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55551571?u=4c074ddacf557c3bcb4cad4987bbac272babf1f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for CSV file editing.</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55551571?u=9f7443c2f1cf3cd6c6dedb406312a02ce3fc3fca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for CSV file editing.</div>",
             "url": "https://github.com/hat0uma/csvview.nvim",
             "title": "hat0uma/csvview.nvim: A Neovim plugin for CSV file editing.",
             "date_modified": "2024-09-18T14:47:31.000Z",
@@ -160,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
-            "url": "https://github.com/brianhuster/live-preview.nvim",
-            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
-            "date_modified": "2024-09-18T13:31:51.000Z",
-            "date_published": "2024-07-24T10:30:05.000Z",
-            "author": {
-                "name": "brianhuster",
-                "url": "https://github.com/brianhuster"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
             "url": "https://github.com/nvim-plugnplay/database",
             "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-09-18T12:36:13.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-09-18T12:12:22.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Alternative command-line window plugin for neovim</div>",
-            "url": "https://github.com/notomo/cmdbuf.nvim",
-            "title": "notomo/cmdbuf.nvim: Alternative command-line window plugin for neovim",
-            "date_modified": "2024-09-18T11:31:37.000Z",
-            "date_published": "2021-01-30T10:31:08.000Z",
-            "author": {
-                "name": "notomo",
-                "url": "https://github.com/notomo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to get test structures</div>",
-            "url": "https://github.com/notomo/gettest.nvim",
-            "title": "notomo/gettest.nvim: Neovim plugin to get test structures",
-            "date_modified": "2024-09-18T11:20:17.000Z",
-            "date_published": "2022-01-30T12:44:38.000Z",
-            "author": {
-                "name": "notomo",
-                "url": "https://github.com/notomo"
             }
         }
     ]
