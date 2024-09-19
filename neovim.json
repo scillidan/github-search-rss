@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14897437?u=5105bcf7c23e994afe6e8251eb5413313b855750&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A taskwarrior plugin/wrapper for neovim</div>",
+            "url": "https://github.com/duckdm/neowarrior.nvim",
+            "title": "duckdm/neowarrior.nvim: A taskwarrior plugin/wrapper for neovim",
+            "date_modified": "2024-09-19T05:36:18.000Z",
+            "date_published": "2024-09-07T14:53:10.000Z",
+            "author": {
+                "name": "duckdm",
+                "url": "https://github.com/duckdm"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-09-19T05:23:38.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-19T05:18:36.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/866010?u=b25ec1b1f04f31dcd391eae25463135a225287b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🍲 Carl Weathers #1 Neovim Plugin.</div>",
             "url": "https://github.com/rktjmp/hotpot.nvim",
             "title": "rktjmp/hotpot.nvim: :stew: Carl Weathers #1 Neovim Plugin.",
@@ -28,28 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-19T04:19:21.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14897437?u=5105bcf7c23e994afe6e8251eb5413313b855750&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A taskwarrior plugin/wrapper for neovim</div>",
-            "url": "https://github.com/duckdm/neowarrior.nvim",
-            "title": "duckdm/neowarrior.nvim: A taskwarrior plugin/wrapper for neovim",
-            "date_modified": "2024-09-19T03:32:28.000Z",
-            "date_published": "2024-09-07T14:53:10.000Z",
-            "author": {
-                "name": "duckdm",
-                "url": "https://github.com/duckdm"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1324601?u=2465d6619f67aec51a1c90f404135b611e1fd003&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GPTModels - a multi model, window based LLM AI plugin for neovim, with an emphasis on stability and clean code</div>",
             "url": "https://github.com/aaronik/GPTModels.nvim",
             "title": "aaronik/GPTModels.nvim: GPTModels - a multi model, window based LLM AI plugin for neovim, with an emphasis on stability and clean code",
@@ -69,17 +80,6 @@
             "author": {
                 "name": "HCY-ASLEEP",
                 "url": "https://github.com/HCY-ASLEEP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-09-19T02:02:04.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -218,7 +218,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
             "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-09-19T02:27:16.000Z",
+            "date_modified": "2024-09-19T06:00:03.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
