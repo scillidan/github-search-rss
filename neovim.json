@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84185899?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My customized neovim plugins, mappings and more for staying productive as a developer (or wasting time trying to)</div>",
+            "url": "https://github.com/marcos-aparicio/nvim-config",
+            "title": "marcos-aparicio/nvim-config: My customized neovim plugins, mappings and more for staying productive as a developer (or wasting time trying to)",
+            "date_modified": "2024-09-21T15:57:57.000Z",
+            "date_published": "2023-04-24T03:04:21.000Z",
+            "author": {
+                "name": "marcos-aparicio",
+                "url": "https://github.com/marcos-aparicio"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36083692?u=055253d880d415dbedeb2e359d7da5e98be302d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for basic management of debugger breakpoints</div>",
+            "url": "https://github.com/Kafva/brk.nvim",
+            "title": "Kafva/brk.nvim: Neovim plugin for basic management of debugger breakpoints",
+            "date_modified": "2024-09-21T15:51:15.000Z",
+            "date_published": "2024-05-01T17:13:51.000Z",
+            "author": {
+                "name": "Kafva",
+                "url": "https://github.com/Kafva"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22257750?u=d5734871bad49dcc75475fa43a02b11456c2f586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A template for Neovim plugin 🛠️</div>",
+            "url": "https://github.com/S1M0N38/base.nvim",
+            "title": "S1M0N38/base.nvim: A template for Neovim plugin 🛠️",
+            "date_modified": "2024-09-21T15:41:51.000Z",
+            "date_published": "2024-01-10T21:58:43.000Z",
+            "author": {
+                "name": "S1M0N38",
+                "url": "https://github.com/S1M0N38"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-09-21T15:28:50.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78477652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimalistic LLM plugin for Neovim.</div>",
             "url": "https://github.com/sudo-burger/m0.nvim",
             "title": "sudo-burger/m0.nvim: Minimalistic LLM plugin for Neovim.",
-            "date_modified": "2024-09-21T15:04:04.000Z",
+            "date_modified": "2024-09-21T15:25:39.000Z",
             "date_published": "2024-03-17T13:52:59.000Z",
             "author": {
                 "name": "sudo-burger",
@@ -36,6 +80,17 @@
             "author": {
                 "name": "HCY-ASLEEP",
                 "url": "https://github.com/HCY-ASLEEP"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#",
+            "date_modified": "2024-09-21T16:11:33.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
+            "author": {
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
             }
         },
         {
@@ -141,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-09-21T13:27:08.000Z",
+            "date_modified": "2024-09-21T15:56:08.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "chrisgrieser",
                 "url": "https://github.com/chrisgrieser"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-09-21T12:00:54.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/100703049?u=f558ae82978dee4f443c98a6a22ce87ce371888f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Norminette Formatter and Linter Plugin for Neovim  </div>",
-            "url": "https://github.com/MoulatiMehdi/42norm.nvim",
-            "title": "MoulatiMehdi/42norm.nvim: Norminette Formatter and Linter Plugin for Neovim  ",
-            "date_modified": "2024-09-21T11:59:29.000Z",
-            "date_published": "2024-08-13T23:49:08.000Z",
-            "author": {
-                "name": "MoulatiMehdi",
-                "url": "https://github.com/MoulatiMehdi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-09-21T12:45:10.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143778894?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>First neovim config made from scratch, uses lazy.nvim plugin manager</div>",
-            "url": "https://github.com/TenzinPlatter/NeovimConfig",
-            "title": "TenzinPlatter/NeovimConfig: First neovim config made from scratch, uses lazy.nvim plugin manager",
-            "date_modified": "2024-09-21T11:29:03.000Z",
-            "date_published": "2024-05-23T01:52:09.000Z",
-            "author": {
-                "name": "TenzinPlatter",
-                "url": "https://github.com/TenzinPlatter"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
-            "url": "https://github.com/tamago324/nlsp-settings.nvim",
-            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
-            "date_modified": "2024-09-21T11:02:12.000Z",
-            "date_published": "2021-03-21T05:46:20.000Z",
-            "author": {
-                "name": "tamago324",
-                "url": "https://github.com/tamago324"
             }
         }
     ]
