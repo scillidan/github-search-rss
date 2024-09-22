@@ -6,10 +6,76 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#",
+            "date_modified": "2024-09-22T08:05:05.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
+            "author": {
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54085409?u=ca2e68794e78b2819a86b0fafbfcb7219e3a9fa1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin to manage AWS Sam to improve the workflow</div>",
+            "url": "https://github.com/divagueame/aws-sam.nvim",
+            "title": "divagueame/aws-sam.nvim: Neovim Plugin to manage AWS Sam to improve the workflow",
+            "date_modified": "2024-09-22T08:02:05.000Z",
+            "date_published": "2024-09-15T12:10:29.000Z",
+            "author": {
+                "name": "divagueame",
+                "url": "https://github.com/divagueame"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28607360?u=7f57f9c6f1338f6d34d29e22c674a88392dc7d86&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>installs neovim from source and adds some plugins that I use</div>",
+            "url": "https://github.com/MattBrooks95/neovim-flake",
+            "title": "MattBrooks95/neovim-flake: installs neovim from source and adds some plugins that I use",
+            "date_modified": "2024-09-22T07:48:17.000Z",
+            "date_published": "2023-01-29T11:38:59.000Z",
+            "author": {
+                "name": "MattBrooks95",
+                "url": "https://github.com/MattBrooks95"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45028928?u=a69faba06ec8ac5c4fba47970ea02d4d24fc8f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Never manually save/write a buffer again!</div>",
+            "url": "https://github.com/tmillr/sos.nvim",
+            "title": "tmillr/sos.nvim: Never manually save/write a buffer again!",
+            "date_modified": "2024-09-22T07:39:42.000Z",
+            "date_published": "2022-10-18T12:52:35.000Z",
+            "author": {
+                "name": "tmillr",
+                "url": "https://github.com/tmillr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18545852?u=ad716ca7b79b2bec40fdc33727735d28dc223da1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to gamify development in the spirit of old school Runescape</div>",
+            "url": "https://github.com/jakewaldrip/vimscape2007.nvim",
+            "title": "jakewaldrip/vimscape2007.nvim: Neovim plugin to gamify development in the spirit of old school Runescape",
+            "date_modified": "2024-09-22T07:38:46.000Z",
+            "date_published": "2024-07-13T05:30:41.000Z",
+            "author": {
+                "name": "jakewaldrip",
+                "url": "https://github.com/jakewaldrip"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-22T07:19:23.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38051220?u=12a3b0aecce4cd0663cc9de90f9d1fc7347773b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for building and updating neovim from source within neovim.</div>",
             "url": "https://github.com/rootiest/nvim-updater.nvim",
             "title": "rootiest/nvim-updater.nvim: A plugin for building and updating neovim from source within neovim.",
-            "date_modified": "2024-09-22T06:57:49.000Z",
+            "date_modified": "2024-09-22T07:12:10.000Z",
             "date_published": "2024-09-12T05:23:37.000Z",
             "author": {
                 "name": "rootiest",
@@ -20,22 +86,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22574136?u=78d6dbb7f922ccf7fc04b5f559b775b462d1b92f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim</div>",
             "url": "https://github.com/mistricky/codesnap.nvim",
             "title": "mistricky/codesnap.nvim: 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
-            "date_modified": "2024-09-22T06:42:40.000Z",
+            "date_modified": "2024-09-22T07:41:08.000Z",
             "date_published": "2024-02-13T06:05:34.000Z",
             "author": {
                 "name": "mistricky",
                 "url": "https://github.com/mistricky"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-22T06:20:32.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
-            "url": "https://github.com/folke/neoconf.nvim",
-            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-09-22T01:30:06.000Z",
-            "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7449?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Plugin to set timeframes for different themes in neovim</div>",
-            "url": "https://github.com/luxus/colorful-times-nvim",
-            "title": "luxus/colorful-times-nvim: A Plugin to set timeframes for different themes in neovim",
-            "date_modified": "2024-09-22T01:15:18.000Z",
-            "date_published": "2023-02-24T14:37:28.000Z",
-            "author": {
-                "name": "luxus",
-                "url": "https://github.com/luxus"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121119094?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to help analyse csv files.</div>",
-            "url": "https://github.com/u6xk3/csv-analyser.nvim",
-            "title": "u6xk3/csv-analyser.nvim: neovim plugin to help analyse csv files.",
-            "date_modified": "2024-09-22T01:02:52.000Z",
-            "date_published": "2024-09-19T22:17:52.000Z",
-            "author": {
-                "name": "u6xk3",
-                "url": "https://github.com/u6xk3"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin manager that uses only opt packages</div>",
-            "url": "https://github.com/notomo/optpack.nvim",
-            "title": "notomo/optpack.nvim: Neovim plugin manager that uses only opt packages",
-            "date_modified": "2024-09-22T00:57:16.000Z",
-            "date_published": "2021-10-02T13:57:53.000Z",
-            "author": {
-                "name": "notomo",
-                "url": "https://github.com/notomo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45028928?u=a69faba06ec8ac5c4fba47970ea02d4d24fc8f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Never manually save/write a buffer again!</div>",
-            "url": "https://github.com/tmillr/sos.nvim",
-            "title": "tmillr/sos.nvim: Never manually save/write a buffer again!",
-            "date_modified": "2024-09-22T00:56:36.000Z",
-            "date_published": "2022-10-18T12:52:35.000Z",
-            "author": {
-                "name": "tmillr",
-                "url": "https://github.com/tmillr"
             }
         }
     ]
