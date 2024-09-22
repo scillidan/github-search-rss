@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
+            "url": "https://github.com/nvim-neorocks/lz.n",
+            "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
+            "date_modified": "2024-09-22T01:52:18.000Z",
+            "date_published": "2024-01-05T13:38:49.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
+            "url": "https://github.com/folke/neoconf.nvim",
+            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
+            "date_modified": "2024-09-22T01:30:06.000Z",
+            "date_published": "2022-09-07T16:15:13.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7449?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Plugin to set timeframes for different themes in neovim</div>",
+            "url": "https://github.com/luxus/colorful-times-nvim",
+            "title": "luxus/colorful-times-nvim: A Plugin to set timeframes for different themes in neovim",
+            "date_modified": "2024-09-22T01:15:18.000Z",
+            "date_published": "2023-02-24T14:37:28.000Z",
+            "author": {
+                "name": "luxus",
+                "url": "https://github.com/luxus"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121119094?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin to help analyse csv files.</div>",
+            "url": "https://github.com/u6xk3/csv-analyser.nvim",
+            "title": "u6xk3/csv-analyser.nvim: neovim plugin to help analyse csv files.",
+            "date_modified": "2024-09-22T01:02:52.000Z",
+            "date_published": "2024-09-19T22:17:52.000Z",
+            "author": {
+                "name": "u6xk3",
+                "url": "https://github.com/u6xk3"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18519692?u=e88277918a8f69ad27f08c0d3002be2ee002c10d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin manager that uses only opt packages</div>",
+            "url": "https://github.com/notomo/optpack.nvim",
+            "title": "notomo/optpack.nvim: Neovim plugin manager that uses only opt packages",
+            "date_modified": "2024-09-22T00:57:16.000Z",
+            "date_published": "2021-10-02T13:57:53.000Z",
+            "author": {
+                "name": "notomo",
+                "url": "https://github.com/notomo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45028928?u=a69faba06ec8ac5c4fba47970ea02d4d24fc8f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Never manually save/write a buffer again!</div>",
+            "url": "https://github.com/tmillr/sos.nvim",
+            "title": "tmillr/sos.nvim: Never manually save/write a buffer again!",
+            "date_modified": "2024-09-22T00:56:36.000Z",
+            "date_published": "2022-10-18T12:52:35.000Z",
+            "author": {
+                "name": "tmillr",
+                "url": "https://github.com/tmillr"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13412491?u=ea12ae143a8e3c33a574ab48083b387457e1eea7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Razor Language Server Plugin for Neovim</div>",
             "url": "https://github.com/rpollard00/cutlass.nvim",
             "title": "rpollard00/cutlass.nvim: Razor Language Server Plugin for Neovim",
@@ -14,6 +80,17 @@
             "author": {
                 "name": "rpollard00",
                 "url": "https://github.com/rpollard00"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96009863?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manage the file system and other tree like structures.</div>",
+            "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+            "title": "nvim-neo-tree/neo-tree.nvim: Neovim plugin to manage the file system and other tree like structures.",
+            "date_modified": "2024-09-22T01:19:44.000Z",
+            "date_published": "2021-12-12T13:38:23.000Z",
+            "author": {
+                "name": "nvim-neo-tree",
+                "url": "https://github.com/nvim-neo-tree"
             }
         },
         {
@@ -146,83 +223,6 @@
             "author": {
                 "name": "samchristywork",
                 "url": "https://github.com/samchristywork"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78477652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimalistic LLM plugin for Neovim.</div>",
-            "url": "https://github.com/sudo-burger/m0.nvim",
-            "title": "sudo-burger/m0.nvim: Minimalistic LLM plugin for Neovim.",
-            "date_modified": "2024-09-21T18:57:23.000Z",
-            "date_published": "2024-03-17T13:52:59.000Z",
-            "author": {
-                "name": "sudo-burger",
-                "url": "https://github.com/sudo-burger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4814844?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lua plugin for powerlevel10k style prompt and WakaTime time tracking</div>",
-            "url": "https://github.com/wakatime/prompt-style.lua",
-            "title": "wakatime/prompt-style.lua: Lua plugin for powerlevel10k style prompt and WakaTime time tracking",
-            "date_modified": "2024-09-21T18:49:55.000Z",
-            "date_published": "2023-07-28T05:56:13.000Z",
-            "author": {
-                "name": "wakatime",
-                "url": "https://github.com/wakatime"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
-            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
-            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
-            "date_modified": "2024-09-21T17:24:12.000Z",
-            "date_published": "2021-12-11T08:13:56.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6420066?u=ba32acf3de4719bcb51819b0f494d9a05f8ca725&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for automaticaly passing extra context for LLM on code snippet copy to clipboard</div>",
-            "url": "https://github.com/k2589/LLuMinate.nvim",
-            "title": "k2589/LLuMinate.nvim: Neovim plugin for automaticaly passing extra context for LLM on code snippet copy to clipboard",
-            "date_modified": "2024-09-21T17:17:00.000Z",
-            "date_published": "2024-09-20T15:22:33.000Z",
-            "author": {
-                "name": "k2589",
-                "url": "https://github.com/k2589"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88047141?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>CompetiTest.nvim is a Neovim plugin for Competitive Programming: it can manage and check testcases, download problems and contests from online judges and much more</div>",
-            "url": "https://github.com/xeluxee/competitest.nvim",
-            "title": "xeluxee/competitest.nvim: CompetiTest.nvim is a Neovim plugin for Competitive Programming: it can manage and check testcases, download problems and contests from online judges and much more",
-            "date_modified": "2024-09-21T17:16:33.000Z",
-            "date_published": "2022-01-21T17:43:23.000Z",
-            "author": {
-                "name": "xeluxee",
-                "url": "https://github.com/xeluxee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#</div>",
-            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
-            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#",
-            "date_modified": "2024-09-21T17:06:13.000Z",
-            "date_published": "2024-04-02T18:24:40.000Z",
-            "author": {
-                "name": "GustavEikaas",
-                "url": "https://github.com/GustavEikaas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/339433?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to assist work with CSV files</div>",
-            "url": "https://github.com/emmanueltouzery/decisive.nvim",
-            "title": "emmanueltouzery/decisive.nvim: Neovim plugin to assist work with CSV files",
-            "date_modified": "2024-09-21T17:04:36.000Z",
-            "date_published": "2024-05-23T19:36:11.000Z",
-            "author": {
-                "name": "emmanueltouzery",
-                "url": "https://github.com/emmanueltouzery"
             }
         }
     ]
