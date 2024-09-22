@@ -6,25 +6,91 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.</div>",
-            "url": "https://github.com/jkeresman01/java-maven-test.nvim",
-            "title": "jkeresman01/java-maven-test.nvim: Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.",
-            "date_modified": "2024-09-22T16:11:05.000Z",
-            "date_published": "2024-07-16T19:38:47.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A list of vim/neovim plugins(/extensions for plugins)</div>",
+            "url": "https://github.com/altermo/vim-plugin-list",
+            "title": "altermo/vim-plugin-list: A list of vim/neovim plugins(/extensions for plugins)",
+            "date_modified": "2024-09-22T16:56:57.000Z",
+            "date_published": "2022-06-20T05:56:40.000Z",
+            "author": {
+                "name": "altermo",
+                "url": "https://github.com/altermo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A collection of \"small\" plugins</div>",
+            "url": "https://github.com/altermo/small.nvim",
+            "title": "altermo/small.nvim: A collection of \"small\" plugins",
+            "date_modified": "2024-09-22T16:56:40.000Z",
+            "date_published": "2023-09-15T22:07:14.000Z",
+            "author": {
+                "name": "altermo",
+                "url": "https://github.com/altermo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
+            "url": "https://github.com/mikavilpas/yazi.nvim",
+            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
+            "date_modified": "2024-09-22T16:54:05.000Z",
+            "date_published": "2024-02-25T13:33:19.000Z",
+            "author": {
+                "name": "mikavilpas",
+                "url": "https://github.com/mikavilpas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54085409?u=ca2e68794e78b2819a86b0fafbfcb7219e3a9fa1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Plugin to manage AWS Sam to improve the workflow</div>",
+            "url": "https://github.com/divagueame/aws-sam.nvim",
+            "title": "divagueame/aws-sam.nvim: Neovim Plugin to manage AWS Sam to improve the workflow",
+            "date_modified": "2024-09-22T16:46:36.000Z",
+            "date_published": "2024-09-15T12:10:29.000Z",
+            "author": {
+                "name": "divagueame",
+                "url": "https://github.com/divagueame"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.</div>",
+            "url": "https://github.com/jkeresman01/tmux-switch.nvim",
+            "title": "jkeresman01/tmux-switch.nvim: Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.",
+            "date_modified": "2024-09-22T16:28:47.000Z",
+            "date_published": "2024-07-19T20:51:43.000Z",
             "author": {
                 "name": "jkeresman01",
                 "url": "https://github.com/jkeresman01"
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-22T16:19:07.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125664066?u=e3397af6d1ff8fe79e99f0c5c6430911c5c6adac&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my configuration for neovim with all my plugins, language servers and everything</div>",
             "url": "https://github.com/NathanGros/my-neovim-config",
             "title": "NathanGros/my-neovim-config: my configuration for neovim with all my plugins, language servers and everything",
-            "date_modified": "2024-09-22T16:10:36.000Z",
+            "date_modified": "2024-09-22T16:13:25.000Z",
             "date_published": "2024-09-22T16:01:36.000Z",
             "author": {
                 "name": "NathanGros",
                 "url": "https://github.com/NathanGros"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.</div>",
+            "url": "https://github.com/jkeresman01/java-maven-test.nvim",
+            "title": "jkeresman01/java-maven-test.nvim: Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.",
+            "date_modified": "2024-09-22T16:12:43.000Z",
+            "date_published": "2024-07-16T19:38:47.000Z",
+            "author": {
+                "name": "jkeresman01",
+                "url": "https://github.com/jkeresman01"
             }
         },
         {
@@ -47,17 +113,6 @@
             "author": {
                 "name": "brianhuster",
                 "url": "https://github.com/brianhuster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-22T15:18:33.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-09-22T13:26:10.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76894615?u=ec6071621862fad8c3507650af2daa6cc749d8cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.</div>",
-            "url": "https://github.com/HCY-ASLEEP/NVIM-Config",
-            "title": "HCY-ASLEEP/NVIM-Config: Nvim configurations without any external plugins, support symbol-outline, file-manager, fuzzy word/file search and autocomplete.",
-            "date_modified": "2024-09-22T13:24:13.000Z",
-            "date_published": "2022-11-09T13:44:16.000Z",
-            "author": {
-                "name": "HCY-ASLEEP",
-                "url": "https://github.com/HCY-ASLEEP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
-            "url": "https://github.com/mikavilpas/yazi.nvim",
-            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2024-09-22T12:34:27.000Z",
-            "date_published": "2024-02-25T13:33:19.000Z",
-            "author": {
-                "name": "mikavilpas",
-                "url": "https://github.com/mikavilpas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-09-22T12:11:04.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86842365?u=216ea23a1fb4e7e8d0f2eb58683454abad95f7ca&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An unopinionated set of utility functions for neovim plugins</div>",
-            "url": "https://github.com/samsze0/utils.nvim",
-            "title": "samsze0/utils.nvim: An unopinionated set of utility functions for neovim plugins",
-            "date_modified": "2024-09-22T11:38:19.000Z",
-            "date_published": "2024-05-15T03:34:24.000Z",
-            "author": {
-                "name": "samsze0",
-                "url": "https://github.com/samsze0"
             }
         }
     ]
