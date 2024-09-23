@@ -6,14 +6,80 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> An easy to use HTTP-Rest-Client plugin for neovim written in LUA</div>",
+            "url": "https://github.com/lima1909/resty.nvim",
+            "title": "lima1909/resty.nvim:  An easy to use HTTP-Rest-Client plugin for neovim written in LUA",
+            "date_modified": "2024-09-23T19:02:00.000Z",
+            "date_published": "2024-05-04T09:33:14.000Z",
+            "author": {
+                "name": "lima1909",
+                "url": "https://github.com/lima1909"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181151177?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Wakatime plugin for Neovim write in Lua.</div>",
+            "url": "https://github.com/petricavalry/attentiveacting",
+            "title": "petricavalry/attentiveacting: A Wakatime plugin for Neovim write in Lua.",
+            "date_modified": "2024-09-23T19:00:07.000Z",
+            "date_published": "2024-09-23T18:23:08.000Z",
+            "author": {
+                "name": "petricavalry",
+                "url": "https://github.com/petricavalry"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-09-23T18:55:56.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.</div>",
             "url": "https://github.com/jkeresman01/java-maven-test.nvim",
             "title": "jkeresman01/java-maven-test.nvim: Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.",
-            "date_modified": "2024-09-23T18:00:46.000Z",
+            "date_modified": "2024-09-23T18:53:47.000Z",
             "date_published": "2024-07-16T19:38:47.000Z",
             "author": {
                 "name": "jkeresman01",
                 "url": "https://github.com/jkeresman01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-09-23T18:33:40.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-23T18:20:01.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
+            "url": "https://github.com/brianhuster/live-preview.nvim",
+            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
+            "date_modified": "2024-09-23T18:30:05.000Z",
+            "date_published": "2024-07-24T10:30:05.000Z",
+            "author": {
+                "name": "brianhuster",
+                "url": "https://github.com/brianhuster"
             }
         },
         {
@@ -83,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> An easy to use HTTP-Rest-Client plugin for neovim written in LUA</div>",
-            "url": "https://github.com/lima1909/resty.nvim",
-            "title": "lima1909/resty.nvim:  An easy to use HTTP-Rest-Client plugin for neovim written in LUA",
-            "date_modified": "2024-09-23T16:09:45.000Z",
-            "date_published": "2024-05-04T09:33:14.000Z",
-            "author": {
-                "name": "lima1909",
-                "url": "https://github.com/lima1909"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22257750?u=d5734871bad49dcc75475fa43a02b11456c2f586&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A template for Neovim plugin 🛠️</div>",
             "url": "https://github.com/S1M0N38/base.nvim",
             "title": "S1M0N38/base.nvim: A template for Neovim plugin 🛠️",
@@ -105,21 +160,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-23T15:19:06.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/127350487?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The official Neovim plugin for Supermaven</div>",
             "url": "https://github.com/supermaven-inc/supermaven-nvim",
             "title": "supermaven-inc/supermaven-nvim: The official Neovim plugin for Supermaven",
-            "date_modified": "2024-09-23T16:05:09.000Z",
+            "date_modified": "2024-09-23T18:39:58.000Z",
             "date_published": "2024-05-08T17:37:53.000Z",
             "author": {
                 "name": "supermaven-inc",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "tonyfettes",
                 "url": "https://github.com/tonyfettes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6697969?u=ce06199ec292e2896c4b6be4f8b560b82885d85e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for IntelliJ HTTP Client</div>",
-            "url": "https://github.com/serzhby/ijhttp-nvim",
-            "title": "serzhby/ijhttp-nvim: Neovim plugin for IntelliJ HTTP Client",
-            "date_modified": "2024-09-23T13:07:18.000Z",
-            "date_published": "2024-09-23T11:18:22.000Z",
-            "author": {
-                "name": "serzhby",
-                "url": "https://github.com/serzhby"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8431097?u=c705312d348eef868048d11e7172df0cd836a08c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions &amp; Instructable text/code operations &amp; Speech to text [OpenAI, Ollama, Anthropic, ..]</div>",
-            "url": "https://github.com/Robitx/gp.nvim",
-            "title": "Robitx/gp.nvim: Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
-            "date_modified": "2024-09-23T14:35:37.000Z",
-            "date_published": "2023-06-18T13:55:46.000Z",
-            "author": {
-                "name": "Robitx",
-                "url": "https://github.com/Robitx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96325829?u=b7e63f433d8443518245f462137b97c3cd9d18d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The xmake plugin for neovim provides a ui interface that allows you to configure xmake more efficiently.</div>",
-            "url": "https://github.com/Mythos-404/xmake.nvim",
-            "title": "Mythos-404/xmake.nvim: The xmake plugin for neovim provides a ui interface that allows you to configure xmake more efficiently.",
-            "date_modified": "2024-09-23T12:26:42.000Z",
-            "date_published": "2023-08-08T17:30:30.000Z",
-            "author": {
-                "name": "Mythos-404",
-                "url": "https://github.com/Mythos-404"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-09-23T12:13:01.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
             }
         }
     ]
