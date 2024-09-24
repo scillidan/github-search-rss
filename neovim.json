@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
+            "url": "https://github.com/killitar/obscure.nvim",
+            "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
+            "date_modified": "2024-09-24T21:06:20.000Z",
+            "date_published": "2024-07-21T11:56:28.000Z",
+            "author": {
+                "name": "killitar",
+                "url": "https://github.com/killitar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
+            "url": "https://github.com/lbrayner/init.lua",
+            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
+            "date_modified": "2024-09-24T20:41:52.000Z",
+            "date_published": "2017-12-24T16:51:28.000Z",
+            "author": {
+                "name": "lbrayner",
+                "url": "https://github.com/lbrayner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-24T20:20:18.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78747011?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno</div>",
             "url": "https://github.com/vim-denops/denops.vim",
             "title": "vim-denops/denops.vim: 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
@@ -14,17 +47,6 @@
             "author": {
                 "name": "vim-denops",
                 "url": "https://github.com/vim-denops"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5733531?u=6e029ea6d9968967375cd9ada4db493dd2c31cb3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim config folder (with plugins as git submodules).</div>",
-            "url": "https://github.com/lbrayner/init.lua",
-            "title": "lbrayner/init.lua: My Neovim config folder (with plugins as git submodules).",
-            "date_modified": "2024-09-24T19:51:05.000Z",
-            "date_published": "2017-12-24T16:51:28.000Z",
-            "author": {
-                "name": "lbrayner",
-                "url": "https://github.com/lbrayner"
             }
         },
         {
@@ -39,21 +61,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-24T19:18:08.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
             "url": "https://github.com/AstroNvim/astrocommunity",
             "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-09-24T19:16:52.000Z",
+            "date_modified": "2024-09-24T20:16:38.000Z",
             "date_published": "2023-02-21T14:55:56.000Z",
             "author": {
                 "name": "AstroNvim",
@@ -152,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
             "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-09-24T17:35:36.000Z",
+            "date_modified": "2024-09-24T20:23:46.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "tamago324",
                 "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49748547?u=aaa4298708aec8e33aa325dcc23bfff7213e2a3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This neovim plugin just do one thing: send http request under cursor and return the http response to you.</div>",
-            "url": "https://github.com/sunn4room/httpc.nvim",
-            "title": "sunn4room/httpc.nvim: This neovim plugin just do one thing: send http request under cursor and return the http response to you.",
-            "date_modified": "2024-09-24T16:34:43.000Z",
-            "date_published": "2024-09-24T16:29:31.000Z",
-            "author": {
-                "name": "sunn4room",
-                "url": "https://github.com/sunn4room"
             }
         }
     ]
