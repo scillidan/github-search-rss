@@ -6,10 +6,76 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17427046?u=5897605555f887ca813a21b2f300fc17f4c6f90e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple mpv script to change 4:3 aspect-ratio of video files/streams to 16:9 automatically.</div>",
+            "url": "https://github.com/Samillion/mpv-boxtowide",
+            "title": "Samillion/mpv-boxtowide: A simple mpv script to change 4:3 aspect-ratio of video files/streams to 16:9 automatically.",
+            "date_modified": "2024-09-24T05:10:25.000Z",
+            "date_published": "2018-06-06T23:24:06.000Z",
+            "author": {
+                "name": "Samillion",
+                "url": "https://github.com/Samillion"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17427046?u=5897605555f887ca813a21b2f300fc17f4c6f90e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My mpv configuration files and scripts.</div>",
+            "url": "https://github.com/Samillion/mpv-conf",
+            "title": "Samillion/mpv-conf: My mpv configuration files and scripts.",
+            "date_modified": "2024-09-24T05:08:46.000Z",
+            "date_published": "2018-06-08T09:07:58.000Z",
+            "author": {
+                "name": "Samillion",
+                "url": "https://github.com/Samillion"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1343411?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MPV Player Win64 Auto Build Bot</div>",
+            "url": "https://github.com/nyfair/mpv-win64",
+            "title": "nyfair/mpv-win64: MPV Player Win64 Auto Build Bot",
+            "date_modified": "2024-09-24T05:00:03.000Z",
+            "date_published": "2015-09-23T18:22:27.000Z",
+            "author": {
+                "name": "nyfair",
+                "url": "https://github.com/nyfair"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9336788?u=02424696c5fcb241b6ae15c870423b540662ba6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ansible-powered dotfiles</div>",
+            "url": "https://github.com/claha/dotfiles",
+            "title": "claha/dotfiles: Ansible-powered dotfiles",
+            "date_modified": "2024-09-24T04:49:49.000Z",
+            "date_published": "2020-12-28T21:01:12.000Z",
+            "author": {
+                "name": "claha",
+                "url": "https://github.com/claha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174793131?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv library for iOS, macOS, tvOS applications</div>",
+            "url": "https://github.com/mpvkit/MPVKit",
+            "title": "mpvkit/MPVKit: mpv library for iOS, macOS, tvOS applications",
+            "date_modified": "2024-09-24T04:46:49.000Z",
+            "date_published": "2024-07-10T01:56:44.000Z",
+            "author": {
+                "name": "mpvkit",
+                "url": "https://github.com/mpvkit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71256557?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A user-friendly script for mpv that enables temporary adjustments to playback speed at the press of a key.</div>",
+            "url": "https://github.com/gaesa/mpv-hold-accelerate",
+            "title": "gaesa/mpv-hold-accelerate: A user-friendly script for mpv that enables temporary adjustments to playback speed at the press of a key.",
+            "date_modified": "2024-09-24T04:31:04.000Z",
+            "date_published": "2023-11-01T16:04:21.000Z",
+            "author": {
+                "name": "gaesa",
+                "url": "https://github.com/gaesa"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11155705?u=8e0bd22057041cd48113634a90caf218354664fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use Github Action to build mpv for Windows with latest commit.</div>",
             "url": "https://github.com/zhongfly/mpv-winbuild",
             "title": "zhongfly/mpv-winbuild: Use Github Action to build mpv for Windows with latest commit.",
-            "date_modified": "2024-09-24T04:05:43.000Z",
+            "date_modified": "2024-09-24T04:17:57.000Z",
             "date_published": "2021-10-01T08:09:13.000Z",
             "author": {
                 "name": "zhongfly",
@@ -69,17 +135,6 @@
             "author": {
                 "name": "YesiCJ",
                 "url": "https://github.com/YesiCJ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174793131?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv library for iOS, macOS, tvOS applications</div>",
-            "url": "https://github.com/mpvkit/MPVKit",
-            "title": "mpvkit/MPVKit: mpv library for iOS, macOS, tvOS applications",
-            "date_modified": "2024-09-24T01:18:20.000Z",
-            "date_published": "2024-07-10T01:56:44.000Z",
-            "author": {
-                "name": "mpvkit",
-                "url": "https://github.com/mpvkit"
             }
         },
         {
@@ -163,66 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2550273?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🎥 Command line video player</div>",
             "url": "https://github.com/mpv-player/mpv",
             "title": "mpv-player/mpv: 🎥 Command line video player",
-            "date_modified": "2024-09-24T03:47:35.000Z",
+            "date_modified": "2024-09-24T04:49:04.000Z",
             "date_published": "2012-10-13T08:08:44.000Z",
             "author": {
                 "name": "mpv-player",
                 "url": "https://github.com/mpv-player"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17427046?u=5897605555f887ca813a21b2f300fc17f4c6f90e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My mpv configuration files and scripts.</div>",
-            "url": "https://github.com/Samillion/mpv-conf",
-            "title": "Samillion/mpv-conf: My mpv configuration files and scripts.",
-            "date_modified": "2024-09-23T21:25:48.000Z",
-            "date_published": "2018-06-08T09:07:58.000Z",
-            "author": {
-                "name": "Samillion",
-                "url": "https://github.com/Samillion"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/599313?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Movie player based on MPlayer and mplayer2</div>",
-            "url": "https://github.com/pld-linux/mpv",
-            "title": "pld-linux/mpv: Movie player based on MPlayer and mplayer2",
-            "date_modified": "2024-09-23T18:28:41.000Z",
-            "date_published": "2014-01-07T18:16:25.000Z",
-            "author": {
-                "name": "pld-linux",
-                "url": "https://github.com/pld-linux"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54363735?u=2922f8dc68ae49623680940b6eeba18eeb6fa771&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A media player for android, based on mpv-android and built with Jetpack Compose.</div>",
-            "url": "https://github.com/abdallahmehiz/mpvKt",
-            "title": "abdallahmehiz/mpvKt: A media player for android, based on mpv-android and built with Jetpack Compose.",
-            "date_modified": "2024-09-24T03:28:37.000Z",
-            "date_published": "2024-05-12T22:30:23.000Z",
-            "author": {
-                "name": "abdallahmehiz",
-                "url": "https://github.com/abdallahmehiz"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92977828?u=3f2f7d01efef08982487de0665467b662d7a7393&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minimal abstraction nix flakes config</div>",
-            "url": "https://github.com/71zenith/kiseki",
-            "title": "71zenith/kiseki: minimal abstraction nix flakes config",
-            "date_modified": "2024-09-23T17:40:54.000Z",
-            "date_published": "2024-02-09T12:47:53.000Z",
-            "author": {
-                "name": "71zenith",
-                "url": "https://github.com/71zenith"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77244135?u=0a890fdae49071e891c16261adf6b2262385504d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.</div>",
-            "url": "https://github.com/rorgoroth/mingw-cmake-env",
-            "title": "rorgoroth/mingw-cmake-env: Minimal Mingw64 build env using CMake. Used for building projects such as mpv, urban terror, quake3e, iortcw, openarena, q2pro, ffmpeg and xonotic.",
-            "date_modified": "2024-09-23T17:29:27.000Z",
-            "date_published": "2021-05-18T09:34:24.000Z",
-            "author": {
-                "name": "rorgoroth",
-                "url": "https://github.com/rorgoroth"
             }
         }
     ]
