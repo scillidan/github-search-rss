@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)</div>",
+            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
+            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
+            "date_modified": "2024-09-25T17:06:33.000Z",
+            "date_published": "2023-11-01T17:40:49.000Z",
+            "author": {
+                "name": "wojciech-kulik",
+                "url": "https://github.com/wojciech-kulik"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56039679?u=7c4ddeddf92f3788ce4b709e462bf482b40023d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The file tree neovim plugin inspired by oil.nvim</div>",
+            "url": "https://github.com/Tronikelis/xylene.nvim",
+            "title": "Tronikelis/xylene.nvim: The file tree neovim plugin inspired by oil.nvim",
+            "date_modified": "2024-09-25T16:53:26.000Z",
+            "date_published": "2024-09-25T16:53:11.000Z",
+            "author": {
+                "name": "Tronikelis",
+                "url": "https://github.com/Tronikelis"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.</div>",
+            "url": "https://github.com/jkeresman01/tmux-switch.nvim",
+            "title": "jkeresman01/tmux-switch.nvim: Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.",
+            "date_modified": "2024-09-25T16:52:19.000Z",
+            "date_published": "2024-07-19T20:51:43.000Z",
+            "author": {
+                "name": "jkeresman01",
+                "url": "https://github.com/jkeresman01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
+            "url": "https://github.com/AstroNvim/astrocommunity",
+            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
+            "date_modified": "2024-09-25T16:43:42.000Z",
+            "date_published": "2023-02-21T14:55:56.000Z",
+            "author": {
+                "name": "AstroNvim",
+                "url": "https://github.com/AstroNvim"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/160406935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to edit R files</div>",
             "url": "https://github.com/R-nvim/R.nvim",
             "title": "R-nvim/R.nvim: Neovim plugin to edit R files",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6877714?u=2286052c66cb85b798497772f8ef567f5f5d004b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple plugin manager for Neovim</div>",
-            "url": "https://github.com/ceceppa/projects.nvim",
-            "title": "ceceppa/projects.nvim: A simple plugin manager for Neovim",
-            "date_modified": "2024-09-25T12:02:42.000Z",
-            "date_published": "2024-07-19T09:12:56.000Z",
-            "author": {
-                "name": "ceceppa",
-                "url": "https://github.com/ceceppa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136344982?u=0d040228380f93a7e62167f3982439c426dcef6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin displayed dynamic information on hover</div>",
-            "url": "https://github.com/dousbao/hover.nvim",
-            "title": "dousbao/hover.nvim: Neovim plugin displayed dynamic information on hover",
-            "date_modified": "2024-09-25T10:21:04.000Z",
-            "date_published": "2024-04-14T10:02:16.000Z",
-            "author": {
-                "name": "dousbao",
-                "url": "https://github.com/dousbao"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
-            "url": "https://github.com/vyfor/cord.nvim",
-            "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
-            "date_modified": "2024-09-25T10:05:29.000Z",
-            "date_published": "2024-04-07T15:20:39.000Z",
-            "author": {
-                "name": "vyfor",
-                "url": "https://github.com/vyfor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89019438?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for writing LilyPond scores, with asynchronous make, midi/mp3 player, fast syntax highlighting, \"hyphenation\" function, and support for LaTex and Texinfo files</div>",
-            "url": "https://github.com/martineausimon/nvim-lilypond-suite",
-            "title": "martineausimon/nvim-lilypond-suite: Neovim plugin for writing LilyPond scores, with asynchronous make, midi/mp3 player, fast syntax highlighting, \"hyphenation\" function, and support for LaTex and Texinfo files",
-            "date_modified": "2024-09-25T09:35:00.000Z",
-            "date_published": "2022-07-26T11:14:36.000Z",
-            "author": {
-                "name": "martineausimon",
-                "url": "https://github.com/martineausimon"
             }
         }
     ]
