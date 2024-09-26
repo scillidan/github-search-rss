@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43008152?u=972e3aec2962b5a72c50e1c36c7bc63d54d93c57&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin that helps managing crates.io dependencies</div>",
+            "url": "https://github.com/saecki/crates.nvim",
+            "title": "saecki/crates.nvim: A neovim plugin that helps managing crates.io dependencies",
+            "date_modified": "2024-09-26T20:56:32.000Z",
+            "date_published": "2021-08-24T17:13:20.000Z",
+            "author": {
+                "name": "saecki",
+                "url": "https://github.com/saecki"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
+            "date_modified": "2024-09-26T20:38:56.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/28579316?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Neovim for jumping between open buffers</div>",
+            "url": "https://github.com/johanneswolfgruber/switcher.nvim",
+            "title": "johanneswolfgruber/switcher.nvim: A plugin for Neovim for jumping between open buffers",
+            "date_modified": "2024-09-26T20:22:05.000Z",
+            "date_published": "2024-09-25T06:27:39.000Z",
+            "author": {
+                "name": "johanneswolfgruber",
+                "url": "https://github.com/johanneswolfgruber"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)</div>",
+            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
+            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
+            "date_modified": "2024-09-26T20:18:31.000Z",
+            "date_published": "2023-11-01T17:40:49.000Z",
+            "author": {
+                "name": "wojciech-kulik",
+                "url": "https://github.com/wojciech-kulik"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.</div>",
             "url": "https://github.com/jkeresman01/java-maven-test.nvim",
             "title": "jkeresman01/java-maven-test.nvim: Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Mythos-404",
                 "url": "https://github.com/Mythos-404"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138314257?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim codemp plugin -- code multiplexer</div>",
-            "url": "https://github.com/hexedtech/codemp-nvim",
-            "title": "hexedtech/codemp-nvim: neovim codemp plugin -- code multiplexer",
-            "date_modified": "2024-09-26T15:43:13.000Z",
-            "date_published": "2024-08-03T13:04:07.000Z",
-            "author": {
-                "name": "hexedtech",
-                "url": "https://github.com/hexedtech"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86408910?u=005dfeb02f6143643975914bc4437f9104c15556&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin with lua script</div>",
-            "url": "https://github.com/manhatsu/nvim-plugin-lua",
-            "title": "manhatsu/nvim-plugin-lua: neovim plugin with lua script",
-            "date_modified": "2024-09-26T15:23:19.000Z",
-            "date_published": "2024-09-07T05:29:37.000Z",
-            "author": {
-                "name": "manhatsu",
-                "url": "https://github.com/manhatsu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49748547?u=aaa4298708aec8e33aa325dcc23bfff7213e2a3a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This neovim plugin just do one thing: send http request under cursor and return the http response to you.</div>",
-            "url": "https://github.com/sunn4room/httpc.nvim",
-            "title": "sunn4room/httpc.nvim: This neovim plugin just do one thing: send http request under cursor and return the http response to you.",
-            "date_modified": "2024-09-26T15:11:53.000Z",
-            "date_published": "2024-09-24T16:29:31.000Z",
-            "author": {
-                "name": "sunn4room",
-                "url": "https://github.com/sunn4room"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/90753599?u=f272340c38873621cb31ff8133cd169e2fc350ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration and plugins</div>",
-            "url": "https://github.com/Ssionn/dotfiles",
-            "title": "Ssionn/dotfiles: Neovim configuration and plugins",
-            "date_modified": "2024-09-26T14:42:54.000Z",
-            "date_published": "2024-04-22T22:20:05.000Z",
-            "author": {
-                "name": "Ssionn",
-                "url": "https://github.com/Ssionn"
             }
         }
     ]
