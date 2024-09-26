@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3642691?u=1e4a29e57172585e14b58f400aae3178d2254ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a Neovim plugin that use GNU global to generate tags, find symbol definitions, find symbol reference.</div>",
             "url": "https://github.com/rargo/nvim-global",
             "title": "rargo/nvim-global: a Neovim plugin that use GNU global to generate tags, find symbol definitions, find symbol reference.",
-            "date_modified": "2024-09-26T08:11:44.000Z",
+            "date_modified": "2024-09-26T09:09:10.000Z",
             "date_published": "2024-09-26T03:29:53.000Z",
             "author": {
                 "name": "rargo",
@@ -17,25 +17,47 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
-            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
-            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-09-26T08:08:54.000Z",
-            "date_published": "2024-03-18T04:13:43.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8384983?u=906b385cfa1537ebbd41c4b1bf19d7478b417a8f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim lua plugin for managing a floating terminal window</div>",
+            "url": "https://github.com/itmecho/neoterm.nvim",
+            "title": "itmecho/neoterm.nvim: Neovim lua plugin for managing a floating terminal window",
+            "date_modified": "2024-09-26T08:22:12.000Z",
+            "date_published": "2021-04-13T13:26:02.000Z",
             "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
+                "name": "itmecho",
+                "url": "https://github.com/itmecho"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136344982?u=0d040228380f93a7e62167f3982439c426dcef6e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin displayed dynamic information on hover</div>",
+            "url": "https://github.com/dousbao/hover.nvim",
+            "title": "dousbao/hover.nvim: Neovim plugin displayed dynamic information on hover",
+            "date_modified": "2024-09-26T08:22:01.000Z",
+            "date_published": "2024-04-14T10:02:16.000Z",
+            "author": {
+                "name": "dousbao",
+                "url": "https://github.com/dousbao"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
             "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
             "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-26T07:20:14.000Z",
+            "date_modified": "2024-09-26T08:19:58.000Z",
             "date_published": "2024-05-26T17:25:07.000Z",
             "author": {
                 "name": "zachcoyle",
                 "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
+            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
+            "date_modified": "2024-09-26T08:42:26.000Z",
+            "date_published": "2024-03-18T04:13:43.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "brianhuster",
                 "url": "https://github.com/brianhuster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
-            "url": "https://github.com/folke/neoconf.nvim",
-            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-09-26T06:03:17.000Z",
-            "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
-            "url": "https://github.com/yutkat/new-neovim-plugin-with-category-rss",
-            "title": "yutkat/new-neovim-plugin-with-category-rss",
-            "date_modified": "2024-09-26T01:25:40.000Z",
-            "date_published": "2023-05-24T19:57:02.000Z",
-            "author": {
-                "name": "yutkat",
-                "url": "https://github.com/yutkat"
             }
         }
     ]
