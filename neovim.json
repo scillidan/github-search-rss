@@ -6,14 +6,69 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-09-27T14:10:16.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182336175?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that augments coding with 🤖 LLM abilities, enabling per-project AI customization through 📂 collocated `.d41rc` files that act as agents for your project folders or monorepo packages.</div>",
+            "url": "https://github.com/deckr41/nvim",
+            "title": "deckr41/nvim: A Neovim plugin that augments coding with 🤖 LLM abilities, enabling per-project AI customization through 📂 collocated `.d41rc` files that act as agents for your project folders or monorepo packages.",
+            "date_modified": "2024-09-27T14:03:26.000Z",
+            "date_published": "2024-09-21T10:40:15.000Z",
+            "author": {
+                "name": "deckr41",
+                "url": "https://github.com/deckr41"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-09-27T14:02:26.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99920520?u=1800d8007e42f34727480fa1b16165bc871be6fa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A comprehensive and optimized Neovim configuration. Includes custom settings, key mappings, plugins, and themes tailored for an enhanced development experience.</div>",
+            "url": "https://github.com/Lexnyan/nvim-config",
+            "title": "Lexnyan/nvim-config: A comprehensive and optimized Neovim configuration. Includes custom settings, key mappings, plugins, and themes tailored for an enhanced development experience.",
+            "date_modified": "2024-09-27T13:43:07.000Z",
+            "date_published": "2024-07-27T19:37:52.000Z",
+            "author": {
+                "name": "Lexnyan",
+                "url": "https://github.com/Lexnyan"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8384983?u=906b385cfa1537ebbd41c4b1bf19d7478b417a8f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim lua plugin for managing a floating terminal window</div>",
             "url": "https://github.com/itmecho/neoterm.nvim",
             "title": "itmecho/neoterm.nvim: Neovim lua plugin for managing a floating terminal window",
-            "date_modified": "2024-09-27T13:17:04.000Z",
+            "date_modified": "2024-09-27T13:36:35.000Z",
             "date_published": "2021-04-13T13:26:02.000Z",
             "author": {
                 "name": "itmecho",
                 "url": "https://github.com/itmecho"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-09-27T13:30:44.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -94,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-09-27T11:41:08.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60989682?u=6f7037ae72d0c200d65ccb7c438e19d73eabbde5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just task runner for neovim</div>",
             "url": "https://github.com/al1-ce/just.nvim",
             "title": "al1-ce/just.nvim: Just task runner for neovim",
@@ -171,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-09-27T09:20:52.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20689156?u=b9559f176b8317f628ecb4560ef0677b7999a38e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.</div>",
             "url": "https://github.com/shortcuts/no-neck-pain.nvim",
             "title": "shortcuts/no-neck-pain.nvim: ☕ Dead simple yet super extensible plugin to center the currently focused buffer to the middle of the screen.",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "shortcuts",
                 "url": "https://github.com/shortcuts"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-27T08:20:00.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39434457?u=ae5c8447d4cb45fc5efa1caeeb39e398e0091af5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim configuration scripts shipped as plugin</div>",
-            "url": "https://github.com/thinkofher/pabianice",
-            "title": "thinkofher/pabianice: Neovim configuration scripts shipped as plugin",
-            "date_modified": "2024-09-27T07:46:39.000Z",
-            "date_published": "2024-09-20T02:50:28.000Z",
-            "author": {
-                "name": "thinkofher",
-                "url": "https://github.com/thinkofher"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14897437?u=5105bcf7c23e994afe6e8251eb5413313b855750&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim wrapper/plugin to use taskwarrior inside neovim</div>",
-            "url": "https://github.com/duckdm/neowarrior.nvim",
-            "title": "duckdm/neowarrior.nvim: A neovim wrapper/plugin to use taskwarrior inside neovim",
-            "date_modified": "2024-09-27T06:37:21.000Z",
-            "date_published": "2024-09-07T14:53:10.000Z",
-            "author": {
-                "name": "duckdm",
-                "url": "https://github.com/duckdm"
             }
         }
     ]
