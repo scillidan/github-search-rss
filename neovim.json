@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
+            "url": "https://github.com/yukimemi/dvpm",
+            "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
+            "date_modified": "2024-09-28T16:08:01.000Z",
+            "date_published": "2023-05-14T12:16:02.000Z",
+            "author": {
+                "name": "yukimemi",
+                "url": "https://github.com/yukimemi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52241860?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌌❄️ A frosty, dark Neovim theme written in Lua, supports LSP, Treesitter and a bunch of plugins</div>",
+            "url": "https://github.com/Kyren223/carbonight.nvim",
+            "title": "Kyren223/carbonight.nvim: 🌌❄️ A frosty, dark Neovim theme written in Lua, supports LSP, Treesitter and a bunch of plugins",
+            "date_modified": "2024-09-28T16:06:47.000Z",
+            "date_published": "2024-09-28T16:06:46.000Z",
+            "author": {
+                "name": "Kyren223",
+                "url": "https://github.com/Kyren223"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12036882?u=f96a6175ea3a1127ccb7686da9a2c6956fb0c87b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rough WIP for a neovim plugin for interacting with Omnivore for taking notes on reading content</div>",
+            "url": "https://github.com/grantmca/omnivore.nvim",
+            "title": "grantmca/omnivore.nvim: Rough WIP for a neovim plugin for interacting with Omnivore for taking notes on reading content",
+            "date_modified": "2024-09-28T15:37:03.000Z",
+            "date_published": "2024-08-19T22:43:49.000Z",
+            "author": {
+                "name": "grantmca",
+                "url": "https://github.com/grantmca"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182336175?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that augments coding with 🤖 LLM capabilities, allowing per-project AI customization through 📂 collocated .d41rc files that serve as agents for your project folders—think monorepo packages.</div>",
             "url": "https://github.com/deckr41/nvim",
             "title": "deckr41/nvim: A Neovim plugin that augments coding with 🤖 LLM capabilities, allowing per-project AI customization through 📂 collocated .d41rc files that serve as agents for your project folders—think monorepo packages.",
@@ -174,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-09-28T11:39:21.000Z",
+            "date_modified": "2024-09-28T15:54:57.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "Fildo7525",
                 "url": "https://github.com/Fildo7525"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55982839?u=c79d42f77ece5b4cb50892c0cf9dc11e6460791f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration includes a wide range of plugins and settings, carefully chosen and integrated to enhance my productivity and coding experience. The plugins and settings are tailored to my specific needs as a DevOps Engineer, and can easily be customized to meet the needs of others.</div>",
-            "url": "https://github.com/dme86/neovim",
-            "title": "dme86/neovim: My Neovim configuration includes a wide range of plugins and settings, carefully chosen and integrated to enhance my productivity and coding experience. The plugins and settings are tailored to my specific needs as a DevOps Engineer, and can easily be customized to meet the needs of others.",
-            "date_modified": "2024-09-28T08:12:55.000Z",
-            "date_published": "2022-12-24T15:07:07.000Z",
-            "author": {
-                "name": "dme86",
-                "url": "https://github.com/dme86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60088301?u=4e199a88d6978352b09890eb615ea134b9fd1a68&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config WITHOUT plugins</div>",
-            "url": "https://github.com/boltlessengineer/NativeVim",
-            "title": "boltlessengineer/NativeVim: Neovim config WITHOUT plugins",
-            "date_modified": "2024-09-28T08:28:23.000Z",
-            "date_published": "2024-07-09T16:17:58.000Z",
-            "author": {
-                "name": "boltlessengineer",
-                "url": "https://github.com/boltlessengineer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56039679?u=7c4ddeddf92f3788ce4b709e462bf482b40023d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The file tree neovim plugin inspired by oil.nvim and carbon.nvim</div>",
-            "url": "https://github.com/Tronikelis/xylene.nvim",
-            "title": "Tronikelis/xylene.nvim: The file tree neovim plugin inspired by oil.nvim and carbon.nvim",
-            "date_modified": "2024-09-28T10:10:47.000Z",
-            "date_published": "2024-09-25T16:53:11.000Z",
-            "author": {
-                "name": "Tronikelis",
-                "url": "https://github.com/Tronikelis"
             }
         }
     ]
