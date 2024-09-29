@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-09-29T02:06:38.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
             "url": "https://github.com/yukimemi/dvpm",
             "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
-            "date_modified": "2024-09-29T00:53:21.000Z",
+            "date_modified": "2024-09-29T01:55:03.000Z",
             "date_published": "2023-05-14T12:16:02.000Z",
             "author": {
                 "name": "yukimemi",
                 "url": "https://github.com/yukimemi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦥 A dead simple lazy-loading Lua library for Neovim plugins.</div>",
+            "url": "https://github.com/nvim-neorocks/lz.n",
+            "title": "nvim-neorocks/lz.n: 🦥 A dead simple lazy-loading Lua library for Neovim plugins.",
+            "date_modified": "2024-09-29T01:54:18.000Z",
+            "date_published": "2024-01-05T13:38:49.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182336175?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that augments coding with 🤖 LLM capabilities, allowing per-project AI customization through 📂 collocated .d41rc files that serve as agents for your project folders—think monorepo packages.</div>",
+            "url": "https://github.com/deckr41/nvim",
+            "title": "deckr41/nvim: A Neovim plugin that augments coding with 🤖 LLM capabilities, allowing per-project AI customization through 📂 collocated .d41rc files that serve as agents for your project folders—think monorepo packages.",
+            "date_modified": "2024-09-29T01:31:01.000Z",
+            "date_published": "2024-09-21T10:40:15.000Z",
+            "author": {
+                "name": "deckr41",
+                "url": "https://github.com/deckr41"
             }
         },
         {
@@ -138,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-09-28T21:17:24.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/85842176?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config and plugins for Neovim</div>",
             "url": "https://github.com/rank1zen/dot-nvim",
             "title": "rank1zen/dot-nvim: Config and plugins for Neovim",
@@ -193,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/182336175?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that augments coding with 🤖 LLM capabilities, allowing per-project AI customization through 📂 collocated .d41rc files that serve as agents for your project folders—think monorepo packages.</div>",
-            "url": "https://github.com/deckr41/nvim",
-            "title": "deckr41/nvim: A Neovim plugin that augments coding with 🤖 LLM capabilities, allowing per-project AI customization through 📂 collocated .d41rc files that serve as agents for your project folders—think monorepo packages.",
-            "date_modified": "2024-09-28T18:17:14.000Z",
-            "date_published": "2024-09-21T10:40:15.000Z",
-            "author": {
-                "name": "deckr41",
-                "url": "https://github.com/deckr41"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6877858?u=a88119ca791982f4957b75191c163d81bc67a740&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to chat with LLM provided by OpenAI or Anthropic</div>",
             "url": "https://github.com/festeh/dllm.nvim",
             "title": "festeh/dllm.nvim: A Neovim plugin to chat with LLM provided by OpenAI or Anthropic",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "festeh",
                 "url": "https://github.com/festeh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5535?u=0bbe21bb862776420c2987d75d8616ad8b97c30d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to export active buffers to Zed</div>",
-            "url": "https://github.com/kogakure/export-to-zed.nvim",
-            "title": "kogakure/export-to-zed.nvim: Neovim plugin to export active buffers to Zed",
-            "date_modified": "2024-09-28T17:57:49.000Z",
-            "date_published": "2024-09-28T12:28:15.000Z",
-            "author": {
-                "name": "kogakure",
-                "url": "https://github.com/kogakure"
             }
         }
     ]
