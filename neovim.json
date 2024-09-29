@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
+            "url": "https://github.com/niuiic/modern-neovim-configuration",
+            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
+            "date_modified": "2024-09-29T15:02:24.000Z",
+            "date_published": "2021-05-05T11:05:56.000Z",
+            "author": {
+                "name": "niuiic",
+                "url": "https://github.com/niuiic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96325829?u=b7e63f433d8443518245f462137b97c3cd9d18d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The xmake plugin for neovim provides a ui interface that allows you to configure xmake more efficiently.</div>",
+            "url": "https://github.com/Mythos-404/xmake.nvim",
+            "title": "Mythos-404/xmake.nvim: The xmake plugin for neovim provides a ui interface that allows you to configure xmake more efficiently.",
+            "date_modified": "2024-09-29T14:53:50.000Z",
+            "date_published": "2023-08-08T17:30:30.000Z",
+            "author": {
+                "name": "Mythos-404",
+                "url": "https://github.com/Mythos-404"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78477652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimalistic LLM plugin for Neovim.</div>",
+            "url": "https://github.com/sudo-burger/m0.nvim",
+            "title": "sudo-burger/m0.nvim: Minimalistic LLM plugin for Neovim.",
+            "date_modified": "2024-09-29T14:53:26.000Z",
+            "date_published": "2024-03-17T13:52:59.000Z",
+            "author": {
+                "name": "sudo-burger",
+                "url": "https://github.com/sudo-burger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120017835?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Makes all neovim plugins available in nix (Auto updated)</div>",
+            "url": "https://github.com/NixNeovim/NixNeovimPlugins",
+            "title": "NixNeovim/NixNeovimPlugins: Makes all neovim plugins available in nix (Auto updated)",
+            "date_modified": "2024-09-29T14:21:40.000Z",
+            "date_published": "2022-08-13T14:50:55.000Z",
+            "author": {
+                "name": "NixNeovim",
+                "url": "https://github.com/NixNeovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-29T14:19:21.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3642691?u=1e4a29e57172585e14b58f400aae3178d2254ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a Neovim plugin that use GNU global to generate tags, find symbol definitions, and find symbol reference.</div>",
             "url": "https://github.com/rargo/nvim-global",
             "title": "rargo/nvim-global: a Neovim plugin that use GNU global to generate tags, find symbol definitions, and find symbol reference.",
@@ -105,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
-            "url": "https://github.com/niuiic/modern-neovim-configuration",
-            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
-            "date_modified": "2024-09-29T11:38:28.000Z",
-            "date_published": "2021-05-05T11:05:56.000Z",
-            "author": {
-                "name": "niuiic",
-                "url": "https://github.com/niuiic"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6076614?u=075e09ce954d2a559626cbeb3fd5d621c5ba90c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple utility plugin for taskwarrior in Neovim</div>",
             "url": "https://github.com/huantrinh1802/m_taskwarrior_d.nvim",
             "title": "huantrinh1802/m_taskwarrior_d.nvim: Simple utility plugin for taskwarrior in Neovim",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "Shougo",
                 "url": "https://github.com/Shougo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-29T09:18:43.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13116881?u=b1fb89c839b6b3e0a911d0007f6b5cbb172593bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hashtag navigation plugin for Neovim</div>",
-            "url": "https://github.com/daic0r/hashtags.nvim",
-            "title": "daic0r/hashtags.nvim: Hashtag navigation plugin for Neovim",
-            "date_modified": "2024-09-29T08:36:31.000Z",
-            "date_published": "2024-09-29T08:33:20.000Z",
-            "author": {
-                "name": "daic0r",
-                "url": "https://github.com/daic0r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9283254?u=9ec0bce0dbf72afcc4a4ca172dbdcd793f1c2232&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to manager your bookmarks in sidebar</div>",
-            "url": "https://github.com/JefferyBoy/bookmark_nvim",
-            "title": "JefferyBoy/bookmark_nvim: Neovim plugin to manager your bookmarks in sidebar",
-            "date_modified": "2024-09-29T07:57:54.000Z",
-            "date_published": "2024-09-29T07:57:54.000Z",
-            "author": {
-                "name": "JefferyBoy",
-                "url": "https://github.com/JefferyBoy"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56039679?u=7c4ddeddf92f3788ce4b709e462bf482b40023d4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The file tree neovim plugin inspired by oil.nvim and carbon.nvim</div>",
-            "url": "https://github.com/Tronikelis/xylene.nvim",
-            "title": "Tronikelis/xylene.nvim: The file tree neovim plugin inspired by oil.nvim and carbon.nvim",
-            "date_modified": "2024-09-29T07:55:33.000Z",
-            "date_published": "2024-09-25T16:53:11.000Z",
-            "author": {
-                "name": "Tronikelis",
-                "url": "https://github.com/Tronikelis"
             }
         }
     ]
