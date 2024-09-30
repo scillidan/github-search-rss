@@ -6,6 +6,72 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4452113?u=3bafc7803a7b5dd19bc3aa7241937543e9fed275&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ollero is a nvim plugin for integrating `ollama` with neovim locally</div>",
+            "url": "https://github.com/marco-souza/ollero.nvim",
+            "title": "marco-souza/ollero.nvim: Ollero is a nvim plugin for integrating `ollama` with neovim locally",
+            "date_modified": "2024-09-30T16:06:35.000Z",
+            "date_published": "2023-08-31T22:00:06.000Z",
+            "author": {
+                "name": "marco-souza",
+                "url": "https://github.com/marco-souza"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
+            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
+            "date_modified": "2024-09-30T16:01:40.000Z",
+            "date_published": "2024-03-18T04:13:43.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
+            "url": "https://github.com/brianhuster/live-preview.nvim",
+            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
+            "date_modified": "2024-09-30T15:54:31.000Z",
+            "date_published": "2024-07-24T10:30:05.000Z",
+            "author": {
+                "name": "brianhuster",
+                "url": "https://github.com/brianhuster"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42253013?u=e19893ca9cd6d58bc10afbd3ea186c0e6429c1f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Maven plugin for Neovim</div>",
+            "url": "https://github.com/oclay1st/maven.nvim",
+            "title": "oclay1st/maven.nvim: The Maven plugin for Neovim",
+            "date_modified": "2024-09-30T15:48:48.000Z",
+            "date_published": "2024-09-21T18:47:30.000Z",
+            "author": {
+                "name": "oclay1st",
+                "url": "https://github.com/oclay1st"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113752412?u=a3d6d9985c0eef56aa39877bc6e651e92d7a28d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that provides a simple and useful set of toggle commands for Markdown.</div>",
+            "url": "https://github.com/roodolv/markdown-toggle.nvim",
+            "title": "roodolv/markdown-toggle.nvim: A Neovim plugin that provides a simple and useful set of toggle commands for Markdown.",
+            "date_modified": "2024-09-30T15:31:34.000Z",
+            "date_published": "2024-07-11T10:27:16.000Z",
+            "author": {
+                "name": "roodolv",
+                "url": "https://github.com/roodolv"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140498102?u=fa69709cb09408b743d6680caf004ca822cbb8ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple linter plugin for format checking and check function sizes with norminette inside the buffer  through diagnostics.</div>",
+            "url": "https://github.com/MrSloth-dev/42-NorminetteNvim",
+            "title": "MrSloth-dev/42-NorminetteNvim: A simple linter plugin for format checking and check function sizes with norminette inside the buffer  through diagnostics.",
+            "date_modified": "2024-09-30T15:40:02.000Z",
+            "date_published": "2024-08-28T16:26:15.000Z",
+            "author": {
+                "name": "MrSloth-dev",
+                "url": "https://github.com/MrSloth-dev"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "tamago324",
                 "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for creating reactive UI  in neovim</div>",
-            "url": "https://github.com/NvChad/volt",
-            "title": "NvChad/volt: Plugin for creating reactive UI  in neovim",
-            "date_modified": "2024-09-30T09:50:11.000Z",
-            "date_published": "2024-09-11T03:45:07.000Z",
-            "author": {
-                "name": "NvChad",
-                "url": "https://github.com/NvChad"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight &amp; high performance UI plugin for nvchad</div>",
-            "url": "https://github.com/NvChad/ui",
-            "title": "NvChad/ui: Lightweight & high performance UI plugin for nvchad",
-            "date_modified": "2024-09-30T09:39:24.000Z",
-            "date_published": "2022-07-14T10:20:35.000Z",
-            "author": {
-                "name": "NvChad",
-                "url": "https://github.com/NvChad"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
-            "url": "https://github.com/niuiic/modern-neovim-configuration",
-            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
-            "date_modified": "2024-09-30T09:15:13.000Z",
-            "date_published": "2021-05-05T11:05:56.000Z",
-            "author": {
-                "name": "niuiic",
-                "url": "https://github.com/niuiic"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/96325829?u=b7e63f433d8443518245f462137b97c3cd9d18d7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The xmake plugin for neovim provides a ui interface that allows you to configure xmake more efficiently.</div>",
-            "url": "https://github.com/Mythos-404/xmake.nvim",
-            "title": "Mythos-404/xmake.nvim: The xmake plugin for neovim provides a ui interface that allows you to configure xmake more efficiently.",
-            "date_modified": "2024-09-30T09:11:06.000Z",
-            "date_published": "2023-08-08T17:30:30.000Z",
-            "author": {
-                "name": "Mythos-404",
-                "url": "https://github.com/Mythos-404"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111681693?u=03ba989ea2f6644a410719959a901b16fdb5a0f3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for project modal</div>",
-            "url": "https://github.com/noearc/modal.nvim",
-            "title": "noearc/modal.nvim: neovim plugin for project modal",
-            "date_modified": "2024-09-30T08:20:35.000Z",
-            "date_published": "2024-01-22T09:48:11.000Z",
-            "author": {
-                "name": "noearc",
-                "url": "https://github.com/noearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
-            "url": "https://github.com/brianhuster/live-preview.nvim",
-            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
-            "date_modified": "2024-09-30T09:09:26.000Z",
-            "date_published": "2024-07-24T10:30:05.000Z",
-            "author": {
-                "name": "brianhuster",
-                "url": "https://github.com/brianhuster"
             }
         }
     ]
