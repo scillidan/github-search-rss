@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
+            "url": "https://github.com/killitar/obscure.nvim",
+            "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
+            "date_modified": "2024-09-30T20:11:39.000Z",
+            "date_published": "2024-07-21T11:56:28.000Z",
+            "author": {
+                "name": "killitar",
+                "url": "https://github.com/killitar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-09-30T20:03:10.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1423607?u=a736aab5a9d4a7543079c64450cd4d1c25417a75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The neovim tabline plugin.</div>",
+            "url": "https://github.com/romgrk/barbar.nvim",
+            "title": "romgrk/barbar.nvim: The neovim tabline plugin.",
+            "date_modified": "2024-09-30T19:48:09.000Z",
+            "date_published": "2020-10-22T10:32:07.000Z",
+            "author": {
+                "name": "romgrk",
+                "url": "https://github.com/romgrk"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-09-30T19:18:37.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16435876?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin generating interactive ascii call graph.</div>",
             "url": "https://github.com/kontura/trails.nvim",
             "title": "kontura/trails.nvim: Neovim plugin generating interactive ascii call graph.",
@@ -47,17 +91,6 @@
             "author": {
                 "name": "MeanderingProgrammer",
                 "url": "https://github.com/MeanderingProgrammer"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-09-30T18:19:46.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "brianhuster",
                 "url": "https://github.com/brianhuster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42253013?u=e19893ca9cd6d58bc10afbd3ea186c0e6429c1f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Maven plugin for Neovim</div>",
-            "url": "https://github.com/oclay1st/maven.nvim",
-            "title": "oclay1st/maven.nvim: The Maven plugin for Neovim",
-            "date_modified": "2024-09-30T15:48:48.000Z",
-            "date_published": "2024-09-21T18:47:30.000Z",
-            "author": {
-                "name": "oclay1st",
-                "url": "https://github.com/oclay1st"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113752412?u=a3d6d9985c0eef56aa39877bc6e651e92d7a28d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that provides a simple and useful set of toggle commands for Markdown.</div>",
-            "url": "https://github.com/roodolv/markdown-toggle.nvim",
-            "title": "roodolv/markdown-toggle.nvim: A Neovim plugin that provides a simple and useful set of toggle commands for Markdown.",
-            "date_modified": "2024-09-30T15:31:34.000Z",
-            "date_published": "2024-07-11T10:27:16.000Z",
-            "author": {
-                "name": "roodolv",
-                "url": "https://github.com/roodolv"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/140498102?u=fa69709cb09408b743d6680caf004ca822cbb8ed&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple linter plugin for format checking and check function sizes with norminette inside the buffer  through diagnostics.</div>",
-            "url": "https://github.com/MrSloth-dev/42-NorminetteNvim",
-            "title": "MrSloth-dev/42-NorminetteNvim: A simple linter plugin for format checking and check function sizes with norminette inside the buffer  through diagnostics.",
-            "date_modified": "2024-09-30T15:40:02.000Z",
-            "date_published": "2024-08-28T16:26:15.000Z",
-            "author": {
-                "name": "MrSloth-dev",
-                "url": "https://github.com/MrSloth-dev"
             }
         }
     ]
