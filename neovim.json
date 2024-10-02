@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/138314257?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim codemp plugin -- code multiplexer</div>",
+            "url": "https://github.com/hexedtech/codemp-nvim",
+            "title": "hexedtech/codemp-nvim: neovim codemp plugin -- code multiplexer",
+            "date_modified": "2024-10-02T12:19:13.000Z",
+            "date_published": "2024-08-03T13:04:07.000Z",
+            "author": {
+                "name": "hexedtech",
+                "url": "https://github.com/hexedtech"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5751289?u=0818236a3aa4703e1aad7dd947e10b71d0099f8c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for showing tarpaulin coverage in Rust projects</div>",
+            "url": "https://github.com/ChosunOne/tarp.nvim",
+            "title": "ChosunOne/tarp.nvim: Neovim plugin for showing tarpaulin coverage in Rust projects",
+            "date_modified": "2024-10-02T11:48:35.000Z",
+            "date_published": "2024-10-01T20:33:19.000Z",
+            "author": {
+                "name": "ChosunOne",
+                "url": "https://github.com/ChosunOne"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-02T11:18:28.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128740042?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for Elixir</div>",
+            "url": "https://github.com/elixir-tools/elixir-tools.nvim",
+            "title": "elixir-tools/elixir-tools.nvim: Neovim plugin for Elixir",
+            "date_modified": "2024-10-02T11:09:48.000Z",
+            "date_published": "2022-03-23T13:10:50.000Z",
+            "author": {
+                "name": "elixir-tools",
+                "url": "https://github.com/elixir-tools"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-02T10:19:15.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -39,17 +72,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5751289?u=0818236a3aa4703e1aad7dd947e10b71d0099f8c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for showing tarpaulin coverage in Rust projects</div>",
-            "url": "https://github.com/ChosunOne/tarp.nvim",
-            "title": "ChosunOne/tarp.nvim: Neovim plugin for showing tarpaulin coverage in Rust projects",
-            "date_modified": "2024-10-02T10:06:57.000Z",
-            "date_published": "2024-10-01T20:33:19.000Z",
-            "author": {
-                "name": "ChosunOne",
-                "url": "https://github.com/ChosunOne"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178641?u=3086a6b5af760e8012e31341255698952da5ba2a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimalist .env support for Neovim</div>",
             "url": "https://github.com/ellisonleao/dotenv.nvim",
             "title": "ellisonleao/dotenv.nvim: A minimalist .env support for Neovim",
@@ -58,6 +80,17 @@
             "author": {
                 "name": "ellisonleao",
                 "url": "https://github.com/ellisonleao"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
+            "date_modified": "2024-10-02T11:37:10.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
             }
         },
         {
@@ -141,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🍁 Fun little plugin that can be used as a screensaver and on your dashboard</div>",
             "url": "https://github.com/folke/drop.nvim",
             "title": "folke/drop.nvim: 🍁 Fun little plugin that can be used as a screensaver and on your dashboard",
-            "date_modified": "2024-10-02T07:48:47.000Z",
+            "date_modified": "2024-10-02T11:48:35.000Z",
             "date_published": "2022-10-28T17:14:40.000Z",
             "author": {
                 "name": "folke",
@@ -152,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
             "url": "https://github.com/folke/lazy.nvim",
             "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
-            "date_modified": "2024-10-02T10:02:56.000Z",
+            "date_modified": "2024-10-02T12:12:33.000Z",
             "date_published": "2022-11-20T21:36:02.000Z",
             "author": {
                 "name": "folke",
@@ -163,22 +196,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
-            "date_modified": "2024-10-02T07:53:24.000Z",
+            "date_modified": "2024-10-02T12:14:21.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-10-02T07:54:38.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "manning390",
                 "url": "https://github.com/manning390"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13655323?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Salesforce development Neovim plugin</div>",
-            "url": "https://github.com/xixiaofinland/sf.nvim",
-            "title": "xixiaofinland/sf.nvim: A Salesforce development Neovim plugin",
-            "date_modified": "2024-10-02T06:43:54.000Z",
-            "date_published": "2024-01-03T18:32:44.000Z",
-            "author": {
-                "name": "xixiaofinland",
-                "url": "https://github.com/xixiaofinland"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/183270109?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight &amp; high performance UI plugin for nyxvim</div>",
-            "url": "https://github.com/NyxVim/ui",
-            "title": "NyxVim/ui: Lightweight & high performance UI plugin for nyxvim",
-            "date_modified": "2024-10-02T07:42:44.000Z",
-            "date_published": "2024-09-30T16:39:23.000Z",
-            "author": {
-                "name": "NyxVim",
-                "url": "https://github.com/NyxVim"
             }
         }
     ]
