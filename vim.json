@@ -6,14 +6,47 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8360085?u=3204833631ad567399e074b7c61b79ec1c06012e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Vim text editor script (\"plugin\") that highlights nested ( ), [ ], and { } with different colors to aid readability. It is especially useful for *any* Lisp/Scheme family programming languages.</div>",
+            "url": "https://github.com/WraithGlade/WG-rainbow-vim",
+            "title": "WraithGlade/WG-rainbow-vim: This is a Vim text editor script (\"plugin\") that highlights nested ( ), [ ], and { } with different colors to aid readability. It is especially useful for *any* Lisp/Scheme family programming languages.",
+            "date_modified": "2024-10-01T23:58:23.000Z",
+            "date_published": "2024-09-22T19:28:17.000Z",
+            "author": {
+                "name": "WraithGlade",
+                "url": "https://github.com/WraithGlade"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67886370?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Leverage local LLM via Vim to boost bug breading within your code ;-P</div>",
             "url": "https://github.com/vim-utilities/proompter",
             "title": "vim-utilities/proompter: Leverage local LLM via Vim to boost bug breading within your code ;-P",
-            "date_modified": "2024-10-01T22:30:57.000Z",
+            "date_modified": "2024-10-01T23:37:04.000Z",
             "date_published": "2024-09-27T02:42:01.000Z",
             "author": {
                 "name": "vim-utilities",
                 "url": "https://github.com/vim-utilities"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73954341?u=8be2fe63551d6327932de4d1f6e4497261753af1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Rewtrite of orgmode plugin using vim9script instead another kind of language</div>",
+            "url": "https://github.com/awelormro/vim9org",
+            "title": "awelormro/vim9org: Rewtrite of orgmode plugin using vim9script instead another kind of language",
+            "date_modified": "2024-10-01T23:25:02.000Z",
+            "date_published": "2024-04-05T20:22:51.000Z",
+            "author": {
+                "name": "awelormro",
+                "url": "https://github.com/awelormro"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5544532?u=71161751dedd057376b6c588fcc9161824a16cb5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim filetype plugin for github/hub ⚡</div>",
+            "url": "https://github.com/jez/vim-github-hub",
+            "title": "jez/vim-github-hub: A Vim filetype plugin for github/hub :zap:",
+            "date_modified": "2024-10-01T23:24:52.000Z",
+            "date_published": "2016-06-10T06:34:22.000Z",
+            "author": {
+                "name": "jez",
+                "url": "https://github.com/jez"
             }
         },
         {
@@ -149,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8360085?u=3204833631ad567399e074b7c61b79ec1c06012e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Vim text editor script (\"plugin\") that highlights nested ( ), [ ], and { } with different colors to aid readability. It is especially useful for *any* Lisp/Scheme family programming languages.</div>",
-            "url": "https://github.com/WraithGlade/WG-rainbow-vim",
-            "title": "WraithGlade/WG-rainbow-vim: This is a Vim text editor script (\"plugin\") that highlights nested ( ), [ ], and { } with different colors to aid readability. It is especially useful for *any* Lisp/Scheme family programming languages.",
-            "date_modified": "2024-10-01T02:05:54.000Z",
-            "date_published": "2024-09-22T19:28:17.000Z",
-            "author": {
-                "name": "WraithGlade",
-                "url": "https://github.com/WraithGlade"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168807821?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple for vim plugin using fzf to easily switch between user themes</div>",
             "url": "https://github.com/Hiro427/vim-theme-switcher",
             "title": "Hiro427/vim-theme-switcher: A simple for vim plugin using fzf to easily switch between user themes",
@@ -185,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
             "url": "https://github.com/lervag/vimtex",
             "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
-            "date_modified": "2024-10-01T08:43:18.000Z",
+            "date_modified": "2024-10-01T23:57:25.000Z",
             "date_published": "2013-10-05T11:55:11.000Z",
             "author": {
                 "name": "lervag",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "mrcjkb",
                 "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
-            "url": "https://github.com/killitar/obscure.nvim",
-            "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
-            "date_modified": "2024-09-30T20:24:17.000Z",
-            "date_published": "2024-07-21T11:56:28.000Z",
-            "author": {
-                "name": "killitar",
-                "url": "https://github.com/killitar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1423607?u=a736aab5a9d4a7543079c64450cd4d1c25417a75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The neovim tabline plugin.</div>",
-            "url": "https://github.com/romgrk/barbar.nvim",
-            "title": "romgrk/barbar.nvim: The neovim tabline plugin.",
-            "date_modified": "2024-10-01T18:03:37.000Z",
-            "date_published": "2020-10-22T10:32:07.000Z",
-            "author": {
-                "name": "romgrk",
-                "url": "https://github.com/romgrk"
             }
         }
     ]
