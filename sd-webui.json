@@ -6,6 +6,17 @@
     "description": "sd-webui on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6293935?u=7a01bfacb718f3b90c44b9eee020eb4647201b8b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Stable Diffusion WebUI &amp; ComfyUI extension to post-process the prompt, including sending content from the prompt to the negative prompt and wildcards.</div>",
+            "url": "https://github.com/acorderob/sd-webui-prompt-postprocessor",
+            "title": "acorderob/sd-webui-prompt-postprocessor: Stable Diffusion WebUI & ComfyUI extension to post-process the prompt, including sending content from the prompt to the negative prompt and wildcards.",
+            "date_modified": "2024-10-05T09:08:04.000Z",
+            "date_published": "2023-05-13T19:08:52.000Z",
+            "author": {
+                "name": "acorderob",
+                "url": "https://github.com/acorderob"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/76895225?u=c55d15532fd4197ba5d2163c43412d0467498788&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>一个支持部署多种 WebUI 的 Jupyter Notebook / 支持一键部署 SD-Trainer，InvokeAI 的 PowerShell 脚本</div>",
             "url": "https://github.com/licyk/sd-webui-all-in-one",
             "title": "licyk/sd-webui-all-in-one: 一个支持部署多种 WebUI 的 Jupyter Notebook / 支持一键部署 SD-Trainer，InvokeAI 的 PowerShell 脚本",
@@ -86,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/25872019?u=d79d40fb39d0c0d30a54aa81b68964c7e5284064&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI / StableSwarmUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.</div>",
             "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing",
             "title": "zanllp/sd-webui-infinite-image-browsing: A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI / StableSwarmUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.",
-            "date_modified": "2024-10-04T11:42:59.000Z",
+            "date_modified": "2024-10-05T08:27:49.000Z",
             "date_published": "2023-03-07T18:26:27.000Z",
             "author": {
                 "name": "zanllp",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "lobehub",
                 "url": "https://github.com/lobehub"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.</div>",
-            "url": "https://github.com/canonical/sdcore-webui-k8s-operator",
-            "title": "canonical/sdcore-webui-k8s-operator: A Charmed Operator for SD-Core's Webui component, a configuration service in SD-Core.",
-            "date_modified": "2024-09-30T18:06:48.000Z",
-            "date_published": "2023-05-19T15:43:33.000Z",
-            "author": {
-                "name": "canonical",
-                "url": "https://github.com/canonical"
             }
         }
     ]
