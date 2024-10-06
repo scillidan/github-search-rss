@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
+            "url": "https://github.com/Saghen/blink.cmp",
+            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
+            "date_modified": "2024-10-06T21:09:01.000Z",
+            "date_published": "2024-07-31T01:56:33.000Z",
+            "author": {
+                "name": "Saghen",
+                "url": "https://github.com/Saghen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
+            "url": "https://github.com/killitar/obscure.nvim",
+            "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
+            "date_modified": "2024-10-06T20:47:27.000Z",
+            "date_published": "2024-07-21T11:56:28.000Z",
+            "author": {
+                "name": "killitar",
+                "url": "https://github.com/killitar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/142627958?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Netsuite SDF plugin</div>",
+            "url": "https://github.com/rtanner1231/sdftools.nvim",
+            "title": "rtanner1231/sdftools.nvim: Neovim Netsuite SDF plugin",
+            "date_modified": "2024-10-06T20:45:22.000Z",
+            "date_published": "2023-10-28T21:41:07.000Z",
+            "author": {
+                "name": "rtanner1231",
+                "url": "https://github.com/rtanner1231"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60989682?u=6f7037ae72d0c200d65ccb7c438e19d73eabbde5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just task runner for neovim</div>",
+            "url": "https://github.com/al1-ce/just.nvim",
+            "title": "al1-ce/just.nvim: Just task runner for neovim",
+            "date_modified": "2024-10-06T20:40:43.000Z",
+            "date_published": "2024-05-19T09:21:30.000Z",
+            "author": {
+                "name": "al1-ce",
+                "url": "https://github.com/al1-ce"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/104382459?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⚡ All-in-one Vim 8+ plugin for Tact programming language</div>",
+            "url": "https://github.com/tact-lang/tact.vim",
+            "title": "tact-lang/tact.vim: ⚡ All-in-one Vim 8+ plugin for Tact programming language",
+            "date_modified": "2024-10-06T20:38:56.000Z",
+            "date_published": "2023-09-29T13:12:44.000Z",
+            "author": {
+                "name": "tact-lang",
+                "url": "https://github.com/tact-lang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/128321469?u=9e4c7dd1bd8fd4542d38e183ae7a20992978c98b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal Neovim configurations are tailored to integrate numerous plugins, including Copilot, Treesitter, and live servers for languages such as Go, Rust, C++, and more.</div>",
+            "url": "https://github.com/iZackk26/neovim-configs",
+            "title": "iZackk26/neovim-configs: My personal Neovim configurations are tailored to integrate numerous plugins, including Copilot, Treesitter, and live servers for languages such as Go, Rust, C++, and more.",
+            "date_modified": "2024-10-06T20:19:25.000Z",
+            "date_published": "2023-08-09T04:45:01.000Z",
+            "author": {
+                "name": "iZackk26",
+                "url": "https://github.com/iZackk26"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-06T20:18:44.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130372558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>async fast minimalist plugin make format easy in neovim</div>",
             "url": "https://github.com/nvimdev/guard.nvim",
             "title": "nvimdev/guard.nvim: async fast minimalist plugin make format easy in neovim",
@@ -31,33 +108,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-10-06T19:42:13.000Z",
+            "date_modified": "2024-10-06T20:19:41.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-06T19:18:00.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
-            "url": "https://github.com/Saghen/blink.cmp",
-            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-06T20:01:52.000Z",
-            "date_published": "2024-07-31T01:56:33.000Z",
-            "author": {
-                "name": "Saghen",
-                "url": "https://github.com/Saghen"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "m15a",
                 "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98530202?u=066a7b7ebd92563f376acb1c0c722784db58a279&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This Neovim configuration enhances productivity with robust plugin management, seamless LSP integration for intelligent code completion, and improved syntax highlighting. It offers streamlined workflows and high customizability, providing a modern and efficient development environment tailored to various coding needs.</div>",
-            "url": "https://github.com/SxxAq/nvim-conf",
-            "title": "SxxAq/nvim-conf: This Neovim configuration enhances productivity with robust plugin management, seamless LSP integration for intelligent code completion, and improved syntax highlighting. It offers streamlined workflows and high customizability, providing a modern and efficient development environment tailored to various coding needs.",
-            "date_modified": "2024-10-06T17:19:21.000Z",
-            "date_published": "2024-09-11T10:08:02.000Z",
-            "author": {
-                "name": "SxxAq",
-                "url": "https://github.com/SxxAq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180814977?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my current low plugin neovim config</div>",
-            "url": "https://github.com/flickergoon/current-nvim",
-            "title": "flickergoon/current-nvim: my current low plugin neovim config",
-            "date_modified": "2024-10-06T17:15:03.000Z",
-            "date_published": "2024-10-02T06:38:16.000Z",
-            "author": {
-                "name": "flickergoon",
-                "url": "https://github.com/flickergoon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55982839?u=c79d42f77ece5b4cb50892c0cf9dc11e6460791f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration includes a wide range of plugins and settings, carefully chosen and integrated to enhance my productivity and coding experience. The plugins and settings are tailored to my specific needs as a DevOps Engineer, and can easily be customized to meet the needs of others.</div>",
-            "url": "https://github.com/dme86/neovim",
-            "title": "dme86/neovim: My Neovim configuration includes a wide range of plugins and settings, carefully chosen and integrated to enhance my productivity and coding experience. The plugins and settings are tailored to my specific needs as a DevOps Engineer, and can easily be customized to meet the needs of others.",
-            "date_modified": "2024-10-06T16:53:50.000Z",
-            "date_published": "2022-12-24T15:07:07.000Z",
-            "author": {
-                "name": "dme86",
-                "url": "https://github.com/dme86"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-10-06T16:43:01.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
-            "url": "https://github.com/killitar/obscure.nvim",
-            "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
-            "date_modified": "2024-10-06T16:38:42.000Z",
-            "date_published": "2024-07-21T11:56:28.000Z",
-            "author": {
-                "name": "killitar",
-                "url": "https://github.com/killitar"
             }
         }
     ]
