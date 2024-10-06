@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/130372558?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>async fast minimalist plugin make format easy in neovim</div>",
+            "url": "https://github.com/nvimdev/guard.nvim",
+            "title": "nvimdev/guard.nvim: async fast minimalist plugin make format easy in neovim",
+            "date_modified": "2024-10-06T20:10:42.000Z",
+            "date_published": "2023-02-15T09:28:11.000Z",
+            "author": {
+                "name": "nvimdev",
+                "url": "https://github.com/nvimdev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-10-06T19:59:20.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-10-06T19:42:13.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-06T19:18:00.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
+            "url": "https://github.com/Saghen/blink.cmp",
+            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
+            "date_modified": "2024-10-06T20:01:52.000Z",
+            "date_published": "2024-07-31T01:56:33.000Z",
+            "author": {
+                "name": "Saghen",
+                "url": "https://github.com/Saghen"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32306451?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A simple neovim plugin that allows switching between different branches of the configuration git repository.</div>",
             "url": "https://github.com/XDead27/nvim-config-switch",
             "title": "XDead27/nvim-config-switch: A simple neovim plugin that allows switching between different branches of the configuration git repository.",
@@ -50,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-10-06T18:41:51.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95333914?u=1006d386873a74af1d3de0aa5a97a5b7471c0355&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>\"Stupid\" Neovim plugin to preview Neorg files using typst</div>",
             "url": "https://github.com/nuhakala/neorg-typst-preview",
             "title": "nuhakala/neorg-typst-preview: \"Stupid\" Neovim plugin to preview Neorg files using typst",
@@ -69,17 +113,6 @@
             "author": {
                 "name": "nuhakala",
                 "url": "https://github.com/nuhakala"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-06T18:19:21.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "killitar",
                 "url": "https://github.com/killitar"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39095391?u=6090357bc23bf00810f32ac39e08185428f747d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A telescope powered neovim plugin to search in your pdf/html documents</div>",
-            "url": "https://github.com/to268/telescope-doc.nvim",
-            "title": "to268/telescope-doc.nvim: A telescope powered neovim plugin to search in your pdf/html documents",
-            "date_modified": "2024-10-06T15:50:29.000Z",
-            "date_published": "2021-03-28T15:44:20.000Z",
-            "author": {
-                "name": "to268",
-                "url": "https://github.com/to268"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1219667?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vim plugin that makes vim syntax highlighting engine available in pandoc</div>",
-            "url": "https://github.com/lyokha/vim-publish-helper",
-            "title": "lyokha/vim-publish-helper: vim plugin that makes vim syntax highlighting engine available in pandoc",
-            "date_modified": "2024-10-06T15:41:37.000Z",
-            "date_published": "2014-01-02T18:56:17.000Z",
-            "author": {
-                "name": "lyokha",
-                "url": "https://github.com/lyokha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13116881?u=b1fb89c839b6b3e0a911d0007f6b5cbb172593bb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Hashtag navigation plugin for Neovim</div>",
-            "url": "https://github.com/daic0r/hashtags.nvim",
-            "title": "daic0r/hashtags.nvim: Hashtag navigation plugin for Neovim",
-            "date_modified": "2024-10-06T15:28:17.000Z",
-            "date_published": "2024-09-29T08:33:20.000Z",
-            "author": {
-                "name": "daic0r",
-                "url": "https://github.com/daic0r"
             }
         }
     ]
