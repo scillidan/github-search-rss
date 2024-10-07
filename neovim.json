@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-10-07T15:09:19.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#",
+            "date_modified": "2024-10-07T15:08:45.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
+            "author": {
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78477652?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Minimalistic LLM plugin for Neovim.</div>",
+            "url": "https://github.com/sudo-burger/m0.nvim",
+            "title": "sudo-burger/m0.nvim: Minimalistic LLM plugin for Neovim.",
+            "date_modified": "2024-10-07T15:05:18.000Z",
+            "date_published": "2024-03-17T13:52:59.000Z",
+            "author": {
+                "name": "sudo-burger",
+                "url": "https://github.com/sudo-burger"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59179935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A small and customizable neovim plugin for pretty printing the hover information from LSP servers</div>",
+            "url": "https://github.com/Fildo7525/pretty_hover",
+            "title": "Fildo7525/pretty_hover: A small and customizable neovim plugin for pretty printing the hover information from LSP servers",
+            "date_modified": "2024-10-07T14:30:37.000Z",
+            "date_published": "2023-04-09T10:06:16.000Z",
+            "author": {
+                "name": "Fildo7525",
+                "url": "https://github.com/Fildo7525"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47398876?u=762a6cd4ec15726e61e5b435247b1068719fb8f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Markdown AI chat + inline completion plugin for neovim</div>",
+            "url": "https://github.com/e-cal/chat.nvim",
+            "title": "e-cal/chat.nvim: Markdown AI chat + inline completion plugin for neovim",
+            "date_modified": "2024-10-07T14:12:55.000Z",
+            "date_published": "2024-03-21T19:12:40.000Z",
+            "author": {
+                "name": "e-cal",
+                "url": "https://github.com/e-cal"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
             "url": "https://github.com/niuiic/modern-neovim-configuration",
             "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
@@ -42,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/78868798?u=c15f2022637a9378763c97fc88a4cb06617e7fc2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.</div>",
             "url": "https://github.com/killitar/obscure.nvim",
             "title": "killitar/obscure.nvim: A dark Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.",
-            "date_modified": "2024-10-07T13:05:01.000Z",
+            "date_modified": "2024-10-07T14:54:35.000Z",
             "date_published": "2024-07-21T11:56:28.000Z",
             "author": {
                 "name": "killitar",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "samsze0",
                 "url": "https://github.com/samsze0"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5171823?u=c5042c93c49945a0b2cda427b3b75f79c1dd0d09&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that boots you out of Insert mode after certain amount of time of inactivity</div>",
-            "url": "https://github.com/csessh/stopinsert.nvim",
-            "title": "csessh/stopinsert.nvim: Neovim plugin that boots you out of Insert mode after certain amount of time of inactivity",
-            "date_modified": "2024-10-07T10:18:19.000Z",
-            "date_published": "2024-10-05T10:54:34.000Z",
-            "author": {
-                "name": "csessh",
-                "url": "https://github.com/csessh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-10-07T13:53:53.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-10-07T10:34:29.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
-            "url": "https://github.com/Saghen/blink.cmp",
-            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-07T12:38:30.000Z",
-            "date_published": "2024-07-31T01:56:33.000Z",
-            "author": {
-                "name": "Saghen",
-                "url": "https://github.com/Saghen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5751289?u=0818236a3aa4703e1aad7dd947e10b71d0099f8c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for showing tarpaulin coverage in Rust projects</div>",
-            "url": "https://github.com/ChosunOne/tarp.nvim",
-            "title": "ChosunOne/tarp.nvim: Neovim plugin for showing tarpaulin coverage in Rust projects",
-            "date_modified": "2024-10-07T03:52:59.000Z",
-            "date_published": "2024-10-01T20:33:19.000Z",
-            "author": {
-                "name": "ChosunOne",
-                "url": "https://github.com/ChosunOne"
             }
         }
     ]
