@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102438457?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal MacOS configuration that includes custom Lua scripts for configuring Neovim and menubar plugins, optimizing the development environment and boosting productivity.</div>",
+            "url": "https://github.com/SZSage/dotfiles",
+            "title": "SZSage/dotfiles: My personal MacOS configuration that includes custom Lua scripts for configuring Neovim and menubar plugins, optimizing the development environment and boosting productivity.",
+            "date_modified": "2024-10-07T23:03:42.000Z",
+            "date_published": "2024-07-02T21:38:38.000Z",
+            "author": {
+                "name": "SZSage",
+                "url": "https://github.com/SZSage"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/56943754?u=95598df34348b1847604300433cdb045fabe49c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more</div>",
+            "url": "https://github.com/benlubas/molten-nvim",
+            "title": "benlubas/molten-nvim: A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
+            "date_modified": "2024-10-07T22:22:56.000Z",
+            "date_published": "2023-10-05T18:25:49.000Z",
+            "author": {
+                "name": "benlubas",
+                "url": "https://github.com/benlubas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-07T22:18:47.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8383244?u=6b51fe8c4fe68bf72306b10bb772e02cf57db79f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A (WIP!) neovim plugin for the Getting Things Done framework</div>",
             "url": "https://github.com/tcrundall/gtd.nvim",
             "title": "tcrundall/gtd.nvim: A (WIP!) neovim plugin for the Getting Things Done framework",
@@ -14,17 +47,6 @@
             "author": {
                 "name": "tcrundall",
                 "url": "https://github.com/tcrundall"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-07T21:19:03.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -42,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
             "url": "https://github.com/Saghen/blink.cmp",
             "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-07T22:09:38.000Z",
+            "date_modified": "2024-10-07T23:06:44.000Z",
             "date_published": "2024-07-31T01:56:33.000Z",
             "author": {
                 "name": "Saghen",
@@ -53,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-10-07T21:04:02.000Z",
+            "date_modified": "2024-10-07T23:07:38.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/465606?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SimpleGPT is a vim plugin designed to provide the simplest method for:  Constructing and sending questions to ChatGPT &amp; Presenting the response in the most convenient manner.</div>",
-            "url": "https://github.com/you-n-g/simplegpt.nvim",
-            "title": "you-n-g/simplegpt.nvim: SimpleGPT is a vim plugin designed to provide the simplest method for:  Constructing and sending questions to ChatGPT & Presenting the response in the most convenient manner.",
-            "date_modified": "2024-10-07T18:05:51.000Z",
-            "date_published": "2024-03-06T07:42:41.000Z",
-            "author": {
-                "name": "you-n-g",
-                "url": "https://github.com/you-n-g"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
-            "url": "https://github.com/mrcjkb/rustaceanvim",
-            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-            "date_modified": "2024-10-07T18:00:22.000Z",
-            "date_published": "2021-05-11T06:39:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
             }
         }
     ]
