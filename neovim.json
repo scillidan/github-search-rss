@@ -6,10 +6,54 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.</div>",
+            "url": "https://github.com/echasnovski/mini.pairs",
+            "title": "echasnovski/mini.pairs: Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.",
+            "date_modified": "2024-10-08T11:06:56.000Z",
+            "date_published": "2022-10-24T16:26:51.000Z",
+            "author": {
+                "name": "echasnovski",
+                "url": "https://github.com/echasnovski"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60989682?u=6f7037ae72d0c200d65ccb7c438e19d73eabbde5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just task runner for neovim</div>",
+            "url": "https://github.com/al1-ce/just.nvim",
+            "title": "al1-ce/just.nvim: Just task runner for neovim",
+            "date_modified": "2024-10-08T10:23:01.000Z",
+            "date_published": "2024-05-19T09:21:30.000Z",
+            "author": {
+                "name": "al1-ce",
+                "url": "https://github.com/al1-ce"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99483158?u=37ac3c12b87673525bc41e3cfc8dc7365d31d8b3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a neovim plugin for window indication.</div>",
+            "url": "https://github.com/Antony-AXS/indicator.nvim",
+            "title": "Antony-AXS/indicator.nvim: a neovim plugin for window indication.",
+            "date_modified": "2024-10-08T10:21:24.000Z",
+            "date_published": "2024-08-17T05:30:39.000Z",
+            "author": {
+                "name": "Antony-AXS",
+                "url": "https://github.com/Antony-AXS"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-08T11:00:29.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77670158?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that control media players that supports MPRIS using playerctl</div>",
             "url": "https://github.com/alexxGmZ/player.nvim",
             "title": "alexxGmZ/player.nvim: A Neovim plugin that control media players that supports MPRIS using playerctl",
-            "date_modified": "2024-10-08T10:06:00.000Z",
+            "date_modified": "2024-10-08T10:14:02.000Z",
             "date_published": "2024-10-08T01:22:31.000Z",
             "author": {
                 "name": "alexxGmZ",
@@ -47,17 +91,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-08T09:19:19.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "javiorfo",
                 "url": "https://github.com/javiorfo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5171823?u=f127c5574ef87661c747543f0b4b96cab5caa825&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that boots you out of Insert mode after certain amount of time of inactivity</div>",
-            "url": "https://github.com/csessh/stopinsert.nvim",
-            "title": "csessh/stopinsert.nvim: Neovim plugin that boots you out of Insert mode after certain amount of time of inactivity",
-            "date_modified": "2024-10-08T02:47:35.000Z",
-            "date_published": "2024-10-05T10:54:34.000Z",
-            "author": {
-                "name": "csessh",
-                "url": "https://github.com/csessh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60989682?u=6f7037ae72d0c200d65ccb7c438e19d73eabbde5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just task runner for neovim</div>",
-            "url": "https://github.com/al1-ce/just.nvim",
-            "title": "al1-ce/just.nvim: Just task runner for neovim",
-            "date_modified": "2024-10-08T01:53:34.000Z",
-            "date_published": "2024-05-19T09:21:30.000Z",
-            "author": {
-                "name": "al1-ce",
-                "url": "https://github.com/al1-ce"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
-            "url": "https://github.com/folke/neoconf.nvim",
-            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-10-08T01:30:16.000Z",
-            "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         }
     ]
