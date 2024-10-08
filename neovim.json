@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55982839?u=c79d42f77ece5b4cb50892c0cf9dc11e6460791f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configuration includes a wide range of plugins and settings, carefully chosen and integrated to enhance my productivity and coding experience. The plugins and settings are tailored to my specific needs as a DevOps Engineer, and can easily be customized to meet the needs of others.</div>",
+            "url": "https://github.com/dme86/neovim",
+            "title": "dme86/neovim: My Neovim configuration includes a wide range of plugins and settings, carefully chosen and integrated to enhance my productivity and coding experience. The plugins and settings are tailored to my specific needs as a DevOps Engineer, and can easily be customized to meet the needs of others.",
+            "date_modified": "2024-10-08T21:57:37.000Z",
+            "date_published": "2022-12-24T15:07:07.000Z",
+            "author": {
+                "name": "dme86",
+                "url": "https://github.com/dme86"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12184268?u=35ff697932f0ebba20a58fc8a07f9a5f033fa375&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin with some useful functions for working with Kustomize</div>",
             "url": "https://github.com/Allaman/kustomize.nvim",
             "title": "Allaman/kustomize.nvim: A Neovim plugin with some useful functions for working with Kustomize",
-            "date_modified": "2024-10-08T20:56:24.000Z",
+            "date_modified": "2024-10-08T21:47:14.000Z",
             "date_published": "2022-11-17T21:07:44.000Z",
             "author": {
                 "name": "Allaman",
                 "url": "https://github.com/Allaman"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-08T21:19:15.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-10-08T21:14:31.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
             }
         },
         {
@@ -50,21 +83,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-08T20:18:28.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
             "url": "https://github.com/Saghen/blink.cmp",
             "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-08T21:04:18.000Z",
+            "date_modified": "2024-10-08T21:58:36.000Z",
             "date_published": "2024-07-31T01:56:33.000Z",
             "author": {
                 "name": "Saghen",
@@ -171,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-10-08T17:20:24.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> An easy to use HTTP-Rest-Client plugin for neovim written in LUA</div>",
             "url": "https://github.com/lima1909/resty.nvim",
             "title": "lima1909/resty.nvim:  An easy to use HTTP-Rest-Client plugin for neovim written in LUA",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "daic0r",
                 "url": "https://github.com/daic0r"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60989682?u=6f7037ae72d0c200d65ccb7c438e19d73eabbde5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just task runner for neovim</div>",
-            "url": "https://github.com/al1-ce/just.nvim",
-            "title": "al1-ce/just.nvim: Just task runner for neovim",
-            "date_modified": "2024-10-08T17:01:20.000Z",
-            "date_published": "2024-05-19T09:21:30.000Z",
-            "author": {
-                "name": "al1-ce",
-                "url": "https://github.com/al1-ce"
             }
         }
     ]
