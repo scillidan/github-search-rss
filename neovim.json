@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-10-08T12:12:30.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77670158?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that control media players that supports MPRIS using playerctl</div>",
+            "url": "https://github.com/alexxGmZ/player.nvim",
+            "title": "alexxGmZ/player.nvim: A Neovim plugin that control media players that supports MPRIS using playerctl",
+            "date_modified": "2024-10-08T12:10:29.000Z",
+            "date_published": "2024-10-08T01:22:31.000Z",
+            "author": {
+                "name": "alexxGmZ",
+                "url": "https://github.com/alexxGmZ"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
+            "url": "https://github.com/niuiic/modern-neovim-configuration",
+            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
+            "date_modified": "2024-10-08T11:47:48.000Z",
+            "date_published": "2021-05-05T11:05:56.000Z",
+            "author": {
+                "name": "niuiic",
+                "url": "https://github.com/niuiic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66312028?u=770e8dc69c40cf72e685e0738f6547d3eb5b472e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A neovim plugin for viewing recently yanked snippets</div>",
+            "url": "https://github.com/ikeasamoahansah/clipboard.nvim",
+            "title": "ikeasamoahansah/clipboard.nvim: A neovim plugin for viewing recently yanked snippets",
+            "date_modified": "2024-10-08T11:42:03.000Z",
+            "date_published": "2024-06-29T22:30:12.000Z",
+            "author": {
+                "name": "ikeasamoahansah",
+                "url": "https://github.com/ikeasamoahansah"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-08T11:19:17.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24854248?u=e587881b8a841952e9b92215e10c846f2dff6955&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.</div>",
             "url": "https://github.com/echasnovski/mini.pairs",
             "title": "echasnovski/mini.pairs: Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.",
@@ -36,28 +91,6 @@
             "author": {
                 "name": "Antony-AXS",
                 "url": "https://github.com/Antony-AXS"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-08T11:00:29.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77670158?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that control media players that supports MPRIS using playerctl</div>",
-            "url": "https://github.com/alexxGmZ/player.nvim",
-            "title": "alexxGmZ/player.nvim: A Neovim plugin that control media players that supports MPRIS using playerctl",
-            "date_modified": "2024-10-08T10:14:02.000Z",
-            "date_published": "2024-10-08T01:22:31.000Z",
-            "author": {
-                "name": "alexxGmZ",
-                "url": "https://github.com/alexxGmZ"
             }
         },
         {
@@ -102,17 +135,6 @@
             "author": {
                 "name": "olimorris",
                 "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
-            "url": "https://github.com/niuiic/modern-neovim-configuration",
-            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
-            "date_modified": "2024-10-08T08:27:37.000Z",
-            "date_published": "2021-05-05T11:05:56.000Z",
-            "author": {
-                "name": "niuiic",
-                "url": "https://github.com/niuiic"
             }
         },
         {
@@ -171,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-10-08T06:54:08.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63382192?u=f1516b1789fd4024afdd2dad2083cc9fab8c1031&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for note taking and memorizing.</div>",
             "url": "https://github.com/harukz/zanki.nvim",
             "title": "harukz/zanki.nvim: Neovim plugin for note taking and memorizing.",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dstein64",
                 "url": "https://github.com/dstein64"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124217829?u=9dd091182ae2d5da0a74db71300a00913212b737&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for calling APIs (REST and GraphQL)  written in Lua</div>",
-            "url": "https://github.com/javiorfo/nvim-ship",
-            "title": "javiorfo/nvim-ship: Neovim plugin for calling APIs (REST and GraphQL)  written in Lua",
-            "date_modified": "2024-10-08T04:07:37.000Z",
-            "date_published": "2023-02-02T02:24:49.000Z",
-            "author": {
-                "name": "javiorfo",
-                "url": "https://github.com/javiorfo"
             }
         }
     ]
