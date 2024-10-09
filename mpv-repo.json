@@ -6,6 +6,50 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38727829?u=52f445966cd96ea4b2ab25ad1c3084f9a44da4bd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Config files for mpv player, mpv a free, open source, and cross-platform media player, based on mplayer2 and MPlayer</div>",
+            "url": "https://github.com/thisisshihan/mpv-player-config-snad",
+            "title": "thisisshihan/mpv-player-config-snad: Config files for mpv player, mpv a free, open source, and cross-platform media player, based on mplayer2 and MPlayer",
+            "date_modified": "2024-10-09T06:06:08.000Z",
+            "date_published": "2018-04-25T14:09:28.000Z",
+            "author": {
+                "name": "thisisshihan",
+                "url": "https://github.com/thisisshihan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1787385?u=05501827800882c1b4c02284a0dcbaa393c5f8c3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/AndydeCleyre/dotfiles-mpv",
+            "title": "AndydeCleyre/dotfiles-mpv",
+            "date_modified": "2024-10-09T06:02:16.000Z",
+            "date_published": "2023-11-16T08:19:54.000Z",
+            "author": {
+                "name": "AndydeCleyre",
+                "url": "https://github.com/AndydeCleyre"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32032905?u=7de3d7b520118ee89882a7bc0dd486d8a1d805f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configuration files and setup instructions for Linux &amp; macOS meta distribution</div>",
+            "url": "https://github.com/oniani/dot",
+            "title": "oniani/dot: Configuration files and setup instructions for Linux & macOS meta distribution",
+            "date_modified": "2024-10-09T05:41:44.000Z",
+            "date_published": "2019-04-10T22:14:23.000Z",
+            "author": {
+                "name": "oniani",
+                "url": "https://github.com/oniani"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31907977?u=ae76e73ac67b5ccf973c7ca4ea88fbdcb52273ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Kotlin multiplatform bindings for mpv</div>",
+            "url": "https://github.com/zt64/mpv-kt",
+            "title": "zt64/mpv-kt: Kotlin multiplatform bindings for mpv",
+            "date_modified": "2024-10-09T05:33:52.000Z",
+            "date_published": "2024-03-01T18:53:34.000Z",
+            "author": {
+                "name": "zt64",
+                "url": "https://github.com/zt64"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92977828?u=3f2f7d01efef08982487de0665467b662d7a7393&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minimal abstraction nix flakes config</div>",
             "url": "https://github.com/71zenith/kiseki",
             "title": "71zenith/kiseki: minimal abstraction nix flakes config",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "71zenith",
                 "url": "https://github.com/71zenith"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32032905?u=7de3d7b520118ee89882a7bc0dd486d8a1d805f5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Configuration files and setup instructions for Linux &amp; macOS meta distribution</div>",
-            "url": "https://github.com/oniani/dot",
-            "title": "oniani/dot: Configuration files and setup instructions for Linux & macOS meta distribution",
-            "date_modified": "2024-10-09T05:03:35.000Z",
-            "date_published": "2019-04-10T22:14:23.000Z",
-            "author": {
-                "name": "oniani",
-                "url": "https://github.com/oniani"
             }
         },
         {
@@ -163,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/34319995?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>NXMP is a video player for Nintendo Switch based on MPV</div>",
             "url": "https://github.com/proconsule/nxmp",
             "title": "proconsule/nxmp: NXMP is a video player for Nintendo Switch based on MPV",
-            "date_modified": "2024-10-08T22:10:49.000Z",
+            "date_modified": "2024-10-09T05:38:48.000Z",
             "date_published": "2021-10-18T17:22:02.000Z",
             "author": {
                 "name": "proconsule",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "a-kadlec",
                 "url": "https://github.com/a-kadlec"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11410540?u=39b03018cdc31df9117e893615b92ebbcbabc0c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Script collection for the mpv media player.</div>",
-            "url": "https://github.com/stax76/mpv-scripts",
-            "title": "stax76/mpv-scripts: Script collection for the mpv media player.",
-            "date_modified": "2024-10-08T21:17:54.000Z",
-            "date_published": "2022-03-25T22:47:44.000Z",
-            "author": {
-                "name": "stax76",
-                "url": "https://github.com/stax76"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18324369?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>C-Play is a cluster-based video/image/audio player, utilizing MPV as media player engine,  SGCT for master/client cluster support, and Qt/QML for master UI.</div>",
-            "url": "https://github.com/c-toolbox/C-Play",
-            "title": "c-toolbox/C-Play: C-Play is a cluster-based video/image/audio player, utilizing MPV as media player engine,  SGCT for master/client cluster support, and Qt/QML for master UI.",
-            "date_modified": "2024-10-08T21:16:53.000Z",
-            "date_published": "2021-04-01T13:39:28.000Z",
-            "author": {
-                "name": "c-toolbox",
-                "url": "https://github.com/c-toolbox"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1955273?u=991308d9efb3e72ba788179ef4084530358e79dc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal dotfiles for linux systems, with a lot of Fish, Vim, Zsh and utility scripts.</div>",
-            "url": "https://github.com/brgmnn/dotfiles",
-            "title": "brgmnn/dotfiles: My personal dotfiles for linux systems, with a lot of Fish, Vim, Zsh and utility scripts.",
-            "date_modified": "2024-10-08T16:31:12.000Z",
-            "date_published": "2014-06-21T12:40:06.000Z",
-            "author": {
-                "name": "brgmnn",
-                "url": "https://github.com/brgmnn"
             }
         }
     ]
