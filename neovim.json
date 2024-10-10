@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=6b9d81fc252fde8bb27a606df3c0ee89eee3e56e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
+            "url": "https://github.com/redyf/Neve",
+            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
+            "date_modified": "2024-10-10T21:57:54.000Z",
+            "date_published": "2024-01-03T14:38:56.000Z",
+            "author": {
+                "name": "redyf",
+                "url": "https://github.com/redyf"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
+            "url": "https://github.com/olimorris/codecompanion.nvim",
+            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
+            "date_modified": "2024-10-10T21:51:08.000Z",
+            "date_published": "2023-12-27T17:32:51.000Z",
+            "author": {
+                "name": "olimorris",
+                "url": "https://github.com/olimorris"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44226464?u=b9089de689a30f0ce8602fa65045846ea6688ab5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My daily driver dot files that combine Neovim and plugins, Tmux, and Tmuxp. </div>",
+            "url": "https://github.com/Normanras/dotfiles",
+            "title": "Normanras/dotfiles: My daily driver dot files that combine Neovim and plugins, Tmux, and Tmuxp. ",
+            "date_modified": "2024-10-10T21:27:45.000Z",
+            "date_published": "2023-06-10T13:27:07.000Z",
+            "author": {
+                "name": "Normanras",
+                "url": "https://github.com/Normanras"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that helps manage python requirements.</div>",
+            "url": "https://github.com/MeanderingProgrammer/py-requirements.nvim",
+            "title": "MeanderingProgrammer/py-requirements.nvim: Neovim plugin that helps manage python requirements.",
+            "date_modified": "2024-10-10T21:20:40.000Z",
+            "date_published": "2024-01-23T05:38:34.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-10T21:19:07.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-10-10T21:17:52.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/32036729?u=2eb68605c073a8989311352fdec77b8e1cd7adad&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for broot</div>",
+            "url": "https://github.com/aohoyd/broot.nvim",
+            "title": "aohoyd/broot.nvim: Neovim plugin for broot",
+            "date_modified": "2024-10-10T21:15:14.000Z",
+            "date_published": "2024-02-21T12:09:04.000Z",
+            "author": {
+                "name": "aohoyd",
+                "url": "https://github.com/aohoyd"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.</div>",
             "url": "https://github.com/rachartier/tiny-code-action.nvim",
             "title": "rachartier/tiny-code-action.nvim: A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.",
@@ -14,28 +91,6 @@
             "author": {
                 "name": "rachartier",
                 "url": "https://github.com/rachartier"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=6b9d81fc252fde8bb27a606df3c0ee89eee3e56e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
-            "url": "https://github.com/redyf/Neve",
-            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
-            "date_modified": "2024-10-10T20:28:07.000Z",
-            "date_published": "2024-01-03T14:38:56.000Z",
-            "author": {
-                "name": "redyf",
-                "url": "https://github.com/redyf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-10T20:20:23.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -160,28 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-10-10T17:19:21.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-10-10T17:15:31.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92883017?u=7ebb22f3167084590d8d21b132a01403a83110ff&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Discord Rich Presence plugin for Neovim written in Rust</div>",
             "url": "https://github.com/vyfor/cord.nvim",
             "title": "vyfor/cord.nvim: 🚀 Discord Rich Presence plugin for Neovim written in Rust",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "vyfor",
                 "url": "https://github.com/vyfor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47398876?u=762a6cd4ec15726e61e5b435247b1068719fb8f9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Markdown AI chat + inline completion plugin for neovim</div>",
-            "url": "https://github.com/e-cal/chat.nvim",
-            "title": "e-cal/chat.nvim: Markdown AI chat + inline completion plugin for neovim",
-            "date_modified": "2024-10-10T16:48:32.000Z",
-            "date_published": "2024-03-21T19:12:40.000Z",
-            "author": {
-                "name": "e-cal",
-                "url": "https://github.com/e-cal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94347?u=3c20d911f52b67d901e79d8267215541149c55a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin providing LuaSnip snippets for an opinionated selection of Kotlin libraries</div>",
-            "url": "https://github.com/franckrasolo/luasnip4k.nvim",
-            "title": "franckrasolo/luasnip4k.nvim: Neovim plugin providing LuaSnip snippets for an opinionated selection of Kotlin libraries",
-            "date_modified": "2024-10-10T16:38:56.000Z",
-            "date_published": "2024-10-08T19:15:57.000Z",
-            "author": {
-                "name": "franckrasolo",
-                "url": "https://github.com/franckrasolo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim Node.js client and plugin host</div>",
-            "url": "https://github.com/neovim/node-client",
-            "title": "neovim/node-client: Nvim Node.js client and plugin host",
-            "date_modified": "2024-10-10T16:18:01.000Z",
-            "date_published": "2015-02-11T14:23:57.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
             }
         }
     ]
