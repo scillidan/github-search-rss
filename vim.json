@@ -6,6 +6,39 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1699073?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A vim-perforce integration plugin</div>",
+            "url": "https://github.com/ngemily/vim-vp4",
+            "title": "ngemily/vim-vp4: A vim-perforce integration plugin",
+            "date_modified": "2024-10-11T15:48:37.000Z",
+            "date_published": "2016-12-01T22:48:26.000Z",
+            "author": {
+                "name": "ngemily",
+                "url": "https://github.com/ngemily"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim Node.js client and plugin host</div>",
+            "url": "https://github.com/neovim/node-client",
+            "title": "neovim/node-client: Nvim Node.js client and plugin host",
+            "date_modified": "2024-10-11T15:30:45.000Z",
+            "date_published": "2015-02-11T14:23:57.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178576371?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>let's write a vim plugin from this</div>",
+            "url": "https://github.com/C-est-quand-la-prochaine-reu-han/Pong-CLI",
+            "title": "C-est-quand-la-prochaine-reu-han/Pong-CLI: let's write a vim plugin from this",
+            "date_modified": "2024-10-11T15:17:51.000Z",
+            "date_published": "2024-09-02T00:56:06.000Z",
+            "author": {
+                "name": "C-est-quand-la-prochaine-reu-han",
+                "url": "https://github.com/C-est-quand-la-prochaine-reu-han"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60348669?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Convenient plugin for selecting a directory from a list of  10 MRU directories. Upon selection, the script changes the working directory to the chosen one and checks for the presence of a Session.vim file. If the file exists, it is sourced automatically, allowing users to restore their previous session settings or configurations.</div>",
             "url": "https://github.com/sevehub/psrecentdirs.vim",
             "title": "sevehub/psrecentdirs.vim: Convenient plugin for selecting a directory from a list of  10 MRU directories. Upon selection, the script changes the working directory to the chosen one and checks for the presence of a Session.vim file. If the file exists, it is sourced automatically, allowing users to restore their previous session settings or configurations.",
@@ -83,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim Node.js client and plugin host</div>",
-            "url": "https://github.com/neovim/node-client",
-            "title": "neovim/node-client: Nvim Node.js client and plugin host",
-            "date_modified": "2024-10-11T09:45:08.000Z",
-            "date_published": "2015-02-11T14:23:57.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178129735?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
             "url": "https://github.com/WordPressBugBounty/plugins-codeflavors-vimeo-video-post-lite",
             "title": "WordPressBugBounty/plugins-codeflavors-vimeo-video-post-lite",
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-10-11T10:45:36.000Z",
+            "date_modified": "2024-10-11T15:39:17.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "WordPressBugBounty",
                 "url": "https://github.com/WordPressBugBounty"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67886370?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Leverage local LLM via Vim to boost bug breading within your code ;-P</div>",
-            "url": "https://github.com/vim-utilities/proompter",
-            "title": "vim-utilities/proompter: Leverage local LLM via Vim to boost bug breading within your code ;-P",
-            "date_modified": "2024-10-11T01:21:31.000Z",
-            "date_published": "2024-09-27T02:42:01.000Z",
-            "author": {
-                "name": "vim-utilities",
-                "url": "https://github.com/vim-utilities"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=6b9d81fc252fde8bb27a606df3c0ee89eee3e56e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
-            "url": "https://github.com/redyf/Neve",
-            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
-            "date_modified": "2024-10-11T00:19:26.000Z",
-            "date_published": "2024-01-03T14:38:56.000Z",
-            "author": {
-                "name": "redyf",
-                "url": "https://github.com/redyf"
             }
         }
     ]
