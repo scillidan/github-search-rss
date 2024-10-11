@@ -6,21 +6,10 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
-            "url": "https://github.com/Saghen/blink.cmp",
-            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-11T16:07:37.000Z",
-            "date_published": "2024-07-31T01:56:33.000Z",
-            "author": {
-                "name": "Saghen",
-                "url": "https://github.com/Saghen"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
             "url": "https://github.com/brianhuster/live-preview.nvim",
             "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
-            "date_modified": "2024-10-11T15:49:57.000Z",
+            "date_modified": "2024-10-11T17:03:33.000Z",
             "date_published": "2024-07-24T10:30:05.000Z",
             "author": {
                 "name": "brianhuster",
@@ -28,10 +17,76 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
+            "url": "https://github.com/Saghen/blink.cmp",
+            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
+            "date_modified": "2024-10-11T16:58:12.000Z",
+            "date_published": "2024-07-31T01:56:33.000Z",
+            "author": {
+                "name": "Saghen",
+                "url": "https://github.com/Saghen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38051220?u=12a3b0aecce4cd0663cc9de90f9d1fc7347773b6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for building and updating neovim from source within neovim.</div>",
+            "url": "https://github.com/rootiest/nvim-updater.nvim",
+            "title": "rootiest/nvim-updater.nvim: A plugin for building and updating neovim from source within neovim.",
+            "date_modified": "2024-10-11T16:58:12.000Z",
+            "date_published": "2024-09-12T05:23:37.000Z",
+            "author": {
+                "name": "rootiest",
+                "url": "https://github.com/rootiest"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9973190?u=488a706c787565d0e8b12960f8442d2330ecd234&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to manage aws cli from inside neovim</div>",
+            "url": "https://github.com/zuzmuz/nvimawscli",
+            "title": "zuzmuz/nvimawscli: A plugin to manage aws cli from inside neovim",
+            "date_modified": "2024-10-11T16:49:27.000Z",
+            "date_published": "2024-04-23T19:40:00.000Z",
+            "author": {
+                "name": "zuzmuz",
+                "url": "https://github.com/zuzmuz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/998898?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</div>",
+            "url": "https://github.com/lervag/vimtex",
+            "title": "lervag/vimtex: VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+            "date_modified": "2024-10-11T16:38:23.000Z",
+            "date_published": "2013-10-05T11:55:11.000Z",
+            "author": {
+                "name": "lervag",
+                "url": "https://github.com/lervag"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121890473?u=4059ce552fbbd8a5107c40654bd1751d8446b84c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim config directory with plugins</div>",
+            "url": "https://github.com/kolbbond/nvim-config",
+            "title": "kolbbond/nvim-config: neovim config directory with plugins",
+            "date_modified": "2024-10-11T16:15:18.000Z",
+            "date_published": "2024-03-22T14:45:17.000Z",
+            "author": {
+                "name": "kolbbond",
+                "url": "https://github.com/kolbbond"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/93538042?u=d8e5089e58171e9307bf79fcbc1967f3a320e2c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Custom neovim configuration with lazy plugin manager and IDE setup</div>",
+            "url": "https://github.com/jude7733/nvim",
+            "title": "jude7733/nvim: Custom neovim configuration with lazy plugin manager and IDE setup",
+            "date_modified": "2024-10-11T16:14:38.000Z",
+            "date_published": "2024-01-18T12:05:11.000Z",
+            "author": {
+                "name": "jude7733",
+                "url": "https://github.com/jude7733"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98365888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>snippets.nvim - simple snippet expansion plugin</div>",
             "url": "https://github.com/ccaglak/snippets.nvim",
             "title": "ccaglak/snippets.nvim: snippets.nvim - simple snippet expansion plugin",
-            "date_modified": "2024-10-11T15:33:10.000Z",
+            "date_modified": "2024-10-11T16:32:18.000Z",
             "date_published": "2024-10-11T15:03:05.000Z",
             "author": {
                 "name": "ccaglak",
@@ -168,61 +223,6 @@
             "author": {
                 "name": "GustavEikaas",
                 "url": "https://github.com/GustavEikaas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-10-11T12:12:24.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/123359596?u=d627d7d6ea0f90862dbae37b37c44cb0a6bf792d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A little (smart maybe) terminal plugin for neovim.</div>",
-            "url": "https://github.com/Dan7h3x/neaterm.nvim",
-            "title": "Dan7h3x/neaterm.nvim: A little (smart maybe) terminal plugin for neovim.",
-            "date_modified": "2024-10-11T13:47:25.000Z",
-            "date_published": "2024-10-10T11:51:30.000Z",
-            "author": {
-                "name": "Dan7h3x",
-                "url": "https://github.com/Dan7h3x"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4570851?u=60350623e78db104c8de26d86b18fc798d161012&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Bare-bones Neovim plugin to easily select a buffer.</div>",
-            "url": "https://github.com/flavray/bufferlist.nvim",
-            "title": "flavray/bufferlist.nvim: Bare-bones Neovim plugin to easily select a buffer.",
-            "date_modified": "2024-10-11T11:23:35.000Z",
-            "date_published": "2024-10-11T11:23:11.000Z",
-            "author": {
-                "name": "flavray",
-                "url": "https://github.com/flavray"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105197699?u=9a0788b260129a671dba7e5786de55901b9a05f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal neovim dotfiles with stock lazy and a few plugins</div>",
-            "url": "https://github.com/LtauV/my-nvim-dotfiles",
-            "title": "LtauV/my-nvim-dotfiles: My personal neovim dotfiles with stock lazy and a few plugins",
-            "date_modified": "2024-10-11T11:18:49.000Z",
-            "date_published": "2024-10-11T11:14:02.000Z",
-            "author": {
-                "name": "LtauV",
-                "url": "https://github.com/LtauV"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/62766066?u=3becd73b020fa149a4824e73e2bb046033f82696&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal Neovim plugin to highlight &amp; open links that match my criteria of a valid link.</div>",
-            "url": "https://github.com/NotAShelf/Nodus",
-            "title": "NotAShelf/Nodus: Personal Neovim plugin to highlight & open links that match my criteria of a valid link.",
-            "date_modified": "2024-10-11T10:49:18.000Z",
-            "date_published": "2024-10-11T10:14:17.000Z",
-            "author": {
-                "name": "NotAShelf",
-                "url": "https://github.com/NotAShelf"
             }
         }
     ]
