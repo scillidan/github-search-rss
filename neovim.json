@@ -6,21 +6,21 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12455284?u=4ad94c0467e33e1e96d13ebc85a72f3758c141a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This plugin trims trailing whitespace and lines.</div>",
-            "url": "https://github.com/cappyzawa/trim.nvim",
-            "title": "cappyzawa/trim.nvim: This plugin trims trailing whitespace and lines.",
-            "date_modified": "2024-10-13T18:08:48.000Z",
-            "date_published": "2020-09-16T06:02:39.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#</div>",
+            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
+            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#",
+            "date_modified": "2024-10-13T19:01:46.000Z",
+            "date_published": "2024-04-02T18:24:40.000Z",
             "author": {
-                "name": "cappyzawa",
-                "url": "https://github.com/cappyzawa"
+                "name": "GustavEikaas",
+                "url": "https://github.com/GustavEikaas"
             }
         },
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> An easy to use HTTP-Rest-Client plugin for neovim written in LUA</div>",
             "url": "https://github.com/lima1909/resty.nvim",
             "title": "lima1909/resty.nvim:  An easy to use HTTP-Rest-Client plugin for neovim written in LUA",
-            "date_modified": "2024-10-13T17:51:19.000Z",
+            "date_modified": "2024-10-13T18:55:20.000Z",
             "date_published": "2024-05-04T09:33:14.000Z",
             "author": {
                 "name": "lima1909",
@@ -28,14 +28,47 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
+            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
+            "date_modified": "2024-10-13T18:54:27.000Z",
+            "date_published": "2024-03-18T04:13:43.000Z",
+            "author": {
+                "name": "MeanderingProgrammer",
+                "url": "https://github.com/MeanderingProgrammer"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/40495384?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dart is a Neovim plugin designed to be a simpler alternative to marks.</div>",
             "url": "https://github.com/nssteinbrenner/dart",
             "title": "nssteinbrenner/dart: Dart is a Neovim plugin designed to be a simpler alternative to marks.",
-            "date_modified": "2024-10-13T17:51:04.000Z",
+            "date_modified": "2024-10-13T18:43:26.000Z",
             "date_published": "2024-10-10T22:02:27.000Z",
             "author": {
                 "name": "nssteinbrenner",
                 "url": "https://github.com/nssteinbrenner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-13T18:20:35.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12455284?u=4ad94c0467e33e1e96d13ebc85a72f3758c141a0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This plugin trims trailing whitespace and lines.</div>",
+            "url": "https://github.com/cappyzawa/trim.nvim",
+            "title": "cappyzawa/trim.nvim: This plugin trims trailing whitespace and lines.",
+            "date_modified": "2024-10-13T18:19:07.000Z",
+            "date_published": "2020-09-16T06:02:39.000Z",
+            "author": {
+                "name": "cappyzawa",
+                "url": "https://github.com/cappyzawa"
             }
         },
         {
@@ -53,22 +86,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
             "url": "https://github.com/Saghen/blink.cmp",
             "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-13T17:42:21.000Z",
+            "date_modified": "2024-10-13T18:57:14.000Z",
             "date_published": "2024-07-31T01:56:33.000Z",
             "author": {
                 "name": "Saghen",
                 "url": "https://github.com/Saghen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
-            "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
-            "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-10-13T17:24:02.000Z",
-            "date_published": "2024-03-18T04:13:43.000Z",
-            "author": {
-                "name": "MeanderingProgrammer",
-                "url": "https://github.com/MeanderingProgrammer"
             }
         },
         {
@@ -94,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#</div>",
-            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
-            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#",
-            "date_modified": "2024-10-13T17:19:51.000Z",
-            "date_published": "2024-04-02T18:24:40.000Z",
-            "author": {
-                "name": "GustavEikaas",
-                "url": "https://github.com/GustavEikaas"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)</div>",
             "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
             "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
@@ -113,17 +124,6 @@
             "author": {
                 "name": "wojciech-kulik",
                 "url": "https://github.com/wojciech-kulik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-13T17:18:06.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
