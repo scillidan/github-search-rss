@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/541289?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that displays interactive vertical scrollbars and signs.</div>",
+            "url": "https://github.com/dstein64/nvim-scrollview",
+            "title": "dstein64/nvim-scrollview: A Neovim plugin that displays interactive vertical scrollbars and signs.",
+            "date_modified": "2024-10-13T04:06:28.000Z",
+            "date_published": "2020-12-10T01:51:20.000Z",
+            "author": {
+                "name": "dstein64",
+                "url": "https://github.com/dstein64"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
+            "url": "https://github.com/brianhuster/live-preview.nvim",
+            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
+            "date_modified": "2024-10-13T03:41:44.000Z",
+            "date_published": "2024-07-24T10:30:05.000Z",
+            "author": {
+                "name": "brianhuster",
+                "url": "https://github.com/brianhuster"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dvpm - Denops Vim/Neovim Plugin Manager</div>",
             "url": "https://github.com/yukimemi/dvpm",
             "title": "yukimemi/dvpm: dvpm - Denops Vim/Neovim Plugin Manager",
-            "date_modified": "2024-10-13T02:58:28.000Z",
+            "date_modified": "2024-10-13T03:33:22.000Z",
             "date_published": "2023-05-14T12:16:02.000Z",
             "author": {
                 "name": "yukimemi",
                 "url": "https://github.com/yukimemi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/109922256?u=75c105f7947aa877ed7292cb4bbfafd6a6694668&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mi configuracion de plugins, temas y atajos para neovim.</div>",
+            "url": "https://github.com/Z0SO/zoso-nvim-config",
+            "title": "Z0SO/zoso-nvim-config: Mi configuracion de plugins, temas y atajos para neovim.",
+            "date_modified": "2024-10-13T03:32:34.000Z",
+            "date_published": "2024-08-10T20:56:01.000Z",
+            "author": {
+                "name": "Z0SO",
+                "url": "https://github.com/Z0SO"
             }
         },
         {
@@ -47,17 +80,6 @@
             "author": {
                 "name": "zachcoyle",
                 "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/541289?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that displays interactive vertical scrollbars and signs.</div>",
-            "url": "https://github.com/dstein64/nvim-scrollview",
-            "title": "dstein64/nvim-scrollview: A Neovim plugin that displays interactive vertical scrollbars and signs.",
-            "date_modified": "2024-10-13T02:25:28.000Z",
-            "date_published": "2020-12-10T01:51:20.000Z",
-            "author": {
-                "name": "dstein64",
-                "url": "https://github.com/dstein64"
             }
         },
         {
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> 🦥 Supercharge your Haskell experience in neovim!</div>",
             "url": "https://github.com/mrcjkb/haskell-tools.nvim",
             "title": "mrcjkb/haskell-tools.nvim:  🦥 Supercharge your Haskell experience in neovim!",
-            "date_modified": "2024-10-13T00:21:47.000Z",
+            "date_modified": "2024-10-13T03:46:07.000Z",
             "date_published": "2022-10-15T14:18:38.000Z",
             "author": {
                 "name": "mrcjkb",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "mcauley-penney",
                 "url": "https://github.com/mcauley-penney"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98139059?u=6b9d81fc252fde8bb27a606df3c0ee89eee3e56e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.</div>",
-            "url": "https://github.com/redyf/Neve",
-            "title": "redyf/Neve: Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.",
-            "date_modified": "2024-10-12T23:27:17.000Z",
-            "date_published": "2024-01-03T14:38:56.000Z",
-            "author": {
-                "name": "redyf",
-                "url": "https://github.com/redyf"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/61390942?u=1db03989ef7693b380cda29f1ed0dcb9430f46c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim/Neovim plugin for Uiua filetype detection, syntax highlighting, and format on save</div>",
-            "url": "https://github.com/Apeiros-46B/uiua.vim",
-            "title": "Apeiros-46B/uiua.vim: Vim/Neovim plugin for Uiua filetype detection, syntax highlighting, and format on save",
-            "date_modified": "2024-10-12T22:56:40.000Z",
-            "date_published": "2024-10-12T04:47:31.000Z",
-            "author": {
-                "name": "Apeiros-46B",
-                "url": "https://github.com/Apeiros-46B"
             }
         }
     ]
