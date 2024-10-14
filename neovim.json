@@ -6,14 +6,47 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
+            "url": "https://github.com/niuiic/modern-neovim-configuration",
+            "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
+            "date_modified": "2024-10-14T15:55:05.000Z",
+            "date_published": "2021-05-05T11:05:56.000Z",
+            "author": {
+                "name": "niuiic",
+                "url": "https://github.com/niuiic"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
             "url": "https://github.com/neovim/nvim-lspconfig",
             "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-10-14T15:08:32.000Z",
+            "date_modified": "2024-10-14T16:03:28.000Z",
             "date_published": "2019-11-13T17:12:28.000Z",
             "author": {
                 "name": "neovim",
                 "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51060280?u=373acabcbe52828df15c5e021f596ad5e102cea9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Nix flake for my Neovim config Lua plugin</div>",
+            "url": "https://github.com/VinceDeslo/pdeconfig.nvim",
+            "title": "VinceDeslo/pdeconfig.nvim: A Nix flake for my Neovim config Lua plugin",
+            "date_modified": "2024-10-14T15:29:23.000Z",
+            "date_published": "2024-10-12T02:24:27.000Z",
+            "author": {
+                "name": "VinceDeslo",
+                "url": "https://github.com/VinceDeslo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-14T15:20:24.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -50,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51060280?u=373acabcbe52828df15c5e021f596ad5e102cea9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Nix flake for my Neovim config Lua plugin</div>",
-            "url": "https://github.com/VinceDeslo/pdeconfig.nvim",
-            "title": "VinceDeslo/pdeconfig.nvim: A Nix flake for my Neovim config Lua plugin",
-            "date_modified": "2024-10-14T14:32:28.000Z",
-            "date_published": "2024-10-12T02:24:27.000Z",
-            "author": {
-                "name": "VinceDeslo",
-                "url": "https://github.com/VinceDeslo"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/180814977?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>my current low plugin neovim config</div>",
             "url": "https://github.com/flickergoon/current-nvim",
             "title": "flickergoon/current-nvim: my current low plugin neovim config",
@@ -69,17 +91,6 @@
             "author": {
                 "name": "flickergoon",
                 "url": "https://github.com/flickergoon"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-14T14:19:59.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.</div>",
             "url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim",
             "title": "rachartier/tiny-inline-diagnostic.nvim: A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.",
-            "date_modified": "2024-10-14T12:46:18.000Z",
+            "date_modified": "2024-10-14T15:53:22.000Z",
             "date_published": "2024-06-29T14:13:21.000Z",
             "author": {
                 "name": "rachartier",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "alexxGmZ",
                 "url": "https://github.com/alexxGmZ"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36300441?u=05cba456887d1beedd4e92ff5bc5c8fafc31c3c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terminal Manager for Neovim</div>",
-            "url": "https://github.com/rebelot/terminal.nvim",
-            "title": "rebelot/terminal.nvim: Terminal Manager for Neovim",
-            "date_modified": "2024-10-14T08:23:13.000Z",
-            "date_published": "2022-05-18T14:47:38.000Z",
-            "author": {
-                "name": "rebelot",
-                "url": "https://github.com/rebelot"
             }
         }
     ]
