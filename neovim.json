@@ -6,10 +6,43 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35314330?u=d5a9a8d3a7151977f1403242a6fb30f7aaac6cee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple plugin for improved experience developing dataform locally in neovim</div>",
+            "url": "https://github.com/LeonAndrade/dataform.nvim",
+            "title": "LeonAndrade/dataform.nvim: Simple plugin for improved experience developing dataform locally in neovim",
+            "date_modified": "2024-10-14T02:00:44.000Z",
+            "date_published": "2024-10-06T13:50:42.000Z",
+            "author": {
+                "name": "LeonAndrade",
+                "url": "https://github.com/LeonAndrade"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim</div>",
+            "url": "https://github.com/ray-x/go.nvim",
+            "title": "ray-x/go.nvim: G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim",
+            "date_modified": "2024-10-14T01:50:37.000Z",
+            "date_published": "2021-03-10T10:23:02.000Z",
+            "author": {
+                "name": "ray-x",
+                "url": "https://github.com/ray-x"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
+            "url": "https://github.com/brianhuster/live-preview.nvim",
+            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
+            "date_modified": "2024-10-14T01:48:58.000Z",
+            "date_published": "2024-07-24T10:30:05.000Z",
+            "author": {
+                "name": "brianhuster",
+                "url": "https://github.com/brianhuster"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/63799565?u=f612e54d8a0d83ba84f5cfeea77bcdd2e6cd5bbf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Modern configuration for neovim.</div>",
             "url": "https://github.com/niuiic/modern-neovim-configuration",
             "title": "niuiic/modern-neovim-configuration: Modern configuration for neovim.",
-            "date_modified": "2024-10-14T00:43:26.000Z",
+            "date_modified": "2024-10-14T02:12:02.000Z",
             "date_published": "2021-05-05T11:05:56.000Z",
             "author": {
                 "name": "niuiic",
@@ -75,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
             "url": "https://github.com/Saghen/blink.cmp",
             "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-14T00:07:03.000Z",
+            "date_modified": "2024-10-14T02:12:14.000Z",
             "date_published": "2024-07-31T01:56:33.000Z",
             "author": {
                 "name": "Saghen",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "lima1909",
                 "url": "https://github.com/lima1909"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.</div>",
-            "url": "https://github.com/jkeresman01/java-maven-test.nvim",
-            "title": "jkeresman01/java-maven-test.nvim: Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.",
-            "date_modified": "2024-10-13T17:49:00.000Z",
-            "date_published": "2024-07-16T19:38:47.000Z",
-            "author": {
-                "name": "jkeresman01",
-                "url": "https://github.com/jkeresman01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
-            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
-            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
-            "date_modified": "2024-10-13T17:21:52.000Z",
-            "date_published": "2021-12-11T08:13:56.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)</div>",
-            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
-            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
-            "date_modified": "2024-10-13T17:18:44.000Z",
-            "date_published": "2023-11-01T17:40:49.000Z",
-            "author": {
-                "name": "wojciech-kulik",
-                "url": "https://github.com/wojciech-kulik"
             }
         }
     ]
