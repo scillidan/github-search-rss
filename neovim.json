@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73286100?u=1302c813e30231fdc7f3661b3af69bb9b0d8ef30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Search neovim plugins and online :help of Neovim and plugins via Alfred.</div>",
+            "url": "https://github.com/chrisgrieser/alfred-neovim-utilities",
+            "title": "chrisgrieser/alfred-neovim-utilities: Search neovim plugins and online :help of Neovim and plugins via Alfred.",
+            "date_modified": "2024-10-15T04:42:01.000Z",
+            "date_published": "2022-11-27T10:48:31.000Z",
+            "author": {
+                "name": "chrisgrieser",
+                "url": "https://github.com/chrisgrieser"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/91647110?u=f72e0218582bb769478a71863fd78a450784da69&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Ultra fast and lightweight neovim setup with just essential plugins</div>",
+            "url": "https://github.com/tryprncp/neovim",
+            "title": "tryprncp/neovim: Ultra fast and lightweight neovim setup with just essential plugins",
+            "date_modified": "2024-10-15T04:22:45.000Z",
+            "date_published": "2024-07-13T16:47:08.000Z",
+            "author": {
+                "name": "tryprncp",
+                "url": "https://github.com/tryprncp"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-15T04:19:33.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77670158?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that control media players that supports MPRIS using playerctl</div>",
+            "url": "https://github.com/alexxGmZ/player.nvim",
+            "title": "alexxGmZ/player.nvim: A Neovim plugin that control media players that supports MPRIS using playerctl",
+            "date_modified": "2024-10-15T04:14:23.000Z",
+            "date_published": "2024-10-08T01:22:31.000Z",
+            "author": {
+                "name": "alexxGmZ",
+                "url": "https://github.com/alexxGmZ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal list of Neovim plugins</div>",
             "url": "https://github.com/yutkat/my-neovim-pluginlist",
             "title": "yutkat/my-neovim-pluginlist: My personal list of Neovim plugins",
@@ -86,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-10-15T03:30:15.000Z",
+            "date_modified": "2024-10-15T04:41:14.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
@@ -102,17 +146,6 @@
             "author": {
                 "name": "Hdoc1509",
                 "url": "https://github.com/Hdoc1509"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-15T02:36:22.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "yutkat",
                 "url": "https://github.com/yutkat"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15135669?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>dbt macro to run query for dbt-nvim neovim plugin</div>",
-            "url": "https://github.com/alhankeser/dbt_nvim",
-            "title": "alhankeser/dbt_nvim: dbt macro to run query for dbt-nvim neovim plugin",
-            "date_modified": "2024-10-14T23:26:16.000Z",
-            "date_published": "2024-10-13T12:10:52.000Z",
-            "author": {
-                "name": "alhankeser",
-                "url": "https://github.com/alhankeser"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12184268?u=35ff697932f0ebba20a58fc8a07f9a5f033fa375&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin to search for and insert emojis/kaomojis right from Neovim 😀</div>",
-            "url": "https://github.com/Allaman/emoji.nvim",
-            "title": "Allaman/emoji.nvim: A plugin to search for and insert emojis/kaomojis right from Neovim 😀",
-            "date_modified": "2024-10-14T22:37:43.000Z",
-            "date_published": "2024-02-23T18:04:25.000Z",
-            "author": {
-                "name": "Allaman",
-                "url": "https://github.com/Allaman"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2057541?u=4923ed6f4f5b3210380cbd6690355d533feedb7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.</div>",
-            "url": "https://github.com/rachartier/tiny-inline-diagnostic.nvim",
-            "title": "rachartier/tiny-inline-diagnostic.nvim: A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.",
-            "date_modified": "2024-10-14T22:11:10.000Z",
-            "date_published": "2024-06-29T14:13:21.000Z",
-            "author": {
-                "name": "rachartier",
-                "url": "https://github.com/rachartier"
             }
         }
     ]
