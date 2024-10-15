@@ -6,6 +6,39 @@
     "description": "mpv on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66428911?u=9feb629b0750fb3c062465c22789a567ed1284e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mpv conf</div>",
+            "url": "https://github.com/borisorlov21/mpv-conf",
+            "title": "borisorlov21/mpv-conf: mpv conf",
+            "date_modified": "2024-10-15T14:09:24.000Z",
+            "date_published": "2024-10-15T14:09:23.000Z",
+            "author": {
+                "name": "borisorlov21",
+                "url": "https://github.com/borisorlov21"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94174703?u=ea231187cbe61c9661427f6065e56719c48ff1e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>在MPV播放器中加载弹弹play弹幕，基于 uosc UI框架和弹弹play API的mpv弹幕扩展插件</div>",
+            "url": "https://github.com/Tony15246/uosc_danmaku",
+            "title": "Tony15246/uosc_danmaku: 在MPV播放器中加载弹弹play弹幕，基于 uosc UI框架和弹弹play API的mpv弹幕扩展插件",
+            "date_modified": "2024-10-15T13:52:14.000Z",
+            "date_published": "2024-09-02T18:06:26.000Z",
+            "author": {
+                "name": "Tony15246",
+                "url": "https://github.com/Tony15246"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17427046?u=5897605555f887ca813a21b2f300fc17f4c6f90e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sleek and modern OSC for mpv designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.</div>",
+            "url": "https://github.com/Samillion/ModernZ",
+            "title": "Samillion/ModernZ: A sleek and modern OSC for mpv designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.",
+            "date_modified": "2024-10-15T13:26:15.000Z",
+            "date_published": "2024-09-29T05:32:18.000Z",
+            "author": {
+                "name": "Samillion",
+                "url": "https://github.com/Samillion"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22269254?u=6a3763cc0c4d7f3258fb1d0fac632844f675d054&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>基于mpv player，mpv_lazy，dyphire/mpv-config重新组装</div>",
             "url": "https://github.com/redomCL/mpv_fruit",
             "title": "redomCL/mpv_fruit: 基于mpv player，mpv_lazy，dyphire/mpv-config重新组装",
@@ -83,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17427046?u=5897605555f887ca813a21b2f300fc17f4c6f90e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A sleek and modern OSC for mpv designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.</div>",
-            "url": "https://github.com/Samillion/ModernZ",
-            "title": "Samillion/ModernZ: A sleek and modern OSC for mpv designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.",
-            "date_modified": "2024-10-15T11:20:56.000Z",
-            "date_published": "2024-09-29T05:32:18.000Z",
-            "author": {
-                "name": "Samillion",
-                "url": "https://github.com/Samillion"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71256557?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A TypeScript implementation of mpv’s autoload.lua. It is optimized for modularity, readability and and simplicity.</div>",
             "url": "https://github.com/gaesa/mpv-autoload",
             "title": "gaesa/mpv-autoload: A TypeScript implementation of mpv’s autoload.lua. It is optimized for modularity, readability and and simplicity.",
@@ -149,17 +171,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94174703?u=ea231187cbe61c9661427f6065e56719c48ff1e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>在MPV播放器中加载弹弹play弹幕，基于 uosc UI框架和弹弹play API的mpv弹幕扩展插件</div>",
-            "url": "https://github.com/Tony15246/uosc_danmaku",
-            "title": "Tony15246/uosc_danmaku: 在MPV播放器中加载弹弹play弹幕，基于 uosc UI框架和弹弹play API的mpv弹幕扩展插件",
-            "date_modified": "2024-10-15T11:47:40.000Z",
-            "date_published": "2024-09-02T18:06:26.000Z",
-            "author": {
-                "name": "Tony15246",
-                "url": "https://github.com/Tony15246"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50501820?u=0b347f9a3559240c882ec24f36078748fc0fe209&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>fbcm ToT Landau MPV</div>",
             "url": "https://github.com/a-kadlec/fbcm-landaumpv",
             "title": "a-kadlec/fbcm-landaumpv: fbcm ToT Landau MPV",
@@ -196,7 +207,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45698031?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>MPV Cast Client for Jellyfin</div>",
             "url": "https://github.com/jellyfin/jellyfin-mpv-shim",
             "title": "jellyfin/jellyfin-mpv-shim: MPV Cast Client for Jellyfin",
-            "date_modified": "2024-10-15T06:41:41.000Z",
+            "date_modified": "2024-10-15T13:49:54.000Z",
             "date_published": "2020-01-11T18:44:41.000Z",
             "author": {
                 "name": "jellyfin",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "Auzatte",
                 "url": "https://github.com/Auzatte"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/92977828?u=3f2f7d01efef08982487de0665467b662d7a7393&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minimal abstraction nix flakes config</div>",
-            "url": "https://github.com/71zenith/kiseki",
-            "title": "71zenith/kiseki: minimal abstraction nix flakes config",
-            "date_modified": "2024-10-15T04:10:54.000Z",
-            "date_published": "2024-02-09T12:47:53.000Z",
-            "author": {
-                "name": "71zenith",
-                "url": "https://github.com/71zenith"
             }
         }
     ]
