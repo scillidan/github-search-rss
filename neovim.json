@@ -6,14 +6,69 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3642691?u=1e4a29e57172585e14b58f400aae3178d2254ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a Neovim plugin that use GNU global to generate tags, find symbol definitions, and find symbol reference.</div>",
+            "url": "https://github.com/rargo/nvim-global",
+            "title": "rargo/nvim-global: a Neovim plugin that use GNU global to generate tags, find symbol definitions, and find symbol reference.",
+            "date_modified": "2024-10-16T07:06:49.000Z",
+            "date_published": "2024-09-26T03:29:53.000Z",
+            "author": {
+                "name": "rargo",
+                "url": "https://github.com/rargo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48630731?u=95a50608d26ec31deb646c97deca356864817f41&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A tiny Neovim plugin to generate a cased version of the current file</div>",
+            "url": "https://github.com/JulienZD/file-case-gen.nvim",
+            "title": "JulienZD/file-case-gen.nvim: A tiny Neovim plugin to generate a cased version of the current file",
+            "date_modified": "2024-10-16T06:55:12.000Z",
+            "date_published": "2024-10-15T17:51:18.000Z",
+            "author": {
+                "name": "JulienZD",
+                "url": "https://github.com/JulienZD"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77670158?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that control media players that supports MPRIS using playerctl</div>",
+            "url": "https://github.com/alexxGmZ/player.nvim",
+            "title": "alexxGmZ/player.nvim: A Neovim plugin that control media players that supports MPRIS using playerctl",
+            "date_modified": "2024-10-16T06:50:23.000Z",
+            "date_published": "2024-10-08T01:22:31.000Z",
+            "author": {
+                "name": "alexxGmZ",
+                "url": "https://github.com/alexxGmZ"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1944737?u=332bc622caf244ab850c2c4d0a4d570277f81b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to work GitHub PRs quickly.</div>",
             "url": "https://github.com/daliusd/ghlite.nvim",
             "title": "daliusd/ghlite.nvim: Neovim plugin to work GitHub PRs quickly.",
-            "date_modified": "2024-10-16T06:12:59.000Z",
+            "date_modified": "2024-10-16T06:24:57.000Z",
             "date_published": "2024-10-12T20:33:18.000Z",
             "author": {
                 "name": "daliusd",
                 "url": "https://github.com/daliusd"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-16T06:19:56.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13227428?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mai Pull Request is a Neovim plugin that helps you generate commit messages and pull requests directly from your Neovim editor.</div>",
+            "url": "https://github.com/ryanvu/mai_pr.nvim",
+            "title": "ryanvu/mai_pr.nvim: Mai Pull Request is a Neovim plugin that helps you generate commit messages and pull requests directly from your Neovim editor.",
+            "date_modified": "2024-10-16T06:19:05.000Z",
+            "date_published": "2024-10-01T20:41:27.000Z",
+            "author": {
+                "name": "ryanvu",
+                "url": "https://github.com/ryanvu"
             }
         },
         {
@@ -58,17 +113,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-16T05:20:02.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -138,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3642691?u=1e4a29e57172585e14b58f400aae3178d2254ca6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a Neovim plugin that use GNU global to generate tags, find symbol definitions, and find symbol reference.</div>",
-            "url": "https://github.com/rargo/nvim-global",
-            "title": "rargo/nvim-global: a Neovim plugin that use GNU global to generate tags, find symbol definitions, and find symbol reference.",
-            "date_modified": "2024-10-16T03:42:57.000Z",
-            "date_published": "2024-09-26T03:29:53.000Z",
-            "author": {
-                "name": "rargo",
-                "url": "https://github.com/rargo"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "VinceDeslo",
                 "url": "https://github.com/VinceDeslo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
-            "url": "https://github.com/stevearc/aerial.nvim",
-            "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
-            "date_modified": "2024-10-16T02:13:19.000Z",
-            "date_published": "2020-09-19T22:59:49.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A task runner and job management plugin for Neovim</div>",
-            "url": "https://github.com/stevearc/overseer.nvim",
-            "title": "stevearc/overseer.nvim: A task runner and job management plugin for Neovim",
-            "date_modified": "2024-10-16T05:14:39.000Z",
-            "date_published": "2022-05-18T00:03:58.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7420227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extensible Neovim Scrollbar</div>",
-            "url": "https://github.com/petertriho/nvim-scrollbar",
-            "title": "petertriho/nvim-scrollbar: Extensible Neovim Scrollbar",
-            "date_modified": "2024-10-16T01:43:54.000Z",
-            "date_published": "2022-01-07T03:03:06.000Z",
-            "author": {
-                "name": "petertriho",
-                "url": "https://github.com/petertriho"
             }
         }
     ]
