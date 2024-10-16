@@ -6,10 +6,21 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18213801?u=e1a89bf7edcd740d7ae6c7c28a1adbfbf448c87a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Creates a \"Live Share\" server in Neovim, similar to the Visual Studio Code Live Share functionality </div>",
+            "url": "https://github.com/azratul/live-share.nvim",
+            "title": "azratul/live-share.nvim: Creates a \"Live Share\" server in Neovim, similar to the Visual Studio Code Live Share functionality ",
+            "date_modified": "2024-10-16T19:59:43.000Z",
+            "date_published": "2024-07-18T01:08:44.000Z",
+            "author": {
+                "name": "azratul",
+                "url": "https://github.com/azratul"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26881592?u=0d8d1367c09029c7c18b344fc10ac4e4ec614da6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This plugin wraps around the tmux-toggle-popup plugin to provide a interface to create tmux popup windows in neovim.</div>",
             "url": "https://github.com/cenk1cenk2/tmux-toggle-popup.nvim",
             "title": "cenk1cenk2/tmux-toggle-popup.nvim: This plugin wraps around the tmux-toggle-popup plugin to provide a interface to create tmux popup windows in neovim.",
-            "date_modified": "2024-10-16T19:03:29.000Z",
+            "date_modified": "2024-10-16T19:57:10.000Z",
             "date_published": "2024-10-14T20:52:16.000Z",
             "author": {
                 "name": "cenk1cenk2",
@@ -17,14 +28,80 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94347?u=3c20d911f52b67d901e79d8267215541149c55a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin providing LuaSnip snippets for Kotlin and for an opinionated selection of Kotlin libraries</div>",
+            "url": "https://github.com/franckrasolo/luasnip4k.nvim",
+            "title": "franckrasolo/luasnip4k.nvim: Neovim plugin providing LuaSnip snippets for Kotlin and for an opinionated selection of Kotlin libraries",
+            "date_modified": "2024-10-16T19:42:23.000Z",
+            "date_published": "2024-10-08T19:15:57.000Z",
+            "author": {
+                "name": "franckrasolo",
+                "url": "https://github.com/franckrasolo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/121890473?u=4059ce552fbbd8a5107c40654bd1751d8446b84c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim config directory with plugins</div>",
+            "url": "https://github.com/kolbbond/nvim-config",
+            "title": "kolbbond/nvim-config: neovim config directory with plugins",
+            "date_modified": "2024-10-16T19:32:53.000Z",
+            "date_published": "2024-03-22T14:45:17.000Z",
+            "author": {
+                "name": "kolbbond",
+                "url": "https://github.com/kolbbond"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.</div>",
+            "url": "https://github.com/jkeresman01/tmux-switch.nvim",
+            "title": "jkeresman01/tmux-switch.nvim: Neovim plugin that allows you to switch between tmux sessions, right from Neovim, using fuzzy find functionality.",
+            "date_modified": "2024-10-16T19:30:47.000Z",
+            "date_published": "2024-07-19T20:51:43.000Z",
+            "author": {
+                "name": "jkeresman01",
+                "url": "https://github.com/jkeresman01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.</div>",
+            "url": "https://github.com/jkeresman01/java-maven-test.nvim",
+            "title": "jkeresman01/java-maven-test.nvim: Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.",
+            "date_modified": "2024-10-16T19:30:06.000Z",
+            "date_published": "2024-07-16T19:38:47.000Z",
+            "author": {
+                "name": "jkeresman01",
+                "url": "https://github.com/jkeresman01"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> Neovim plugin that makes navigation and searching through Java methods a lot easier.</div>",
             "url": "https://github.com/jkeresman01/java-method-search.nvim",
             "title": "jkeresman01/java-method-search.nvim:  Neovim plugin that makes navigation and searching through Java methods a lot easier.",
-            "date_modified": "2024-10-16T18:56:40.000Z",
+            "date_modified": "2024-10-16T19:23:44.000Z",
             "date_published": "2024-07-14T12:07:38.000Z",
             "author": {
                 "name": "jkeresman01",
                 "url": "https://github.com/jkeresman01"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-16T19:19:43.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59785145?u=37e2ab32bcaf3f4c131fd8ba2ad22186e36e61cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim configuration and plugins</div>",
+            "url": "https://github.com/manu-xo5/nvim",
+            "title": "manu-xo5/nvim: neovim configuration and plugins",
+            "date_modified": "2024-10-16T19:15:33.000Z",
+            "date_published": "2024-05-14T23:49:03.000Z",
+            "author": {
+                "name": "manu-xo5",
+                "url": "https://github.com/manu-xo5"
             }
         },
         {
@@ -72,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-16T18:19:39.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108037606?u=634a02ce88ff1f53f636e9c1327d11b5033b6d01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal, contrast-based, dark &amp; light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
             "url": "https://github.com/ccxnu/rosebones",
             "title": "ccxnu/rosebones: A minimal, contrast-based, dark & light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
@@ -108,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
             "url": "https://github.com/Saghen/blink.cmp",
             "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-16T17:48:22.000Z",
+            "date_modified": "2024-10-16T19:09:47.000Z",
             "date_published": "2024-07-31T01:56:33.000Z",
             "author": {
                 "name": "Saghen",
@@ -157,72 +223,6 @@
             "author": {
                 "name": "joseph-pq",
                 "url": "https://github.com/joseph-pq"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102238249?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A community repository of common plugin specifications</div>",
-            "url": "https://github.com/AstroNvim/astrocommunity",
-            "title": "AstroNvim/astrocommunity: A community repository of common plugin specifications",
-            "date_modified": "2024-10-16T17:41:04.000Z",
-            "date_published": "2023-02-21T14:55:56.000Z",
-            "author": {
-                "name": "AstroNvim",
-                "url": "https://github.com/AstroNvim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for a code outline window</div>",
-            "url": "https://github.com/stevearc/aerial.nvim",
-            "title": "stevearc/aerial.nvim: Neovim plugin for a code outline window",
-            "date_modified": "2024-10-16T16:49:45.000Z",
-            "date_published": "2020-09-19T22:59:49.000Z",
-            "author": {
-                "name": "stevearc",
-                "url": "https://github.com/stevearc"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60989682?u=6f7037ae72d0c200d65ccb7c438e19d73eabbde5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just task runner for neovim</div>",
-            "url": "https://github.com/al1-ce/just.nvim",
-            "title": "al1-ce/just.nvim: Just task runner for neovim",
-            "date_modified": "2024-10-16T16:40:18.000Z",
-            "date_published": "2024-05-19T09:21:30.000Z",
-            "author": {
-                "name": "al1-ce",
-                "url": "https://github.com/al1-ce"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72316111?u=28b20f8342d94304c7a670ab46773549b9aed7f1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin plugin to provide syntax highlighting for Hygen templates</div>",
-            "url": "https://github.com/Hdoc1509/hygen.nvim",
-            "title": "Hdoc1509/hygen.nvim: Neovim plugin plugin to provide syntax highlighting for Hygen templates",
-            "date_modified": "2024-10-16T16:28:25.000Z",
-            "date_published": "2024-10-07T23:56:04.000Z",
-            "author": {
-                "name": "Hdoc1509",
-                "url": "https://github.com/Hdoc1509"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/113752412?u=a3d6d9985c0eef56aa39877bc6e651e92d7a28d0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that provides a simple and useful set of toggle commands for Markdown.</div>",
-            "url": "https://github.com/roodolv/markdown-toggle.nvim",
-            "title": "roodolv/markdown-toggle.nvim: A Neovim plugin that provides a simple and useful set of toggle commands for Markdown.",
-            "date_modified": "2024-10-16T16:24:50.000Z",
-            "date_published": "2024-07-11T10:27:16.000Z",
-            "author": {
-                "name": "roodolv",
-                "url": "https://github.com/roodolv"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs",
-            "date_modified": "2024-10-16T16:29:14.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
             }
         }
     ]
