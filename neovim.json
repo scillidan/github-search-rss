@@ -6,10 +6,21 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60989682?u=6f7037ae72d0c200d65ccb7c438e19d73eabbde5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just task runner for neovim</div>",
+            "url": "https://github.com/al1-ce/just.nvim",
+            "title": "al1-ce/just.nvim: Just task runner for neovim",
+            "date_modified": "2024-10-16T23:00:50.000Z",
+            "date_published": "2024-05-19T09:21:30.000Z",
+            "author": {
+                "name": "al1-ce",
+                "url": "https://github.com/al1-ce"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45028928?u=a69faba06ec8ac5c4fba47970ea02d4d24fc8f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Never manually save/write a buffer again!</div>",
             "url": "https://github.com/tmillr/sos.nvim",
             "title": "tmillr/sos.nvim: Never manually save/write a buffer again!",
-            "date_modified": "2024-10-16T21:41:40.000Z",
+            "date_modified": "2024-10-16T22:51:17.000Z",
             "date_published": "2022-10-18T12:52:35.000Z",
             "author": {
                 "name": "tmillr",
@@ -17,14 +28,47 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60989682?u=6f7037ae72d0c200d65ccb7c438e19d73eabbde5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Just task runner for neovim</div>",
-            "url": "https://github.com/al1-ce/just.nvim",
-            "title": "al1-ce/just.nvim: Just task runner for neovim",
-            "date_modified": "2024-10-16T21:37:17.000Z",
-            "date_published": "2024-05-19T09:21:30.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/59481467?u=eeb803cf0d0f40c7d2a14f1c7e4b9ccd54030e3f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to reveal whitespace characters in visual mode, like VSCode</div>",
+            "url": "https://github.com/mcauley-penney/visual-whitespace.nvim",
+            "title": "mcauley-penney/visual-whitespace.nvim: A Neovim plugin to reveal whitespace characters in visual mode, like VSCode",
+            "date_modified": "2024-10-16T22:44:42.000Z",
+            "date_published": "2024-03-09T19:15:13.000Z",
             "author": {
-                "name": "al1-ce",
-                "url": "https://github.com/al1-ce"
+                "name": "mcauley-penney",
+                "url": "https://github.com/mcauley-penney"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/95718239?u=4d4b5475d175ebd042dc8d3b0d92f1db63333b25&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Archivo de configuración de neovim. Plugins incluidos</div>",
+            "url": "https://github.com/JonnerPaz/nvim-config",
+            "title": "JonnerPaz/nvim-config: Archivo de configuración de neovim. Plugins incluidos",
+            "date_modified": "2024-10-16T22:27:05.000Z",
+            "date_published": "2022-08-04T18:02:15.000Z",
+            "author": {
+                "name": "JonnerPaz",
+                "url": "https://github.com/JonnerPaz"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-16T22:19:07.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31730729?u=9b5f151994618c616e2e1a4ec5d87a5da3113db9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Status column plugin that provides a configurable 'statuscolumn' and click handlers.</div>",
+            "url": "https://github.com/luukvbaal/statuscol.nvim",
+            "title": "luukvbaal/statuscol.nvim: Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
+            "date_modified": "2024-10-16T22:10:47.000Z",
+            "date_published": "2022-11-21T12:04:24.000Z",
+            "author": {
+                "name": "luukvbaal",
+                "url": "https://github.com/luukvbaal"
             }
         },
         {
@@ -36,17 +80,6 @@
             "author": {
                 "name": "cenk1cenk2",
                 "url": "https://github.com/cenk1cenk2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-16T21:18:50.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -97,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/541289?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that displays interactive vertical scrollbars and signs.</div>",
             "url": "https://github.com/dstein64/nvim-scrollview",
             "title": "dstein64/nvim-scrollview: A Neovim plugin that displays interactive vertical scrollbars and signs.",
-            "date_modified": "2024-10-16T21:46:49.000Z",
+            "date_modified": "2024-10-16T22:25:52.000Z",
             "date_published": "2020-12-10T01:51:20.000Z",
             "author": {
                 "name": "dstein64",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "rootiest",
                 "url": "https://github.com/rootiest"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6261276?u=8d1652d821d4766a58014ff91283e68dcf92a563&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>free AI completion plugin for neovim</div>",
-            "url": "https://github.com/monkoose/neocodeium",
-            "title": "monkoose/neocodeium: free AI completion plugin for neovim",
-            "date_modified": "2024-10-16T18:26:39.000Z",
-            "date_published": "2024-04-01T15:01:46.000Z",
-            "author": {
-                "name": "monkoose",
-                "url": "https://github.com/monkoose"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108037606?u=634a02ce88ff1f53f636e9c1327d11b5033b6d01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal, contrast-based, dark &amp; light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
-            "url": "https://github.com/ccxnu/rosebones",
-            "title": "ccxnu/rosebones: A minimal, contrast-based, dark & light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
-            "date_modified": "2024-10-16T18:17:02.000Z",
-            "date_published": "2024-03-01T06:15:30.000Z",
-            "author": {
-                "name": "ccxnu",
-                "url": "https://github.com/ccxnu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46537983?u=0dfccceecac7a23fc8323951bce3a5b08f8d6aef&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#</div>",
-            "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
-            "title": "GustavEikaas/easy-dotnet.nvim: Neovim plugin written in Lua for working with .Net projects in Neovim. Makes it easier to run/test/build/debug projects. Supports both F# and C#",
-            "date_modified": "2024-10-16T17:55:15.000Z",
-            "date_published": "2024-04-02T18:24:40.000Z",
-            "author": {
-                "name": "GustavEikaas",
-                "url": "https://github.com/GustavEikaas"
             }
         }
     ]
