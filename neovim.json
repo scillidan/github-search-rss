@@ -6,14 +6,80 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-10-16T12:12:57.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226654?u=42669bdd5c052036c28e36f704d0252339629ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Activate is a plugin installation system for Neovim</div>",
+            "url": "https://github.com/roobert/activate.nvim",
+            "title": "roobert/activate.nvim: 🚀 Activate is a plugin installation system for Neovim",
+            "date_modified": "2024-10-16T12:06:14.000Z",
+            "date_published": "2023-09-06T21:22:57.000Z",
+            "author": {
+                "name": "roobert",
+                "url": "https://github.com/roobert"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94347?u=3c20d911f52b67d901e79d8267215541149c55a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin providing LuaSnip snippets for Kotlin and for an opinionated selection of Kotlin libraries</div>",
+            "url": "https://github.com/franckrasolo/luasnip4k.nvim",
+            "title": "franckrasolo/luasnip4k.nvim: Neovim plugin providing LuaSnip snippets for Kotlin and for an opinionated selection of Kotlin libraries",
+            "date_modified": "2024-10-16T11:44:29.000Z",
+            "date_published": "2024-10-08T19:15:57.000Z",
+            "author": {
+                "name": "franckrasolo",
+                "url": "https://github.com/franckrasolo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42336339?u=ae47a1fd00a33680286ee4777066312b862ce01f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for editing GNU gettext PO files</div>",
+            "url": "https://github.com/toku-sa-n/po.nvim",
+            "title": "toku-sa-n/po.nvim: Neovim plugin for editing GNU gettext PO files",
+            "date_modified": "2024-10-16T11:34:23.000Z",
+            "date_published": "2024-10-07T09:35:12.000Z",
+            "author": {
+                "name": "toku-sa-n",
+                "url": "https://github.com/toku-sa-n"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
             "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
             "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-16T10:20:08.000Z",
+            "date_modified": "2024-10-16T11:19:38.000Z",
             "date_published": "2024-05-26T17:25:07.000Z",
             "author": {
                 "name": "zachcoyle",
                 "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77670158?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that control media players that supports MPRIS using playerctl</div>",
+            "url": "https://github.com/alexxGmZ/player.nvim",
+            "title": "alexxGmZ/player.nvim: A Neovim plugin that control media players that supports MPRIS using playerctl",
+            "date_modified": "2024-10-16T11:12:03.000Z",
+            "date_published": "2024-10-08T01:22:31.000Z",
+            "author": {
+                "name": "alexxGmZ",
+                "url": "https://github.com/alexxGmZ"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-10-16T11:38:51.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
             }
         },
         {
@@ -149,80 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/77670158?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that control media players that supports MPRIS using playerctl</div>",
-            "url": "https://github.com/alexxGmZ/player.nvim",
-            "title": "alexxGmZ/player.nvim: A Neovim plugin that control media players that supports MPRIS using playerctl",
-            "date_modified": "2024-10-16T06:50:23.000Z",
-            "date_published": "2024-10-08T01:22:31.000Z",
-            "author": {
-                "name": "alexxGmZ",
-                "url": "https://github.com/alexxGmZ"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1944737?u=332bc622caf244ab850c2c4d0a4d570277f81b4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to work GitHub PRs quickly.</div>",
             "url": "https://github.com/daliusd/ghlite.nvim",
             "title": "daliusd/ghlite.nvim: Neovim plugin to work GitHub PRs quickly.",
-            "date_modified": "2024-10-16T10:47:07.000Z",
+            "date_modified": "2024-10-16T12:14:24.000Z",
             "date_published": "2024-10-12T20:33:18.000Z",
             "author": {
                 "name": "daliusd",
                 "url": "https://github.com/daliusd"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13227428?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Mai Pull Request is a Neovim plugin that helps you generate commit messages and pull requests directly from your Neovim editor.</div>",
-            "url": "https://github.com/ryanvu/mai_pr.nvim",
-            "title": "ryanvu/mai_pr.nvim: Mai Pull Request is a Neovim plugin that helps you generate commit messages and pull requests directly from your Neovim editor.",
-            "date_modified": "2024-10-16T06:19:05.000Z",
-            "date_published": "2024-10-01T20:41:27.000Z",
-            "author": {
-                "name": "ryanvu",
-                "url": "https://github.com/ryanvu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin for asynchronous walk files</div>",
-            "url": "https://github.com/yukimemi/asyncwalker.vim",
-            "title": "yukimemi/asyncwalker.vim: Vim plugin for asynchronous walk files",
-            "date_modified": "2024-10-16T06:08:36.000Z",
-            "date_published": "2021-04-03T09:50:54.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6442108?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Vim plugin for asynchronous search</div>",
-            "url": "https://github.com/yukimemi/asyncsearcher.vim",
-            "title": "yukimemi/asyncsearcher.vim: Vim plugin for asynchronous search",
-            "date_modified": "2024-10-16T06:08:33.000Z",
-            "date_published": "2021-03-14T15:27:03.000Z",
-            "author": {
-                "name": "yukimemi",
-                "url": "https://github.com/yukimemi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/226654?u=42669bdd5c052036c28e36f704d0252339629ef0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Activate is a plugin installation system for Neovim</div>",
-            "url": "https://github.com/roobert/activate.nvim",
-            "title": "roobert/activate.nvim: 🚀 Activate is a plugin installation system for Neovim",
-            "date_modified": "2024-10-16T06:05:10.000Z",
-            "date_published": "2023-09-06T21:22:57.000Z",
-            "author": {
-                "name": "roobert",
-                "url": "https://github.com/roobert"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102438457?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal MacOS configuration that includes custom Lua scripts for configuring Neovim and menubar plugins, optimizing the development environment and boosting productivity.</div>",
-            "url": "https://github.com/SZSage/dotfiles",
-            "title": "SZSage/dotfiles: My personal MacOS configuration that includes custom Lua scripts for configuring Neovim and menubar plugins, optimizing the development environment and boosting productivity.",
-            "date_modified": "2024-10-16T05:19:54.000Z",
-            "date_published": "2024-07-02T21:38:38.000Z",
-            "author": {
-                "name": "SZSage",
-                "url": "https://github.com/SZSage"
             }
         }
     ]
