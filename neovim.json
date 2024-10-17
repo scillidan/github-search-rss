@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1177725?u=3692393df03c7479a7ec75c6754d05bc2fca1230&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that replays changes between two git commits using vim motions</div>",
+            "url": "https://github.com/maxbol/git-playback.nvim",
+            "title": "maxbol/git-playback.nvim: Neovim plugin that replays changes between two git commits using vim motions",
+            "date_modified": "2024-10-17T10:10:38.000Z",
+            "date_published": "2024-10-17T10:08:39.000Z",
+            "author": {
+                "name": "maxbol",
+                "url": "https://github.com/maxbol"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/172478629?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin to run python files in the terminal.</div>",
+            "url": "https://github.com/Neiklneev/devtools",
+            "title": "Neiklneev/devtools: A Neovim Plugin to run python files in the terminal.",
+            "date_modified": "2024-10-17T09:52:25.000Z",
+            "date_published": "2024-10-17T09:52:21.000Z",
+            "author": {
+                "name": "Neiklneev",
+                "url": "https://github.com/Neiklneev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nvim Node.js client and plugin host</div>",
+            "url": "https://github.com/neovim/node-client",
+            "title": "neovim/node-client: Nvim Node.js client and plugin host",
+            "date_modified": "2024-10-17T09:38:25.000Z",
+            "date_published": "2015-02-11T14:23:57.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
+            "url": "https://github.com/nvim-plugnplay/database",
+            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
+            "date_modified": "2024-10-17T09:21:37.000Z",
+            "date_published": "2022-01-26T14:40:01.000Z",
+            "author": {
+                "name": "nvim-plugnplay",
+                "url": "https://github.com/nvim-plugnplay"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24771416?u=2c4a42c0f7f769abd3e87f5d8bfb9d3b3b7e980d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim/Neovim plugin to complete closing pair on newline.</div>",
+            "url": "https://github.com/mityu/vim-gyoza",
+            "title": "mityu/vim-gyoza: A Vim/Neovim plugin to complete closing pair on newline.",
+            "date_modified": "2024-10-17T09:19:48.000Z",
+            "date_published": "2024-04-02T11:12:52.000Z",
+            "author": {
+                "name": "mityu",
+                "url": "https://github.com/mityu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-17T09:19:26.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105197699?u=9a0788b260129a671dba7e5786de55901b9a05f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal neovim dotfiles with stock lazy and a few plugins</div>",
+            "url": "https://github.com/LtauV/my-nvim-dotfiles",
+            "title": "LtauV/my-nvim-dotfiles: My personal neovim dotfiles with stock lazy and a few plugins",
+            "date_modified": "2024-10-17T09:24:55.000Z",
+            "date_published": "2024-10-11T11:14:02.000Z",
+            "author": {
+                "name": "LtauV",
+                "url": "https://github.com/LtauV"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/38700?u=575720170860166a9d4cfe3fd1a11350012f16e1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</div>",
             "url": "https://github.com/mfussenegger/nvim-lint",
             "title": "mfussenegger/nvim-lint: An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
@@ -25,17 +102,6 @@
             "author": {
                 "name": "mfussenegger",
                 "url": "https://github.com/mfussenegger"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-17T08:19:42.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -127,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/98471230?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugins database used by plugnplay</div>",
-            "url": "https://github.com/nvim-plugnplay/database",
-            "title": "nvim-plugnplay/database: Neovim plugins database used by plugnplay",
-            "date_modified": "2024-10-17T05:20:24.000Z",
-            "date_published": "2022-01-26T14:40:01.000Z",
-            "author": {
-                "name": "nvim-plugnplay",
-                "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88267951?u=fc81290fd84a5eff2d2d799056b5e879396f5c63&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin that automatically hides line numbers when entering terminal mode and restores them when leaving.</div>",
             "url": "https://github.com/Sayyidalijufri/termlinehide.nvim",
             "title": "Sayyidalijufri/termlinehide.nvim: A Neovim plugin that automatically hides line numbers when entering terminal mode and restores them when leaving.",
@@ -163,66 +218,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
             "url": "https://github.com/rockerBOO/awesome-neovim",
             "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
-            "date_modified": "2024-10-17T07:19:11.000Z",
+            "date_modified": "2024-10-17T09:28:42.000Z",
             "date_published": "2020-09-18T18:40:59.000Z",
             "author": {
                 "name": "rockerBOO",
                 "url": "https://github.com/rockerBOO"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181266436?u=1dc61e47d7bb987881de4b9b1e58f5b505171c82&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim for Typescript Angular and Lua plugin</div>",
-            "url": "https://github.com/vanpapoet/neovim-angular",
-            "title": "vanpapoet/neovim-angular: Neovim for Typescript Angular and Lua plugin",
-            "date_modified": "2024-10-17T03:51:57.000Z",
-            "date_published": "2024-10-12T08:51:16.000Z",
-            "author": {
-                "name": "vanpapoet",
-                "url": "https://github.com/vanpapoet"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65822?u=2da3d16b8fd8de7241c3821af51519a1eda207e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for neodba</div>",
-            "url": "https://github.com/thiru/neodba.nvim",
-            "title": "thiru/neodba.nvim: Neovim plugin for neodba",
-            "date_modified": "2024-10-17T03:25:10.000Z",
-            "date_published": "2024-05-05T04:21:16.000Z",
-            "author": {
-                "name": "thiru",
-                "url": "https://github.com/thiru"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight &amp; high performance UI plugin for nvchad</div>",
-            "url": "https://github.com/NvChad/ui",
-            "title": "NvChad/ui: Lightweight & high performance UI plugin for nvchad",
-            "date_modified": "2024-10-17T02:38:15.000Z",
-            "date_published": "2022-07-14T10:20:35.000Z",
-            "author": {
-                "name": "NvChad",
-                "url": "https://github.com/NvChad"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1149238?u=1449eae7884be9567a5b1103a42c0bfe3bb805b8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A theme, config and collection of plugins for Neovim</div>",
-            "url": "https://github.com/prurigro/darkcloud-nvimconfig",
-            "title": "prurigro/darkcloud-nvimconfig: A theme, config and collection of plugins for Neovim",
-            "date_modified": "2024-10-17T02:02:36.000Z",
-            "date_published": "2024-03-02T03:22:29.000Z",
-            "author": {
-                "name": "prurigro",
-                "url": "https://github.com/prurigro"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
-            "url": "https://github.com/folke/neoconf.nvim",
-            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-10-17T01:30:07.000Z",
-            "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         }
     ]
