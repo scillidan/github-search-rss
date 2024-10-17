@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15027?u=522c7e68ec3610cdd8491c20f170bd67f90d3c3b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Collections of awesome neovim plugins.</div>",
+            "url": "https://github.com/rockerBOO/awesome-neovim",
+            "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
+            "date_modified": "2024-10-17T04:00:10.000Z",
+            "date_published": "2020-09-18T18:40:59.000Z",
+            "author": {
+                "name": "rockerBOO",
+                "url": "https://github.com/rockerBOO"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/181266436?u=1dc61e47d7bb987881de4b9b1e58f5b505171c82&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim for Typescript Angular and Lua plugin</div>",
+            "url": "https://github.com/vanpapoet/neovim-angular",
+            "title": "vanpapoet/neovim-angular: Neovim for Typescript Angular and Lua plugin",
+            "date_modified": "2024-10-17T03:51:57.000Z",
+            "date_published": "2024-10-12T08:51:16.000Z",
+            "author": {
+                "name": "vanpapoet",
+                "url": "https://github.com/vanpapoet"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65822?u=2da3d16b8fd8de7241c3821af51519a1eda207e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for neodba</div>",
+            "url": "https://github.com/thiru/neodba.nvim",
+            "title": "thiru/neodba.nvim: Neovim plugin for neodba",
+            "date_modified": "2024-10-17T03:25:10.000Z",
+            "date_published": "2024-05-05T04:21:16.000Z",
+            "author": {
+                "name": "thiru",
+                "url": "https://github.com/thiru"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-17T03:21:09.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight &amp; high performance UI plugin for nvchad</div>",
             "url": "https://github.com/NvChad/ui",
             "title": "NvChad/ui: Lightweight & high performance UI plugin for nvchad",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "NvChad",
                 "url": "https://github.com/NvChad"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-17T02:35:38.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -119,7 +152,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
             "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-10-17T02:12:42.000Z",
+            "date_modified": "2024-10-17T03:44:54.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "luukvbaal",
                 "url": "https://github.com/luukvbaal"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26881592?u=0d8d1367c09029c7c18b344fc10ac4e4ec614da6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This plugin wraps around the tmux-toggle-popup plugin to provide a interface to create tmux popup windows in neovim.</div>",
-            "url": "https://github.com/cenk1cenk2/tmux-toggle-popup.nvim",
-            "title": "cenk1cenk2/tmux-toggle-popup.nvim: This plugin wraps around the tmux-toggle-popup plugin to provide a interface to create tmux popup windows in neovim.",
-            "date_modified": "2024-10-16T21:32:42.000Z",
-            "date_published": "2024-10-14T20:52:16.000Z",
-            "author": {
-                "name": "cenk1cenk2",
-                "url": "https://github.com/cenk1cenk2"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94347?u=3c20d911f52b67d901e79d8267215541149c55a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin providing LuaSnip snippets for Kotlin and for an opinionated selection of Kotlin libraries</div>",
-            "url": "https://github.com/franckrasolo/luasnip4k.nvim",
-            "title": "franckrasolo/luasnip4k.nvim: Neovim plugin providing LuaSnip snippets for Kotlin and for an opinionated selection of Kotlin libraries",
-            "date_modified": "2024-10-16T21:15:03.000Z",
-            "date_published": "2024-10-08T19:15:57.000Z",
-            "author": {
-                "name": "franckrasolo",
-                "url": "https://github.com/franckrasolo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
-            "url": "https://github.com/Saghen/blink.cmp",
-            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-16T21:37:20.000Z",
-            "date_published": "2024-07-31T01:56:33.000Z",
-            "author": {
-                "name": "Saghen",
-                "url": "https://github.com/Saghen"
             }
         }
     ]
