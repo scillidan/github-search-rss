@@ -6,6 +6,50 @@
     "description": "vim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44314775?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A useless plugin that distracts you from focusing on your work.</div>",
+            "url": "https://github.com/MACAYCZ/vim-balls",
+            "title": "MACAYCZ/vim-balls: A useless plugin that distracts you from focusing on your work.",
+            "date_modified": "2024-10-17T18:12:17.000Z",
+            "date_published": "2024-10-17T18:07:38.000Z",
+            "author": {
+                "name": "MACAYCZ",
+                "url": "https://github.com/MACAYCZ"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300342?u=417e81691305f0f343387a792eb1b0d1d168b49c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…</div>",
+            "url": "https://github.com/liskin/dotfiles",
+            "title": "liskin/dotfiles: My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…",
+            "date_modified": "2024-10-17T17:28:26.000Z",
+            "date_published": "2018-11-19T17:46:04.000Z",
+            "author": {
+                "name": "liskin",
+                "url": "https://github.com/liskin"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24771416?u=2c4a42c0f7f769abd3e87f5d8bfb9d3b3b7e980d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim/Neovim plugin to complete closing pair on newline.</div>",
+            "url": "https://github.com/mityu/vim-gyoza",
+            "title": "mityu/vim-gyoza: A Vim/Neovim plugin to complete closing pair on newline.",
+            "date_modified": "2024-10-17T17:21:17.000Z",
+            "date_published": "2024-04-02T11:12:52.000Z",
+            "author": {
+                "name": "mityu",
+                "url": "https://github.com/mityu"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8360085?u=3204833631ad567399e074b7c61b79ec1c06012e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a Vim text editor script (\"plugin\") that highlights nested ( ), [ ], and { } with different colors to aid readability. It is especially useful for *any* Lisp/Scheme family programming languages.</div>",
+            "url": "https://github.com/WraithGlade/WG-rainbow-vim",
+            "title": "WraithGlade/WG-rainbow-vim: This is a Vim text editor script (\"plugin\") that highlights nested ( ), [ ], and { } with different colors to aid readability. It is especially useful for *any* Lisp/Scheme family programming languages.",
+            "date_modified": "2024-10-17T17:19:27.000Z",
+            "date_published": "2024-09-22T19:28:17.000Z",
+            "author": {
+                "name": "WraithGlade",
+                "url": "https://github.com/WraithGlade"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65244?u=287ac3f738112679e320b1778fb3b1e855ed4239&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Parse and analyze your vim plugins, from Rust &amp; Python!</div>",
             "url": "https://github.com/dbarnett/vim-plugin-metadata",
             "title": "dbarnett/vim-plugin-metadata: Parse and analyze your vim plugins, from Rust & Python!",
@@ -14,17 +58,6 @@
             "author": {
                 "name": "dbarnett",
                 "url": "https://github.com/dbarnett"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24771416?u=2c4a42c0f7f769abd3e87f5d8bfb9d3b3b7e980d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim/Neovim plugin to complete closing pair on newline.</div>",
-            "url": "https://github.com/mityu/vim-gyoza",
-            "title": "mityu/vim-gyoza: A Vim/Neovim plugin to complete closing pair on newline.",
-            "date_modified": "2024-10-17T16:10:49.000Z",
-            "date_published": "2024-04-02T11:12:52.000Z",
-            "author": {
-                "name": "mityu",
-                "url": "https://github.com/mityu"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "romgrk",
                 "url": "https://github.com/romgrk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45028928?u=a69faba06ec8ac5c4fba47970ea02d4d24fc8f32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Never manually save/write a buffer again!</div>",
-            "url": "https://github.com/tmillr/sos.nvim",
-            "title": "tmillr/sos.nvim: Never manually save/write a buffer again!",
-            "date_modified": "2024-10-16T22:51:17.000Z",
-            "date_published": "2022-10-18T12:52:35.000Z",
-            "author": {
-                "name": "tmillr",
-                "url": "https://github.com/tmillr"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165517653?u=c35ff8b757ebef2bd388f5c236ed5c8aa84d1f79&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.</div>",
-            "url": "https://github.com/jkeresman01/java-maven-test.nvim",
-            "title": "jkeresman01/java-maven-test.nvim: Neovim plugin that allows you to  easily search and execute your tests within Neovim, using fuzzy find functionality.",
-            "date_modified": "2024-10-16T19:30:06.000Z",
-            "date_published": "2024-07-16T19:38:47.000Z",
-            "author": {
-                "name": "jkeresman01",
-                "url": "https://github.com/jkeresman01"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108037606?u=634a02ce88ff1f53f636e9c1327d11b5033b6d01&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal, contrast-based, dark &amp; light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.</div>",
-            "url": "https://github.com/ccxnu/rosebones",
-            "title": "ccxnu/rosebones: A minimal, contrast-based, dark & light Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
-            "date_modified": "2024-10-16T18:17:02.000Z",
-            "date_published": "2024-03-01T06:15:30.000Z",
-            "author": {
-                "name": "ccxnu",
-                "url": "https://github.com/ccxnu"
             }
         }
     ]
