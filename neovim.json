@@ -6,6 +6,50 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14217740?u=fb6c4ec4a372e4dfa45f6811e42a734bbb715cdb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin to dynamically resize panes</div>",
+            "url": "https://github.com/mboyov/pane-resizer.nvim",
+            "title": "mboyov/pane-resizer.nvim: A Neovim plugin to dynamically resize panes",
+            "date_modified": "2024-10-20T13:14:04.000Z",
+            "date_published": "2024-10-19T19:23:42.000Z",
+            "author": {
+                "name": "mboyov",
+                "url": "https://github.com/mboyov"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/86836498?u=1e09f760eb984a20a04c30a4325c2b4af982cb3c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My NeoVim plugins and settings to work with frontend development.</div>",
+            "url": "https://github.com/yerkocodes/nvim",
+            "title": "yerkocodes/nvim: My NeoVim plugins and settings to work with frontend development.",
+            "date_modified": "2024-10-20T13:03:46.000Z",
+            "date_published": "2021-07-31T18:49:18.000Z",
+            "author": {
+                "name": "yerkocodes",
+                "url": "https://github.com/yerkocodes"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/29335192?u=2b9f85d0b719b194691e5795d08d4f075ee9d1c0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>collama.nvim is a Neovim plugin that leverages Ollama to provide source code completion capabilities similar to GitHub Copilot.</div>",
+            "url": "https://github.com/yuys13/collama.nvim",
+            "title": "yuys13/collama.nvim: collama.nvim is a Neovim plugin that leverages Ollama to provide source code completion capabilities similar to GitHub Copilot.",
+            "date_modified": "2024-10-20T12:26:21.000Z",
+            "date_published": "2024-02-23T07:05:28.000Z",
+            "author": {
+                "name": "yuys13",
+                "url": "https://github.com/yuys13"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-20T12:20:52.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
             "url": "https://github.com/nvim-neorocks/nurr",
             "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
@@ -14,6 +58,17 @@
             "author": {
                 "name": "nvim-neorocks",
                 "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50913410?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for forester</div>",
+            "url": "https://github.com/kentookura/forester.nvim",
+            "title": "kentookura/forester.nvim: Neovim plugin for forester",
+            "date_modified": "2024-10-20T13:06:37.000Z",
+            "date_published": "2023-12-12T13:57:24.000Z",
+            "author": {
+                "name": "kentookura",
+                "url": "https://github.com/kentookura"
             }
         },
         {
@@ -160,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-20T09:18:37.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/107814000?u=bfaa30cf09518e9ecb6a9ddcd48349ee91ef6a05&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A list of vim/neovim plugins(/extensions for plugins)</div>",
             "url": "https://github.com/altermo/vim-plugin-list",
             "title": "altermo/vim-plugin-list: A list of vim/neovim plugins(/extensions for plugins)",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "altermo",
                 "url": "https://github.com/altermo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.</div>",
-            "url": "https://github.com/frankroeder/parrot.nvim",
-            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.",
-            "date_modified": "2024-10-20T09:03:03.000Z",
-            "date_published": "2023-08-15T10:16:36.000Z",
-            "author": {
-                "name": "frankroeder",
-                "url": "https://github.com/frankroeder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1219667?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>vim plugin that makes vim syntax highlighting engine available in pandoc</div>",
-            "url": "https://github.com/lyokha/vim-publish-helper",
-            "title": "lyokha/vim-publish-helper: vim plugin that makes vim syntax highlighting engine available in pandoc",
-            "date_modified": "2024-10-20T08:55:32.000Z",
-            "date_published": "2014-01-02T18:56:17.000Z",
-            "author": {
-                "name": "lyokha",
-                "url": "https://github.com/lyokha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55551571?u=c5e5d2eb0fedeb2cebb8cfbcb69fb7c7c37384c6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim plugin for CSV file editing.</div>",
-            "url": "https://github.com/hat0uma/csvview.nvim",
-            "title": "hat0uma/csvview.nvim: A Neovim plugin for CSV file editing.",
-            "date_modified": "2024-10-20T08:32:58.000Z",
-            "date_published": "2023-10-25T14:49:20.000Z",
-            "author": {
-                "name": "hat0uma",
-                "url": "https://github.com/hat0uma"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/99483158?u=37ac3c12b87673525bc41e3cfc8dc7365d31d8b3&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a neovim plugin for window indication.</div>",
-            "url": "https://github.com/Antony-AXS/indicator.nvim",
-            "title": "Antony-AXS/indicator.nvim: a neovim plugin for window indication.",
-            "date_modified": "2024-10-20T07:54:08.000Z",
-            "date_published": "2024-08-17T05:30:39.000Z",
-            "author": {
-                "name": "Antony-AXS",
-                "url": "https://github.com/Antony-AXS"
             }
         }
     ]
