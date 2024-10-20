@@ -6,6 +6,28 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7116001?u=4d3371c26a97b42f7666bb9c27ff49067d48983d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim/Neovim plugin that grays out inactive C/C++/Obj-C preprocessor regions.</div>",
+            "url": "https://github.com/mphe/grayout.vim",
+            "title": "mphe/grayout.vim: A Vim/Neovim plugin that grays out inactive C/C++/Obj-C preprocessor regions.",
+            "date_modified": "2024-10-20T15:39:06.000Z",
+            "date_published": "2016-04-15T17:22:37.000Z",
+            "author": {
+                "name": "mphe",
+                "url": "https://github.com/mphe"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-20T15:19:53.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30594?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for OCaml development</div>",
             "url": "https://github.com/andreypopp/ocaml.nvim",
             "title": "andreypopp/ocaml.nvim: neovim plugin for OCaml development",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Eye candy interactive timer plugin for Neovim</div>",
             "url": "https://github.com/NvChad/timerly",
             "title": "NvChad/timerly: Eye candy interactive timer plugin for Neovim",
-            "date_modified": "2024-10-20T15:01:19.000Z",
+            "date_modified": "2024-10-20T15:47:26.000Z",
             "date_published": "2024-10-20T06:53:15.000Z",
             "author": {
                 "name": "NvChad",
@@ -58,17 +80,6 @@
             "author": {
                 "name": "NixNeovim",
                 "url": "https://github.com/NixNeovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-20T14:18:19.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "ocaml-mlx",
                 "url": "https://github.com/ocaml-mlx"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use rocks.nvim to install plugins from git!</div>",
-            "url": "https://github.com/nvim-neorocks/rocks-git.nvim",
-            "title": "nvim-neorocks/rocks-git.nvim: Use rocks.nvim to install plugins from git!",
-            "date_modified": "2024-10-20T10:51:40.000Z",
-            "date_published": "2023-12-17T19:44:30.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
             }
         }
     ]
