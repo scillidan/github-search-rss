@@ -6,14 +6,113 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim</div>",
+            "url": "https://github.com/ray-x/go.nvim",
+            "title": "ray-x/go.nvim: G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim",
+            "date_modified": "2024-10-21T00:44:26.000Z",
+            "date_published": "2021-03-10T10:23:02.000Z",
+            "author": {
+                "name": "ray-x",
+                "url": "https://github.com/ray-x"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39128592?u=47e929aa8bef5f74310a8b35f59742f1e722e5c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modern, modular, and efficient Neovim configuration built with Lua. This setup leverages powerful plugins, custom keybindings, and optimized settings to enhance my coding experience.</div>",
+            "url": "https://github.com/Saiiru/neovim",
+            "title": "Saiiru/neovim: A modern, modular, and efficient Neovim configuration built with Lua. This setup leverages powerful plugins, custom keybindings, and optimized settings to enhance my coding experience.",
+            "date_modified": "2024-10-21T00:44:02.000Z",
+            "date_published": "2024-10-20T20:13:00.000Z",
+            "author": {
+                "name": "Saiiru",
+                "url": "https://github.com/Saiiru"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
+            "url": "https://github.com/nvim-neorocks/nurr",
+            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
+            "date_modified": "2024-10-21T00:35:56.000Z",
+            "date_published": "2024-03-01T19:42:19.000Z",
+            "author": {
+                "name": "nvim-neorocks",
+                "url": "https://github.com/nvim-neorocks"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6496887?u=d77de98f2e7183dc6dff2c80851d3516db225408&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Load all the ultra colorschemes into Neovim player!</div>",
+            "url": "https://github.com/linrongbin16/colorbox.nvim",
+            "title": "linrongbin16/colorbox.nvim: Load all the ultra colorschemes into Neovim player!",
+            "date_modified": "2024-10-21T00:19:42.000Z",
+            "date_published": "2023-03-03T01:03:56.000Z",
+            "author": {
+                "name": "linrongbin16",
+                "url": "https://github.com/linrongbin16"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46924944?u=52675686ad8d352219815f67c35358b668c0dcfb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/LongerHV/neovim-plugins-overlay",
+            "title": "LongerHV/neovim-plugins-overlay",
+            "date_modified": "2024-10-21T00:17:02.000Z",
+            "date_published": "2022-12-22T21:42:57.000Z",
+            "author": {
+                "name": "LongerHV",
+                "url": "https://github.com/LongerHV"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
+            "url": "https://github.com/Saghen/blink.cmp",
+            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
+            "date_modified": "2024-10-21T00:11:57.000Z",
+            "date_published": "2024-07-31T01:56:33.000Z",
+            "author": {
+                "name": "Saghen",
+                "url": "https://github.com/Saghen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div></div>",
+            "url": "https://github.com/yutkat/new-neovim-plugin-rss",
+            "title": "yutkat/new-neovim-plugin-rss",
+            "date_modified": "2024-10-21T00:04:56.000Z",
+            "date_published": "2022-08-28T04:58:40.000Z",
+            "author": {
+                "name": "yutkat",
+                "url": "https://github.com/yutkat"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)</div>",
             "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
             "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
-            "date_modified": "2024-10-20T22:45:18.000Z",
+            "date_modified": "2024-10-21T00:03:16.000Z",
             "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
                 "name": "wojciech-kulik",
                 "url": "https://github.com/wojciech-kulik"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-20T23:18:44.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131040222?u=0daeb796d17577c43ec59ecbe7471cc51c24ea40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this is NOT a neovim plugin this is a neovim DISTRO.</div>",
+            "url": "https://github.com/devHeadset/cat.nvim",
+            "title": "devHeadset/cat.nvim: this is NOT a neovim plugin this is a neovim DISTRO.",
+            "date_modified": "2024-10-20T23:14:21.000Z",
+            "date_published": "2024-10-18T10:14:19.000Z",
+            "author": {
+                "name": "devHeadset",
+                "url": "https://github.com/devHeadset"
             }
         },
         {
@@ -25,17 +124,6 @@
             "author": {
                 "name": "MarkFuller1",
                 "url": "https://github.com/MarkFuller1"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-20T22:19:42.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -94,17 +182,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39128592?u=47e929aa8bef5f74310a8b35f59742f1e722e5c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modern, modular, and efficient Neovim configuration built with Lua. This setup leverages powerful plugins, custom keybindings, and optimized settings to enhance my coding experience.</div>",
-            "url": "https://github.com/Saiiru/neovim",
-            "title": "Saiiru/neovim: A modern, modular, and efficient Neovim configuration built with Lua. This setup leverages powerful plugins, custom keybindings, and optimized settings to enhance my coding experience.",
-            "date_modified": "2024-10-20T20:13:03.000Z",
-            "date_published": "2024-10-20T20:13:00.000Z",
-            "author": {
-                "name": "Saiiru",
-                "url": "https://github.com/Saiiru"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65822?u=2da3d16b8fd8de7241c3821af51519a1eda207e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for neodba</div>",
             "url": "https://github.com/thiru/neodba.nvim",
             "title": "thiru/neodba.nvim: Neovim plugin for neodba",
@@ -146,83 +223,6 @@
             "author": {
                 "name": "brianhuster",
                 "url": "https://github.com/brianhuster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81938215?u=679ebf31274fcb30f2feb0580faa03af63869485&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Nix flake of Awesome Neovim plugins</div>",
-            "url": "https://github.com/m15a/flake-awesome-neovim-plugins",
-            "title": "m15a/flake-awesome-neovim-plugins: Nix flake of Awesome Neovim plugins",
-            "date_modified": "2024-10-20T17:23:55.000Z",
-            "date_published": "2021-12-11T08:13:56.000Z",
-            "author": {
-                "name": "m15a",
-                "url": "https://github.com/m15a"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Eye candy interactive timer plugin for Neovim</div>",
-            "url": "https://github.com/NvChad/timerly",
-            "title": "NvChad/timerly: Eye candy interactive timer plugin for Neovim",
-            "date_modified": "2024-10-20T19:34:11.000Z",
-            "date_published": "2024-10-20T06:53:15.000Z",
-            "author": {
-                "name": "NvChad",
-                "url": "https://github.com/NvChad"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use rocks.nvim to install plugins from git!</div>",
-            "url": "https://github.com/nvim-neorocks/rocks-git.nvim",
-            "title": "nvim-neorocks/rocks-git.nvim: Use rocks.nvim to install plugins from git!",
-            "date_modified": "2024-10-20T16:48:01.000Z",
-            "date_published": "2023-12-17T19:44:30.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin for creating reactive UI  in neovim</div>",
-            "url": "https://github.com/NvChad/volt",
-            "title": "NvChad/volt: Plugin for creating reactive UI  in neovim",
-            "date_modified": "2024-10-20T16:39:29.000Z",
-            "date_published": "2024-09-11T03:45:07.000Z",
-            "author": {
-                "name": "NvChad",
-                "url": "https://github.com/NvChad"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7116001?u=4d3371c26a97b42f7666bb9c27ff49067d48983d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Vim/Neovim plugin that grays out inactive C/C++/Obj-C preprocessor regions.</div>",
-            "url": "https://github.com/mphe/grayout.vim",
-            "title": "mphe/grayout.vim: A Vim/Neovim plugin that grays out inactive C/C++/Obj-C preprocessor regions.",
-            "date_modified": "2024-10-20T15:39:06.000Z",
-            "date_published": "2016-04-15T17:22:37.000Z",
-            "author": {
-                "name": "mphe",
-                "url": "https://github.com/mphe"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30594?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugin for OCaml development</div>",
-            "url": "https://github.com/andreypopp/ocaml.nvim",
-            "title": "andreypopp/ocaml.nvim: neovim plugin for OCaml development",
-            "date_modified": "2024-10-20T22:31:22.000Z",
-            "date_published": "2024-03-09T14:09:42.000Z",
-            "author": {
-                "name": "andreypopp",
-                "url": "https://github.com/andreypopp"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/166840363?u=84cb0742037413b7a5d51207cc33f2581267530e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim plugins collection</div>",
-            "url": "https://github.com/deitysilver/Neovim-Plugins",
-            "title": "deitysilver/Neovim-Plugins: My neovim plugins collection",
-            "date_modified": "2024-10-20T14:40:46.000Z",
-            "date_published": "2024-10-17T18:17:40.000Z",
-            "author": {
-                "name": "deitysilver",
-                "url": "https://github.com/deitysilver"
             }
         }
     ]
