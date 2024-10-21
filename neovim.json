@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88978340?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Eye candy interactive timer plugin for Neovim</div>",
+            "url": "https://github.com/NvChad/timerly",
+            "title": "NvChad/timerly: Eye candy interactive timer plugin for Neovim",
+            "date_modified": "2024-10-21T02:06:46.000Z",
+            "date_published": "2024-10-20T06:53:15.000Z",
+            "author": {
+                "name": "NvChad",
+                "url": "https://github.com/NvChad"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-21T01:48:08.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/629908?u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A completion plugin for neovim coded in Lua.</div>",
+            "url": "https://github.com/hrsh7th/nvim-cmp",
+            "title": "hrsh7th/nvim-cmp: A completion plugin for neovim coded in Lua.",
+            "date_modified": "2024-10-21T01:35:26.000Z",
+            "date_published": "2021-06-29T18:01:04.000Z",
+            "author": {
+                "name": "hrsh7th",
+                "url": "https://github.com/hrsh7th"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1681295?u=401586e9547150a0f07c7c0892eb57231e5f0df4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim</div>",
             "url": "https://github.com/ray-x/go.nvim",
             "title": "ray-x/go.nvim: G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim",
@@ -86,22 +119,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)</div>",
             "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
             "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
-            "date_modified": "2024-10-21T00:03:16.000Z",
+            "date_modified": "2024-10-21T01:00:56.000Z",
             "date_published": "2023-11-01T17:40:49.000Z",
             "author": {
                 "name": "wojciech-kulik",
                 "url": "https://github.com/wojciech-kulik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-20T23:18:44.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -174,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52591095?u=0efc8aea268a66b1fce64b2393a5720b76542ce8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugin to improve viewing Markdown files in Neovim</div>",
             "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
             "title": "MeanderingProgrammer/render-markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-            "date_modified": "2024-10-20T21:55:09.000Z",
+            "date_modified": "2024-10-21T01:19:44.000Z",
             "date_published": "2024-03-18T04:13:43.000Z",
             "author": {
                 "name": "MeanderingProgrammer",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "hernancerm",
                 "url": "https://github.com/hernancerm"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-10-20T20:50:54.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/111893501?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.</div>",
-            "url": "https://github.com/brianhuster/live-preview.nvim",
-            "title": "brianhuster/live-preview.nvim: A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
-            "date_modified": "2024-10-20T18:03:00.000Z",
-            "date_published": "2024-07-24T10:30:05.000Z",
-            "author": {
-                "name": "brianhuster",
-                "url": "https://github.com/brianhuster"
             }
         }
     ]
