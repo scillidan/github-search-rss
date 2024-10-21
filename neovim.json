@@ -6,6 +6,61 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
+            "url": "https://github.com/yongleyuan/nvim-config",
+            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
+            "date_modified": "2024-10-21T22:36:09.000Z",
+            "date_published": "2024-06-18T01:55:38.000Z",
+            "author": {
+                "name": "yongleyuan",
+                "url": "https://github.com/yongleyuan"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/94347?u=3c20d911f52b67d901e79d8267215541149c55a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin providing LuaSnip snippets for Kotlin and for an opinionated selection of Kotlin libraries</div>",
+            "url": "https://github.com/franckrasolo/luasnip4k.nvim",
+            "title": "franckrasolo/luasnip4k.nvim: Neovim plugin providing LuaSnip snippets for Kotlin and for an opinionated selection of Kotlin libraries",
+            "date_modified": "2024-10-21T22:24:46.000Z",
+            "date_published": "2024-10-08T19:15:57.000Z",
+            "author": {
+                "name": "franckrasolo",
+                "url": "https://github.com/franckrasolo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</div>",
+            "url": "https://github.com/mrcjkb/rustaceanvim",
+            "title": "mrcjkb/rustaceanvim: 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
+            "date_modified": "2024-10-21T22:22:09.000Z",
+            "date_published": "2021-05-11T06:39:38.000Z",
+            "author": {
+                "name": "mrcjkb",
+                "url": "https://github.com/mrcjkb"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65822?u=2da3d16b8fd8de7241c3821af51519a1eda207e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for neodba</div>",
+            "url": "https://github.com/thiru/neodba.nvim",
+            "title": "thiru/neodba.nvim: Neovim plugin for neodba",
+            "date_modified": "2024-10-21T22:19:27.000Z",
+            "date_published": "2024-05-05T04:21:16.000Z",
+            "author": {
+                "name": "thiru",
+                "url": "https://github.com/thiru"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-21T22:18:35.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
             "url": "https://github.com/tamago324/nlsp-settings.nvim",
             "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
@@ -28,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55564584?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My Neovim configurations and plugins from the kickstart by TJ: <a href=\"https://github.com/nvim-lua/kickstart.nvim\">https://github.com/nvim-lua/kickstart.nvim</a></div>",
-            "url": "https://github.com/yongleyuan/nvim-config",
-            "title": "yongleyuan/nvim-config: My Neovim configurations and plugins from the kickstart by TJ: https://github.com/nvim-lua/kickstart.nvim",
-            "date_modified": "2024-10-21T21:27:19.000Z",
-            "date_published": "2024-06-18T01:55:38.000Z",
-            "author": {
-                "name": "yongleyuan",
-                "url": "https://github.com/yongleyuan"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79978224?u=ed8b0d85e3cd1d37ae8cfb15f43b12c828cb828a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>stupid neovim plugin that booms after you're done with grepping</div>",
             "url": "https://github.com/nekowinston/grepping-boom.nvim",
             "title": "nekowinston/grepping-boom.nvim: stupid neovim plugin that booms after you're done with grepping",
@@ -47,17 +91,6 @@
             "author": {
                 "name": "nekowinston",
                 "url": "https://github.com/nekowinston"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-21T21:19:04.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -102,17 +135,6 @@
             "author": {
                 "name": "Saiiru",
                 "url": "https://github.com/Saiiru"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65822?u=2da3d16b8fd8de7241c3821af51519a1eda207e6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for neodba</div>",
-            "url": "https://github.com/thiru/neodba.nvim",
-            "title": "thiru/neodba.nvim: Neovim plugin for neodba",
-            "date_modified": "2024-10-21T20:26:59.000Z",
-            "date_published": "2024-05-05T04:21:16.000Z",
-            "author": {
-                "name": "thiru",
-                "url": "https://github.com/thiru"
             }
         },
         {
@@ -201,28 +223,6 @@
             "author": {
                 "name": "lyokha",
                 "url": "https://github.com/lyokha"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19746932?u=041f891abe37cfb562be195d66e61702066e8b72&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.</div>",
-            "url": "https://github.com/frankroeder/parrot.nvim",
-            "title": "frankroeder/parrot.nvim: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.",
-            "date_modified": "2024-10-21T18:04:04.000Z",
-            "date_published": "2023-08-15T10:16:36.000Z",
-            "author": {
-                "name": "frankroeder",
-                "url": "https://github.com/frankroeder"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/73286100?u=1302c813e30231fdc7f3661b3af69bb9b0d8ef30&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Search neovim plugins and online :help of Neovim and plugins via Alfred.</div>",
-            "url": "https://github.com/chrisgrieser/alfred-neovim-utilities",
-            "title": "chrisgrieser/alfred-neovim-utilities: Search neovim plugins and online :help of Neovim and plugins via Alfred.",
-            "date_modified": "2024-10-21T17:53:24.000Z",
-            "date_published": "2022-11-27T10:48:31.000Z",
-            "author": {
-                "name": "chrisgrieser",
-                "url": "https://github.com/chrisgrieser"
             }
         }
     ]
