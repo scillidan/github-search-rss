@@ -6,6 +6,39 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/120199160?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for working with Aiken on Vim / NeoVim.</div>",
+            "url": "https://github.com/aiken-lang/editor-integration-nvim",
+            "title": "aiken-lang/editor-integration-nvim: A plugin for working with Aiken on Vim / NeoVim.",
+            "date_modified": "2024-10-22T07:50:11.000Z",
+            "date_published": "2022-11-10T10:16:58.000Z",
+            "author": {
+                "name": "aiken-lang",
+                "url": "https://github.com/aiken-lang"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23060735?u=035d49bedb12e703fcdbada42769402c4b982742&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for detecting and trimming trailing whitespace.</div>",
+            "url": "https://github.com/BusterWarn/neo-trim",
+            "title": "BusterWarn/neo-trim: Neovim plugin for detecting and trimming trailing whitespace.",
+            "date_modified": "2024-10-22T07:41:53.000Z",
+            "date_published": "2023-11-18T13:50:19.000Z",
+            "author": {
+                "name": "BusterWarn",
+                "url": "https://github.com/BusterWarn"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-22T07:19:26.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6427795?u=1393e37a79beeff694bcfedcef12435f36a76c76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Experimental Neovim config that doesn't use any external plugins.</div>",
             "url": "https://github.com/pjlast/nvim-no-plugins",
             "title": "pjlast/nvim-no-plugins: Experimental Neovim config that doesn't use any external plugins.",
@@ -116,17 +149,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-22T03:21:28.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/430272?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Image Preview for Neovim 🖼</div>",
             "url": "https://github.com/adelarsq/image_preview.nvim",
             "title": "adelarsq/image_preview.nvim: Image Preview for Neovim 🖼",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "VinceDeslo",
                 "url": "https://github.com/VinceDeslo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131040222?u=0daeb796d17577c43ec59ecbe7471cc51c24ea40&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>this is NOT a neovim plugin this is a neovim DISTRO.</div>",
-            "url": "https://github.com/devHeadset/cat.nvim",
-            "title": "devHeadset/cat.nvim: this is NOT a neovim plugin this is a neovim DISTRO.",
-            "date_modified": "2024-10-22T00:49:09.000Z",
-            "date_published": "2024-10-18T10:14:19.000Z",
-            "author": {
-                "name": "devHeadset",
-                "url": "https://github.com/devHeadset"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173595?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A CLI utility, Rust crate, Lua Rock, Python module, JavaScript module, and Neovim plugin to cast strings to title-case according to locale specific style guides including Turkish support.</div>",
-            "url": "https://github.com/alerque/decasify",
-            "title": "alerque/decasify: A CLI utility, Rust crate, Lua Rock, Python module, JavaScript module, and Neovim plugin to cast strings to title-case according to locale specific style guides including Turkish support.",
-            "date_modified": "2024-10-22T00:43:57.000Z",
-            "date_published": "2023-07-05T14:14:27.000Z",
-            "author": {
-                "name": "alerque",
-                "url": "https://github.com/alerque"
             }
         }
     ]
