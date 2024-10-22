@@ -6,6 +6,83 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23572717?u=7644a15e7739933521638afa5a61b1bb556b03cd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository hosts my personalized Neovim configuration, optimized for an efficient development workflow. It includes custom key mappings, a curated selection of plugins, and tailored settings to enhance coding productivity. Designed for developers looking to streamline their Neovim experience, this setup focuses on usability and performance.</div>",
+            "url": "https://github.com/StuCodeGreen/nvim-setup",
+            "title": "StuCodeGreen/nvim-setup: This repository hosts my personalized Neovim configuration, optimized for an efficient development workflow. It includes custom key mappings, a curated selection of plugins, and tailored settings to enhance coding productivity. Designed for developers looking to streamline their Neovim experience, this setup focuses on usability and performance.",
+            "date_modified": "2024-10-22T23:09:45.000Z",
+            "date_published": "2024-09-25T18:18:51.000Z",
+            "author": {
+                "name": "StuCodeGreen",
+                "url": "https://github.com/StuCodeGreen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/51069488?u=ecdfded359a317cb27b429e02a2360ee4b035223&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins</div>",
+            "url": "https://github.com/cirofabianbermudez/nvim",
+            "title": "cirofabianbermudez/nvim: Simple Neovim setup with the bare minimum, just useful keymaps and essential plugins",
+            "date_modified": "2024-10-22T23:04:55.000Z",
+            "date_published": "2024-03-23T12:20:18.000Z",
+            "author": {
+                "name": "cirofabianbermudez",
+                "url": "https://github.com/cirofabianbermudez"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21010072?u=baddc6f3a16bed79f6ea9466905564d19c1887ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim config for Typescript Angular/Vue and Lua plugin development</div>",
+            "url": "https://github.com/catgoose/nvim",
+            "title": "catgoose/nvim: Neovim config for Typescript Angular/Vue and Lua plugin development",
+            "date_modified": "2024-10-22T23:02:24.000Z",
+            "date_published": "2023-03-05T23:35:23.000Z",
+            "author": {
+                "name": "catgoose",
+                "url": "https://github.com/catgoose"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/173595?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A CLI utility, Rust crate, Lua Rock, Python module, JavaScript module, Neovim plugin, and SILE package to cast strings to title-case according to locale specific style guides including Turkish support.</div>",
+            "url": "https://github.com/alerque/decasify",
+            "title": "alerque/decasify: A CLI utility, Rust crate, Lua Rock, Python module, JavaScript module, Neovim plugin, and SILE package to cast strings to title-case according to locale specific style guides including Turkish support.",
+            "date_modified": "2024-10-22T22:56:57.000Z",
+            "date_published": "2023-07-05T14:14:27.000Z",
+            "author": {
+                "name": "alerque",
+                "url": "https://github.com/alerque"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7420227?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Git source for nvim-cmp</div>",
+            "url": "https://github.com/petertriho/cmp-git",
+            "title": "petertriho/cmp-git: Git source for nvim-cmp",
+            "date_modified": "2024-10-22T22:37:07.000Z",
+            "date_published": "2021-10-24T03:29:23.000Z",
+            "author": {
+                "name": "petertriho",
+                "url": "https://github.com/petertriho"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-22T22:19:58.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-10-22T22:13:36.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Use rocks.nvim to install plugins from git!</div>",
             "url": "https://github.com/nvim-neorocks/rocks-git.nvim",
             "title": "nvim-neorocks/rocks-git.nvim: Use rocks.nvim to install plugins from git!",
@@ -25,17 +102,6 @@
             "author": {
                 "name": "devHeadset",
                 "url": "https://github.com/devHeadset"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-22T21:18:29.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
             }
         },
         {
@@ -157,72 +223,6 @@
             "author": {
                 "name": "brianhuster",
                 "url": "https://github.com/brianhuster"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79978224?u=ed8b0d85e3cd1d37ae8cfb15f43b12c828cb828a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>stupid neovim plugin that booms after you're done with grepping</div>",
-            "url": "https://github.com/nekowinston/grepping-boom.nvim",
-            "title": "nekowinston/grepping-boom.nvim: stupid neovim plugin that booms after you're done with grepping",
-            "date_modified": "2024-10-22T17:09:42.000Z",
-            "date_published": "2024-10-21T20:52:54.000Z",
-            "author": {
-                "name": "nekowinston",
-                "url": "https://github.com/nekowinston"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
-            "url": "https://github.com/Saghen/blink.cmp",
-            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-22T22:06:13.000Z",
-            "date_published": "2024-07-31T01:56:33.000Z",
-            "author": {
-                "name": "Saghen",
-                "url": "https://github.com/Saghen"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3128467?u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)</div>",
-            "url": "https://github.com/wojciech-kulik/xcodebuild.nvim",
-            "title": "wojciech-kulik/xcodebuild.nvim: Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
-            "date_modified": "2024-10-22T19:45:43.000Z",
-            "date_published": "2023-11-01T17:40:49.000Z",
-            "author": {
-                "name": "wojciech-kulik",
-                "url": "https://github.com/wojciech-kulik"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs</div>",
-            "url": "https://github.com/olimorris/codecompanion.nvim",
-            "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs",
-            "date_modified": "2024-10-22T22:10:00.000Z",
-            "date_published": "2023-12-27T17:32:51.000Z",
-            "author": {
-                "name": "olimorris",
-                "url": "https://github.com/olimorris"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/79950811?u=d249e7fe429b2c0f0981e77785ab0979e684a48b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This repository contains my personal configuration files for Neovim Setup . It includes custom settings and plugins to enhance the development experience.</div>",
-            "url": "https://github.com/vicenteroa/neovim-setup",
-            "title": "vicenteroa/neovim-setup: This repository contains my personal configuration files for Neovim Setup . It includes custom settings and plugins to enhance the development experience.",
-            "date_modified": "2024-10-22T18:29:16.000Z",
-            "date_published": "2024-06-09T18:05:15.000Z",
-            "author": {
-                "name": "vicenteroa",
-                "url": "https://github.com/vicenteroa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/33186330?u=cf0672cc675dcdc14052a95f85a1a56de0a88ba9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A fast and easy-to-use HTTP-Rest-Client plugin for neovim, completely written in LUA.</div>",
-            "url": "https://github.com/lima1909/resty.nvim",
-            "title": "lima1909/resty.nvim: A fast and easy-to-use HTTP-Rest-Client plugin for neovim, completely written in LUA.",
-            "date_modified": "2024-10-22T16:20:17.000Z",
-            "date_published": "2024-05-04T09:33:14.000Z",
-            "author": {
-                "name": "lima1909",
-                "url": "https://github.com/lima1909"
             }
         }
     ]
