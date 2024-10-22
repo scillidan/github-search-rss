@@ -6,11 +6,77 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💤 A modern plugin manager for Neovim</div>",
+            "url": "https://github.com/folke/lazy.nvim",
+            "title": "folke/lazy.nvim: 💤 A modern plugin manager for Neovim",
+            "date_modified": "2024-10-22T11:06:06.000Z",
+            "date_published": "2022-11-20T21:36:02.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-10-22T10:51:54.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/81760194?u=2e7dfd10f37815d5dc7d780689d4ce4400f4b15a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that extends functionality of mark-motions.</div>",
+            "url": "https://github.com/nkey-ops/extended-marks.nvim",
+            "title": "nkey-ops/extended-marks.nvim: Neovim plugin that extends functionality of mark-motions.",
+            "date_modified": "2024-10-22T10:30:39.000Z",
+            "date_published": "2024-05-26T20:09:16.000Z",
+            "author": {
+                "name": "nkey-ops",
+                "url": "https://github.com/nkey-ops"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-22T10:18:56.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
             "url": "https://github.com/folke/tokyonight.nvim",
             "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
             "date_modified": "2024-10-22T09:22:29.000Z",
             "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
+            "url": "https://github.com/folke/neoconf.nvim",
+            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
+            "date_modified": "2024-10-22T09:11:48.000Z",
+            "date_published": "2022-09-07T16:15:13.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tiny plugin to enhance Neovim's native comments</div>",
+            "url": "https://github.com/folke/ts-comments.nvim",
+            "title": "folke/ts-comments.nvim: Tiny plugin to enhance Neovim's native comments",
+            "date_modified": "2024-10-22T09:16:30.000Z",
+            "date_published": "2024-05-20T21:09:01.000Z",
             "author": {
                 "name": "folke",
                 "url": "https://github.com/folke"
@@ -47,39 +113,6 @@
             "author": {
                 "name": "nvim-plugnplay",
                 "url": "https://github.com/nvim-plugnplay"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-22T09:19:02.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tiny plugin to enhance Neovim's native comments</div>",
-            "url": "https://github.com/folke/ts-comments.nvim",
-            "title": "folke/ts-comments.nvim: Tiny plugin to enhance Neovim's native comments",
-            "date_modified": "2024-10-22T09:16:30.000Z",
-            "date_published": "2024-05-20T21:09:01.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>💼 Neovim plugin to manage global and project-local settings</div>",
-            "url": "https://github.com/folke/neoconf.nvim",
-            "title": "folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings",
-            "date_modified": "2024-10-22T09:11:48.000Z",
-            "date_published": "2022-09-07T16:15:13.000Z",
-            "author": {
-                "name": "folke",
-                "url": "https://github.com/folke"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "toku-sa-n",
                 "url": "https://github.com/toku-sa-n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42253013?u=e19893ca9cd6d58bc10afbd3ea186c0e6429c1f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Neovim plugin for Gradle</div>",
-            "url": "https://github.com/oclay1st/gradle.nvim",
-            "title": "oclay1st/gradle.nvim: The Neovim plugin for Gradle",
-            "date_modified": "2024-10-22T04:35:54.000Z",
-            "date_published": "2024-10-02T22:53:35.000Z",
-            "author": {
-                "name": "oclay1st",
-                "url": "https://github.com/oclay1st"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12857160?u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> 🦥 Supercharge your Haskell experience in neovim!</div>",
-            "url": "https://github.com/mrcjkb/haskell-tools.nvim",
-            "title": "mrcjkb/haskell-tools.nvim:  🦥 Supercharge your Haskell experience in neovim!",
-            "date_modified": "2024-10-22T04:29:55.000Z",
-            "date_published": "2022-10-15T14:18:38.000Z",
-            "author": {
-                "name": "mrcjkb",
-                "url": "https://github.com/mrcjkb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39128592?u=47e929aa8bef5f74310a8b35f59742f1e722e5c5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A modern, modular, and efficient Neovim configuration built with Lua. This setup leverages powerful plugins, custom keybindings, and optimized settings to enhance my coding experience.</div>",
-            "url": "https://github.com/Saiiru/neovim",
-            "title": "Saiiru/neovim: A modern, modular, and efficient Neovim configuration built with Lua. This setup leverages powerful plugins, custom keybindings, and optimized settings to enhance my coding experience.",
-            "date_modified": "2024-10-22T03:42:26.000Z",
-            "date_published": "2024-10-20T20:13:00.000Z",
-            "author": {
-                "name": "Saiiru",
-                "url": "https://github.com/Saiiru"
             }
         }
     ]
