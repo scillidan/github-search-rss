@@ -6,10 +6,21 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16581287?u=7604ce7d866e84c945fd3497c34dac629cd5a68e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for setting Neovim LSP with JSON or YAML files</div>",
+            "url": "https://github.com/tamago324/nlsp-settings.nvim",
+            "title": "tamago324/nlsp-settings.nvim: A plugin for setting Neovim LSP with JSON or YAML files",
+            "date_modified": "2024-10-23T19:02:27.000Z",
+            "date_published": "2021-03-21T05:46:20.000Z",
+            "author": {
+                "name": "tamago324",
+                "url": "https://github.com/tamago324"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9512444?u=db3315f428ee24555078e834b2591ba9fa177e46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs</div>",
             "url": "https://github.com/olimorris/codecompanion.nvim",
             "title": "olimorris/codecompanion.nvim: ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs",
-            "date_modified": "2024-10-23T18:10:03.000Z",
+            "date_modified": "2024-10-23T18:40:09.000Z",
             "date_published": "2023-12-27T17:32:51.000Z",
             "author": {
                 "name": "olimorris",
@@ -108,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌒 Neovim plugin management inspired by Cargo, powered by luarocks</div>",
             "url": "https://github.com/nvim-neorocks/rocks.nvim",
             "title": "nvim-neorocks/rocks.nvim: 🌒 Neovim plugin management inspired by Cargo, powered by luarocks",
-            "date_modified": "2024-10-23T16:04:30.000Z",
+            "date_modified": "2024-10-23T18:30:19.000Z",
             "date_published": "2023-07-05T11:24:40.000Z",
             "author": {
                 "name": "nvim-neorocks",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "HCY-ASLEEP",
                 "url": "https://github.com/HCY-ASLEEP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10730181?u=46768552341111b5ac6ae20a1c0548c0ac5ce46c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A minimal Neovim plugin to show and copy JSON paths of elements under your cursor using jq-compatible syntax</div>",
-            "url": "https://github.com/philippdrebes/jsonpath.nvim",
-            "title": "philippdrebes/jsonpath.nvim: A minimal Neovim plugin to show and copy JSON paths of elements under your cursor using jq-compatible syntax",
-            "date_modified": "2024-10-23T13:11:38.000Z",
-            "date_published": "2024-10-21T07:48:30.000Z",
-            "author": {
-                "name": "philippdrebes",
-                "url": "https://github.com/philippdrebes"
             }
         }
     ]
