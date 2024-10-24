@@ -6,10 +6,76 @@
     "description": "neovim plugin on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/506791?u=fe8dfb41ee191a5da1ebb441f4b0c5f0cff22e4a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Lightweight yet powerful formatter plugin for Neovim</div>",
+            "url": "https://github.com/stevearc/conform.nvim",
+            "title": "stevearc/conform.nvim: Lightweight yet powerful formatter plugin for Neovim",
+            "date_modified": "2024-10-24T15:52:25.000Z",
+            "date_published": "2023-08-25T03:31:42.000Z",
+            "author": {
+                "name": "stevearc",
+                "url": "https://github.com/stevearc"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
+            "date_modified": "2024-10-24T15:50:27.000Z",
+            "date_published": "2019-11-13T17:12:28.000Z",
+            "author": {
+                "name": "neovim",
+                "url": "https://github.com/neovim"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
+            "url": "https://github.com/Saghen/blink.cmp",
+            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
+            "date_modified": "2024-10-24T15:45:27.000Z",
+            "date_published": "2024-07-31T01:56:33.000Z",
+            "author": {
+                "name": "Saghen",
+                "url": "https://github.com/Saghen"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/292349?u=f41721d6b12a34910119cd00209e711fcbc8cee6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "title": "folke/tokyonight.nvim: 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "date_modified": "2024-10-24T15:23:08.000Z",
+            "date_published": "2021-04-16T17:21:40.000Z",
+            "author": {
+                "name": "folke",
+                "url": "https://github.com/folke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
+            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
+            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
+            "date_modified": "2024-10-24T15:19:24.000Z",
+            "date_published": "2024-05-26T17:25:07.000Z",
+            "author": {
+                "name": "zachcoyle",
+                "url": "https://github.com/zachcoyle"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49926234?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Custom NeoVim config for packages and plugins</div>",
+            "url": "https://github.com/klauri/nvim-config",
+            "title": "klauri/nvim-config: Custom NeoVim config for packages and plugins",
+            "date_modified": "2024-10-24T15:16:13.000Z",
+            "date_published": "2023-12-27T19:42:19.000Z",
+            "author": {
+                "name": "klauri",
+                "url": "https://github.com/klauri"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/48452376?u=c634ef1611c17f37e034a8a36b6f82a06edb637d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Neovim that generates an SCSS skeleton based on allocated HTML code.</div>",
             "url": "https://github.com/mr-scrpt/html-to-scss-skelet.nvim",
             "title": "mr-scrpt/html-to-scss-skelet.nvim: A plugin for Neovim that generates an SCSS skeleton based on allocated HTML code.",
-            "date_modified": "2024-10-24T15:03:03.000Z",
+            "date_modified": "2024-10-24T15:12:39.000Z",
             "date_published": "2024-10-24T12:34:12.000Z",
             "author": {
                 "name": "mr-scrpt",
@@ -36,17 +102,6 @@
             "author": {
                 "name": "NvChad",
                 "url": "https://github.com/NvChad"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10467983?u=feb392a8997f7fb17a85177d7afba9910e4e54b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Performant, batteries-included completion plugin for Neovim </div>",
-            "url": "https://github.com/Saghen/blink.cmp",
-            "title": "Saghen/blink.cmp: Performant, batteries-included completion plugin for Neovim ",
-            "date_modified": "2024-10-24T15:08:22.000Z",
-            "date_published": "2024-07-31T01:56:33.000Z",
-            "author": {
-                "name": "Saghen",
-                "url": "https://github.com/Saghen"
             }
         },
         {
@@ -138,17 +193,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/908716?u=7302e11dfaed93c7a01f5b7310b0e863bbf38976&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay</div>",
-            "url": "https://github.com/zachcoyle/neovim-plugins-nightly-overlay",
-            "title": "zachcoyle/neovim-plugins-nightly-overlay: neovim plugins nightly nix overlay, mainly for use with nixvim and neovim-nightly-overlay",
-            "date_modified": "2024-10-24T13:21:21.000Z",
-            "date_published": "2024-05-26T17:25:07.000Z",
-            "author": {
-                "name": "zachcoyle",
-                "url": "https://github.com/zachcoyle"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/177653251?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>a spelling auto correct plugin for Neovim including over 20k entries</div>",
             "url": "https://github.com/ck-zhang/mistake.nvim",
             "title": "ck-zhang/mistake.nvim: a spelling auto correct plugin for Neovim including over 20k entries",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "tamago324",
                 "url": "https://github.com/tamago324"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/124081866?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.</div>",
-            "url": "https://github.com/nvim-neorocks/nurr",
-            "title": "nvim-neorocks/nurr: A repository for hosting auto-generated Neovim plugins and tree-sitter parsers for Luarocks.",
-            "date_modified": "2024-10-24T12:00:41.000Z",
-            "date_published": "2024-03-01T19:42:19.000Z",
-            "author": {
-                "name": "nvim-neorocks",
-                "url": "https://github.com/nvim-neorocks"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6471485?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Quickstart configs for Nvim LSP</div>",
-            "url": "https://github.com/neovim/nvim-lspconfig",
-            "title": "neovim/nvim-lspconfig: Quickstart configs for Nvim LSP",
-            "date_modified": "2024-10-24T12:06:14.000Z",
-            "date_published": "2019-11-13T17:12:28.000Z",
-            "author": {
-                "name": "neovim",
-                "url": "https://github.com/neovim"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/42336339?u=ae47a1fd00a33680286ee4777066312b862ce01f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin for editing GNU gettext PO files</div>",
-            "url": "https://github.com/toku-sa-n/po.nvim",
-            "title": "toku-sa-n/po.nvim: Neovim plugin for editing GNU gettext PO files",
-            "date_modified": "2024-10-24T11:44:44.000Z",
-            "date_published": "2024-10-07T09:35:12.000Z",
-            "author": {
-                "name": "toku-sa-n",
-                "url": "https://github.com/toku-sa-n"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14187674?u=54e9e99613db6f555398ca036fd54a33eac9c857&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim plugin that adds support for file operations using built-in LSP</div>",
-            "url": "https://github.com/antosha417/nvim-lsp-file-operations",
-            "title": "antosha417/nvim-lsp-file-operations: Neovim plugin that adds support for file operations using built-in LSP",
-            "date_modified": "2024-10-24T11:33:14.000Z",
-            "date_published": "2023-01-08T22:05:58.000Z",
-            "author": {
-                "name": "antosha417",
-                "url": "https://github.com/antosha417"
             }
         }
     ]
