@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-11T18:01:18.754Z</updated>
+    <updated>2025-05-11T19:01:09.746Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add an example to search for multi-byte pattern in an array]]></title>
+        <id>https://github.com/mdn/content/pull/39479</id>
+        <link href="https://github.com/mdn/content/pull/39479"/>
+        <updated>2025-05-11T18:43:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/><p dir="auto">And manipulate the array directly.</p>
+
+<h3 dir="auto">Description</h3>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">There was no example for manipulating the array directly without converting the whole array to a string first.</p>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>def00111</name>
+            <email>def00111@noreply.github.com</email>
+            <uri>https://github.com/def00111</uri>
+        </author>
+        <published>2025-05-11T18:31:10.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fix typos in web audio spatialization basics]]></title>
         <id>https://github.com/mdn/content/pull/39476</id>
@@ -453,22 +479,5 @@ Covering the SVG and URI sections.</p>
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-05T10:33:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minor edits to the "Third-party cookies" section]]></title>
-        <id>https://github.com/mdn/content/pull/39388</id>
-        <link href="https://github.com/mdn/content/pull/39388"/>
-        <updated>2025-05-04T23:54:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
-<li>I think there was some issues with pluralization of the word "Cookie" at the end of this section, so I attempted to reword it.</li>
-<li>I ended up changing more than I originally intended</li>
-<li>I did not intend to change any of the original meaning. If I did, that was a mistake on my part.</li>
-</ul>]]></content>
-        <author>
-            <name>DanKaplanSES</name>
-            <email>DanKaplanSES@noreply.github.com</email>
-            <uri>https://github.com/DanKaplanSES</uri>
-        </author>
-        <published>2025-05-04T22:56:22.000Z</published>
     </entry>
 </feed>

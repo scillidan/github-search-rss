@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">And manipulate the array directly.</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">There was no example for manipulating the array directly without converting the whole array to a string first.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39479",
+            "title": "Add an example to search for multi-byte pattern in an array",
+            "date_modified": "2025-05-11T18:43:00.000Z",
+            "date_published": "2025-05-11T18:31:10.000Z",
+            "author": {
+                "name": "def00111",
+                "url": "https://github.com/def00111"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/152232097?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Fixing two minor typos (\"these axis\" -&gt; \"these axes\" and \"Wiring up out control buttons\" -&gt; \"Wiring up our control buttons\")</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">Fixing minor typos for improved clarity</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39476",
             "title": "Fix typos in web audio spatialization basics",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/373675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li>I think there was some issues with pluralization of the word \"Cookie\" at the end of this section, so I attempted to reword it.</li>\n<li>I ended up changing more than I originally intended</li>\n<li>I did not intend to change any of the original meaning. If I did, that was a mistake on my part.</li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39388",
-            "title": "Minor edits to the \"Third-party cookies\" section",
-            "date_modified": "2025-05-04T23:54:16.000Z",
-            "date_published": "2025-05-04T22:56:22.000Z",
-            "author": {
-                "name": "DanKaplanSES",
-                "url": "https://github.com/DanKaplanSES"
             }
         }
     ]
