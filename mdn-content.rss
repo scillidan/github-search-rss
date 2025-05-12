@@ -2,23 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-12T11:01:25.062Z</updated>
+    <updated>2025-05-12T12:02:03.624Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Fix Circle Collision detection algorithm]]></title>
-        <id>https://github.com/mdn/content/pull/39484</id>
-        <link href="https://github.com/mdn/content/pull/39484"/>
-        <updated>2025-05-12T10:57:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/67683723?u=f041d71e4760864a6dc31c36fd41cc0f7480fabd&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39483.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3055628407" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39483" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39483/hovercard" href="https://github.com/mdn/content/issues/39483">#39483</a> - Reverted the Circle Collision detection by adding its radius.</p>]]></content>
+        <title type="html"><![CDATA[Deduplicate clipboard event pages]]></title>
+        <id>https://github.com/mdn/content/pull/39485</id>
+        <link href="https://github.com/mdn/content/pull/39485"/>
+        <updated>2025-05-12T11:13:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #31125.">Fix</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2047147210" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/31125" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/31125/hovercard" href="https://github.com/mdn/content/issues/31125">#31125</a>.</p>
+<p dir="auto">Our current structure for these events is very weird:</p>
+<ul dir="auto">
+<li><code class="notranslate">HTMLElement</code> and <code class="notranslate">SVGGraphicsElement</code> already inherit from <code class="notranslate">Element</code>, so it doesn't make sense to duplicate these events</li>
+<li><code class="notranslate">Document</code> and <code class="notranslate">Window</code> are bubble targets. No other events that bubble to document or window have separate pages.</li>
+<li>BCD only has a single entry, so there's a BCD/content mismatch.</li>
+</ul>
+<p dir="auto">I think it makes perfect sense to align with all other events.</p>]]></content>
         <author>
-            <name>ragul1697</name>
-            <email>ragul1697@noreply.github.com</email>
-            <uri>https://github.com/ragul1697</uri>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
         </author>
-        <published>2025-05-12T10:25:54.000Z</published>
+        <published>2025-05-12T11:11:04.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ARIA heading role: aria-level is required]]></title>

@@ -6,14 +6,14 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/67683723?u=f041d71e4760864a6dc31c36fd41cc0f7480fabd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39483.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3055628407\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39483\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39483/hovercard\" href=\"https://github.com/mdn/content/issues/39483\">#39483</a> - Reverted the Circle Collision detection by adding its radius.</p>",
-            "url": "https://github.com/mdn/content/pull/39484",
-            "title": "Fix Circle Collision detection algorithm",
-            "date_modified": "2025-05-12T10:57:24.000Z",
-            "date_published": "2025-05-12T10:25:54.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #31125.\">Fix</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2047147210\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/31125\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/31125/hovercard\" href=\"https://github.com/mdn/content/issues/31125\">#31125</a>.</p>\n<p dir=\"auto\">Our current structure for these events is very weird:</p>\n<ul dir=\"auto\">\n<li><code class=\"notranslate\">HTMLElement</code> and <code class=\"notranslate\">SVGGraphicsElement</code> already inherit from <code class=\"notranslate\">Element</code>, so it doesn't make sense to duplicate these events</li>\n<li><code class=\"notranslate\">Document</code> and <code class=\"notranslate\">Window</code> are bubble targets. No other events that bubble to document or window have separate pages.</li>\n<li>BCD only has a single entry, so there's a BCD/content mismatch.</li>\n</ul>\n<p dir=\"auto\">I think it makes perfect sense to align with all other events.</p>",
+            "url": "https://github.com/mdn/content/pull/39485",
+            "title": "Deduplicate clipboard event pages",
+            "date_modified": "2025-05-12T11:13:04.000Z",
+            "date_published": "2025-05-12T11:11:04.000Z",
             "author": {
-                "name": "ragul1697",
-                "url": "https://github.com/ragul1697"
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
             }
         },
         {
