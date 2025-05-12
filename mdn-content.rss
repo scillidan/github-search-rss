@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-11T23:01:18.436Z</updated>
+    <updated>2025-05-12T00:05:10.398Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -32,30 +32,6 @@
             <uri>https://github.com/def00111</uri>
         </author>
         <published>2025-05-11T18:31:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix typos in web audio spatialization basics]]></title>
-        <id>https://github.com/mdn/content/pull/39476</id>
-        <link href="https://github.com/mdn/content/pull/39476"/>
-        <updated>2025-05-10T20:09:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/152232097?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Fixing two minor typos ("these axis" -&gt; "these axes" and "Wiring up out control buttons" -&gt; "Wiring up our control buttons")</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">Fixing minor typos for improved clarity</p>
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>sacrificialprawn</name>
-            <email>sacrificialprawn@noreply.github.com</email>
-            <uri>https://github.com/sacrificialprawn</uri>
-        </author>
-        <published>2025-05-10T20:07:46.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[new css guide: css clipping]]></title>
@@ -165,7 +141,7 @@
         <title type="html"><![CDATA[chore: Link to child pages in SVG, URI section]]></title>
         <id>https://github.com/mdn/content/pull/39470</id>
         <link href="https://github.com/mdn/content/pull/39470"/>
-        <updated>2025-05-10T09:16:19.000Z</updated>
+        <updated>2025-05-11T23:44:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <p dir="auto">This PR links to child pages when missing from parent.<br>
 Covering the SVG and URI sections.</p>
@@ -479,5 +455,22 @@ Covering the SVG and URI sections.</p>
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-05T10:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minor edits to the "Third-party cookies" section]]></title>
+        <id>https://github.com/mdn/content/pull/39388</id>
+        <link href="https://github.com/mdn/content/pull/39388"/>
+        <updated>2025-05-04T23:54:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
+<li>I think there was some issues with pluralization of the word "Cookie" at the end of this section, so I attempted to reword it.</li>
+<li>I ended up changing more than I originally intended</li>
+<li>I did not intend to change any of the original meaning. If I did, that was a mistake on my part.</li>
+</ul>]]></content>
+        <author>
+            <name>DanKaplanSES</name>
+            <email>DanKaplanSES@noreply.github.com</email>
+            <uri>https://github.com/DanKaplanSES</uri>
+        </author>
+        <published>2025-05-04T22:56:22.000Z</published>
     </entry>
 </feed>
