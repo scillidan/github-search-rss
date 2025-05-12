@@ -2,32 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-12T12:02:02.935Z</updated>
+    <updated>2025-05-12T13:10:22.087Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[Add Firefox impl url for popover hint]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26775</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26775"/>
-        <updated>2025-05-12T10:00:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
-<h4 dir="auto">Summary</h4>
-<p dir="auto">Adds Firefox bug for popover hint.</p>
-<h4 dir="auto">Test results and supporting details</h4>
-
-
-<h4 dir="auto">Related issues</h4>
-
-]]></content>
-        <author>
-            <name>caugner</name>
-            <email>caugner@noreply.github.com</email>
-            <uri>https://github.com/caugner</uri>
-        </author>
-        <published>2025-05-12T09:59:52.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Update Safari data for line-clamp CSS property]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26771</id>
@@ -150,7 +129,7 @@
 <h4 dir="auto">Test results and supporting details</h4>
 
 <p dir="auto">Tested in <a href="https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace</a>:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNTE2MjIsIm5iZiI6MTc0NzA1MTMyMiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTJUMTIwMjAyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MmE1MzM3OWU0NmRjNjYwN2ExZGU4NjQwOGE2ZTI1MTFhZjZlODFlMjczMTBmZTdiYTgyYjZmNjNhZTUyZDIzMyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.I2bkbiaOrS0PnLciX-zBxc8vr0DzUgUe78i4qCtxtFE"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNTE2MjIsIm5iZiI6MTc0NzA1MTMyMiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTJUMTIwMjAyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MmE1MzM3OWU0NmRjNjYwN2ExZGU4NjQwOGE2ZTI1MTFhZjZlODFlMjczMTBmZTdiYTgyYjZmNjNhZTUyZDIzMyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.I2bkbiaOrS0PnLciX-zBxc8vr0DzUgUe78i4qCtxtFE" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNTU3MjIsIm5iZiI6MTc0NzA1NTQyMiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTJUMTMxMDIyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NDdkZWM1MGNlNDFjOWM5NzA1NDhmMzBjNzYyZmRlMzM5ZWFkYjkyYmY5MjlhNmY2MjM1OTdiMTUwMzE5NTM5OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.1w0XYuYSfBzLK9MTEpkumX3cy0XXvs-13861uqCjFTU"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNTU3MjIsIm5iZiI6MTc0NzA1NTQyMiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTJUMTMxMDIyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NDdkZWM1MGNlNDFjOWM5NzA1NDhmMzBjNzYyZmRlMzM5ZWFkYjkyYmY5MjlhNmY2MjM1OTdiMTUwMzE5NTM5OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.1w0XYuYSfBzLK9MTEpkumX3cy0XXvs-13861uqCjFTU" alt="image" style="max-width: 100%;"></a></p>
 
 <p dir="auto">Description from webkit blog: <a href="https://webkit.org/blog/16574/webkit-features-in-safari-18-4/" rel="nofollow">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></p>
 <h4 dir="auto">Related issues</h4>
@@ -183,7 +162,7 @@
         <title type="html"><![CDATA[Unmerge the `Feature-Policy` and `Permissions-Policy` headers]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26708</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26708"/>
-        <updated>2025-05-07T21:53:50.000Z</updated>
+        <updated>2025-05-12T12:47:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64103?u=428d3c27c9cd7efc648e17dfe5a4321c3f8e44d2&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">This PR breaks the "alternate name" <code class="notranslate">Feature-Policy</code> into its own feature entries. See <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2860134395" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/25950" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/25950/hovercard" href="https://github.com/mdn/browser-compat-data/issues/25950">#25950</a> for further discussion.</p>
@@ -421,5 +400,25 @@
             <uri>https://github.com/caugner</uri>
         </author>
         <published>2025-04-18T11:08:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move `is_transitionable` features under `transition-behavior`]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26507</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26507"/>
+        <updated>2025-04-14T13:54:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
+<h4 dir="auto">Summary</h4>
+<p dir="auto">Moves <code class="notranslate">{content-visibility,display}.is_transitionable</code> features to <code class="notranslate">transition_behavior.transitions_{content-visibility,display}</code>.</p>
+<h4 dir="auto">Test results and supporting details</h4>
+
+
+<h4 dir="auto">Related issues</h4>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #26155.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2905475757" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26155" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26155/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26155">#26155</a>.</p>]]></content>
+        <author>
+            <name>caugner</name>
+            <email>caugner@noreply.github.com</email>
+            <uri>https://github.com/caugner</uri>
+        </author>
+        <published>2025-04-14T12:44:45.000Z</published>
     </entry>
 </feed>

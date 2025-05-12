@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-12T12:02:03.624Z</updated>
+    <updated>2025-05-12T13:10:22.699Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add username/password section to URLs guide]]></title>
+        <id>https://github.com/mdn/content/pull/39487</id>
+        <link href="https://github.com/mdn/content/pull/39487"/>
+        <updated>2025-05-12T13:00:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Adds some information about usernames and passwords to the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL#authority" rel="nofollow">What is a URL?</a> article.</p>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39478.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3055021569" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39478" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39478/hovercard" href="https://github.com/mdn/content/issues/39478">#39478</a></p>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-12T12:58:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve soft skills recommendations]]></title>
+        <id>https://github.com/mdn/content/pull/39486</id>
+        <link href="https://github.com/mdn/content/pull/39486"/>
+        <updated>2025-05-12T12:13:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">As per <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3012068048" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39241" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39241/hovercard" href="https://github.com/mdn/content/issues/39241">#39241</a>, this PR improves the recommendations in the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Soft_skills" rel="nofollow">Soft Skills</a> articles, for example, adding more open-source community options.</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39241.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3012068048" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39241" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39241/hovercard" href="https://github.com/mdn/content/issues/39241">#39241</a></p>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-12T12:11:34.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deduplicate clipboard event pages]]></title>
         <id>https://github.com/mdn/content/pull/39485</id>
@@ -407,63 +459,5 @@ Covering the SVG and URI sections.</p>
             <uri>https://github.com/rebloor</uri>
         </author>
         <published>2025-05-07T09:12:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Example on ARIA: tab || Relates to #671]]></title>
-        <id>https://github.com/mdn/content/pull/39423</id>
-        <link href="https://github.com/mdn/content/pull/39423"/>
-        <updated>2025-05-09T00:01:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209311730?u=2d81c78beef3d9351871ba115a08f719bd78b8f6&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Updated the example combining tab with tablist.</p>
-
-<h3 dir="auto">Description</h3>
-<p dir="auto">I created a PR <a href="https://github.com/mdn/mdn/issues/671#issuecomment-2853960413" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/671/hovercard">as suggested</a>.</p>
-
-<p dir="auto">Updated the HTML and JS in the example.</p>
-<h3 dir="auto">Motivation</h3>
-
-<p dir="auto">I read the guides on Accessibility and briefed myself on the ARIA: tab page. It is elaborate, instructive and full of potential for many examples to be created.</p>
-<h3 dir="auto">Additional details</h3>
-
-<p dir="auto">I verified these changes on <a href="https://developer.mozilla.org/en-US/play" rel="nofollow">the playground</a>.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>CloudAnalystGo</name>
-            <email>CloudAnalystGo@noreply.github.com</email>
-            <uri>https://github.com/CloudAnalystGo</uri>
-        </author>
-        <published>2025-05-06T23:01:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add content covering the limitations of <selectedcontent>]]></title>
-        <id>https://github.com/mdn/content/pull/39411</id>
-        <link href="https://github.com/mdn/content/pull/39411"/>
-        <updated>2025-05-09T15:01:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">This PR updates the <code class="notranslate">&lt;selectedcontent&gt;</code> reference document to:</p>
-<ol dir="auto">
-<li>Include more details about the limitations of  cloning, and</li>
-<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class="notranslate">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>
-</ol>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">After seeing <a href="https://github.com/angular/angular/issues/60636" data-hovercard-type="issue" data-hovercard-url="/angular/angular/issues/60636/hovercard">this Angular bug</a> related to <code class="notranslate">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class="notranslate">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class="notranslate">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>
-<p dir="auto">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class="notranslate">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>philipwalton</name>
-            <email>philipwalton@noreply.github.com</email>
-            <uri>https://github.com/philipwalton</uri>
-        </author>
-        <published>2025-05-05T17:53:05.000Z</published>
     </entry>
 </feed>
