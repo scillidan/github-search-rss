@@ -2,11 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss</id>
     <title>w3ctag/design-reviews Design Issues</title>
-    <updated>2025-05-12T20:01:15.419Z</updated>
+    <updated>2025-05-12T21:01:14.583Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss"/>
     <subtitle>w3ctag/design-reviews Design Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add prefetchCache and prerenderCache to Clear-Site-Data header]]></title>
+        <id>https://github.com/w3ctag/design-reviews/issues/1091</id>
+        <link href="https://github.com/w3ctag/design-reviews/issues/1091"/>
+        <updated>2025-05-12T20:39:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24627278?u=3b77864392921a547314f36e620a5a4b9bbaaeb0&v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
+<p dir="auto">I'm requesting a TAG review of the feature for adding <em>prefetchCache</em> and <em>prerenderCache</em> values to Clear-Site-Data header.</p>
+<p dir="auto">We propose adding two new values to the <a href="https://w3c.github.io/webappsec-clear-site-data/#header" rel="nofollow">Clear-Site-Data</a> header to help developers target clearing the prerender and prefetch cache: <em>prefetchCache</em> and <em>prerenderCache</em>.</p>
+<ul dir="auto">
+<li>Explainer¹: <a href="https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md">https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md</a></li>
+<li>Specification: <a href="https://wicg.github.io/nav-speculation/" rel="nofollow">https://wicg.github.io/nav-speculation/</a></li>
+<li>WPT Tests: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3026467589" data-permission-text="Title is private" data-url="https://github.com/web-platform-tests/wpt/issues/52223" data-hovercard-type="pull_request" data-hovercard-url="/web-platform-tests/wpt/pull/52223/hovercard" href="https://github.com/web-platform-tests/wpt/pull/52223">web-platform-tests/wpt#52223</a></li>
+<li>User research: none</li>
+<li>Security and Privacy self-review²: <a href="https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md#w3c-tag-security-and-privacy-questionnaire-answers">https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md#w3c-tag-security-and-privacy-questionnaire-answers</a></li>
+<li>GitHub repo:</li>
+<li>Primary contacts:</li>
+<li>Organization/project driving the specification: Chromium</li>
+<li>This work is being funded by: Microsoft</li>
+<li>Primary standards group developing this feature: WICG</li>
+<li>Group intended to standardize this work: WHATWG  <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2912760234" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/11123" data-hovercard-type="issue" data-hovercard-url="/whatwg/html/issues/11123/hovercard" href="https://github.com/whatwg/html/issues/11123">whatwg/html#11123</a> <a href="https://w3c.github.io/webappsec-clear-site-data/" rel="nofollow">https://w3c.github.io/webappsec-clear-site-data/</a></li>
+<li>Incubation and standards groups that have discussed the design: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2822666091" data-permission-text="Title is private" data-url="https://github.com/WICG/nav-speculation/issues/357" data-hovercard-type="issue" data-hovercard-url="/WICG/nav-speculation/issues/357/hovercard" href="https://github.com/WICG/nav-speculation/issues/357">WICG/nav-speculation#357</a></li>
+<li>Multi-stakeholder support³:
+<ul dir="auto">
+<li>Chromium comments: <a href="https://chromium-review.googlesource.com/c/chromium/src/+/6456388?tab=comments" rel="nofollow">https://chromium-review.googlesource.com/c/chromium/src/+/6456388?tab=comments</a></li>
+<li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3026307416" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1214" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1214/hovercard" href="https://github.com/mozilla/standards-positions/issues/1214">mozilla/standards-positions#1214</a></li>
+<li>WebKit comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3040998216" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/488" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/488/hovercard" href="https://github.com/WebKit/standards-positions/issues/488">WebKit/standards-positions#488</a></li>
+</ul>
+</li>
+<li>Major unresolved issues with or opposition to this specification: None</li>
+<li>Status/issue trackers for implementations⁴: <a href="https://chromestatus.com/feature/4755745652080640" rel="nofollow">https://chromestatus.com/feature/4755745652080640</a></li>
+</ul>
+<p dir="auto">Further details:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
+<li>Previous early design review, if any: <a href="https://github.com/w3ctag/design-reviews/issues/####">https://github.com/w3ctag/design-reviews/issues/####</a></li>
+<li>Relevant time constraints or deadlines:</li>
+</ul>]]></content>
+        <author>
+            <name>srwei</name>
+            <email>srwei@noreply.github.com</email>
+            <uri>https://github.com/srwei</uri>
+        </author>
+        <published>2025-05-12T20:39:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS corner-shaping]]></title>
+        <id>https://github.com/w3ctag/design-reviews/issues/1090</id>
+        <link href="https://github.com/w3ctag/design-reviews/issues/1090"/>
+        <updated>2025-05-12T20:36:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88566?u=b5551d5208a9a90fc7510a9f5502dd4c0afeb05a&v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
+<p dir="auto">I'm requesting a TAG review of CSS corner-shaping.</p>
+<p dir="auto">{{One paragraph summary of the feature, ideally copy-pasted from your Explainer.}}</p>
+<ul dir="auto">
+<li>Explainer¹: <a href="https://github.com/w3c/csswg-drafts/blob/main/css-borders-4/corner-shape-explainer.md">https://github.com/w3c/csswg-drafts/blob/main/css-borders-4/corner-shape-explainer.md</a></li>
+<li>Specification: <a href="https://drafts.csswg.org/css-borders-4/#corner-shaping" rel="nofollow">https://drafts.csswg.org/css-borders-4/#corner-shaping</a></li>
+<li>WPT Tests:</li>
+<li>User research:</li>
+<li>Security and Privacy self-review²: <a href="https://github.com/w3c/csswg-drafts/blob/main/css-borders-4/corner-shape-explainer.md#self-review-sp-questionnaire">https://github.com/w3c/csswg-drafts/blob/main/css-borders-4/corner-shape-explainer.md#self-review-sp-questionnaire</a></li>
+<li>GitHub repo: <a href="https://github.com/w3c/csswg-drafts">https://github.com/w3c/csswg-drafts</a></li>
+<li>Primary contacts: <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/noamr/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/noamr">@noamr</a> (Google)</li>
+<li>Organization/project driving the specification: Google, with active involvement from Apple (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/smfr/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/smfr">@smfr</a>)</li>
+<li>This work is being funded by:</li>
+<li>Primary standards group developing this feature: W3C</li>
+<li>Group intended to standardize this work: </li>
+<li>Incubation and standards groups that have discussed the design:
+<ul dir="auto">
+<li>{{ABC CG}} </li>
+<li>{{DEF WG}}</li>
+</ul>
+</li>
+<li>Multi-stakeholder support³:
+<ul dir="auto">
+<li>Chromium comments: implementing</li>
+<li>Mozilla comments: TBD</li>
+<li>WebKit comments: TBD</li>
+<li>{{...include feedback/review from developers, implementers, civil society, and others}}</li>
+</ul>
+</li>
+<li>Major unresolved issues with or opposition to this specification: None</li>
+<li>Status/issue trackers for implementations⁴: <a href="https://github.com/w3c/csswg-drafts">https://github.com/w3c/csswg-drafts</a></li>
+</ul>
+<p dir="auto">Further details:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
+<li>Previous early design review, if any: <a href="https://github.com/w3ctag/design-reviews/issues/####">https://github.com/w3ctag/design-reviews/issues/####</a></li>
+<li>Relevant time constraints or deadlines:</li>
+</ul>
+<p dir="auto">You should also know that...</p>
+<p dir="auto">{{Please tell us anything else you think is relevant to this review.}}</p>]]></content>
+        <author>
+            <name>noamr</name>
+            <email>noamr@noreply.github.com</email>
+            <uri>https://github.com/noamr</uri>
+        </author>
+        <published>2025-05-12T20:36:57.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Extended lifetime shared workers]]></title>
         <id>https://github.com/w3ctag/design-reviews/issues/1089</id>
@@ -1135,111 +1231,5 @@ ready: Federated Identity Working Group</p>
             <uri>https://github.com/arichiv</uri>
         </author>
         <published>2025-03-19T15:38:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scoped Custom Element Registries]]></title>
-        <id>https://github.com/w3ctag/design-reviews/issues/1070</id>
-        <link href="https://github.com/w3ctag/design-reviews/issues/1070"/>
-        <updated>2025-05-06T16:58:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118266?u=5a7fb2f3d1ecc7dcd73f43f4b478cb4938e6572c&v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
-<p dir="auto">I'm requesting a TAG review of Scoped Custom Element Registries.</p>
-<p dir="auto">This is a proposal allows for multiple custom element definitions for a single tag name to exist within a page. This is accomplished by allowing user code to create multiple custom element registries and associate them with shadow roots that function as scopes for element creation and custom element definitions. Potentially custom elements created within a scope use the registry for that scope to perform upgrades. Changes to Document, Element, ShadowRoot, and HTMLTemplateElement APIs provide the surface area of this feature.</p>
-<ul dir="auto">
-<li>Explainer¹: Mostly in <a href="https://github.com/WICG/webcomponents/blob/gh-pages/proposals/Scoped-Custom-Element-Registries.md">https://github.com/WICG/webcomponents/blob/gh-pages/proposals/Scoped-Custom-Element-Registries.md</a> but with design changes mentioned in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2735341285" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/10854" data-hovercard-type="issue" data-hovercard-url="/whatwg/html/issues/10854/hovercard" href="https://github.com/whatwg/html/issues/10854">whatwg/html#10854</a></li>
-<li>Specification: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2745575406" data-permission-text="Title is private" data-url="https://github.com/whatwg/dom/issues/1341" data-hovercard-type="pull_request" data-hovercard-url="/whatwg/dom/pull/1341/hovercard" href="https://github.com/whatwg/dom/pull/1341">whatwg/dom#1341</a> &amp; <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2745581253" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/10869" data-hovercard-type="pull_request" data-hovercard-url="/whatwg/html/pull/10869/hovercard" href="https://github.com/whatwg/html/pull/10869">whatwg/html#10869</a></li>
-<li>WPT Tests: <a href="https://wpt.fyi/results/custom-elements/revamped-scoped-registry?label=master&amp;label=experimental&amp;aligned" rel="nofollow">https://wpt.fyi/results/custom-elements/revamped-scoped-registry?label=master&amp;label=experimental&amp;aligned</a></li>
-<li>User research: This is driven by the Web Components user community group (via WICG).</li>
-<li>Security and Privacy self-review²: Pending</li>
-<li>GitHub repo: <a href="https://github.com/WICG/webcomponents/">https://github.com/WICG/webcomponents/</a></li>
-<li>Primary contacts:
-<ul dir="auto">
-<li>Anne van Kesteren (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/annevk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/annevk">@annevk</a>), Apple, specification author, implementer</li>
-<li>Ryosuke Niwa (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/rniwa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/rniwa">@rniwa</a>), Apple, implementer</li>
-</ul>
-</li>
-<li>Organization/project driving the specification: Apple</li>
-<li>Multi-stakeholder support³:
-<ul dir="auto">
-<li>Chromium comments: Positive, worked on the initial prototype (/cc <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/mfreed7/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mfreed7">@mfreed7</a>)</li>
-<li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="674526358" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/424" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/424/hovercard" href="https://github.com/mozilla/standards-positions/issues/424">mozilla/standards-positions#424</a></li>
-<li>WebKit comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1307137891" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/38" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/38/hovercard" href="https://github.com/WebKit/standards-positions/issues/38">WebKit/standards-positions#38</a></li>
-</ul>
-</li>
-<li>Status/issue trackers for implementations⁴:
-<ul dir="auto">
-<li>Chrome: <a href="https://issues.chromium.org/issues/40826514" rel="nofollow">https://issues.chromium.org/issues/40826514</a></li>
-<li>Mozilla: <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1874414" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1874414</a></li>
-<li>WebKit: <a href="https://bugs.webkit.org/show_bug.cgi?id=267454" rel="nofollow">https://bugs.webkit.org/show_bug.cgi?id=267454</a></li>
-</ul>
-</li>
-</ul>
-<p dir="auto">Further details:</p>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
-<li>Previous early design review, if any: N/A</li>
-<li>Relevant time constraints or deadlines: WebKit seems to have a complete implementation and so may well be shipping soon.</li>
-<li>The group where the work on this specification is currently being done: WHATWG</li>
-<li>The group where standardization of this work is intended to be done (if different from the current group):</li>
-<li>Major unresolved issues with or opposition to this specification: I don't think there are any.</li>
-<li>This work is being funded by: Apple</li>
-</ul>]]></content>
-        <author>
-            <name>keithamus</name>
-            <email>keithamus@noreply.github.com</email>
-            <uri>https://github.com/keithamus</uri>
-        </author>
-        <published>2025-03-18T20:19:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Audio AudioContext "interrupted" state]]></title>
-        <id>https://github.com/w3ctag/design-reviews/issues/1069</id>
-        <link href="https://github.com/w3ctag/design-reviews/issues/1069"/>
-        <updated>2025-04-21T17:08:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/80070607?v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
-<p dir="auto">I'm requesting a TAG review of AudioContext "interrupted" state.</p>
-<p dir="auto">The <a href="https://webaudio.github.io/web-audio-api/" rel="nofollow">Web Audio API</a> is widely used to add advanced audio capabilities to web applications, like web-based games and music applications. One of the API's features is the <a href="https://webaudio.github.io/web-audio-api/#AudioContext" rel="nofollow">AudioContext </a>interface, which represents an audio graph. An AudioContext can find itself in one of three states: <a href="https://webaudio.github.io/web-audio-api/#dom-audiocontextstate-suspended" rel="nofollow">"suspended"</a>, <a href="https://webaudio.github.io/web-audio-api/#dom-audiocontextstate-running" rel="nofollow">"running"</a>, or <a href="https://webaudio.github.io/web-audio-api/#dom-audiocontextstate-closed" rel="nofollow">"closed"</a>. Once an AudioContext is in the "running" state, it can only pause media playback by transitioning to the "suspended" state when, and only when, user code calls <a href="https://webaudio.github.io/web-audio-api/#dom-audiocontext-suspend" rel="nofollow">AudioContext.suspend()</a> on this AudioContext. However, there are situations where we might want to let the User Agent (UA) decide when to interrupt playback - e.g., the proposed <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/IframeMediaPause/iframe_media_pausing.md">"media-playback-while-not-visible" permission policy</a>, the proposed <a href="https://w3c.github.io/audio-session/" rel="nofollow">Audio Session API</a>, or during a phone call where the calling application will need exclusive access to the audio hardware. To support these scenarios, we propose adding a new "interrupted" state to the <a href="https://webaudio.github.io/web-audio-api/#enumdef-audiocontextstate" rel="nofollow">AudioContextState</a> enum.</p>
-<ul dir="auto">
-<li>Explainer: <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/AudioContextInterruptedState/explainer.md">https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/AudioContextInterruptedState/explainer.md</a></li>
-<li>Specification: <a href="https://webaudio.github.io/web-audio-api/#dom-audiocontextstate-interrupted" rel="nofollow">https://webaudio.github.io/web-audio-api/#dom-audiocontextstate-interrupted</a></li>
-<li>WPT Tests: None</li>
-<li>User research: None</li>
-<li>Security and Privacy self-review: we have addressed concerns related to <a href="https://www.w3.org/TR/security-privacy-questionnaire/#minimum-data" rel="nofollow">question 2.2 </a> during discussions in the WG and have limited the situations where the transition <code class="notranslate">"suspended" -&gt; "interrupted"</code> should happen.</li>
-<li>GitHub repo: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1005723462" data-permission-text="Title is private" data-url="https://github.com/WebAudio/web-audio-api/issues/2392" data-hovercard-type="issue" data-hovercard-url="/WebAudio/web-audio-api/issues/2392/hovercard" href="https://github.com/WebAudio/web-audio-api/issues/2392">WebAudio/web-audio-api#2392</a></li>
-<li>Primary contacts:
-<ul dir="auto">
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hoch/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hoch">@hoch</a>, Google, editor</li>
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/padenot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/padenot">@padenot</a>, Mozilla, editor</li>
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gabrielsanbrito/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gabrielsanbrito">@gabrielsanbrito</a>, Microsoft, writer</li>
-</ul>
-</li>
-<li>Organization/project driving the specification: Microsoft</li>
-<li>Multi-stakeholder support³:
-<ul dir="auto">
-<li>Chromium comments: positive</li>
-<li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2565831331" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1083" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1083/hovercard" href="https://github.com/mozilla/standards-positions/issues/1083">mozilla/standards-positions#1083</a></li>
-<li>WebKit comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2565848732" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/410" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/410/hovercard" href="https://github.com/WebKit/standards-positions/issues/410">WebKit/standards-positions#410</a></li>
-</ul>
-</li>
-<li>Status/issue trackers for implementations: <a href="https://chromestatus.com/feature/5172068166139904" rel="nofollow">https://chromestatus.com/feature/5172068166139904</a></li>
-</ul>
-<p dir="auto">Further details:</p>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
-<li>Previous early design review, if any: <a href="https://github.com/w3ctag/design-reviews/issues/####">https://github.com/w3ctag/design-reviews/issues/####</a></li>
-<li>Relevant time constraints or deadlines:</li>
-<li>The group where the work on this specification is currently being done: <a href="https://www.w3.org/groups/wg/audio/" rel="nofollow">Audio Working Group</a></li>
-<li>The group where standardization of this work is intended to be done (if different from the current group):</li>
-<li>Major unresolved issues with or opposition to this specification:</li>
-<li>This work is being funded by: Microsoft</li>
-</ul>
-<p dir="auto">You should also know that...</p>
-<p dir="auto">This specification has already reached consensus in Audio WG and has been merged to the <a href="https://webaudio.github.io/web-audio-api/#dom-audiocontextstate-interrupted" rel="nofollow">Web Audio specification</a>. Regardless, we would like TAG to do a horizontal review on the "interrupted" state feature.</p>
-<p dir="auto">Thank you!</p>]]></content>
-        <author>
-            <name>gabrielsanbrito</name>
-            <email>gabrielsanbrito@noreply.github.com</email>
-            <uri>https://github.com/gabrielsanbrito</uri>
-        </author>
-        <published>2025-03-17T22:15:40.000Z</published>
     </entry>
 </feed>
