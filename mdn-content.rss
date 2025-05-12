@@ -2,11 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-12T00:05:10.398Z</updated>
+    <updated>2025-05-12T01:29:13.392Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[ARIA heading role: aria-level is required]]></title>
+        <id>https://github.com/mdn/content/pull/39482</id>
+        <link href="https://github.com/mdn/content/pull/39482"/>
+        <updated>2025-05-12T01:28:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43677?v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+
+<p dir="auto">Changes the description of the ARIA heading role’s aria-level attribute to state that it is required, rather than stating that it defaults to 2.</p>
+<h3 dir="auto">Motivation</h3>
+
+<p dir="auto">See the <a href="https://www.w3.org/TR/wai-aria-1.3/#heading" rel="nofollow">ARIA 1.3 specification for heading</a>:</p>
+<blockquote>
+<p dir="auto">To ensure elements with a role of heading are organized into a logical outline, authors MUST use the aria-level attribute to indicate the proper nesting level.</p>
+</blockquote>
+<h3 dir="auto">Additional details</h3>
+
+<p dir="auto">The MDN page on the aria-level role already states that the heading role is required.</p>
+<p dir="auto">I’m not sure where the “If no level is present, a value of 2 is the default” claim comes from.</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+<p dir="auto">None.</p>
+]]></content>
+        <author>
+            <name>js-choi</name>
+            <email>js-choi@noreply.github.com</email>
+            <uri>https://github.com/js-choi</uri>
+        </author>
+        <published>2025-05-12T01:26:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix typos]]></title>
+        <id>https://github.com/mdn/content/pull/39481</id>
+        <link href="https://github.com/mdn/content/pull/39481"/>
+        <updated>2025-05-12T00:48:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39480.">Fix</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3055306334" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39480" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39480/hovercard" href="https://github.com/mdn/content/issues/39480">#39480</a></p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-12T00:46:18.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add an example to search for multi-byte pattern in an array]]></title>
         <id>https://github.com/mdn/content/pull/39479</id>
@@ -205,7 +250,7 @@ Covering the SVG and URI sections.</p>
         <title type="html"><![CDATA[Technical review: Document Translator and Language Detector APIs]]></title>
         <id>https://github.com/mdn/content/pull/39457</id>
         <link href="https://github.com/mdn/content/pull/39457"/>
-        <updated>2025-05-09T09:07:31.000Z</updated>
+        <updated>2025-05-12T01:15:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">Chrome 138 supports the <a href="https://webmachinelearning.github.io/translation-api/" rel="nofollow">Translator and Language Detector APIs</a>: see the relevant ChromeStatus entries: <a href="https://chromestatus.com/feature/6494349985841152" rel="nofollow">https://chromestatus.com/feature/6494349985841152</a> and <a href="https://chromestatus.com/feature/6494349985841152" rel="nofollow">https://chromestatus.com/feature/6494349985841152</a>.</p>
@@ -304,7 +349,7 @@ Covering the SVG and URI sections.</p>
         <title type="html"><![CDATA[Expand Compression Dictionary format description]]></title>
         <id>https://github.com/mdn/content/pull/39441</id>
         <link href="https://github.com/mdn/content/pull/39441"/>
-        <updated>2025-05-07T14:33:42.000Z</updated>
+        <updated>2025-05-12T00:23:56.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 
@@ -373,34 +418,6 @@ Covering the SVG and URI sections.</p>
         <published>2025-05-06T23:01:19.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add warning against using element IDs as global properties.]]></title>
-        <id>https://github.com/mdn/content/pull/39422</id>
-        <link href="https://github.com/mdn/content/pull/39422"/>
-        <updated>2025-05-07T13:00:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143106292?u=b3c5814362982b570863d2bb4e99cc0cc32ec862&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<p dir="auto">Add a warning about using element IDs as global properties on <code class="notranslate">window</code> object, and recommend best practices for safer DOM access.</p>
-<h3 dir="auto">Motivation</h3>
-
-<p dir="auto">Help the readers follow modern standard and best practices when selecting and manipulating element using ID.</p>
-<h3 dir="auto">Additional details</h3>
-
-<p dir="auto">None.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39339.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3031836920" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39339" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39339/hovercard" href="https://github.com/mdn/content/issues/39339">#39339</a></p>
-]]></content>
-        <author>
-            <name>younisdev</name>
-            <email>younisdev@noreply.github.com</email>
-            <uri>https://github.com/younisdev</uri>
-        </author>
-        <published>2025-05-06T20:30:06.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Add content covering the limitations of <selectedcontent>]]></title>
         <id>https://github.com/mdn/content/pull/39411</id>
         <link href="https://github.com/mdn/content/pull/39411"/>
@@ -455,22 +472,5 @@ Covering the SVG and URI sections.</p>
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-05T10:33:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minor edits to the "Third-party cookies" section]]></title>
-        <id>https://github.com/mdn/content/pull/39388</id>
-        <link href="https://github.com/mdn/content/pull/39388"/>
-        <updated>2025-05-04T23:54:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
-<li>I think there was some issues with pluralization of the word "Cookie" at the end of this section, so I attempted to reword it.</li>
-<li>I ended up changing more than I originally intended</li>
-<li>I did not intend to change any of the original meaning. If I did, that was a mistake on my part.</li>
-</ul>]]></content>
-        <author>
-            <name>DanKaplanSES</name>
-            <email>DanKaplanSES@noreply.github.com</email>
-            <uri>https://github.com/DanKaplanSES</uri>
-        </author>
-        <published>2025-05-04T22:56:22.000Z</published>
     </entry>
 </feed>

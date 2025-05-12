@@ -6,6 +6,28 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43677?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Changes the description of the ARIA heading role’s aria-level attribute to state that it is required, rather than stating that it defaults to 2.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">See the <a href=\"https://www.w3.org/TR/wai-aria-1.3/#heading\" rel=\"nofollow\">ARIA 1.3 specification for heading</a>:</p>\n<blockquote>\n<p dir=\"auto\">To ensure elements with a role of heading are organized into a logical outline, authors MUST use the aria-level attribute to indicate the proper nesting level.</p>\n</blockquote>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">The MDN page on the aria-level role already states that the heading role is required.</p>\n<p dir=\"auto\">I’m not sure where the “If no level is present, a value of 2 is the default” claim comes from.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\">None.</p>\n",
+            "url": "https://github.com/mdn/content/pull/39482",
+            "title": "ARIA heading role: aria-level is required",
+            "date_modified": "2025-05-12T01:28:30.000Z",
+            "date_published": "2025-05-12T01:26:20.000Z",
+            "author": {
+                "name": "js-choi",
+                "url": "https://github.com/js-choi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39480.\">Fix</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3055306334\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39480\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39480/hovercard\" href=\"https://github.com/mdn/content/issues/39480\">#39480</a></p>",
+            "url": "https://github.com/mdn/content/pull/39481",
+            "title": "Fix typos",
+            "date_modified": "2025-05-12T00:48:16.000Z",
+            "date_published": "2025-05-12T00:46:18.000Z",
+            "author": {
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">And manipulate the array directly.</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">There was no example for manipulating the array directly without converting the whole array to a string first.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39479",
             "title": "Add an example to search for multi-byte pattern in an array",
@@ -97,7 +119,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Chrome 138 supports the <a href=\"https://webmachinelearning.github.io/translation-api/\" rel=\"nofollow\">Translator and Language Detector APIs</a>: see the relevant ChromeStatus entries: <a href=\"https://chromestatus.com/feature/6494349985841152\" rel=\"nofollow\">https://chromestatus.com/feature/6494349985841152</a> and <a href=\"https://chromestatus.com/feature/6494349985841152\" rel=\"nofollow\">https://chromestatus.com/feature/6494349985841152</a>.</p>\n<p dir=\"auto\">This PR documents this set of APIs — I have done them as a single API, because they are so closely related. It would seem weird to me to have them on two separate API landing pages.</p>\n<p dir=\"auto\">Specifically, I have added:</p>\n<ul dir=\"auto\">\n<li>A landing page for the APIs, and a \"Using...\" guide</li>\n<li>A reference for the <code class=\"notranslate\">LanguageDetector</code> interface</li>\n<li>A reference for the <code class=\"notranslate\">Translator</code> interface</li>\n<li>References for the associated <code class=\"notranslate\">Permissions-Policy</code> directives</li>\n</ul>\n<p dir=\"auto\">Note that the <code class=\"notranslate\">CreateMonitor</code> interface is shared functionality across multiple AI APIs; it is already documented in the Summarizer API PR — <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3017443201\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39263\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39263/hovercard\" href=\"https://github.com/mdn/content/pull/39263\">#39263</a>.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39457",
             "title": "Technical review: Document Translator and Language Detector APIs",
-            "date_modified": "2025-05-09T09:07:31.000Z",
+            "date_modified": "2025-05-12T01:15:06.000Z",
             "date_published": "2025-05-08T10:57:23.000Z",
             "author": {
                 "name": "chrisdavidmills",
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">I was asked to expand upon the Compression Dictionary format section since there is some developer confusion about this.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Clarify format. FYI <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/rmarx/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/rmarx\">@rmarx</a></p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\">Originally added in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2972454334\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/38974\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/38974/hovercard\" href=\"https://github.com/mdn/content/pull/38974\">#38974</a></p>\n",
             "url": "https://github.com/mdn/content/pull/39441",
             "title": "Expand Compression Dictionary format description",
-            "date_modified": "2025-05-07T14:33:42.000Z",
+            "date_modified": "2025-05-12T00:23:56.000Z",
             "date_published": "2025-05-07T14:31:31.000Z",
             "author": {
                 "name": "tunetheweb",
@@ -182,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143106292?u=b3c5814362982b570863d2bb4e99cc0cc32ec862&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Add a warning about using element IDs as global properties on <code class=\"notranslate\">window</code> object, and recommend best practices for safer DOM access.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Help the readers follow modern standard and best practices when selecting and manipulating element using ID.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">None.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39339.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3031836920\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39339\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39339/hovercard\" href=\"https://github.com/mdn/content/issues/39339\">#39339</a></p>\n",
-            "url": "https://github.com/mdn/content/pull/39422",
-            "title": "Add warning against using element IDs as global properties.",
-            "date_modified": "2025-05-07T13:00:41.000Z",
-            "date_published": "2025-05-06T20:30:06.000Z",
-            "author": {
-                "name": "younisdev",
-                "url": "https://github.com/younisdev"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <code class=\"notranslate\">&lt;selectedcontent&gt;</code> reference document to:</p>\n<ol dir=\"auto\">\n<li>Include more details about the limitations of  cloning, and</li>\n<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class=\"notranslate\">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>\n</ol>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">After seeing <a href=\"https://github.com/angular/angular/issues/60636\" data-hovercard-type=\"issue\" data-hovercard-url=\"/angular/angular/issues/60636/hovercard\">this Angular bug</a> related to <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class=\"notranslate\">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>\n<p dir=\"auto\">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class=\"notranslate\">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39411",
             "title": "Add content covering the limitations of <selectedcontent>",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/373675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li>I think there was some issues with pluralization of the word \"Cookie\" at the end of this section, so I attempted to reword it.</li>\n<li>I ended up changing more than I originally intended</li>\n<li>I did not intend to change any of the original meaning. If I did, that was a mistake on my part.</li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39388",
-            "title": "Minor edits to the \"Third-party cookies\" section",
-            "date_modified": "2025-05-04T23:54:16.000Z",
-            "date_published": "2025-05-04T22:56:22.000Z",
-            "author": {
-                "name": "DanKaplanSES",
-                "url": "https://github.com/DanKaplanSES"
             }
         }
     ]
