@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-12T06:01:39.418Z</updated>
+    <updated>2025-05-12T07:01:27.997Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -56,7 +56,7 @@
         <title type="html"><![CDATA[Add an example to search for multi-byte pattern in an array]]></title>
         <id>https://github.com/mdn/content/pull/39479</id>
         <link href="https://github.com/mdn/content/pull/39479"/>
-        <updated>2025-05-11T18:43:00.000Z</updated>
+        <updated>2025-05-12T06:50:24.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/><p dir="auto">And manipulate the array directly.</p>
 
 <h3 dir="auto">Description</h3>
@@ -250,10 +250,10 @@ Covering the SVG and URI sections.</p>
         <title type="html"><![CDATA[Technical review: Document Translator and Language Detector APIs]]></title>
         <id>https://github.com/mdn/content/pull/39457</id>
         <link href="https://github.com/mdn/content/pull/39457"/>
-        <updated>2025-05-12T05:56:13.000Z</updated>
+        <updated>2025-05-12T06:49:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
-<p dir="auto">Chrome 138 supports the <a href="https://webmachinelearning.github.io/translation-api/" rel="nofollow">Translator and Language Detector APIs</a>: see the relevant ChromeStatus entries: <a href="https://chromestatus.com/feature/6494349985841152" rel="nofollow">https://chromestatus.com/feature/6494349985841152</a> and <a href="https://chromestatus.com/feature/6494349985841152" rel="nofollow">https://chromestatus.com/feature/6494349985841152</a>.</p>
+<p dir="auto">Chrome 138 supports the <a href="https://webmachinelearning.github.io/translation-api/" rel="nofollow">Translator and Language Detector APIs</a>: see the relevant ChromeStatus entries: <a href="https://chromestatus.com/feature/6494349985841152" rel="nofollow">https://chromestatus.com/feature/6494349985841152</a> and <a href="https://chromestatus.com/feature/5172811302961152" rel="nofollow">https://chromestatus.com/feature/5172811302961152</a> .</p>
 <p dir="auto">This PR documents this set of APIs — I have done them as a single API, because they are so closely related. It would seem weird to me to have them on two separate API landing pages.</p>
 <p dir="auto">Specifically, I have added:</p>
 <ul dir="auto">
