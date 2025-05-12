@@ -2,11 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss</id>
     <title>w3ctag/design-reviews Design Issues</title>
-    <updated>2025-05-12T21:01:14.583Z</updated>
+    <updated>2025-05-12T22:01:10.609Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss"/>
     <subtitle>w3ctag/design-reviews Design Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Web Authentication Immediate Mediation]]></title>
+        <id>https://github.com/w3ctag/design-reviews/issues/1092</id>
+        <link href="https://github.com/w3ctag/design-reviews/issues/1092"/>
+        <updated>2025-05-12T21:03:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3420999?u=24b8bb8e4ec88286fb536a4fde8afea938381763&v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
+<p dir="auto">I'm requesting a TAG review of a new mediation mode for getting WebAuthn assertion, <code class="notranslate">immediate</code>.</p>
+<p dir="auto">This mode does the following:</p>
+<ul dir="auto">
+<li>If there are discoverable WebAuthn credentials available immediately to the user agent, it shows them to the user for selection.</li>
+<li>If there are no such credentials, throw <code class="notranslate">NotAllowedError</code>.</li>
+</ul>
+<p dir="auto">This differs from existing WebAuthn modal sign-in flows in that they always show UI, allowing users to attempt to use WebAuthn credentials from external authenticators or phones.</p>
+<p dir="auto">This differs from the existing WebAuthn <code class="notranslate">conditional</code> mediation flow in that <code class="notranslate">conditional</code> does not return an error if there are no available credentials. In that case the promise never resolves.</p>
+<ul dir="auto">
+<li>Explainer¹: <a href="https://github.com/w3c/webauthn/wiki/Explainer:-WebAuthn-immediate-mediation">https://github.com/w3c/webauthn/wiki/Explainer:-WebAuthn-immediate-mediation</a></li>
+<li>Specification: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3044250368" data-permission-text="Title is private" data-url="https://github.com/w3c/webauthn/issues/2291" data-hovercard-type="pull_request" data-hovercard-url="/w3c/webauthn/pull/2291/hovercard" href="https://github.com/w3c/webauthn/pull/2291">w3c/webauthn#2291</a></li>
+<li>WPT Tests: Pending</li>
+<li>Security and Privacy self-review²: <a href="https://github.com/w3c/webauthn/wiki/Security-&amp;-Privacy-Self%E2%80%90Review:-Immediate-Mediation">https://github.com/w3c/webauthn/wiki/Security-&amp;-Privacy-Self%E2%80%90Review:-Immediate-Mediation</a></li>
+<li>GitHub repo: <a href="https://github.com/w3c/webauthn/">https://github.com/w3c/webauthn/</a></li>
+<li>Primary contacts:
+<ul dir="auto">
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/kenrb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kenrb">@kenrb</a>, Google, co-author</li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/deephand/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/deephand">@deephand</a>, Google, co-author</li>
+</ul>
+</li>
+<li>Organization/project driving the specification: Google Chrome</li>
+<li>Primary standards group developing this feature: Web Authentication WG</li>
+<li>Incubation and standards groups that have discussed the design:
+<ul dir="auto">
+<li>Github issue: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2787376144" data-permission-text="Title is private" data-url="https://github.com/w3c/webauthn/issues/2228" data-hovercard-type="issue" data-hovercard-url="/w3c/webauthn/issues/2228/hovercard" href="https://github.com/w3c/webauthn/issues/2228">w3c/webauthn#2228</a></li>
+<li>WebAuthn F2F notes (see issue 2228): <a href="https://docs.google.com/document/d/1mfIPmwIeZDSBshSiO88nX8cLW4Vd6bpARyyQVZZDkJs/edit" rel="nofollow">https://docs.google.com/document/d/1mfIPmwIeZDSBshSiO88nX8cLW4Vd6bpARyyQVZZDkJs/edit</a></li>
+</ul>
+</li>
+<li>Multi-stakeholder support³:
+<ul dir="auto">
+<li>Chromium comments: Supports</li>
+<li>Mozilla comments: No official position</li>
+<li>WebKit comments: No official position; interest expressed in F2F meeting minutes linked above</li>
+</ul>
+</li>
+<li>Status/issue trackers for implementations⁴: ChromeStatus <a href="https://chromestatus.com/feature/5164322780872704" rel="nofollow">https://chromestatus.com/feature/5164322780872704</a></li>
+</ul>
+<p dir="auto">Further details:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
+</ul>]]></content>
+        <author>
+            <name>kenrb</name>
+            <email>kenrb@noreply.github.com</email>
+            <uri>https://github.com/kenrb</uri>
+        </author>
+        <published>2025-05-12T21:03:44.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add prefetchCache and prerenderCache to Clear-Site-Data header]]></title>
         <id>https://github.com/w3ctag/design-reviews/issues/1091</id>
@@ -55,12 +109,12 @@
         <title type="html"><![CDATA[CSS corner-shaping]]></title>
         <id>https://github.com/w3ctag/design-reviews/issues/1090</id>
         <link href="https://github.com/w3ctag/design-reviews/issues/1090"/>
-        <updated>2025-05-12T20:36:57.000Z</updated>
+        <updated>2025-05-12T21:04:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/88566?u=b5551d5208a9a90fc7510a9f5502dd4c0afeb05a&v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
 <p dir="auto">I'm requesting a TAG review of CSS corner-shaping.</p>
 <p dir="auto">{{One paragraph summary of the feature, ideally copy-pasted from your Explainer.}}</p>
 <ul dir="auto">
-<li>Explainer¹: <a href="https://github.com/w3c/csswg-drafts/blob/main/css-borders-4/corner-shape-explainer.md">https://github.com/w3c/csswg-drafts/blob/main/css-borders-4/corner-shape-explainer.md</a></li>
+<li>Explainer¹: <a href="https://github.com/noamr/explainers/blob/main/corner-shape-explainer.md">https://github.com/noamr/explainers/blob/main/corner-shape-explainer.md</a></li>
 <li>Specification: <a href="https://drafts.csswg.org/css-borders-4/#corner-shaping" rel="nofollow">https://drafts.csswg.org/css-borders-4/#corner-shaping</a></li>
 <li>WPT Tests:</li>
 <li>User research:</li>
@@ -80,8 +134,8 @@
 <li>Multi-stakeholder support³:
 <ul dir="auto">
 <li>Chromium comments: implementing</li>
-<li>Mozilla comments: TBD</li>
-<li>WebKit comments: TBD</li>
+<li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1753505064" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/823" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/823/hovercard" href="https://github.com/mozilla/standards-positions/issues/823">mozilla/standards-positions#823</a></li>
+<li>WebKit comments: <a href="https://github.com/WebKit/standards-positions/issues/229" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/229/hovercard">supported</a></li>
 <li>{{...include feedback/review from developers, implementers, civil society, and others}}</li>
 </ul>
 </li>
@@ -1189,47 +1243,5 @@ ready: Federated Identity Working Group</p>
             <uri>https://github.com/anssiko</uri>
         </author>
         <published>2025-03-20T14:49:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Private Proof API]]></title>
-        <id>https://github.com/w3ctag/design-reviews/issues/1071</id>
-        <link href="https://github.com/w3ctag/design-reviews/issues/1071"/>
-        <updated>2025-04-03T06:34:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/666538?u=5cd5c8a82e4e49950d3d9c2bf32a1df46f1bd9d3&v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
-<p dir="auto">I'm requesting an early TAG design review of Private Proof API.</p>
-<p dir="auto">This API uses Zero-Knowledge Proofs (ZKPs) to allow analysis of potentially identifiable signals while providing only a limited verdict output. For example, it empowers anti-fraud services to verify whether a user possesses an unmodified stored timestamp older than some provided timestamp without disclosing any additional user data. This approach strikes a balance between user privacy and anti-fraud capabilities by enabling websites to request a reputation signal (such as <a href="https://github.com/antifraudcg/proposals/issues/9" data-hovercard-type="issue" data-hovercard-url="/antifraudcg/proposals/issues/9/hovercard">profile age</a>) on which the user agent can enforce meaningful privacy constraints, while making the signal useful enough to remove the need for other burdensome or invasive checks, and allowing the user to clear said signal at will.</p>
-<ul dir="auto">
-<li>Explainer: <a href="https://explainers-by-googlers.github.io/private-proof/" rel="nofollow">https://explainers-by-googlers.github.io/private-proof/</a></li>
-<li>Security and Privacy self-review: <a href="https://explainers-by-googlers.github.io/private-proof/security-privacy-questionnaire" rel="nofollow">https://explainers-by-googlers.github.io/private-proof/security-privacy-questionnaire</a></li>
-<li>GitHub repo: <a href="https://github.com/explainers-by-googlers/private-proof">https://github.com/explainers-by-googlers/private-proof</a></li>
-<li>Primary contacts:
-<ul dir="auto">
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/arichiv/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/arichiv">@arichiv</a>, Google Chrome, Author</li>
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/SamuelSchlesinger/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/SamuelSchlesinger">@SamuelSchlesinger</a>, Google Chrome, Author</li>
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/philippp/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/philippp">@philippp</a>, Google Chrome, Author</li>
-</ul>
-</li>
-<li>Organization/project driving the design: Google Chrome</li>
-<li>Multi-stakeholder feedback³:
-<ul dir="auto">
-<li>Chromium comments: <a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/JrJwSd43hGM" rel="nofollow">https://groups.google.com/a/chromium.org/g/blink-dev/c/JrJwSd43hGM</a>, <a href="https://issues.chromium.org/404546887" rel="nofollow">https://issues.chromium.org/404546887</a>, <a href="https://chromestatus.com/feature/4848107667587072" rel="nofollow">https://chromestatus.com/feature/4848107667587072</a></li>
-<li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2932271915" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1196" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1196/hovercard" href="https://github.com/mozilla/standards-positions/issues/1196">mozilla/standards-positions#1196</a></li>
-<li>WebKit comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2932282646" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/473" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/473/hovercard" href="https://github.com/WebKit/standards-positions/issues/473">WebKit/standards-positions#473</a></li>
-</ul>
-</li>
-</ul>
-<p dir="auto">Further details:</p>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
-<li>The group where the incubation/design work on this is being done (or is intended to be done in the future): Anti-Fraud CG</li>
-<li>The group where standardization of this work is intended to be done ("unknown" if not known): Anti-Fraud CG</li>
-<li>This work is being funded by: Google Chrome</li>
-</ul>]]></content>
-        <author>
-            <name>arichiv</name>
-            <email>arichiv@noreply.github.com</email>
-            <uri>https://github.com/arichiv</uri>
-        </author>
-        <published>2025-03-19T15:38:51.000Z</published>
     </entry>
 </feed>
