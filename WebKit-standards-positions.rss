@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/WebKit-standards-positions.rss</id>
     <title>WebKit/standards-positions Issues</title>
-    <updated>2025-05-12T23:01:12.584Z</updated>
+    <updated>2025-05-13T00:04:25.755Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/WebKit-standards-positions.rss"/>
     <subtitle>WebKit/standards-positions Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[ToggleEvent source attribute]]></title>
+        <id>https://github.com/WebKit/standards-positions/issues/494</id>
+        <link href="https://github.com/WebKit/standards-positions/issues/494"/>
+        <updated>2025-05-12T23:35:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7681467?u=975aa36c2bf890f0c3f43db7a9d653fd4ad5a5f2&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">WebKittens</h3>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/annevk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/annevk">@annevk</a> <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/nt1m/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/nt1m">@nt1m</a></p>
+<h3 dir="auto">Title of the proposal</h3>
+<p dir="auto">ToggleEvent source attribute</p>
+<h3 dir="auto">URL to the spec</h3>
+<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2967738196" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/11186" data-hovercard-type="pull_request" data-hovercard-url="/whatwg/html/pull/11186/hovercard" href="https://github.com/whatwg/html/pull/11186">whatwg/html#11186</a></p>
+<h3 dir="auto">URL to the spec's repository</h3>
+<p dir="auto"><a href="https://github.com/whatwg/html">https://github.com/whatwg/html</a></p>
+<h3 dir="auto">Issue Tracker URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Explainer URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">TAG Design Review URL</h3>
+<p dir="auto">none</p>
+<h3 dir="auto">Mozilla standards-positions issue URL</h3>
+<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2967738196" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/11186" data-hovercard-type="pull_request" data-hovercard-url="/whatwg/html/pull/11186/hovercard" href="https://github.com/whatwg/html/pull/11186">whatwg/html#11186</a></p>
+<h3 dir="auto">WebKit Bugzilla URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Radar URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Description</h3>
+<p dir="auto">This adds a new Element attribute to ToggleEvent called source. The ToggleEvent's source attribute is set to the element which invoked the element which the ToggleEvent is being fired on. Sources can be set up as a parameter passed to element.showPopover(), an element with the popovertarget attribute, or an element with the commandfor attribute.</p>]]></content>
+        <author>
+            <name>josepharhar</name>
+            <email>josepharhar@noreply.github.com</email>
+            <uri>https://github.com/josepharhar</uri>
+        </author>
+        <published>2025-05-12T23:35:02.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Send Sec-Purpose header for link type prefetch (rel=prefetch)]]></title>
         <id>https://github.com/WebKit/standards-positions/issues/493</id>
@@ -295,7 +329,7 @@
 Some of the concerns above (not about privacy nor obfuscation) are also <a href="https://github.com/webmachinelearning/webnn/issues/840" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/840/hovercard">in the WebNN Github Repo</a>.</li>
 </ol>
 <p dir="auto">In a single image, this is what they propose (copied from their repository):</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwOTExNzIsIm5iZiI6MTc0NzA5MDg3MiwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxMlQyMzAxMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05Y2U3ODkyMDJjN2Y3OTE2MWE1Yzg2MjRiMDE0NTRlNThhN2RlYWQ4OTRiYjcwN2Y5OGQxMmE2NGUwMTUzMzM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1kKHKgXyN1H88etFkGDSlvOeqCR6nJtFsoQ_X32KKbw"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwOTExNzIsIm5iZiI6MTc0NzA5MDg3MiwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxMlQyMzAxMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05Y2U3ODkyMDJjN2Y3OTE2MWE1Yzg2MjRiMDE0NTRlNThhN2RlYWQ4OTRiYjcwN2Y5OGQxMmE2NGUwMTUzMzM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1kKHKgXyN1H88etFkGDSlvOeqCR6nJtFsoQ_X32KKbw" alt="Image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwOTQ5NjUsIm5iZiI6MTc0NzA5NDY2NSwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxM1QwMDA0MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOTI3MDlhNGZjNzQ0ZDZhNDhhOWQ3ZjU0YjRhNGZmNTRlYWNkZDg3ZmE1MDA0OTZlOTBmYjBhOTg0NDhiOWRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8NkCl2IGPa0JawPeAMsqz1dA9HdV_hij1mt1S9czooA"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwOTQ5NjUsIm5iZiI6MTc0NzA5NDY2NSwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxM1QwMDA0MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOTI3MDlhNGZjNzQ0ZDZhNDhhOWQ3ZjU0YjRhNGZmNTRlYWNkZDg3ZmE1MDA0OTZlOTBmYjBhOTg0NDhiOWRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8NkCl2IGPa0JawPeAMsqz1dA9HdV_hij1mt1S9czooA" alt="Image" style="max-width: 100%;"></a></p>
 <p dir="auto"><strong>Misc.</strong>: Mozilla <a href="https://github.com/mozilla/standards-positions/issues/1215" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1215/hovercard">does have an issue about it</a>, just not a position yet.</p>]]></content>
         <author>
             <name>iampi31415</name>
@@ -435,7 +469,7 @@ Some of the concerns above (not about privacy nor obfuscation) are also <a href=
 <h3 dir="auto">Description</h3>
 <h1 dir="auto"><a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/SystemStatusIcon/explainer.md">System Status Icons for Installed desktop Web Apps</a></h1>
 <p dir="auto"><a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/SystemStatusIcon/explainer.md">This proposal</a> aims to provide installed desktop web apps with a UX affordance available to native apps. In macOS, this is the concept of a "menu extra", and in macOS it "exposes app-specific functionality using an icon that appears in the menu bar when your app is running, even when it’s not the frontmost app".</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwOTExNzIsIm5iZiI6MTc0NzA5MDg3MiwicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTEyVDIzMDExMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMDBmMTcwMzJiMmRhYmNmNWZiNDU4NmY2ZDU2OTU2M2ZkYmM5OWMyNDY2NzkwMTg5ZTVjZGRjMjU2YzUyMzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kuzew9lQ36owWfaNmCbyPBlVsMj4Y_wgI4cX0ui_RtU"><img src="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwOTExNzIsIm5iZiI6MTc0NzA5MDg3MiwicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTEyVDIzMDExMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMDBmMTcwMzJiMmRhYmNmNWZiNDU4NmY2ZDU2OTU2M2ZkYmM5OWMyNDY2NzkwMTg5ZTVjZGRjMjU2YzUyMzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kuzew9lQ36owWfaNmCbyPBlVsMj4Y_wgI4cX0ui_RtU" alt="Image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwOTQ5NjUsIm5iZiI6MTc0NzA5NDY2NSwicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTEzVDAwMDQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkYmZkMzdkMmM2YjgxYmFjM2EyZDBlOWQyNGUxODFmMGI4MDZlZDc0ODk1OTg5YzI5MGVmOTA3ODViZWU1ODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dIhBcIQn8vCdg8kSWd6hCD8UkB-TyrIYRVpsZ5WOFxw"><img src="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwOTQ5NjUsIm5iZiI6MTc0NzA5NDY2NSwicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTEzVDAwMDQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkYmZkMzdkMmM2YjgxYmFjM2EyZDBlOWQyNGUxODFmMGI4MDZlZDc0ODk1OTg5YzI5MGVmOTA3ODViZWU1ODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dIhBcIQn8vCdg8kSWd6hCD8UkB-TyrIYRVpsZ5WOFxw" alt="Image" style="max-width: 100%;"></a></p>
 <p dir="auto">This can be useful for a plethora of cases, as seen in VPN software, video players, IM clients use it today.</p>
 <p dir="auto">We think enabling this optional feature for web apps elevates an app's UX and benefits the end user. I am very keen on reading your comments about this possible future feature.</p>
 <p dir="auto">Thanks!</p>
@@ -726,42 +760,5 @@ Chromestatus entry: <a href="https://chromestatus.com/feature/5176206485618688" 
             <uri>https://github.com/dalecurtis</uri>
         </author>
         <published>2025-03-20T16:51:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Shapes: vertex rounding for polygon()]]></title>
-        <id>https://github.com/WebKit/standards-positions/issues/474</id>
-        <link href="https://github.com/WebKit/standards-positions/issues/474"/>
-        <updated>2025-04-28T08:49:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1286791?u=b52aa0fbbf4f2e60b84f67ac912b1bdb305357c7&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">WebKittens</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Title of the proposal</h3>
-<p dir="auto">CSS shapes</p>
-<h3 dir="auto">URL to the spec</h3>
-<p dir="auto"><a href="https://drafts.csswg.org/css-shapes/#supported-basic-shapes" rel="nofollow">https://drafts.csswg.org/css-shapes/#supported-basic-shapes</a></p>
-<h3 dir="auto">URL to the spec's repository</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Issue Tracker URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Explainer URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">TAG Design Review URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Mozilla standards-positions issue URL</h3>
-<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2935243724" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1197" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1197/hovercard" href="https://github.com/mozilla/standards-positions/issues/1197">mozilla/standards-positions#1197</a></p>
-<h3 dir="auto">WebKit Bugzilla URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Radar URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Description</h3>
-<blockquote>
-<p dir="auto">There is a wide variety of use cases where authors want to clip or mask an element based on a shape that is basically a simple polygon plus rounding. Right now this is exceedingly complicated to do by hand (since you'd need to use path()), and practically impossible to do with the same flexibility of units that polygon() supports.</p>
-</blockquote>
-<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2097316294" data-permission-text="Title is private" data-url="https://github.com/w3c/csswg-drafts/issues/9843" data-hovercard-type="issue" data-hovercard-url="/w3c/csswg-drafts/issues/9843/hovercard" href="https://github.com/w3c/csswg-drafts/issues/9843">w3c/csswg-drafts#9843</a></p>]]></content>
-        <author>
-            <name>jsnkuhn</name>
-            <email>jsnkuhn@noreply.github.com</email>
-            <uri>https://github.com/jsnkuhn</uri>
-        </author>
-        <published>2025-03-20T11:50:32.000Z</published>
     </entry>
 </feed>

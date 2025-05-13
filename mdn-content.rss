@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-12T23:01:15.243Z</updated>
+    <updated>2025-05-13T00:04:28.463Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -85,36 +85,10 @@
         <published>2025-05-12T14:26:33.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add username/password section to URLs guide]]></title>
-        <id>https://github.com/mdn/content/pull/39487</id>
-        <link href="https://github.com/mdn/content/pull/39487"/>
-        <updated>2025-05-12T13:00:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Adds some information about usernames and passwords to the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL#authority" rel="nofollow">What is a URL?</a> article.</p>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39478.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3055021569" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39478" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39478/hovercard" href="https://github.com/mdn/content/issues/39478">#39478</a></p>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>chrisdavidmills</name>
-            <email>chrisdavidmills@noreply.github.com</email>
-            <uri>https://github.com/chrisdavidmills</uri>
-        </author>
-        <published>2025-05-12T12:58:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Improve soft skills recommendations]]></title>
         <id>https://github.com/mdn/content/pull/39486</id>
         <link href="https://github.com/mdn/content/pull/39486"/>
-        <updated>2025-05-12T12:13:32.000Z</updated>
+        <updated>2025-05-12T23:06:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">As per <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3012068048" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39241" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39241/hovercard" href="https://github.com/mdn/content/issues/39241">#39241</a>, this PR improves the recommendations in the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Soft_skills" rel="nofollow">Soft Skills</a> articles, for example, adding more open-source community options.</p>
@@ -283,7 +257,7 @@ Covering the SVG and URI sections.</p>
         <title type="html"><![CDATA[Add more documentation for sizes=auto]]></title>
         <id>https://github.com/mdn/content/pull/39464</id>
         <link href="https://github.com/mdn/content/pull/39464"/>
-        <updated>2025-05-09T13:25:28.000Z</updated>
+        <updated>2025-05-12T23:59:35.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 
@@ -414,7 +388,7 @@ Covering the SVG and URI sections.</p>
         <title type="html"><![CDATA[Expand Compression Dictionary format description]]></title>
         <id>https://github.com/mdn/content/pull/39441</id>
         <link href="https://github.com/mdn/content/pull/39441"/>
-        <updated>2025-05-12T09:27:51.000Z</updated>
+        <updated>2025-05-12T23:53:33.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 
@@ -510,5 +484,32 @@ Covering the SVG and URI sections.</p>
             <uri>https://github.com/philipwalton</uri>
         </author>
         <published>2025-05-05T17:53:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editorial review: Add reading-flow and reading-order docs]]></title>
+        <id>https://github.com/mdn/content/pull/39404</id>
+        <link href="https://github.com/mdn/content/pull/39404"/>
+        <updated>2025-05-12T10:53:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Completing work originally started by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Praveen7294/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Praveen7294">@Praveen7294</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2958583342" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/38859" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/38859/hovercard" href="https://github.com/mdn/content/pull/38859">#38859</a>, on documenting the <code class="notranslate">reading-flow</code> and <code class="notranslate">reading-order</code> properties.</p>
+<p dir="auto">See <a href="https://drafts.csswg.org/css-display-4/#reading-flow" rel="nofollow">https://drafts.csswg.org/css-display-4/#reading-flow</a> for the specification.</p>
+<p dir="auto">This PR adds ref pages for the two properties, but also updates the CSS Display module page to suit, and adds a glossary entry for "reading order".</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-05T10:33:27.000Z</published>
     </entry>
 </feed>
