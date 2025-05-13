@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-13T14:01:23.842Z</updated>
+    <updated>2025-05-13T15:01:51.648Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -84,24 +84,6 @@ And these values are essential for the property and likely supported from the st
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-13T12:59:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add table-layout: {auto,fixed}]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26788</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26788"/>
-        <updated>2025-05-13T12:47:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/349114?u=1185d4fc45f5ff4c4a592b30a4dd2bb5cd1b7128&v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
-<p dir="auto">Add table-layout: {auto,fixed} values</p>
-<h4 dir="auto">Test results and supporting details</h4>
-<p dir="auto">The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.13.0).</p>
-<h4 dir="auto">Related issues</h4>
-<p dir="auto">None.</p>]]></content>
-        <author>
-            <name>Elchi3</name>
-            <email>Elchi3@noreply.github.com</email>
-            <uri>https://github.com/Elchi3</uri>
-        </author>
-        <published>2025-05-13T12:47:01.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Add auto value to text-underline-position CSS property; add specs]]></title>
@@ -211,7 +193,7 @@ And these values are essential for the property and likely supported from the st
 <h4 dir="auto">Test results and supporting details</h4>
 
 <p dir="auto">Tested in <a href="https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace</a>:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxNDUxODMsIm5iZiI6MTc0NzE0NDg4MywicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTQwMTIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjI5NjY4MTg2MDEzNGZkZjU0OWQ4MzVhYmMwYTU4MjI0NzBlY2M2NDQ5MDY1Y2Q2M2MyZDI1NmYwMTgxY2VjZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.APmtkAii1sQDmcEqACFGVV-0mGwF_7kefzptmuyKJJ8"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxNDUxODMsIm5iZiI6MTc0NzE0NDg4MywicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTQwMTIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjI5NjY4MTg2MDEzNGZkZjU0OWQ4MzVhYmMwYTU4MjI0NzBlY2M2NDQ5MDY1Y2Q2M2MyZDI1NmYwMTgxY2VjZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.APmtkAii1sQDmcEqACFGVV-0mGwF_7kefzptmuyKJJ8" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxNDg4MTEsIm5iZiI6MTc0NzE0ODUxMSwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTUwMTUxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OTkzMzc3ZjA5NWUyNjcwMmRhODJiZTNhOGZiNGU0N2JlOWQ4ZWRjNzRhM2QwZmNiY2VmZGM5NTQ5OTg5M2U4OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.p5xWWV1Pu8gbMl_RXmh2JrJGTWFm2rp4ZBY0JSgzgD8"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxNDg4MTEsIm5iZiI6MTc0NzE0ODUxMSwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTUwMTUxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OTkzMzc3ZjA5NWUyNjcwMmRhODJiZTNhOGZiNGU0N2JlOWQ4ZWRjNzRhM2QwZmNiY2VmZGM5NTQ5OTg5M2U4OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.p5xWWV1Pu8gbMl_RXmh2JrJGTWFm2rp4ZBY0JSgzgD8" alt="image" style="max-width: 100%;"></a></p>
 
 <p dir="auto">Description from webkit blog: <a href="https://webkit.org/blog/16574/webkit-features-in-safari-18-4/" rel="nofollow">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></p>
 <h4 dir="auto">Related issues</h4>
@@ -313,5 +295,31 @@ And these values are essential for the property and likely supported from the st
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-04-28T23:26:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Safari + iOS data for optgroup.disabled]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26644</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26644"/>
+        <updated>2025-05-09T08:06:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/301798?u=655c6341a7e8431056ec79000d0dfcfc715f679c&v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
+<p dir="auto">Record incomplete support for the disabled attribute on optgroup elements in desktop Safari v6 and current versions of iOS Safari.</p>
+<h4 dir="auto">Test results and supporting details</h4>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/caugner/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/caugner">@caugner</a> created <a href="https://output.jsbin.com/moqafahuhe" rel="nofollow">a JS Bin test case</a> and was able to reproduce back to iOS 11.2.</p>
+<p dir="auto">I tested in:</p>
+<ul dir="auto">
+<li>Safari 17.6 on MacOS 12.7.6 - passes</li>
+<li>Safari 18.4 on MacOS 15.4.1 - passes</li>
+<li>iOS 18.3.1 - <strong>fails</strong></li>
+</ul>
+<p dir="auto">Commit history found from <a href="https://bugs.webkit.org/show_bug.cgi?id=87614" rel="nofollow">bug 87614</a> suggests this issue was <strong>likely present in desktop Safari 6</strong> (introduced in 536.11), but fixed by version 7 (fix merged in 537.43.1). I'm unable to test whether it was actually working properly earlier.</p>
+<p dir="auto">There is <a href="https://bugs.webkit.org/show_bug.cgi?id=227042" rel="nofollow">an unresolved bug for iOS and iPadOS</a>.</p>
+<h4 dir="auto">Related issues</h4>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #26219.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2920698731" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26219" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26219/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26219">#26219</a></p>]]></content>
+        <author>
+            <name>telic</name>
+            <email>telic@noreply.github.com</email>
+            <uri>https://github.com/telic</uri>
+        </author>
+        <published>2025-04-27T22:47:11.000Z</published>
     </entry>
 </feed>
