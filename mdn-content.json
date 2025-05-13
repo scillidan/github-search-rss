@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169500326?u=2e150f3dd45b7ac553f2dd1e2d81e990ccb4f325&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">It looks like <code class=\"notranslate\">Uint8Array.prototype.setFromHex()</code> is correct here instead of <code class=\"notranslate\">Uint8Array.setFromHex()</code>. This is an instance method.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">If the title is incorrect, it can be confusing.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<ul dir=\"auto\">\n<li><a href=\"https://tc39.es/proposal-arraybuffer-base64/spec/#sec-uint8array.prototype.setfromhex\" rel=\"nofollow\">https://tc39.es/proposal-arraybuffer-base64/spec/#sec-uint8array.prototype.setfromhex</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39494",
+            "title": "Correct page title for `Uint8Array.prototype.setFromHex()`",
+            "date_modified": "2025-05-13T01:28:39.000Z",
+            "date_published": "2025-05-13T01:26:50.000Z",
+            "author": {
+                "name": "dontwanttothink",
+                "url": "https://github.com/dontwanttothink"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is going to be a series of guides. They will be added to the module landing page and the yaml file when complete (don't want any guide to hold up the others, and there are too many files being edited in this project to make it one PR).</p>",
             "url": "https://github.com/mdn/content/pull/39490",
             "title": "Guide: intro to masking",
@@ -17,21 +28,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/in/29110?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bumps <a href=\"https://github.com/DavidAnson/markdownlint-cli2\">markdownlint-cli2</a> from 0.17.2 to 0.18.0.</p>\n<details>\n<summary>Changelog</summary>\n<p dir=\"auto\"><em>Sourced from <a href=\"https://github.com/DavidAnson/markdownlint-cli2/blob/main/CHANGELOG.md\">markdownlint-cli2's changelog</a>.</em></p>\n<blockquote>\n<h2 dir=\"auto\">0.18.0</h2>\n<ul dir=\"auto\">\n<li>Use user ID in Docker containers for security</li>\n<li>Update dependencies (including <code class=\"notranslate\">markdownlint</code>)</li>\n<li>Remove support for end-of-life Node 18</li>\n</ul>\n</blockquote>\n</details>\n<details>\n<summary>Commits</summary>\n<ul dir=\"auto\">\n<li><a href=\"https://github.com/DavidAnson/markdownlint-cli2/commit/e8d3f68e991c21cd60aeabefdbb429e5b5ba11b3\"><code class=\"notranslate\">e8d3f68</code></a> Update to version 0.18.0.</li>\n<li><a href=\"https://github.com/DavidAnson/markdownlint-cli2/commit/c6ca9093a610912d8e62d471721819ed6a1de5c8\"><code class=\"notranslate\">c6ca909</code></a> Bump markdownlint-cli2-formatter-junit from 0.0.12 to 0.0.13</li>\n<li><a href=\"https://github.com/DavidAnson/markdownlint-cli2/commit/b28cf4af9271cff601a7c7803dfb83ffcdf6ae24\"><code class=\"notranslate\">b28cf4a</code></a> Bump markdownlint-cli2-formatter-pretty from 0.0.7 to 0.0.8</li>\n<li><a href=\"https://github.com/DavidAnson/markdownlint-cli2/commit/e443d9f725b57985f4d47cb67e14d53139f87c99\"><code class=\"notranslate\">e443d9f</code></a> Bump markdownlint-cli2-formatter-template from 0.0.2 to 0.0.3</li>\n<li><a href=\"https://github.com/DavidAnson/markdownlint-cli2/commit/8e24647b6be065aaf65dc7048b58dd0e4836bfda\"><code class=\"notranslate\">8e24647</code></a> Update README.md to suggest using noBanner with noProgress to implement conve...</li>\n<li><a href=\"https://github.com/DavidAnson/markdownlint-cli2/commit/ea7be7a18c57cafb81e7433a524f2406843f7d08\"><code class=\"notranslate\">ea7be7a</code></a> Update versions of formatter-junit/pretty/template (to pick up changes to pac...</li>\n<li><a href=\"https://github.com/DavidAnson/markdownlint-cli2/commit/690f2f66568c2fe78a6b8813924a50e92ee9154d\"><code class=\"notranslate\">690f2f6</code></a> Bump eslint-plugin-n from 17.17.0 to 17.18.0</li>\n<li><a href=\"https://github.com/DavidAnson/markdownlint-cli2/commit/407040210e77b2e31d249f6b03228bb9ef108055\"><code class=\"notranslate\">4070402</code></a> Bump nano-spawn from 0.2.0 to 0.2.1</li>\n<li><a href=\"https://github.com/DavidAnson/markdownlint-cli2/commit/bb12d0f0935fda291d51d277749774f4034e14c8\"><code class=\"notranslate\">bb12d0f</code></a> Add released Node version 24 to CI workflow.</li>\n<li><a href=\"https://github.com/DavidAnson/markdownlint-cli2/commit/f75b0ba44b1adb43b7cb73b1c4b31fc753cfcb43\"><code class=\"notranslate\">f75b0ba</code></a> Update Dockerfile-rules to use user ID (vs. name) for consistency with Docker...</li>\n<li>Additional commits viewable in <a href=\"https://github.com/DavidAnson/markdownlint-cli2/compare/v0.17.2...v0.18.0\">compare view</a></li>\n</ul>\n</details>\n<br>\n<p dir=\"auto\"><a href=\"https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores\"><img src=\"https://camo.githubusercontent.com/47ea57187fd6f160e00dbbfadc8f28d4f442a0c904963c1dc4b73c7b67effc65/68747470733a2f2f646570656e6461626f742d6261646765732e6769746875626170702e636f6d2f6261646765732f636f6d7061746962696c6974795f73636f72653f646570656e64656e63792d6e616d653d6d61726b646f776e6c696e742d636c6932267061636b6167652d6d616e616765723d6e706d5f616e645f7961726e2670726576696f75732d76657273696f6e3d302e31372e32266e65772d76657273696f6e3d302e31382e30\" alt=\"Dependabot compatibility score\" data-canonical-src=\"https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=markdownlint-cli2&amp;package-manager=npm_and_yarn&amp;previous-version=0.17.2&amp;new-version=0.18.0\" style=\"max-width: 100%;\"></a></p>\n<p dir=\"auto\">Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting <code class=\"notranslate\">@dependabot rebase</code>.</p>\n<p dir=\"auto\">Dependabot will merge this PR once CI passes on it, as requested by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/mdn-bot/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/mdn-bot\">@mdn-bot</a>.</p>\n<hr>\n<details>\n<summary>Dependabot commands and options</summary>\n<br>\n<p dir=\"auto\">You can trigger Dependabot actions by commenting on this PR:</p>\n<ul dir=\"auto\">\n<li><code class=\"notranslate\">@dependabot rebase</code> will rebase this PR</li>\n<li><code class=\"notranslate\">@dependabot recreate</code> will recreate this PR, overwriting any edits that have been made to it</li>\n<li><code class=\"notranslate\">@dependabot merge</code> will merge this PR after your CI passes on it</li>\n<li><code class=\"notranslate\">@dependabot squash and merge</code> will squash and merge this PR after your CI passes on it</li>\n<li><code class=\"notranslate\">@dependabot cancel merge</code> will cancel a previously requested merge and block automerging</li>\n<li><code class=\"notranslate\">@dependabot reopen</code> will reopen this PR if it is closed</li>\n<li><code class=\"notranslate\">@dependabot close</code> will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually</li>\n<li><code class=\"notranslate\">@dependabot show &lt;dependency name&gt; ignore conditions</code> will show all of the ignore conditions of the specified dependency</li>\n<li><code class=\"notranslate\">@dependabot ignore this major version</code> will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)</li>\n<li><code class=\"notranslate\">@dependabot ignore this minor version</code> will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)</li>\n<li><code class=\"notranslate\">@dependabot ignore this dependency</code> will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)</li>\n</ul>\n</details>",
-            "url": "https://github.com/mdn/content/pull/39488",
-            "title": "Bump markdownlint-cli2 from 0.17.2 to 0.18.0",
-            "date_modified": "2025-05-12T15:12:54.000Z",
-            "date_published": "2025-05-12T14:26:33.000Z",
-            "author": {
-                "name": "dependabot",
-                "url": "https://github.com/apps/dependabot"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">As per <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3012068048\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39241\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39241/hovercard\" href=\"https://github.com/mdn/content/issues/39241\">#39241</a>, this PR improves the recommendations in the <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Soft_skills\" rel=\"nofollow\">Soft Skills</a> articles, for example, adding more open-source community options.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39241.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3012068048\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39241\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39241/hovercard\" href=\"https://github.com/mdn/content/issues/39241\">#39241</a></p>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39486",
             "title": "Improve soft skills recommendations",
-            "date_modified": "2025-05-12T23:06:57.000Z",
+            "date_modified": "2025-05-13T00:59:00.000Z",
             "date_published": "2025-05-12T12:11:34.000Z",
             "author": {
                 "name": "chrisdavidmills",
@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/286386?u=bc4894b945491e0834d2306dade7fef748ddf698&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<ul dir=\"auto\">\n<li>Added list of supported <code class=\"notranslate\">calendar</code> types to:\n<ul dir=\"auto\">\n<li>Temporal.PlainDate.prototype.withCalendar()</li>\n<li>Temporal.PlainDateTime.prototype.withCalendar()</li>\n</ul>\n</li>\n</ul>\n<h3 dir=\"auto\">Motivation</h3>\n<ul dir=\"auto\">\n<li>Working on the release of <a href=\"https://github.com/mdn/content/issues/39303\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39303/hovercard\">Temporal API</a> and there was no rela colelation with the <code class=\"notranslate\">withCalendar()</code> method and what calendar type can be used.</li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<ul dir=\"auto\">\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1912511\" rel=\"nofollow\">Ship Temporal Bug</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1950425\" rel=\"nofollow\">Disable calendar bug</a></li>\n<li><a href=\"https://github.com/mdn/browser-compat-data/pull/26753\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26753/hovercard\"><code class=\"notranslate\">PlainDateTime</code> BCD PR</a></li>\n<li><a href=\"https://github.com/mdn/browser-compat-data/pull/26758\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26758/hovercard\"><code class=\"notranslate\">PlainDate</code> BCD PR</a></li>\n</ul>",
             "url": "https://github.com/mdn/content/pull/39471",
             "title": "added links to the supported calendar types",
-            "date_modified": "2025-05-12T15:59:25.000Z",
+            "date_modified": "2025-05-13T00:22:13.000Z",
             "date_published": "2025-05-09T14:33:58.000Z",
             "author": {
                 "name": "dletorey",
@@ -97,22 +97,11 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR links to child pages when missing from parent.<br>\nCovering the SVG and URI sections.</p>\n<p dir=\"auto\"><strong>Relates to:</strong></p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3051845147\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39469\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39469/hovercard\" href=\"https://github.com/mdn/content/pull/39469\">#39469</a></li>\n</ul>",
             "url": "https://github.com/mdn/content/pull/39470",
             "title": "chore: Link to child pages in SVG, URI section",
-            "date_modified": "2025-05-12T14:51:43.000Z",
+            "date_modified": "2025-05-13T00:38:33.000Z",
             "date_published": "2025-05-09T14:30:57.000Z",
             "author": {
                 "name": "bsmth",
                 "url": "https://github.com/bsmth"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Add <code class=\"notranslate\">sizes=auto</code> description to htmlimgageelement doc and add extra note to equivalent <code class=\"notranslate\">&lt;img&gt;</code> doc (where it is documented already).</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">New feature that is underdocumented.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\"><a href=\"https://chromestatus.com/feature/5191555708616704\" rel=\"nofollow\">https://chromestatus.com/feature/5191555708616704</a><br>\n<a href=\"https://ericportis.com/posts/2023/auto-sizes-pretty-much-requires-width-and-height/\" rel=\"nofollow\">https://ericportis.com/posts/2023/auto-sizes-pretty-much-requires-width-and-height/</a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\">Was added to BCD in: <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2404335903\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/23785\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/23785/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/23785\">mdn/browser-compat-data#23785</a></p>\n<p dir=\"auto\">Was also partially added in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2838269309\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/38025\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/38025/hovercard\" href=\"https://github.com/mdn/content/pull/38025\">#38025</a></p>\n\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #30596.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2014138727\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/30596\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/30596/hovercard\" href=\"https://github.com/mdn/content/issues/30596\">#30596</a></p>",
-            "url": "https://github.com/mdn/content/pull/39464",
-            "title": "Add more documentation for sizes=auto",
-            "date_modified": "2025-05-12T23:59:35.000Z",
-            "date_published": "2025-05-09T07:04:19.000Z",
-            "author": {
-                "name": "tunetheweb",
-                "url": "https://github.com/tunetheweb"
             }
         },
         {
@@ -149,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/87750369?u=ccc1f52005708ae16bcb50e325e02145bff0ef7d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #36950.\">fix</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2687974019\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/36950\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/36950/hovercard\" href=\"https://github.com/mdn/content/issues/36950\">#36950</a></li>\n</ul>\n<p dir=\"auto\">The PR updates <code class=\"notranslate\">via</code> -&gt; <code class=\"notranslate\">with</code> and <code class=\"notranslate\">160px 1px 20% 16px</code> -&gt; <code class=\"notranslate\">160px 1px / 20% 16px</code>. The examples have also been updated.</p>\n<p dir=\"auto\">Test this on Chrome or Safari. Firefox hasn't released the feature yet.</p>",
-            "url": "https://github.com/mdn/content/pull/39454",
-            "title": "css(fix): update 'shape()' page",
-            "date_modified": "2025-05-10T02:28:58.000Z",
-            "date_published": "2025-05-08T09:45:33.000Z",
-            "author": {
-                "name": "OnkarRuikar",
-                "url": "https://github.com/OnkarRuikar"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Follow up to <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3042231028\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39416\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39416/hovercard\" href=\"https://github.com/mdn/content/pull/39416\">#39416</a>.</p>\n<p dir=\"auto\">The page currently presents an incomplete example and refers to <a href=\"https://github.com/mdn/dom-examples/blob/main/insert-adjacent/insertAdjacentElement.html\">https://github.com/mdn/dom-examples/blob/main/insert-adjacent/insertAdjacentElement.html</a> for the complete runnable example. There's no reason this entire example can't be in the page.</p>\n<p dir=\"auto\">I also made some changes to the code to make it more concise and expressive, and use modern syntax like arrow functions and template literals.</p>",
             "url": "https://github.com/mdn/content/pull/39443",
             "title": "Make insertAdjacentElement example a live example in the page",
@@ -168,17 +146,6 @@
             "author": {
                 "name": "wbamberg",
                 "url": "https://github.com/wbamberg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">I was asked to expand upon the Compression Dictionary format section since there is some developer confusion about this.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Clarify format. FYI <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/rmarx/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/rmarx\">@rmarx</a></p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\">Originally added in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2972454334\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/38974\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/38974/hovercard\" href=\"https://github.com/mdn/content/pull/38974\">#38974</a></p>\n",
-            "url": "https://github.com/mdn/content/pull/39441",
-            "title": "Expand Compression Dictionary format description",
-            "date_modified": "2025-05-12T23:53:33.000Z",
-            "date_published": "2025-05-07T14:31:31.000Z",
-            "author": {
-                "name": "tunetheweb",
-                "url": "https://github.com/tunetheweb"
             }
         },
         {
@@ -207,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <code class=\"notranslate\">&lt;selectedcontent&gt;</code> reference document to:</p>\n<ol dir=\"auto\">\n<li>Include more details about the limitations of  cloning, and</li>\n<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class=\"notranslate\">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>\n</ol>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">After seeing <a href=\"https://github.com/angular/angular/issues/60636\" data-hovercard-type=\"issue\" data-hovercard-url=\"/angular/angular/issues/60636/hovercard\">this Angular bug</a> related to <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class=\"notranslate\">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>\n<p dir=\"auto\">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class=\"notranslate\">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39411",
             "title": "Add content covering the limitations of <selectedcontent>",
-            "date_modified": "2025-05-09T15:01:41.000Z",
+            "date_modified": "2025-05-13T00:51:55.000Z",
             "date_published": "2025-05-05T17:53:05.000Z",
             "author": {
                 "name": "philipwalton",
@@ -223,6 +190,39 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/373675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li>I think there was some issues with pluralization of the word \"Cookie\" at the end of this section, so I attempted to reword it.</li>\n<li>I ended up changing more than I originally intended</li>\n<li>I did not intend to change any of the original meaning. If I did, that was a mistake on my part.</li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/39388",
+            "title": "Minor edits to the \"Third-party cookies\" section",
+            "date_modified": "2025-05-04T23:54:16.000Z",
+            "date_published": "2025-05-04T22:56:22.000Z",
+            "author": {
+                "name": "DanKaplanSES",
+                "url": "https://github.com/DanKaplanSES"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The example shows two things:</p>\n<ol dir=\"auto\">\n<li>How to get the charset from the page meta tag (using normal utf-8 TextDecoder)</li>\n<li>Using an external library because TextEncoder will not work</li>\n</ol>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">All other examples are for a UTF-8 page.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39385",
+            "title": "Add an example to show how to handle a non-UTF-8 page",
+            "date_modified": "2025-05-12T06:14:26.000Z",
+            "date_published": "2025-05-04T14:11:13.000Z",
+            "author": {
+                "name": "def00111",
+                "url": "https://github.com/def00111"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">Using the newer blob.bytes() method.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39377",
+            "title": "Use the new blob.bytes() method",
+            "date_modified": "2025-05-03T18:20:54.000Z",
+            "date_published": "2025-05-03T18:18:47.000Z",
+            "author": {
+                "name": "def00111",
+                "url": "https://github.com/def00111"
             }
         }
     ]
