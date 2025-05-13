@@ -2,11 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-13T13:10:46.492Z</updated>
+    <updated>2025-05-13T14:01:23.842Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add font-kerning: {auto,none,normal}]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26792</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26792"/>
+        <updated>2025-05-13T13:59:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/349114?u=1185d4fc45f5ff4c4a592b30a4dd2bb5cd1b7128&v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
+<p dir="auto">The font-kerning CSS property was missing its values.</p>
+<h4 dir="auto">Test results and supporting details</h4>
+<p dir="auto">The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.13.0).</p>
+<h4 dir="auto">Related issues</h4>
+<p dir="auto">None.</p>]]></content>
+        <author>
+            <name>Elchi3</name>
+            <email>Elchi3@noreply.github.com</email>
+            <uri>https://github.com/Elchi3</uri>
+        </author>
+        <published>2025-05-13T13:58:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add empty-cells: {hide,show}]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26791</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26791"/>
+        <updated>2025-05-13T13:29:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/349114?u=1185d4fc45f5ff4c4a592b30a4dd2bb5cd1b7128&v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
+<p dir="auto">Add the missing values <code class="notranslate">hide</code> and <code class="notranslate">show</code> to<code class="notranslate"> empty-cells</code>.</p>
+<h4 dir="auto">Test results and supporting details</h4>
+<p dir="auto">The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.13.0).<br>
+And these values are essential for the property and likely supported from the start.</p>
+<h4 dir="auto">Related issues</h4>
+<p dir="auto">None.</p>]]></content>
+        <author>
+            <name>Elchi3</name>
+            <email>Elchi3@noreply.github.com</email>
+            <uri>https://github.com/Elchi3</uri>
+        </author>
+        <published>2025-05-13T13:28:11.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add missing 'normal' value to a few CSS properties]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26790</id>
@@ -174,7 +211,7 @@
 <h4 dir="auto">Test results and supporting details</h4>
 
 <p dir="auto">Tested in <a href="https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace</a>:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxNDIxNDYsIm5iZiI6MTc0NzE0MTg0NiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTMxMDQ2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzMxNDgwOGVjNTUxMjhhMDczYmIyYjY4OWQ1OTI5MjMyMzUwYzQ4ODc5ZjYyY2E3Y2NhMWRlY2Y3MjRiYTVhYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.6DsisRfSz6ltPFjS0ELCwOVuBqWDRmVYjQIJcSGJ14M"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxNDIxNDYsIm5iZiI6MTc0NzE0MTg0NiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTMxMDQ2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzMxNDgwOGVjNTUxMjhhMDczYmIyYjY4OWQ1OTI5MjMyMzUwYzQ4ODc5ZjYyY2E3Y2NhMWRlY2Y3MjRiYTVhYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.6DsisRfSz6ltPFjS0ELCwOVuBqWDRmVYjQIJcSGJ14M" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxNDUxODMsIm5iZiI6MTc0NzE0NDg4MywicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTQwMTIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjI5NjY4MTg2MDEzNGZkZjU0OWQ4MzVhYmMwYTU4MjI0NzBlY2M2NDQ5MDY1Y2Q2M2MyZDI1NmYwMTgxY2VjZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.APmtkAii1sQDmcEqACFGVV-0mGwF_7kefzptmuyKJJ8"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxNDUxODMsIm5iZiI6MTc0NzE0NDg4MywicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTQwMTIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjI5NjY4MTg2MDEzNGZkZjU0OWQ4MzVhYmMwYTU4MjI0NzBlY2M2NDQ5MDY1Y2Q2M2MyZDI1NmYwMTgxY2VjZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.APmtkAii1sQDmcEqACFGVV-0mGwF_7kefzptmuyKJJ8" alt="image" style="max-width: 100%;"></a></p>
 
 <p dir="auto">Description from webkit blog: <a href="https://webkit.org/blog/16574/webkit-features-in-safari-18-4/" rel="nofollow">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></p>
 <h4 dir="auto">Related issues</h4>
@@ -276,58 +313,5 @@
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-04-28T23:26:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Safari + iOS data for optgroup.disabled]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26644</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26644"/>
-        <updated>2025-05-09T08:06:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/301798?u=655c6341a7e8431056ec79000d0dfcfc715f679c&v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
-<p dir="auto">Record incomplete support for the disabled attribute on optgroup elements in desktop Safari v6 and current versions of iOS Safari.</p>
-<h4 dir="auto">Test results and supporting details</h4>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/caugner/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/caugner">@caugner</a> created <a href="https://output.jsbin.com/moqafahuhe" rel="nofollow">a JS Bin test case</a> and was able to reproduce back to iOS 11.2.</p>
-<p dir="auto">I tested in:</p>
-<ul dir="auto">
-<li>Safari 17.6 on MacOS 12.7.6 - passes</li>
-<li>Safari 18.4 on MacOS 15.4.1 - passes</li>
-<li>iOS 18.3.1 - <strong>fails</strong></li>
-</ul>
-<p dir="auto">Commit history found from <a href="https://bugs.webkit.org/show_bug.cgi?id=87614" rel="nofollow">bug 87614</a> suggests this issue was <strong>likely present in desktop Safari 6</strong> (introduced in 536.11), but fixed by version 7 (fix merged in 537.43.1). I'm unable to test whether it was actually working properly earlier.</p>
-<p dir="auto">There is <a href="https://bugs.webkit.org/show_bug.cgi?id=227042" rel="nofollow">an unresolved bug for iOS and iPadOS</a>.</p>
-<h4 dir="auto">Related issues</h4>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #26219.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2920698731" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26219" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26219/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26219">#26219</a></p>]]></content>
-        <author>
-            <name>telic</name>
-            <email>telic@noreply.github.com</email>
-            <uri>https://github.com/telic</uri>
-        </author>
-        <published>2025-04-27T22:47:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sync `css.types.attr` with CSS Values 5 extensions]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26624</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26624"/>
-        <updated>2025-04-28T08:11:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
-<h4 dir="auto">Summary</h4>
-<p dir="auto">Changes:</p>
-<ul dir="auto">
-<li>Removed <code class="notranslate">type-or-unit</code> subfeature: <code class="notranslate">frequency</code>.</li>
-<li>Renamed <code class="notranslate">fallback</code> to <code class="notranslate">fallback-value</code>.</li>
-<li>Renamed <code class="notranslate">type-or-unit</code> to <code class="notranslate">type_function</code>.</li>
-<li>Wrapped all keywords in fences.</li>
-<li>Added subfeatures: <code class="notranslate">custom-ident</code>, <code class="notranslate">ident</code>, <code class="notranslate">image</code>, <code class="notranslate">length-percentage</code>, <code class="notranslate">resolution</code>, <code class="notranslate">string</code>, <code class="notranslate">transform-function</code>.</li>
-</ul>
-<h4 dir="auto">Test results and supporting details</h4>
-
-
-<h4 dir="auto">Related issues</h4>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #25618.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2778237762" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/25618" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/25618/hovercard" href="https://github.com/mdn/browser-compat-data/issues/25618">#25618</a>.</p>]]></content>
-        <author>
-            <name>caugner</name>
-            <email>caugner@noreply.github.com</email>
-            <uri>https://github.com/caugner</uri>
-        </author>
-        <published>2025-04-25T16:14:28.000Z</published>
     </entry>
 </feed>
