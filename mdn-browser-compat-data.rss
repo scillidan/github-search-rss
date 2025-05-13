@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-13T04:02:35.651Z</updated>
+    <updated>2025-05-13T05:01:26.964Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Update browser releases]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26779</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26779"/>
+        <updated>2025-05-13T04:38:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108879845?u=eeb9306682180ab80521c80fd8f46609fe3c6770&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The output of the <code class="notranslate">update-browser-releases</code> script is:</p>
+<blockquote>
+<p dir="auto">@mdn/browser-compat-data@6.0.13 update-browser-releases<br>
+tsx scripts/update-browser-releases/index.ts --all</p>
+</blockquote>
+<h3 dir="auto">Updates for Edge for Desktop</h3>
+<ul dir="auto">
+<li>New status for edge 137: beta, previously nightly.</li>
+<li>New status for edge 137: nightly, previously beta.</li>
+</ul>
+<h3 dir="auto">Updates for Safari for Desktop</h3>
+<ul dir="auto">
+<li>New engine version for safari 18.5: 621.2.5, previously 621.2.3.</li>
+</ul>
+<h3 dir="auto">Updates for Safari for iOS</h3>
+<ul dir="auto">
+<li>New engine version for safari_ios 18.5: 621.2.5, previously 621.2.3.</li>
+</ul>
+<h3 dir="auto">Updates for WKWebView for iOS</h3>
+<ul dir="auto">
+<li>New engine version for webview_ios 18.5: 621.2.5, previously 621.2.3.</li>
+</ul>]]></content>
+        <author>
+            <name>mdn-bot</name>
+            <email>mdn-bot@noreply.github.com</email>
+            <uri>https://github.com/mdn-bot</uri>
+        </author>
+        <published>2025-05-13T04:38:01.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deno 1.25 supports NumberFormat.format decimal string (mdn#25128)]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26778</id>
@@ -153,7 +187,7 @@
 <h4 dir="auto">Test results and supporting details</h4>
 
 <p dir="auto">Tested in <a href="https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace</a>:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMDkyNTUsIm5iZiI6MTc0NzEwODk1NSwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDQwMjM1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YzA4NWQyYjRhYjYxYWM3NzZhZDFjMGFmNTg3OGRhMDk2MjkwNjZhNjcyNzZiNmMwODhhODg4MzM4YThkZDYzYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.48kMwvtdxPcCWO3cDGyxSECzMHH-D4FsRUl7_9jZjsk"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMDkyNTUsIm5iZiI6MTc0NzEwODk1NSwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDQwMjM1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YzA4NWQyYjRhYjYxYWM3NzZhZDFjMGFmNTg3OGRhMDk2MjkwNjZhNjcyNzZiNmMwODhhODg4MzM4YThkZDYzYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.48kMwvtdxPcCWO3cDGyxSECzMHH-D4FsRUl7_9jZjsk" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMTI3ODYsIm5iZiI6MTc0NzExMjQ4NiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDUwMTI2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTBmMTI3Yjg1NTYyZjg5ZTlkNjA0YTVhOGM3ZDMwMzIxZTE5ZDViN2NmZmJkMTY1ODNiZTc4YzkxMDUzYzg4ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.WKlxh1zmS2q7_JWHUuT7416ep_pa3fUSkvEitxKeB7c"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMTI3ODYsIm5iZiI6MTc0NzExMjQ4NiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDUwMTI2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTBmMTI3Yjg1NTYyZjg5ZTlkNjA0YTVhOGM3ZDMwMzIxZTE5ZDViN2NmZmJkMTY1ODNiZTc4YzkxMDUzYzg4ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.WKlxh1zmS2q7_JWHUuT7416ep_pa3fUSkvEitxKeB7c" alt="image" style="max-width: 100%;"></a></p>
 
 <p dir="auto">Description from webkit blog: <a href="https://webkit.org/blog/16574/webkit-features-in-safari-18-4/" rel="nofollow">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></p>
 <h4 dir="auto">Related issues</h4>
@@ -394,25 +428,5 @@
             <uri>https://github.com/caugner</uri>
         </author>
         <published>2025-04-18T11:08:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Move `is_transitionable` features under `transition-behavior`]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26507</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26507"/>
-        <updated>2025-04-14T13:54:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
-<h4 dir="auto">Summary</h4>
-<p dir="auto">Moves <code class="notranslate">{content-visibility,display}.is_transitionable</code> features to <code class="notranslate">transition_behavior.transitions_{content-visibility,display}</code>.</p>
-<h4 dir="auto">Test results and supporting details</h4>
-
-
-<h4 dir="auto">Related issues</h4>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #26155.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2905475757" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26155" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26155/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26155">#26155</a>.</p>]]></content>
-        <author>
-            <name>caugner</name>
-            <email>caugner@noreply.github.com</email>
-            <uri>https://github.com/caugner</uri>
-        </author>
-        <published>2025-04-14T12:44:45.000Z</published>
     </entry>
 </feed>

@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Continuation of <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3057175562\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39488\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39488/hovercard\" href=\"https://github.com/mdn/content/pull/39488\">#39488</a></p>",
+            "url": "https://github.com/mdn/content/pull/39495",
+            "title": "Enable descriptive-link-text markdown lint rule",
+            "date_modified": "2025-05-13T04:31:13.000Z",
+            "date_published": "2025-05-13T04:29:11.000Z",
+            "author": {
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is going to be a series of guides. They will be added to the module landing page and the yaml file when complete (don't want any guide to hold up the others, and there are too many files being edited in this project to make it one PR).</p>",
             "url": "https://github.com/mdn/content/pull/39490",
             "title": "Guide: intro to masking",
@@ -209,17 +220,6 @@
             "title": "Use the new blob.bytes() method",
             "date_modified": "2025-05-03T18:20:54.000Z",
             "date_published": "2025-05-03T18:18:47.000Z",
-            "author": {
-                "name": "def00111",
-                "url": "https://github.com/def00111"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">…ebRequest/StreamFilter/ondata</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">In the first example the \"*\" is not needed. In the 4 example just store the string directly instead of creating an array and storing the string there.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39375",
-            "title": "Update 1 and 4 example from /docs/Mozilla/Add-ons/WebExtensions/API/w…",
-            "date_modified": "2025-05-03T14:43:55.000Z",
-            "date_published": "2025-05-03T14:33:39.000Z",
             "author": {
                 "name": "def00111",
                 "url": "https://github.com/def00111"
