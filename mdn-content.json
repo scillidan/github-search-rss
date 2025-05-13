@@ -6,17 +6,6 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/169500326?u=2e150f3dd45b7ac553f2dd1e2d81e990ccb4f325&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">It looks like <code class=\"notranslate\">Uint8Array.prototype.setFromHex()</code> is correct here instead of <code class=\"notranslate\">Uint8Array.setFromHex()</code>. This is an instance method.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">If the title is incorrect, it can be confusing.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<ul dir=\"auto\">\n<li><a href=\"https://tc39.es/proposal-arraybuffer-base64/spec/#sec-uint8array.prototype.setfromhex\" rel=\"nofollow\">https://tc39.es/proposal-arraybuffer-base64/spec/#sec-uint8array.prototype.setfromhex</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39494",
-            "title": "Correct page title for `Uint8Array.prototype.setFromHex()`",
-            "date_modified": "2025-05-13T02:22:11.000Z",
-            "date_published": "2025-05-13T01:26:50.000Z",
-            "author": {
-                "name": "dontwanttothink",
-                "url": "https://github.com/dontwanttothink"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is going to be a series of guides. They will be added to the module landing page and the yaml file when complete (don't want any guide to hold up the others, and there are too many files being edited in this project to make it one PR).</p>",
             "url": "https://github.com/mdn/content/pull/39490",
             "title": "Guide: intro to masking",
@@ -220,6 +209,17 @@
             "title": "Use the new blob.bytes() method",
             "date_modified": "2025-05-03T18:20:54.000Z",
             "date_published": "2025-05-03T18:18:47.000Z",
+            "author": {
+                "name": "def00111",
+                "url": "https://github.com/def00111"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">…ebRequest/StreamFilter/ondata</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">In the first example the \"*\" is not needed. In the 4 example just store the string directly instead of creating an array and storing the string there.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39375",
+            "title": "Update 1 and 4 example from /docs/Mozilla/Add-ons/WebExtensions/API/w…",
+            "date_modified": "2025-05-03T14:43:55.000Z",
+            "date_published": "2025-05-03T14:33:39.000Z",
             "author": {
                 "name": "def00111",
                 "url": "https://github.com/def00111"
