@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-13T08:01:33.338Z</updated>
+    <updated>2025-05-13T09:01:26.528Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Update browser releases]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26779</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26779"/>
-        <updated>2025-05-13T04:38:58.000Z</updated>
+        <updated>2025-05-13T08:57:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108879845?u=eeb9306682180ab80521c80fd8f46609fe3c6770&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The output of the <code class="notranslate">update-browser-releases</code> script is:</p>
 <blockquote>
 <p dir="auto">@mdn/browser-compat-data@6.0.13 update-browser-releases<br>
@@ -187,7 +187,7 @@ tsx scripts/update-browser-releases/index.ts --all</p>
 <h4 dir="auto">Test results and supporting details</h4>
 
 <p dir="auto">Tested in <a href="https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace</a>:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMjM1OTMsIm5iZiI6MTc0NzEyMzI5MywicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDgwMTMzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjIwZTM0ODRmM2M5YjFmN2I0NjFjYzAyY2M1NDhmOTY3NGE4MTI2NzkwYjA5ODMwMzVhYmJiMDdiNGFjODJlOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.GKcaWlkI4SXaLYgShRMh1g_Ot-TDtfMgai7cA-QOH60"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMjM1OTMsIm5iZiI6MTc0NzEyMzI5MywicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDgwMTMzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjIwZTM0ODRmM2M5YjFmN2I0NjFjYzAyY2M1NDhmOTY3NGE4MTI2NzkwYjA5ODMwMzVhYmJiMDdiNGFjODJlOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.GKcaWlkI4SXaLYgShRMh1g_Ot-TDtfMgai7cA-QOH60" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMjcxODYsIm5iZiI6MTc0NzEyNjg4NiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDkwMTI2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OTA1MWMwOGIxZTEzN2E5ODg2MTZhZTYyNWExZDk3ZTFmZmUwNTM4Njk5YjhiZGRhMzMwZmQwOWNjNjE4NmE5YiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.-lrG8p0CviUFK4OG8wDfzz5im6fze8NjAXvH-54unr8"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMjcxODYsIm5iZiI6MTc0NzEyNjg4NiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDkwMTI2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OTA1MWMwOGIxZTEzN2E5ODg2MTZhZTYyNWExZDk3ZTFmZmUwNTM4Njk5YjhiZGRhMzMwZmQwOWNjNjE4NmE5YiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.-lrG8p0CviUFK4OG8wDfzz5im6fze8NjAXvH-54unr8" alt="image" style="max-width: 100%;"></a></p>
 
 <p dir="auto">Description from webkit blog: <a href="https://webkit.org/blog/16574/webkit-features-in-safari-18-4/" rel="nofollow">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></p>
 <h4 dir="auto">Related issues</h4>
@@ -394,39 +394,5 @@ tsx scripts/update-browser-releases/index.ts --all</p>
             <uri>https://github.com/queengooborg</uri>
         </author>
         <published>2025-04-20T11:52:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat(lint): check + fix overlapping version ranges]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26544</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26544"/>
-        <updated>2025-05-09T14:13:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
-<h4 dir="auto">Summary</h4>
-<p dir="auto">Adds a new <code class="notranslate">overlap</code> linter that</p>
-<ul dir="auto">
-<li>checks for overlapping version ranges, e.g. <code class="notranslate">[{ added: 1, removed: 3 }, { added: 2 }]</code>,</li>
-<li>fixes them by using the newer <code class="notranslate">version_added</code> as <code class="notranslate">version_removed</code> for the previous.</li>
-</ul>
-<p dir="auto">Notes:</p>
-<ul dir="auto">
-<li>Each prefix and alternative name is considered as separate "statement groups" that can overlap, while statements within a group must not.</li>
-<li>Ignores statements with <code class="notranslate">flags</code> for now, as these have a separate linter, which forbids <code class="notranslate">version_removed</code>.</li>
-</ul>
-<h4 dir="auto">Test results and supporting details</h4>
-
-
-<h4 dir="auto">Related issues</h4>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #26543.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3004645188" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26543" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26543/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26543">#26543</a>.</p>
-<p dir="auto">Extracted manual fixes to:</p>
-<ul dir="auto">
-<li><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3010788429" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26595" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26595/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26595">#26595</a></li>
-<li><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3010930191" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26596" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26596/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26596">#26596</a></li>
-</ul>]]></content>
-        <author>
-            <name>caugner</name>
-            <email>caugner@noreply.github.com</email>
-            <uri>https://github.com/caugner</uri>
-        </author>
-        <published>2025-04-18T11:08:48.000Z</published>
     </entry>
 </feed>
