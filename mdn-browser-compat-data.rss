@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-13T01:28:56.887Z</updated>
+    <updated>2025-05-13T02:30:33.872Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Deno 1.25 supports NumberFormat.format decimal string (mdn#25128)]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26778</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26778"/>
-        <updated>2025-05-12T18:25:45.000Z</updated>
+        <updated>2025-05-13T01:46:42.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11595433?u=c346121653b8c99ffba5b5c5b6fa5fb0181f9969&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">Deno 1.25 supports decimal string number format</p>
@@ -153,7 +153,7 @@
 <h4 dir="auto">Test results and supporting details</h4>
 
 <p dir="auto">Tested in <a href="https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace</a>:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMDAwMzYsIm5iZiI6MTc0NzA5OTczNiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDEyODU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGM4ZjcxZTY4OTRkMDQ1OWI1MDc0NTViYWQ0ZTVkOGMxMzU2N2Q2YjZlNTJlMDFmODg0MTBiNzVhMTJiNWJmOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.KI3RVxBbakcWFkDit_jWz9wotA3Pgxr86v5s_JyqR_E"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMDAwMzYsIm5iZiI6MTc0NzA5OTczNiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDEyODU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGM4ZjcxZTY4OTRkMDQ1OWI1MDc0NTViYWQ0ZTVkOGMxMzU2N2Q2YjZlNTJlMDFmODg0MTBiNzVhMTJiNWJmOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.KI3RVxBbakcWFkDit_jWz9wotA3Pgxr86v5s_JyqR_E" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMDM3MzMsIm5iZiI6MTc0NzEwMzQzMywicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDIzMDMzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NmZiYjc1YzlkN2UxNjgxY2ExZmNhMGY4MzExOGZiMWYzZjQ5ZGMxYjNhYTgwYTFmNTVhNTUxYWFmNTRkYmQ5YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.X8ECCnOdwhuLtT4Ue5ZUnkN-b4NUlrkzS0y2UG_vOdY"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMDM3MzMsIm5iZiI6MTc0NzEwMzQzMywicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMDIzMDMzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NmZiYjc1YzlkN2UxNjgxY2ExZmNhMGY4MzExOGZiMWYzZjQ5ZGMxYjNhYTgwYTFmNTVhNTUxYWFmNTRkYmQ5YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.X8ECCnOdwhuLtT4Ue5ZUnkN-b4NUlrkzS0y2UG_vOdY" alt="image" style="max-width: 100%;"></a></p>
 
 <p dir="auto">Description from webkit blog: <a href="https://webkit.org/blog/16574/webkit-features-in-safari-18-4/" rel="nofollow">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></p>
 <h4 dir="auto">Related issues</h4>
