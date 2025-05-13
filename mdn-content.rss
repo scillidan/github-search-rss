@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-13T07:01:24.350Z</updated>
+    <updated>2025-05-13T08:01:33.945Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[doc: add explanation for multiple `Transfer-Encoding` values]]></title>
+        <id>https://github.com/mdn/content/pull/39496</id>
+        <link href="https://github.com/mdn/content/pull/39496"/>
+        <updated>2025-05-13T08:01:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55658154?u=72eb5d6b966bd3197516e3205b1e2f4962df3cc6&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">Currently, the MDN document doesn't explain the meaning of multiple values of <code class="notranslate">Transfer-Encoding</code>.</p>
+<h3 dir="auto">Additional details</h3>
+<p dir="auto"><a href="https://datatracker.ietf.org/doc/html/rfc9112#section-6.1-6" rel="nofollow">https://datatracker.ietf.org/doc/html/rfc9112#section-6.1-6</a></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="For example,
+
+Transfer-Encoding: gzip, chunked
+
+indicates that the content has been compressed using the gzip coding and then chunked using the chunked coding while forming the message body."><pre class="notranslate"><code class="notranslate">For example,
+
+Transfer-Encoding: gzip, chunked
+
+indicates that the content has been compressed using the gzip coding and then chunked using the chunked coding while forming the message body.
+</code></pre></div>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>samuel871211</name>
+            <email>samuel871211@noreply.github.com</email>
+            <uri>https://github.com/samuel871211</uri>
+        </author>
+        <published>2025-05-13T07:43:58.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enable descriptive-link-text markdown lint rule]]></title>
         <id>https://github.com/mdn/content/pull/39495</id>
@@ -24,7 +58,7 @@
         <title type="html"><![CDATA[Guide: intro to masking]]></title>
         <id>https://github.com/mdn/content/pull/39490</id>
         <link href="https://github.com/mdn/content/pull/39490"/>
-        <updated>2025-05-13T06:58:20.000Z</updated>
+        <updated>2025-05-13T07:34:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69888?v=4" width="64" height="64" alt=""/><br/><p dir="auto">This is going to be a series of guides. They will be added to the module landing page and the yaml file when complete (don't want any guide to hold up the others, and there are too many files being edited in this project to make it one PR).</p>]]></content>
         <author>
             <name>estelle</name>
@@ -37,7 +71,7 @@
         <title type="html"><![CDATA[Improve soft skills recommendations]]></title>
         <id>https://github.com/mdn/content/pull/39486</id>
         <link href="https://github.com/mdn/content/pull/39486"/>
-        <updated>2025-05-13T00:59:00.000Z</updated>
+        <updated>2025-05-13T08:01:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">As per <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3012068048" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39241" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39241/hovercard" href="https://github.com/mdn/content/issues/39241">#39241</a>, this PR improves the recommendations in the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Soft_skills" rel="nofollow">Soft Skills</a> articles, for example, adding more open-source community options.</p>
@@ -432,30 +466,5 @@ Covering the SVG and URI sections.</p>
             <uri>https://github.com/def00111</uri>
         </author>
         <published>2025-05-04T14:11:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use the new blob.bytes() method]]></title>
-        <id>https://github.com/mdn/content/pull/39377</id>
-        <link href="https://github.com/mdn/content/pull/39377"/>
-        <updated>2025-05-03T18:20:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">Using the newer blob.bytes() method.</p>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>def00111</name>
-            <email>def00111@noreply.github.com</email>
-            <uri>https://github.com/def00111</uri>
-        </author>
-        <published>2025-05-03T18:18:47.000Z</published>
     </entry>
 </feed>
