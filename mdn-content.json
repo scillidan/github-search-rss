@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is going to be a series of guides. They will be added to the module landing page and the yaml file when complete (don't want any guide to hold up the others, and there are too many files being edited in this project to make it one PR).</p>",
             "url": "https://github.com/mdn/content/pull/39490",
             "title": "Guide: intro to masking",
-            "date_modified": "2025-05-13T03:21:40.000Z",
+            "date_modified": "2025-05-13T06:58:20.000Z",
             "date_published": "2025-05-12T19:14:46.000Z",
             "author": {
                 "name": "estelle",
@@ -174,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <code class=\"notranslate\">&lt;selectedcontent&gt;</code> reference document to:</p>\n<ol dir=\"auto\">\n<li>Include more details about the limitations of  cloning, and</li>\n<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class=\"notranslate\">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>\n</ol>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">After seeing <a href=\"https://github.com/angular/angular/issues/60636\" data-hovercard-type=\"issue\" data-hovercard-url=\"/angular/angular/issues/60636/hovercard\">this Angular bug</a> related to <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class=\"notranslate\">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>\n<p dir=\"auto\">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class=\"notranslate\">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39411",
             "title": "Add content covering the limitations of <selectedcontent>",
-            "date_modified": "2025-05-13T05:32:02.000Z",
+            "date_modified": "2025-05-13T06:01:46.000Z",
             "date_published": "2025-05-05T17:53:05.000Z",
             "author": {
                 "name": "philipwalton",
