@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-13T15:01:52.794Z</updated>
+    <updated>2025-05-13T16:01:34.185Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
+        <id>https://github.com/mdn/content/pull/39502</id>
+        <link href="https://github.com/mdn/content/pull/39502"/>
+        <updated>2025-05-13T15:25:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1784648?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Replaces the room link with its canonical version.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">The current "internal" ID doesn't offer a good expectation where does it lead eventually.</p>
+<h3 dir="auto">Additional details</h3>
+<p dir="auto">Extra metadata hinting at instances being used when creating this room reference are also removed, as they are not relevant for anyone besides the original user creating said link.</p>]]></content>
+        <author>
+            <name>janbrasna</name>
+            <email>janbrasna@noreply.github.com</email>
+            <uri>https://github.com/janbrasna</uri>
+        </author>
+        <published>2025-05-13T15:22:43.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Content script persistence over update]]></title>
         <id>https://github.com/mdn/content/pull/39499</id>
@@ -349,7 +367,7 @@ indicates that the content has been compressed using the gzip coding and then ch
         <title type="html"><![CDATA[Add content covering the limitations of <selectedcontent>]]></title>
         <id>https://github.com/mdn/content/pull/39411</id>
         <link href="https://github.com/mdn/content/pull/39411"/>
-        <updated>2025-05-13T06:01:46.000Z</updated>
+        <updated>2025-05-13T15:40:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">This PR updates the <code class="notranslate">&lt;selectedcontent&gt;</code> reference document to:</p>
@@ -447,30 +465,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/def00111</uri>
         </author>
         <published>2025-05-04T14:11:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use the new blob.bytes() method]]></title>
-        <id>https://github.com/mdn/content/pull/39377</id>
-        <link href="https://github.com/mdn/content/pull/39377"/>
-        <updated>2025-05-03T18:20:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">Using the newer blob.bytes() method.</p>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>def00111</name>
-            <email>def00111@noreply.github.com</email>
-            <uri>https://github.com/def00111</uri>
-        </author>
-        <published>2025-05-03T18:18:47.000Z</published>
     </entry>
 </feed>
