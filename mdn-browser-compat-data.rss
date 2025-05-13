@@ -2,69 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-13T11:01:32.876Z</updated>
+    <updated>2025-05-13T12:01:51.994Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[Update browser releases]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26779</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26779"/>
-        <updated>2025-05-13T08:57:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108879845?u=eeb9306682180ab80521c80fd8f46609fe3c6770&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The output of the <code class="notranslate">update-browser-releases</code> script is:</p>
-<blockquote>
-<p dir="auto">@mdn/browser-compat-data@6.0.13 update-browser-releases<br>
-tsx scripts/update-browser-releases/index.ts --all</p>
-</blockquote>
-<h3 dir="auto">Updates for Edge for Desktop</h3>
-<ul dir="auto">
-<li>New status for edge 137: beta, previously nightly.</li>
-<li>New status for edge 137: nightly, previously beta.</li>
-</ul>
-<h3 dir="auto">Updates for Safari for Desktop</h3>
-<ul dir="auto">
-<li>New engine version for safari 18.5: 621.2.5, previously 621.2.3.</li>
-</ul>
-<h3 dir="auto">Updates for Safari for iOS</h3>
-<ul dir="auto">
-<li>New engine version for safari_ios 18.5: 621.2.5, previously 621.2.3.</li>
-</ul>
-<h3 dir="auto">Updates for WKWebView for iOS</h3>
-<ul dir="auto">
-<li>New engine version for webview_ios 18.5: 621.2.5, previously 621.2.3.</li>
-</ul>]]></content>
-        <author>
-            <name>mdn-bot</name>
-            <email>mdn-bot@noreply.github.com</email>
-            <uri>https://github.com/mdn-bot</uri>
-        </author>
-        <published>2025-05-13T04:38:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deno 1.25 supports NumberFormat.format decimal string (mdn#25128)]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26778</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26778"/>
-        <updated>2025-05-13T01:46:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11595433?u=c346121653b8c99ffba5b5c5b6fa5fb0181f9969&v=4" width="64" height="64" alt=""/><br/>
-<h4 dir="auto">Summary</h4>
-<p dir="auto">Deno 1.25 supports decimal string number format</p>
-
-<h4 dir="auto">Test results and supporting details</h4>
-<p dir="auto">Tested: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2672869923" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/25128" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/25128/hovercard?comment_id=2871722504&amp;comment_type=issue_comment" href="https://github.com/mdn/browser-compat-data/issues/25128#issuecomment-2871722504">#25128 (comment)</a></p>
-
-
-<h4 dir="auto">Related issues</h4>
-<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2672869923" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/25128" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/25128/hovercard" href="https://github.com/mdn/browser-compat-data/issues/25128">#25128</a></p>
-
-]]></content>
-        <author>
-            <name>peterreisz</name>
-            <email>peterreisz@noreply.github.com</email>
-            <uri>https://github.com/peterreisz</uri>
-        </author>
-        <published>2025-05-12T18:24:52.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Update Safari data for line-clamp CSS property]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26771</id>
@@ -187,7 +129,7 @@ tsx scripts/update-browser-releases/index.ts --all</p>
 <h4 dir="auto">Test results and supporting details</h4>
 
 <p dir="auto">Tested in <a href="https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/css/properties/text-autospace</a>:</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMzQzOTIsIm5iZiI6MTc0NzEzNDA5MiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTEwMTMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjQwYjhlNmVmMmU0ZTE0MDc5MGUwZDcxNGZlNTk4MGU5NDBjMGQ1NjgzYzIyMDA4NWFiZjJlZWY3MzljYzRhYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.WV6BiriMt0omrfUZiME7PntSIoUEmuH3je-d5glTb0s"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMzQzOTIsIm5iZiI6MTc0NzEzNDA5MiwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTEwMTMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjQwYjhlNmVmMmU0ZTE0MDc5MGUwZDcxNGZlNTk4MGU5NDBjMGQ1NjgzYzIyMDA4NWFiZjJlZWY3MzljYzRhYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.WV6BiriMt0omrfUZiME7PntSIoUEmuH3je-d5glTb0s" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMzgwMTEsIm5iZiI6MTc0NzEzNzcxMSwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTIwMTUxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTY2MmM3YzdlYjVlMzM3ODFkZThiYmEyNjljOGJlMTFlZTQwMGMyMzRhOWNkNDkwZTFiYjBiMzNiMTVjMjJlZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.wtJCAQkiGBR4lE5neLS685uZzUXv9wvQDvS6i3d0ayw"><img src="https://private-user-images.githubusercontent.com/4208028/441605798-98e0a322-a841-4f54-989d-e6e290cbad0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxMzgwMTEsIm5iZiI6MTc0NzEzNzcxMSwicGF0aCI6Ii80MjA4MDI4LzQ0MTYwNTc5OC05OGUwYTMyMi1hODQxLTRmNTQtOTg5ZC1lNmUyOTBjYmFkMGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTNUMTIwMTUxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTY2MmM3YzdlYjVlMzM3ODFkZThiYmEyNjljOGJlMTFlZTQwMGMyMzRhOWNkNDkwZTFiYjBiMzNiMTVjMjJlZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.wtJCAQkiGBR4lE5neLS685uZzUXv9wvQDvS6i3d0ayw" alt="image" style="max-width: 100%;"></a></p>
 
 <p dir="auto">Description from webkit blog: <a href="https://webkit.org/blog/16574/webkit-features-in-safari-18-4/" rel="nofollow">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></p>
 <h4 dir="auto">Related issues</h4>
@@ -379,5 +321,20 @@ tsx scripts/update-browser-releases/index.ts --all</p>
             <uri>https://github.com/ddbeck</uri>
         </author>
         <published>2025-04-23T12:54:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 122 added `screen-wake-lock` permission]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26566</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26566"/>
+        <updated>2025-05-06T09:15:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Firefox and Firefox Android for the <code class="notranslate">permission_screen-wake-lock</code> member of the <code class="notranslate">Permissions</code> API. The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.12.11).</p>
+<p dir="auto"><em>Check out the <a href="https://github.com/openwebdocs/mdn-bcd-collector#reviewing-bcd-changes">collector's guide on how to review this PR</a>.</em></p>
+<p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/Permissions/permission_screen-wake-lock" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/Permissions/permission_screen-wake-lock</a></p>]]></content>
+        <author>
+            <name>queengooborg</name>
+            <email>queengooborg@noreply.github.com</email>
+            <uri>https://github.com/queengooborg</uri>
+        </author>
+        <published>2025-04-20T11:52:49.000Z</published>
     </entry>
 </feed>
