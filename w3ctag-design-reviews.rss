@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss</id>
     <title>w3ctag/design-reviews Design Issues</title>
-    <updated>2025-05-14T04:01:56.734Z</updated>
+    <updated>2025-05-14T05:01:23.706Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss"/>
     <subtitle>w3ctag/design-reviews Design Issues on GitHub</subtitle>
@@ -161,7 +161,7 @@
         <title type="html"><![CDATA[Extended lifetime shared workers]]></title>
         <id>https://github.com/w3ctag/design-reviews/issues/1089</id>
         <link href="https://github.com/w3ctag/design-reviews/issues/1089"/>
-        <updated>2025-05-09T16:22:39.000Z</updated>
+        <updated>2025-05-14T04:45:14.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/617481?v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
 <p dir="auto">I'm requesting an early TAG design review of extended lifetime shared workers.</p>
 <p dir="auto">We propose adding a new option to the <code class="notranslate">SharedWorker</code> constructor that serves as a request to extend its lifetime after all current clients have unloaded:</p>
@@ -190,8 +190,8 @@ ready: WHATWG HTML Workstream</li>
 <li>Multi-stakeholder feedback:
 <ul dir="auto">
 <li>Chromium comments: <a href="https://issues.chromium.org/issues/400473072" rel="nofollow">https://issues.chromium.org/issues/400473072</a></li>
-<li>Mozilla comments: Standards positions to be filed. Some feedback from smaug---- and asutherland in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2831961444" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/10997" data-hovercard-type="issue" data-hovercard-url="/whatwg/html/issues/10997/hovercard" href="https://github.com/whatwg/html/issues/10997">whatwg/html#10997</a>.</li>
-<li>WebKit comments: Standards positions to be filed. Some feedback from annevk in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2831961444" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/10997" data-hovercard-type="issue" data-hovercard-url="/whatwg/html/issues/10997/hovercard" href="https://github.com/whatwg/html/issues/10997">whatwg/html#10997</a>.</li>
+<li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3051249029" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1227" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1227/hovercard" href="https://github.com/mozilla/standards-positions/issues/1227">mozilla/standards-positions#1227</a>. Some feedback from smaug---- and asutherland in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2831961444" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/10997" data-hovercard-type="issue" data-hovercard-url="/whatwg/html/issues/10997/hovercard" href="https://github.com/whatwg/html/issues/10997">whatwg/html#10997</a>.</li>
+<li>WebKit comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3051262070" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/492" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/492/hovercard" href="https://github.com/WebKit/standards-positions/issues/492">WebKit/standards-positions#492</a>. Some feedback from annevk in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2831961444" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/10997" data-hovercard-type="issue" data-hovercard-url="/whatwg/html/issues/10997/hovercard" href="https://github.com/whatwg/html/issues/10997">whatwg/html#10997</a>.</li>
 </ul>
 </li>
 <li>Major unresolved issues with or opposition to this design: none</li>

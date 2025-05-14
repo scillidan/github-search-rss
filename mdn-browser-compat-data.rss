@@ -2,11 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-14T04:02:02.326Z</updated>
+    <updated>2025-05-14T05:01:30.495Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Update web-features tags]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26794</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26794"/>
+        <updated>2025-05-14T04:40:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108879845?u=eeb9306682180ab80521c80fd8f46609fe3c6770&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The output of the <code class="notranslate">tag-web-features</code> script is:</p>
+<blockquote>
+<p dir="auto">@mdn/browser-compat-data@6.0.14 tag-web-features<br>
+tsx scripts/tag-web-features.ts ..</p>
+</blockquote>
+<div class="highlight highlight-source-diff notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="# css.selectors.cue
+# css.selectors.cue.selector_argument
+- web-features:webvtt-cue-settings
++ web-features:webvtt
+
+# javascript.builtins.Math.sumPrecise
++ web-features:math-sum-precise
+
+# api.EventTarget.when
+# api.Observable
+# api.Observable.Observable
+# api.Observable.catch
+# api.Observable.drop
+# api.Observable.every
+# api.Observable.filter
+# api.Observable.finally
+# api.Observable.find
+# api.Observable.first
+# api.Observable.flatMap
+# api.Observable.forEach
+# api.Observable.from_static
+# api.Observable.inspect
+# api.Observable.last
+# api.Observable.map
+# api.Observable.reduce
+# api.Observable.some
+# api.Observable.subscribe
+# api.Observable.switchMap
+# api.Observable.take
+# api.Observable.takeUntil
+# api.Observable.toArray
+# api.Subscriber
+# api.Subscriber.active
+# api.Subscriber.addTeardown
+# api.Subscriber.complete
+# api.Subscriber.error
+# api.Subscriber.next
+# api.Subscriber.signal
++ web-features:observable"><pre class="notranslate"><span class="pl-c"><span class="pl-c">#</span> css.selectors.cue</span>
+<span class="pl-c"><span class="pl-c">#</span> css.selectors.cue.selector_argument</span>
+<span class="pl-md"><span class="pl-md">-</span> web-features:webvtt-cue-settings</span>
+<span class="pl-mi1"><span class="pl-mi1">+</span> web-features:webvtt</span>
+
+<span class="pl-c"><span class="pl-c">#</span> javascript.builtins.Math.sumPrecise</span>
+<span class="pl-mi1"><span class="pl-mi1">+</span> web-features:math-sum-precise</span>
+
+<span class="pl-c"><span class="pl-c">#</span> api.EventTarget.when</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.Observable</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.catch</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.drop</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.every</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.filter</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.finally</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.find</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.first</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.flatMap</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.forEach</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.from_static</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.inspect</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.last</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.map</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.reduce</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.some</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.subscribe</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.switchMap</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.take</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.takeUntil</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Observable.toArray</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Subscriber</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Subscriber.active</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Subscriber.addTeardown</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Subscriber.complete</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Subscriber.error</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Subscriber.next</span>
+<span class="pl-c"><span class="pl-c">#</span> api.Subscriber.signal</span>
+<span class="pl-mi1"><span class="pl-mi1">+</span> web-features:observable</span></pre></div>]]></content>
+        <author>
+            <name>mdn-bot</name>
+            <email>mdn-bot@noreply.github.com</email>
+            <uri>https://github.com/mdn-bot</uri>
+        </author>
+        <published>2025-05-14T04:39:57.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add `Intl.Locale.getWeekInfo()` returns `minimalDays` data]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26793</id>
