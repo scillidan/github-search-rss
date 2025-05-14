@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-14T09:01:40.229Z</updated>
+    <updated>2025-05-14T10:01:30.345Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus]]></title>
+        <id>https://github.com/mdn/content/pull/39512</id>
+        <link href="https://github.com/mdn/content/pull/39512"/>
+        <updated>2025-05-14T09:57:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Provides the updates necessary for <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1550032" rel="nofollow">Bug 1550032</a> Change cookie API to explicitly support sameSite=none. Specifically:</p>
+<ul dir="auto">
+<li>That <code class="notranslate">unspecified</code> is now the default value for <code class="notranslate">sameSite</code> in <code class="notranslate">cookies.set()</code>.</li>
+</ul>
+<h3 dir="auto">Related issues and pull requests</h3>
+<ul dir="auto">
+<li>BCD changes made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062474205" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26795" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26795/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26795">mdn/browser-compat-data#26795</a>.</li>
+<li>Release note update made in TBC.</li>
+</ul>]]></content>
+        <author>
+            <name>rebloor</name>
+            <email>rebloor@noreply.github.com</email>
+            <uri>https://github.com/rebloor</uri>
+        </author>
+        <published>2025-05-14T09:55:20.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[chore(xml/wasm): tidy up parent-child links, fix sidebars]]></title>
         <id>https://github.com/mdn/content/pull/39511</id>
@@ -223,7 +245,7 @@ indicates that the content has been compressed using the gzip coding and then ch
         <title type="html"><![CDATA[new css guide: css clipping]]></title>
         <id>https://github.com/mdn/content/pull/39475</id>
         <link href="https://github.com/mdn/content/pull/39475"/>
-        <updated>2025-05-14T08:59:15.000Z</updated>
+        <updated>2025-05-14T10:01:16.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69888?v=4" width="64" height="64" alt=""/><br/><p dir="auto">new guide.</p>
 <p dir="auto">(working on another guide, and i'll update the yaml when i have both done)</p>]]></content>
         <author>
@@ -449,35 +471,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/DanKaplanSES</uri>
         </author>
         <published>2025-05-04T22:56:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add an example to show how to handle a non-UTF-8 page]]></title>
-        <id>https://github.com/mdn/content/pull/39385</id>
-        <link href="https://github.com/mdn/content/pull/39385"/>
-        <updated>2025-05-12T06:14:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">The example shows two things:</p>
-<ol dir="auto">
-<li>How to get the charset from the page meta tag (using normal utf-8 TextDecoder)</li>
-<li>Using an external library because TextEncoder will not work</li>
-</ol>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">All other examples are for a UTF-8 page.</p>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>def00111</name>
-            <email>def00111@noreply.github.com</email>
-            <uri>https://github.com/def00111</uri>
-        </author>
-        <published>2025-05-04T14:11:13.000Z</published>
     </entry>
 </feed>

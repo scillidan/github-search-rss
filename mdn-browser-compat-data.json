@@ -6,25 +6,14 @@
     "description": "mdn/browser-compat-data update data on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108879845?u=eeb9306682180ab80521c80fd8f46609fe3c6770&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The output of the <code class=\"notranslate\">tag-web-features</code> script is:</p>\n<blockquote>\n<p dir=\"auto\">@mdn/browser-compat-data@6.0.14 tag-web-features<br>\ntsx scripts/tag-web-features.ts ..</p>\n</blockquote>\n<div class=\"highlight highlight-source-diff notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"# css.selectors.cue\n# css.selectors.cue.selector_argument\n- web-features:webvtt-cue-settings\n+ web-features:webvtt\n\n# javascript.builtins.Math.sumPrecise\n+ web-features:math-sum-precise\n\n# api.EventTarget.when\n# api.Observable\n# api.Observable.Observable\n# api.Observable.catch\n# api.Observable.drop\n# api.Observable.every\n# api.Observable.filter\n# api.Observable.finally\n# api.Observable.find\n# api.Observable.first\n# api.Observable.flatMap\n# api.Observable.forEach\n# api.Observable.from_static\n# api.Observable.inspect\n# api.Observable.last\n# api.Observable.map\n# api.Observable.reduce\n# api.Observable.some\n# api.Observable.subscribe\n# api.Observable.switchMap\n# api.Observable.take\n# api.Observable.takeUntil\n# api.Observable.toArray\n# api.Subscriber\n# api.Subscriber.active\n# api.Subscriber.addTeardown\n# api.Subscriber.complete\n# api.Subscriber.error\n# api.Subscriber.next\n# api.Subscriber.signal\n+ web-features:observable\"><pre class=\"notranslate\"><span class=\"pl-c\"><span class=\"pl-c\">#</span> css.selectors.cue</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> css.selectors.cue.selector_argument</span>\n<span class=\"pl-md\"><span class=\"pl-md\">-</span> web-features:webvtt-cue-settings</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span> web-features:webvtt</span>\n\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> javascript.builtins.Math.sumPrecise</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span> web-features:math-sum-precise</span>\n\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.EventTarget.when</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.Observable</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.catch</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.drop</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.every</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.filter</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.finally</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.find</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.first</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.flatMap</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.forEach</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.from_static</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.inspect</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.last</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.map</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.reduce</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.some</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.subscribe</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.switchMap</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.take</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.takeUntil</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Observable.toArray</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Subscriber</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Subscriber.active</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Subscriber.addTeardown</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Subscriber.complete</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Subscriber.error</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Subscriber.next</span>\n<span class=\"pl-c\"><span class=\"pl-c\">#</span> api.Subscriber.signal</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span> web-features:observable</span></pre></div>",
-            "url": "https://github.com/mdn/browser-compat-data/pull/26794",
-            "title": "Update web-features tags",
-            "date_modified": "2025-05-14T04:40:46.000Z",
-            "date_published": "2025-05-14T04:39:57.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7352080?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">Provide the updates necessary for <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1550032\" rel=\"nofollow\">Bug 1550032</a> Change cookie API to explicitly support sameSite=none. Specifically:</p>\n<ul dir=\"auto\">\n<li>To note the introduction of <code class=\"notranslate\">unspecified</code> to <code class=\"notranslate\">cookie.SameSiteStatus</code></li>\n<li>That <code class=\"notranslate\">unspecified</code> is now the default value for <code class=\"notranslate\">sameSite</code> in <code class=\"notranslate\">cookies.set()</code>.</li>\n</ul>\n<h4 dir=\"auto\">Related issues</h4>\n<p dir=\"auto\">MDN documentation changes made in TBC.<br>\nRelease note update made in TBC.</p>",
+            "url": "https://github.com/mdn/browser-compat-data/pull/26795",
+            "title": "Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus",
+            "date_modified": "2025-05-14T09:37:44.000Z",
+            "date_published": "2025-05-14T09:36:47.000Z",
             "author": {
-                "name": "mdn-bot",
-                "url": "https://github.com/mdn-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">Adds behavioral subfeature for <code class=\"notranslate\">Intl.Locale.getWeekInfo()</code> returning <code class=\"notranslate\">minimalDays</code>.</p>\n<h4 dir=\"auto\">Test results and supporting details</h4>\n\n\n<h4 dir=\"auto\">Related issues</h4>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #26766.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3053290071\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26766\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/browser-compat-data/issues/26766/hovercard\" href=\"https://github.com/mdn/browser-compat-data/issues/26766\">#26766</a>.</p>",
-            "url": "https://github.com/mdn/browser-compat-data/pull/26793",
-            "title": "Add `Intl.Locale.getWeekInfo()` returns `minimalDays` data",
-            "date_modified": "2025-05-13T18:05:26.000Z",
-            "date_published": "2025-05-13T18:04:34.000Z",
-            "author": {
-                "name": "caugner",
-                "url": "https://github.com/caugner"
+                "name": "rebloor",
+                "url": "https://github.com/rebloor"
             }
         },
         {
@@ -36,17 +25,6 @@
             "author": {
                 "name": "queengooborg",
                 "url": "https://github.com/queengooborg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">Merges <code class=\"notranslate\">html.elements.textarea.spellcheck</code> into <code class=\"notranslate\">html.global_attributes.spellcheck</code>.</p>\n<div class=\"markdown-alert markdown-alert-note\" dir=\"auto\"><p class=\"markdown-alert-title\" dir=\"auto\"><svg class=\"octicon octicon-info mr-2\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z\"></path></svg>Note</p><p dir=\"auto\">This PR only merges the data, without updating it, although the existing data may not be 100% accurate.</p>\n</div>\n<h4 dir=\"auto\">Test results and supporting details</h4>\n\n\n<h4 dir=\"auto\">Related issues</h4>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #21810.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2062128545\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/21810\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/browser-compat-data/issues/21810/hovercard\" href=\"https://github.com/mdn/browser-compat-data/issues/21810\">#21810</a></p>",
-            "url": "https://github.com/mdn/browser-compat-data/pull/26764",
-            "title": "Deduplicate spellcheck attribute",
-            "date_modified": "2025-05-12T16:54:26.000Z",
-            "date_published": "2025-05-09T16:36:25.000Z",
-            "author": {
-                "name": "caugner",
-                "url": "https://github.com/caugner"
             }
         },
         {
