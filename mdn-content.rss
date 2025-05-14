@@ -2,11 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-14T13:10:13.900Z</updated>
+    <updated>2025-05-14T14:01:33.800Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add links to child pages]]></title>
+        <id>https://github.com/mdn/content/pull/39517</id>
+        <link href="https://github.com/mdn/content/pull/39517"/>
+        <updated>2025-05-14T13:44:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Add some missing links</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-14T13:42:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Document CSS if() function]]></title>
+        <id>https://github.com/mdn/content/pull/39516</id>
+        <link href="https://github.com/mdn/content/pull/39516"/>
+        <updated>2025-05-14T13:35:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Chrome supports the CSS <a href="https://drafts.csswg.org/css-values-5/#if-notation" rel="nofollow"><code class="notranslate">if()</code></a> function from version 137. See <a href="https://chromestatus.com/feature/6313805904347136" rel="nofollow">https://chromestatus.com/feature/6313805904347136</a>.</p>
+<p dir="auto">This PR documents the new function. Specifically, it:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Adds an <code class="notranslate">if()</code> reference page (nearly done, just needs examples)</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox">  Adds <code class="notranslate">if()</code> to the CSS values and units module page</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Adds <code class="notranslate">if()</code> to the CSS value functions ref page.</li>
+</ul>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-14T13:32:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix Grammar]]></title>
+        <id>https://github.com/mdn/content/pull/39515</id>
+        <link href="https://github.com/mdn/content/pull/39515"/>
+        <updated>2025-05-14T13:22:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/162063292?u=768e68495ae3a1a620b3bf276088b3ccd45f2667&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">Added a missing word and made the sentence grammatically correct</p>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>addsoupbase</name>
+            <email>addsoupbase@noreply.github.com</email>
+            <uri>https://github.com/addsoupbase</uri>
+        </author>
+        <published>2025-05-14T13:20:05.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus release note]]></title>
         <id>https://github.com/mdn/content/pull/39513</id>
@@ -104,7 +173,7 @@ indicates that the content has been compressed using the gzip coding and then ch
         <title type="html"><![CDATA[Guide: intro to masking]]></title>
         <id>https://github.com/mdn/content/pull/39490</id>
         <link href="https://github.com/mdn/content/pull/39490"/>
-        <updated>2025-05-14T01:47:09.000Z</updated>
+        <updated>2025-05-14T14:00:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69888?v=4" width="64" height="64" alt=""/><br/><p dir="auto">This is going to be a series of guides. They will be added to the module landing page and the yaml file when complete (don't want any guide to hold up the others, and there are too many files being edited in this project to make it one PR).</p>]]></content>
         <author>
             <name>estelle</name>
@@ -112,32 +181,6 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/estelle</uri>
         </author>
         <published>2025-05-12T19:14:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve soft skills recommendations]]></title>
-        <id>https://github.com/mdn/content/pull/39486</id>
-        <link href="https://github.com/mdn/content/pull/39486"/>
-        <updated>2025-05-14T04:02:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">As per <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3012068048" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39241" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39241/hovercard" href="https://github.com/mdn/content/issues/39241">#39241</a>, this PR improves the recommendations in the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Soft_skills" rel="nofollow">Soft Skills</a> articles, for example, adding more open-source community options.</p>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39241.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3012068048" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39241" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39241/hovercard" href="https://github.com/mdn/content/issues/39241">#39241</a></p>
-
-
-
-]]></content>
-        <author>
-            <name>chrisdavidmills</name>
-            <email>chrisdavidmills@noreply.github.com</email>
-            <uri>https://github.com/chrisdavidmills</uri>
-        </author>
-        <published>2025-05-12T12:11:34.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deduplicate clipboard event pages]]></title>
@@ -235,7 +278,7 @@ indicates that the content has been compressed using the gzip coding and then ch
         <title type="html"><![CDATA[added links to the supported calendar types]]></title>
         <id>https://github.com/mdn/content/pull/39471</id>
         <link href="https://github.com/mdn/content/pull/39471"/>
-        <updated>2025-05-14T11:22:52.000Z</updated>
+        <updated>2025-05-14T13:42:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/286386?u=bc4894b945491e0834d2306dade7fef748ddf698&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <ul dir="auto">
 <li>Added list of supported <code class="notranslate">calendar</code> types to:
@@ -430,52 +473,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-05T10:33:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minor edits to the "Third-party cookies" section]]></title>
-        <id>https://github.com/mdn/content/pull/39388</id>
-        <link href="https://github.com/mdn/content/pull/39388"/>
-        <updated>2025-05-04T23:54:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
-<li>I think there was some issues with pluralization of the word "Cookie" at the end of this section, so I attempted to reword it.</li>
-<li>I ended up changing more than I originally intended</li>
-<li>I did not intend to change any of the original meaning. If I did, that was a mistake on my part.</li>
-</ul>]]></content>
-        <author>
-            <name>DanKaplanSES</name>
-            <email>DanKaplanSES@noreply.github.com</email>
-            <uri>https://github.com/DanKaplanSES</uri>
-        </author>
-        <published>2025-05-04T22:56:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add an example to show how to handle a non-UTF-8 page]]></title>
-        <id>https://github.com/mdn/content/pull/39385</id>
-        <link href="https://github.com/mdn/content/pull/39385"/>
-        <updated>2025-05-12T06:14:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">The example shows two things:</p>
-<ol dir="auto">
-<li>How to get the charset from the page meta tag (using normal utf-8 TextDecoder)</li>
-<li>Using an external library because TextEncoder will not work</li>
-</ol>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">All other examples are for a UTF-8 page.</p>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>def00111</name>
-            <email>def00111@noreply.github.com</email>
-            <uri>https://github.com/def00111</uri>
-        </author>
-        <published>2025-05-04T14:11:13.000Z</published>
     </entry>
 </feed>
