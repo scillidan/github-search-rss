@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This PR:</p>\n<ul dir=\"auto\">\n<li>updates the example in <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API\" rel=\"nofollow\">https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API</a> to match <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3063783653\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/dom-examples/issues/306\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/dom-examples/pull/306/hovercard\" href=\"https://github.com/mdn/dom-examples/pull/306\">mdn/dom-examples#306</a>.</li>\n<li>removes the bit about prefixing, I think we are past that now</li>\n<li>removes another copy of the example from the guide page, instead pointing people at dom-examples.</li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/39525",
+            "title": "Fix the fullscreen example",
+            "date_modified": "2025-05-14T17:42:40.000Z",
+            "date_published": "2025-05-14T17:40:48.000Z",
+            "author": {
+                "name": "wbamberg",
+                "url": "https://github.com/wbamberg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">These are already essentially on the page as code blocks, but we have links to jsfiddle instead of showing the results directly.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\">Follow-up from:</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2132688716\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/32258\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/32258/hovercard\" href=\"https://github.com/mdn/content/pull/32258\">#32258</a></li>\n</ul>",
             "url": "https://github.com/mdn/content/pull/39521",
             "title": "chore(css): Convert jsfiddles to live samples",
@@ -127,17 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/286386?u=bc4894b945491e0834d2306dade7fef748ddf698&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<ul dir=\"auto\">\n<li>Added list of supported <code class=\"notranslate\">calendar</code> types to:\n<ul dir=\"auto\">\n<li>Temporal.PlainDate.prototype.withCalendar()</li>\n<li>Temporal.PlainDateTime.prototype.withCalendar()</li>\n</ul>\n</li>\n</ul>\n<h3 dir=\"auto\">Motivation</h3>\n<ul dir=\"auto\">\n<li>Working on the release of <a href=\"https://github.com/mdn/content/issues/39303\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39303/hovercard\">Temporal API</a> and there was no rela colelation with the <code class=\"notranslate\">withCalendar()</code> method and what calendar type can be used.</li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<ul dir=\"auto\">\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1912511\" rel=\"nofollow\">Ship Temporal Bug</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1950425\" rel=\"nofollow\">Disable calendar bug</a></li>\n<li><a href=\"https://github.com/mdn/browser-compat-data/pull/26753\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26753/hovercard\"><code class=\"notranslate\">PlainDateTime</code> BCD PR</a></li>\n<li><a href=\"https://github.com/mdn/browser-compat-data/pull/26758\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26758/hovercard\"><code class=\"notranslate\">PlainDate</code> BCD PR</a></li>\n<li><a href=\"https://github.com/mdn/content/pull/39520\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39520/hovercard\">Firefox release PR</a></li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39471",
-            "title": "added links to the supported calendar types",
-            "date_modified": "2025-05-14T16:34:41.000Z",
-            "date_published": "2025-05-09T14:33:58.000Z",
-            "author": {
-                "name": "dletorey",
-                "url": "https://github.com/dletorey"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7352080?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Following feedback on <a href=\"https://github.com/mdn/content/pull/38844#issuecomment-2859232805\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/38844/hovercard\">author manifest key cross-browser clarifications #38844</a>, modifies the content to clarify that Chrome and the Chrome Store don't use the <code class=\"notranslate\">author</code> manifest key.</p>",
             "url": "https://github.com/mdn/content/pull/39463",
             "title": "`author` manifest key Chrome clarifications",
@@ -182,7 +182,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209311730?u=2d81c78beef3d9351871ba115a08f719bd78b8f6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Updated the example combining tab with tablist.</p>\n\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">I created a PR <a href=\"https://github.com/mdn/mdn/issues/671#issuecomment-2853960413\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/671/hovercard\">as suggested</a>.</p>\n\n<p dir=\"auto\">Updated the HTML and JS in the example.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">I read the guides on Accessibility and briefed myself on the ARIA: tab page. It is elaborate, instructive and full of potential for many examples to be created.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">I verified these changes on <a href=\"https://developer.mozilla.org/en-US/play\" rel=\"nofollow\">the playground</a>.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209311730?u=43ede7235756f5e5542b29663940a14cc66b9f08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Updated the example combining tab with tablist.</p>\n\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">I created a PR <a href=\"https://github.com/mdn/mdn/issues/671#issuecomment-2853960413\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/671/hovercard\">as suggested</a>.</p>\n\n<p dir=\"auto\">Updated the HTML and JS in the example.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">I read the guides on Accessibility and briefed myself on the ARIA: tab page. It is elaborate, instructive and full of potential for many examples to be created.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">I verified these changes on <a href=\"https://developer.mozilla.org/en-US/play\" rel=\"nofollow\">the playground</a>.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39423",
             "title": "Update Example on ARIA: tab || Relates to #671",
             "date_modified": "2025-05-12T20:16:07.000Z",
