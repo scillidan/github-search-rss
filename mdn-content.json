@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR links to child pages when missing from parent.<br>\nAlso some clean up of page intros &amp; structures that are a little awkward.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">XML was one of the first dirs we touched, cycling back to clean up some leftovers.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3062200810\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39510\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39510/hovercard\" href=\"https://github.com/mdn/content/pull/39510\">#39510</a></li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/39511",
+            "title": "chore(xml/wasm): tidy up parent-child links, fix sidebars",
+            "date_modified": "2025-05-14T08:55:46.000Z",
+            "date_published": "2025-05-14T08:53:46.000Z",
+            "author": {
+                "name": "bsmth",
+                "url": "https://github.com/bsmth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR links to child pages when missing from parent.</p>\n<p dir=\"auto\">Follow-up from:</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2984397282\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39055\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39055/hovercard\" href=\"https://github.com/mdn/content/pull/39055\">#39055</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3052357612\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39470\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39470/hovercard\" href=\"https://github.com/mdn/content/pull/39470\">#39470</a></li>\n</ul>",
             "url": "https://github.com/mdn/content/pull/39510",
             "title": "chore(html): tidy up parent-child links",
@@ -97,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">new guide.</p>\n<p dir=\"auto\">(working on another guide, and i'll update the yaml when i have both done)</p>",
             "url": "https://github.com/mdn/content/pull/39475",
             "title": "new css guide: css clipping",
-            "date_modified": "2025-05-14T00:40:24.000Z",
+            "date_modified": "2025-05-14T08:59:15.000Z",
             "date_published": "2025-05-09T19:07:01.000Z",
             "author": {
                 "name": "estelle",
@@ -209,17 +220,6 @@
             "title": "Add an example to show how to handle a non-UTF-8 page",
             "date_modified": "2025-05-12T06:14:26.000Z",
             "date_published": "2025-05-04T14:11:13.000Z",
-            "author": {
-                "name": "def00111",
-                "url": "https://github.com/def00111"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">Using the newer blob.bytes() method.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39377",
-            "title": "Use the new blob.bytes() method",
-            "date_modified": "2025-05-03T18:20:54.000Z",
-            "date_published": "2025-05-03T18:18:47.000Z",
             "author": {
                 "name": "def00111",
                 "url": "https://github.com/def00111"
