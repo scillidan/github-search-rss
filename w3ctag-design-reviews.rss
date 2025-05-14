@@ -2,11 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss</id>
     <title>w3ctag/design-reviews Design Issues</title>
-    <updated>2025-05-14T05:01:23.706Z</updated>
+    <updated>2025-05-14T06:01:36.465Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss"/>
     <subtitle>w3ctag/design-reviews Design Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Prompt API]]></title>
+        <id>https://github.com/w3ctag/design-reviews/issues/1093</id>
+        <link href="https://github.com/w3ctag/design-reviews/issues/1093"/>
+        <updated>2025-05-14T05:28:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/617481?v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
+<p dir="auto">I'm requesting an early TAG design review of the Prompt API.</p>
+<p dir="auto">This is a JavaScript API for directly prompting an AI language model, including text, image, and audio inputs.</p>
+<p dir="auto">Although the Chrome built-in AI team is exploring purpose-built APIs for some use cases (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2260423427" data-permission-text="Title is private" data-url="https://github.com/w3ctag/design-reviews/issues/948" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/948/hovercard" href="https://github.com/w3ctag/design-reviews/issues/948">#948</a>, <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2515546852" data-permission-text="Title is private" data-url="https://github.com/w3ctag/design-reviews/issues/991" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/991/hovercard" href="https://github.com/w3ctag/design-reviews/issues/991">#991</a>), we are also exploring a general-purpose "prompt API" which allows web developers to prompt a language model directly. This gives web developers access to many more capabilities, at the cost of requiring them to do their own prompt engineering.</p>
+<ul class="contains-task-list">
+<li>Explainer: <a href="https://github.com/webmachinelearning/prompt-api/blob/main/README.md">https://github.com/webmachinelearning/prompt-api/blob/main/README.md</a></li>
+<li>User research: none (although we have <a href="https://docs.google.com/presentation/d/1DhFC2oB4PRrchavxUY3h9U4w4hrX5DAc5LoMqhn5hnk/edit#slide=id.g349a9ada368_1_6327" rel="nofollow">developer-facing research</a>)</li>
+<li>Security and Privacy self-review: <a href="https://github.com/webmachinelearning/prompt-api/blob/main/security-privacy-questionnaire.md">https://github.com/webmachinelearning/prompt-api/blob/main/security-privacy-questionnaire.md</a></li>
+<li>GitHub repo: <a href="https://github.com/webmachinelearning/prompt-api">https://github.com/webmachinelearning/prompt-api</a></li>
+<li>Primary contacts:
+<ul dir="auto">
+<li>Domenic Denicola (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/domenic/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/domenic">@domenic</a>), Google, spec editor</li>
+<li>Etienne Noël (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/etiennenoel/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/etiennenoel">@etiennenoel</a>), Google, team lead</li>
+</ul>
+</li>
+<li>Organization/project driving the design: Google</li>
+<li>This work is being funded by: Google, Microsoft</li>
+<li>Incubation and standards groups that have discussed the design:
+<ul dir="auto">
+<li>This API has been discussed at the majority of Web Machine Learning CG meetings in 2025, the minutes for which can be found at <a href="https://github.com/webmachinelearning/meetings/tree/main/telcons">https://github.com/webmachinelearning/meetings/tree/main/telcons</a></li>
+</ul>
+</li>
+<li>Standards group(s) that you expect to discuss and/or adopt this work when it's<br>
+ready: W3C Machine Learning Working Group</li>
+<li>Multi-stakeholder feedback:
+<ul dir="auto">
+<li>Chromium comments: prototyping</li>
+<li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3025198467" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1213" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1213/hovercard" href="https://github.com/mozilla/standards-positions/issues/1213">mozilla/standards-positions#1213</a> and some comments in the Web ML CG minutes listed above</li>
+<li>WebKit comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3061831210" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/495" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/495/hovercard" href="https://github.com/WebKit/standards-positions/issues/495">WebKit/standards-positions#495</a></li>
+<li>Developer comments: some of them are collated in <a href="https://github.com/webmachinelearning/prompt-api/blob/main/README.md#stakeholder-feedback">https://github.com/webmachinelearning/prompt-api/blob/main/README.md#stakeholder-feedback</a></li>
+</ul>
+</li>
+<li>Major unresolved issues with or opposition to this design: There are a lot of enhancement requests on <a href="https://github.com/webmachinelearning/prompt-api/issues">the issue tracker</a>. There are a couple of interop concern issues there as well. It all seems manageable at this point, though.</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
+</ul>
+<p dir="auto">You should also know that...</p>
+<p dir="auto">Although this feature exposes an on-device language model, the language model is never trained on, and does not have access to, any local user-specific data. (Sometimes people seem to be confused by this, so we're trying to include this disclaimer in as many places as possible.)</p>]]></content>
+        <author>
+            <name>domenic</name>
+            <email>domenic@noreply.github.com</email>
+            <uri>https://github.com/domenic</uri>
+        </author>
+        <published>2025-05-14T05:28:26.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Authentication Immediate Mediation]]></title>
         <id>https://github.com/w3ctag/design-reviews/issues/1092</id>
@@ -1172,76 +1221,5 @@ ready: Federated Identity Working Group</p>
             <uri>https://github.com/mstensho</uri>
         </author>
         <published>2025-03-26T08:45:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updated review of Web Neural Network API]]></title>
-        <id>https://github.com/w3ctag/design-reviews/issues/1072</id>
-        <link href="https://github.com/w3ctag/design-reviews/issues/1072"/>
-        <updated>2025-04-10T13:45:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/765510?u=6a629f39e06d5bea7b0227a5f40e20a638889341&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Hello TAG!</p>
-<p dir="auto">I'm requesting an updated TAG review of WebNN API - previous TAG review: <a href="https://github.com/w3ctag/design-reviews/issues/933" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/933/hovercard">#933</a></p>
-<ul dir="auto">
-<li>Explainer¹: <a href="https://github.com/webmachinelearning/webnn/blob/main/explainer.md">https://github.com/webmachinelearning/webnn/blob/main/explainer.md</a></li>
-<li>Specification: <a href="https://www.w3.org/TR/webnn/" rel="nofollow">https://www.w3.org/TR/webnn/</a></li>
-<li>WPT Tests: <a href="https://github.com/web-platform-tests/wpt/tree/master/webnn">https://github.com/web-platform-tests/wpt/tree/master/webnn</a></li>
-<li>User research: N/A</li>
-<li>Security and Privacy self-review²: <a href="https://github.com/webmachinelearning/webnn/blob/main/security-privacy.md">https://github.com/webmachinelearning/webnn/blob/main/security-privacy.md</a></li>
-<li>GitHub repo: <a href="https://github.com/webmachinelearning/webnn/">https://github.com/webmachinelearning/webnn/</a></li>
-<li>Primary contacts:
-<ul dir="auto">
-<li>Anssi Kostiainen, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/anssiko/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/anssiko">@anssiko</a>, Intel (chair)</li>
-<li>Dominique Hazael-Massieux, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dontcallmedom/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dontcallmedom">@dontcallmedom</a>, W3C (staff contact)</li>
-<li>Ningxin Hu, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/huningxin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/huningxin">@huningxin</a>, Intel (editor)</li>
-<li>Dwayne Robinson, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/fdwr/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/fdwr">@fdwr</a>, Microsoft (editor)</li>
-</ul>
-</li>
-<li>Organization/project driving the specification: <a href="https://www.w3.org/groups/wg/webmachinelearning/" rel="nofollow">W3C Web Machine Learning Working Group</a></li>
-<li>Multi-stakeholder support³: <a href="https://www.w3.org/groups/wg/webmachinelearning/participants/" rel="nofollow">Participation</a> by all major browser vendors. <a href="https://webmachinelearning.github.io/webnn-status/" rel="nofollow">Implementation experience</a> across major OSes, platform APIs and key JavaScript ML frameworks.
-<ul dir="auto">
-<li>Chromium comments: <a href="https://www.w3.org/2024/10/17-webmachinelearning-minutes.html#dc9a" rel="nofollow">High-level feedback addressed</a>. Informed by this feedback, the group has initiated work on <a href="https://github.com/webmachinelearning/webnn/issues/573" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/573/hovercard">core operator set</a>.</li>
-<li>Mozilla comments: N/A, Mozilla recently joined the WG</li>
-<li>WebKit comments: N/A, Apple actively participates and contributes in the WG</li>
-</ul>
-</li>
-<li>Status/issue trackers for implementations⁴: <a href="https://chromestatus.com/feature/5176273954144256" rel="nofollow">Chrome Platform Status</a>, <a href="https://microsoft.github.io/webnn-developer-preview/" rel="nofollow">Edge WebNN Developer Preview</a></li>
-</ul>
-<p dir="auto">Further details:</p>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
-<li>Previous early design review, if any: <a href="https://github.com/w3ctag/design-reviews/issues/570" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/570/hovercard">2000</a>, <a href="https://github.com/w3ctag/design-reviews/issues/771" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/771/hovercard">2022</a>, <a href="https://github.com/w3ctag/design-reviews/issues/933" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/933/hovercard">2024</a></li>
-<li>Relevant time constraints or deadlines: We plan to publish a new CRS during Q2 2025</li>
-<li>The group where the work on this specification is currently being done: <a href="https://www.w3.org/groups/wg/webmachinelearning/" rel="nofollow">W3C Web Machine Learning Working Group</a></li>
-<li>Major unresolved issues with or opposition to this specification: none</li>
-<li>This work is being funded by:</li>
-</ul>
-<p dir="auto">You should also know that...</p>
-<p dir="auto">Below is a summary of substantive changes since the <a href="https://github.com/w3ctag/design-reviews/issues/933" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/933/hovercard">previous TAG review in 2024</a> to assist you in this delta review.</p>
-<p dir="auto">Significant new features:</p>
-<ul dir="auto">
-<li>Add 12 new operators ("Wave 3") to support well-known transformer models based on an analysis of <a href="https://github.com/webmachinelearning/webnn/issues/375#issuecomment-2292466613" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/375/hovercard">top 20 downloaded Hugging Face models</a>. The models comprise of a diverse set of tasks, including Small Language Models and Large Language Models, object detection, sentence similarity, feature extraction, speech recognition, image segmentation, text classification, and text generation. See <a href="https://github.com/webmachinelearning/webnn/issues/375" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/375/hovercard">issue</a>, <a href="https://github.com/webmachinelearning/webnn/pull/805" data-hovercard-type="pull_request" data-hovercard-url="/webmachinelearning/webnn/pull/805/hovercard">PR</a>, <a href="https://lists.w3.org/Archives/Public/www-archive/2024Sep/att-0014/WebNN_Operator_Update_Wave_3.pdf" rel="nofollow">presentation</a> for details on these operators and motivation.</li>
-<li>Add <a href="https://www.w3.org/TR/webnn/#mltensor" rel="nofollow"><code class="notranslate">MLTensor</code></a> interface that represents a tensor, an input or output to an <a href="https://www.w3.org/TR/webnn/#api-mlgraph" rel="nofollow"><code class="notranslate">MLGraph</code></a>. Update <a href="https://www.w3.org/TR/webnn/#mlcontext" rel="nofollow"><code class="notranslate">MLContext</code></a> interface with new <a href="https://www.w3.org/TR/webnn/#api-mlcontext-createtensor" rel="nofollow"><code class="notranslate">createTensor()</code></a>, <a href="https://www.w3.org/TR/webnn/#api-mlcontext-readtensor" rel="nofollow"><code class="notranslate">readTensor()</code></a>, <a href="https://www.w3.org/TR/webnn/#api-mlcontext-writetensor" rel="nofollow"><code class="notranslate">writeTensor()</code></a> methods, change <a href="https://www.w3.org/TR/2024/CRD-webnn-20241128/#api-mlcontext-compute" rel="nofollow"><code class="notranslate">compute()</code></a> to <a href="https://www.w3.org/TR/webnn/#api-mlcontext-dispatch" rel="nofollow"><code class="notranslate">dispatch()</code></a> for scheduling the workload, add new <code class="notranslate">destroy()</code> method for <a href="https://www.w3.org/TR/webnn/#api-mlcontext-destroy" rel="nofollow"><code class="notranslate">MLContext</code></a>, <a href="https://www.w3.org/TR/webnn/#api-mlgraph-destroy" rel="nofollow"><code class="notranslate">MLGraph</code></a>, <a href="https://www.w3.org/TR/webnn/#api-mltensor-destroy" rel="nofollow"><code class="notranslate">MLTensor</code></a>. These changes allow buffer reuse, chained inference, better resource management with explicit destruction, and the opportunity to share memory with WebGPU, minimizing copies. See <a href="https://github.com/webmachinelearning/webnn/blob/main/mltensor-explainer.md">MLTensor Explainer</a> for details.</li>
-</ul>
-<p dir="auto">Other substantial changes:</p>
-<ul dir="auto">
-<li>Remove <a href="https://www.w3.org/TR/2025/CRD-webnn-20250131/#enumdef-mldevicetype" rel="nofollow"><code class="notranslate">MLDeviceType</code></a> abstraction based on implementation feedback, see <a href="https://github.com/webmachinelearning/webnn/blob/main/device-selection-explainer.md">Device Selection Explainer</a> for details</li>
-<li>Expose the API to shared workers and service workers to allow shared logic in a worker and use in web extensions</li>
-<li>Add <a href="https://www.w3.org/TR/webnn/#dom-mlcontext-lost" rel="nofollow"><code class="notranslate">MLContext.lost</code></a> attribute to signal context lost error at the earliest opportunity for improved debuggability</li>
-<li>Add <a href="https://www.w3.org/TR/webnn/#api-mlcontext-opsupportlimits" rel="nofollow"><code class="notranslate">opSupportLimits()</code></a> to allow checking whether operators/types are supported before creating a graph</li>
-<li>Enable <a href="https://www.w3.org/TR/webnn/#appendices-mloperanddatatype-arraybufferview-compatibility" rel="nofollow"><code class="notranslate">Float16Array</code></a> by default, note <code class="notranslate">Uint16Array</code> workaround informatively</li>
-<li>Convert <a href="https://www.w3.org/TR/webnn/#api-mloperand" rel="nofollow"><code class="notranslate">MLOperand</code></a> methods into readonly attributes (<code class="notranslate">dataType</code>, <code class="notranslate">shape</code>) per <a href="https://w3ctag.github.io/design-principles/#attributes-vs-methods" rel="nofollow">Web Platform Design Principles</a></li>
-<li>Add optional <a href="https://www.w3.org/TR/webnn/#dom-mloperatoroptions-label" rel="nofollow"><code class="notranslate">MLOperatorOptions.label</code></a> for more diagnosable error messages</li>
-<li>Add <a href="https://www.w3.org/TR/webnn/#api-mlnumber-typedef" rel="nofollow"><code class="notranslate">MLNumber</code></a> for specifying numeric inputs of any type</li>
-<li>Add resource contention and denial of service considerations to <a href="https://www.w3.org/TR/webnn/#security" rel="nofollow">security considerations</a></li>
-</ul>
-<p dir="auto">The group would like to seek TAG's explicit advise on the following:</p>
-<ul dir="auto">
-<li>Operator naming 2D vs 2d <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2867973938" data-permission-text="Title is private" data-url="https://github.com/webmachinelearning/webnn/issues/821" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/821/hovercard" href="https://github.com/webmachinelearning/webnn/issues/821">webmachinelearning/webnn#821</a></li>
-</ul>]]></content>
-        <author>
-            <name>anssiko</name>
-            <email>anssiko@noreply.github.com</email>
-            <uri>https://github.com/anssiko</uri>
-        </author>
-        <published>2025-03-20T14:49:33.000Z</published>
     </entry>
 </feed>

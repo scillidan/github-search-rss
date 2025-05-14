@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/WebKit-standards-positions.rss</id>
     <title>WebKit/standards-positions Issues</title>
-    <updated>2025-05-14T05:01:27.127Z</updated>
+    <updated>2025-05-14T06:01:39.957Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/WebKit-standards-positions.rss"/>
     <subtitle>WebKit/standards-positions Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Prompt API]]></title>
+        <id>https://github.com/WebKit/standards-positions/issues/495</id>
+        <link href="https://github.com/WebKit/standards-positions/issues/495"/>
+        <updated>2025-05-14T05:09:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/617481?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">WebKittens</h3>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/marcoscaceres/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/marcoscaceres">@marcoscaceres</a></p>
+<h3 dir="auto">Title of the proposal</h3>
+<p dir="auto">Prompt API</p>
+<h3 dir="auto">URL to the spec</h3>
+<p dir="auto">No spec yet</p>
+<h3 dir="auto">URL to the spec's repository</h3>
+<p dir="auto"><a href="https://github.com/webmachinelearning/prompt-api">https://github.com/webmachinelearning/prompt-api</a></p>
+<h3 dir="auto">Issue Tracker URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Explainer URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">TAG Design Review URL</h3>
+<p dir="auto">To be added shortly</p>
+<h3 dir="auto">Mozilla standards-positions issue URL</h3>
+<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3025198467" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1213" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1213/hovercard" href="https://github.com/mozilla/standards-positions/issues/1213">mozilla/standards-positions#1213</a></p>
+<h3 dir="auto">WebKit Bugzilla URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Radar URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Description</h3>
+<p dir="auto">This is a JavaScript API for directly prompting an AI language model, including text, image, and audio inputs. Chromium is looking to launch an Origin Trial shortly, and would be keen on feedback as to whether the proposed API surface would work well with Apple Intelligence or other WebKit browsers.</p>]]></content>
+        <author>
+            <name>domenic</name>
+            <email>domenic@noreply.github.com</email>
+            <uri>https://github.com/domenic</uri>
+        </author>
+        <published>2025-05-14T05:09:55.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ToggleEvent source attribute]]></title>
         <id>https://github.com/WebKit/standards-positions/issues/494</id>
@@ -329,7 +363,7 @@
 Some of the concerns above (not about privacy nor obfuscation) are also <a href="https://github.com/webmachinelearning/webnn/issues/840" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/840/hovercard">in the WebNN Github Repo</a>.</li>
 </ol>
 <p dir="auto">In a single image, this is what they propose (copied from their repository):</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxOTkxODcsIm5iZiI6MTc0NzE5ODg4NywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQwNTAxMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNmRhODc4MWJkN2U4ZjA4NzgyZTRkMmY1ZDJlNjA5NGJkYTBiOTNjNDYzNjI0ZGJhNGQ3NjA3ODM2OGY3NWE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SU7j4fyBU3LbuFn1V8Oi65QXB_eBPRmutppy-_eVaHU"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxOTkxODcsIm5iZiI6MTc0NzE5ODg4NywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQwNTAxMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNmRhODc4MWJkN2U4ZjA4NzgyZTRkMmY1ZDJlNjA5NGJkYTBiOTNjNDYzNjI0ZGJhNGQ3NjA3ODM2OGY3NWE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SU7j4fyBU3LbuFn1V8Oi65QXB_eBPRmutppy-_eVaHU" alt="Image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMDI3OTksIm5iZiI6MTc0NzIwMjQ5OSwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQwNjAxMzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NDEzODEwMmI3OTMzMmY2YTVmZWZjOGIxMWRjMTA5NmYwMDkzMDQ3MTk0NmU5MGE5MzQxODNlMzJkZjliNWI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0Gxlq0p25CRHLohae9oOKsEAmFnOQ_FpsZVxO37BxzM"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMDI3OTksIm5iZiI6MTc0NzIwMjQ5OSwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQwNjAxMzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NDEzODEwMmI3OTMzMmY2YTVmZWZjOGIxMWRjMTA5NmYwMDkzMDQ3MTk0NmU5MGE5MzQxODNlMzJkZjliNWI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0Gxlq0p25CRHLohae9oOKsEAmFnOQ_FpsZVxO37BxzM" alt="Image" style="max-width: 100%;"></a></p>
 <p dir="auto"><strong>Misc.</strong>: Mozilla <a href="https://github.com/mozilla/standards-positions/issues/1215" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1215/hovercard">does have an issue about it</a>, just not a position yet.</p>]]></content>
         <author>
             <name>iampi31415</name>
@@ -469,7 +503,7 @@ Some of the concerns above (not about privacy nor obfuscation) are also <a href=
 <h3 dir="auto">Description</h3>
 <h1 dir="auto"><a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/SystemStatusIcon/explainer.md">System Status Icons for Installed desktop Web Apps</a></h1>
 <p dir="auto"><a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/SystemStatusIcon/explainer.md">This proposal</a> aims to provide installed desktop web apps with a UX affordance available to native apps. In macOS, this is the concept of a "menu extra", and in macOS it "exposes app-specific functionality using an icon that appears in the menu bar when your app is running, even when it’s not the frontmost app".</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxOTkxODcsIm5iZiI6MTc0NzE5ODg4NywicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE0VDA1MDEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3YzUwMTRkZmU3NGJhZWIwMThjNGFiMWE2MTFhMzA3ZjBkNTIwMTlhYTY4ZTA1ZjAyMjhjOTUyZDJmYzAzOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KrSvOJkUS3o7ooEGVhQNSPc48gCqhAXCNRqRaJwmSKI"><img src="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxOTkxODcsIm5iZiI6MTc0NzE5ODg4NywicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE0VDA1MDEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3YzUwMTRkZmU3NGJhZWIwMThjNGFiMWE2MTFhMzA3ZjBkNTIwMTlhYTY4ZTA1ZjAyMjhjOTUyZDJmYzAzOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KrSvOJkUS3o7ooEGVhQNSPc48gCqhAXCNRqRaJwmSKI" alt="Image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMDI3OTksIm5iZiI6MTc0NzIwMjQ5OSwicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE0VDA2MDEzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwZTliMzI4OTk2MjU3NDU0ZjA1MDcyNGUyOTJmZWQ2NDkwY2NmOTA4MjgyMzAxZTZkNDJjNmJhNzVlNGZlNGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.his7TNc1KmBYumYOMZm5nz0xYfAXwJGcZWWOoZaYncY"><img src="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMDI3OTksIm5iZiI6MTc0NzIwMjQ5OSwicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE0VDA2MDEzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwZTliMzI4OTk2MjU3NDU0ZjA1MDcyNGUyOTJmZWQ2NDkwY2NmOTA4MjgyMzAxZTZkNDJjNmJhNzVlNGZlNGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.his7TNc1KmBYumYOMZm5nz0xYfAXwJGcZWWOoZaYncY" alt="Image" style="max-width: 100%;"></a></p>
 <p dir="auto">This can be useful for a plethora of cases, as seen in VPN software, video players, IM clients use it today.</p>
 <p dir="auto">We think enabling this optional feature for web apps elevates an app's UX and benefits the end user. I am very keen on reading your comments about this possible future feature.</p>
 <p dir="auto">Thanks!</p>
@@ -715,50 +749,5 @@ Chromestatus entry: <a href="https://chromestatus.com/feature/5176206485618688" 
             <uri>https://github.com/cfredric</uri>
         </author>
         <published>2025-03-21T19:35:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebCodecs: Support for orientation metadata]]></title>
-        <id>https://github.com/WebKit/standards-positions/issues/475</id>
-        <link href="https://github.com/WebKit/standards-positions/issues/475"/>
-        <updated>2025-04-09T17:02:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1081381?u=1177eb43fb6889e0b5270c68ea3616ee0b4a0821&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">WebKittens</h3>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/youennf/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/youennf">@youennf</a></p>
-<h3 dir="auto">Title of the proposal</h3>
-<p dir="auto">WebCodecs: Support for orientation metadata</p>
-<h3 dir="auto">URL to the spec</h3>
-<p dir="auto"><a href="https://www.w3.org/TR/webcodecs/" rel="nofollow">https://www.w3.org/TR/webcodecs/</a></p>
-<h3 dir="auto">URL to the spec's repository</h3>
-<p dir="auto"><a href="https://github.com/w3c/webcodecs/">https://github.com/w3c/webcodecs/</a></p>
-<h3 dir="auto">Issue Tracker URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Explainer URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">TAG Design Review URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Mozilla standards-positions issue URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">WebKit Bugzilla URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Radar URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Introduces "rotation: int" and "flip: bool" values to various video related interfaces in WebCodecs so that developers can work with frame sources that have orientation (E.g., Android cameras, certain media).</p>
-<p dir="auto">The VideoFrame interface grows the ability to create VideoFrames with arbitrary rotation and flip as well as accessors for this information on the VideoFrame object.</p>
-<p dir="auto">The VideoDecoderConfig object gains rotation and flip fields that are emitted on decoded VideoFrame objects automatically.</p>
-<p dir="auto">The VideoEncoder class gains mechanisms for passing rotation and flip information from encode() to the VideoDecoderConfig emitted as part of EncodedVideoChunkMetadata. If encode() is called with frames with different orientations a non-fatal exception will be thrown. configure() may be used to reset the allowed orientation.</p>
-<p dir="auto"><a href="https://chromestatus.com/feature/5128855343595520" rel="nofollow">https://chromestatus.com/feature/5128855343595520</a></p>
-<p dir="auto">Mozilla co-edited the spec changes and they were discussed in the media working group:</p>
-<ul dir="auto">
-<li><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2918601750" data-permission-text="Title is private" data-url="https://github.com/w3c/webcodecs/issues/884" data-hovercard-type="pull_request" data-hovercard-url="/w3c/webcodecs/pull/884/hovercard" href="https://github.com/w3c/webcodecs/pull/884">w3c/webcodecs#884</a></li>
-<li><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2814315198" data-permission-text="Title is private" data-url="https://github.com/w3c/webcodecs/issues/874" data-hovercard-type="pull_request" data-hovercard-url="/w3c/webcodecs/pull/874/hovercard" href="https://github.com/w3c/webcodecs/pull/874">w3c/webcodecs#874</a></li>
-<li><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1372211568" data-permission-text="Title is private" data-url="https://github.com/w3c/webcodecs/issues/559" data-hovercard-type="pull_request" data-hovercard-url="/w3c/webcodecs/pull/559/hovercard" href="https://github.com/w3c/webcodecs/pull/559">w3c/webcodecs#559</a></li>
-<li><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1372211568" data-permission-text="Title is private" data-url="https://github.com/w3c/webcodecs/issues/559" data-hovercard-type="pull_request" data-hovercard-url="/w3c/webcodecs/pull/559/hovercard" href="https://github.com/w3c/webcodecs/pull/559">w3c/webcodecs#559</a></li>
-</ul>]]></content>
-        <author>
-            <name>dalecurtis</name>
-            <email>dalecurtis@noreply.github.com</email>
-            <uri>https://github.com/dalecurtis</uri>
-        </author>
-        <published>2025-03-20T16:51:25.000Z</published>
     </entry>
 </feed>

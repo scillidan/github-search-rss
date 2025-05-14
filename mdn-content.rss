@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-14T05:01:31.100Z</updated>
+    <updated>2025-05-14T06:01:43.454Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[Fix links]]></title>
-        <id>https://github.com/mdn/content/pull/39508</id>
-        <link href="https://github.com/mdn/content/pull/39508"/>
-        <updated>2025-05-14T04:55:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Fix some broken links</p>]]></content>
-        <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
-        </author>
-        <published>2025-05-14T03:49:27.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
         <id>https://github.com/mdn/content/pull/39502</id>
@@ -474,5 +461,31 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/def00111</uri>
         </author>
         <published>2025-05-03T18:18:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update 1 and 4 example from /docs/Mozilla/Add-ons/WebExtensions/API/w…]]></title>
+        <id>https://github.com/mdn/content/pull/39375</id>
+        <link href="https://github.com/mdn/content/pull/39375"/>
+        <updated>2025-05-03T14:43:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/><p dir="auto">…ebRequest/StreamFilter/ondata</p>
+
+<h3 dir="auto">Description</h3>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">In the first example the "*" is not needed. In the 4 example just store the string directly instead of creating an array and storing the string there.</p>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>def00111</name>
+            <email>def00111@noreply.github.com</email>
+            <uri>https://github.com/def00111</uri>
+        </author>
+        <published>2025-05-03T14:33:39.000Z</published>
     </entry>
 </feed>
