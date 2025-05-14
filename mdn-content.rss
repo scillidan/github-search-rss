@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-14T12:01:49.022Z</updated>
+    <updated>2025-05-14T13:10:13.900Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -47,49 +47,6 @@
             <uri>https://github.com/rebloor</uri>
         </author>
         <published>2025-05-14T09:55:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chore(xml/wasm): tidy up parent-child links, fix sidebars]]></title>
-        <id>https://github.com/mdn/content/pull/39511</id>
-        <link href="https://github.com/mdn/content/pull/39511"/>
-        <updated>2025-05-14T10:15:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">This PR links to child pages when missing from parent.<br>
-Also some clean up of page intros &amp; structures that are a little awkward.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">XML was one of the first dirs we touched, cycling back to clean up some leftovers.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062200810" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39510" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39510/hovercard" href="https://github.com/mdn/content/pull/39510">#39510</a></li>
-</ul>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-14T08:53:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chore(html): tidy up parent-child links]]></title>
-        <id>https://github.com/mdn/content/pull/39510</id>
-        <link href="https://github.com/mdn/content/pull/39510"/>
-        <updated>2025-05-14T08:01:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">This PR links to child pages when missing from parent.</p>
-<p dir="auto">Follow-up from:</p>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2984397282" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39055" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39055/hovercard" href="https://github.com/mdn/content/pull/39055">#39055</a></li>
-</ul>
-<h3 dir="auto">Related issues and pull requests</h3>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3052357612" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39470" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39470/hovercard" href="https://github.com/mdn/content/pull/39470">#39470</a></li>
-</ul>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-14T07:59:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
@@ -473,5 +430,52 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-05T10:33:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minor edits to the "Third-party cookies" section]]></title>
+        <id>https://github.com/mdn/content/pull/39388</id>
+        <link href="https://github.com/mdn/content/pull/39388"/>
+        <updated>2025-05-04T23:54:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
+<li>I think there was some issues with pluralization of the word "Cookie" at the end of this section, so I attempted to reword it.</li>
+<li>I ended up changing more than I originally intended</li>
+<li>I did not intend to change any of the original meaning. If I did, that was a mistake on my part.</li>
+</ul>]]></content>
+        <author>
+            <name>DanKaplanSES</name>
+            <email>DanKaplanSES@noreply.github.com</email>
+            <uri>https://github.com/DanKaplanSES</uri>
+        </author>
+        <published>2025-05-04T22:56:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add an example to show how to handle a non-UTF-8 page]]></title>
+        <id>https://github.com/mdn/content/pull/39385</id>
+        <link href="https://github.com/mdn/content/pull/39385"/>
+        <updated>2025-05-12T06:14:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">The example shows two things:</p>
+<ol dir="auto">
+<li>How to get the charset from the page meta tag (using normal utf-8 TextDecoder)</li>
+<li>Using an external library because TextEncoder will not work</li>
+</ol>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">All other examples are for a UTF-8 page.</p>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>def00111</name>
+            <email>def00111@noreply.github.com</email>
+            <uri>https://github.com/def00111</uri>
+        </author>
+        <published>2025-05-04T14:11:13.000Z</published>
     </entry>
 </feed>
