@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-14T21:01:38.267Z</updated>
+    <updated>2025-05-14T22:01:32.672Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Set Vary header in the Fetch metadata example]]></title>
+        <id>https://github.com/mdn/content/pull/39527</id>
+        <link href="https://github.com/mdn/content/pull/39527"/>
+        <updated>2025-05-14T21:56:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Set the <code class="notranslate">Vary</code> header in the response, in the fetch metadata example, as reported in <a href="https://front-end.social/@openwebdocs/114506561385552270" rel="nofollow">https://front-end.social/@openwebdocs/114506561385552270</a>.</p>
+<p dir="auto">We probably ought to have a proper guide to fetch metadata on MDN.</p>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jub0bs/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jub0bs">@jub0bs</a> , thank you for finding this! Would you like to review?</p>]]></content>
+        <author>
+            <name>wbamberg</name>
+            <email>wbamberg@noreply.github.com</email>
+            <uri>https://github.com/wbamberg</uri>
+        </author>
+        <published>2025-05-14T21:08:57.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fix the fullscreen example]]></title>
         <id>https://github.com/mdn/content/pull/39525</id>
@@ -194,19 +209,6 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-13T07:43:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide: intro to masking]]></title>
-        <id>https://github.com/mdn/content/pull/39490</id>
-        <link href="https://github.com/mdn/content/pull/39490"/>
-        <updated>2025-05-14T21:01:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69888?v=4" width="64" height="64" alt=""/><br/><p dir="auto">This is going to be a series of guides. They will be added to the module landing page and the yaml file when complete (don't want any guide to hold up the others, and there are too many files being edited in this project to make it one PR).</p>]]></content>
-        <author>
-            <name>estelle</name>
-            <email>estelle@noreply.github.com</email>
-            <uri>https://github.com/estelle</uri>
-        </author>
-        <published>2025-05-12T19:14:46.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deduplicate clipboard event pages]]></title>

@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Set the <code class=\"notranslate\">Vary</code> header in the response, in the fetch metadata example, as reported in <a href=\"https://front-end.social/@openwebdocs/114506561385552270\" rel=\"nofollow\">https://front-end.social/@openwebdocs/114506561385552270</a>.</p>\n<p dir=\"auto\">We probably ought to have a proper guide to fetch metadata on MDN.</p>\n<p dir=\"auto\"><a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/jub0bs/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/jub0bs\">@jub0bs</a> , thank you for finding this! Would you like to review?</p>",
+            "url": "https://github.com/mdn/content/pull/39527",
+            "title": "Set Vary header in the Fetch metadata example",
+            "date_modified": "2025-05-14T21:56:49.000Z",
+            "date_published": "2025-05-14T21:08:57.000Z",
+            "author": {
+                "name": "wbamberg",
+                "url": "https://github.com/wbamberg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This PR:</p>\n<ul dir=\"auto\">\n<li>updates the example in <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API\" rel=\"nofollow\">https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API</a> to match <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3063783653\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/dom-examples/issues/306\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/dom-examples/pull/306/hovercard\" href=\"https://github.com/mdn/dom-examples/pull/306\">mdn/dom-examples#306</a>.</li>\n<li>removes the bit about prefixing, I think we are past that now</li>\n<li>removes another copy of the example from the guide page, instead pointing people at dom-examples.</li>\n</ul>",
             "url": "https://github.com/mdn/content/pull/39525",
             "title": "Fix the fullscreen example",
@@ -91,17 +102,6 @@
             "author": {
                 "name": "samuel871211",
                 "url": "https://github.com/samuel871211"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is going to be a series of guides. They will be added to the module landing page and the yaml file when complete (don't want any guide to hold up the others, and there are too many files being edited in this project to make it one PR).</p>",
-            "url": "https://github.com/mdn/content/pull/39490",
-            "title": "Guide: intro to masking",
-            "date_modified": "2025-05-14T21:01:27.000Z",
-            "date_published": "2025-05-12T19:14:46.000Z",
-            "author": {
-                "name": "estelle",
-                "url": "https://github.com/estelle"
             }
         },
         {
