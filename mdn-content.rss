@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-14T03:18:35.033Z</updated>
+    <updated>2025-05-14T04:02:03.121Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Fix links]]></title>
+        <id>https://github.com/mdn/content/pull/39508</id>
+        <link href="https://github.com/mdn/content/pull/39508"/>
+        <updated>2025-05-14T03:51:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Fix some broken links</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-14T03:49:27.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
         <id>https://github.com/mdn/content/pull/39502</id>
@@ -58,19 +71,6 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-13T07:43:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enable descriptive-link-text markdown lint rule]]></title>
-        <id>https://github.com/mdn/content/pull/39495</id>
-        <link href="https://github.com/mdn/content/pull/39495"/>
-        <updated>2025-05-13T10:02:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Continuation of <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3057175562" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39488" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39488/hovercard" href="https://github.com/mdn/content/pull/39488">#39488</a></p>]]></content>
-        <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
-        </author>
-        <published>2025-05-13T04:29:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Guide: intro to masking]]></title>
