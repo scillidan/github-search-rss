@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR links to child pages when missing from parent.</p>\n<p dir=\"auto\">Follow-up from:</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2984397282\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39055\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39055/hovercard\" href=\"https://github.com/mdn/content/pull/39055\">#39055</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3052357612\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39470\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39470/hovercard\" href=\"https://github.com/mdn/content/pull/39470\">#39470</a></li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/39510",
+            "title": "chore(html): tidy up parent-child links",
+            "date_modified": "2025-05-14T08:01:24.000Z",
+            "date_published": "2025-05-14T07:59:03.000Z",
+            "author": {
+                "name": "bsmth",
+                "url": "https://github.com/bsmth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1784648?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Replaces the room link with its canonical version.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">The current \"internal\" ID doesn't offer a good expectation where does it lead eventually.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">Extra metadata hinting at instances being used when creating this room reference are also removed, as they are not relevant for anyone besides the original user creating said link.</p>",
             "url": "https://github.com/mdn/content/pull/39502",
             "title": "Clean up #addons:mozilla.org room Matrix link",
@@ -209,17 +220,6 @@
             "title": "Use the new blob.bytes() method",
             "date_modified": "2025-05-03T18:20:54.000Z",
             "date_published": "2025-05-03T18:18:47.000Z",
-            "author": {
-                "name": "def00111",
-                "url": "https://github.com/def00111"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">…ebRequest/StreamFilter/ondata</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">In the first example the \"*\" is not needed. In the 4 example just store the string directly instead of creating an array and storing the string there.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39375",
-            "title": "Update 1 and 4 example from /docs/Mozilla/Add-ons/WebExtensions/API/w…",
-            "date_modified": "2025-05-03T14:43:55.000Z",
-            "date_published": "2025-05-03T14:33:39.000Z",
             "author": {
                 "name": "def00111",
                 "url": "https://github.com/def00111"

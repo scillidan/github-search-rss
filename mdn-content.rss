@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-14T07:01:29.207Z</updated>
+    <updated>2025-05-14T08:01:35.597Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[chore(html): tidy up parent-child links]]></title>
+        <id>https://github.com/mdn/content/pull/39510</id>
+        <link href="https://github.com/mdn/content/pull/39510"/>
+        <updated>2025-05-14T08:01:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">This PR links to child pages when missing from parent.</p>
+<p dir="auto">Follow-up from:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2984397282" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39055" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39055/hovercard" href="https://github.com/mdn/content/pull/39055">#39055</a></li>
+</ul>
+<h3 dir="auto">Related issues and pull requests</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3052357612" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39470" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39470/hovercard" href="https://github.com/mdn/content/pull/39470">#39470</a></li>
+</ul>]]></content>
+        <author>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
+        </author>
+        <published>2025-05-14T07:59:03.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
         <id>https://github.com/mdn/content/pull/39502</id>
@@ -461,31 +483,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/def00111</uri>
         </author>
         <published>2025-05-03T18:18:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update 1 and 4 example from /docs/Mozilla/Add-ons/WebExtensions/API/w…]]></title>
-        <id>https://github.com/mdn/content/pull/39375</id>
-        <link href="https://github.com/mdn/content/pull/39375"/>
-        <updated>2025-05-03T14:43:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/><p dir="auto">…ebRequest/StreamFilter/ondata</p>
-
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">In the first example the "*" is not needed. In the 4 example just store the string directly instead of creating an array and storing the string there.</p>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>def00111</name>
-            <email>def00111@noreply.github.com</email>
-            <uri>https://github.com/def00111</uri>
-        </author>
-        <published>2025-05-03T14:33:39.000Z</published>
     </entry>
 </feed>
