@@ -2,45 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-14T18:01:31.340Z</updated>
+    <updated>2025-05-14T19:01:23.114Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[Update browser releases]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26802</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26802"/>
-        <updated>2025-05-14T16:32:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108879845?u=eeb9306682180ab80521c80fd8f46609fe3c6770&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The output of the <code class="notranslate">update-browser-releases</code> script is:</p>
-<blockquote>
-<p dir="auto">@mdn/browser-compat-data@6.0.14 update-browser-releases<br>
-tsx scripts/update-browser-releases/index.ts --all</p>
-</blockquote>
-<h3 dir="auto">Updates for Edge for Desktop</h3>
-<ul dir="auto">
-<li>New status for edge 137: beta, previously nightly.</li>
-<li>New status for edge 137: nightly, previously beta.</li>
-</ul>
-<h3 dir="auto">Updates for Opera for Desktop&gt; [!WARN]</h3>
-<blockquote>
-<p dir="auto"><strong>Opera for Desktop</strong>: No engine version found in <a href="https://blogs.opera.com/desktop/2025/05/opera-119/" rel="nofollow">this blog post</a>. Using (previous engine version + 1) instead.</p>
-</blockquote>
-<ul dir="auto">
-<li>New status for opera 119: current, previously beta.</li>
-<li>New release date for opera 119: 2025-05-13, previously undefined.</li>
-<li>New release notes for opera 119: <a href="https://blogs.opera.com/desktop/2025/05/opera-119/" rel="nofollow">https://blogs.opera.com/desktop/2025/05/opera-119/</a>, previously undefined.</li>
-<li>New status for opera 118: retired, previously current.</li>
-<li>New status for opera 120: beta, previously nightly.</li>
-<li>New release detected for opera: Version 121 as a nightly release.</li>
-</ul>]]></content>
-        <author>
-            <name>mdn-bot</name>
-            <email>mdn-bot@noreply.github.com</email>
-            <uri>https://github.com/mdn-bot</uri>
-        </author>
-        <published>2025-05-14T16:31:39.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26795</id>
