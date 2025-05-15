@@ -17,17 +17,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65251364?u=35cc873c70825f037f99ce3427df7c1b2b178b2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Fixes a typo in the definition of a trap on the Proxy reference page (\"define\" -&gt; \"defines\").</p>\n<h3 dir=\"auto\">Motivation</h3>\n<h3 dir=\"auto\">Additional details</h3>\n<h3 dir=\"auto\">Related issues and pull requests</h3>",
-            "url": "https://github.com/mdn/content/pull/39534",
-            "title": "Fix typo",
-            "date_modified": "2025-05-15T13:23:25.000Z",
-            "date_published": "2025-05-15T13:22:57.000Z",
-            "author": {
-                "name": "seppewyns",
-                "url": "https://github.com/seppewyns"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1066395?u=a0c87afc953571ad39a42971252b3dd5d2c00934&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Add status '0' to response values for fetch API response.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">A 0 response can be seen in addition to the HTTP response status codes indicated.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">Fetch standard references included in update.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39533",
             "title": "Update Web API Response: status property: add '0' status value",
@@ -36,17 +25,6 @@
             "author": {
                 "name": "chrisveness",
                 "url": "https://github.com/chrisveness"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Some live samples include too many code blocks and cause invalid code. Some are harder to statically analyze and have been slightly refactored so their image usage can be acknowledged. Some unused images have been removed.</p>",
-            "url": "https://github.com/mdn/content/pull/39530",
-            "title": "Fix some live samples that use images, remove unused images",
-            "date_modified": "2025-05-15T09:31:09.000Z",
-            "date_published": "2025-05-15T03:21:54.000Z",
-            "author": {
-                "name": "Josh-Cena",
-                "url": "https://github.com/Josh-Cena"
             }
         },
         {
@@ -69,17 +47,6 @@
             "author": {
                 "name": "wbamberg",
                 "url": "https://github.com/wbamberg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">These are already essentially on the page as code blocks, but we have links to jsfiddle instead of showing the results directly.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\">Follow-up from:</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2132688716\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/32258\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/32258/hovercard\" href=\"https://github.com/mdn/content/pull/32258\">#32258</a></li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39521",
-            "title": "chore(css): Convert jsfiddles to live samples",
-            "date_modified": "2025-05-14T15:58:51.000Z",
-            "date_published": "2025-05-14T15:56:38.000Z",
-            "author": {
-                "name": "bsmth",
-                "url": "https://github.com/bsmth"
             }
         },
         {
@@ -223,6 +190,39 @@
             "author": {
                 "name": "wbamberg",
                 "url": "https://github.com/wbamberg"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209311730?u=43ede7235756f5e5542b29663940a14cc66b9f08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Updated the example combining tab with tablist.</p>\n\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">I created a PR <a href=\"https://github.com/mdn/mdn/issues/671#issuecomment-2853960413\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/671/hovercard\">as suggested</a>.</p>\n\n<p dir=\"auto\">Updated the HTML and JS in the example.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">I read the guides on Accessibility and briefed myself on the ARIA: tab page. It is elaborate, instructive and full of potential for many examples to be created.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">I verified these changes on <a href=\"https://developer.mozilla.org/en-US/play\" rel=\"nofollow\">the playground</a>.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39423",
+            "title": "Update Example on ARIA: tab || Relates to #671",
+            "date_modified": "2025-05-12T20:16:07.000Z",
+            "date_published": "2025-05-06T23:01:19.000Z",
+            "author": {
+                "name": "CloudAnalystGo",
+                "url": "https://github.com/CloudAnalystGo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <code class=\"notranslate\">&lt;selectedcontent&gt;</code> reference document to:</p>\n<ol dir=\"auto\">\n<li>Include more details about the limitations of  cloning, and</li>\n<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class=\"notranslate\">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>\n</ol>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">After seeing <a href=\"https://github.com/angular/angular/issues/60636\" data-hovercard-type=\"issue\" data-hovercard-url=\"/angular/angular/issues/60636/hovercard\">this Angular bug</a> related to <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class=\"notranslate\">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>\n<p dir=\"auto\">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class=\"notranslate\">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39411",
+            "title": "Add content covering the limitations of <selectedcontent>",
+            "date_modified": "2025-05-13T15:40:28.000Z",
+            "date_published": "2025-05-05T17:53:05.000Z",
+            "author": {
+                "name": "philipwalton",
+                "url": "https://github.com/philipwalton"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Completing work originally started by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/Praveen7294/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/Praveen7294\">@Praveen7294</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2958583342\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/38859\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/38859/hovercard\" href=\"https://github.com/mdn/content/pull/38859\">#38859</a>, on documenting the <code class=\"notranslate\">reading-flow</code> and <code class=\"notranslate\">reading-order</code> properties.</p>\n<p dir=\"auto\">See <a href=\"https://drafts.csswg.org/css-display-4/#reading-flow\" rel=\"nofollow\">https://drafts.csswg.org/css-display-4/#reading-flow</a> for the specification.</p>\n<p dir=\"auto\">This PR adds ref pages for the two properties, but also updates the CSS Display module page to suit, and adds a glossary entry for \"reading order\".</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39404",
+            "title": "Editorial review: Add reading-flow and reading-order docs",
+            "date_modified": "2025-05-13T19:20:04.000Z",
+            "date_published": "2025-05-05T10:33:27.000Z",
+            "author": {
+                "name": "chrisdavidmills",
+                "url": "https://github.com/chrisdavidmills"
             }
         }
     ]
