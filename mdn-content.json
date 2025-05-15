@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36527?u=deec7fe29056077c325735b60b4d6d86243795ee&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">I was looking up the docs for ImageBitmap and stumbled upon the fact that height and width refer to ImageData instead of ImageBitmap.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">See above.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">Simple typo fix.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\">N/A</p>",
+            "url": "https://github.com/mdn/content/pull/39537",
+            "title": "Remove reference to ImageData in ImageBitmap docs.",
+            "date_modified": "2025-05-15T14:33:37.000Z",
+            "date_published": "2025-05-15T14:33:07.000Z",
+            "author": {
+                "name": "mkrautz",
+                "url": "https://github.com/mkrautz"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65251364?u=35cc873c70825f037f99ce3427df7c1b2b178b2b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Fixes a typo in the definition of a trap on the Proxy reference page (\"define\" -&gt; \"defines\").</p>\n<h3 dir=\"auto\">Motivation</h3>\n<h3 dir=\"auto\">Additional details</h3>\n<h3 dir=\"auto\">Related issues and pull requests</h3>",
             "url": "https://github.com/mdn/content/pull/39534",
             "title": "Fix typo",
@@ -83,10 +94,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Chrome supports the CSS <a href=\"https://drafts.csswg.org/css-values-5/#if-notation\" rel=\"nofollow\"><code class=\"notranslate\">if()</code></a> function from version 137. See <a href=\"https://chromestatus.com/feature/6313805904347136\" rel=\"nofollow\">https://chromestatus.com/feature/6313805904347136</a>.</p>\n<p dir=\"auto\">This PR documents the new function. Specifically, it:</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Adds an <code class=\"notranslate\">if()</code> reference page (nearly done, just needs examples)</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\">  Adds <code class=\"notranslate\">if()</code> to the CSS values and units module page</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Adds <code class=\"notranslate\">if()</code> to the CSS value functions ref page.</li>\n</ul>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Chrome supports the CSS <a href=\"https://drafts.csswg.org/css-values-5/#if-notation\" rel=\"nofollow\"><code class=\"notranslate\">if()</code></a> function from version 137. See <a href=\"https://chromestatus.com/feature/6313805904347136\" rel=\"nofollow\">https://chromestatus.com/feature/6313805904347136</a>.</p>\n<p dir=\"auto\">This PR documents the new function. Specifically, it:</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Adds an <code class=\"notranslate\">if()</code> reference page (nearly done, just needs examples)</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\">  Adds <code class=\"notranslate\">if()</code> to the CSS values and units module page</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Adds <code class=\"notranslate\">if()</code> to the CSS value functions ref page.</li>\n</ul>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39516",
-            "title": "Document CSS if() function",
-            "date_modified": "2025-05-14T13:35:06.000Z",
+            "title": "Technical review: Document CSS if() function",
+            "date_modified": "2025-05-15T14:34:03.000Z",
             "date_published": "2025-05-14T13:32:56.000Z",
             "author": {
                 "name": "chrisdavidmills",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wbamberg",
                 "url": "https://github.com/wbamberg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209311730?u=43ede7235756f5e5542b29663940a14cc66b9f08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Updated the example combining tab with tablist.</p>\n\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">I created a PR <a href=\"https://github.com/mdn/mdn/issues/671#issuecomment-2853960413\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/671/hovercard\">as suggested</a>.</p>\n\n<p dir=\"auto\">Updated the HTML and JS in the example.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">I read the guides on Accessibility and briefed myself on the ARIA: tab page. It is elaborate, instructive and full of potential for many examples to be created.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">I verified these changes on <a href=\"https://developer.mozilla.org/en-US/play\" rel=\"nofollow\">the playground</a>.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39423",
-            "title": "Update Example on ARIA: tab || Relates to #671",
-            "date_modified": "2025-05-12T20:16:07.000Z",
-            "date_published": "2025-05-06T23:01:19.000Z",
-            "author": {
-                "name": "CloudAnalystGo",
-                "url": "https://github.com/CloudAnalystGo"
             }
         }
     ]
