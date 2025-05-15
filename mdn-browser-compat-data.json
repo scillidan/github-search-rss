@@ -6,10 +6,10 @@
     "description": "mdn/browser-compat-data update data on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108879845?u=eeb9306682180ab80521c80fd8f46609fe3c6770&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The output of the <code class=\"notranslate\">update-browser-releases</code> script is:</p>\n<blockquote>\n<p dir=\"auto\">@mdn/browser-compat-data@6.0.14 update-browser-releases<br>\ntsx scripts/update-browser-releases/index.ts --all</p>\n</blockquote>\n<h3 dir=\"auto\">Updates for Edge for Desktop</h3>\n<ul dir=\"auto\">\n<li>New status for edge 137: beta, previously nightly.</li>\n<li>New status for edge 138: nightly, previously planned.</li>\n<li>New release detected for edge: Version 139 as a planned release.</li>\n</ul>\n<h3 dir=\"auto\">Updates for Opera for Desktop</h3>\n<div class=\"markdown-alert markdown-alert-warning\" dir=\"auto\"><p class=\"markdown-alert-title\" dir=\"auto\"><svg class=\"octicon octicon-alert mr-2\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z\"></path></svg>Warning</p><p dir=\"auto\"><strong>Opera for Desktop</strong>: No engine version found in <a href=\"https://blogs.opera.com/desktop/2025/05/opera-119/\" rel=\"nofollow\">this blog post</a>. Using (previous engine version + 1) instead.</p>\n</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/108879845?u=eeb9306682180ab80521c80fd8f46609fe3c6770&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The output of the <code class=\"notranslate\">update-browser-releases</code> script is:</p>\n<blockquote>\n<p dir=\"auto\">@mdn/browser-compat-data@6.0.14 update-browser-releases<br>\ntsx scripts/update-browser-releases/index.ts --all</p>\n</blockquote>\n<h3 dir=\"auto\">Updates for Edge for Desktop</h3>\n<ul dir=\"auto\">\n<li>New status for edge 137: beta, previously nightly.</li>\n<li>New status for edge 138: nightly, previously planned.</li>\n<li>New release detected for edge: Version 139 as a planned release.</li>\n</ul>",
             "url": "https://github.com/mdn/browser-compat-data/pull/26805",
             "title": "Update browser releases",
-            "date_modified": "2025-05-15T04:38:57.000Z",
+            "date_modified": "2025-05-15T10:56:04.000Z",
             "date_published": "2025-05-15T04:38:05.000Z",
             "author": {
                 "name": "mdn-bot",
@@ -157,6 +157,17 @@
             "author": {
                 "name": "caugner",
                 "url": "https://github.com/caugner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1047763?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">This PR addresses the following feedback raised in another PR.</p>\n<blockquote>\n<p dir=\"auto\"><a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/rebloor/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/rebloor\">@rebloor</a> can we add a note stating Firefox does not support generating a <code class=\"notranslate\">service_worker</code> based in the <code class=\"notranslate\">scripts</code> key? This is something currently only supported by Apple.</p>\n</blockquote>\n<p dir=\"auto\"><em>Originally posted by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/carlosjeurissen/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/carlosjeurissen\">@carlosjeurissen</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2819768304\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/25808\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/25808/hovercard?comment_id=2627793381&amp;comment_type=issue_comment\" href=\"https://github.com/mdn/browser-compat-data/pull/25808#issuecomment-2627793381\">#25808 (comment)</a></em></p>\n<h4 dir=\"auto\">Test results and supporting details</h4>\n<p dir=\"auto\">N/A</p>\n<h4 dir=\"auto\">Related issues</h4>\n<ul dir=\"auto\">\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2819768304\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/25808\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/25808/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/25808\">#25808</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1930334\" rel=\"nofollow\">Bugzilla 1930334: Implement background.preferred_environment</a></li>\n</ul>",
+            "url": "https://github.com/mdn/browser-compat-data/pull/26164",
+            "title": "Clarify auto-generation of background service worker",
+            "date_modified": "2025-04-07T20:17:37.000Z",
+            "date_published": "2025-03-10T00:54:52.000Z",
+            "author": {
+                "name": "dotproto",
+                "url": "https://github.com/dotproto"
             }
         }
     ]
