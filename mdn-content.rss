@@ -2,34 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-15T09:01:35.462Z</updated>
+    <updated>2025-05-15T10:01:26.044Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Grammar Issue with Text #39526]]></title>
-        <id>https://github.com/mdn/content/pull/39531</id>
-        <link href="https://github.com/mdn/content/pull/39531"/>
-        <updated>2025-05-15T06:16:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/151645462?u=49eaee4bb4794c8d62c3a8db14c83c76086ec5af&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Removed the first "with" in "are you going to get on with well with them?"</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">This helps to clarify the meaning of the sentence.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39526.">fix</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3064190188" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39526" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39526/hovercard" href="https://github.com/mdn/content/issues/39526">#39526</a></p>]]></content>
-        <author>
-            <name>J1mMilton</name>
-            <email>J1mMilton@noreply.github.com</email>
-            <uri>https://github.com/J1mMilton</uri>
-        </author>
-        <published>2025-05-15T03:33:46.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fix some live samples that use images, remove unused images]]></title>
         <id>https://github.com/mdn/content/pull/39530</id>
         <link href="https://github.com/mdn/content/pull/39530"/>
-        <updated>2025-05-15T08:58:53.000Z</updated>
+        <updated>2025-05-15T09:31:09.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Some live samples include too many code blocks and cause invalid code. Some are harder to statically analyze and have been slightly refactored so their image usage can be acknowledged. Some unused images have been removed.</p>]]></content>
         <author>
             <name>Josh-Cena</name>
@@ -62,21 +44,6 @@
             <uri>https://github.com/jabcreations</uri>
         </author>
         <published>2025-05-15T01:57:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set Vary header in the Fetch metadata example]]></title>
-        <id>https://github.com/mdn/content/pull/39527</id>
-        <link href="https://github.com/mdn/content/pull/39527"/>
-        <updated>2025-05-14T21:56:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Set the <code class="notranslate">Vary</code> header in the response, in the fetch metadata example, as reported in <a href="https://front-end.social/@openwebdocs/114506561385552270" rel="nofollow">https://front-end.social/@openwebdocs/114506561385552270</a>.</p>
-<p dir="auto">We probably ought to have a proper guide to fetch metadata on MDN.</p>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jub0bs/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jub0bs">@jub0bs</a> , thank you for finding this! Would you like to review?</p>]]></content>
-        <author>
-            <name>wbamberg</name>
-            <email>wbamberg@noreply.github.com</email>
-            <uri>https://github.com/wbamberg</uri>
-        </author>
-        <published>2025-05-14T21:08:57.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fix the fullscreen example]]></title>
@@ -455,5 +422,61 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/CloudAnalystGo</uri>
         </author>
         <published>2025-05-06T23:01:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add content covering the limitations of <selectedcontent>]]></title>
+        <id>https://github.com/mdn/content/pull/39411</id>
+        <link href="https://github.com/mdn/content/pull/39411"/>
+        <updated>2025-05-13T15:40:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">This PR updates the <code class="notranslate">&lt;selectedcontent&gt;</code> reference document to:</p>
+<ol dir="auto">
+<li>Include more details about the limitations of  cloning, and</li>
+<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class="notranslate">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>
+</ol>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">After seeing <a href="https://github.com/angular/angular/issues/60636" data-hovercard-type="issue" data-hovercard-url="/angular/angular/issues/60636/hovercard">this Angular bug</a> related to <code class="notranslate">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class="notranslate">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class="notranslate">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>
+<p dir="auto">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class="notranslate">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>philipwalton</name>
+            <email>philipwalton@noreply.github.com</email>
+            <uri>https://github.com/philipwalton</uri>
+        </author>
+        <published>2025-05-05T17:53:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editorial review: Add reading-flow and reading-order docs]]></title>
+        <id>https://github.com/mdn/content/pull/39404</id>
+        <link href="https://github.com/mdn/content/pull/39404"/>
+        <updated>2025-05-13T19:20:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Completing work originally started by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Praveen7294/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Praveen7294">@Praveen7294</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2958583342" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/38859" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/38859/hovercard" href="https://github.com/mdn/content/pull/38859">#38859</a>, on documenting the <code class="notranslate">reading-flow</code> and <code class="notranslate">reading-order</code> properties.</p>
+<p dir="auto">See <a href="https://drafts.csswg.org/css-display-4/#reading-flow" rel="nofollow">https://drafts.csswg.org/css-display-4/#reading-flow</a> for the specification.</p>
+<p dir="auto">This PR adds ref pages for the two properties, but also updates the CSS Display module page to suit, and adds a glossary entry for "reading order".</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-05T10:33:27.000Z</published>
     </entry>
 </feed>
