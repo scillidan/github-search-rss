@@ -6,6 +6,28 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10056474?u=48e70392d3be4e4d52b50971e1e86e45c1cb66cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">fix typo</p>\n\n<h3 dir=\"auto\">Description</h3>\n",
+            "url": "https://github.com/mdn/content/pull/39540",
+            "title": "Update index.md",
+            "date_modified": "2025-05-15T18:58:29.000Z",
+            "date_published": "2025-05-15T18:58:04.000Z",
+            "author": {
+                "name": "gtdeng",
+                "url": "https://github.com/gtdeng"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Updated the code example for clarity by removing unnecessary parameters (<code class=\"notranslate\">z</code> and <code class=\"notranslate\">w</code>) in the <code class=\"notranslate\">DOMPoint.fromPoint</code> usage.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">Simplifies the example to make it more beginner-friendly and aligned with typical use cases.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">Based on the MDN style guide, unnecessary complexity in examples should be avoided when not relevant to the explanation.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39509.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3061846900\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39509\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39509/hovercard\" href=\"https://github.com/mdn/content/issues/39509\">#39509</a></p>\n",
+            "url": "https://github.com/mdn/content/pull/39539",
+            "title": "Edit DOMPoint.fromPoint_static documentation",
+            "date_modified": "2025-05-15T18:20:54.000Z",
+            "date_published": "2025-05-15T18:15:08.000Z",
+            "author": {
+                "name": "farizadam",
+                "url": "https://github.com/farizadam"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84765?u=9817c0463363f6b4ac0b0abe30a837622b2a06d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The async/await example usage of <code class=\"notranslate\">Promise.try</code> did not actually use the function. With this change, the goal of the code example should now be correct.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39538",
             "title": "Modify the code example to actually use Promise.try",
@@ -152,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">And manipulate the array directly.</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">There was no example for manipulating the array directly without converting the whole array to a string first.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39479",
             "title": "Add an example to search for multi-byte pattern in an array",
-            "date_modified": "2025-05-15T16:37:05.000Z",
+            "date_modified": "2025-05-15T18:31:51.000Z",
             "date_published": "2025-05-11T18:31:10.000Z",
             "author": {
                 "name": "def00111",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "wbamberg",
                 "url": "https://github.com/wbamberg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209311730?u=43ede7235756f5e5542b29663940a14cc66b9f08&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Updated the example combining tab with tablist.</p>\n\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">I created a PR <a href=\"https://github.com/mdn/mdn/issues/671#issuecomment-2853960413\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/671/hovercard\">as suggested</a>.</p>\n\n<p dir=\"auto\">Updated the HTML and JS in the example.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">I read the guides on Accessibility and briefed myself on the ARIA: tab page. It is elaborate, instructive and full of potential for many examples to be created.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">I verified these changes on <a href=\"https://developer.mozilla.org/en-US/play\" rel=\"nofollow\">the playground</a>.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39423",
-            "title": "Update Example on ARIA: tab || Relates to #671",
-            "date_modified": "2025-05-12T20:16:07.000Z",
-            "date_published": "2025-05-06T23:01:19.000Z",
-            "author": {
-                "name": "CloudAnalystGo",
-                "url": "https://github.com/CloudAnalystGo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <code class=\"notranslate\">&lt;selectedcontent&gt;</code> reference document to:</p>\n<ol dir=\"auto\">\n<li>Include more details about the limitations of  cloning, and</li>\n<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class=\"notranslate\">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>\n</ol>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">After seeing <a href=\"https://github.com/angular/angular/issues/60636\" data-hovercard-type=\"issue\" data-hovercard-url=\"/angular/angular/issues/60636/hovercard\">this Angular bug</a> related to <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class=\"notranslate\">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>\n<p dir=\"auto\">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class=\"notranslate\">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39411",
-            "title": "Add content covering the limitations of <selectedcontent>",
-            "date_modified": "2025-05-13T15:40:28.000Z",
-            "date_published": "2025-05-05T17:53:05.000Z",
-            "author": {
-                "name": "philipwalton",
-                "url": "https://github.com/philipwalton"
             }
         }
     ]
