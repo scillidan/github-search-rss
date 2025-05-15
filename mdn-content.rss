@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-15T21:01:19.671Z</updated>
+    <updated>2025-05-15T22:01:19.927Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[add "default value"]]></title>
+        <id>https://github.com/mdn/content/pull/39542</id>
+        <link href="https://github.com/mdn/content/pull/39542"/>
+        <updated>2025-05-15T21:55:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69888?v=4" width="64" height="64" alt=""/><br/>]]></content>
+        <author>
+            <name>estelle</name>
+            <email>estelle@noreply.github.com</email>
+            <uri>https://github.com/estelle</uri>
+        </author>
+        <published>2025-05-15T21:53:02.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Better page for Response.type]]></title>
         <id>https://github.com/mdn/content/pull/39541</id>
         <link href="https://github.com/mdn/content/pull/39541"/>
-        <updated>2025-05-15T20:50:06.000Z</updated>
+        <updated>2025-05-15T21:39:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Reviewing <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3066108853" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39533" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39533/hovercard" href="https://github.com/mdn/content/pull/39533">#39533</a>, I thought the page for Response.type could be improved. This PR:</p>
 <ul dir="auto">
 <li>reformats values as a DL: among other things this makes individual values linkable</li>
@@ -29,7 +42,7 @@
         <title type="html"><![CDATA[Update index.md]]></title>
         <id>https://github.com/mdn/content/pull/39540</id>
         <link href="https://github.com/mdn/content/pull/39540"/>
-        <updated>2025-05-15T18:58:29.000Z</updated>
+        <updated>2025-05-15T21:55:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10056474?u=48e70392d3be4e4d52b50971e1e86e45c1cb66cb&v=4" width="64" height="64" alt=""/><br/><p dir="auto">fix typo</p>
 
 <h3 dir="auto">Description</h3>
@@ -451,25 +464,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-08T10:57:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add sentence about `null` to `Selection.anchorNode`]]></title>
-        <id>https://github.com/mdn/content/pull/39456</id>
-        <link href="https://github.com/mdn/content/pull/39456"/>
-        <updated>2025-05-14T10:49:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/72874398?u=568ccd8d9abd3c2f5552d8cecb6b04193c9cce22&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Adds a sentence about when <code class="notranslate">Selection.anchorNode</code> may be <code class="notranslate">null</code>.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39455.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3048587560" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39455" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39455/hovercard" href="https://github.com/mdn/content/issues/39455">#39455</a></p>
-
-
-]]></content>
-        <author>
-            <name>gavinmorrow</name>
-            <email>gavinmorrow@noreply.github.com</email>
-            <uri>https://github.com/gavinmorrow</uri>
-        </author>
-        <published>2025-05-08T10:46:30.000Z</published>
     </entry>
 </feed>
