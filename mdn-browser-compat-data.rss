@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-15T19:01:22.554Z</updated>
+    <updated>2025-05-15T20:01:37.934Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Update Firefox support for dynamic import features]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26813</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26813"/>
+        <updated>2025-05-15T19:28:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1120896?u=e370e4cf8011bab98c2e8515df1f9a6ff9e028c6&v=4" width="64" height="64" alt=""/><br/>
+<h4 dir="auto">Summary</h4>
+<p dir="auto">Marks <code class="notranslate">javascript.grammar.trailing_commas.trailing_commas_in_dynamic_import</code> and <code class="notranslate">javascript.operators.import.options_parameter</code> as supported in Firefox 138</p>
+<h4 dir="auto">Test results and supporting details</h4>
+
+<p dir="auto"><a href="https://brassy-sly-storm.glitch.me/" rel="nofollow">https://brassy-sly-storm.glitch.me/</a><br>
+<a href="https://developer.mozilla.org/en-US/play?id=7R3devH9%2FzJfqyok61KERDbVW4tQY7KqsunVc7zUesJUcA5PpokTG8DLzPbseMOzzqnIoP2cdzijhTMt" rel="nofollow">https://developer.mozilla.org/en-US/play?id=7R3devH9%2FzJfqyok61KERDbVW4tQY7KqsunVc7zUesJUcA5PpokTG8DLzPbseMOzzqnIoP2cdzijhTMt</a></p>
+
+<p dir="auto"><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1950836" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1950836</a></p>
+<h4 dir="auto">Related issues</h4>
+
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #26811.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3066396963" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26811" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26811/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26811">#26811</a></p>
+]]></content>
+        <author>
+            <name>rviscomi</name>
+            <email>rviscomi@noreply.github.com</email>
+            <uri>https://github.com/rviscomi</uri>
+        </author>
+        <published>2025-05-15T19:27:40.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26795</id>
