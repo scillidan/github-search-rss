@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-14T23:01:17.900Z</updated>
+    <updated>2025-05-15T00:04:32.209Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26795</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26795"/>
-        <updated>2025-05-14T09:37:44.000Z</updated>
+        <updated>2025-05-14T23:33:21.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
 <p dir="auto">Provide the updates necessary for <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1550032" rel="nofollow">Bug 1550032</a> Change cookie API to explicitly support sameSite=none. Specifically:</p>
 <ul dir="auto">
@@ -19,8 +19,8 @@
 <li>That <code class="notranslate">unspecified</code> is now the default value for <code class="notranslate">sameSite</code> in <code class="notranslate">cookies.set()</code>.</li>
 </ul>
 <h4 dir="auto">Related issues</h4>
-<p dir="auto">MDN documentation changes made in TBC.<br>
-Release note update made in TBC.</p>]]></content>
+<p dir="auto">MDN documentation changes made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062530122" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39512" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39512/hovercard" href="https://github.com/mdn/content/pull/39512">mdn/content#39512</a>.<br>
+Release note update made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062615757" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39513" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39513/hovercard" href="https://github.com/mdn/content/pull/39513">mdn/content#39513</a>.</p>]]></content>
         <author>
             <name>rebloor</name>
             <email>rebloor@noreply.github.com</email>
