@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-15T16:01:35.771Z</updated>
+    <updated>2025-05-15T17:01:34.823Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Remove reference to ImageData in ImageBitmap docs.]]></title>
         <id>https://github.com/mdn/content/pull/39537</id>
         <link href="https://github.com/mdn/content/pull/39537"/>
-        <updated>2025-05-15T14:33:37.000Z</updated>
+        <updated>2025-05-15T16:10:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36527?u=deec7fe29056077c325735b60b4d6d86243795ee&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <p dir="auto">I was looking up the docs for ImageBitmap and stumbled upon the fact that height and width refer to ImageData instead of ImageBitmap.</p>
 <h3 dir="auto">Motivation</h3>
@@ -31,7 +31,7 @@
         <title type="html"><![CDATA[Update Web API Response: status property: add '0' status value]]></title>
         <id>https://github.com/mdn/content/pull/39533</id>
         <link href="https://github.com/mdn/content/pull/39533"/>
-        <updated>2025-05-15T12:39:04.000Z</updated>
+        <updated>2025-05-15T16:54:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1066395?u=a0c87afc953571ad39a42971252b3dd5d2c00934&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">Add status '0' to response values for fetch API response.</p>
@@ -301,7 +301,7 @@ indicates that the content has been compressed using the gzip coding and then ch
         <title type="html"><![CDATA[Add an example to search for multi-byte pattern in an array]]></title>
         <id>https://github.com/mdn/content/pull/39479</id>
         <link href="https://github.com/mdn/content/pull/39479"/>
-        <updated>2025-05-12T06:50:24.000Z</updated>
+        <updated>2025-05-15T16:37:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/><p dir="auto">And manipulate the array directly.</p>
 
 <h3 dir="auto">Description</h3>
@@ -468,7 +468,7 @@ indicates that the content has been compressed using the gzip coding and then ch
         <title type="html"><![CDATA[Editorial review: Add reading-flow and reading-order docs]]></title>
         <id>https://github.com/mdn/content/pull/39404</id>
         <link href="https://github.com/mdn/content/pull/39404"/>
-        <updated>2025-05-13T19:20:04.000Z</updated>
+        <updated>2025-05-15T17:00:03.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">Completing work originally started by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Praveen7294/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Praveen7294">@Praveen7294</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2958583342" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/38859" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/38859/hovercard" href="https://github.com/mdn/content/pull/38859">#38859</a>, on documenting the <code class="notranslate">reading-flow</code> and <code class="notranslate">reading-order</code> properties.</p>
