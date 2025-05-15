@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-15T13:08:49.859Z</updated>
+    <updated>2025-05-15T14:01:22.876Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Fix typo]]></title>
+        <id>https://github.com/mdn/content/pull/39534</id>
+        <link href="https://github.com/mdn/content/pull/39534"/>
+        <updated>2025-05-15T13:23:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65251364?u=35cc873c70825f037f99ce3427df7c1b2b178b2b&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Fixes a typo in the definition of a trap on the Proxy reference page ("define" -&gt; "defines").</p>
+<h3 dir="auto">Motivation</h3>
+<h3 dir="auto">Additional details</h3>
+<h3 dir="auto">Related issues and pull requests</h3>]]></content>
+        <author>
+            <name>seppewyns</name>
+            <email>seppewyns@noreply.github.com</email>
+            <uri>https://github.com/seppewyns</uri>
+        </author>
+        <published>2025-05-15T13:22:57.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update Web API Response: status property: add '0' status value]]></title>
         <id>https://github.com/mdn/content/pull/39533</id>
@@ -446,34 +463,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/CloudAnalystGo</uri>
         </author>
         <published>2025-05-06T23:01:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add content covering the limitations of <selectedcontent>]]></title>
-        <id>https://github.com/mdn/content/pull/39411</id>
-        <link href="https://github.com/mdn/content/pull/39411"/>
-        <updated>2025-05-13T15:40:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">This PR updates the <code class="notranslate">&lt;selectedcontent&gt;</code> reference document to:</p>
-<ol dir="auto">
-<li>Include more details about the limitations of  cloning, and</li>
-<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class="notranslate">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>
-</ol>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">After seeing <a href="https://github.com/angular/angular/issues/60636" data-hovercard-type="issue" data-hovercard-url="/angular/angular/issues/60636/hovercard">this Angular bug</a> related to <code class="notranslate">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class="notranslate">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class="notranslate">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>
-<p dir="auto">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class="notranslate">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>philipwalton</name>
-            <email>philipwalton@noreply.github.com</email>
-            <uri>https://github.com/philipwalton</uri>
-        </author>
-        <published>2025-05-05T17:53:05.000Z</published>
     </entry>
 </feed>
