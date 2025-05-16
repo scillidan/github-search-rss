@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-15T23:01:28.682Z</updated>
+    <updated>2025-05-16T00:04:38.665Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -39,28 +39,6 @@
         <published>2025-05-15T20:48:05.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Edit DOMPoint.fromPoint_static documentation]]></title>
-        <id>https://github.com/mdn/content/pull/39539</id>
-        <link href="https://github.com/mdn/content/pull/39539"/>
-        <updated>2025-05-15T18:20:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Updated the code example for clarity by removing unnecessary parameters (<code class="notranslate">z</code> and <code class="notranslate">w</code>) in the <code class="notranslate">DOMPoint.fromPoint</code> usage.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">Simplifies the example to make it more beginner-friendly and aligned with typical use cases.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto">Based on the MDN style guide, unnecessary complexity in examples should be avoided when not relevant to the explanation.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39509.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3061846900" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39509" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39509/hovercard" href="https://github.com/mdn/content/issues/39509">#39509</a></p>
-]]></content>
-        <author>
-            <name>farizadam</name>
-            <email>farizadam@noreply.github.com</email>
-            <uri>https://github.com/farizadam</uri>
-        </author>
-        <published>2025-05-15T18:15:08.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modify the code example to actually use Promise.try]]></title>
         <id>https://github.com/mdn/content/pull/39538</id>
         <link href="https://github.com/mdn/content/pull/39538"/>
@@ -84,26 +62,6 @@
             <uri>https://github.com/PMudra</uri>
         </author>
         <published>2025-05-15T17:02:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove reference to ImageData in ImageBitmap docs.]]></title>
-        <id>https://github.com/mdn/content/pull/39537</id>
-        <link href="https://github.com/mdn/content/pull/39537"/>
-        <updated>2025-05-15T16:10:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36527?u=deec7fe29056077c325735b60b4d6d86243795ee&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">I was looking up the docs for ImageBitmap and stumbled upon the fact that height and width refer to ImageData instead of ImageBitmap.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">See above.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto">Simple typo fix.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto">N/A</p>]]></content>
-        <author>
-            <name>mkrautz</name>
-            <email>mkrautz@noreply.github.com</email>
-            <uri>https://github.com/mkrautz</uri>
-        </author>
-        <published>2025-05-15T14:33:07.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Update Web API Response: status property: add '0' status value]]></title>
@@ -299,26 +257,6 @@ indicates that the content has been compressed using the gzip coding and then ch
         <published>2025-05-13T07:43:58.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deduplicate clipboard event pages]]></title>
-        <id>https://github.com/mdn/content/pull/39485</id>
-        <link href="https://github.com/mdn/content/pull/39485"/>
-        <updated>2025-05-12T11:13:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #31125.">Fix</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2047147210" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/31125" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/31125/hovercard" href="https://github.com/mdn/content/issues/31125">#31125</a>.</p>
-<p dir="auto">Our current structure for these events is very weird:</p>
-<ul dir="auto">
-<li><code class="notranslate">HTMLElement</code> and <code class="notranslate">SVGGraphicsElement</code> already inherit from <code class="notranslate">Element</code>, so it doesn't make sense to duplicate these events</li>
-<li><code class="notranslate">Document</code> and <code class="notranslate">Window</code> are bubble targets. No other events that bubble to document or window have separate pages.</li>
-<li>BCD only has a single entry, so there's a BCD/content mismatch.</li>
-</ul>
-<p dir="auto">I think it makes perfect sense to align with all other events.</p>]]></content>
-        <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
-        </author>
-        <published>2025-05-12T11:11:04.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ARIA heading role: aria-level is required]]></title>
         <id>https://github.com/mdn/content/pull/39482</id>
         <link href="https://github.com/mdn/content/pull/39482"/>
@@ -458,5 +396,90 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/wbamberg</uri>
         </author>
         <published>2025-05-07T17:00:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Example on ARIA: tab || Relates to #671]]></title>
+        <id>https://github.com/mdn/content/pull/39423</id>
+        <link href="https://github.com/mdn/content/pull/39423"/>
+        <updated>2025-05-12T20:16:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/209311730?u=43ede7235756f5e5542b29663940a14cc66b9f08&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Updated the example combining tab with tablist.</p>
+
+<h3 dir="auto">Description</h3>
+<p dir="auto">I created a PR <a href="https://github.com/mdn/mdn/issues/671#issuecomment-2853960413" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/671/hovercard">as suggested</a>.</p>
+
+<p dir="auto">Updated the HTML and JS in the example.</p>
+<h3 dir="auto">Motivation</h3>
+
+<p dir="auto">I read the guides on Accessibility and briefed myself on the ARIA: tab page. It is elaborate, instructive and full of potential for many examples to be created.</p>
+<h3 dir="auto">Additional details</h3>
+
+<p dir="auto">I verified these changes on <a href="https://developer.mozilla.org/en-US/play" rel="nofollow">the playground</a>.</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>CloudAnalystGo</name>
+            <email>CloudAnalystGo@noreply.github.com</email>
+            <uri>https://github.com/CloudAnalystGo</uri>
+        </author>
+        <published>2025-05-06T23:01:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add content covering the limitations of <selectedcontent>]]></title>
+        <id>https://github.com/mdn/content/pull/39411</id>
+        <link href="https://github.com/mdn/content/pull/39411"/>
+        <updated>2025-05-13T15:40:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">This PR updates the <code class="notranslate">&lt;selectedcontent&gt;</code> reference document to:</p>
+<ol dir="auto">
+<li>Include more details about the limitations of  cloning, and</li>
+<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class="notranslate">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>
+</ol>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">After seeing <a href="https://github.com/angular/angular/issues/60636" data-hovercard-type="issue" data-hovercard-url="/angular/angular/issues/60636/hovercard">this Angular bug</a> related to <code class="notranslate">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class="notranslate">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class="notranslate">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>
+<p dir="auto">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class="notranslate">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>philipwalton</name>
+            <email>philipwalton@noreply.github.com</email>
+            <uri>https://github.com/philipwalton</uri>
+        </author>
+        <published>2025-05-05T17:53:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editorial review: Add reading-flow and reading-order docs]]></title>
+        <id>https://github.com/mdn/content/pull/39404</id>
+        <link href="https://github.com/mdn/content/pull/39404"/>
+        <updated>2025-05-15T17:53:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Completing work originally started by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Praveen7294/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Praveen7294">@Praveen7294</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2958583342" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/38859" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/38859/hovercard" href="https://github.com/mdn/content/pull/38859">#38859</a>, on documenting the <code class="notranslate">reading-flow</code> and <code class="notranslate">reading-order</code> properties.</p>
+<p dir="auto">See <a href="https://drafts.csswg.org/css-display-4/#reading-flow" rel="nofollow">https://drafts.csswg.org/css-display-4/#reading-flow</a> for the specification.</p>
+<p dir="auto">This PR adds ref pages for the two properties, but also updates the CSS Display module page to suit, and adds a glossary entry for "reading order".</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-05T10:33:27.000Z</published>
     </entry>
 </feed>
