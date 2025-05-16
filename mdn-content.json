@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Description<br>\nClarified the behavior of the stretch value in the align-items CSS property documentation to better explain how auto-sized items are stretched within the container while respecting size constraints.</p>\n<p dir=\"auto\">Motivation<br>\nThe previous description of stretch was vague and caused confusion for readers trying to understand how stretching works when items have auto sizes. This clarification helps improve documentation accuracy and assists developers in using CSS flexbox alignment more effectively.</p>\n<p dir=\"auto\">Additional details<br>\nThis update aligns with the CSS Flexible Box Layout Module specification and common browser implementations regarding item stretching and size constraint</p>\n<p dir=\"auto\">Related issues and pull requests<br>\n<span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39491.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3058023589\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39491\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39491/hovercard\" href=\"https://github.com/mdn/content/issues/39491\">#39491</a></p>",
+            "url": "https://github.com/mdn/content/pull/39550",
+            "title": "Clarify stretch behavior in align-items documentation",
+            "date_modified": "2025-05-16T17:08:32.000Z",
+            "date_published": "2025-05-16T17:04:22.000Z",
+            "author": {
+                "name": "farizadam",
+                "url": "https://github.com/farizadam"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li>Add context for additional methods and properties</li>\n<li>Make JSX valid by having a single element</li>\n<li>Remove unnecessary strict IIFE wrapper</li>\n<li>Remove unnecessary <code class=\"notranslate\">&lt;div class=\"wrapper\"&gt;</code> by directly apply styles to <code class=\"notranslate\">body</code></li>\n<li>Fix some invalid SVG markup (missing a trailing slash)</li>\n<li>Other anecdotal improvements</li>\n</ul>",
             "url": "https://github.com/mdn/content/pull/39548",
             "title": "Fix invalid code syntax",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/373675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li>I think there was some issues with pluralization of the word \"Cookie\" at the end of this section, so I attempted to reword it.</li>\n<li>I ended up changing more than I originally intended</li>\n<li>I did not intend to change any of the original meaning. If I did, that was a mistake on my part.</li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39388",
-            "title": "Minor edits to the \"Third-party cookies\" section",
-            "date_modified": "2025-05-04T23:54:16.000Z",
-            "date_published": "2025-05-04T22:56:22.000Z",
-            "author": {
-                "name": "DanKaplanSES",
-                "url": "https://github.com/DanKaplanSES"
             }
         }
     ]
