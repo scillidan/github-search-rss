@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss</id>
     <title>w3ctag/design-reviews Design Issues</title>
-    <updated>2025-05-16T11:01:27.718Z</updated>
+    <updated>2025-05-16T12:01:48.459Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss"/>
     <subtitle>w3ctag/design-reviews Design Issues on GitHub</subtitle>
@@ -214,7 +214,8 @@ ready: W3C Machine Learning Working Group</li>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/617481?v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
 <p dir="auto">I'm requesting an early TAG design review of extended lifetime shared workers.</p>
 <p dir="auto">We propose adding a new option to the <code class="notranslate">SharedWorker</code> constructor that serves as a request to extend its lifetime after all current clients have unloaded:</p>
-<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="const sharedWorker = new SharedWorker(url, { extendedLifetime: true });"><pre class="notranslate"><span class="pl-k">const</span> <span class="pl-s1">sharedWorker</span> <span class="pl-c1">=</span> <span class="pl-k">new</span> <span class="pl-v">SharedWorker</span><span class="pl-kos">(</span><span class="pl-s1">url</span><span class="pl-kos">,</span> <span class="pl-kos">{</span> <span class="pl-c1">extendedLifetime</span>: <span class="pl-c1">true</span> <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">;</span></pre></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="const sharedWorker = new SharedWorker(url, { extendedLifetime: true });"><pre lang="js" class="notranslate"><code class="notranslate">const sharedWorker = new SharedWorker(url, { extendedLifetime: true });
+</code></pre></div>
 <p dir="auto">The primary use case here is to allow pages to perform some async work that requires JavaScript after a page unloads, without needing to rely on a service worker.</p>
 <ul class="contains-task-list">
 <li>Explainer: <a href="https://gist.github.com/domenic/c5bd38339f33b49120ae11b3b4af5b9b#file-1-explainer-md">https://gist.github.com/domenic/c5bd38339f33b49120ae11b3b4af5b9b#file-1-explainer-md</a></li>
