@@ -28,17 +28,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84765?u=9817c0463363f6b4ac0b0abe30a837622b2a06d5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The async/await example usage of <code class=\"notranslate\">Promise.try</code> did not actually use the function. With this change, the goal of the code example should now be correct.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39538",
-            "title": "Modify the code example to actually use Promise.try",
-            "date_modified": "2025-05-15T17:02:34.000Z",
-            "date_published": "2025-05-15T17:02:06.000Z",
-            "author": {
-                "name": "PMudra",
-                "url": "https://github.com/PMudra"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1066395?u=a0c87afc953571ad39a42971252b3dd5d2c00934&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Add status '0' to response values for fetch API response.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">A 0 response can be seen in addition to the HTTP response status codes indicated.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">Fetch standard references included in update.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39533",
             "title": "Update Web API Response: status property: add '0' status value",
@@ -207,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <code class=\"notranslate\">&lt;selectedcontent&gt;</code> reference document to:</p>\n<ol dir=\"auto\">\n<li>Include more details about the limitations of  cloning, and</li>\n<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class=\"notranslate\">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>\n</ol>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">After seeing <a href=\"https://github.com/angular/angular/issues/60636\" data-hovercard-type=\"issue\" data-hovercard-url=\"/angular/angular/issues/60636/hovercard\">this Angular bug</a> related to <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class=\"notranslate\">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>\n<p dir=\"auto\">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class=\"notranslate\">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39411",
             "title": "Add content covering the limitations of <selectedcontent>",
-            "date_modified": "2025-05-13T15:40:28.000Z",
+            "date_modified": "2025-05-16T01:01:04.000Z",
             "date_published": "2025-05-05T17:53:05.000Z",
             "author": {
                 "name": "philipwalton",
@@ -218,11 +207,22 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Completing work originally started by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/Praveen7294/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/Praveen7294\">@Praveen7294</a> in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2958583342\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/38859\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/38859/hovercard\" href=\"https://github.com/mdn/content/pull/38859\">#38859</a>, on documenting the <code class=\"notranslate\">reading-flow</code> and <code class=\"notranslate\">reading-order</code> properties.</p>\n<p dir=\"auto\">See <a href=\"https://drafts.csswg.org/css-display-4/#reading-flow\" rel=\"nofollow\">https://drafts.csswg.org/css-display-4/#reading-flow</a> for the specification.</p>\n<p dir=\"auto\">This PR adds ref pages for the two properties, but also updates the CSS Display module page to suit, and adds a glossary entry for \"reading order\".</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39404",
             "title": "Editorial review: Add reading-flow and reading-order docs",
-            "date_modified": "2025-05-15T17:53:05.000Z",
+            "date_modified": "2025-05-16T00:32:31.000Z",
             "date_published": "2025-05-05T10:33:27.000Z",
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/373675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li>I think there was some issues with pluralization of the word \"Cookie\" at the end of this section, so I attempted to reword it.</li>\n<li>I ended up changing more than I originally intended</li>\n<li>I did not intend to change any of the original meaning. If I did, that was a mistake on my part.</li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/39388",
+            "title": "Minor edits to the \"Third-party cookies\" section",
+            "date_modified": "2025-05-04T23:54:16.000Z",
+            "date_published": "2025-05-04T22:56:22.000Z",
+            "author": {
+                "name": "DanKaplanSES",
+                "url": "https://github.com/DanKaplanSES"
             }
         }
     ]
