@@ -17,21 +17,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Adds a new subsection to the \"Drag data\" section explaining DataTransfer's data store modes (Read/Write, ReadOnly, Protected) and clarifies which drag events allow access to data values. This helps developers understand when drag data can be set or retrieved and prevents confusion about accessing getData() during drag events.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">This addresses a documentation gap that causes confusion for developers using the HTML Drag and Drop API. By explaining the data store modes and the restrictions on accessing data in certain events, readers will better understand how to use DataTransfer safely and effectively.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">For further reading, see the <a href=\"https://html.spec.whatwg.org/dev/dnd.html#dnddatastoremodes\" rel=\"nofollow\">HTML Drag and Drop spec: Data Transfer modes</a>.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39546.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3068482882\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39546\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39546/hovercard\" href=\"https://github.com/mdn/content/issues/39546\">#39546</a></p>\n",
-            "url": "https://github.com/mdn/content/pull/39552",
-            "title": "Clarify Drag Data Store Modes in Drag and Drop Guide",
-            "date_modified": "2025-05-16T19:31:34.000Z",
-            "date_published": "2025-05-16T19:28:15.000Z",
-            "author": {
-                "name": "farizadam",
-                "url": "https://github.com/farizadam"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Description<br>\nClarified the behavior of the stretch value in the align-items CSS property documentation to better explain how auto-sized items are stretched within the container while respecting size constraints.</p>\n<p dir=\"auto\">Motivation<br>\nThe previous description of stretch was vague and caused confusion for readers trying to understand how stretching works when items have auto sizes. This clarification helps improve documentation accuracy and assists developers in using CSS flexbox alignment more effectively.</p>\n<p dir=\"auto\">Additional details<br>\nThis update aligns with the CSS Flexible Box Layout Module specification and common browser implementations regarding item stretching and size constraint</p>\n<p dir=\"auto\">Related issues and pull requests<br>\n<span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39491.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3058023589\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39491\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39491/hovercard\" href=\"https://github.com/mdn/content/issues/39491\">#39491</a></p>",
             "url": "https://github.com/mdn/content/pull/39550",
             "title": "Clarify stretch behavior in align-items documentation",
-            "date_modified": "2025-05-16T17:08:32.000Z",
+            "date_modified": "2025-05-17T13:43:05.000Z",
             "date_published": "2025-05-16T17:04:22.000Z",
             "author": {
                 "name": "farizadam",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "CloudAnalystGo",
                 "url": "https://github.com/CloudAnalystGo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <code class=\"notranslate\">&lt;selectedcontent&gt;</code> reference document to:</p>\n<ol dir=\"auto\">\n<li>Include more details about the limitations of  cloning, and</li>\n<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class=\"notranslate\">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>\n</ol>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">After seeing <a href=\"https://github.com/angular/angular/issues/60636\" data-hovercard-type=\"issue\" data-hovercard-url=\"/angular/angular/issues/60636/hovercard\">this Angular bug</a> related to <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class=\"notranslate\">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class=\"notranslate\">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>\n<p dir=\"auto\">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class=\"notranslate\">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39411",
+            "title": "Add content covering the limitations of <selectedcontent>",
+            "date_modified": "2025-05-17T02:02:02.000Z",
+            "date_published": "2025-05-05T17:53:05.000Z",
+            "author": {
+                "name": "philipwalton",
+                "url": "https://github.com/philipwalton"
             }
         }
     ]
