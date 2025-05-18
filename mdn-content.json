@@ -6,6 +6,28 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2328730?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">added missing \"to\"</p>\n\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">There was a missing \"to\" in this paragraph, before the word \"inspect\".</p>\n<p dir=\"auto\">\"So how do you find markup errors? Later on we will show you how to find errors in HTML using a tool called the <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Debugging_HTML#html_validation\" rel=\"nofollow\">HTML validator</a>, but first we will show you how inspect your HTML manually using a DOM inspector, and then explore what kinds of markup errors you might be looking for, and how the browser might interpret those.\"</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">I would like to make the MDN HTML course easier to understand by addressing any grammatical errors that I might come across.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">N/A</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\">N/A</p>",
+            "url": "https://github.com/mdn/content/pull/39560",
+            "title": "Add missing \"to\" in html basics course debugging walkthrough page",
+            "date_modified": "2025-05-18T21:40:27.000Z",
+            "date_published": "2025-05-18T21:22:40.000Z",
+            "author": {
+                "name": "lacrosse1991",
+                "url": "https://github.com/lacrosse1991"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/373675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li>Technically this is redundant because the example that follows mentions it in a comment, but I think the typical reader will expect to find that information here, not in the example.</li>\n<li>I tried to make this change similar in format to <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#including_credentials\" rel=\"nofollow\">https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#including_credentials</a></li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/39559",
+            "title": "Specify which credientials header value is default",
+            "date_modified": "2025-05-18T21:14:03.000Z",
+            "date_published": "2025-05-18T21:12:01.000Z",
+            "author": {
+                "name": "DanKaplanSES",
+                "url": "https://github.com/DanKaplanSES"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/122839503?u=fd7c151b335adbbe5acad365fcc96d8d608be54c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">After initial mention of legacy names for limited-quirks and no-quirks modes, subsequent references to those modes have been changed to use \"limited-quirks mode\" and \"no-quirks mode\" instead of the legacy names.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Using the legacy names across the rest of the document is inconsistent with the sentence in the introduction:</p>\n<blockquote>\n<p dir=\"auto\">The limited-quirks and no-quirks modes used to be called \"almost-standards\" mode and \"full standards\" mode, respectively. These names have been changed as the behavior is now standardized.</p>\n</blockquote>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">N/A</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\">N/A</p>\n",
             "url": "https://github.com/mdn/content/pull/39558",
             "title": "Use consistent naming for quirks/limited-quirks/no-quirks modes",
@@ -58,17 +80,6 @@
             "author": {
                 "name": "mdn-bot",
                 "url": "https://github.com/mdn-bot"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Description<br>\nClarified the behavior of the stretch value in the align-items CSS property documentation to better explain how auto-sized items are stretched within the container while respecting size constraints.</p>\n<p dir=\"auto\">Motivation<br>\nThe previous description of stretch was vague and caused confusion for readers trying to understand how stretching works when items have auto sizes. This clarification helps improve documentation accuracy and assists developers in using CSS flexbox alignment more effectively.</p>\n<p dir=\"auto\">Additional details<br>\nThis update aligns with the CSS Flexible Box Layout Module specification and common browser implementations regarding item stretching and size constraint</p>\n<p dir=\"auto\">Related issues and pull requests<br>\n<span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39491.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3058023589\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39491\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39491/hovercard\" href=\"https://github.com/mdn/content/issues/39491\">#39491</a></p>",
-            "url": "https://github.com/mdn/content/pull/39550",
-            "title": "Clarify stretch behavior in align-items documentation",
-            "date_modified": "2025-05-17T13:43:05.000Z",
-            "date_published": "2025-05-16T17:04:22.000Z",
-            "author": {
-                "name": "farizadam",
-                "url": "https://github.com/farizadam"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rebloor",
                 "url": "https://github.com/rebloor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Chrome 138 supports the <a href=\"https://webmachinelearning.github.io/translation-api/\" rel=\"nofollow\">Translator and Language Detector APIs</a>: see the relevant ChromeStatus entries: <a href=\"https://chromestatus.com/feature/6494349985841152\" rel=\"nofollow\">https://chromestatus.com/feature/6494349985841152</a> and <a href=\"https://chromestatus.com/feature/5172811302961152\" rel=\"nofollow\">https://chromestatus.com/feature/5172811302961152</a> .</p>\n<p dir=\"auto\">This PR documents this set of APIs — I have done them as a single API, because they are so closely related. It would seem weird to me to have them on two separate API landing pages.</p>\n<p dir=\"auto\">Specifically, I have added:</p>\n<ul dir=\"auto\">\n<li>A landing page for the APIs, and a \"Using...\" guide</li>\n<li>A reference for the <code class=\"notranslate\">LanguageDetector</code> interface</li>\n<li>A reference for the <code class=\"notranslate\">Translator</code> interface</li>\n<li>References for the associated <code class=\"notranslate\">Permissions-Policy</code> directives</li>\n</ul>\n<p dir=\"auto\">Note that the <code class=\"notranslate\">CreateMonitor</code> interface is shared functionality across multiple AI APIs; it is already documented in the Summarizer API PR — <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3017443201\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39263\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39263/hovercard\" href=\"https://github.com/mdn/content/pull/39263\">#39263</a>.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39457",
-            "title": "Editorial review: Document Translator and Language Detector APIs",
-            "date_modified": "2025-05-16T05:43:26.000Z",
-            "date_published": "2025-05-08T10:57:23.000Z",
-            "author": {
-                "name": "chrisdavidmills",
-                "url": "https://github.com/chrisdavidmills"
             }
         }
     ]

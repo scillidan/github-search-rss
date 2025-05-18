@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-18T21:01:23.553Z</updated>
+    <updated>2025-05-18T22:01:28.239Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add missing "to" in html basics course debugging walkthrough page]]></title>
+        <id>https://github.com/mdn/content/pull/39560</id>
+        <link href="https://github.com/mdn/content/pull/39560"/>
+        <updated>2025-05-18T21:40:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2328730?v=4" width="64" height="64" alt=""/><br/><p dir="auto">added missing "to"</p>
+
+<h3 dir="auto">Description</h3>
+<p dir="auto">There was a missing "to" in this paragraph, before the word "inspect".</p>
+<p dir="auto">"So how do you find markup errors? Later on we will show you how to find errors in HTML using a tool called the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Debugging_HTML#html_validation" rel="nofollow">HTML validator</a>, but first we will show you how inspect your HTML manually using a DOM inspector, and then explore what kinds of markup errors you might be looking for, and how the browser might interpret those."</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">I would like to make the MDN HTML course easier to understand by addressing any grammatical errors that I might come across.</p>
+<h3 dir="auto">Additional details</h3>
+<p dir="auto">N/A</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto">N/A</p>]]></content>
+        <author>
+            <name>lacrosse1991</name>
+            <email>lacrosse1991@noreply.github.com</email>
+            <uri>https://github.com/lacrosse1991</uri>
+        </author>
+        <published>2025-05-18T21:22:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Specify which credientials header value is default]]></title>
+        <id>https://github.com/mdn/content/pull/39559</id>
+        <link href="https://github.com/mdn/content/pull/39559"/>
+        <updated>2025-05-18T21:14:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
+<li>Technically this is redundant because the example that follows mentions it in a comment, but I think the typical reader will expect to find that information here, not in the example.</li>
+<li>I tried to make this change similar in format to <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#including_credentials" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#including_credentials</a></li>
+</ul>]]></content>
+        <author>
+            <name>DanKaplanSES</name>
+            <email>DanKaplanSES@noreply.github.com</email>
+            <uri>https://github.com/DanKaplanSES</uri>
+        </author>
+        <published>2025-05-18T21:12:01.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Use consistent naming for quirks/limited-quirks/no-quirks modes]]></title>
         <id>https://github.com/mdn/content/pull/39558</id>
@@ -121,26 +160,6 @@
             <uri>https://github.com/mdn-bot</uri>
         </author>
         <published>2025-05-17T00:28:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarify stretch behavior in align-items documentation]]></title>
-        <id>https://github.com/mdn/content/pull/39550</id>
-        <link href="https://github.com/mdn/content/pull/39550"/>
-        <updated>2025-05-17T13:43:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Description<br>
-Clarified the behavior of the stretch value in the align-items CSS property documentation to better explain how auto-sized items are stretched within the container while respecting size constraints.</p>
-<p dir="auto">Motivation<br>
-The previous description of stretch was vague and caused confusion for readers trying to understand how stretching works when items have auto sizes. This clarification helps improve documentation accuracy and assists developers in using CSS flexbox alignment more effectively.</p>
-<p dir="auto">Additional details<br>
-This update aligns with the CSS Flexible Box Layout Module specification and common browser implementations regarding item stretching and size constraint</p>
-<p dir="auto">Related issues and pull requests<br>
-<span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39491.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3058023589" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39491" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39491/hovercard" href="https://github.com/mdn/content/issues/39491">#39491</a></p>]]></content>
-        <author>
-            <name>farizadam</name>
-            <email>farizadam@noreply.github.com</email>
-            <uri>https://github.com/farizadam</uri>
-        </author>
-        <published>2025-05-16T17:04:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fix invalid code syntax]]></title>
@@ -444,39 +463,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/rebloor</uri>
         </author>
         <published>2025-05-09T02:34:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editorial review: Document Translator and Language Detector APIs]]></title>
-        <id>https://github.com/mdn/content/pull/39457</id>
-        <link href="https://github.com/mdn/content/pull/39457"/>
-        <updated>2025-05-16T05:43:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Chrome 138 supports the <a href="https://webmachinelearning.github.io/translation-api/" rel="nofollow">Translator and Language Detector APIs</a>: see the relevant ChromeStatus entries: <a href="https://chromestatus.com/feature/6494349985841152" rel="nofollow">https://chromestatus.com/feature/6494349985841152</a> and <a href="https://chromestatus.com/feature/5172811302961152" rel="nofollow">https://chromestatus.com/feature/5172811302961152</a> .</p>
-<p dir="auto">This PR documents this set of APIs — I have done them as a single API, because they are so closely related. It would seem weird to me to have them on two separate API landing pages.</p>
-<p dir="auto">Specifically, I have added:</p>
-<ul dir="auto">
-<li>A landing page for the APIs, and a "Using..." guide</li>
-<li>A reference for the <code class="notranslate">LanguageDetector</code> interface</li>
-<li>A reference for the <code class="notranslate">Translator</code> interface</li>
-<li>References for the associated <code class="notranslate">Permissions-Policy</code> directives</li>
-</ul>
-<p dir="auto">Note that the <code class="notranslate">CreateMonitor</code> interface is shared functionality across multiple AI APIs; it is already documented in the Summarizer API PR — <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3017443201" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39263" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39263/hovercard" href="https://github.com/mdn/content/pull/39263">#39263</a>.</p>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>chrisdavidmills</name>
-            <email>chrisdavidmills@noreply.github.com</email>
-            <uri>https://github.com/chrisdavidmills</uri>
-        </author>
-        <published>2025-05-08T10:57:23.000Z</published>
     </entry>
 </feed>
