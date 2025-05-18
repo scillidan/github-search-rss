@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-18T15:01:44.783Z</updated>
+    <updated>2025-05-18T16:01:20.678Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Use consistent naming for quirks/limited-quirks/no-quirks modes]]></title>
+        <id>https://github.com/mdn/content/pull/39558</id>
+        <link href="https://github.com/mdn/content/pull/39558"/>
+        <updated>2025-05-18T15:14:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/122839503?u=fd7c151b335adbbe5acad365fcc96d8d608be54c&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">After initial mention of legacy names for limited-quirks and no-quirks modes, subsequent references to those modes have been changed to use "limited-quirks mode" and "no-quirks mode" instead of the legacy names.</p>
+<h3 dir="auto">Motivation</h3>
+
+<p dir="auto">Using the legacy names across the rest of the document is inconsistent with the sentence in the introduction:</p>
+<blockquote>
+<p dir="auto">The limited-quirks and no-quirks modes used to be called "almost-standards" mode and "full standards" mode, respectively. These names have been changed as the behavior is now standardized.</p>
+</blockquote>
+<h3 dir="auto">Additional details</h3>
+
+<p dir="auto">N/A</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+<p dir="auto">N/A</p>
+]]></content>
+        <author>
+            <name>MaoShizhong</name>
+            <email>MaoShizhong@noreply.github.com</email>
+            <uri>https://github.com/MaoShizhong</uri>
+        </author>
+        <published>2025-05-18T15:12:33.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clarify new optionality of `src` if `srcset` is available.]]></title>
         <id>https://github.com/mdn/content/pull/39557</id>
@@ -448,25 +478,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-08T10:57:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add sentence about `null` to `Selection.anchorNode`]]></title>
-        <id>https://github.com/mdn/content/pull/39456</id>
-        <link href="https://github.com/mdn/content/pull/39456"/>
-        <updated>2025-05-14T10:49:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/72874398?u=568ccd8d9abd3c2f5552d8cecb6b04193c9cce22&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Adds a sentence about when <code class="notranslate">Selection.anchorNode</code> may be <code class="notranslate">null</code>.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39455.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3048587560" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39455" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39455/hovercard" href="https://github.com/mdn/content/issues/39455">#39455</a></p>
-
-
-]]></content>
-        <author>
-            <name>gavinmorrow</name>
-            <email>gavinmorrow@noreply.github.com</email>
-            <uri>https://github.com/gavinmorrow</uri>
-        </author>
-        <published>2025-05-08T10:46:30.000Z</published>
     </entry>
 </feed>
