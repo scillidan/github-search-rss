@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-18T10:01:24.047Z</updated>
+    <updated>2025-05-18T11:01:11.968Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Match Example "Content-Length" header to body length]]></title>
+        <id>https://github.com/mdn/content/pull/39555</id>
+        <link href="https://github.com/mdn/content/pull/39555"/>
+        <updated>2025-05-18T10:58:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/134723582?u=58ba1986fbe5142134b46b3e1774add76fb4ffce&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">The length of "name=FirstName%20LastName&amp;email=bsmth%40example.com " is 51 characters but the Content-Length header says the content is 50 characters long.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">I wanted an example of a plain text HTTP message to show someone how a server knows when it has read the full content of a message.</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39554.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3071641759" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39554" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39554/hovercard" href="https://github.com/mdn/content/issues/39554">#39554</a></p>
+]]></content>
+        <author>
+            <name>jackoconnordev</name>
+            <email>jackoconnordev@noreply.github.com</email>
+            <uri>https://github.com/jackoconnordev</uri>
+        </author>
+        <published>2025-05-18T10:45:47.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update InterfaceData based on WebRef]]></title>
         <id>https://github.com/mdn/content/pull/39553</id>
@@ -440,34 +460,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/CloudAnalystGo</uri>
         </author>
         <published>2025-05-06T23:01:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add content covering the limitations of <selectedcontent>]]></title>
-        <id>https://github.com/mdn/content/pull/39411</id>
-        <link href="https://github.com/mdn/content/pull/39411"/>
-        <updated>2025-05-17T02:02:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/326742?u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">This PR updates the <code class="notranslate">&lt;selectedcontent&gt;</code> reference document to:</p>
-<ol dir="auto">
-<li>Include more details about the limitations of  cloning, and</li>
-<li>Add a note emphasizing that sites built using JavaScript frameworks may prefer not to use <code class="notranslate">&lt;selectedcontent&gt;</code> and instead rely on the framework's existing UI synchronization feature.</li>
-</ol>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">After seeing <a href="https://github.com/angular/angular/issues/60636" data-hovercard-type="issue" data-hovercard-url="/angular/angular/issues/60636/hovercard">this Angular bug</a> related to <code class="notranslate">&lt;selectedcontent&gt;</code> as well as testing the behavior of <code class="notranslate">&lt;selectedcontent&gt;</code> in several other frameworks and discovering issues, I believe it's important to update the MDN docs to clarify both the use cases for <code class="notranslate">&lt;selectedcontent&gt;</code> as well as its limitations. This should help ensure developers aren't confused by issues they run into when trying to use this new element.</p>
-<p dir="auto">FYI, I've discussed this recommendation with folks on the Chrome team working on the customizable <code class="notranslate">&lt;select&gt;</code> feature, and they're comfortable with this recommendation.</p>
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>philipwalton</name>
-            <email>philipwalton@noreply.github.com</email>
-            <uri>https://github.com/philipwalton</uri>
-        </author>
-        <published>2025-05-05T17:53:05.000Z</published>
     </entry>
 </feed>
