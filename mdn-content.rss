@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-19T07:01:24.196Z</updated>
+    <updated>2025-05-19T08:01:44.318Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[FF139 Relnote: WebAuthn Extn largeBlob, credProps, prf]]></title>
         <id>https://github.com/mdn/content/pull/39572</id>
         <link href="https://github.com/mdn/content/pull/39572"/>
-        <updated>2025-05-19T06:59:56.000Z</updated>
+        <updated>2025-05-19T07:20:35.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 adds support for WebAuthn Extnensions largeBlob, credProps, prf. This adds the release note.</p>
 <p dir="auto">Note this will show a broken link for the prf extension, which is being added in a different doc.</p>
 <p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024518451" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39302" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39302/hovercard" href="https://github.com/mdn/content/issues/39302">#39302</a></p>]]></content>
@@ -117,22 +117,6 @@ Questions inline</p>
             <uri>https://github.com/Masterlincs</uri>
         </author>
         <published>2025-05-19T00:08:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Specify which credientials header value is default]]></title>
-        <id>https://github.com/mdn/content/pull/39559</id>
-        <link href="https://github.com/mdn/content/pull/39559"/>
-        <updated>2025-05-19T02:43:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
-<li>Technically this is redundant because the example that follows mentions it in a comment, but I think the typical reader will expect to find that information here, not in the example.</li>
-<li>I tried to make this change similar in format to <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#including_credentials" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#including_credentials</a></li>
-</ul>]]></content>
-        <author>
-            <name>DanKaplanSES</name>
-            <email>DanKaplanSES@noreply.github.com</email>
-            <uri>https://github.com/DanKaplanSES</uri>
-        </author>
-        <published>2025-05-18T21:12:01.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Use consistent naming for quirks/limited-quirks/no-quirks modes]]></title>
@@ -253,7 +237,7 @@ Questions inline</p>
         <title type="html"><![CDATA[Fix invalid code syntax]]></title>
         <id>https://github.com/mdn/content/pull/39548</id>
         <link href="https://github.com/mdn/content/pull/39548"/>
-        <updated>2025-05-19T06:59:18.000Z</updated>
+        <updated>2025-05-19T07:09:59.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
 <li>Add context for additional methods and properties</li>
 <li>Make JSX valid by having a single element</li>
@@ -427,5 +411,23 @@ Questions inline</p>
             <uri>https://github.com/rebloor</uri>
         </author>
         <published>2025-05-14T09:55:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
+        <id>https://github.com/mdn/content/pull/39502</id>
+        <link href="https://github.com/mdn/content/pull/39502"/>
+        <updated>2025-05-13T15:25:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1784648?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Replaces the room link with its canonical version.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">The current "internal" ID doesn't offer a good expectation where does it lead eventually.</p>
+<h3 dir="auto">Additional details</h3>
+<p dir="auto">Extra metadata hinting at instances being used when creating this room reference are also removed, as they are not relevant for anyone besides the original user creating said link.</p>]]></content>
+        <author>
+            <name>janbrasna</name>
+            <email>janbrasna@noreply.github.com</email>
+            <uri>https://github.com/janbrasna</uri>
+        </author>
+        <published>2025-05-13T15:22:43.000Z</published>
     </entry>
 </feed>
