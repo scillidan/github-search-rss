@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-19T14:01:30.919Z</updated>
+    <updated>2025-05-19T15:01:25.544Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -181,88 +181,6 @@ Questions inline</p>
             <uri>https://github.com/Masterlincs</uri>
         </author>
         <published>2025-05-19T00:08:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use consistent naming for quirks/limited-quirks/no-quirks modes]]></title>
-        <id>https://github.com/mdn/content/pull/39558</id>
-        <link href="https://github.com/mdn/content/pull/39558"/>
-        <updated>2025-05-18T15:14:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/122839503?u=fd7c151b335adbbe5acad365fcc96d8d608be54c&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">After initial mention of legacy names for limited-quirks and no-quirks modes, subsequent references to those modes have been changed to use "limited-quirks mode" and "no-quirks mode" instead of the legacy names.</p>
-<h3 dir="auto">Motivation</h3>
-
-<p dir="auto">Using the legacy names across the rest of the document is inconsistent with the sentence in the introduction:</p>
-<blockquote>
-<p dir="auto">The limited-quirks and no-quirks modes used to be called "almost-standards" mode and "full standards" mode, respectively. These names have been changed as the behavior is now standardized.</p>
-</blockquote>
-<h3 dir="auto">Additional details</h3>
-
-<p dir="auto">N/A</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-<p dir="auto">N/A</p>
-]]></content>
-        <author>
-            <name>MaoShizhong</name>
-            <email>MaoShizhong@noreply.github.com</email>
-            <uri>https://github.com/MaoShizhong</uri>
-        </author>
-        <published>2025-05-18T15:12:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarify new optionality of `src` if `srcset` is available.]]></title>
-        <id>https://github.com/mdn/content/pull/39557</id>
-        <link href="https://github.com/mdn/content/pull/39557"/>
-        <updated>2025-05-18T14:20:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143106292?u=b3c5814362982b570863d2bb4e99cc0cc32ec862&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<p dir="auto">Clarifying that the <code class="notranslate">src</code> attribute is no longer required if srcset is present.</p>
-<h3 dir="auto">Motivation</h3>
-
-<p dir="auto">This changes keep the documentation up to date and accurate, insuring the readers are aware that the <code class="notranslate">src</code> attribute is no longer required when srcset is present.</p>
-<h3 dir="auto">Additional details</h3>
-
-<p dir="auto">None.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39489.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3057423398" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39489" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39489/hovercard" href="https://github.com/mdn/content/issues/39489">#39489</a></p>
-]]></content>
-        <author>
-            <name>younisdev</name>
-            <email>younisdev@noreply.github.com</email>
-            <uri>https://github.com/younisdev</uri>
-        </author>
-        <published>2025-05-18T14:15:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[doc[iframe/index.md]: change `Window.showModalDialog()` to `HTMLDialogElement.showModal()`]]></title>
-        <id>https://github.com/mdn/content/pull/39556</id>
-        <link href="https://github.com/mdn/content/pull/39556"/>
-        <updated>2025-05-18T12:24:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55658154?u=72eb5d6b966bd3197516e3205b1e2f4962df3cc6&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">The link of <code class="notranslate">Window.showModalDialog()</code> is currently points to <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/showModal" rel="nofollow">HTMLDialogElement.showModal()</a></p>
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>samuel871211</name>
-            <email>samuel871211@noreply.github.com</email>
-            <uri>https://github.com/samuel871211</uri>
-        </author>
-        <published>2025-05-18T12:24:21.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Match Example "Content-Length" header to body length]]></title>
@@ -464,5 +382,77 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-13T07:43:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARIA heading role: aria-level is required]]></title>
+        <id>https://github.com/mdn/content/pull/39482</id>
+        <link href="https://github.com/mdn/content/pull/39482"/>
+        <updated>2025-05-15T22:43:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43677?v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+
+<p dir="auto">Changes the description of the ARIA heading role’s aria-level attribute to state that it is required, rather than stating that it defaults to 2.</p>
+<h3 dir="auto">Motivation</h3>
+
+<p dir="auto">See the <a href="https://www.w3.org/TR/wai-aria-1.3/#heading" rel="nofollow">ARIA 1.3 specification for heading</a>:</p>
+<blockquote>
+<p dir="auto">To ensure elements with a role of heading are organized into a logical outline, authors MUST use the aria-level attribute to indicate the proper nesting level.</p>
+</blockquote>
+<h3 dir="auto">Additional details</h3>
+
+<p dir="auto">The MDN page on the aria-level role already states that the heading role is required.</p>
+<p dir="auto">I’m not sure where the “If no level is present, a value of 2 is the default” claim comes from.</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+<p dir="auto">None.</p>
+]]></content>
+        <author>
+            <name>js-choi</name>
+            <email>js-choi@noreply.github.com</email>
+            <uri>https://github.com/js-choi</uri>
+        </author>
+        <published>2025-05-12T01:26:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add an example to search for multi-byte pattern in an array]]></title>
+        <id>https://github.com/mdn/content/pull/39479</id>
+        <link href="https://github.com/mdn/content/pull/39479"/>
+        <updated>2025-05-17T20:51:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/><p dir="auto">And manipulate the array directly.</p>
+
+<h3 dir="auto">Description</h3>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">There was no example for manipulating the array directly without converting the whole array to a string first.</p>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>def00111</name>
+            <email>def00111@noreply.github.com</email>
+            <uri>https://github.com/def00111</uri>
+        </author>
+        <published>2025-05-11T18:31:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[`author` manifest key Chrome clarifications]]></title>
+        <id>https://github.com/mdn/content/pull/39463</id>
+        <link href="https://github.com/mdn/content/pull/39463"/>
+        <updated>2025-05-09T02:36:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Following feedback on <a href="https://github.com/mdn/content/pull/38844#issuecomment-2859232805" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/38844/hovercard">author manifest key cross-browser clarifications #38844</a>, modifies the content to clarify that Chrome and the Chrome Store don't use the <code class="notranslate">author</code> manifest key.</p>]]></content>
+        <author>
+            <name>rebloor</name>
+            <email>rebloor@noreply.github.com</email>
+            <uri>https://github.com/rebloor</uri>
+        </author>
+        <published>2025-05-09T02:34:32.000Z</published>
     </entry>
 </feed>
