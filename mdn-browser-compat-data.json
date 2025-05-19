@@ -6,6 +6,17 @@
     "description": "mdn/browser-compat-data update data on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">See <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3040665537\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/mdn/issues/672\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/672/hovercard\" href=\"https://github.com/mdn/mdn/issues/672\">mdn/mdn#672</a></p>",
+            "url": "https://github.com/mdn/browser-compat-data/pull/26830",
+            "title": "Add Fx impl_url for 'multiple import maps'",
+            "date_modified": "2025-05-19T10:54:58.000Z",
+            "date_published": "2025-05-19T10:52:47.000Z",
+            "author": {
+                "name": "bsmth",
+                "url": "https://github.com/bsmth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The PRF extension <a href=\"https://w3c.github.io/webauthn/#prf-extension\" rel=\"nofollow\">in spec here</a> (and <a href=\"https://github.com/w3c/webauthn/wiki/Explainer:-PRF-extension\">explainer here</a>) is supported in desktop on FF139. The explanation of FF support is a bit more complex - see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c5\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c5</a> - and is now captured by this subfeature.</p>\n<p dir=\"auto\">This is not implemented in chrome according to <a href=\"https://chromestatus.com/feature/5138422207348736\" rel=\"nofollow\">https://chromestatus.com/feature/5138422207348736</a></p>\n<p dir=\"auto\">This is supposed to be implemented in Safari according to <a href=\"https://medium.com/@corbado_tech/automatic-passkey-upgrade-prf-extension-related-origins-18667123006f\" rel=\"nofollow\">https://medium.com/@corbado_tech/automatic-passkey-upgrade-prf-extension-related-origins-18667123006f</a> but latest info I can find from April says it isn't - see Apple forum info here <a href=\"https://developer.apple.com/forums/thread/774112\" rel=\"nofollow\">https://developer.apple.com/forums/thread/774112</a></p>\n<p dir=\"auto\">This is related to work in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3024518451\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39302\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39302/hovercard\" href=\"https://github.com/mdn/content/issues/39302\">mdn/content#39302</a></p>",
             "url": "https://github.com/mdn/browser-compat-data/pull/26828",
             "title": "CredentialsContainer prf extension supported in FF",
