@@ -6,10 +6,21 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The docs are explicit about ints here, and changes have landed allowing doubles:</p>\n<p dir=\"auto\"><a href=\"https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded\" rel=\"nofollow\">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>\n<ul dir=\"auto\">\n<li><a href=\"https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ\" rel=\"nofollow\">Chromium Intent to Ship</a></li>\n<li><a href=\"https://bugs.webkit.org/show_bug.cgi?id=288688\" rel=\"nofollow\">WebKit bug</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1943649\" rel=\"nofollow\">Gecko bug</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #641.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2883460957\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/mdn/issues/641\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/641/hovercard\" href=\"https://github.com/mdn/mdn/issues/641\">mdn/mdn#641</a></p>",
+            "url": "https://github.com/mdn/content/pull/39574",
+            "title": "chore: Change ints to doubles for ProgressEvent properties",
+            "date_modified": "2025-05-19T11:26:09.000Z",
+            "date_published": "2025-05-19T11:24:17.000Z",
+            "author": {
+                "name": "bsmth",
+                "url": "https://github.com/bsmth"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19553200?u=86800f8ee2315ef6d7bee77ec66cc9a6c45cab49&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Update the description for matrix(a, b, c, d, tx, ty) to show that it also stands for matrix(scaleX(), skewY(), skewX(), scaleY(), translateX(), translateY()), which is easier to understand as a developer.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">Clarity. I am working with SVG at the moment, and I had to check different docs to understand the meaning of <code class=\"notranslate\">matrix(a, b, c, d, tx, ty)</code>. Outside AI, MDN is most developers' first search place.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39573",
             "title": "Update index.md for better description for the coordinates.",
-            "date_modified": "2025-05-19T10:16:08.000Z",
+            "date_modified": "2025-05-19T12:01:25.000Z",
             "date_published": "2025-05-19T10:15:19.000Z",
             "author": {
                 "name": "EbereUzodufa",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "js-choi",
                 "url": "https://github.com/js-choi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">And manipulate the array directly.</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">There was no example for manipulating the array directly without converting the whole array to a string first.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39479",
-            "title": "Add an example to search for multi-byte pattern in an array",
-            "date_modified": "2025-05-17T20:51:14.000Z",
-            "date_published": "2025-05-11T18:31:10.000Z",
-            "author": {
-                "name": "def00111",
-                "url": "https://github.com/def00111"
             }
         }
     ]
