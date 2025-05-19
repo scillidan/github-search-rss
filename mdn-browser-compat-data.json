@@ -6,6 +6,17 @@
     "description": "mdn/browser-compat-data update data on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The PRF extension <a href=\"https://w3c.github.io/webauthn/#prf-extension\" rel=\"nofollow\">in spec here</a> (and <a href=\"https://github.com/w3c/webauthn/wiki/Explainer:-PRF-extension\">explainer here</a>) is supported in desktop on FF139. The explanation of FF support is a bit more complex - see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c5\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c5</a> - and is now captured by this subfeature.</p>\n<p dir=\"auto\">This is not implemented in chrome according to <a href=\"https://chromestatus.com/feature/5138422207348736\" rel=\"nofollow\">https://chromestatus.com/feature/5138422207348736</a></p>\n<p dir=\"auto\">This is supposed to be implemented in Safari according to <a href=\"https://medium.com/@corbado_tech/automatic-passkey-upgrade-prf-extension-related-origins-18667123006f\" rel=\"nofollow\">https://medium.com/@corbado_tech/automatic-passkey-upgrade-prf-extension-related-origins-18667123006f</a> but latest info I can find from April says it isn't - see Apple forum info here <a href=\"https://developer.apple.com/forums/thread/774112\" rel=\"nofollow\">https://developer.apple.com/forums/thread/774112</a></p>\n<p dir=\"auto\">This is related to work in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3024518451\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39302\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39302/hovercard\" href=\"https://github.com/mdn/content/issues/39302\">mdn/content#39302</a></p>",
+            "url": "https://github.com/mdn/browser-compat-data/pull/26828",
+            "title": "CredentialsContainer prf extension supported in FF",
+            "date_modified": "2025-05-19T01:26:37.000Z",
+            "date_published": "2025-05-19T01:10:29.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 adds remaining sanitizer method/options behind flag in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1959727\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1959727</a></p>\n<p dir=\"auto\">Once FF140 becomes nightly, these would change to \"preview\".</p>\n<p dir=\"auto\">Changes are:</p>\n<ul dir=\"auto\">\n<li>`ShadowRoot.setHTML()] - new method</li>\n<li><code class=\"notranslate\">options.sanitizer</code> added to param to <code class=\"notranslate\">ShadowRoot.setHTMLUnsafe()</code> and <code class=\"notranslate\">Document.parseHTMLUnsafe()</code></li>\n</ul>\n<p dir=\"auto\">This follows on from <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3027555236\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26659\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26659/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/26659\">#26659</a></p>\n<p dir=\"auto\">FYI <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/evilpie/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/evilpie\">@evilpie</a> I was \"somewhat wrong\" in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3027555236\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26659\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26659/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/26659\">#26659</a>. I can add them, just not as a \"preview\" release. I didn't think of this properly because I was so focused on FF139.</p>\n<p dir=\"auto\">Related docs work being done in #38890</p>",
             "url": "https://github.com/mdn/browser-compat-data/pull/26815",
             "title": "Remaining sanitizer methods",
@@ -157,17 +168,6 @@
             "author": {
                 "name": "dotproto",
                 "url": "https://github.com/dotproto"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105274?u=173310b843e2751843265438af8cfb79eda02039&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">Adds missing support data for <code class=\"notranslate\">&lt;meta name=\"viewport\"&gt;</code>.</p>\n<h4 dir=\"auto\">Test results and supporting details</h4>\n<p dir=\"auto\">This PR assumes that Mobile Safari 3 for iOS shipped the first <code class=\"notranslate\">&lt;meta name=\"viewport\"&gt;</code> implementation, and all later released mobile browsers followed.</p>\n<ul dir=\"auto\">\n<li><a href=\"https://blog.mozilla.org/en/mozilla/mozilla-launches-firefox-4-for-android-allowing-users-to-take-the-power-and-customization-of-firefox-everywhere-2/\" rel=\"nofollow\">Firefox 4 for Android</a></li>\n<li><a href=\"https://chromereleases.googleblog.com/2012/06/chrome-for-android-out-of-beta.html\" rel=\"nofollow\">Chrome 18 for Android</a></li>\n<li><a href=\"https://web.archive.org/web/20110920142131/http://www.opera.com/docs/specs/productspecs/\" rel=\"nofollow\">Opera Mobile 10</a></li>\n</ul>\n<p dir=\"auto\">There’s a <a href=\"https://webkit.org/blog/7929/designing-websites-for-iphone-x/\" rel=\"nofollow\"><code class=\"notranslate\">viewport-fit</code> feature</a> that Safari 11 presumably shipped. I just learned that Chrome is planning to ship it soon, too.</p>\n<h4 dir=\"auto\">Related issues</h4>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #25311.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2715504565\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/25311\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/browser-compat-data/issues/25311/hovercard\" href=\"https://github.com/mdn/browser-compat-data/issues/25311\">#25311</a></p>",
-            "url": "https://github.com/mdn/browser-compat-data/pull/25392",
-            "title": "Add meta viewport support data",
-            "date_modified": "2025-04-30T05:59:40.000Z",
-            "date_published": "2024-12-12T13:50:02.000Z",
-            "author": {
-                "name": "pepelsbey",
-                "url": "https://github.com/pepelsbey"
             }
         }
     ]

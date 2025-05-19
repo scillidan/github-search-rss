@@ -2,39 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-19T00:05:02.697Z</updated>
+    <updated>2025-05-19T01:29:11.748Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Add missing "to" in html basics course debugging walkthrough page]]></title>
-        <id>https://github.com/mdn/content/pull/39560</id>
-        <link href="https://github.com/mdn/content/pull/39560"/>
-        <updated>2025-05-19T00:04:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2328730?v=4" width="64" height="64" alt=""/><br/><p dir="auto">added missing "to"</p>
-
-<h3 dir="auto">Description</h3>
-<p dir="auto">There was a missing "to" in this paragraph, before the word "inspect".</p>
-<p dir="auto">"So how do you find markup errors? Later on we will show you how to find errors in HTML using a tool called the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Debugging_HTML#html_validation" rel="nofollow">HTML validator</a>, but first we will show you how inspect your HTML manually using a DOM inspector, and then explore what kinds of markup errors you might be looking for, and how the browser might interpret those."</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">I would like to make the MDN HTML course easier to understand by addressing any grammatical errors that I might come across.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto">N/A</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto">N/A</p>]]></content>
+        <title type="html"><![CDATA[chore: replace `http://` with `https://`]]></title>
+        <id>https://github.com/mdn/content/pull/39567</id>
+        <link href="https://github.com/mdn/content/pull/39567"/>
+        <updated>2025-05-19T00:38:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15844309?u=008f65848dd592799cd1d72033096baa1cbc88ce&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">replace <code class="notranslate">http://</code> with <code class="notranslate">https://</code></p>]]></content>
         <author>
-            <name>lacrosse1991</name>
-            <email>lacrosse1991@noreply.github.com</email>
-            <uri>https://github.com/lacrosse1991</uri>
+            <name>yin1999</name>
+            <email>yin1999@noreply.github.com</email>
+            <uri>https://github.com/yin1999</uri>
         </author>
-        <published>2025-05-18T21:22:40.000Z</published>
+        <published>2025-05-19T00:36:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spelling mistake fixed on mask-postition/index.md]]></title>
+        <id>https://github.com/mdn/content/pull/39566</id>
+        <link href="https://github.com/mdn/content/pull/39566"/>
+        <updated>2025-05-19T00:12:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66742341?v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">fixed spelling mistake</p>
+<p dir="auto">postion -&gt; position</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">can clear up confusion of if postion is a different var than position</p>
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto">partially <span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39564.">fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3072149572" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39564" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39564/hovercard" href="https://github.com/mdn/content/issues/39564">#39564</a></p>
+
+
+]]></content>
+        <author>
+            <name>Masterlincs</name>
+            <email>Masterlincs@noreply.github.com</email>
+            <uri>https://github.com/Masterlincs</uri>
+        </author>
+        <published>2025-05-19T00:11:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed the note on the DataTransfer: files page as referenced in issue #39267]]></title>
+        <id>https://github.com/mdn/content/pull/39565</id>
+        <link href="https://github.com/mdn/content/pull/39565"/>
+        <updated>2025-05-19T00:08:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66742341?v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Fixed the datatransfer: files page according to issue <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3017738405" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39267" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39267/hovercard" href="https://github.com/mdn/content/issues/39267">#39267</a> wherein the fact that it is accessible from the paste event too was not included in the notes section of the documentation</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">I have used the MDN web docs a lot when i am stuck and so wanted to give back by helping fix an issue i can easily fix</p>
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39267.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3017738405" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39267" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39267/hovercard" href="https://github.com/mdn/content/issues/39267">#39267</a></p>
+
+
+]]></content>
+        <author>
+            <name>Masterlincs</name>
+            <email>Masterlincs@noreply.github.com</email>
+            <uri>https://github.com/Masterlincs</uri>
+        </author>
+        <published>2025-05-19T00:08:29.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Specify which credientials header value is default]]></title>
         <id>https://github.com/mdn/content/pull/39559</id>
         <link href="https://github.com/mdn/content/pull/39559"/>
-        <updated>2025-05-18T21:14:03.000Z</updated>
+        <updated>2025-05-19T00:09:11.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
 <li>Technically this is redundant because the example that follows mentions it in a comment, but I think the typical reader will expect to find that information here, not in the example.</li>
 <li>I tried to make this change similar in format to <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#including_credentials" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#including_credentials</a></li>
@@ -362,7 +402,7 @@
         <title type="html"><![CDATA[doc: add explanation for multiple `Transfer-Encoding` values]]></title>
         <id>https://github.com/mdn/content/pull/39496</id>
         <link href="https://github.com/mdn/content/pull/39496"/>
-        <updated>2025-05-18T12:30:39.000Z</updated>
+        <updated>2025-05-19T00:21:59.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55658154?u=72eb5d6b966bd3197516e3205b1e2f4962df3cc6&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 
@@ -423,45 +463,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/js-choi</uri>
         </author>
         <published>2025-05-12T01:26:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add an example to search for multi-byte pattern in an array]]></title>
-        <id>https://github.com/mdn/content/pull/39479</id>
-        <link href="https://github.com/mdn/content/pull/39479"/>
-        <updated>2025-05-17T20:51:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/><p dir="auto">And manipulate the array directly.</p>
-
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">There was no example for manipulating the array directly without converting the whole array to a string first.</p>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>def00111</name>
-            <email>def00111@noreply.github.com</email>
-            <uri>https://github.com/def00111</uri>
-        </author>
-        <published>2025-05-11T18:31:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`author` manifest key Chrome clarifications]]></title>
-        <id>https://github.com/mdn/content/pull/39463</id>
-        <link href="https://github.com/mdn/content/pull/39463"/>
-        <updated>2025-05-09T02:36:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Following feedback on <a href="https://github.com/mdn/content/pull/38844#issuecomment-2859232805" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/38844/hovercard">author manifest key cross-browser clarifications #38844</a>, modifies the content to clarify that Chrome and the Chrome Store don't use the <code class="notranslate">author</code> manifest key.</p>]]></content>
-        <author>
-            <name>rebloor</name>
-            <email>rebloor@noreply.github.com</email>
-            <uri>https://github.com/rebloor</uri>
-        </author>
-        <published>2025-05-09T02:34:32.000Z</published>
     </entry>
 </feed>
