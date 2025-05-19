@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/373675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Spec:</p>\n<blockquote>\n<p dir=\"auto\">Credentials are HTTP cookies, TLS client certificates, and authentication entries (for HTTP authentication).</p>\n</blockquote>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39561.\">Closes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3072075294\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39561\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39561/hovercard\" href=\"https://github.com/mdn/content/issues/39561\">#39561</a></p>",
+            "url": "https://github.com/mdn/content/pull/39569",
+            "title": "Edit credentials summary similar to spec",
+            "date_modified": "2025-05-19T05:24:58.000Z",
+            "date_published": "2025-05-19T05:23:06.000Z",
+            "author": {
+                "name": "DanKaplanSES",
+                "url": "https://github.com/DanKaplanSES"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/15844309?u=008f65848dd592799cd1d72033096baa1cbc88ce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">replace <code class=\"notranslate\">http://</code> with <code class=\"notranslate\">https://</code></p>",
             "url": "https://github.com/mdn/content/pull/39567",
             "title": "chore: replace `http://` with `https://`",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "samuel871211",
                 "url": "https://github.com/samuel871211"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43677?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Changes the description of the ARIA heading role’s aria-level attribute to state that it is required, rather than stating that it defaults to 2.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">See the <a href=\"https://www.w3.org/TR/wai-aria-1.3/#heading\" rel=\"nofollow\">ARIA 1.3 specification for heading</a>:</p>\n<blockquote>\n<p dir=\"auto\">To ensure elements with a role of heading are organized into a logical outline, authors MUST use the aria-level attribute to indicate the proper nesting level.</p>\n</blockquote>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">The MDN page on the aria-level role already states that the heading role is required.</p>\n<p dir=\"auto\">I’m not sure where the “If no level is present, a value of 2 is the default” claim comes from.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\">None.</p>\n",
-            "url": "https://github.com/mdn/content/pull/39482",
-            "title": "ARIA heading role: aria-level is required",
-            "date_modified": "2025-05-15T22:43:03.000Z",
-            "date_published": "2025-05-12T01:26:20.000Z",
-            "author": {
-                "name": "js-choi",
-                "url": "https://github.com/js-choi"
             }
         }
     ]
