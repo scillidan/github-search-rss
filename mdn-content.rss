@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-19T06:01:44.585Z</updated>
+    <updated>2025-05-19T07:01:24.196Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[FF139 Relnote: WebAuthn Extn largeBlob, credProps, prf]]></title>
+        <id>https://github.com/mdn/content/pull/39572</id>
+        <link href="https://github.com/mdn/content/pull/39572"/>
+        <updated>2025-05-19T06:59:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 adds support for WebAuthn Extnensions largeBlob, credProps, prf. This adds the release note.</p>
+<p dir="auto">Note this will show a broken link for the prf extension, which is being added in a different doc.</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024518451" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39302" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39302/hovercard" href="https://github.com/mdn/content/issues/39302">#39302</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-19T06:59:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAuthn PRF extension docs]]></title>
+        <id>https://github.com/mdn/content/pull/39570</id>
+        <link href="https://github.com/mdn/content/pull/39570"/>
+        <updated>2025-05-19T06:31:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 adds full desktop support for the PRF extension. This adds docs.</p>
+<p dir="auto">Draft, as I am seeking review from engineering first as per <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>
+Questions inline</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024518451" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39302" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39302/hovercard" href="https://github.com/mdn/content/issues/39302">#39302</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-19T06:08:16.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Edit credentials summary similar to spec]]></title>
         <id>https://github.com/mdn/content/pull/39569</id>
@@ -222,7 +253,7 @@
         <title type="html"><![CDATA[Fix invalid code syntax]]></title>
         <id>https://github.com/mdn/content/pull/39548</id>
         <link href="https://github.com/mdn/content/pull/39548"/>
-        <updated>2025-05-16T12:37:30.000Z</updated>
+        <updated>2025-05-19T06:59:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
 <li>Add context for additional methods and properties</li>
 <li>Make JSX valid by having a single element</li>
@@ -396,57 +427,5 @@
             <uri>https://github.com/rebloor</uri>
         </author>
         <published>2025-05-14T09:55:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
-        <id>https://github.com/mdn/content/pull/39502</id>
-        <link href="https://github.com/mdn/content/pull/39502"/>
-        <updated>2025-05-13T15:25:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1784648?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Replaces the room link with its canonical version.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">The current "internal" ID doesn't offer a good expectation where does it lead eventually.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto">Extra metadata hinting at instances being used when creating this room reference are also removed, as they are not relevant for anyone besides the original user creating said link.</p>]]></content>
-        <author>
-            <name>janbrasna</name>
-            <email>janbrasna@noreply.github.com</email>
-            <uri>https://github.com/janbrasna</uri>
-        </author>
-        <published>2025-05-13T15:22:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[doc: add explanation for multiple `Transfer-Encoding` values]]></title>
-        <id>https://github.com/mdn/content/pull/39496</id>
-        <link href="https://github.com/mdn/content/pull/39496"/>
-        <updated>2025-05-19T00:21:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55658154?u=72eb5d6b966bd3197516e3205b1e2f4962df3cc6&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">Currently, the MDN document doesn't explain the meaning of multiple values of <code class="notranslate">Transfer-Encoding</code>.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto"><a href="https://datatracker.ietf.org/doc/html/rfc9112#section-6.1-6" rel="nofollow">https://datatracker.ietf.org/doc/html/rfc9112#section-6.1-6</a></p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="For example,
-
-Transfer-Encoding: gzip, chunked
-
-indicates that the content has been compressed using the gzip coding and then chunked using the chunked coding while forming the message body."><pre class="notranslate"><code class="notranslate">For example,
-
-Transfer-Encoding: gzip, chunked
-
-indicates that the content has been compressed using the gzip coding and then chunked using the chunked coding while forming the message body.
-</code></pre></div>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>samuel871211</name>
-            <email>samuel871211@noreply.github.com</email>
-            <uri>https://github.com/samuel871211</uri>
-        </author>
-        <published>2025-05-13T07:43:58.000Z</published>
     </entry>
 </feed>
