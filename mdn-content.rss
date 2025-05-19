@@ -2,11 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-19T16:01:27.219Z</updated>
+    <updated>2025-05-19T17:01:32.931Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add 2nd round of Scrimba links to the Learn content]]></title>
+        <id>https://github.com/mdn/content/pull/39577</id>
+        <link href="https://github.com/mdn/content/pull/39577"/>
+        <updated>2025-05-19T16:59:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Our initial set of Scrimba link additions to the MDN Learn Web Development section was fairly successful, so this PR adds a second set of links as an experiment.</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-19T16:57:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clarify use of prefers-reduced-motion: reduce in CSS example]]></title>
+        <id>https://github.com/mdn/content/pull/39576</id>
+        <link href="https://github.com/mdn/content/pull/39576"/>
+        <updated>2025-05-19T16:51:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">This PR updates the <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/media/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/media">@media</a> rule from prefers-reduced-motion to prefers-reduced-motion: reduce in the CSS example to explicitly match the widely used syntax and align with best practices.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">The update addresses potential confusion for developers. Although <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/media/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/media">@media</a> (prefers-reduced-motion) works as a boolean, using the explicit : reduce value improves clarity and aligns with other documentation like <a href="https://web.dev/articles/prefers-reduced-motion" rel="nofollow">web.dev</a>.</p>
+<h3 dir="auto">Additional details</h3>
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39543.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3067691543" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39543" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39543/hovercard" href="https://github.com/mdn/content/issues/39543">#39543</a></p>
+]]></content>
+        <author>
+            <name>farizadam</name>
+            <email>farizadam@noreply.github.com</email>
+            <uri>https://github.com/farizadam</uri>
+        </author>
+        <published>2025-05-19T16:49:53.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[HTTP] Remove Permissions-Policy directive document-domain]]></title>
         <id>https://github.com/mdn/content/pull/39575</id>
@@ -414,45 +460,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/js-choi</uri>
         </author>
         <published>2025-05-12T01:26:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add an example to search for multi-byte pattern in an array]]></title>
-        <id>https://github.com/mdn/content/pull/39479</id>
-        <link href="https://github.com/mdn/content/pull/39479"/>
-        <updated>2025-05-17T20:51:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/><p dir="auto">And manipulate the array directly.</p>
-
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">There was no example for manipulating the array directly without converting the whole array to a string first.</p>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>def00111</name>
-            <email>def00111@noreply.github.com</email>
-            <uri>https://github.com/def00111</uri>
-        </author>
-        <published>2025-05-11T18:31:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`author` manifest key Chrome clarifications]]></title>
-        <id>https://github.com/mdn/content/pull/39463</id>
-        <link href="https://github.com/mdn/content/pull/39463"/>
-        <updated>2025-05-09T02:36:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Following feedback on <a href="https://github.com/mdn/content/pull/38844#issuecomment-2859232805" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/38844/hovercard">author manifest key cross-browser clarifications #38844</a>, modifies the content to clarify that Chrome and the Chrome Store don't use the <code class="notranslate">author</code> manifest key.</p>]]></content>
-        <author>
-            <name>rebloor</name>
-            <email>rebloor@noreply.github.com</email>
-            <uri>https://github.com/rebloor</uri>
-        </author>
-        <published>2025-05-09T02:34:32.000Z</published>
     </entry>
 </feed>

@@ -6,6 +6,28 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Our initial set of Scrimba link additions to the MDN Learn Web Development section was fairly successful, so this PR adds a second set of links as an experiment.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39577",
+            "title": "Add 2nd round of Scrimba links to the Learn content",
+            "date_modified": "2025-05-19T16:59:54.000Z",
+            "date_published": "2025-05-19T16:57:51.000Z",
+            "author": {
+                "name": "chrisdavidmills",
+                "url": "https://github.com/chrisdavidmills"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <a class=\"user-mention notranslate\" data-hovercard-type=\"organization\" data-hovercard-url=\"/orgs/media/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/media\">@media</a> rule from prefers-reduced-motion to prefers-reduced-motion: reduce in the CSS example to explicitly match the widely used syntax and align with best practices.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">The update addresses potential confusion for developers. Although <a class=\"user-mention notranslate\" data-hovercard-type=\"organization\" data-hovercard-url=\"/orgs/media/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/media\">@media</a> (prefers-reduced-motion) works as a boolean, using the explicit : reduce value improves clarity and aligns with other documentation like <a href=\"https://web.dev/articles/prefers-reduced-motion\" rel=\"nofollow\">web.dev</a>.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39543.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3067691543\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39543\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39543/hovercard\" href=\"https://github.com/mdn/content/issues/39543\">#39543</a></p>\n",
+            "url": "https://github.com/mdn/content/pull/39576",
+            "title": "Clarify use of prefers-reduced-motion: reduce in CSS example",
+            "date_modified": "2025-05-19T16:51:54.000Z",
+            "date_published": "2025-05-19T16:49:53.000Z",
+            "author": {
+                "name": "farizadam",
+                "url": "https://github.com/farizadam"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45960703?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Remove documentation about the obsolete HTTP header <code class=\"notranslate\">Permissions-Policy</code> directive <code class=\"notranslate\">document-domain</code>.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Permissions-Policy directive <code class=\"notranslate\">document-domain</code> was removed from spec[1]. It was only ever implemented in Chromium behind a flag, never enabled by default and was removed entirely in Chromium 110[2].</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">[1] <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1463420649\" data-permission-text=\"Title is private\" data-url=\"https://github.com/whatwg/html/issues/8549\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/whatwg/html/pull/8549/hovercard\" href=\"https://github.com/whatwg/html/pull/8549\">whatwg/html#8549</a><br>\n[2] <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/chromium/chromium/commit/09ae39cb337e46a2f97a763e57986154b8af91eb/hovercard\" href=\"https://github.com/chromium/chromium/commit/09ae39cb337e46a2f97a763e57986154b8af91eb\">chromium/chromium@<tt>09ae39c</tt></a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<ul dir=\"auto\">\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1475663372\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/22732\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/22732/hovercard\" href=\"https://github.com/mdn/content/issues/22732\">#22732</a></li>\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3073899546\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26836\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26836/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/26836\">mdn/browser-compat-data#26836</a></li>\n</ul>\n",
             "url": "https://github.com/mdn/content/pull/39575",
             "title": "[HTTP] Remove Permissions-Policy directive document-domain",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "js-choi",
                 "url": "https://github.com/js-choi"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">And manipulate the array directly.</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">There was no example for manipulating the array directly without converting the whole array to a string first.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39479",
-            "title": "Add an example to search for multi-byte pattern in an array",
-            "date_modified": "2025-05-17T20:51:14.000Z",
-            "date_published": "2025-05-11T18:31:10.000Z",
-            "author": {
-                "name": "def00111",
-                "url": "https://github.com/def00111"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7352080?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Following feedback on <a href=\"https://github.com/mdn/content/pull/38844#issuecomment-2859232805\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/38844/hovercard\">author manifest key cross-browser clarifications #38844</a>, modifies the content to clarify that Chrome and the Chrome Store don't use the <code class=\"notranslate\">author</code> manifest key.</p>",
-            "url": "https://github.com/mdn/content/pull/39463",
-            "title": "`author` manifest key Chrome clarifications",
-            "date_modified": "2025-05-09T02:36:34.000Z",
-            "date_published": "2025-05-09T02:34:32.000Z",
-            "author": {
-                "name": "rebloor",
-                "url": "https://github.com/rebloor"
             }
         }
     ]
