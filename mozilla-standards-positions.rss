@@ -2,11 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mozilla-standards-positions.rss</id>
     <title>mozilla/standards-positions Issues</title>
-    <updated>2025-05-19T23:01:33.239Z</updated>
+    <updated>2025-05-20T00:04:24.690Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mozilla-standards-positions.rss"/>
     <subtitle>mozilla/standards-positions Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[WebCodecs VideoFrame Metadata Registry – rtpTimestamp field]]></title>
+        <id>https://github.com/mozilla/standards-positions/issues/1233</id>
+        <link href="https://github.com/mozilla/standards-positions/issues/1233"/>
+        <updated>2025-05-19T23:38:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118131421?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Specification title</h3>
+<p dir="auto">WebCodecs VideoFrame Metadata Registry – rtpTimestamp field</p>
+<h3 dir="auto">Specification or proposal URL (if available)</h3>
+<p dir="auto">ttps://www.w3.org/TR/webcodecs-video-frame-metadata-registry/#dom-videoframemetadata</p>
+<h3 dir="auto">Explainer URL (if available)</h3>
+<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3050255557" data-permission-text="Title is private" data-url="https://github.com/GoogleChrome/chromium-dashboard/issues/5009" data-hovercard-type="issue" data-hovercard-url="/GoogleChrome/chromium-dashboard/issues/5009/hovercard" href="https://github.com/GoogleChrome/chromium-dashboard/issues/5009">GoogleChrome/chromium-dashboard#5009</a></p>
+<h3 dir="auto">Proposal author(s)</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">MDN URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Caniuse.com URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Bugzilla URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Mozillians who can provide input</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">WebKit standards-position</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Other information</h3>
+<ol dir="auto">
+<li>Please provide the title of the specification (or a suitable name for the proposal if no specification exists yet).</li>
+</ol>
+<blockquote>
+<p dir="auto">WebCodecs VideoFrame Metadata Registry – <code class="notranslate">rtpTimestamp</code> field</p>
+</blockquote>
+<ol start="2" dir="auto">
+<li>Please provide a short summary of the proposal.</li>
+</ol>
+<blockquote>
+<p dir="auto">This proposal exposes the <code class="notranslate">rtpTimestamp</code> field from WebRTC video frames via the JavaScript-facing <code class="notranslate">VideoFrame.metadata()</code> dictionary. This enables developers to correlate decoded video frames with their original RTP transport timestamps.</p>
+<p dir="auto">This is especially useful in applications using <code class="notranslate">MediaStreamTrackProcessor</code> or WebCodecs to build custom video processing pipelines. Exposing <code class="notranslate">rtpTimestamp</code> helps support:</p>
+<ul dir="auto">
+<li>Audio/video synchronization</li>
+<li>End-to-end latency measurement</li>
+<li>Debugging and performance analysis</li>
+</ul>
+</blockquote>
+<ol start="3" dir="auto">
+<li>Please provide the names, affiliations, and GitHub usernames of anyone who may be able to provide additional context.</li>
+</ol>
+<ul dir="auto">
+<li>Anantanarayanan G Iyengar (Nvidia) – <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/aiyengar/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/aiyengar">@aiyengar</a></li>
+<li>Dale Curtis (Google) – <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dalecurtis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dalecurtis">@dalecurtis</a> (if appropriate)</li>
+</ul>
+<ol start="4" dir="auto">
+<li>
+<p dir="auto">Please link to any explainer or specification.<br>
+<strong>Specification</strong>:<br>
+<a href="https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/#dom-videoframemetadata-rtptimestamp" rel="nofollow">https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/#dom-videoframemetadata-rtptimestamp</a><br>
+<strong>Explainer</strong>:<br>
+<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3050255557" data-permission-text="Title is private" data-url="https://github.com/GoogleChrome/chromium-dashboard/issues/5009" data-hovercard-type="issue" data-hovercard-url="/GoogleChrome/chromium-dashboard/issues/5009/hovercard" href="https://github.com/GoogleChrome/chromium-dashboard/issues/5009">GoogleChrome/chromium-dashboard#5009</a></p>
+</li>
+<li>
+<p dir="auto">Please link to any primary Chromium bug entry, ChromeStatus.com entry, or equivalent.</p>
+</li>
+</ol>
+<ul dir="auto">
+<li>ChromeStatus: <a href="https://chromestatus.com/feature/5186046555586560" rel="nofollow">https://chromestatus.com/feature/5186046555586560</a></li>
+<li>Chromium bug: <a href="https://crbug.com/414545889" rel="nofollow">https://crbug.com/414545889</a></li>
+<li>CL: <a href="https://chromium-review.googlesource.com/c/chromium/src/+/6499588" rel="nofollow">https://chromium-review.googlesource.com/c/chromium/src/+/6499588</a></li>
+</ul>
+<ol start="6" dir="auto">
+<li>Please describe the results you are hoping to see from this request.</li>
+</ol>
+<blockquote>
+<p dir="auto">We are requesting Mozilla’s position on exposing <code class="notranslate">rtpTimestamp</code> in <code class="notranslate">VideoFrameMetadata</code>. If there are any concerns with the approach, we’d appreciate feedback or alternative suggestions.</p>
+</blockquote>
+<ol start="7" dir="auto">
+<li>Please provide the current state of implementation (e.g. in Chrome, Firefox, Safari).</li>
+</ol>
+<ul dir="auto">
+<li>✅ Chrome: Implemented behind a runtime flag (<code class="notranslate">VideoFrameMetadataRtpTimestamp</code>)</li>
+<li>❌ Firefox: Not yet implemented</li>
+<li>❌ Safari: Not yet implemented</li>
+</ul>
+<ol start="8" dir="auto">
+<li>Does this feature depend on any other work currently in progress?</li>
+</ol>
+<blockquote>
+<p dir="auto">No. It builds on existing WebRTC and WebCodecs infrastructure. The feature simply makes an existing native metadata field available to JavaScript when present.</p>
+</blockquote>]]></content>
+        <author>
+            <name>agiyengar</name>
+            <email>agiyengar@noreply.github.com</email>
+            <uri>https://github.com/agiyengar</uri>
+        </author>
+        <published>2025-05-19T23:38:44.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[audioLevel for RTCEncodedAudioFrameMetadata]]></title>
         <id>https://github.com/mozilla/standards-positions/issues/1232</id>
@@ -496,7 +589,7 @@ Previously brought up in a WHATNOT (<a href="https://github.com/whatwg/html/issu
 </ol>
 <p dir="auto">Some of those questions are also <a href="https://github.com/webmachinelearning/webnn/issues/840" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/840/hovercard">in the WebNN Github Repo</a>.</p>
 <p dir="auto">In a single image, this is what they propose (copied from their repository):</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc2OTU5OTMsIm5iZiI6MTc0NzY5NTY5MywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxOVQyMzAxMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMzFiY2Y2NGUwNjY3NjI0MDU4NGNhNDk2NzZmOWFhMzEzYmNhYzdlYTg0ZGJkYTBhMjVhNDk3YzU3NmMxYTY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OnVI7OFna_X6MOADT-VIzb1LB0MhoaL1Yt1hE9OvZ80"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc2OTU5OTMsIm5iZiI6MTc0NzY5NTY5MywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxOVQyMzAxMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMzFiY2Y2NGUwNjY3NjI0MDU4NGNhNDk2NzZmOWFhMzEzYmNhYzdlYTg0ZGJkYTBhMjVhNDk3YzU3NmMxYTY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OnVI7OFna_X6MOADT-VIzb1LB0MhoaL1Yt1hE9OvZ80" alt="Image" style="max-width: 100%;"></a></p>]]></content>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc2OTk3NjQsIm5iZiI6MTc0NzY5OTQ2NCwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMFQwMDA0MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZWQ1OTc0ZDcxNGFjYmUzNWVkMjk0NzljZmQxNDFjNTNkNmU2MTQyMmYyYjMwMGQ3MGJmNjE0ODcyMzQyNWI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5bG2FnkjiW6aS0vHYk2x3OR9VXM_FNfWuTplwNoU1jI"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc2OTk3NjQsIm5iZiI6MTc0NzY5OTQ2NCwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMFQwMDA0MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZWQ1OTc0ZDcxNGFjYmUzNWVkMjk0NzljZmQxNDFjNTNkNmU2MTQyMmYyYjMwMGQ3MGJmNjE0ODcyMzQyNWI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5bG2FnkjiW6aS0vHYk2x3OR9VXM_FNfWuTplwNoU1jI" alt="Image" style="max-width: 100%;"></a></p>]]></content>
         <author>
             <name>iampi31415</name>
             <email>iampi31415@noreply.github.com</email>
@@ -633,37 +726,5 @@ Previously brought up in a WHATNOT (<a href="https://github.com/whatwg/html/issu
             <uri>https://github.com/ziransun</uri>
         </author>
         <published>2025-04-25T12:46:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escape "<" and ">" when serializing attribute values]]></title>
-        <id>https://github.com/mozilla/standards-positions/issues/1209</id>
-        <link href="https://github.com/mozilla/standards-positions/issues/1209"/>
-        <updated>2025-04-24T10:47:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/296445?u=ec7c4112d416f59ed49ec0a78b32894faa0148f4&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Specification title</h3>
-<p dir="auto">Escape "&lt;" and "&gt;" when serializing attribute values</p>
-<h3 dir="auto">Specification or proposal URL (if available)</h3>
-<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="802037077" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/6362" data-hovercard-type="pull_request" data-hovercard-url="/whatwg/html/pull/6362/hovercard" href="https://github.com/whatwg/html/pull/6362">whatwg/html#6362</a></p>
-<h3 dir="auto">Explainer URL (if available)</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Proposal author(s)</h3>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/zcorpan/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/zcorpan">@zcorpan</a> (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/securityMB/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/securityMB">@securityMB</a>)</p>
-<h3 dir="auto">MDN URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Caniuse.com URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Bugzilla URL</h3>
-<p dir="auto"><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1941347" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1941347</a></p>
-<h3 dir="auto">Mozillians who can provide input</h3>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/zcorpan/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/zcorpan">@zcorpan</a></p>
-<h3 dir="auto">WebKit standards-position</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Other information</h3>
-<p dir="auto">Suggested position: positive</p>]]></content>
-        <author>
-            <name>evilpie</name>
-            <email>evilpie@noreply.github.com</email>
-            <uri>https://github.com/evilpie</uri>
-        </author>
-        <published>2025-04-23T09:31:02.000Z</published>
     </entry>
 </feed>
