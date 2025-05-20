@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mozilla-standards-positions.rss</id>
     <title>mozilla/standards-positions Issues</title>
-    <updated>2025-05-20T01:28:55.842Z</updated>
+    <updated>2025-05-20T02:30:41.123Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mozilla-standards-positions.rss"/>
     <subtitle>mozilla/standards-positions Issues on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[WebCodecs VideoFrame Metadata Registry – rtpTimestamp field]]></title>
         <id>https://github.com/mozilla/standards-positions/issues/1233</id>
         <link href="https://github.com/mozilla/standards-positions/issues/1233"/>
-        <updated>2025-05-19T23:38:44.000Z</updated>
+        <updated>2025-05-20T01:54:49.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/118131421?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Specification title</h3>
 <p dir="auto">WebCodecs VideoFrame Metadata Registry – rtpTimestamp field</p>
 <h3 dir="auto">Specification or proposal URL (if available)</h3>
@@ -83,9 +83,9 @@
 <li>Please provide the current state of implementation (e.g. in Chrome, Firefox, Safari).</li>
 </ol>
 <ul dir="auto">
-<li>✅ Chrome: Implemented behind a runtime flag (<code class="notranslate">VideoFrameMetadataRtpTimestamp</code>)</li>
-<li>❌ Firefox: Not yet implemented</li>
-<li>❌ Safari: Not yet implemented</li>
+<li>Chrome: Implemented behind a runtime flag (<code class="notranslate">VideoFrameMetadataRtpTimestamp</code>)</li>
+<li>Firefox: Not yet implemented</li>
+<li>Safari: Not yet implemented</li>
 </ul>
 <ol start="8" dir="auto">
 <li>Does this feature depend on any other work currently in progress?</li>
@@ -589,7 +589,7 @@ Previously brought up in a WHATNOT (<a href="https://github.com/whatwg/html/issu
 </ol>
 <p dir="auto">Some of those questions are also <a href="https://github.com/webmachinelearning/webnn/issues/840" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/840/hovercard">in the WebNN Github Repo</a>.</p>
 <p dir="auto">In a single image, this is what they propose (copied from their repository):</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3MDQ4MzUsIm5iZiI6MTc0NzcwNDUzNSwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMFQwMTI4NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NTMzMDJkMTllMTM4ZGNiOTYxYWJmZDBhOWU1ZjI2MDBjYzQxMDBlY2Q4NWJmYzRhYjlkZWMxNGJlNGMzZWNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bQ-AR7IdY260hPXGPddbLEVyjaRbrxkHw0A8sh0n7FI"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3MDQ4MzUsIm5iZiI6MTc0NzcwNDUzNSwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMFQwMTI4NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NTMzMDJkMTllMTM4ZGNiOTYxYWJmZDBhOWU1ZjI2MDBjYzQxMDBlY2Q4NWJmYzRhYjlkZWMxNGJlNGMzZWNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bQ-AR7IdY260hPXGPddbLEVyjaRbrxkHw0A8sh0n7FI" alt="Image" style="max-width: 100%;"></a></p>]]></content>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3MDg1NDEsIm5iZiI6MTc0NzcwODI0MSwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMFQwMjMwNDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wOWQyZjVjNDBjNGE2MzQxY2NkMDM1NTM2ZWNiMjBmOTFiMzY1MDUzYWEzNTgzMjQxZjY5MzAxMGMxMDIzZmZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4QabqYRreLJ5Y5bxiEppmuqrDeQzAUjbgNN8wwrCL10"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3MDg1NDEsIm5iZiI6MTc0NzcwODI0MSwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMFQwMjMwNDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wOWQyZjVjNDBjNGE2MzQxY2NkMDM1NTM2ZWNiMjBmOTFiMzY1MDUzYWEzNTgzMjQxZjY5MzAxMGMxMDIzZmZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4QabqYRreLJ5Y5bxiEppmuqrDeQzAUjbgNN8wwrCL10" alt="Image" style="max-width: 100%;"></a></p>]]></content>
         <author>
             <name>iampi31415</name>
             <email>iampi31415@noreply.github.com</email>
