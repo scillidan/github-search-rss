@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-20T19:01:31.797Z</updated>
+    <updated>2025-05-20T20:01:24.770Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -93,7 +93,7 @@
         <title type="html"><![CDATA[docs(Fx139): Add relnote for hidden until found, beforematch]]></title>
         <id>https://github.com/mdn/content/pull/39590</id>
         <link href="https://github.com/mdn/content/pull/39590"/>
-        <updated>2025-05-20T15:45:05.000Z</updated>
+        <updated>2025-05-20T19:35:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <p dir="auto">Relnote for enabling <code class="notranslate">hidden="until-found"</code> and <code class="notranslate">beforematch</code></p>
 <h3 dir="auto">Bugs</h3>
@@ -429,7 +429,7 @@ Questions inline</p>
         <title type="html"><![CDATA[Match Example "Content-Length" header to body length]]></title>
         <id>https://github.com/mdn/content/pull/39555</id>
         <link href="https://github.com/mdn/content/pull/39555"/>
-        <updated>2025-05-20T07:40:48.000Z</updated>
+        <updated>2025-05-20T19:31:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/134723582?u=58ba1986fbe5142134b46b3e1774add76fb4ffce&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">The length of "name=FirstName%20LastName&amp;email=bsmth%40example.com " is 51 characters but the Content-Length header says the content is 50 characters long.</p>
