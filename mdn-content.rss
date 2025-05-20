@@ -2,30 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-20T14:01:36.990Z</updated>
+    <updated>2025-05-20T15:01:33.556Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[chore(pwa): tidy up parent-child links]]></title>
-        <id>https://github.com/mdn/content/pull/39585</id>
-        <link href="https://github.com/mdn/content/pull/39585"/>
-        <updated>2025-05-20T13:48:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">This PR links to child pages when missing from parent.</p>
+        <title type="html"><![CDATA[added experimental release note for view transition api]]></title>
+        <id>https://github.com/mdn/content/pull/39588</id>
+        <link href="https://github.com/mdn/content/pull/39588"/>
+        <updated>2025-05-20T14:59:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/286386?u=bc4894b945491e0834d2306dade7fef748ddf698&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<ul dir="auto">
+<li>Added experimental release note for View transition API to:
+<ul dir="auto">
+<li>Experimental features</li>
+<li>Firefox 139 (experimental web sections)</li>
+</ul>
+</li>
+</ul>
 <h3 dir="auto">Motivation</h3>
-<p dir="auto">Cycling back to clean up some leftovers.</p>
+<ul dir="auto">
+<li>Working on <a href="https://github.com/mdn/content/issues/39305" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39305/hovercard">issue #39305</a></li>
+</ul>
 <h3 dir="auto">Related issues and pull requests</h3>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062348709" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39511" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39511/hovercard" href="https://github.com/mdn/content/pull/39511">#39511</a></li>
+<ul dir="auto">
+<li><a href="https://github.com/mdn/browser-compat-data/pull/26851" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26851/hovercard">BCD PR</a></li>
 </ul>]]></content>
         <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
+            <name>dletorey</name>
+            <email>dletorey@noreply.github.com</email>
+            <uri>https://github.com/dletorey</uri>
         </author>
-        <published>2025-05-20T12:29:14.000Z</published>
+        <published>2025-05-20T14:58:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[doc[sandbox]: remove `HTMLDialogElement.showModal` from `allow-popups`]]></title>
+        <id>https://github.com/mdn/content/pull/39586</id>
+        <link href="https://github.com/mdn/content/pull/39586"/>
+        <updated>2025-05-20T14:10:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55658154?u=72eb5d6b966bd3197516e3205b1e2f4962df3cc6&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Relates to <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3071706129" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39556" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39556/hovercard" href="https://github.com/mdn/content/pull/39556">#39556</a> and <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3076334443" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39580" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39580/hovercard" href="https://github.com/mdn/content/pull/39580">#39580</a></p>]]></content>
+        <author>
+            <name>samuel871211</name>
+            <email>samuel871211@noreply.github.com</email>
+            <uri>https://github.com/samuel871211</uri>
+        </author>
+        <published>2025-05-20T14:08:04.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Improves the explanation for the application-name metadata]]></title>
@@ -423,27 +445,5 @@ Questions inline</p>
             <uri>https://github.com/rebloor</uri>
         </author>
         <published>2025-05-14T10:23:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus docs]]></title>
-        <id>https://github.com/mdn/content/pull/39512</id>
-        <link href="https://github.com/mdn/content/pull/39512"/>
-        <updated>2025-05-15T00:23:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Provides the updates necessary for <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1550032" rel="nofollow">Bug 1550032</a> Change cookie API to explicitly support sameSite=none. Specifically:</p>
-<ul dir="auto">
-<li>That <code class="notranslate">unspecified</code> is now the default value for <code class="notranslate">sameSite</code> in <code class="notranslate">cookies.set()</code>.</li>
-</ul>
-<h3 dir="auto">Related issues and pull requests</h3>
-<ul dir="auto">
-<li>BCD changes made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062474205" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26795" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26795/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26795">mdn/browser-compat-data#26795</a>.</li>
-<li>Release note update made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062615757" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39513" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39513/hovercard" href="https://github.com/mdn/content/pull/39513">#39513</a></li>
-</ul>]]></content>
-        <author>
-            <name>rebloor</name>
-            <email>rebloor@noreply.github.com</email>
-            <uri>https://github.com/rebloor</uri>
-        </author>
-        <published>2025-05-14T09:55:20.000Z</published>
     </entry>
 </feed>

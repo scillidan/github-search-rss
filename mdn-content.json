@@ -6,14 +6,25 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR links to child pages when missing from parent.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">Cycling back to clean up some leftovers.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3062348709\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39511\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39511/hovercard\" href=\"https://github.com/mdn/content/pull/39511\">#39511</a></li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39585",
-            "title": "chore(pwa): tidy up parent-child links",
-            "date_modified": "2025-05-20T13:48:38.000Z",
-            "date_published": "2025-05-20T12:29:14.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/286386?u=bc4894b945491e0834d2306dade7fef748ddf698&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<ul dir=\"auto\">\n<li>Added experimental release note for View transition API to:\n<ul dir=\"auto\">\n<li>Experimental features</li>\n<li>Firefox 139 (experimental web sections)</li>\n</ul>\n</li>\n</ul>\n<h3 dir=\"auto\">Motivation</h3>\n<ul dir=\"auto\">\n<li>Working on <a href=\"https://github.com/mdn/content/issues/39305\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39305/hovercard\">issue #39305</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<ul dir=\"auto\">\n<li><a href=\"https://github.com/mdn/browser-compat-data/pull/26851\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26851/hovercard\">BCD PR</a></li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/39588",
+            "title": "added experimental release note for view transition api",
+            "date_modified": "2025-05-20T14:59:28.000Z",
+            "date_published": "2025-05-20T14:58:58.000Z",
             "author": {
-                "name": "bsmth",
-                "url": "https://github.com/bsmth"
+                "name": "dletorey",
+                "url": "https://github.com/dletorey"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55658154?u=72eb5d6b966bd3197516e3205b1e2f4962df3cc6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Relates to <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3071706129\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39556\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39556/hovercard\" href=\"https://github.com/mdn/content/pull/39556\">#39556</a> and <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3076334443\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39580\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39580/hovercard\" href=\"https://github.com/mdn/content/pull/39580\">#39580</a></p>",
+            "url": "https://github.com/mdn/content/pull/39586",
+            "title": "doc[sandbox]: remove `HTMLDialogElement.showModal` from `allow-popups`",
+            "date_modified": "2025-05-20T14:10:11.000Z",
+            "date_published": "2025-05-20T14:08:04.000Z",
+            "author": {
+                "name": "samuel871211",
+                "url": "https://github.com/samuel871211"
             }
         },
         {
@@ -209,17 +220,6 @@
             "title": "Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus release note",
             "date_modified": "2025-05-19T23:40:54.000Z",
             "date_published": "2025-05-14T10:23:00.000Z",
-            "author": {
-                "name": "rebloor",
-                "url": "https://github.com/rebloor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7352080?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Provides the updates necessary for <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1550032\" rel=\"nofollow\">Bug 1550032</a> Change cookie API to explicitly support sameSite=none. Specifically:</p>\n<ul dir=\"auto\">\n<li>That <code class=\"notranslate\">unspecified</code> is now the default value for <code class=\"notranslate\">sameSite</code> in <code class=\"notranslate\">cookies.set()</code>.</li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<ul dir=\"auto\">\n<li>BCD changes made in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3062474205\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26795\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26795/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/26795\">mdn/browser-compat-data#26795</a>.</li>\n<li>Release note update made in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3062615757\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39513\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39513/hovercard\" href=\"https://github.com/mdn/content/pull/39513\">#39513</a></li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39512",
-            "title": "Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus docs",
-            "date_modified": "2025-05-15T00:23:24.000Z",
-            "date_published": "2025-05-14T09:55:20.000Z",
             "author": {
                 "name": "rebloor",
                 "url": "https://github.com/rebloor"
