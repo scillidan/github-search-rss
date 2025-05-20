@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-20T12:01:50.287Z</updated>
+    <updated>2025-05-20T13:10:49.255Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[chore(pwa): tidy up parent-child links]]></title>
+        <id>https://github.com/mdn/content/pull/39585</id>
+        <link href="https://github.com/mdn/content/pull/39585"/>
+        <updated>2025-05-20T12:31:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">This PR links to child pages when missing from parent.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">Cycling back to clean up some leftovers.</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062348709" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39511" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39511/hovercard" href="https://github.com/mdn/content/pull/39511">#39511</a></li>
+</ul>]]></content>
+        <author>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
+        </author>
+        <published>2025-05-20T12:29:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improves the explanation for the application-name metadata]]></title>
         <id>https://github.com/mdn/content/pull/39584</id>
@@ -45,31 +65,6 @@
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-20T10:34:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update "Specifying a uniform font size for h1"]]></title>
-        <id>https://github.com/mdn/content/pull/39582</id>
-        <link href="https://github.com/mdn/content/pull/39582"/>
-        <updated>2025-05-20T09:58:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/244772?u=0c109a472bad24e5cf459b88d1e30c867fdbf53e&v=4" width="64" height="64" alt=""/><br/><p dir="auto">See <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2896918377" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/11102" data-hovercard-type="pull_request" data-hovercard-url="/whatwg/html/pull/11102/hovercard" href="https://github.com/whatwg/html/pull/11102">whatwg/html#11102</a></p>
-
-<h3 dir="auto">Description</h3>
-<p dir="auto">Update wording to reflect that the spec has been changed.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">Preparing to land the spec change. (This can be merged after the spec change has landed.)</p>
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>zcorpan</name>
-            <email>zcorpan@noreply.github.com</email>
-            <uri>https://github.com/zcorpan</uri>
-        </author>
-        <published>2025-05-20T09:56:15.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[doc[iframe]: remove `HTMLDialogElement.showModal` from `allow-popups`]]></title>
@@ -148,7 +143,7 @@
     <span class="pl-kos">&lt;/</span><span class="pl-ent">div</span><span class="pl-kos">&gt;</span>
   <span class="pl-kos">&lt;/</span><span class="pl-ent">body</span><span class="pl-kos">&gt;</span>
 <span class="pl-kos">&lt;/</span><span class="pl-ent">html</span><span class="pl-kos">&gt;</span></pre></div>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/55658154/445530299-cc5a280a-4b6b-4c76-b9a6-0585c2a47061.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3NDI4MTAsIm5iZiI6MTc0Nzc0MjUxMCwicGF0aCI6Ii81NTY1ODE1NC80NDU1MzAyOTktY2M1YTI4MGEtNGI2Yi00Yzc2LWI5YTYtMDU4NWMyYTQ3MDYxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIwVDEyMDE1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2MmVlMWFkOTRhYjdlMjQxYTljZGM4YTQwNjM4NDhjODNkNjI4YTg5NGYxODk1ODFkYjkzYTAyZDZmMGM0MjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._ioAbZE3peecy4BHK-Hr2xHl60cSz0d7cS_qi18WJjo"><img src="https://private-user-images.githubusercontent.com/55658154/445530299-cc5a280a-4b6b-4c76-b9a6-0585c2a47061.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3NDI4MTAsIm5iZiI6MTc0Nzc0MjUxMCwicGF0aCI6Ii81NTY1ODE1NC80NDU1MzAyOTktY2M1YTI4MGEtNGI2Yi00Yzc2LWI5YTYtMDU4NWMyYTQ3MDYxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIwVDEyMDE1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2MmVlMWFkOTRhYjdlMjQxYTljZGM4YTQwNjM4NDhjODNkNjI4YTg5NGYxODk1ODFkYjkzYTAyZDZmMGM0MjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._ioAbZE3peecy4BHK-Hr2xHl60cSz0d7cS_qi18WJjo" alt="1747732820158@2x" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/55658154/445530299-cc5a280a-4b6b-4c76-b9a6-0585c2a47061.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3NDY5NDksIm5iZiI6MTc0Nzc0NjY0OSwicGF0aCI6Ii81NTY1ODE1NC80NDU1MzAyOTktY2M1YTI4MGEtNGI2Yi00Yzc2LWI5YTYtMDU4NWMyYTQ3MDYxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIwVDEzMTA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyZDFiODJhNzM1MjUzMDI1YjAwNDUwMWJmNzM3NjZlODljNWU1ODI0NjlmODMxYTJkZGRkMDJlNjZhYjM2YjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S8ui3CbGFsfCo4agbO2qUIcV0cTvAXcjmAWFtcuw6FA"><img src="https://private-user-images.githubusercontent.com/55658154/445530299-cc5a280a-4b6b-4c76-b9a6-0585c2a47061.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3NDY5NDksIm5iZiI6MTc0Nzc0NjY0OSwicGF0aCI6Ii81NTY1ODE1NC80NDU1MzAyOTktY2M1YTI4MGEtNGI2Yi00Yzc2LWI5YTYtMDU4NWMyYTQ3MDYxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIwVDEzMTA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyZDFiODJhNzM1MjUzMDI1YjAwNDUwMWJmNzM3NjZlODljNWU1ODI0NjlmODMxYTJkZGRkMDJlNjZhYjM2YjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S8ui3CbGFsfCo4agbO2qUIcV0cTvAXcjmAWFtcuw6FA" alt="1747732820158@2x" style="max-width: 100%;"></a></p>
 <h3 dir="auto">Additional details</h3>
 <p dir="auto"><a href="https://html.spec.whatwg.org/multipage/browsers.html#sandboxed-auxiliary-navigation-browsing-context-flag" rel="nofollow">https://html.spec.whatwg.org/multipage/browsers.html#sandboxed-auxiliary-navigation-browsing-context-flag</a></p>
 <h3 dir="auto">Related issues and pull requests</h3>
