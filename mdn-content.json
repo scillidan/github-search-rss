@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Our initial set of Scrimba link additions to the MDN Learn Web Development section was fairly successful, so this PR adds a second set of links as an experiment.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39577",
             "title": "Add 2nd round of Scrimba links to the Learn content",
-            "date_modified": "2025-05-19T16:59:54.000Z",
+            "date_modified": "2025-05-20T00:34:05.000Z",
             "date_published": "2025-05-19T16:57:51.000Z",
             "author": {
                 "name": "chrisdavidmills",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45960703?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Remove documentation about the obsolete HTTP header <code class=\"notranslate\">Permissions-Policy</code> directive <code class=\"notranslate\">document-domain</code>.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Permissions-Policy directive <code class=\"notranslate\">document-domain</code> was removed from spec[1]. It was only ever implemented in Chromium behind a flag, never enabled by default and was removed entirely in Chromium 110[2].</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">[1] <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1463420649\" data-permission-text=\"Title is private\" data-url=\"https://github.com/whatwg/html/issues/8549\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/whatwg/html/pull/8549/hovercard\" href=\"https://github.com/whatwg/html/pull/8549\">whatwg/html#8549</a><br>\n[2] <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/chromium/chromium/commit/09ae39cb337e46a2f97a763e57986154b8af91eb/hovercard\" href=\"https://github.com/chromium/chromium/commit/09ae39cb337e46a2f97a763e57986154b8af91eb\">chromium/chromium@<tt>09ae39c</tt></a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<ul dir=\"auto\">\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1475663372\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/22732\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/22732/hovercard\" href=\"https://github.com/mdn/content/issues/22732\">#22732</a></li>\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3073899546\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26836\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26836/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/26836\">mdn/browser-compat-data#26836</a></li>\n</ul>\n",
             "url": "https://github.com/mdn/content/pull/39575",
             "title": "[HTTP] Remove Permissions-Policy directive document-domain",
-            "date_modified": "2025-05-19T13:41:23.000Z",
+            "date_modified": "2025-05-20T00:19:09.000Z",
             "date_published": "2025-05-19T13:39:18.000Z",
             "author": {
                 "name": "bershanskiy",
@@ -58,17 +58,6 @@
             "author": {
                 "name": "EbereUzodufa",
                 "url": "https://github.com/EbereUzodufa"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF139 adds support for WebAuthn Extnensions largeBlob, credProps, prf. This adds the release note.</p>\n<p dir=\"auto\">Note this will show a broken link for the prf extension, which is being added in a different doc.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3024518451\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39302\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39302/hovercard\" href=\"https://github.com/mdn/content/issues/39302\">#39302</a></p>",
-            "url": "https://github.com/mdn/content/pull/39572",
-            "title": "FF139 Relnote: WebAuthn Extn largeBlob, credProps, prf",
-            "date_modified": "2025-05-19T07:20:35.000Z",
-            "date_published": "2025-05-19T06:59:31.000Z",
-            "author": {
-                "name": "hamishwillee",
-                "url": "https://github.com/hamishwillee"
             }
         },
         {
@@ -223,6 +212,17 @@
             "author": {
                 "name": "js-choi",
                 "url": "https://github.com/js-choi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">And manipulate the array directly.</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">There was no example for manipulating the array directly without converting the whole array to a string first.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39479",
+            "title": "Add an example to search for multi-byte pattern in an array",
+            "date_modified": "2025-05-20T00:12:55.000Z",
+            "date_published": "2025-05-11T18:31:10.000Z",
+            "author": {
+                "name": "def00111",
+                "url": "https://github.com/def00111"
             }
         }
     ]
