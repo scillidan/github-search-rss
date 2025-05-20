@@ -6,17 +6,6 @@
     "description": "mdn/browser-compat-data update data on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1152698?u=5ce323090a48b425ec70128365c96809699959f7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">The Safari bug which tracks full support of the <code class=\"notranslate\">:marker</code> pseudo is already mentioned in the notes, but having it in the <code class=\"notranslate\">impl_url</code> field makes it better for scripts which use the data.</p>\n<h4 dir=\"auto\">Test results and supporting details</h4>\n<p dir=\"auto\">See <a href=\"https://bugs.webkit.org/show_bug.cgi?id=204163\" rel=\"nofollow\">https://bugs.webkit.org/show_bug.cgi?id=204163</a></p>",
-            "url": "https://github.com/mdn/browser-compat-data/pull/26852",
-            "title": "Add impl_url for safari's full support of ::marker",
-            "date_modified": "2025-05-20T14:59:06.000Z",
-            "date_published": "2025-05-20T14:40:40.000Z",
-            "author": {
-                "name": "captainbrosset",
-                "url": "https://github.com/captainbrosset"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/286386?u=bc4894b945491e0834d2306dade7fef748ddf698&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h4 dir=\"auto\">Summary</h4>\n<ul dir=\"auto\">\n<li>Added <code class=\"notranslate\">view-transition</code> support for Firefox nightly</li>\n<li>Only works for parts and only for SPA (Single Page Applications) and not cross-document</li>\n</ul>\n<h4 dir=\"auto\">Test results and supporting details</h4>\n<ul dir=\"auto\">\n<li>Tested with the following:\n<ul dir=\"auto\">\n<li><a href=\"https://view-transitions.chrome.dev/\" rel=\"nofollow\">https://view-transitions.chrome.dev/</a></li>\n<li><a href=\"https://codepen.io/CodeRedDigital/pen/WbbBRJr?editors=0011\" rel=\"nofollow\">https://codepen.io/CodeRedDigital/pen/WbbBRJr?editors=0011</a></li>\n</ul>\n</li>\n</ul>\n<h4 dir=\"auto\">Related issues</h4>\n<ul dir=\"auto\">\n<li><a href=\"https://github.com/mdn/content/issues/39305\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39305/hovercard\">Mozilla MDN Issue #39305</a></li>\n<li><a href=\"https://github.com/mdn/content/pull/39593\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39593/hovercard\">Content PR</a></li>\n<li><a href=\"https://github.com/mdn/content/pull/39588\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39588/hovercard\">Firefox Release Note PR</a></li>\n</ul>",
             "url": "https://github.com/mdn/browser-compat-data/pull/26851",
             "title": "added nightly support for SPA view-transitions",
