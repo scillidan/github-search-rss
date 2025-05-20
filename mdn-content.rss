@@ -2,11 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-20T16:01:35.362Z</updated>
+    <updated>2025-05-20T17:01:27.175Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Record Safari 18.4+ support for Opus in Ogg containers]]></title>
+        <id>https://github.com/mdn/content/pull/39592</id>
+        <link href="https://github.com/mdn/content/pull/39592"/>
+        <updated>2025-05-20T16:35:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46565?u=4899240c775ecf60df7fbf978bb290e63f11f5cc&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Confirm support for Opus and Vorbis in Ogg containers on Safari 18.4+</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">People providing audio content on the web want to know what formats they must support.</p>
+<h3 dir="auto">Additional details</h3>
+<ul dir="auto">
+<li><a href="https://webkit.org/blog/16574/webkit-features-in-safari-18-4/" rel="nofollow">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></li>
+</ul>]]></content>
+        <author>
+            <name>acdha</name>
+            <email>acdha@noreply.github.com</email>
+            <uri>https://github.com/acdha</uri>
+        </author>
+        <published>2025-05-20T16:30:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[docs(Fx139): Refresh hidden until found, beforematch]]></title>
+        <id>https://github.com/mdn/content/pull/39591</id>
+        <link href="https://github.com/mdn/content/pull/39591"/>
+        <updated>2025-05-20T16:20:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Taking the chance to refresh pages for <code class="notranslate">hidden="until-found"</code> and <code class="notranslate">beforematch</code></p>
+<h3 dir="auto">Bugs</h3>
+<ul dir="auto">
+<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1761043" rel="nofollow">Implement hidden=until-found attribute and beforematch event</a></li>
+<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1955379" rel="nofollow">Enable about:config pref 'dom.hidden_until_found.enabled'</a></li>
+</ul>
+<h3 dir="auto">Related issues and pull requests</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Parent issue <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024530673" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39306" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39306/hovercard" href="https://github.com/mdn/content/issues/39306">#39306</a></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Relnote <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3077483979" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39590" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39590/hovercard" href="https://github.com/mdn/content/pull/39590">#39590</a></li>
+</ul>]]></content>
+        <author>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
+        </author>
+        <published>2025-05-20T16:18:40.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[docs(Fx139): Add relnote for hidden until found, beforematch]]></title>
         <id>https://github.com/mdn/content/pull/39590</id>
@@ -394,60 +438,5 @@ Questions inline</p>
             <uri>https://github.com/Josh-Cena</uri>
         </author>
         <published>2025-05-16T12:35:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Web API Response: status property: add '0' status value]]></title>
-        <id>https://github.com/mdn/content/pull/39533</id>
-        <link href="https://github.com/mdn/content/pull/39533"/>
-        <updated>2025-05-15T16:54:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1066395?u=a0c87afc953571ad39a42971252b3dd5d2c00934&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Add status '0' to response values for fetch API response.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">A 0 response can be seen in addition to the HTTP response status codes indicated.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto">Fetch standard references included in update.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>chrisveness</name>
-            <email>chrisveness@noreply.github.com</email>
-            <uri>https://github.com/chrisveness</uri>
-        </author>
-        <published>2025-05-15T12:38:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technical review: Document CSS if() function]]></title>
-        <id>https://github.com/mdn/content/pull/39516</id>
-        <link href="https://github.com/mdn/content/pull/39516"/>
-        <updated>2025-05-16T09:21:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Chrome supports the CSS <a href="https://drafts.csswg.org/css-values-5/#if-notation" rel="nofollow"><code class="notranslate">if()</code></a> function from version 137. See <a href="https://chromestatus.com/feature/6313805904347136" rel="nofollow">https://chromestatus.com/feature/6313805904347136</a>.</p>
-<p dir="auto">This PR documents the new function. Specifically, it:</p>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Adds an <code class="notranslate">if()</code> reference page (nearly done, just needs examples)</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="">  Adds <code class="notranslate">if()</code> to the CSS values and units module page</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Adds <code class="notranslate">if()</code> to the CSS value functions ref page.</li>
-</ul>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>chrisdavidmills</name>
-            <email>chrisdavidmills@noreply.github.com</email>
-            <uri>https://github.com/chrisdavidmills</uri>
-        </author>
-        <published>2025-05-14T13:32:56.000Z</published>
     </entry>
 </feed>

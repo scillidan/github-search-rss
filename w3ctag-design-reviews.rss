@@ -2,11 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss</id>
     <title>w3ctag/design-reviews Design Issues</title>
-    <updated>2025-05-20T16:01:28.766Z</updated>
+    <updated>2025-05-20T17:01:21.075Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss"/>
     <subtitle>w3ctag/design-reviews Design Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Browser Bound Keys for Secure Payment Confirmation]]></title>
+        <id>https://github.com/w3ctag/design-reviews/issues/1097</id>
+        <link href="https://github.com/w3ctag/design-reviews/issues/1097"/>
+        <updated>2025-05-20T16:18:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/520292?u=ce578f5188387f0f5c5dc3b9c39c966ddc839798&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Zdravo TAG!</p>
+<p dir="auto">I'm requesting a TAG review of Browser Bound Keys, a change to Secure Payment Confirmation (<a href="https://github.com/w3ctag/design-reviews/issues/802" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/802/hovercard">802</a>, <a href="https://github.com/w3ctag/design-reviews/issues/763" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/763/hovercard">763</a>, <a href="https://github.com/w3ctag/design-reviews/issues/675" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/675/hovercard">675</a>, <a href="https://github.com/w3ctag/design-reviews/issues/544" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/544/hovercard">544</a>).</p>
+<p dir="auto">Add device-binding-like capabilities, in the form of browser bound keys (BBKs), to Secure Payment Confirmation without relying on WebAuthn (at either the client or authenticator level)</p>
+<ul dir="auto">
+<li>Explainer¹: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2312825480" data-permission-text="Title is private" data-url="https://github.com/w3c/secure-payment-confirmation/issues/271" data-hovercard-type="issue" data-hovercard-url="/w3c/secure-payment-confirmation/issues/271/hovercard" href="https://github.com/w3c/secure-payment-confirmation/issues/271">w3c/secure-payment-confirmation#271</a></li>
+<li>Specification: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2925134185" data-permission-text="Title is private" data-url="https://github.com/w3c/secure-payment-confirmation/issues/286" data-hovercard-type="pull_request" data-hovercard-url="/w3c/secure-payment-confirmation/pull/286/hovercard" href="https://github.com/w3c/secure-payment-confirmation/pull/286">w3c/secure-payment-confirmation#286</a>, <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3077009254" data-permission-text="Title is private" data-url="https://github.com/w3c/secure-payment-confirmation/issues/296" data-hovercard-type="pull_request" data-hovercard-url="/w3c/secure-payment-confirmation/pull/296/hovercard" href="https://github.com/w3c/secure-payment-confirmation/pull/296">w3c/secure-payment-confirmation#296</a></li>
+<li>WPT Tests: feasibility depends on whether user agents are permitted to support “software” keys</li>
+<li>User research: none</li>
+<li>Security and Privacy self-review²: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3077310680" data-permission-text="Title is private" data-url="https://github.com/w3c/secure-payment-confirmation/issues/297" data-hovercard-type="pull_request" data-hovercard-url="/w3c/secure-payment-confirmation/pull/297/hovercard" href="https://github.com/w3c/secure-payment-confirmation/pull/297">w3c/secure-payment-confirmation#297</a></li>
+<li>GitHub repo: <a href="https://github.com/w3c/secure-payment-confirmation">https://github.com/w3c/secure-payment-confirmation</a></li>
+<li>Primary contacts:
+<ul dir="auto">
+<li>Slobodan Pejic (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/pejic/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/pejic">@pejic</a>), Google, Spec Change Editor &amp; Implementor</li>
+<li>Stephen McGruer (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/stephenmcgruer/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/stephenmcgruer">@stephenmcgruer</a>), Google, Spec Editor</li>
+</ul>
+</li>
+<li>Organization/project driving the specification: Chromium</li>
+<li>This work is being funded by: Google</li>
+<li>Primary standards group developing this feature: Web Payments Working Group</li>
+<li>Group intended to standardize this work:</li>
+<li>Incubation and standards groups that have discussed the design:
+<ul dir="auto">
+<li>Web Payments Working Group: E.g. <a href="https://www.w3.org/2025/04/24-wpwg-minutes.html" rel="nofollow">2025-04-24 Minutes</a>, <a href="https://www.w3.org/2025/05/08-wpwg-minutes.html" rel="nofollow">2025-05-08 Minutes</a></li>
+</ul>
+</li>
+<li>Multi-stakeholder support³:
+<ul dir="auto">
+<li>Chromium comments:</li>
+<li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="978123557" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/570" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/570/hovercard" href="https://github.com/mozilla/standards-positions/issues/570">mozilla/standards-positions#570</a></li>
+<li>WebKit comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1296772237" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/30" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/30/hovercard" href="https://github.com/WebKit/standards-positions/issues/30">WebKit/standards-positions#30</a></li>
+</ul>
+</li>
+<li>Major unresolved issues with or opposition to this specification:
+<ul dir="auto">
+<li>“Software” key support: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2980177198" data-permission-text="Title is private" data-url="https://github.com/w3c/secure-payment-confirmation/issues/288" data-hovercard-type="issue" data-hovercard-url="/w3c/secure-payment-confirmation/issues/288/hovercard" href="https://github.com/w3c/secure-payment-confirmation/issues/288">w3c/secure-payment-confirmation#288</a></li>
+<li>Whether key storage attestation would be included: <a href="https://www.w3.org/2024/10/10-wpwg-minutes" rel="nofollow">2024-10-10 Minutes</a></li>
+</ul>
+</li>
+<li>Status/issue trackers for implementations⁴: <a href="https://chromestatus.com/feature/5106102997614592" rel="nofollow">https://chromestatus.com/feature/5106102997614592</a></li>
+</ul>
+<p dir="auto">Further details:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
+<li>Previous early design review, if any:
+<ul dir="auto">
+<li>None for browser bound keys. See above for Secure Payment Confirmation reviews.</li>
+</ul>
+</li>
+<li>Relevant time constraints or deadlines:</li>
+</ul>]]></content>
+        <author>
+            <name>pejic</name>
+            <email>pejic@noreply.github.com</email>
+            <uri>https://github.com/pejic</uri>
+        </author>
+        <published>2025-05-20T16:18:06.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WebRTC Encoded Transform  Audio Level]]></title>
         <id>https://github.com/w3ctag/design-reviews/issues/1096</id>
@@ -1169,62 +1231,5 @@ ready: WICG</p>
             <uri>https://github.com/Dp-Goog</uri>
         </author>
         <published>2025-04-02T20:30:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review request for AriaNotify API]]></title>
-        <id>https://github.com/w3ctag/design-reviews/issues/1075</id>
-        <link href="https://github.com/w3ctag/design-reviews/issues/1075"/>
-        <updated>2025-04-10T13:28:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/200289148?v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
-<p dir="auto">I'm requesting a TAG review of the AriaNotify API.</p>
-<p dir="auto">A new API, AriaNotify, enables content authors to directly tell a screen reader what to read. Without AriaNotify, ARIA live regions are the only mechanism available today that communicate content changes down to the accessibility layer so that users can hear about them. ARIA live regions are stretched far beyond their original use cases as authors struggle to use them in scenarios that they weren't designed for. AriaNotify is purpose-built to communicate to the accessibility layer for scenarios in which ARIA live regions are a poor choice. In the simplest scenario, the content author calls ariaNotify with a string to read.</p>
-<ul dir="auto">
-<li>Explainer¹: <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/Accessibility/AriaNotify/explainer.md">https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/Accessibility/AriaNotify/explainer.md</a></li>
-<li>Specification: <a href="https://deploy-preview-2211--wai-aria.netlify.app/core-aam/#arianotifymixin-map-arianotify" rel="nofollow">https://deploy-preview-2211--wai-aria.netlify.app/core-aam/#arianotifymixin-map-arianotify</a></li>
-<li>WPT Tests:</li>
-<li>User research: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="374377138" data-permission-text="Title is private" data-url="https://github.com/w3c/aria/issues/832" data-hovercard-type="issue" data-hovercard-url="/w3c/aria/issues/832/hovercard" href="https://github.com/w3c/aria/issues/832">w3c/aria#832</a></li>
-<li>Security and Privacy self-review²: <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/Accessibility/AriaNotify/explainer.md#privacy--security-considerations">https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/Accessibility/AriaNotify/explainer.md#privacy--security-considerations</a></li>
-<li>GitHub repo: <a href="https://github.com/w3c/aria">https://github.com/w3c/aria</a></li>
-<li>Primary contacts:
-<ul dir="auto">
-<li>Evelynn Kaplan (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/evelynn-kaplan/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/evelynn-kaplan">@evelynn-kaplan</a>), Microsoft</li>
-<li>Alison Maher (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alisonmaher/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alisonmaher">@alisonmaher</a>), Microsoft</li>
-<li>Keith Cirkel (<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/keithamus/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/keithamus">@keithamus</a>), GitHub, Spec author</li>
-</ul>
-</li>
-<li>Organization/project driving the specification: Microsoft, Google, Chrome, GitHub</li>
-<li>This work is being funded by: Microsoft, GitHub</li>
-<li>Primary standards group developing this feature: ARIA WG</li>
-<li>Incubation and standards groups that have discussed the design:
-<ul dir="auto">
-<li><a href="https://github.com/w3c/aria/issues?q=arianotify%20">ARIA WG</a></li>
-<li><a href="https://github.com/whatwg/html/issues/11004" data-hovercard-type="issue" data-hovercard-url="/whatwg/html/issues/11004/hovercard">WHATWG</a></li>
-</ul>
-</li>
-<li>Multi-stakeholder support³:
-<ul dir="auto">
-<li>Chromium comments: Supportive/driving</li>
-<li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2384194317" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1049" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1049/hovercard" href="https://github.com/mozilla/standards-positions/issues/1049">mozilla/standards-positions#1049</a></li>
-<li>WebKit comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2384197084" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/370" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/370/hovercard" href="https://github.com/WebKit/standards-positions/issues/370">WebKit/standards-positions#370</a></li>
-</ul>
-</li>
-<li>Status/issue trackers for implementations⁴: <a href="https://chromestatus.com/feature/5745430754230272" rel="nofollow">https://chromestatus.com/feature/5745430754230272</a></li>
-</ul>
-<p dir="auto">Further details:</p>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
-<li>Previous early design review, if any: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1121326844" data-permission-text="Title is private" data-url="https://github.com/w3ctag/design-reviews/issues/713" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/713/hovercard" href="https://github.com/w3ctag/design-reviews/issues/713">#713</a></li>
-<li>Relevant time constraints or deadlines:</li>
-</ul>
-<p dir="auto">You should also know that...</p>
-<p dir="auto">We plan to add a permissions-policy that would allow authors to opt iframes out of AriaNotify. We are working on the implementation and draft spec but it is not yet finished. The relevant WHAT WG discussion is here: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2834192046" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/11004" data-hovercard-type="issue" data-hovercard-url="/whatwg/html/issues/11004/hovercard" href="https://github.com/whatwg/html/issues/11004">whatwg/html#11004</a></p>
-<p dir="auto">Please let us know if the permissions-policy should be requested as part of a separate TAG review, or accepted as part of this one.</p>
-]]></content>
-        <author>
-            <name>evelynn-kaplan</name>
-            <email>evelynn-kaplan@noreply.github.com</email>
-            <uri>https://github.com/evelynn-kaplan</uri>
-        </author>
-        <published>2025-03-31T23:33:53.000Z</published>
     </entry>
 </feed>
