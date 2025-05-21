@@ -2,11 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-21T11:01:29.211Z</updated>
+    <updated>2025-05-21T12:01:53.594Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Fx139: Firefox/139 release notes]]></title>
+        <id>https://github.com/mdn/content/pull/39600</id>
+        <link href="https://github.com/mdn/content/pull/39600"/>
+        <updated>2025-05-21T11:14:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Opening a PR to get previews rolling for the 139 branch</p>]]></content>
+        <author>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
+        </author>
+        <published>2025-05-21T11:12:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebDriver conformance changes for Firefox 139]]></title>
+        <id>https://github.com/mdn/content/pull/39599</id>
+        <link href="https://github.com/mdn/content/pull/39599"/>
+        <updated>2025-05-21T11:18:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129603?v=4" width="64" height="64" alt=""/><br/><p dir="auto">This adds the <a href="https://bugzilla.mozilla.org/buglist.cgi?list_id=16664529&amp;v1=fixed&amp;resolution=FIXED&amp;f2=cf_status_firefox138&amp;query_format=advanced&amp;o1=equals&amp;f1=cf_status_firefox139&amp;o2=notequals&amp;status_whiteboard=%5Bwebdriver%3Arelnote%5D&amp;columnlist=component%2Cresolution%2Cassigned_to%2Cshort_desc%2Cbug_type%2Cstatus_whiteboard&amp;status_whiteboard_type=substring&amp;v2=fixed" rel="nofollow">release notes worthy items</a> for WebDriver to the Firefox 139 release notes.</p>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/lutien/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/lutien">@lutien</a> and <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/juliandescottes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/juliandescottes">@juliandescottes</a> can you please take a look?</p>]]></content>
+        <author>
+            <name>whimboo</name>
+            <email>whimboo@noreply.github.com</email>
+            <uri>https://github.com/whimboo</uri>
+        </author>
+        <published>2025-05-21T11:05:57.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remove unnecessary pseudo-namespace declarations.]]></title>
         <id>https://github.com/mdn/content/pull/39598</id>
@@ -77,30 +104,6 @@
             <uri>https://github.com/acdha</uri>
         </author>
         <published>2025-05-20T16:30:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[docs(Fx139): Refresh hidden until found, beforematch]]></title>
-        <id>https://github.com/mdn/content/pull/39591</id>
-        <link href="https://github.com/mdn/content/pull/39591"/>
-        <updated>2025-05-21T11:00:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Taking the chance to refresh pages for <code class="notranslate">hidden="until-found"</code> and <code class="notranslate">beforematch</code></p>
-<h3 dir="auto">Bugs</h3>
-<ul dir="auto">
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1761043" rel="nofollow">Implement hidden=until-found attribute and beforematch event</a></li>
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1955379" rel="nofollow">Enable about:config pref 'dom.hidden_until_found.enabled'</a></li>
-</ul>
-<h3 dir="auto">Related issues and pull requests</h3>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Parent issue <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024530673" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39306" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39306/hovercard" href="https://github.com/mdn/content/issues/39306">#39306</a></li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Relnote <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3077483979" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39590" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39590/hovercard" href="https://github.com/mdn/content/pull/39590">#39590</a></li>
-</ul>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-20T16:18:40.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[doc[sandbox]: remove `HTMLDialogElement.showModal` from `allow-popups`]]></title>
@@ -401,39 +404,5 @@ Questions inline</p>
             <uri>https://github.com/janbrasna</uri>
         </author>
         <published>2025-05-13T15:22:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[doc: add explanation for multiple `Transfer-Encoding` values]]></title>
-        <id>https://github.com/mdn/content/pull/39496</id>
-        <link href="https://github.com/mdn/content/pull/39496"/>
-        <updated>2025-05-19T00:21:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55658154?u=72eb5d6b966bd3197516e3205b1e2f4962df3cc6&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">Currently, the MDN document doesn't explain the meaning of multiple values of <code class="notranslate">Transfer-Encoding</code>.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto"><a href="https://datatracker.ietf.org/doc/html/rfc9112#section-6.1-6" rel="nofollow">https://datatracker.ietf.org/doc/html/rfc9112#section-6.1-6</a></p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="For example,
-
-Transfer-Encoding: gzip, chunked
-
-indicates that the content has been compressed using the gzip coding and then chunked using the chunked coding while forming the message body."><pre class="notranslate"><code class="notranslate">For example,
-
-Transfer-Encoding: gzip, chunked
-
-indicates that the content has been compressed using the gzip coding and then chunked using the chunked coding while forming the message body.
-</code></pre></div>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>samuel871211</name>
-            <email>samuel871211@noreply.github.com</email>
-            <uri>https://github.com/samuel871211</uri>
-        </author>
-        <published>2025-05-13T07:43:58.000Z</published>
     </entry>
 </feed>
