@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Add a page on Manipulator in the Middle attacks.</p>",
+            "url": "https://github.com/mdn/content/pull/39604",
+            "title": "Add MITM guide",
+            "date_modified": "2025-05-21T19:03:21.000Z",
+            "date_published": "2025-05-21T19:01:27.000Z",
+            "author": {
+                "name": "wbamberg",
+                "url": "https://github.com/wbamberg"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Opening a PR to get previews rolling for the 139 branch</p>",
             "url": "https://github.com/mdn/content/pull/39600",
             "title": "Fx139: Firefox/139 release notes",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "rebloor",
                 "url": "https://github.com/rebloor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1784648?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Replaces the room link with its canonical version.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">The current \"internal\" ID doesn't offer a good expectation where does it lead eventually.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">Extra metadata hinting at instances being used when creating this room reference are also removed, as they are not relevant for anyone besides the original user creating said link.</p>",
-            "url": "https://github.com/mdn/content/pull/39502",
-            "title": "Clean up #addons:mozilla.org room Matrix link",
-            "date_modified": "2025-05-13T15:25:20.000Z",
-            "date_published": "2025-05-13T15:22:43.000Z",
-            "author": {
-                "name": "janbrasna",
-                "url": "https://github.com/janbrasna"
             }
         }
     ]

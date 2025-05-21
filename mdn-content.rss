@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-21T19:01:23.776Z</updated>
+    <updated>2025-05-21T20:01:29.647Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add MITM guide]]></title>
+        <id>https://github.com/mdn/content/pull/39604</id>
+        <link href="https://github.com/mdn/content/pull/39604"/>
+        <updated>2025-05-21T19:03:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Add a page on Manipulator in the Middle attacks.</p>]]></content>
+        <author>
+            <name>wbamberg</name>
+            <email>wbamberg@noreply.github.com</email>
+            <uri>https://github.com/wbamberg</uri>
+        </author>
+        <published>2025-05-21T19:01:27.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fx139: Firefox/139 release notes]]></title>
         <id>https://github.com/mdn/content/pull/39600</id>
@@ -386,23 +399,5 @@ Questions inline</p>
             <uri>https://github.com/rebloor</uri>
         </author>
         <published>2025-05-14T09:55:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
-        <id>https://github.com/mdn/content/pull/39502</id>
-        <link href="https://github.com/mdn/content/pull/39502"/>
-        <updated>2025-05-13T15:25:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1784648?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Replaces the room link with its canonical version.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">The current "internal" ID doesn't offer a good expectation where does it lead eventually.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto">Extra metadata hinting at instances being used when creating this room reference are also removed, as they are not relevant for anyone besides the original user creating said link.</p>]]></content>
-        <author>
-            <name>janbrasna</name>
-            <email>janbrasna@noreply.github.com</email>
-            <uri>https://github.com/janbrasna</uri>
-        </author>
-        <published>2025-05-13T15:22:43.000Z</published>
     </entry>
 </feed>
