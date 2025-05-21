@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-21T12:01:53.594Z</updated>
+    <updated>2025-05-21T13:10:16.721Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add machine-translated locales to Localization page]]></title>
+        <id>https://github.com/mdn/content/pull/39602</id>
+        <link href="https://github.com/mdn/content/pull/39602"/>
+        <updated>2025-05-21T12:46:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Adds a new section "Machine-translated locales" to the "MDN Web Docs localization" page, mention the experimental German and Italian locales.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">Make it easier to discover where to discuss these locales, and how to reach out to the maintainers.</p>
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>caugner</name>
+            <email>caugner@noreply.github.com</email>
+            <uri>https://github.com/caugner</uri>
+        </author>
+        <published>2025-05-21T12:44:29.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fx139: Firefox/139 release notes]]></title>
         <id>https://github.com/mdn/content/pull/39600</id>
@@ -319,7 +343,7 @@ Questions inline</p>
         <title type="html"><![CDATA[Technical review: Document CSS if() function]]></title>
         <id>https://github.com/mdn/content/pull/39516</id>
         <link href="https://github.com/mdn/content/pull/39516"/>
-        <updated>2025-05-16T09:21:16.000Z</updated>
+        <updated>2025-05-21T12:12:32.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">Chrome supports the CSS <a href="https://drafts.csswg.org/css-values-5/#if-notation" rel="nofollow"><code class="notranslate">if()</code></a> function from version 137. See <a href="https://chromestatus.com/feature/6313805904347136" rel="nofollow">https://chromestatus.com/feature/6313805904347136</a>.</p>
@@ -386,23 +410,5 @@ Questions inline</p>
             <uri>https://github.com/rebloor</uri>
         </author>
         <published>2025-05-14T09:55:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
-        <id>https://github.com/mdn/content/pull/39502</id>
-        <link href="https://github.com/mdn/content/pull/39502"/>
-        <updated>2025-05-13T15:25:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1784648?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Replaces the room link with its canonical version.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">The current "internal" ID doesn't offer a good expectation where does it lead eventually.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto">Extra metadata hinting at instances being used when creating this room reference are also removed, as they are not relevant for anyone besides the original user creating said link.</p>]]></content>
-        <author>
-            <name>janbrasna</name>
-            <email>janbrasna@noreply.github.com</email>
-            <uri>https://github.com/janbrasna</uri>
-        </author>
-        <published>2025-05-13T15:22:43.000Z</published>
     </entry>
 </feed>
