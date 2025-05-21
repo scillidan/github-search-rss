@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-21T04:02:29.856Z</updated>
+    <updated>2025-05-21T05:01:22.097Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -353,30 +353,6 @@ Questions inline</p>
         <published>2025-05-19T05:23:06.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DataTransfer.files can also be accessed with paste event]]></title>
-        <id>https://github.com/mdn/content/pull/39565</id>
-        <link href="https://github.com/mdn/content/pull/39565"/>
-        <updated>2025-05-21T04:02:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66742341?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Fixed the datatransfer: files page according to issue <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3017738405" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39267" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39267/hovercard" href="https://github.com/mdn/content/issues/39267">#39267</a> wherein the fact that it is accessible from the paste event too was not included in the notes section of the documentation</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">I have used the MDN web docs a lot when i am stuck and so wanted to give back by helping fix an issue i can easily fix</p>
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39267.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3017738405" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39267" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39267/hovercard" href="https://github.com/mdn/content/issues/39267">#39267</a></p>
-
-
-]]></content>
-        <author>
-            <name>Masterlincs</name>
-            <email>Masterlincs@noreply.github.com</email>
-            <uri>https://github.com/Masterlincs</uri>
-        </author>
-        <published>2025-05-19T00:08:29.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Match Example "Content-Length" header to body length]]></title>
         <id>https://github.com/mdn/content/pull/39555</id>
         <link href="https://github.com/mdn/content/pull/39555"/>
@@ -428,5 +404,29 @@ Questions inline</p>
             <uri>https://github.com/Josh-Cena</uri>
         </author>
         <published>2025-05-16T12:35:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Web API Response: status property: add '0' status value]]></title>
+        <id>https://github.com/mdn/content/pull/39533</id>
+        <link href="https://github.com/mdn/content/pull/39533"/>
+        <updated>2025-05-15T16:54:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1066395?u=a0c87afc953571ad39a42971252b3dd5d2c00934&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Add status '0' to response values for fetch API response.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">A 0 response can be seen in addition to the HTTP response status codes indicated.</p>
+<h3 dir="auto">Additional details</h3>
+<p dir="auto">Fetch standard references included in update.</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisveness</name>
+            <email>chrisveness@noreply.github.com</email>
+            <uri>https://github.com/chrisveness</uri>
+        </author>
+        <published>2025-05-15T12:38:14.000Z</published>
     </entry>
 </feed>
