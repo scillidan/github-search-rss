@@ -6,17 +6,6 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/84062528?u=3243653c2e5209052e4bb509e47b957782eb21f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39595",
-            "title": "align with the usage in WebAssembly.instantiateStreaming() article",
-            "date_modified": "2025-05-21T02:48:34.000Z",
-            "date_published": "2025-05-21T02:46:42.000Z",
-            "author": {
-                "name": "familyboat",
-                "url": "https://github.com/familyboat"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The entry for <code class=\"notranslate\">credentials</code> in <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Request\" rel=\"nofollow\">https://developer.mozilla.org/en-US/docs/Web/API/Request</a> is wrong - it doesn't contain credentials, it contains an option for how credentials are handled.</p>",
             "url": "https://github.com/mdn/content/pull/39594",
             "title": "Correct the description of credentials in the Request interface page",
@@ -152,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The docs are explicit about ints here, and changes have landed allowing doubles:</p>\n<p dir=\"auto\"><a href=\"https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded\" rel=\"nofollow\">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>\n<ul dir=\"auto\">\n<li><a href=\"https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ\" rel=\"nofollow\">Chromium Intent to Ship</a></li>\n<li><a href=\"https://bugs.webkit.org/show_bug.cgi?id=288688\" rel=\"nofollow\">WebKit bug</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1943649\" rel=\"nofollow\">Gecko bug</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #641.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2883460957\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/mdn/issues/641\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/641/hovercard\" href=\"https://github.com/mdn/mdn/issues/641\">mdn/mdn#641</a></p>",
             "url": "https://github.com/mdn/content/pull/39574",
             "title": "chore: Change ints to doubles for ProgressEvent properties",
-            "date_modified": "2025-05-19T11:26:09.000Z",
+            "date_modified": "2025-05-21T03:57:17.000Z",
             "date_published": "2025-05-19T11:24:17.000Z",
             "author": {
                 "name": "bsmth",
@@ -195,8 +184,8 @@
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/66742341?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Fixed the datatransfer: files page according to issue <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3017738405\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39267\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39267/hovercard\" href=\"https://github.com/mdn/content/issues/39267\">#39267</a> wherein the fact that it is accessible from the paste event too was not included in the notes section of the documentation</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">I have used the MDN web docs a lot when i am stuck and so wanted to give back by helping fix an issue i can easily fix</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39267.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3017738405\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39267\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39267/hovercard\" href=\"https://github.com/mdn/content/issues/39267\">#39267</a></p>\n\n\n",
             "url": "https://github.com/mdn/content/pull/39565",
-            "title": "Fixed the note on the DataTransfer: files page as referenced in issue #39267",
-            "date_modified": "2025-05-19T10:12:27.000Z",
+            "title": "DataTransfer.files can also be accessed with paste event",
+            "date_modified": "2025-05-21T04:02:00.000Z",
             "date_published": "2025-05-19T00:08:29.000Z",
             "author": {
                 "name": "Masterlincs",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "mdn-bot",
                 "url": "https://github.com/mdn-bot"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li>Add context for additional methods and properties</li>\n<li>Make JSX valid by having a single element</li>\n<li>Remove unnecessary strict IIFE wrapper</li>\n<li>Remove unnecessary <code class=\"notranslate\">&lt;div class=\"wrapper\"&gt;</code> by directly apply styles to <code class=\"notranslate\">body</code></li>\n<li>Fix some invalid SVG markup (missing a trailing slash)</li>\n<li>Other anecdotal improvements</li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/39548",
+            "title": "Fix invalid code syntax",
+            "date_modified": "2025-05-21T03:57:30.000Z",
+            "date_published": "2025-05-16T12:35:29.000Z",
+            "author": {
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
             }
         }
     ]

@@ -2,35 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-21T03:19:07.066Z</updated>
+    <updated>2025-05-21T04:02:29.856Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[align with the usage in WebAssembly.instantiateStreaming() article]]></title>
-        <id>https://github.com/mdn/content/pull/39595</id>
-        <link href="https://github.com/mdn/content/pull/39595"/>
-        <updated>2025-05-21T02:48:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84062528?u=3243653c2e5209052e4bb509e47b957782eb21f8&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>familyboat</name>
-            <email>familyboat@noreply.github.com</email>
-            <uri>https://github.com/familyboat</uri>
-        </author>
-        <published>2025-05-21T02:46:42.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Correct the description of credentials in the Request interface page]]></title>
         <id>https://github.com/mdn/content/pull/39594</id>
@@ -301,7 +277,7 @@
         <title type="html"><![CDATA[chore: Change ints to doubles for ProgressEvent properties]]></title>
         <id>https://github.com/mdn/content/pull/39574</id>
         <link href="https://github.com/mdn/content/pull/39574"/>
-        <updated>2025-05-19T11:26:09.000Z</updated>
+        <updated>2025-05-21T03:57:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
 <p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
@@ -377,10 +353,10 @@ Questions inline</p>
         <published>2025-05-19T05:23:06.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fixed the note on the DataTransfer: files page as referenced in issue #39267]]></title>
+        <title type="html"><![CDATA[DataTransfer.files can also be accessed with paste event]]></title>
         <id>https://github.com/mdn/content/pull/39565</id>
         <link href="https://github.com/mdn/content/pull/39565"/>
-        <updated>2025-05-19T10:12:27.000Z</updated>
+        <updated>2025-05-21T04:02:00.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66742341?v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">Fixed the datatransfer: files page according to issue <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3017738405" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39267" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39267/hovercard" href="https://github.com/mdn/content/issues/39267">#39267</a> wherein the fact that it is accessible from the paste event too was not included in the notes section of the documentation</p>
@@ -432,5 +408,25 @@ Questions inline</p>
             <uri>https://github.com/mdn-bot</uri>
         </author>
         <published>2025-05-17T00:28:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix invalid code syntax]]></title>
+        <id>https://github.com/mdn/content/pull/39548</id>
+        <link href="https://github.com/mdn/content/pull/39548"/>
+        <updated>2025-05-21T03:57:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
+<li>Add context for additional methods and properties</li>
+<li>Make JSX valid by having a single element</li>
+<li>Remove unnecessary strict IIFE wrapper</li>
+<li>Remove unnecessary <code class="notranslate">&lt;div class="wrapper"&gt;</code> by directly apply styles to <code class="notranslate">body</code></li>
+<li>Fix some invalid SVG markup (missing a trailing slash)</li>
+<li>Other anecdotal improvements</li>
+</ul>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-16T12:35:29.000Z</published>
     </entry>
 </feed>
