@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-21T09:01:40.408Z</updated>
+    <updated>2025-05-21T10:01:25.272Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Remove unnecessary pseudo-namespace declarations.]]></title>
+        <id>https://github.com/mdn/content/pull/39598</id>
+        <link href="https://github.com/mdn/content/pull/39598"/>
+        <updated>2025-05-21T09:55:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/171505395?u=0eea447f52ff97c023c31b8aa015063efb662777&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Given that the example is apparently embedded in HTML5, the <code class="notranslate">xmlns</code> attributes are useless.</p>]]></content>
+        <author>
+            <name>meiqinyan</name>
+            <email>meiqinyan@noreply.github.com</email>
+            <uri>https://github.com/meiqinyan</uri>
+        </author>
+        <published>2025-05-21T09:53:40.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Correct the description of credentials in the Request interface page]]></title>
         <id>https://github.com/mdn/content/pull/39594</id>
@@ -49,7 +62,7 @@
         <title type="html"><![CDATA[Record Safari 18.4+ support for Opus in Ogg containers]]></title>
         <id>https://github.com/mdn/content/pull/39592</id>
         <link href="https://github.com/mdn/content/pull/39592"/>
-        <updated>2025-05-20T16:35:46.000Z</updated>
+        <updated>2025-05-21T09:48:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46565?u=4899240c775ecf60df7fbf978bb290e63f11f5cc&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <p dir="auto">Confirm support for Opus and Vorbis in Ogg containers on Safari 18.4+</p>
 <h3 dir="auto">Motivation</h3>
@@ -69,7 +82,7 @@
         <title type="html"><![CDATA[docs(Fx139): Refresh hidden until found, beforematch]]></title>
         <id>https://github.com/mdn/content/pull/39591</id>
         <link href="https://github.com/mdn/content/pull/39591"/>
-        <updated>2025-05-20T21:10:33.000Z</updated>
+        <updated>2025-05-21T09:47:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <p dir="auto">Taking the chance to refresh pages for <code class="notranslate">hidden="until-found"</code> and <code class="notranslate">beforematch</code></p>
 <h3 dir="auto">Bugs</h3>
@@ -80,7 +93,7 @@
 <h3 dir="auto">Related issues and pull requests</h3>
 <ul class="contains-task-list">
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Parent issue <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024530673" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39306" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39306/hovercard" href="https://github.com/mdn/content/issues/39306">#39306</a></li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Relnote <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3077483979" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39590" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39590/hovercard" href="https://github.com/mdn/content/pull/39590">#39590</a></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Relnote <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3077483979" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39590" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39590/hovercard" href="https://github.com/mdn/content/pull/39590">#39590</a></li>
 </ul>]]></content>
         <author>
             <name>bsmth</name>
@@ -88,36 +101,6 @@
             <uri>https://github.com/bsmth</uri>
         </author>
         <published>2025-05-20T16:18:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[added experimental release note for view transition api]]></title>
-        <id>https://github.com/mdn/content/pull/39588</id>
-        <link href="https://github.com/mdn/content/pull/39588"/>
-        <updated>2025-05-20T18:58:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/286386?u=bc4894b945491e0834d2306dade7fef748ddf698&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<ul dir="auto">
-<li>Added experimental release note for View transition API to:
-<ul dir="auto">
-<li>Experimental features</li>
-<li>Firefox 139 (experimental web sections)</li>
-</ul>
-</li>
-</ul>
-<h3 dir="auto">Motivation</h3>
-<ul dir="auto">
-<li>Working on <a href="https://github.com/mdn/content/issues/39305" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39305/hovercard">issue #39305</a></li>
-</ul>
-<h3 dir="auto">Related issues and pull requests</h3>
-<ul dir="auto">
-<li><a href="https://github.com/mdn/content/pull/39593" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39593/hovercard">Content PR</a></li>
-<li><a href="https://github.com/mdn/browser-compat-data/pull/26851" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26851/hovercard">BCD PR</a></li>
-</ul>]]></content>
-        <author>
-            <name>dletorey</name>
-            <email>dletorey@noreply.github.com</email>
-            <uri>https://github.com/dletorey</uri>
-        </author>
-        <published>2025-05-20T14:58:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[doc[sandbox]: remove `HTMLDialogElement.showModal` from `allow-popups`]]></title>
@@ -276,7 +259,7 @@
         <title type="html"><![CDATA[Update index.md for better description for the coordinates.]]></title>
         <id>https://github.com/mdn/content/pull/39573</id>
         <link href="https://github.com/mdn/content/pull/39573"/>
-        <updated>2025-05-19T13:48:30.000Z</updated>
+        <updated>2025-05-21T09:48:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19553200?u=86800f8ee2315ef6d7bee77ec66cc9a6c45cab49&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">Update the description for matrix(a, b, c, d, tx, ty) to show that it also stands for matrix(scaleX(), skewY(), skewX(), scaleY(), translateX(), translateY()), which is easier to understand as a developer.</p>
@@ -328,46 +311,6 @@ Questions inline</p>
             <uri>https://github.com/DanKaplanSES</uri>
         </author>
         <published>2025-05-19T05:23:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match Example "Content-Length" header to body length]]></title>
-        <id>https://github.com/mdn/content/pull/39555</id>
-        <link href="https://github.com/mdn/content/pull/39555"/>
-        <updated>2025-05-20T19:31:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/134723582?u=58ba1986fbe5142134b46b3e1774add76fb4ffce&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">The length of "name=FirstName%20LastName&amp;email=bsmth%40example.com " is 51 characters but the Content-Length header says the content is 50 characters long.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">I wanted an example of a plain text HTTP message to show someone how a server knows when it has read the full content of a message. I wanted to show them that the text after the empty line had the same number of characters as the value of the Content-Length header, so the message size can be figured out at the application layer.  When I saw 51 characters popup as the length I got confused and realised this example probably isn't the best one for me to use in its current state.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39554.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3071641759" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39554" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39554/hovercard" href="https://github.com/mdn/content/issues/39554">#39554</a></p>
-]]></content>
-        <author>
-            <name>jackoconnordev</name>
-            <email>jackoconnordev@noreply.github.com</email>
-            <uri>https://github.com/jackoconnordev</uri>
-        </author>
-        <published>2025-05-18T10:45:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix invalid code syntax]]></title>
-        <id>https://github.com/mdn/content/pull/39548</id>
-        <link href="https://github.com/mdn/content/pull/39548"/>
-        <updated>2025-05-21T03:57:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><ul dir="auto">
-<li>Add context for additional methods and properties</li>
-<li>Make JSX valid by having a single element</li>
-<li>Remove unnecessary strict IIFE wrapper</li>
-<li>Remove unnecessary <code class="notranslate">&lt;div class="wrapper"&gt;</code> by directly apply styles to <code class="notranslate">body</code></li>
-<li>Fix some invalid SVG markup (missing a trailing slash)</li>
-<li>Other anecdotal improvements</li>
-</ul>]]></content>
-        <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
-        </author>
-        <published>2025-05-16T12:35:29.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Update Web API Response: status property: add '0' status value]]></title>
@@ -442,5 +385,45 @@ Questions inline</p>
             <uri>https://github.com/rebloor</uri>
         </author>
         <published>2025-05-14T10:23:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus docs]]></title>
+        <id>https://github.com/mdn/content/pull/39512</id>
+        <link href="https://github.com/mdn/content/pull/39512"/>
+        <updated>2025-05-15T00:23:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Provides the updates necessary for <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1550032" rel="nofollow">Bug 1550032</a> Change cookie API to explicitly support sameSite=none. Specifically:</p>
+<ul dir="auto">
+<li>That <code class="notranslate">unspecified</code> is now the default value for <code class="notranslate">sameSite</code> in <code class="notranslate">cookies.set()</code>.</li>
+</ul>
+<h3 dir="auto">Related issues and pull requests</h3>
+<ul dir="auto">
+<li>BCD changes made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062474205" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26795" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26795/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26795">mdn/browser-compat-data#26795</a>.</li>
+<li>Release note update made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062615757" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39513" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39513/hovercard" href="https://github.com/mdn/content/pull/39513">#39513</a></li>
+</ul>]]></content>
+        <author>
+            <name>rebloor</name>
+            <email>rebloor@noreply.github.com</email>
+            <uri>https://github.com/rebloor</uri>
+        </author>
+        <published>2025-05-14T09:55:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
+        <id>https://github.com/mdn/content/pull/39502</id>
+        <link href="https://github.com/mdn/content/pull/39502"/>
+        <updated>2025-05-13T15:25:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1784648?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Replaces the room link with its canonical version.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">The current "internal" ID doesn't offer a good expectation where does it lead eventually.</p>
+<h3 dir="auto">Additional details</h3>
+<p dir="auto">Extra metadata hinting at instances being used when creating this room reference are also removed, as they are not relevant for anyone besides the original user creating said link.</p>]]></content>
+        <author>
+            <name>janbrasna</name>
+            <email>janbrasna@noreply.github.com</email>
+            <uri>https://github.com/janbrasna</uri>
+        </author>
+        <published>2025-05-13T15:22:43.000Z</published>
     </entry>
 </feed>
