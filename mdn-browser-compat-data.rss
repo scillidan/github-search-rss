@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-21T01:28:59.912Z</updated>
+    <updated>2025-05-21T02:30:39.310Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Paint timing chrome updates]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26858</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26858"/>
+        <updated>2025-05-21T02:30:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8446860?u=05b4d25f8fcda71df908d10aa790579661f66dde&v=4" width="64" height="64" alt=""/><br/>
+<h4 dir="auto">Summary</h4>
+<p dir="auto">Updates Chrome's support for <code class="notranslate">PerformancePaintTiming</code>, whose named entries appear to have been removed since version 114.</p>
+
+<h4 dir="auto">Test results and supporting details</h4>
+
+<p dir="auto"><code class="notranslate">All matched files use Prettier code style!</code><br>
+<code class="notranslate">All data passed linting!</code></p>
+
+<h4 dir="auto">Related issues</h4>
+
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #26857.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3078614016" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26857" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26857/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26857">#26857</a></p>
+]]></content>
+        <author>
+            <name>whalderman</name>
+            <email>whalderman@noreply.github.com</email>
+            <uri>https://github.com/whalderman</uri>
+        </author>
+        <published>2025-05-21T02:29:47.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefox Android 128 enabled residentKey support]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26856</id>
@@ -302,20 +327,5 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/caugner</uri>
         </author>
         <published>2025-04-25T16:14:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 122 added `screen-wake-lock` permission]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26566</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26566"/>
-        <updated>2025-05-13T17:15:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Firefox and Firefox Android for the <code class="notranslate">permission_screen-wake-lock</code> member of the <code class="notranslate">Permissions</code> API. The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.12.11).</p>
-<p dir="auto"><em>Check out the <a href="https://github.com/openwebdocs/mdn-bcd-collector#reviewing-bcd-changes">collector's guide on how to review this PR</a>.</em></p>
-<p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/Permissions/permission_screen-wake-lock" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/Permissions/permission_screen-wake-lock</a></p>]]></content>
-        <author>
-            <name>queengooborg</name>
-            <email>queengooborg@noreply.github.com</email>
-            <uri>https://github.com/queengooborg</uri>
-        </author>
-        <published>2025-04-20T11:52:49.000Z</published>
     </entry>
 </feed>
