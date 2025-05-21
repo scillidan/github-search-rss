@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-21T02:30:39.310Z</updated>
+    <updated>2025-05-21T03:19:06.474Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -11,10 +11,10 @@
         <title type="html"><![CDATA[Paint timing chrome updates]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26858</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26858"/>
-        <updated>2025-05-21T02:30:22.000Z</updated>
+        <updated>2025-05-21T02:31:53.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8446860?u=05b4d25f8fcda71df908d10aa790579661f66dde&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
-<p dir="auto">Updates Chrome's support for <code class="notranslate">PerformancePaintTiming</code>, whose named entries appear to have been removed since version 114.</p>
+<p dir="auto">Updates Chrome's support for <code class="notranslate">PerformancePaintTiming</code>, whose named entries appear to have been placed behind a launch flag since version 114.</p>
 
 <h4 dir="auto">Test results and supporting details</h4>
 
