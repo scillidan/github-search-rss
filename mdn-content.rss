@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-21T07:01:26.870Z</updated>
+    <updated>2025-05-21T08:01:44.683Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -88,29 +88,6 @@
             <uri>https://github.com/bsmth</uri>
         </author>
         <published>2025-05-20T16:18:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[docs(Fx139): Add relnote for hidden until found, beforematch]]></title>
-        <id>https://github.com/mdn/content/pull/39590</id>
-        <link href="https://github.com/mdn/content/pull/39590"/>
-        <updated>2025-05-20T19:35:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Relnote for enabling <code class="notranslate">hidden="until-found"</code> and <code class="notranslate">beforematch</code></p>
-<h3 dir="auto">Bugs</h3>
-<ul dir="auto">
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1761043" rel="nofollow">Implement hidden=until-found attribute and beforematch event</a></li>
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1955379" rel="nofollow">Enable about:config pref 'dom.hidden_until_found.enabled'</a></li>
-</ul>
-<h3 dir="auto">Related issues and pull requests</h3>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Parent issue <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024530673" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39306" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39306/hovercard" href="https://github.com/mdn/content/issues/39306">#39306</a></li>
-</ul>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-20T15:44:41.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[added experimental release note for view transition api]]></title>
@@ -277,7 +254,7 @@
         <title type="html"><![CDATA[chore: Change ints to doubles for ProgressEvent properties]]></title>
         <id>https://github.com/mdn/content/pull/39574</id>
         <link href="https://github.com/mdn/content/pull/39574"/>
-        <updated>2025-05-21T03:57:17.000Z</updated>
+        <updated>2025-05-21T07:55:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
 <p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
@@ -446,5 +423,24 @@ Questions inline</p>
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-14T13:32:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus release note]]></title>
+        <id>https://github.com/mdn/content/pull/39513</id>
+        <link href="https://github.com/mdn/content/pull/39513"/>
+        <updated>2025-05-19T23:40:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Descripton</h3>
+<p dir="auto">Provides a release note for <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1550032" rel="nofollow">Bug 1550032</a> Change cookie API to explicitly support sameSite=none.</p>
+<h4 dir="auto">Related issues</h4>
+<ul dir="auto">
+<li>MDN documentation changes made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062530122" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39512" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39512/hovercard" href="https://github.com/mdn/content/pull/39512">#39512</a>.</li>
+<li>Release note update made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062474205" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26795" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26795/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26795">mdn/browser-compat-data#26795</a>.</li>
+</ul>]]></content>
+        <author>
+            <name>rebloor</name>
+            <email>rebloor@noreply.github.com</email>
+            <uri>https://github.com/rebloor</uri>
+        </author>
+        <published>2025-05-14T10:23:00.000Z</published>
     </entry>
 </feed>
