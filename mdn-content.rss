@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-21T10:01:25.272Z</updated>
+    <updated>2025-05-21T11:01:29.211Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -82,7 +82,7 @@
         <title type="html"><![CDATA[docs(Fx139): Refresh hidden until found, beforematch]]></title>
         <id>https://github.com/mdn/content/pull/39591</id>
         <link href="https://github.com/mdn/content/pull/39591"/>
-        <updated>2025-05-21T09:47:30.000Z</updated>
+        <updated>2025-05-21T11:00:32.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <p dir="auto">Taking the chance to refresh pages for <code class="notranslate">hidden="until-found"</code> and <code class="notranslate">beforematch</code></p>
 <h3 dir="auto">Bugs</h3>
@@ -256,30 +256,6 @@
         <published>2025-05-19T11:24:17.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Update index.md for better description for the coordinates.]]></title>
-        <id>https://github.com/mdn/content/pull/39573</id>
-        <link href="https://github.com/mdn/content/pull/39573"/>
-        <updated>2025-05-21T09:48:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19553200?u=86800f8ee2315ef6d7bee77ec66cc9a6c45cab49&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Update the description for matrix(a, b, c, d, tx, ty) to show that it also stands for matrix(scaleX(), skewY(), skewX(), scaleY(), translateX(), translateY()), which is easier to understand as a developer.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">Clarity. I am working with SVG at the moment, and I had to check different docs to understand the meaning of <code class="notranslate">matrix(a, b, c, d, tx, ty)</code>. Outside AI, MDN is most developers' first search place.</p>
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>EbereUzodufa</name>
-            <email>EbereUzodufa@noreply.github.com</email>
-            <uri>https://github.com/EbereUzodufa</uri>
-        </author>
-        <published>2025-05-19T10:15:19.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WebAuthn PRF extension docs]]></title>
         <id>https://github.com/mdn/content/pull/39570</id>
         <link href="https://github.com/mdn/content/pull/39570"/>
@@ -425,5 +401,39 @@ Questions inline</p>
             <uri>https://github.com/janbrasna</uri>
         </author>
         <published>2025-05-13T15:22:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[doc: add explanation for multiple `Transfer-Encoding` values]]></title>
+        <id>https://github.com/mdn/content/pull/39496</id>
+        <link href="https://github.com/mdn/content/pull/39496"/>
+        <updated>2025-05-19T00:21:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55658154?u=72eb5d6b966bd3197516e3205b1e2f4962df3cc6&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">Currently, the MDN document doesn't explain the meaning of multiple values of <code class="notranslate">Transfer-Encoding</code>.</p>
+<h3 dir="auto">Additional details</h3>
+<p dir="auto"><a href="https://datatracker.ietf.org/doc/html/rfc9112#section-6.1-6" rel="nofollow">https://datatracker.ietf.org/doc/html/rfc9112#section-6.1-6</a></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="For example,
+
+Transfer-Encoding: gzip, chunked
+
+indicates that the content has been compressed using the gzip coding and then chunked using the chunked coding while forming the message body."><pre class="notranslate"><code class="notranslate">For example,
+
+Transfer-Encoding: gzip, chunked
+
+indicates that the content has been compressed using the gzip coding and then chunked using the chunked coding while forming the message body.
+</code></pre></div>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>samuel871211</name>
+            <email>samuel871211@noreply.github.com</email>
+            <uri>https://github.com/samuel871211</uri>
+        </author>
+        <published>2025-05-13T07:43:58.000Z</published>
     </entry>
 </feed>
