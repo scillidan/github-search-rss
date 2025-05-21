@@ -6,17 +6,6 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Adds a new section \"Machine-translated locales\" to the \"MDN Web Docs localization\" page, mention the experimental German and Italian locales.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">Make it easier to discover where to discuss these locales, and how to reach out to the maintainers.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39602",
-            "title": "Add machine-translated locales to Localization page",
-            "date_modified": "2025-05-21T12:46:43.000Z",
-            "date_published": "2025-05-21T12:44:29.000Z",
-            "author": {
-                "name": "caugner",
-                "url": "https://github.com/caugner"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Opening a PR to get previews rolling for the 139 branch</p>",
             "url": "https://github.com/mdn/content/pull/39600",
             "title": "Fx139: Firefox/139 release notes",
@@ -31,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/129603?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This adds the <a href=\"https://bugzilla.mozilla.org/buglist.cgi?list_id=16664529&amp;v1=fixed&amp;resolution=FIXED&amp;f2=cf_status_firefox138&amp;query_format=advanced&amp;o1=equals&amp;f1=cf_status_firefox139&amp;o2=notequals&amp;status_whiteboard=%5Bwebdriver%3Arelnote%5D&amp;columnlist=component%2Cresolution%2Cassigned_to%2Cshort_desc%2Cbug_type%2Cstatus_whiteboard&amp;status_whiteboard_type=substring&amp;v2=fixed\" rel=\"nofollow\">release notes worthy items</a> for WebDriver to the Firefox 139 release notes.</p>\n<p dir=\"auto\"><a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/lutien/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/lutien\">@lutien</a> and <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/juliandescottes/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/juliandescottes\">@juliandescottes</a> can you please take a look?</p>",
             "url": "https://github.com/mdn/content/pull/39599",
             "title": "WebDriver conformance changes for Firefox 139",
-            "date_modified": "2025-05-21T11:18:00.000Z",
+            "date_modified": "2025-05-21T13:56:40.000Z",
             "date_published": "2025-05-21T11:05:57.000Z",
             "author": {
                 "name": "whimboo",
@@ -196,7 +185,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Chrome supports the CSS <a href=\"https://drafts.csswg.org/css-values-5/#if-notation\" rel=\"nofollow\"><code class=\"notranslate\">if()</code></a> function from version 137. See <a href=\"https://chromestatus.com/feature/6313805904347136\" rel=\"nofollow\">https://chromestatus.com/feature/6313805904347136</a>.</p>\n<p dir=\"auto\">This PR documents the new function. Specifically, it:</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Adds an <code class=\"notranslate\">if()</code> reference page (nearly done, just needs examples)</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\">  Adds <code class=\"notranslate\">if()</code> to the CSS values and units module page</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Adds <code class=\"notranslate\">if()</code> to the CSS value functions ref page.</li>\n</ul>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39516",
             "title": "Technical review: Document CSS if() function",
-            "date_modified": "2025-05-21T12:12:32.000Z",
+            "date_modified": "2025-05-21T13:53:39.000Z",
             "date_published": "2025-05-14T13:32:56.000Z",
             "author": {
                 "name": "chrisdavidmills",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "rebloor",
                 "url": "https://github.com/rebloor"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1784648?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Replaces the room link with its canonical version.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">The current \"internal\" ID doesn't offer a good expectation where does it lead eventually.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">Extra metadata hinting at instances being used when creating this room reference are also removed, as they are not relevant for anyone besides the original user creating said link.</p>",
+            "url": "https://github.com/mdn/content/pull/39502",
+            "title": "Clean up #addons:mozilla.org room Matrix link",
+            "date_modified": "2025-05-13T15:25:20.000Z",
+            "date_published": "2025-05-13T15:22:43.000Z",
+            "author": {
+                "name": "janbrasna",
+                "url": "https://github.com/janbrasna"
             }
         }
     ]
