@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-22T15:01:31.970Z</updated>
+    <updated>2025-05-22T16:01:39.216Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add the default value indicator in prose]]></title>
+        <id>https://github.com/mdn/content/pull/39626</id>
+        <link href="https://github.com/mdn/content/pull/39626"/>
+        <updated>2025-05-22T16:00:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">As pointed out by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/caugner/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/caugner">@caugner</a>, the <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/content-visibility#values" rel="nofollow">content-visibility</a> property page doesn't explicitly mention in prose what the default value is. This PR adds that sentence.</p>
+<p dir="auto">I looked at a few more pages randomly and added the similar "default value" statement in the "Values" section.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">To provide default value info alongside the value's description in addition to the info being present in the Formal definition section.</p>]]></content>
+        <author>
+            <name>dipikabh</name>
+            <email>dipikabh@noreply.github.com</email>
+            <uri>https://github.com/dipikabh</uri>
+        </author>
+        <published>2025-05-22T15:34:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix some lint reports]]></title>
+        <id>https://github.com/mdn/content/pull/39625</id>
+        <link href="https://github.com/mdn/content/pull/39625"/>
+        <updated>2025-05-22T15:46:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">I am starting to run ESLint on our code. This PR fixes reports of some rules that reported &lt;10 times. These rules and configurations aim for more concise, more secure, and more idiomatic code. Obviously some stylistic choices may be subjective, but generally the intention should be clear.</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-22T15:34:43.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improve version control consistentency]]></title>
         <id>https://github.com/mdn/content/pull/39616</id>
@@ -261,7 +291,7 @@
         <title type="html"><![CDATA[chore: Change ints to doubles for ProgressEvent properties]]></title>
         <id>https://github.com/mdn/content/pull/39574</id>
         <link href="https://github.com/mdn/content/pull/39574"/>
-        <updated>2025-05-21T15:56:10.000Z</updated>
+        <updated>2025-05-22T15:08:21.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
 <p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
@@ -368,24 +398,6 @@ Questions inline</p>
         <published>2025-05-14T13:32:56.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clean up #addons:mozilla.org room Matrix link]]></title>
-        <id>https://github.com/mdn/content/pull/39502</id>
-        <link href="https://github.com/mdn/content/pull/39502"/>
-        <updated>2025-05-22T09:04:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1784648?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Replaces the room link with its canonical version.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">The current "internal" ID doesn't offer a good expectation where does it lead eventually.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto">Extra metadata hinting at instances being used when creating this room reference are also removed, as they are not relevant for anyone besides the original user creating said link.</p>]]></content>
-        <author>
-            <name>janbrasna</name>
-            <email>janbrasna@noreply.github.com</email>
-            <uri>https://github.com/janbrasna</uri>
-        </author>
-        <published>2025-05-13T15:22:43.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[doc: add explanation for multiple `Transfer-Encoding` values]]></title>
         <id>https://github.com/mdn/content/pull/39496</id>
         <link href="https://github.com/mdn/content/pull/39496"/>
@@ -418,37 +430,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-13T07:43:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARIA heading role: aria-level is required]]></title>
-        <id>https://github.com/mdn/content/pull/39482</id>
-        <link href="https://github.com/mdn/content/pull/39482"/>
-        <updated>2025-05-22T03:15:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43677?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<p dir="auto">Changes the description of the ARIA heading role’s aria-level attribute to state that it is required, rather than stating that it defaults to 2.</p>
-<h3 dir="auto">Motivation</h3>
-
-<p dir="auto">See the <a href="https://www.w3.org/TR/wai-aria-1.3/#heading" rel="nofollow">ARIA 1.3 specification for heading</a>:</p>
-<blockquote>
-<p dir="auto">To ensure elements with a role of heading are organized into a logical outline, authors MUST use the aria-level attribute to indicate the proper nesting level.</p>
-</blockquote>
-<h3 dir="auto">Additional details</h3>
-
-<p dir="auto">The MDN page on the aria-level role already states that the heading role is required.</p>
-<p dir="auto">I’m not sure where the “If no level is present, a value of 2 is the default” claim comes from.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-<p dir="auto">None.</p>
-]]></content>
-        <author>
-            <name>js-choi</name>
-            <email>js-choi@noreply.github.com</email>
-            <uri>https://github.com/js-choi</uri>
-        </author>
-        <published>2025-05-12T01:26:20.000Z</published>
     </entry>
 </feed>

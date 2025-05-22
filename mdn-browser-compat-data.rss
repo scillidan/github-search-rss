@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-22T15:01:31.328Z</updated>
+    <updated>2025-05-22T16:01:38.547Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -11,11 +11,12 @@
         <title type="html"><![CDATA[Correct Summarizer API data]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26875</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26875"/>
-        <updated>2025-05-22T14:06:56.000Z</updated>
+        <updated>2025-05-22T15:35:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">The Summarizer API BCD needed corrections — the Edge version is 138, but it is currently supported behind a developer flag. This PR corrects that. cc <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/captainbrosset/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/captainbrosset">@captainbrosset</a>.</p>
-<p dir="auto">I am going to leave it as a draft for now; hopefully I can get in some more accurate Chrome support data too.</p>
+<p dir="auto"><s>I am going to leave it as a draft for now; hopefully I can get in some more accurate Chrome support data too.</s><br>
+I checked, and 138 is the correct shipping version for Chrome. I'm not sure of the available version with flags, so I'm just going to leave that for now.</p>
 
 <h4 dir="auto">Test results and supporting details</h4>
 
