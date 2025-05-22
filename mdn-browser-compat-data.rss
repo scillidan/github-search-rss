@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-22T11:01:26.711Z</updated>
+    <updated>2025-05-22T12:01:50.984Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Correct Summarizer API data]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26875</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26875"/>
+        <updated>2025-05-22T11:54:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h4 dir="auto">Summary</h4>
+<p dir="auto">The Summarizer API BCD needed corrections — the Edge version is 138, but it is currently supported behind a developer flag. This PR corrects that. cc <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/captainbrosset/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/captainbrosset">@captainbrosset</a>.</p>
+<p dir="auto">I am going to leave it as a draft for now; hopefully I can get in some more accurate Chrome support data too.</p>
+
+<h4 dir="auto">Test results and supporting details</h4>
+
+
+<h4 dir="auto">Related issues</h4>
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-22T11:53:20.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bug-1965007 added removeInfo to tabGroups.onRemoved]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26872</id>
@@ -25,7 +48,7 @@
         <title type="html"><![CDATA[Add data for Translator and LanguageDetector]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26871</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26871"/>
-        <updated>2025-05-21T16:01:32.000Z</updated>
+        <updated>2025-05-22T11:16:52.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">Chrome 138 supports the <a href="https://webmachinelearning.github.io/translation-api/" rel="nofollow">Translator and Language Detector APIs</a>: see the relevant ChromeStatus entries: <a href="https://chromestatus.com/feature/6494349985841152" rel="nofollow">https://chromestatus.com/feature/6494349985841152</a> and <a href="https://chromestatus.com/feature/5172811302961152" rel="nofollow">https://chromestatus.com/feature/5172811302961152</a>.</p>
@@ -281,20 +304,5 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/queengooborg</uri>
         </author>
         <published>2025-05-10T08:25:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Chromium data for api.AudioParam.setTargetAtTime]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26722</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26722"/>
-        <updated>2025-05-07T21:22:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Chromium (Chrome, Opera, Samsung Internet, WebView Android) for the <code class="notranslate">setTargetAtTime</code> member of the <code class="notranslate">AudioParam</code> API. The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.12.13).</p>
-<p dir="auto"><em>Check out the <a href="https://github.com/openwebdocs/mdn-bcd-collector#reviewing-bcd-changes">collector's guide on how to review this PR</a>.</em></p>
-<p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/AudioParam/setTargetAtTime" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/AudioParam/setTargetAtTime</a></p>]]></content>
-        <author>
-            <name>queengooborg</name>
-            <email>queengooborg@noreply.github.com</email>
-            <uri>https://github.com/queengooborg</uri>
-        </author>
-        <published>2025-05-06T22:22:44.000Z</published>
     </entry>
 </feed>

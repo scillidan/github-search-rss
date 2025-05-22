@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-22T11:01:27.356Z</updated>
+    <updated>2025-05-22T12:01:51.693Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -11,11 +11,25 @@
         <title type="html"><![CDATA[fix: missing newline before WebGL2-specific information]]></title>
         <id>https://github.com/mdn/content/pull/39607</id>
         <link href="https://github.com/mdn/content/pull/39607"/>
-        <updated>2025-05-22T10:59:28.000Z</updated>
+        <updated>2025-05-22T11:38:40.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143941235?u=36fcc9508d81d3aeb6580e30acf44dfbc2f7894b&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 
 <p dir="auto">Refactored the <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGLRenderingContext/bindTexture" rel="nofollow"><code class="notranslate">bindTexture</code></a> docs formatting to properly separate WebGL2–specific texture types and improve consistency with similar pages</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Before</th>
+<th>After</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/143941235/446531457-078ba398-8eb6-4356-943e-a34ae72da21c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MTU2MTEsIm5iZiI6MTc0NzkxNTMxMSwicGF0aCI6Ii8xNDM5NDEyMzUvNDQ2NTMxNDU3LTA3OGJhMzk4LThlYjYtNDM1Ni05NDNlLWEzNGFlNzJkYTIxYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMjAxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjMzMmVmNTU1MDkyYTQ1NGIyZTVhMWZhOTAxMjRjNzFlMDQzMTI3ZjY4MWYzZDgwNDA3ODlmNTcyZmU0YTdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-56jCPQQT5RKKwgHQ62tVAQ5JE7dtLepEsDd6lwDnNI"><img src="https://private-user-images.githubusercontent.com/143941235/446531457-078ba398-8eb6-4356-943e-a34ae72da21c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MTU2MTEsIm5iZiI6MTc0NzkxNTMxMSwicGF0aCI6Ii8xNDM5NDEyMzUvNDQ2NTMxNDU3LTA3OGJhMzk4LThlYjYtNDM1Ni05NDNlLWEzNGFlNzJkYTIxYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMjAxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjMzMmVmNTU1MDkyYTQ1NGIyZTVhMWZhOTAxMjRjNzFlMDQzMTI3ZjY4MWYzZDgwNDA3ODlmNTcyZmU0YTdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-56jCPQQT5RKKwgHQ62tVAQ5JE7dtLepEsDd6lwDnNI" alt="image" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/143941235/446531283-a78ac024-9c2f-419e-9238-0dfc4a8de2d3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MTU2MTEsIm5iZiI6MTc0NzkxNTMxMSwicGF0aCI6Ii8xNDM5NDEyMzUvNDQ2NTMxMjgzLWE3OGFjMDI0LTljMmYtNDE5ZS05MjM4LTBkZmM0YThkZTJkMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMjAxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZmYwZmFhOTVhMTk1Mzg5OThlOTQwNjBmYjQ4OWNhZWVhNDE2Y2MxMzE1ZDdlMDE1NzU0MWZjNTU3NzdkZGUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tkBr0ATMEaSA8D3UgP0bhvwzoMerVR3rcbbUI19LJ6M"><img src="https://private-user-images.githubusercontent.com/143941235/446531283-a78ac024-9c2f-419e-9238-0dfc4a8de2d3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MTU2MTEsIm5iZiI6MTc0NzkxNTMxMSwicGF0aCI6Ii8xNDM5NDEyMzUvNDQ2NTMxMjgzLWE3OGFjMDI0LTljMmYtNDE5ZS05MjM4LTBkZmM0YThkZTJkMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMjAxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZmYwZmFhOTVhMTk1Mzg5OThlOTQwNjBmYjQ4OWNhZWVhNDE2Y2MxMzE1ZDdlMDE1NzU0MWZjNTU3NzdkZGUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tkBr0ATMEaSA8D3UgP0bhvwzoMerVR3rcbbUI19LJ6M" alt="image" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
 <h3 dir="auto">Motivation</h3>
 
 <p dir="auto">Previously, the line about WebGL2 support appeared directly under <code class="notranslate">gl.TEXTURE_CUBE_MAP</code>, making it seem like a nested child. This caused confusion and inconsistent presentation. The new formatting:</p>
@@ -69,7 +83,7 @@
         <title type="html"><![CDATA[WebDriver conformance changes for Firefox 139]]></title>
         <id>https://github.com/mdn/content/pull/39599</id>
         <link href="https://github.com/mdn/content/pull/39599"/>
-        <updated>2025-05-22T09:31:25.000Z</updated>
+        <updated>2025-05-22T11:50:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129603?v=4" width="64" height="64" alt=""/><br/><p dir="auto">This adds the <a href="https://bugzilla.mozilla.org/buglist.cgi?list_id=16664529&amp;v1=fixed&amp;resolution=FIXED&amp;f2=cf_status_firefox138&amp;query_format=advanced&amp;o1=equals&amp;f1=cf_status_firefox139&amp;o2=notequals&amp;status_whiteboard=%5Bwebdriver%3Arelnote%5D&amp;columnlist=component%2Cresolution%2Cassigned_to%2Cshort_desc%2Cbug_type%2Cstatus_whiteboard&amp;status_whiteboard_type=substring&amp;v2=fixed" rel="nofollow">release notes worthy items</a> for WebDriver to the Firefox 139 release notes.</p>
 <p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/lutien/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/lutien">@lutien</a> and <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/juliandescottes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/juliandescottes">@juliandescottes</a> can you please take a look?</p>]]></content>
         <author>
