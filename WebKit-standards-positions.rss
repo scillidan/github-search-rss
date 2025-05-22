@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/WebKit-standards-positions.rss</id>
     <title>WebKit/standards-positions Issues</title>
-    <updated>2025-05-22T09:01:38.045Z</updated>
+    <updated>2025-05-22T10:01:43.262Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/WebKit-standards-positions.rss"/>
     <subtitle>WebKit/standards-positions Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[getComputedStyle() returns true visited colors]]></title>
+        <id>https://github.com/WebKit/standards-positions/issues/498</id>
+        <link href="https://github.com/WebKit/standards-positions/issues/498"/>
+        <updated>2025-05-22T09:53:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/238700?u=18c8d2f9b506f5988d195b7827566fe7f349adc8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">WebKittens</h3>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/anttijk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/anttijk">@anttijk</a></p>
+<h3 dir="auto">Title of the proposal</h3>
+<p dir="auto">getComputedStyle() returns true visited colors</p>
+<h3 dir="auto">URL to the spec</h3>
+<p dir="auto"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors/Privacy_and_the_visited_selector" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors/Privacy_and_the_visited_selector</a></p>
+<h3 dir="auto">URL to the spec's repository</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Issue Tracker URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Explainer URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">TAG Design Review URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Mozilla standards-positions issue URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">WebKit Bugzilla URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Radar URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Description</h3>
+<p dir="auto">With <a href="https://github.com/explainers-by-googlers/Partitioning-visited-links-history">partitioned :visited links</a> in Chromium, the color of a :visited link is no longer sensitive. Thus, we would like to get rid of the special rules where getComputedStyle() on a link lies and returns the unvisited color, as this causes significant complexity for us (e.g. in handling transitions correctly).</p>
+<p dir="auto">For web compatibility reasons, we'd still restrict what properties are allowed in :visited selectors (so that a page with e.g. <code class="notranslate">:visited { font-size: 200px; }</code> would not suddenly change in newer browsers); this proposal is only to change what getComputedStyle() returns.</p>]]></content>
+        <author>
+            <name>sesse</name>
+            <email>sesse@noreply.github.com</email>
+            <uri>https://github.com/sesse</uri>
+        </author>
+        <published>2025-05-22T09:29:55.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WebCodecs VideoFrame Metadata Registry – rtpTimestamp field]]></title>
         <id>https://github.com/WebKit/standards-positions/issues/497</id>
@@ -463,7 +498,7 @@ We would appreciate WebKit's position on this proposal. If there are any concern
 Some of the concerns above (not about privacy nor obfuscation) are also <a href="https://github.com/webmachinelearning/webnn/issues/840" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/840/hovercard">in the WebNN Github Repo</a>.</li>
 </ol>
 <p dir="auto">In a single image, this is what they propose (copied from their repository):</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDQ3OTcsIm5iZiI6MTc0NzkwNDQ5NywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQwOTAxMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMTY4ZTJiYzY4NDI3MzZhYTBhNjFiNzU3MjdkZDhkOTUzMzA1NTRiZjgzMzk0ODEwZjczM2U4ZTgyZWY5NDRiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3EA41BSqmVFUXOlZb1pOy1MfYNF0JaE-HhTdQ4vjN90"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDQ3OTcsIm5iZiI6MTc0NzkwNDQ5NywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQwOTAxMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMTY4ZTJiYzY4NDI3MzZhYTBhNjFiNzU3MjdkZDhkOTUzMzA1NTRiZjgzMzk0ODEwZjczM2U4ZTgyZWY5NDRiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3EA41BSqmVFUXOlZb1pOy1MfYNF0JaE-HhTdQ4vjN90" alt="Image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDg0MDMsIm5iZiI6MTc0NzkwODEwMywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMDAxNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NzNhMzQyYWUzOWY4YWRhNWExMzM0N2I1ZTVlNWY0YWYxZTlkZDFjZGJmYmY4MmIzM2Q4ODBhZjg5Y2Y2YTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zUEqgY-YktxY5KplHsIk2IbGk74f0iv5Gb9iJryhavk"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDg0MDMsIm5iZiI6MTc0NzkwODEwMywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMDAxNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NzNhMzQyYWUzOWY4YWRhNWExMzM0N2I1ZTVlNWY0YWYxZTlkZDFjZGJmYmY4MmIzM2Q4ODBhZjg5Y2Y2YTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zUEqgY-YktxY5KplHsIk2IbGk74f0iv5Gb9iJryhavk" alt="Image" style="max-width: 100%;"></a></p>
 <p dir="auto"><strong>Misc.</strong>: Mozilla <a href="https://github.com/mozilla/standards-positions/issues/1215" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1215/hovercard">does have an issue about it</a>, just not a position yet.</p>]]></content>
         <author>
             <name>iampi31415</name>
@@ -603,7 +638,7 @@ Some of the concerns above (not about privacy nor obfuscation) are also <a href=
 <h3 dir="auto">Description</h3>
 <h1 dir="auto"><a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/SystemStatusIcon/explainer.md">System Status Icons for Installed desktop Web Apps</a></h1>
 <p dir="auto"><a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/SystemStatusIcon/explainer.md">This proposal</a> aims to provide installed desktop web apps with a UX affordance available to native apps. In macOS, this is the concept of a "menu extra", and in macOS it "exposes app-specific functionality using an icon that appears in the menu bar when your app is running, even when it’s not the frontmost app".</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDQ3OTcsIm5iZiI6MTc0NzkwNDQ5NywicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDA5MDEzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0MDQ4ZTc2NzZkYWZkYWM1OTcwOTk5NjQ3NGFiZjViMTczMDgxZTAzNTA3NTQ2MDJkMDI4M2U4OTg3YWIxNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hONsxCL-WRbrDHIz0tOtb1yScsQ6kfIhc9nA0wsSM2Y"><img src="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDQ3OTcsIm5iZiI6MTc0NzkwNDQ5NywicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDA5MDEzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0MDQ4ZTc2NzZkYWZkYWM1OTcwOTk5NjQ3NGFiZjViMTczMDgxZTAzNTA3NTQ2MDJkMDI4M2U4OTg3YWIxNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hONsxCL-WRbrDHIz0tOtb1yScsQ6kfIhc9nA0wsSM2Y" alt="Image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDg0MDMsIm5iZiI6MTc0NzkwODEwMywicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDEwMDE0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMTU3MDMzMzU1Nzk1NzgxNmIzZjlkZDEwMmQyN2FiNzEwNjE0ZjQ5NWJhNDE2ZjhmODhhMjI2YTNjYjFkYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nQalbJOOWlSIZJbXVYiTNZf58GS1Q_5TXlSYFMyDq5Y"><img src="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDg0MDMsIm5iZiI6MTc0NzkwODEwMywicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDEwMDE0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMTU3MDMzMzU1Nzk1NzgxNmIzZjlkZDEwMmQyN2FiNzEwNjE0ZjQ5NWJhNDE2ZjhmODhhMjI2YTNjYjFkYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nQalbJOOWlSIZJbXVYiTNZf58GS1Q_5TXlSYFMyDq5Y" alt="Image" style="max-width: 100%;"></a></p>
 <p dir="auto">This can be useful for a plethora of cases, as seen in VPN software, video players, IM clients use it today.</p>
 <p dir="auto">We think enabling this optional feature for web apps elevates an app's UX and benefits the end user. I am very keen on reading your comments about this possible future feature.</p>
 <p dir="auto">Thanks!</p>
@@ -733,50 +768,5 @@ Some of the concerns above (not about privacy nor obfuscation) are also <a href=
             <uri>https://github.com/mrego</uri>
         </author>
         <published>2025-04-08T11:26:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WebRTC] Align browsers on RTP stats lifetimes]]></title>
-        <id>https://github.com/WebKit/standards-positions/issues/478</id>
-        <link href="https://github.com/WebKit/standards-positions/issues/478"/>
-        <updated>2025-04-28T08:49:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11347890?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">WebKittens</h3>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/youennf/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/youennf">@youennf</a></p>
-<h3 dir="auto">Title of the proposal</h3>
-<p dir="auto">Identifiers for WebRTC's Statistics API</p>
-<h3 dir="auto">URL to the spec</h3>
-<p dir="auto"><a href="https://w3c.github.io/webrtc-stats/" rel="nofollow">https://w3c.github.io/webrtc-stats/</a></p>
-<h3 dir="auto">URL to the spec's repository</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Issue Tracker URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Explainer URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">TAG Design Review URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Mozilla standards-positions issue URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">WebKit Bugzilla URL</h3>
-<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2955999520" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1202" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1202/hovercard" href="https://github.com/mozilla/standards-positions/issues/1202">mozilla/standards-positions#1202</a></p>
-<h3 dir="auto">Radar URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Description</h3>
-<p dir="auto">RTP stats objects, of type "outbound-rtp" or "inbound-rtp" in this case, represents a WebRTC stream. The identifier of this stream is the SSRC (a number). We should collect stats for streams that "exist", but implementations and spec has disagreed on when the stream should exist: if the SSRC information is conveyed via SDP, does the stream still exist before packets are sent or received?</p>
-<p dir="auto">I believe Safari has the same behavior as Chrome but I want to update the Chromium behavior.</p>
-<p dir="auto">Regarding outbound-rtp:</p>
-<ul dir="auto">
-<li>Chrome creates them too early (at "has-local-offer", should be at "stable")</li>
-<li>Firefox creates them (according to recent spec changes) too late: not until packets are sent.</li>
-</ul>
-<p dir="auto">Regarding inbound-rtp:</p>
-<ul dir="auto">
-<li>Chrome creates them too early if SSRCs are conveyed in the SDP, should create them when first packet is received.</li>
-<li>Firefox does it correctly and does not need to update.</li>
-</ul>]]></content>
-        <author>
-            <name>henbos</name>
-            <email>henbos@noreply.github.com</email>
-            <uri>https://github.com/henbos</uri>
-        </author>
-        <published>2025-03-28T12:22:12.000Z</published>
     </entry>
 </feed>

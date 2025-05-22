@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mozilla-standards-positions.rss</id>
     <title>mozilla/standards-positions Issues</title>
-    <updated>2025-05-22T09:01:37.322Z</updated>
+    <updated>2025-05-22T10:01:42.579Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mozilla-standards-positions.rss"/>
     <subtitle>mozilla/standards-positions Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[getComputedStyle() returns true visited colors]]></title>
+        <id>https://github.com/mozilla/standards-positions/issues/1234</id>
+        <link href="https://github.com/mozilla/standards-positions/issues/1234"/>
+        <updated>2025-05-22T09:31:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/238700?u=18c8d2f9b506f5988d195b7827566fe7f349adc8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Specification title</h3>
+<p dir="auto">getComputedStyle() returns true visited colors</p>
+<h3 dir="auto">Specification or proposal URL (if available)</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Explainer URL (if available)</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Proposal author(s)</h3>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/sesse/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/sesse">@sesse</a></p>
+<h3 dir="auto">MDN URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Caniuse.com URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Bugzilla URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Mozillians who can provide input</h3>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/emilio/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/emilio">@emilio</a></p>
+<h3 dir="auto">WebKit standards-position</h3>
+<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3082698098" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/498" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/498/hovercard" href="https://github.com/WebKit/standards-positions/issues/498">WebKit/standards-positions#498</a></p>
+<h3 dir="auto">Other information</h3>
+<p dir="auto">With <a href="https://github.com/explainers-by-googlers/Partitioning-visited-links-history">partitioned :visited links</a> in Chromium, the color of a :visited link is no longer sensitive. Thus, we would like to get rid of the special rules where getComputedStyle() on a link lies and returns the unvisited color, as this causes significant complexity for us (e.g. in handling transitions correctly).</p>
+<p dir="auto">For web compatibility reasons, we'd still restrict what properties are allowed in :visited selectors (so that a page with e.g. <code class="notranslate">:visited { font-size: 200px; }</code> would not suddenly change in newer browsers); this proposal is only to change what getComputedStyle() returns.</p>]]></content>
+        <author>
+            <name>sesse</name>
+            <email>sesse@noreply.github.com</email>
+            <uri>https://github.com/sesse</uri>
+        </author>
+        <published>2025-05-22T09:31:55.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WebCodecs VideoFrame Metadata Registry – rtpTimestamp field]]></title>
         <id>https://github.com/mozilla/standards-positions/issues/1233</id>
@@ -589,7 +622,7 @@ Previously brought up in a WHATNOT (<a href="https://github.com/whatwg/html/issu
 </ol>
 <p dir="auto">Some of those questions are also <a href="https://github.com/webmachinelearning/webnn/issues/840" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/840/hovercard">in the WebNN Github Repo</a>.</p>
 <p dir="auto">In a single image, this is what they propose (copied from their repository):</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDQ3OTcsIm5iZiI6MTc0NzkwNDQ5NywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQwOTAxMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMTY4ZTJiYzY4NDI3MzZhYTBhNjFiNzU3MjdkZDhkOTUzMzA1NTRiZjgzMzk0ODEwZjczM2U4ZTgyZWY5NDRiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3EA41BSqmVFUXOlZb1pOy1MfYNF0JaE-HhTdQ4vjN90"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDQ3OTcsIm5iZiI6MTc0NzkwNDQ5NywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQwOTAxMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMTY4ZTJiYzY4NDI3MzZhYTBhNjFiNzU3MjdkZDhkOTUzMzA1NTRiZjgzMzk0ODEwZjczM2U4ZTgyZWY5NDRiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3EA41BSqmVFUXOlZb1pOy1MfYNF0JaE-HhTdQ4vjN90" alt="Image" style="max-width: 100%;"></a></p>]]></content>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDg0MDIsIm5iZiI6MTc0NzkwODEwMiwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMDAxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYTlmMmZmMWZmYTdlN2RmZjVjNzczZTBlMzA5YWQ1ZjZhMThlNDcxMzgxODU2MGJlZmFmMjQ3OWMxOGQ1YWYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.z_hnn9AMve37wV5YVPu64Z9KVQAqUd7VXnIaZIBtp6w"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDg0MDIsIm5iZiI6MTc0NzkwODEwMiwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMDAxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYTlmMmZmMWZmYTdlN2RmZjVjNzczZTBlMzA5YWQ1ZjZhMThlNDcxMzgxODU2MGJlZmFmMjQ3OWMxOGQ1YWYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.z_hnn9AMve37wV5YVPu64Z9KVQAqUd7VXnIaZIBtp6w" alt="Image" style="max-width: 100%;"></a></p>]]></content>
         <author>
             <name>iampi31415</name>
             <email>iampi31415@noreply.github.com</email>
@@ -694,37 +727,5 @@ Previously brought up in a WHATNOT (<a href="https://github.com/whatwg/html/issu
             <uri>https://github.com/hsinyi</uri>
         </author>
         <published>2025-04-25T13:43:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CSS UI-4] caret-shape property]]></title>
-        <id>https://github.com/mozilla/standards-positions/issues/1211</id>
-        <link href="https://github.com/mozilla/standards-positions/issues/1211"/>
-        <updated>2025-04-29T08:23:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1628757?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Specification title</h3>
-<p dir="auto">CSS UI-4</p>
-<h3 dir="auto">Specification or proposal URL (if available)</h3>
-<p dir="auto"><a href="https://drafts.csswg.org/css-ui/#caret-shape" rel="nofollow">https://drafts.csswg.org/css-ui/#caret-shape</a></p>
-<h3 dir="auto">Explainer URL (if available)</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Proposal author(s)</h3>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/frivoal/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/frivoal">@frivoal</a></p>
-<h3 dir="auto">MDN URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Caniuse.com URL</h3>
-<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="946452053" data-permission-text="Title is private" data-url="https://github.com/Fyrd/caniuse/issues/5974" data-hovercard-type="issue" data-hovercard-url="/Fyrd/caniuse/issues/5974/hovercard" href="https://github.com/Fyrd/caniuse/issues/5974">Fyrd/caniuse#5974</a></p>
-<h3 dir="auto">Bugzilla URL</h3>
-<p dir="auto"><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1715487" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1715487</a></p>
-<h3 dir="auto">Mozillians who can provide input</h3>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/emilio/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/emilio">@emilio</a></p>
-<h3 dir="auto">WebKit standards-position</h3>
-<p dir="auto">pending</p>
-<h3 dir="auto">Other information</h3>
-<p dir="auto">Chromium intent:  <a href="https://chromestatus.com/feature/6106160780017664" rel="nofollow">https://chromestatus.com/feature/6106160780017664</a></p>]]></content>
-        <author>
-            <name>ziransun</name>
-            <email>ziransun@noreply.github.com</email>
-            <uri>https://github.com/ziransun</uri>
-        </author>
-        <published>2025-04-25T12:46:51.000Z</published>
     </entry>
 </feed>
