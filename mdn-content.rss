@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-22T10:01:46.575Z</updated>
+    <updated>2025-05-22T11:01:27.356Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[fix: missing newline before WebGL2-specific information]]></title>
+        <id>https://github.com/mdn/content/pull/39607</id>
+        <link href="https://github.com/mdn/content/pull/39607"/>
+        <updated>2025-05-22T10:59:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143941235?u=36fcc9508d81d3aeb6580e30acf44dfbc2f7894b&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+
+<p dir="auto">Refactored the <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGLRenderingContext/bindTexture" rel="nofollow"><code class="notranslate">bindTexture</code></a> docs formatting to properly separate WebGL2–specific texture types and improve consistency with similar pages</p>
+<h3 dir="auto">Motivation</h3>
+
+<p dir="auto">Previously, the line about WebGL2 support appeared directly under <code class="notranslate">gl.TEXTURE_CUBE_MAP</code>, making it seem like a nested child. This caused confusion and inconsistent presentation. The new formatting:</p>
+<ul dir="auto">
+<li>Adds a newline before the WebGL2-specific block</li>
+<li>Switches to consistent formatting where descriptions follow a <code class="notranslate">- :</code> structure (used across MDN)</li>
+<li>Mirrors the structure of <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGLRenderingContext/bufferData" rel="nofollow"><code class="notranslate">bufferData</code></a>, which handles WebGL2 notes correctly</li>
+</ul>
+<h3 dir="auto">Additional details</h3>
+<p dir="auto">NA</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39605.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3081505639" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39605" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39605/hovercard" href="https://github.com/mdn/content/issues/39605">#39605</a></p>]]></content>
+        <author>
+            <name>ashish0kumar</name>
+            <email>ashish0kumar@noreply.github.com</email>
+            <uri>https://github.com/ashish0kumar</uri>
+        </author>
+        <published>2025-05-22T10:59:05.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add MITM guide]]></title>
         <id>https://github.com/mdn/content/pull/39604</id>
@@ -195,27 +227,6 @@
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-19T16:57:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarify use of prefers-reduced-motion: reduce in CSS example]]></title>
-        <id>https://github.com/mdn/content/pull/39576</id>
-        <link href="https://github.com/mdn/content/pull/39576"/>
-        <updated>2025-05-22T08:36:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">This PR updates the <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/media/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/media">@media</a> rule from prefers-reduced-motion to prefers-reduced-motion: reduce in the CSS example to explicitly match the widely used syntax and align with best practices.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">The update addresses potential confusion for developers. Although <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/media/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/media">@media</a> (prefers-reduced-motion) works as a boolean, using the explicit : reduce value improves clarity and aligns with other documentation like <a href="https://web.dev/articles/prefers-reduced-motion" rel="nofollow">web.dev</a>.</p>
-<h3 dir="auto">Additional details</h3>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39543.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3067691543" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39543" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39543/hovercard" href="https://github.com/mdn/content/issues/39543">#39543</a></p>
-]]></content>
-        <author>
-            <name>farizadam</name>
-            <email>farizadam@noreply.github.com</email>
-            <uri>https://github.com/farizadam</uri>
-        </author>
-        <published>2025-05-19T16:49:53.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HTTP] Remove Permissions-Policy directive document-domain]]></title>

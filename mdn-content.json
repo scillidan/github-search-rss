@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/143941235?u=36fcc9508d81d3aeb6580e30acf44dfbc2f7894b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Refactored the <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/WebGLRenderingContext/bindTexture\" rel=\"nofollow\"><code class=\"notranslate\">bindTexture</code></a> docs formatting to properly separate WebGL2–specific texture types and improve consistency with similar pages</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Previously, the line about WebGL2 support appeared directly under <code class=\"notranslate\">gl.TEXTURE_CUBE_MAP</code>, making it seem like a nested child. This caused confusion and inconsistent presentation. The new formatting:</p>\n<ul dir=\"auto\">\n<li>Adds a newline before the WebGL2-specific block</li>\n<li>Switches to consistent formatting where descriptions follow a <code class=\"notranslate\">- :</code> structure (used across MDN)</li>\n<li>Mirrors the structure of <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/WebGLRenderingContext/bufferData\" rel=\"nofollow\"><code class=\"notranslate\">bufferData</code></a>, which handles WebGL2 notes correctly</li>\n</ul>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">NA</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39605.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3081505639\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39605\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39605/hovercard\" href=\"https://github.com/mdn/content/issues/39605\">#39605</a></p>",
+            "url": "https://github.com/mdn/content/pull/39607",
+            "title": "fix: missing newline before WebGL2-specific information",
+            "date_modified": "2025-05-22T10:59:28.000Z",
+            "date_published": "2025-05-22T10:59:05.000Z",
+            "author": {
+                "name": "ashish0kumar",
+                "url": "https://github.com/ashish0kumar"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Add a page on Manipulator in the Middle attacks.</p>",
             "url": "https://github.com/mdn/content/pull/39604",
             "title": "Add MITM guide",
@@ -124,17 +135,6 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <a class=\"user-mention notranslate\" data-hovercard-type=\"organization\" data-hovercard-url=\"/orgs/media/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/media\">@media</a> rule from prefers-reduced-motion to prefers-reduced-motion: reduce in the CSS example to explicitly match the widely used syntax and align with best practices.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">The update addresses potential confusion for developers. Although <a class=\"user-mention notranslate\" data-hovercard-type=\"organization\" data-hovercard-url=\"/orgs/media/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/media\">@media</a> (prefers-reduced-motion) works as a boolean, using the explicit : reduce value improves clarity and aligns with other documentation like <a href=\"https://web.dev/articles/prefers-reduced-motion\" rel=\"nofollow\">web.dev</a>.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39543.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3067691543\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39543\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39543/hovercard\" href=\"https://github.com/mdn/content/issues/39543\">#39543</a></p>\n",
-            "url": "https://github.com/mdn/content/pull/39576",
-            "title": "Clarify use of prefers-reduced-motion: reduce in CSS example",
-            "date_modified": "2025-05-22T08:36:33.000Z",
-            "date_published": "2025-05-19T16:49:53.000Z",
-            "author": {
-                "name": "farizadam",
-                "url": "https://github.com/farizadam"
             }
         },
         {
