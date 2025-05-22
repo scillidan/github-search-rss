@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists#unordered_lists\" rel=\"nofollow\">Unordered lists</a> section in the Learn area to address the concern raised in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083442580\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39611\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39611/hovercard\" href=\"https://github.com/mdn/content/issues/39611\">#39611</a>.</p>\n<p dir=\"auto\">It clarifies that the first example is intentionally invalid and that's because it is part of a step-by-step explanation to show how to create unordered lists.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">To avoid confusion about the code being incorrect and to help readers who might just be skimming the page.</p>",
+            "url": "https://github.com/mdn/content/pull/39631",
+            "title": "Add prose to clarify that the invalid HTML is intentional",
+            "date_modified": "2025-05-22T17:06:28.000Z",
+            "date_published": "2025-05-22T17:03:57.000Z",
+            "author": {
+                "name": "dipikabh",
+                "url": "https://github.com/dipikabh"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">As pointed out by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/caugner/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/caugner\">@caugner</a>, the <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/content-visibility#values\" rel=\"nofollow\">content-visibility</a> property page doesn't explicitly mention in prose what the default value is. This PR adds that sentence.</p>\n<p dir=\"auto\">I looked at a few more pages randomly and added the similar \"default value\" statement in the \"Values\" section.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">To provide default value info alongside the value's description in addition to the info being present in the Formal definition section.</p>",
             "url": "https://github.com/mdn/content/pull/39626",
             "title": "Add the default value indicator in prose",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "samuel871211",
                 "url": "https://github.com/samuel871211"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43677?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Changes the description of the ARIA heading role’s aria-level attribute to state that it is required, rather than stating that it defaults to 2.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">See the <a href=\"https://www.w3.org/TR/wai-aria-1.3/#heading\" rel=\"nofollow\">ARIA 1.3 specification for heading</a>:</p>\n<blockquote>\n<p dir=\"auto\">To ensure elements with a role of heading are organized into a logical outline, authors MUST use the aria-level attribute to indicate the proper nesting level.</p>\n</blockquote>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">The MDN page on the aria-level role already states that the heading role is required.</p>\n<p dir=\"auto\">I’m not sure where the “If no level is present, a value of 2 is the default” claim comes from.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\">None.</p>\n",
-            "url": "https://github.com/mdn/content/pull/39482",
-            "title": "ARIA heading role: aria-level is required",
-            "date_modified": "2025-05-22T03:15:51.000Z",
-            "date_published": "2025-05-12T01:26:20.000Z",
-            "author": {
-                "name": "js-choi",
-                "url": "https://github.com/js-choi"
             }
         }
     ]

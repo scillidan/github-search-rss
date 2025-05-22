@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-22T17:01:36.118Z</updated>
+    <updated>2025-05-22T18:01:42.602Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add prose to clarify that the invalid HTML is intentional]]></title>
+        <id>https://github.com/mdn/content/pull/39631</id>
+        <link href="https://github.com/mdn/content/pull/39631"/>
+        <updated>2025-05-22T17:06:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">This PR updates the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists#unordered_lists" rel="nofollow">Unordered lists</a> section in the Learn area to address the concern raised in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083442580" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39611" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39611/hovercard" href="https://github.com/mdn/content/issues/39611">#39611</a>.</p>
+<p dir="auto">It clarifies that the first example is intentionally invalid and that's because it is part of a step-by-step explanation to show how to create unordered lists.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">To avoid confusion about the code being incorrect and to help readers who might just be skimming the page.</p>]]></content>
+        <author>
+            <name>dipikabh</name>
+            <email>dipikabh@noreply.github.com</email>
+            <uri>https://github.com/dipikabh</uri>
+        </author>
+        <published>2025-05-22T17:03:57.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add the default value indicator in prose]]></title>
         <id>https://github.com/mdn/content/pull/39626</id>
@@ -413,37 +431,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-13T07:43:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARIA heading role: aria-level is required]]></title>
-        <id>https://github.com/mdn/content/pull/39482</id>
-        <link href="https://github.com/mdn/content/pull/39482"/>
-        <updated>2025-05-22T03:15:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43677?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<p dir="auto">Changes the description of the ARIA heading role’s aria-level attribute to state that it is required, rather than stating that it defaults to 2.</p>
-<h3 dir="auto">Motivation</h3>
-
-<p dir="auto">See the <a href="https://www.w3.org/TR/wai-aria-1.3/#heading" rel="nofollow">ARIA 1.3 specification for heading</a>:</p>
-<blockquote>
-<p dir="auto">To ensure elements with a role of heading are organized into a logical outline, authors MUST use the aria-level attribute to indicate the proper nesting level.</p>
-</blockquote>
-<h3 dir="auto">Additional details</h3>
-
-<p dir="auto">The MDN page on the aria-level role already states that the heading role is required.</p>
-<p dir="auto">I’m not sure where the “If no level is present, a value of 2 is the default” claim comes from.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-<p dir="auto">None.</p>
-]]></content>
-        <author>
-            <name>js-choi</name>
-            <email>js-choi@noreply.github.com</email>
-            <uri>https://github.com/js-choi</uri>
-        </author>
-        <published>2025-05-12T01:26:20.000Z</published>
     </entry>
 </feed>
