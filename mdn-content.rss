@@ -2,56 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-22T12:01:51.693Z</updated>
+    <updated>2025-05-22T13:10:14.577Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[fix: missing newline before WebGL2-specific information]]></title>
-        <id>https://github.com/mdn/content/pull/39607</id>
-        <link href="https://github.com/mdn/content/pull/39607"/>
-        <updated>2025-05-22T11:38:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/143941235?u=36fcc9508d81d3aeb6580e30acf44dfbc2f7894b&v=4" width="64" height="64" alt=""/><br/>
+        <title type="html"><![CDATA[Remove empty learn modules]]></title>
+        <id>https://github.com/mdn/content/pull/39610</id>
+        <link href="https://github.com/mdn/content/pull/39610"/>
+        <updated>2025-05-22T12:48:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
+<p dir="auto">When I reorganized the MDN learn area, I included the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Transform_animate" rel="nofollow">Transform and animate CSS</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Security_privacy" rel="nofollow">Security and privacy</a> modules to make the structure as consistent as possible with the <a href="https://developer.mozilla.org/en-US/curriculum/" rel="nofollow">MDN Curriculum</a>.</p>
+<p dir="auto">However, they are not real modules — they are just landing page skeletons — so they provide no value over the equivalent curriculum pages.</p>
+<p dir="auto">We have therefore decided to remove them for now.</p>
 
-<p dir="auto">Refactored the <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGLRenderingContext/bindTexture" rel="nofollow"><code class="notranslate">bindTexture</code></a> docs formatting to properly separate WebGL2–specific texture types and improve consistency with similar pages</p>
-<markdown-accessiblity-table><table role="table">
-<thead>
-<tr>
-<th>Before</th>
-<th>After</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/143941235/446531457-078ba398-8eb6-4356-943e-a34ae72da21c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MTU2MTEsIm5iZiI6MTc0NzkxNTMxMSwicGF0aCI6Ii8xNDM5NDEyMzUvNDQ2NTMxNDU3LTA3OGJhMzk4LThlYjYtNDM1Ni05NDNlLWEzNGFlNzJkYTIxYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMjAxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjMzMmVmNTU1MDkyYTQ1NGIyZTVhMWZhOTAxMjRjNzFlMDQzMTI3ZjY4MWYzZDgwNDA3ODlmNTcyZmU0YTdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-56jCPQQT5RKKwgHQ62tVAQ5JE7dtLepEsDd6lwDnNI"><img src="https://private-user-images.githubusercontent.com/143941235/446531457-078ba398-8eb6-4356-943e-a34ae72da21c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MTU2MTEsIm5iZiI6MTc0NzkxNTMxMSwicGF0aCI6Ii8xNDM5NDEyMzUvNDQ2NTMxNDU3LTA3OGJhMzk4LThlYjYtNDM1Ni05NDNlLWEzNGFlNzJkYTIxYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMjAxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjMzMmVmNTU1MDkyYTQ1NGIyZTVhMWZhOTAxMjRjNzFlMDQzMTI3ZjY4MWYzZDgwNDA3ODlmNTcyZmU0YTdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-56jCPQQT5RKKwgHQ62tVAQ5JE7dtLepEsDd6lwDnNI" alt="image" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/143941235/446531283-a78ac024-9c2f-419e-9238-0dfc4a8de2d3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MTU2MTEsIm5iZiI6MTc0NzkxNTMxMSwicGF0aCI6Ii8xNDM5NDEyMzUvNDQ2NTMxMjgzLWE3OGFjMDI0LTljMmYtNDE5ZS05MjM4LTBkZmM0YThkZTJkMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMjAxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZmYwZmFhOTVhMTk1Mzg5OThlOTQwNjBmYjQ4OWNhZWVhNDE2Y2MxMzE1ZDdlMDE1NzU0MWZjNTU3NzdkZGUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tkBr0ATMEaSA8D3UgP0bhvwzoMerVR3rcbbUI19LJ6M"><img src="https://private-user-images.githubusercontent.com/143941235/446531283-a78ac024-9c2f-419e-9238-0dfc4a8de2d3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MTU2MTEsIm5iZiI6MTc0NzkxNTMxMSwicGF0aCI6Ii8xNDM5NDEyMzUvNDQ2NTMxMjgzLWE3OGFjMDI0LTljMmYtNDE5ZS05MjM4LTBkZmM0YThkZTJkMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQxMjAxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZmYwZmFhOTVhMTk1Mzg5OThlOTQwNjBmYjQ4OWNhZWVhNDE2Y2MxMzE1ZDdlMDE1NzU0MWZjNTU3NzdkZGUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tkBr0ATMEaSA8D3UgP0bhvwzoMerVR3rcbbUI19LJ6M" alt="image" style="max-width: 100%;"></a></td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
 <h3 dir="auto">Motivation</h3>
 
-<p dir="auto">Previously, the line about WebGL2 support appeared directly under <code class="notranslate">gl.TEXTURE_CUBE_MAP</code>, making it seem like a nested child. This caused confusion and inconsistent presentation. The new formatting:</p>
-<ul dir="auto">
-<li>Adds a newline before the WebGL2-specific block</li>
-<li>Switches to consistent formatting where descriptions follow a <code class="notranslate">- :</code> structure (used across MDN)</li>
-<li>Mirrors the structure of <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGLRenderingContext/bufferData" rel="nofollow"><code class="notranslate">bufferData</code></a>, which handles WebGL2 notes correctly</li>
-</ul>
 <h3 dir="auto">Additional details</h3>
-<p dir="auto">NA</p>
+
 <h3 dir="auto">Related issues and pull requests</h3>
 
 
 
-
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39605.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3081505639" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39605" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39605/hovercard" href="https://github.com/mdn/content/issues/39605">#39605</a></p>]]></content>
+]]></content>
         <author>
-            <name>ashish0kumar</name>
-            <email>ashish0kumar@noreply.github.com</email>
-            <uri>https://github.com/ashish0kumar</uri>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
         </author>
-        <published>2025-05-22T10:59:05.000Z</published>
+        <published>2025-05-22T12:46:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add note to clarify that browser AI models may differ]]></title>
+        <id>https://github.com/mdn/content/pull/39609</id>
+        <link href="https://github.com/mdn/content/pull/39609"/>
+        <updated>2025-05-22T12:29:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">I received feedback that it would be good to clarify that the internal AI model browsers use to power AI APIs may differ between browsers.</p>
+<p dir="auto">This PR attempts to address that.</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-22T12:27:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved Italian translation]]></title>
+        <id>https://github.com/mdn/content/pull/39608</id>
+        <link href="https://github.com/mdn/content/pull/39608"/>
+        <updated>2025-05-22T12:20:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68858676?u=cc04b62d56d8c8c87fb5c75f37670760d5a1791e&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">I updated the Italian translation of a term in the learning' section sidebar, to better fit the context and for better understanding.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">To improve Italian translation.</p>]]></content>
+        <author>
+            <name>code-a1</name>
+            <email>code-a1@noreply.github.com</email>
+            <uri>https://github.com/code-a1</uri>
+        </author>
+        <published>2025-05-22T12:20:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Add MITM guide]]></title>
@@ -70,7 +94,7 @@
         <title type="html"><![CDATA[Fx139: Firefox/139 release notes]]></title>
         <id>https://github.com/mdn/content/pull/39600</id>
         <link href="https://github.com/mdn/content/pull/39600"/>
-        <updated>2025-05-21T11:14:51.000Z</updated>
+        <updated>2025-05-22T12:31:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Opening a PR to get previews rolling for the 139 branch</p>]]></content>
         <author>
             <name>bsmth</name>
@@ -80,24 +104,10 @@
         <published>2025-05-21T11:12:38.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebDriver conformance changes for Firefox 139]]></title>
-        <id>https://github.com/mdn/content/pull/39599</id>
-        <link href="https://github.com/mdn/content/pull/39599"/>
-        <updated>2025-05-22T11:50:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/129603?v=4" width="64" height="64" alt=""/><br/><p dir="auto">This adds the <a href="https://bugzilla.mozilla.org/buglist.cgi?list_id=16664529&amp;v1=fixed&amp;resolution=FIXED&amp;f2=cf_status_firefox138&amp;query_format=advanced&amp;o1=equals&amp;f1=cf_status_firefox139&amp;o2=notequals&amp;status_whiteboard=%5Bwebdriver%3Arelnote%5D&amp;columnlist=component%2Cresolution%2Cassigned_to%2Cshort_desc%2Cbug_type%2Cstatus_whiteboard&amp;status_whiteboard_type=substring&amp;v2=fixed" rel="nofollow">release notes worthy items</a> for WebDriver to the Firefox 139 release notes.</p>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/lutien/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/lutien">@lutien</a> and <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/juliandescottes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/juliandescottes">@juliandescottes</a> can you please take a look?</p>]]></content>
-        <author>
-            <name>whimboo</name>
-            <email>whimboo@noreply.github.com</email>
-            <uri>https://github.com/whimboo</uri>
-        </author>
-        <published>2025-05-21T11:05:57.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Remove unnecessary pseudo-namespace declarations.]]></title>
         <id>https://github.com/mdn/content/pull/39598</id>
         <link href="https://github.com/mdn/content/pull/39598"/>
-        <updated>2025-05-21T09:55:34.000Z</updated>
+        <updated>2025-05-22T13:08:47.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/171505395?u=0eea447f52ff97c023c31b8aa015063efb662777&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Given that the example is apparently embedded in HTML5, the <code class="notranslate">xmlns</code> attributes are useless.</p>]]></content>
         <author>
             <name>meiqinyan</name>
@@ -105,19 +115,6 @@
             <uri>https://github.com/meiqinyan</uri>
         </author>
         <published>2025-05-21T09:53:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Correct the description of credentials in the Request interface page]]></title>
-        <id>https://github.com/mdn/content/pull/39594</id>
-        <link href="https://github.com/mdn/content/pull/39594"/>
-        <updated>2025-05-20T18:50:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">The entry for <code class="notranslate">credentials</code> in <a href="https://developer.mozilla.org/en-US/docs/Web/API/Request" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/API/Request</a> is wrong - it doesn't contain credentials, it contains an option for how credentials are handled.</p>]]></content>
-        <author>
-            <name>wbamberg</name>
-            <email>wbamberg@noreply.github.com</email>
-            <uri>https://github.com/wbamberg</uri>
-        </author>
-        <published>2025-05-20T18:48:49.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[added the view-transition-class page]]></title>
