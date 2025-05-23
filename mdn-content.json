@@ -6,6 +6,28 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 ships support for escaping <code class=\"notranslate\">&lt;</code> and <code class=\"notranslate\">&gt;</code> to <code class=\"notranslate\">&amp;lt;</code> and <code class=\"notranslate\">&amp;gt;</code> in attributes when serializing HTML in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1962084\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1962084</a>. This affects all the obvious methods like innerHTML, outerHTML, getHTML etc.</p>\n<p dir=\"auto\">This PR removes the info in the experimental features page (the addition to Relnote is in a separate PR).</p>\n<p dir=\"auto\">I also added a note to the end of each of the affected methods pointing down to the browser compatibility for this feature. Note that the feature is non standard, but is expected to be standardized soon.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083817699\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39628\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39628/hovercard\" href=\"https://github.com/mdn/content/issues/39628\">#39628</a></p>",
+            "url": "https://github.com/mdn/content/pull/39639",
+            "title": "FF140 escaping `<` and `>` to `&lt;` and `&gt;` in attributes when serializing HTML",
+            "date_modified": "2025-05-23T05:00:19.000Z",
+            "date_published": "2025-05-23T04:57:55.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 ships support for escaping <code class=\"notranslate\">&lt;</code> and <code class=\"notranslate\">&gt;</code> to <code class=\"notranslate\">&amp;lt;</code> and <code class=\"notranslate\">&amp;gt;</code> in attributes when serializing HTML in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1962084\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1962084</a>. This affects all the obvious methods like innerHTML, outerHTML, getHTML.</p>\n<p dir=\"auto\">This adds a release note for the feature.</p>\n<p dir=\"auto\">NOTE, AFAIK this should go into a firefox/140 branch. In draft until I work out where that went.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083817699\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39628\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39628/hovercard\" href=\"https://github.com/mdn/content/issues/39628\">#39628</a></p>",
+            "url": "https://github.com/mdn/content/pull/39638",
+            "title": "FF140 Relnote: Serializes < and > in attributes",
+            "date_modified": "2025-05-23T04:26:04.000Z",
+            "date_published": "2025-05-23T04:24:10.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF139 (uplifted from FF140) removes experimental support for the SVG <a href=\"https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard\" rel=\"nofollow\"><code class=\"notranslate\">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement\" rel=\"nofollow\"><code class=\"notranslate\">SVGDiscardElement</code></a> interface added to release in FF136.</p>\n<p dir=\"auto\">This adds a note about the removal in FF139. Note, that is now the main version, so haven't needed to push to a non-main branch.<br>\nIf this was just experimental I wouldn't have done anything, but since <code class=\"notranslate\">SVGDiscardElement</code> was actually released (possibly by accident since the element wasn't) had to.</p>\n<p dir=\"auto\">Associated docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083558552\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39618\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39618/hovercard\" href=\"https://github.com/mdn/content/issues/39618\">#39618</a></p>",
             "url": "https://github.com/mdn/content/pull/39637",
             "title": "FF139 Relnote - SVG discard removed",
@@ -69,17 +91,6 @@
             "author": {
                 "name": "dipikabh",
                 "url": "https://github.com/dipikabh"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">I am starting to run ESLint on our code. This PR fixes reports of some rules that reported &lt;10 times. These rules and configurations aim for more concise, more secure, and more idiomatic code. Obviously some stylistic choices may be subjective, but generally the intention should be clear.</p>",
-            "url": "https://github.com/mdn/content/pull/39625",
-            "title": "Fix some lint reports",
-            "date_modified": "2025-05-22T15:46:49.000Z",
-            "date_published": "2025-05-22T15:34:43.000Z",
-            "author": {
-                "name": "Josh-Cena",
-                "url": "https://github.com/Josh-Cena"
             }
         },
         {
@@ -212,17 +223,6 @@
             "author": {
                 "name": "DanKaplanSES",
                 "url": "https://github.com/DanKaplanSES"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1066395?u=a0c87afc953571ad39a42971252b3dd5d2c00934&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Add status '0' to response values for fetch API response.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">A 0 response can be seen in addition to the HTTP response status codes indicated.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">Fetch standard references included in update.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39533",
-            "title": "Update Web API Response: status property: add '0' status value",
-            "date_modified": "2025-05-15T16:54:26.000Z",
-            "date_published": "2025-05-15T12:38:14.000Z",
-            "author": {
-                "name": "chrisveness",
-                "url": "https://github.com/chrisveness"
             }
         }
     ]
