@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-23T03:19:06.847Z</updated>
+    <updated>2025-05-23T04:02:21.895Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[FF139 Relnote - SVG discard removed]]></title>
+        <id>https://github.com/mdn/content/pull/39637</id>
+        <link href="https://github.com/mdn/content/pull/39637"/>
+        <updated>2025-05-23T03:53:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 (uplifted from FF140) removes experimental support for the SVG <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard" rel="nofollow"><code class="notranslate">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href="https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement" rel="nofollow"><code class="notranslate">SVGDiscardElement</code></a> interface added to release in FF136.</p>
+<p dir="auto">This adds a note about the removal in FF139. Note, that is now the main version, so haven't needed to push to a non-main branch.<br>
+If this was just experimental I wouldn't have done anything, but since <code class="notranslate">SVGDiscardElement</code> was actually released (possibly by accident since the element wasn't) had to.</p>
+<p dir="auto">Associated docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083558552" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39618" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39618/hovercard" href="https://github.com/mdn/content/issues/39618">#39618</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-23T03:51:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FF139 SVG discard element and api removed - expr feature too]]></title>
+        <id>https://github.com/mdn/content/pull/39636</id>
+        <link href="https://github.com/mdn/content/pull/39636"/>
+        <updated>2025-05-23T03:38:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 (uplifted from FF140) removes experimental support for the SVG <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard" rel="nofollow"><code class="notranslate">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href="https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement" rel="nofollow"><code class="notranslate">SVGDiscardElement</code></a> interface added to release in FF136.<br>
+I've removed the experimental feature entirely as it never released.</p>
+<p dir="auto">This updates <code class="notranslate">SVGDiscardElement</code> and <code class="notranslate">&lt;discard&gt;</code> to revert the status from experimental to deprecated. Nothing else needs to be done at this point. Perhaps not necessary - not sure if the BCD updater syncs that.</p>
+<p dir="auto">Also removed the entry from experimental features page. This is a permanent removal.</p>
+<p dir="auto">Associated docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083558552" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39618" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39618/hovercard" href="https://github.com/mdn/content/issues/39618">#39618</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-23T03:36:20.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FF140 Relnote - TaskSignal.any()]]></title>
         <id>https://github.com/mdn/content/pull/39635</id>
@@ -340,70 +373,5 @@ Questions inline</p>
             <uri>https://github.com/chrisveness</uri>
         </author>
         <published>2025-05-15T12:38:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technical review: Document CSS if() function]]></title>
-        <id>https://github.com/mdn/content/pull/39516</id>
-        <link href="https://github.com/mdn/content/pull/39516"/>
-        <updated>2025-05-21T15:29:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Chrome supports the CSS <a href="https://drafts.csswg.org/css-values-5/#if-notation" rel="nofollow"><code class="notranslate">if()</code></a> function from version 137. See <a href="https://chromestatus.com/feature/6313805904347136" rel="nofollow">https://chromestatus.com/feature/6313805904347136</a>.</p>
-<p dir="auto">This PR documents the new function. Specifically, it:</p>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Adds an <code class="notranslate">if()</code> reference page (nearly done, just needs examples)</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="">  Adds <code class="notranslate">if()</code> to the CSS values and units module page</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Adds <code class="notranslate">if()</code> to the CSS value functions ref page.</li>
-</ul>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>chrisdavidmills</name>
-            <email>chrisdavidmills@noreply.github.com</email>
-            <uri>https://github.com/chrisdavidmills</uri>
-        </author>
-        <published>2025-05-14T13:32:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[doc: add explanation for multiple `Transfer-Encoding` values]]></title>
-        <id>https://github.com/mdn/content/pull/39496</id>
-        <link href="https://github.com/mdn/content/pull/39496"/>
-        <updated>2025-05-19T00:21:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55658154?u=72eb5d6b966bd3197516e3205b1e2f4962df3cc6&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">Currently, the MDN document doesn't explain the meaning of multiple values of <code class="notranslate">Transfer-Encoding</code>.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto"><a href="https://datatracker.ietf.org/doc/html/rfc9112#section-6.1-6" rel="nofollow">https://datatracker.ietf.org/doc/html/rfc9112#section-6.1-6</a></p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="For example,
-
-Transfer-Encoding: gzip, chunked
-
-indicates that the content has been compressed using the gzip coding and then chunked using the chunked coding while forming the message body."><pre class="notranslate"><code class="notranslate">For example,
-
-Transfer-Encoding: gzip, chunked
-
-indicates that the content has been compressed using the gzip coding and then chunked using the chunked coding while forming the message body.
-</code></pre></div>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>samuel871211</name>
-            <email>samuel871211@noreply.github.com</email>
-            <uri>https://github.com/samuel871211</uri>
-        </author>
-        <published>2025-05-13T07:43:58.000Z</published>
     </entry>
 </feed>

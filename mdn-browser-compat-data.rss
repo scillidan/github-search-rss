@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-23T03:19:06.397Z</updated>
+    <updated>2025-05-23T04:02:21.371Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Ff139 remove svg discard element]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26883</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26883"/>
+        <updated>2025-05-23T03:28:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 removes experimental support for the SVG <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard" rel="nofollow"><code class="notranslate">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href="https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement" rel="nofollow"><code class="notranslate">SVGDiscardElement</code></a> interface added to release in FF136 in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1958839" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1958839</a></p>
+<p dir="auto">I've removed the experimental feature entirely as it never released.</p>
+<p dir="auto">For <code class="notranslate">SVGDiscardElement</code> I've added the remove version, which is technically correct. Note though, this was pretty unsusable, and I suspect unused. It should have been behind pref IMO. So you might want to delete that too.</p>
+<p dir="auto">Lastly, these changed from deprecated to experimental in FF136, and this reverts them. This is currently in the standard, and is expected to be remove, but hasn't been yet.</p>
+<p dir="auto">Associated docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083558552" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39618" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39618/hovercard" href="https://github.com/mdn/content/issues/39618">mdn/content#39618</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-23T03:25:33.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FF140 TaskSignal.any() in nightly]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26882</id>
