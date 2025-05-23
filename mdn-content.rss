@@ -2,36 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-23T12:01:52.794Z</updated>
+    <updated>2025-05-23T13:09:20.337Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Lint: use concise arrows]]></title>
-        <id>https://github.com/mdn/content/pull/39647</id>
-        <link href="https://github.com/mdn/content/pull/39647"/>
-        <updated>2025-05-23T11:56:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Our style guide explicitly requires the use of concise arrows <code class="notranslate">(a) =&gt; b</code> over <code class="notranslate">(a) =&gt; { return b; }</code>.</p>]]></content>
+        <title type="html"><![CDATA[Http header titles]]></title>
+        <id>https://github.com/mdn/content/pull/39648</id>
+        <link href="https://github.com/mdn/content/pull/39648"/>
+        <updated>2025-05-23T12:46:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">In this PR, I'm adding more content/context to page titles and using current <code class="notranslate">titles</code> -&gt; <code class="notranslate">short-title</code>s.</p>
+<p dir="auto"><strong>Additions:</strong></p>
+<ul dir="auto">
+<li><code class="notranslate">short-title</code> for HTTP headers and methods</li>
+</ul>
+<p dir="auto"><strong>Changes:</strong></p>
+<ul dir="auto">
+<li>Update <code class="notranslate">title</code> to say if it's a header, a Permissions-Policy or CSP directive, and that <code class="notranslate">CONNECT</code> etc. all refers to request methods.</li>
+</ul>
+<p dir="auto">For example all header pages:</p>
+<div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="title: Accept-CH"><pre class="notranslate"><span class="pl-ent">title</span>: <span class="pl-s">Accept-CH</span></pre></div>
+<p dir="auto">become</p>
+<div class="highlight highlight-source-diff notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="-title: Accept-CH
++title: Accept-CH header
++short-title: Accept-CH"><pre class="notranslate"><span class="pl-md"><span class="pl-md">-</span>title: Accept-CH</span>
+<span class="pl-mi1"><span class="pl-mi1">+</span>title: Accept-CH header</span>
+<span class="pl-mi1"><span class="pl-mi1">+</span>short-title: Accept-CH</span></pre></div>
+<p dir="auto">And all CSP/Permissions Policy directives:</p>
+<div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="title: &quot;CSP: script-src&quot;"><pre class="notranslate"><span class="pl-ent">title</span>: <span class="pl-s"><span class="pl-pds">"</span>CSP: script-src<span class="pl-pds">"</span></span></pre></div>
+<p dir="auto">Become:</p>
+<div class="highlight highlight-source-diff notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="-title: &quot;CSP: script-src&quot;
++title: &quot;Content-Security-Policy: script-src directive&quot;
++short-title: script-src"><pre class="notranslate"><span class="pl-md"><span class="pl-md">-</span>title: "CSP: script-src"</span>
+<span class="pl-mi1"><span class="pl-mi1">+</span>title: "Content-Security-Policy: script-src directive"</span>
+<span class="pl-mi1"><span class="pl-mi1">+</span>short-title: script-src</span></pre></div>
+<p dir="auto">The same change is repeated through the whole section.</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3052450141" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39472" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39472/hovercard" href="https://github.com/mdn/content/pull/39472">#39472</a></li>
+</ul>]]></content>
         <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
         </author>
-        <published>2025-05-23T11:07:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lint: use concise assignment operators]]></title>
-        <id>https://github.com/mdn/content/pull/39643</id>
-        <link href="https://github.com/mdn/content/pull/39643"/>
-        <updated>2025-05-23T11:48:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Prefer <code class="notranslate">a += b</code> to <code class="notranslate">a = a + b</code> for more concise and less bug-prone code.</p>]]></content>
-        <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
-        </author>
-        <published>2025-05-23T09:06:09.000Z</published>
+        <published>2025-05-23T12:43:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Technical review: Document canvas context lang attribute]]></title>
@@ -63,7 +80,7 @@
         <title type="html"><![CDATA[Lint: remove unnecessary if/else/return]]></title>
         <id>https://github.com/mdn/content/pull/39641</id>
         <link href="https://github.com/mdn/content/pull/39641"/>
-        <updated>2025-05-23T09:03:26.000Z</updated>
+        <updated>2025-05-23T12:52:50.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">It is explicitly written in our style guide that control flow should be concise to avoid unreachable code or unexpected states. This PR fixes reports from several rules:</p>
 <ul dir="auto">
 <li><code class="notranslate">no-else-return</code></li>
@@ -144,7 +161,7 @@ If this was just experimental I wouldn't have done anything, but since <code cla
         <title type="html"><![CDATA[FF139 SVG discard element and api removed - expr feature too]]></title>
         <id>https://github.com/mdn/content/pull/39636</id>
         <link href="https://github.com/mdn/content/pull/39636"/>
-        <updated>2025-05-23T03:38:28.000Z</updated>
+        <updated>2025-05-23T12:17:11.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 (uplifted from FF140) removes experimental support for the SVG <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard" rel="nofollow"><code class="notranslate">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href="https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement" rel="nofollow"><code class="notranslate">SVGDiscardElement</code></a> interface added to release in FF136.<br>
 I've removed the experimental feature entirely as it never released.</p>
 <p dir="auto">This updates <code class="notranslate">SVGDiscardElement</code> and <code class="notranslate">&lt;discard&gt;</code> to revert the status from experimental to deprecated. Nothing else needs to be done at this point. Perhaps not necessary - not sure if the BCD updater syncs that.</p>
@@ -251,7 +268,7 @@ I've removed the experimental feature entirely as it never released.</p>
         <title type="html"><![CDATA[Remove empty learn modules]]></title>
         <id>https://github.com/mdn/content/pull/39610</id>
         <link href="https://github.com/mdn/content/pull/39610"/>
-        <updated>2025-05-23T12:00:28.000Z</updated>
+        <updated>2025-05-23T12:32:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">When I reorganized the MDN learn area, I included the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Transform_animate" rel="nofollow">Transform and animate CSS</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Security_privacy" rel="nofollow">Security and privacy</a> modules to make the structure as consistent as possible with the <a href="https://developer.mozilla.org/en-US/curriculum/" rel="nofollow">MDN Curriculum</a>.</p>
@@ -304,7 +321,7 @@ I've removed the experimental feature entirely as it never released.</p>
         <title type="html"><![CDATA[added the view-transition-class page]]></title>
         <id>https://github.com/mdn/content/pull/39593</id>
         <link href="https://github.com/mdn/content/pull/39593"/>
-        <updated>2025-05-21T02:19:33.000Z</updated>
+        <updated>2025-05-23T12:03:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/286386?u=bc4894b945491e0834d2306dade7fef748ddf698&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <ul dir="auto">
 <li>Added <code class="notranslate">view-transition-class</code> page</li>
@@ -317,6 +334,10 @@ I've removed the experimental feature entirely as it never released.</p>
 <ul dir="auto">
 <li><a href="https://github.com/mdn/browser-compat-data/pull/26851" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26851/hovercard">BCD PR</a></li>
 <li><a href="https://github.com/mdn/content/pull/39588" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39588/hovercard">Firefox Release Note PR</a></li>
+</ul>
+<h2 dir="auto">Depends on</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2823920008" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/37901" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/37901/hovercard" href="https://github.com/mdn/content/pull/37901">#37901</a></li>
 </ul>]]></content>
         <author>
             <name>dletorey</name>
@@ -357,5 +378,20 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-20T14:08:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improves the explanation for the application-name metadata]]></title>
+        <id>https://github.com/mdn/content/pull/39584</id>
+        <link href="https://github.com/mdn/content/pull/39584"/>
+        <updated>2025-05-20T10:47:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13982547?u=ddbc70a31ce7638bb9a797a9efa6caff8519e544&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Adds an example on providing localized <code class="notranslate">application-name</code> using the <code class="notranslate">lang</code> attribute.</p>
+<h3 dir="auto">Link to specification  - <a href="https://html.spec.whatwg.org/multipage/semantics.html#meta-application-name" rel="nofollow">application-name</a></h3>]]></content>
+        <author>
+            <name>ajuchacko</name>
+            <email>ajuchacko@noreply.github.com</email>
+            <uri>https://github.com/ajuchacko</uri>
+        </author>
+        <published>2025-05-20T10:38:01.000Z</published>
     </entry>
 </feed>
