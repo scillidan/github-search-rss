@@ -2,11 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss</id>
     <title>w3ctag/design-reviews Design Issues</title>
-    <updated>2025-05-22T23:01:14.964Z</updated>
+    <updated>2025-05-23T00:04:31.202Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss"/>
     <subtitle>w3ctag/design-reviews Design Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[env(preferred-text-scale)]]></title>
+        <id>https://github.com/w3ctag/design-reviews/issues/1101</id>
+        <link href="https://github.com/w3ctag/design-reviews/issues/1101"/>
+        <updated>2025-05-22T23:53:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1801875?u=92afa3d31284ac2b8bc5876f1641458ba3e05a4c&v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
+<p dir="auto">I'm requesting a TAG review of env(preferred-text-scale)</p>
+<p dir="auto">Operating systems and web browsers provide global accessibility settings for the user to increase their system text scale. Authors would like to respect the user’s text scale settings but have trouble doing so today. We propose to provide authors with access to the user’s system font scale factor by adding a new CSS environment variable -- <code class="notranslate">env(preferred-text-scale)</code>.</p>
+<ul dir="auto">
+<li>Explainer¹: <a href="https://davidsgrogan.github.io/env-explainer.html" rel="nofollow">https://davidsgrogan.github.io/env-explainer.html</a></li>
+<li>Specification: <a href="https://drafts.csswg.org/css-env-1/#text-zoom" rel="nofollow">https://drafts.csswg.org/css-env-1/#text-zoom</a></li>
+<li>WPT Tests: Only internal tests due to lack of support for OS font scale setting in WPT. see <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="354825741" data-permission-text="Title is private" data-url="https://github.com/web-platform-tests/wpt/issues/12725" data-hovercard-type="issue" data-hovercard-url="/web-platform-tests/wpt/issues/12725/hovercard" href="https://github.com/web-platform-tests/wpt/issues/12725">web-platform-tests/wpt#12725</a></li>
+<li>User research:</li>
+<li>Security and Privacy self-review²: No security issues. Fingerprinting issues have been raised (exposing user preferences) and mitigated (bucketing). It's worth noting that drive-by sites already have access to this information, just non-ergonomically. See <a href="https://davidsgrogan.github.io/env-explainer.html#h.8bgh57iyzpo5" rel="nofollow">https://davidsgrogan.github.io/env-explainer.html#h.8bgh57iyzpo5</a> for a description of how google.com currently derives this preference.</li>
+<li>GitHub repo:</li>
+<li>Primary contacts:
+<ul dir="auto">
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/davidsgrogan/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/davidsgrogan">@davidsgrogan</a> Blink implementer and CSSWG member championing this proposal</li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/tabatkins/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/tabatkins">@tabatkins</a> Spec editor</li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/JoshTumath/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/JoshTumath">@JoshTumath</a> BBC author and CSSWG member who initiated the proposal and co-wrote the explainer</li>
+</ul>
+</li>
+<li>Organization/project driving the specification:</li>
+<li>This work is being funded by:</li>
+<li>Primary standards group developing this feature: CSSWG</li>
+<li>Incubation and standards groups that have discussed the design:
+<ul dir="auto">
+<li><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2445410472" data-permission-text="Title is private" data-url="https://github.com/w3c/csswg-drafts/issues/10674" data-hovercard-type="issue" data-hovercard-url="/w3c/csswg-drafts/issues/10674/hovercard" href="https://github.com/w3c/csswg-drafts/issues/10674">w3c/csswg-drafts#10674</a></li>
+</ul>
+</li>
+<li>Multi-stakeholder support³:
+<ul dir="auto">
+<li>Chromium comments: Positive</li>
+<li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3053487040" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1229" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1229/hovercard" href="https://github.com/mozilla/standards-positions/issues/1229">mozilla/standards-positions#1229</a></li>
+<li>WebKit comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3084756190" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/499" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/499/hovercard" href="https://github.com/WebKit/standards-positions/issues/499">WebKit/standards-positions#499</a></li>
+<li>An author initiated this proposal in the WG. <a href="https://davidsgrogan.github.io/env-explainer.html#h.ggc9hbja4vu6" rel="nofollow">https://davidsgrogan.github.io/env-explainer.html#h.ggc9hbja4vu6</a> has links to authors asking for help getting this information, and descriptions of the lengths authors currently go to to get this information.</li>
+</ul>
+</li>
+<li>Major unresolved issues with or opposition to this specification:</li>
+<li>Status/issue trackers for implementations⁴: <a href="https://chromestatus.com/feature/5328467685801984" rel="nofollow">https://chromestatus.com/feature/5328467685801984</a></li>
+</ul>
+<p dir="auto">Further details:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
+<li>Relevant time constraints or deadlines:</li>
+</ul>
+<p dir="auto">You should also know that...</p>]]></content>
+        <author>
+            <name>davidsgrogan</name>
+            <email>davidsgrogan@noreply.github.com</email>
+            <uri>https://github.com/davidsgrogan</uri>
+        </author>
+        <published>2025-05-22T23:47:16.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Browser Bound Keys for Secure Payment Confirmation]]></title>
         <id>https://github.com/w3ctag/design-reviews/issues/1097</id>
@@ -1155,81 +1209,5 @@ If this is a charter extension or revision, link a <em>coming later</em> <a href
             <uri>https://github.com/w3cbot</uri>
         </author>
         <published>2025-04-03T12:31:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAG review for making app updates more predictable]]></title>
-        <id>https://github.com/w3ctag/design-reviews/issues/1076</id>
-        <link href="https://github.com/w3ctag/design-reviews/issues/1076"/>
-        <updated>2025-05-15T10:39:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/93222189?u=ed47b76cc5102c4b9d53f1c122222826b640aa0f&v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
-<p dir="auto">I'm requesting an early TAG design review of predictable app updating.</p>
-<p dir="auto">The design proposes a way to have PWAs fully update their identities in a safe and resourceful manner, to further bridge the gap between PWAs and native apps. This is done by updating the <a href="https://www.w3.org/TR/appmanifest/#web-application-manifest" rel="nofollow">manifest spec</a> to use <a href="https://www.w3.org/TR/appmanifest/#icons-member" rel="nofollow">icon urls</a> for making updates more deterministic by the developer, and for providing a consistent experience. The proposal attempts to do so in a way that uses less resources and prevents user confusion by showing the update UX less often.</p>
-<ul dir="auto">
-<li>
-<p dir="auto">Explainer¹: <a href="https://github.com/WICG/manifest-incubations/blob/gh-pages/predictable-app-updating.md">https://github.com/WICG/manifest-incubations/blob/gh-pages/predictable-app-updating.md</a></p>
-</li>
-<li>
-<p dir="auto">User research: N/A</p>
-</li>
-<li>
-<p dir="auto">Security and Privacy self-review²: <a href="https://github.com/WICG/manifest-incubations/blob/gh-pages/predictable-app-updating-security-privacy-questionnaire.md">https://github.com/WICG/manifest-incubations/blob/gh-pages/predictable-app-updating-security-privacy-questionnaire.md</a></p>
-</li>
-<li>
-<p dir="auto">GitHub repo: <a href="https://github.com/WICG/manifest-incubations">https://github.com/WICG/manifest-incubations</a></p>
-</li>
-<li>
-<p dir="auto">Primary contacts:</p>
-<ul dir="auto">
-<li><a href="https://github.com/Dp-Goog">Dibyajyoti Pal</a>, Google</li>
-<li><a href="https://github.com/dmurph">Dan Murphy</a>, Google</li>
-</ul>
-</li>
-<li>
-<p dir="auto">Organization/project driving the design: Google Chrome</p>
-</li>
-<li>
-<p dir="auto">This work is being funded by: Google</p>
-</li>
-<li>
-<p dir="auto">Incubation and standards groups that have discussed the design:</p>
-<ul dir="auto">
-<li><a href="https://docs.google.com/document/d/1QDqllh8inOcIkTrblERm4HRKYh8Ce9Lu5S7WhOygs_0/edit?tab=t.0#bookmark=id.b76fa6xoh2i9" rel="nofollow">TPAC</a></li>
-</ul>
-</li>
-<li>
-<p dir="auto">Standards group(s) that you expect to discuss and/or adopt this work when it's<br>
-ready: WICG</p>
-</li>
-<li>
-<p dir="auto">Multi-stakeholder feedback³:</p>
-<ul dir="auto">
-<li>Chromium comments:
-<ul dir="auto">
-<li>Chromestatus entry: <a href="https://chromestatus.com/feature/5148463647686656" rel="nofollow">https://chromestatus.com/feature/5148463647686656</a></li>
-<li>Blink I2P: <a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/fWPN6TDuv-4" rel="nofollow">https://groups.google.com/a/chromium.org/g/blink-dev/c/fWPN6TDuv-4</a></li>
-</ul>
-</li>
-<li>Mozilla comments: N/A</li>
-<li>WebKit / Developer comments:
-<ul dir="auto">
-<li><a href="https://docs.google.com/document/d/1QDqllh8inOcIkTrblERm4HRKYh8Ce9Lu5S7WhOygs_0/edit?tab=t.0" rel="nofollow">TPAC minutes 2023</a></li>
-<li><a href="https://www.w3.org/2022/09/13-webapps-minutes.html#t02" rel="nofollow">TPAC minutes 2022</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<p dir="auto">Major unresolved issues with or opposition to this design: N/A</p>
-</li>
-<li>
-<p dir="auto">[  X  ] I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></p>
-</li>
-</ul>]]></content>
-        <author>
-            <name>Dp-Goog</name>
-            <email>Dp-Goog@noreply.github.com</email>
-            <uri>https://github.com/Dp-Goog</uri>
-        </author>
-        <published>2025-04-02T20:30:23.000Z</published>
     </entry>
 </feed>

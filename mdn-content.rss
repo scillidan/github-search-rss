@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-22T23:01:20.965Z</updated>
+    <updated>2025-05-23T00:04:37.596Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Add prose to clarify that the invalid HTML is intentional]]></title>
         <id>https://github.com/mdn/content/pull/39631</id>
         <link href="https://github.com/mdn/content/pull/39631"/>
-        <updated>2025-05-22T17:06:28.000Z</updated>
+        <updated>2025-05-22T23:39:09.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">This PR updates the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists#unordered_lists" rel="nofollow">Unordered lists</a> section in the Learn area to address the concern raised in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083442580" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39611" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39611/hovercard" href="https://github.com/mdn/content/issues/39611">#39611</a>.</p>
@@ -232,63 +232,6 @@
         <published>2025-05-20T01:36:17.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add 2nd round of Scrimba links to the Learn content]]></title>
-        <id>https://github.com/mdn/content/pull/39577</id>
-        <link href="https://github.com/mdn/content/pull/39577"/>
-        <updated>2025-05-20T13:22:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Our initial set of Scrimba link additions to the MDN Learn Web Development section was fairly successful, so this PR adds a second set of links as an experiment.</p>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>chrisdavidmills</name>
-            <email>chrisdavidmills@noreply.github.com</email>
-            <uri>https://github.com/chrisdavidmills</uri>
-        </author>
-        <published>2025-05-19T16:57:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HTTP] Remove Permissions-Policy directive document-domain]]></title>
-        <id>https://github.com/mdn/content/pull/39575</id>
-        <link href="https://github.com/mdn/content/pull/39575"/>
-        <updated>2025-05-20T08:44:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45960703?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<p dir="auto">Remove documentation about the obsolete HTTP header <code class="notranslate">Permissions-Policy</code> directive <code class="notranslate">document-domain</code>.</p>
-<h3 dir="auto">Motivation</h3>
-
-<p dir="auto">Permissions-Policy directive <code class="notranslate">document-domain</code> was removed from spec[1]. It was only ever implemented in Chromium behind a flag, never enabled by default and was removed entirely in Chromium 110[2].</p>
-<h3 dir="auto">Additional details</h3>
-
-<p dir="auto">[1] <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1463420649" data-permission-text="Title is private" data-url="https://github.com/whatwg/html/issues/8549" data-hovercard-type="pull_request" data-hovercard-url="/whatwg/html/pull/8549/hovercard" href="https://github.com/whatwg/html/pull/8549">whatwg/html#8549</a><br>
-[2] <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/chromium/chromium/commit/09ae39cb337e46a2f97a763e57986154b8af91eb/hovercard" href="https://github.com/chromium/chromium/commit/09ae39cb337e46a2f97a763e57986154b8af91eb">chromium/chromium@<tt>09ae39c</tt></a></p>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-<ul dir="auto">
-<li><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1475663372" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/22732" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/22732/hovercard" href="https://github.com/mdn/content/issues/22732">#22732</a></li>
-<li><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3073899546" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26836" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26836/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26836">mdn/browser-compat-data#26836</a></li>
-</ul>
-]]></content>
-        <author>
-            <name>bershanskiy</name>
-            <email>bershanskiy@noreply.github.com</email>
-            <uri>https://github.com/bershanskiy</uri>
-        </author>
-        <published>2025-05-19T13:39:18.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[chore: Change ints to doubles for ProgressEvent properties]]></title>
         <id>https://github.com/mdn/content/pull/39574</id>
         <link href="https://github.com/mdn/content/pull/39574"/>
@@ -431,5 +374,63 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-13T07:43:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARIA heading role: aria-level is required]]></title>
+        <id>https://github.com/mdn/content/pull/39482</id>
+        <link href="https://github.com/mdn/content/pull/39482"/>
+        <updated>2025-05-22T03:15:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43677?v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+
+<p dir="auto">Changes the description of the ARIA heading role’s aria-level attribute to state that it is required, rather than stating that it defaults to 2.</p>
+<h3 dir="auto">Motivation</h3>
+
+<p dir="auto">See the <a href="https://www.w3.org/TR/wai-aria-1.3/#heading" rel="nofollow">ARIA 1.3 specification for heading</a>:</p>
+<blockquote>
+<p dir="auto">To ensure elements with a role of heading are organized into a logical outline, authors MUST use the aria-level attribute to indicate the proper nesting level.</p>
+</blockquote>
+<h3 dir="auto">Additional details</h3>
+
+<p dir="auto">The MDN page on the aria-level role already states that the heading role is required.</p>
+<p dir="auto">I’m not sure where the “If no level is present, a value of 2 is the default” claim comes from.</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+<p dir="auto">None.</p>
+]]></content>
+        <author>
+            <name>js-choi</name>
+            <email>js-choi@noreply.github.com</email>
+            <uri>https://github.com/js-choi</uri>
+        </author>
+        <published>2025-05-12T01:26:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add an example to search for multi-byte pattern in an array]]></title>
+        <id>https://github.com/mdn/content/pull/39479</id>
+        <link href="https://github.com/mdn/content/pull/39479"/>
+        <updated>2025-05-21T17:45:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/><p dir="auto">And manipulate the array directly.</p>
+
+<h3 dir="auto">Description</h3>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">There was no example for manipulating the array directly without converting the whole array to a string first.</p>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>def00111</name>
+            <email>def00111@noreply.github.com</email>
+            <uri>https://github.com/def00111</uri>
+        </author>
+        <published>2025-05-11T18:31:10.000Z</published>
     </entry>
 </feed>

@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists#unordered_lists\" rel=\"nofollow\">Unordered lists</a> section in the Learn area to address the concern raised in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083442580\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39611\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39611/hovercard\" href=\"https://github.com/mdn/content/issues/39611\">#39611</a>.</p>\n<p dir=\"auto\">It clarifies that the first example is intentionally invalid and that's because it is part of a step-by-step explanation to show how to create unordered lists.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">To avoid confusion about the code being incorrect and to help readers who might just be skimming the page.</p>",
             "url": "https://github.com/mdn/content/pull/39631",
             "title": "Add prose to clarify that the invalid HTML is intentional",
-            "date_modified": "2025-05-22T17:06:28.000Z",
+            "date_modified": "2025-05-22T23:39:09.000Z",
             "date_published": "2025-05-22T17:03:57.000Z",
             "author": {
                 "name": "dipikabh",
@@ -138,28 +138,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Our initial set of Scrimba link additions to the MDN Learn Web Development section was fairly successful, so this PR adds a second set of links as an experiment.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39577",
-            "title": "Add 2nd round of Scrimba links to the Learn content",
-            "date_modified": "2025-05-20T13:22:00.000Z",
-            "date_published": "2025-05-19T16:57:51.000Z",
-            "author": {
-                "name": "chrisdavidmills",
-                "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45960703?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Remove documentation about the obsolete HTTP header <code class=\"notranslate\">Permissions-Policy</code> directive <code class=\"notranslate\">document-domain</code>.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Permissions-Policy directive <code class=\"notranslate\">document-domain</code> was removed from spec[1]. It was only ever implemented in Chromium behind a flag, never enabled by default and was removed entirely in Chromium 110[2].</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">[1] <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1463420649\" data-permission-text=\"Title is private\" data-url=\"https://github.com/whatwg/html/issues/8549\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/whatwg/html/pull/8549/hovercard\" href=\"https://github.com/whatwg/html/pull/8549\">whatwg/html#8549</a><br>\n[2] <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/chromium/chromium/commit/09ae39cb337e46a2f97a763e57986154b8af91eb/hovercard\" href=\"https://github.com/chromium/chromium/commit/09ae39cb337e46a2f97a763e57986154b8af91eb\">chromium/chromium@<tt>09ae39c</tt></a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<ul dir=\"auto\">\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1475663372\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/22732\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/22732/hovercard\" href=\"https://github.com/mdn/content/issues/22732\">#22732</a></li>\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3073899546\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26836\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26836/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/26836\">mdn/browser-compat-data#26836</a></li>\n</ul>\n",
-            "url": "https://github.com/mdn/content/pull/39575",
-            "title": "[HTTP] Remove Permissions-Policy directive document-domain",
-            "date_modified": "2025-05-20T08:44:22.000Z",
-            "date_published": "2025-05-19T13:39:18.000Z",
-            "author": {
-                "name": "bershanskiy",
-                "url": "https://github.com/bershanskiy"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The docs are explicit about ints here, and changes have landed allowing doubles:</p>\n<p dir=\"auto\"><a href=\"https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded\" rel=\"nofollow\">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>\n<ul dir=\"auto\">\n<li><a href=\"https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ\" rel=\"nofollow\">Chromium Intent to Ship</a></li>\n<li><a href=\"https://bugs.webkit.org/show_bug.cgi?id=288688\" rel=\"nofollow\">WebKit bug</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1943649\" rel=\"nofollow\">Gecko bug</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #641.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2883460957\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/mdn/issues/641\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/641/hovercard\" href=\"https://github.com/mdn/mdn/issues/641\">mdn/mdn#641</a></p>",
             "url": "https://github.com/mdn/content/pull/39574",
             "title": "chore: Change ints to doubles for ProgressEvent properties",
@@ -223,6 +201,28 @@
             "author": {
                 "name": "samuel871211",
                 "url": "https://github.com/samuel871211"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43677?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Changes the description of the ARIA heading role’s aria-level attribute to state that it is required, rather than stating that it defaults to 2.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">See the <a href=\"https://www.w3.org/TR/wai-aria-1.3/#heading\" rel=\"nofollow\">ARIA 1.3 specification for heading</a>:</p>\n<blockquote>\n<p dir=\"auto\">To ensure elements with a role of heading are organized into a logical outline, authors MUST use the aria-level attribute to indicate the proper nesting level.</p>\n</blockquote>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\">The MDN page on the aria-level role already states that the heading role is required.</p>\n<p dir=\"auto\">I’m not sure where the “If no level is present, a value of 2 is the default” claim comes from.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\">None.</p>\n",
+            "url": "https://github.com/mdn/content/pull/39482",
+            "title": "ARIA heading role: aria-level is required",
+            "date_modified": "2025-05-22T03:15:51.000Z",
+            "date_published": "2025-05-12T01:26:20.000Z",
+            "author": {
+                "name": "js-choi",
+                "url": "https://github.com/js-choi"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10849366?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">And manipulate the array directly.</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">There was no example for manipulating the array directly without converting the whole array to a string first.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39479",
+            "title": "Add an example to search for multi-byte pattern in an array",
+            "date_modified": "2025-05-21T17:45:19.000Z",
+            "date_published": "2025-05-11T18:31:10.000Z",
+            "author": {
+                "name": "def00111",
+                "url": "https://github.com/def00111"
             }
         }
     ]
