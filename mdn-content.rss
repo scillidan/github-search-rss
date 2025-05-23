@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-23T09:01:36.628Z</updated>
+    <updated>2025-05-23T10:01:31.297Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Lint: use parseInt with a radix]]></title>
+        <id>https://github.com/mdn/content/pull/39644</id>
+        <link href="https://github.com/mdn/content/pull/39644"/>
+        <updated>2025-05-23T09:11:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><code class="notranslate">parseInt</code> tries to guess the radix if it's not explicitly provided, which often leads to unintended behavior. A radix of <code class="notranslate">10</code> should always be explicitly given.</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-23T09:09:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lint: use concise assignment operators]]></title>
+        <id>https://github.com/mdn/content/pull/39643</id>
+        <link href="https://github.com/mdn/content/pull/39643"/>
+        <updated>2025-05-23T09:12:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Prefer <code class="notranslate">a += b</code> to <code class="notranslate">a = a + b</code> for more concise and less bug-prone code.</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-23T09:06:09.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Technical review: Document canvas context lang attribute]]></title>
         <id>https://github.com/mdn/content/pull/39642</id>
@@ -37,7 +63,7 @@
         <title type="html"><![CDATA[Lint: remove unnecessary if/else/return]]></title>
         <id>https://github.com/mdn/content/pull/39641</id>
         <link href="https://github.com/mdn/content/pull/39641"/>
-        <updated>2025-05-23T09:01:35.000Z</updated>
+        <updated>2025-05-23T09:03:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">It is explicitly written in our style guide that control flow should be concise to avoid unreachable code or unexpected states. This PR fixes reports from several rules:</p>
 <ul dir="auto">
 <li><code class="notranslate">no-else-return</code></li>
@@ -165,7 +191,7 @@ I've removed the experimental feature entirely as it never released.</p>
         <title type="html"><![CDATA[Add prose to clarify that the invalid HTML is intentional]]></title>
         <id>https://github.com/mdn/content/pull/39631</id>
         <link href="https://github.com/mdn/content/pull/39631"/>
-        <updated>2025-05-23T06:17:08.000Z</updated>
+        <updated>2025-05-23T09:54:14.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">This PR updates the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists#unordered_lists" rel="nofollow">Unordered lists</a> section in the Learn area to address the concern raised in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083442580" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39611" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39611/hovercard" href="https://github.com/mdn/content/issues/39611">#39611</a>.</p>
@@ -225,7 +251,7 @@ I've removed the experimental feature entirely as it never released.</p>
         <title type="html"><![CDATA[Remove empty learn modules]]></title>
         <id>https://github.com/mdn/content/pull/39610</id>
         <link href="https://github.com/mdn/content/pull/39610"/>
-        <updated>2025-05-22T12:48:56.000Z</updated>
+        <updated>2025-05-23T09:55:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">When I reorganized the MDN learn area, I included the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Transform_animate" rel="nofollow">Transform and animate CSS</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Security_privacy" rel="nofollow">Security and privacy</a> modules to make the structure as consistent as possible with the <a href="https://developer.mozilla.org/en-US/curriculum/" rel="nofollow">MDN Curriculum</a>.</p>
@@ -331,45 +357,5 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-20T14:08:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improves the explanation for the application-name metadata]]></title>
-        <id>https://github.com/mdn/content/pull/39584</id>
-        <link href="https://github.com/mdn/content/pull/39584"/>
-        <updated>2025-05-20T10:47:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13982547?u=ddbc70a31ce7638bb9a797a9efa6caff8519e544&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Adds an example on providing localized <code class="notranslate">application-name</code> using the <code class="notranslate">lang</code> attribute.</p>
-<h3 dir="auto">Link to specification  - <a href="https://html.spec.whatwg.org/multipage/semantics.html#meta-application-name" rel="nofollow">application-name</a></h3>]]></content>
-        <author>
-            <name>ajuchacko</name>
-            <email>ajuchacko@noreply.github.com</email>
-            <uri>https://github.com/ajuchacko</uri>
-        </author>
-        <published>2025-05-20T10:38:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add Forbids  value `auto`]]></title>
-        <id>https://github.com/mdn/content/pull/39578</id>
-        <link href="https://github.com/mdn/content/pull/39578"/>
-        <updated>2025-05-23T01:45:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/21235555?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">according to <a href="https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto" rel="nofollow">https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto</a>.</p>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>zhangenming</name>
-            <email>zhangenming@noreply.github.com</email>
-            <uri>https://github.com/zhangenming</uri>
-        </author>
-        <published>2025-05-20T01:36:17.000Z</published>
     </entry>
 </feed>

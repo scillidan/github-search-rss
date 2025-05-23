@@ -6,6 +6,28 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><code class=\"notranslate\">parseInt</code> tries to guess the radix if it's not explicitly provided, which often leads to unintended behavior. A radix of <code class=\"notranslate\">10</code> should always be explicitly given.</p>",
+            "url": "https://github.com/mdn/content/pull/39644",
+            "title": "Lint: use parseInt with a radix",
+            "date_modified": "2025-05-23T09:11:55.000Z",
+            "date_published": "2025-05-23T09:09:55.000Z",
+            "author": {
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Prefer <code class=\"notranslate\">a += b</code> to <code class=\"notranslate\">a = a + b</code> for more concise and less bug-prone code.</p>",
+            "url": "https://github.com/mdn/content/pull/39643",
+            "title": "Lint: use concise assignment operators",
+            "date_modified": "2025-05-23T09:12:40.000Z",
+            "date_published": "2025-05-23T09:06:09.000Z",
+            "author": {
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Chrome 136 supports the lang attribute for on- and off-screen canvas 2D drawing contexts: see <a href=\"https://chromestatus.com/feature/5066778773028864\" rel=\"nofollow\">https://chromestatus.com/feature/5066778773028864</a>.</p>\n<p dir=\"auto\">This PR adds documentation for the new attribute.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39642",
             "title": "Technical review: Document canvas context lang attribute",
@@ -20,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">It is explicitly written in our style guide that control flow should be concise to avoid unreachable code or unexpected states. This PR fixes reports from several rules:</p>\n<ul dir=\"auto\">\n<li><code class=\"notranslate\">no-else-return</code></li>\n<li><code class=\"notranslate\">no-useless-return</code></li>\n<li><code class=\"notranslate\">logical-assignment-operators</code></li>\n<li><code class=\"notranslate\">no-throw-literal</code></li>\n</ul>",
             "url": "https://github.com/mdn/content/pull/39641",
             "title": "Lint: remove unnecessary if/else/return",
-            "date_modified": "2025-05-23T09:01:35.000Z",
+            "date_modified": "2025-05-23T09:03:26.000Z",
             "date_published": "2025-05-23T08:59:03.000Z",
             "author": {
                 "name": "Josh-Cena",
@@ -108,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists#unordered_lists\" rel=\"nofollow\">Unordered lists</a> section in the Learn area to address the concern raised in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083442580\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39611\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39611/hovercard\" href=\"https://github.com/mdn/content/issues/39611\">#39611</a>.</p>\n<p dir=\"auto\">It clarifies that the first example is intentionally invalid and that's because it is part of a step-by-step explanation to show how to create unordered lists.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">To avoid confusion about the code being incorrect and to help readers who might just be skimming the page.</p>",
             "url": "https://github.com/mdn/content/pull/39631",
             "title": "Add prose to clarify that the invalid HTML is intentional",
-            "date_modified": "2025-05-23T06:17:08.000Z",
+            "date_modified": "2025-05-23T09:54:14.000Z",
             "date_published": "2025-05-22T17:03:57.000Z",
             "author": {
                 "name": "dipikabh",
@@ -141,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">When I reorganized the MDN learn area, I included the <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Transform_animate\" rel=\"nofollow\">Transform and animate CSS</a> and <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Security_privacy\" rel=\"nofollow\">Security and privacy</a> modules to make the structure as consistent as possible with the <a href=\"https://developer.mozilla.org/en-US/curriculum/\" rel=\"nofollow\">MDN Curriculum</a>.</p>\n<p dir=\"auto\">However, they are not real modules — they are just landing page skeletons — so they provide no value over the equivalent curriculum pages.</p>\n<p dir=\"auto\">We have therefore decided to remove them for now.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39610",
             "title": "Remove empty learn modules",
-            "date_modified": "2025-05-22T12:48:56.000Z",
+            "date_modified": "2025-05-23T09:55:27.000Z",
             "date_published": "2025-05-22T12:46:55.000Z",
             "author": {
                 "name": "chrisdavidmills",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "samuel871211",
                 "url": "https://github.com/samuel871211"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13982547?u=ddbc70a31ce7638bb9a797a9efa6caff8519e544&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Adds an example on providing localized <code class=\"notranslate\">application-name</code> using the <code class=\"notranslate\">lang</code> attribute.</p>\n<h3 dir=\"auto\">Link to specification  - <a href=\"https://html.spec.whatwg.org/multipage/semantics.html#meta-application-name\" rel=\"nofollow\">application-name</a></h3>",
-            "url": "https://github.com/mdn/content/pull/39584",
-            "title": "Improves the explanation for the application-name metadata",
-            "date_modified": "2025-05-20T10:47:12.000Z",
-            "date_published": "2025-05-20T10:38:01.000Z",
-            "author": {
-                "name": "ajuchacko",
-                "url": "https://github.com/ajuchacko"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21235555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">according to <a href=\"https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto\" rel=\"nofollow\">https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto</a>.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39578",
-            "title": "add Forbids  value `auto`",
-            "date_modified": "2025-05-23T01:45:58.000Z",
-            "date_published": "2025-05-20T01:36:17.000Z",
-            "author": {
-                "name": "zhangenming",
-                "url": "https://github.com/zhangenming"
             }
         }
     ]
