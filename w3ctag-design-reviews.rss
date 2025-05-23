@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss</id>
     <title>w3ctag/design-reviews Design Issues</title>
-    <updated>2025-05-23T00:04:31.202Z</updated>
+    <updated>2025-05-23T01:28:51.879Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss"/>
     <subtitle>w3ctag/design-reviews Design Issues on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[env(preferred-text-scale)]]></title>
         <id>https://github.com/w3ctag/design-reviews/issues/1101</id>
         <link href="https://github.com/w3ctag/design-reviews/issues/1101"/>
-        <updated>2025-05-22T23:53:05.000Z</updated>
+        <updated>2025-05-23T00:33:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1801875?u=92afa3d31284ac2b8bc5876f1641458ba3e05a4c&v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
 <p dir="auto">I'm requesting a TAG review of env(preferred-text-scale)</p>
 <p dir="auto">Operating systems and web browsers provide global accessibility settings for the user to increase their system text scale. Authors would like to respect the user’s text scale settings but have trouble doing so today. We propose to provide authors with access to the user’s system font scale factor by adding a new CSS environment variable -- <code class="notranslate">env(preferred-text-scale)</code>.</p>
@@ -53,7 +53,8 @@
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> I have reviewed the TAG's <a href="https://www.w3.org/TR/design-principles/" rel="nofollow">Web Platform Design Principles</a></li>
 <li>Relevant time constraints or deadlines:</li>
 </ul>
-<p dir="auto">You should also know that...</p>]]></content>
+<p dir="auto">You should also know that...<br>
+Past discussions have included an accompanying <code class="notranslate">pem</code> CSS unit that would provide better ergonomics than the environment variable in certain situations. We intend to pursue that separately, as questions about its exact behavior have been recently raised (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2828349593" data-permission-text="Title is private" data-url="https://github.com/w3c/csswg-drafts/issues/11636" data-hovercard-type="issue" data-hovercard-url="/w3c/csswg-drafts/issues/11636/hovercard?comment_id=2840207330&amp;comment_type=issue_comment" href="https://github.com/w3c/csswg-drafts/issues/11636#issuecomment-2840207330">w3c/csswg-drafts#11636 (comment)</a>). These questions do not pertain to <code class="notranslate">env(preferred-text-scale)</code>.</p>]]></content>
         <author>
             <name>davidsgrogan</name>
             <email>davidsgrogan@noreply.github.com</email>
