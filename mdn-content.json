@@ -8,8 +8,8 @@
         {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">In this PR, I'm adding more content/context to page titles and using current <code class=\"notranslate\">titles</code> -&gt; <code class=\"notranslate\">short-title</code>s.</p>\n<p dir=\"auto\"><strong>Additions:</strong></p>\n<ul dir=\"auto\">\n<li><code class=\"notranslate\">short-title</code> for HTTP headers and methods</li>\n</ul>\n<p dir=\"auto\"><strong>Changes:</strong></p>\n<ul dir=\"auto\">\n<li>Update <code class=\"notranslate\">title</code> to say if it's a header, a Permissions-Policy or CSP directive, and that <code class=\"notranslate\">CONNECT</code> etc. all refers to request methods.</li>\n</ul>\n<p dir=\"auto\">For example all header pages:</p>\n<div class=\"highlight highlight-source-yaml notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"title: Accept-CH\"><pre class=\"notranslate\"><span class=\"pl-ent\">title</span>: <span class=\"pl-s\">Accept-CH</span></pre></div>\n<p dir=\"auto\">become</p>\n<div class=\"highlight highlight-source-diff notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"-title: Accept-CH\n+title: Accept-CH header\n+short-title: Accept-CH\"><pre class=\"notranslate\"><span class=\"pl-md\"><span class=\"pl-md\">-</span>title: Accept-CH</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span>title: Accept-CH header</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span>short-title: Accept-CH</span></pre></div>\n<p dir=\"auto\">And all CSP/Permissions Policy directives:</p>\n<div class=\"highlight highlight-source-yaml notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"title: &quot;CSP: script-src&quot;\"><pre class=\"notranslate\"><span class=\"pl-ent\">title</span>: <span class=\"pl-s\"><span class=\"pl-pds\">\"</span>CSP: script-src<span class=\"pl-pds\">\"</span></span></pre></div>\n<p dir=\"auto\">Become:</p>\n<div class=\"highlight highlight-source-diff notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"-title: &quot;CSP: script-src&quot;\n+title: &quot;Content-Security-Policy: script-src directive&quot;\n+short-title: script-src\"><pre class=\"notranslate\"><span class=\"pl-md\"><span class=\"pl-md\">-</span>title: \"CSP: script-src\"</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span>title: \"Content-Security-Policy: script-src directive\"</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span>short-title: script-src</span></pre></div>\n<p dir=\"auto\">The same change is repeated through the whole section.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3052450141\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39472\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39472/hovercard\" href=\"https://github.com/mdn/content/pull/39472\">#39472</a></li>\n</ul>",
             "url": "https://github.com/mdn/content/pull/39648",
-            "title": "Http header titles",
-            "date_modified": "2025-05-23T12:46:00.000Z",
+            "title": "feat(http): Improve header titles, short-titles",
+            "date_modified": "2025-05-23T13:19:09.000Z",
             "date_published": "2025-05-23T12:43:35.000Z",
             "author": {
                 "name": "bsmth",
@@ -25,17 +25,6 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">It is explicitly written in our style guide that control flow should be concise to avoid unreachable code or unexpected states. This PR fixes reports from several rules:</p>\n<ul dir=\"auto\">\n<li><code class=\"notranslate\">no-else-return</code></li>\n<li><code class=\"notranslate\">no-useless-return</code></li>\n<li><code class=\"notranslate\">logical-assignment-operators</code></li>\n<li><code class=\"notranslate\">no-throw-literal</code></li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39641",
-            "title": "Lint: remove unnecessary if/else/return",
-            "date_modified": "2025-05-23T12:52:50.000Z",
-            "date_published": "2025-05-23T08:59:03.000Z",
-            "author": {
-                "name": "Josh-Cena",
-                "url": "https://github.com/Josh-Cena"
             }
         },
         {
@@ -116,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists#unordered_lists\" rel=\"nofollow\">Unordered lists</a> section in the Learn area to address the concern raised in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083442580\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39611\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39611/hovercard\" href=\"https://github.com/mdn/content/issues/39611\">#39611</a>.</p>\n<p dir=\"auto\">It clarifies that the first example is intentionally invalid and that's because it is part of a step-by-step explanation to show how to create unordered lists.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">To avoid confusion about the code being incorrect and to help readers who might just be skimming the page.</p>",
-            "url": "https://github.com/mdn/content/pull/39631",
-            "title": "Add prose to clarify that the invalid HTML is intentional",
-            "date_modified": "2025-05-23T09:54:14.000Z",
-            "date_published": "2025-05-22T17:03:57.000Z",
-            "author": {
-                "name": "dipikabh",
-                "url": "https://github.com/dipikabh"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">As pointed out by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/caugner/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/caugner\">@caugner</a>, the <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/content-visibility#values\" rel=\"nofollow\">content-visibility</a> property page doesn't explicitly mention in prose what the default value is. This PR adds that sentence.</p>\n<p dir=\"auto\">I looked at a few more pages randomly and added the similar \"default value\" statement in the \"Values\" section.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">To provide default value info alongside the value's description in addition to the info being present in the Formal definition section.</p>",
             "url": "https://github.com/mdn/content/pull/39626",
             "title": "Add the default value indicator in prose",
@@ -149,17 +127,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">When I reorganized the MDN learn area, I included the <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Transform_animate\" rel=\"nofollow\">Transform and animate CSS</a> and <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Security_privacy\" rel=\"nofollow\">Security and privacy</a> modules to make the structure as consistent as possible with the <a href=\"https://developer.mozilla.org/en-US/curriculum/\" rel=\"nofollow\">MDN Curriculum</a>.</p>\n<p dir=\"auto\">However, they are not real modules — they are just landing page skeletons — so they provide no value over the equivalent curriculum pages.</p>\n<p dir=\"auto\">We have therefore decided to remove them for now.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39610",
-            "title": "Remove empty learn modules",
-            "date_modified": "2025-05-23T12:32:51.000Z",
-            "date_published": "2025-05-22T12:46:55.000Z",
-            "author": {
-                "name": "chrisdavidmills",
-                "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Add a page on Manipulator in the Middle attacks.</p>",
             "url": "https://github.com/mdn/content/pull/39604",
             "title": "Add MITM guide",
@@ -174,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171505395?u=0eea447f52ff97c023c31b8aa015063efb662777&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Given that the example is apparently embedded in HTML5, the <code class=\"notranslate\">xmlns</code> attributes are useless.</p>",
             "url": "https://github.com/mdn/content/pull/39598",
             "title": "Remove unnecessary pseudo-namespace declarations.",
-            "date_modified": "2025-05-22T13:08:47.000Z",
+            "date_modified": "2025-05-23T13:22:02.000Z",
             "date_published": "2025-05-21T09:53:40.000Z",
             "author": {
                 "name": "meiqinyan",
@@ -223,6 +190,39 @@
             "author": {
                 "name": "ajuchacko",
                 "url": "https://github.com/ajuchacko"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21235555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">according to <a href=\"https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto\" rel=\"nofollow\">https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto</a>.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39578",
+            "title": "add Forbids  value `auto`",
+            "date_modified": "2025-05-23T01:45:58.000Z",
+            "date_published": "2025-05-20T01:36:17.000Z",
+            "author": {
+                "name": "zhangenming",
+                "url": "https://github.com/zhangenming"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The docs are explicit about ints here, and changes have landed allowing doubles:</p>\n<p dir=\"auto\"><a href=\"https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded\" rel=\"nofollow\">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>\n<ul dir=\"auto\">\n<li><a href=\"https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ\" rel=\"nofollow\">Chromium Intent to Ship</a></li>\n<li><a href=\"https://bugs.webkit.org/show_bug.cgi?id=288688\" rel=\"nofollow\">WebKit bug</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1943649\" rel=\"nofollow\">Gecko bug</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #641.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2883460957\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/mdn/issues/641\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/641/hovercard\" href=\"https://github.com/mdn/mdn/issues/641\">mdn/mdn#641</a></p>",
+            "url": "https://github.com/mdn/content/pull/39574",
+            "title": "chore: Change ints to doubles for ProgressEvent properties",
+            "date_modified": "2025-05-23T06:23:19.000Z",
+            "date_published": "2025-05-19T11:24:17.000Z",
+            "author": {
+                "name": "bsmth",
+                "url": "https://github.com/bsmth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF139 adds full desktop support for the PRF extension. This adds docs.</p>\n<p dir=\"auto\">Draft, as I am seeking review from engineering first as per <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>\nQuestions inline</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3024518451\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39302\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39302/hovercard\" href=\"https://github.com/mdn/content/issues/39302\">#39302</a></p>",
+            "url": "https://github.com/mdn/content/pull/39570",
+            "title": "WebAuthn PRF extension docs",
+            "date_modified": "2025-05-23T01:05:27.000Z",
+            "date_published": "2025-05-19T06:08:16.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
             }
         }
     ]
