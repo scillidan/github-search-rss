@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-23T11:01:19.469Z</updated>
+    <updated>2025-05-23T12:01:52.794Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Lint: use parseInt with a radix]]></title>
-        <id>https://github.com/mdn/content/pull/39644</id>
-        <link href="https://github.com/mdn/content/pull/39644"/>
-        <updated>2025-05-23T09:11:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><code class="notranslate">parseInt</code> tries to guess the radix if it's not explicitly provided, which often leads to unintended behavior. A radix of <code class="notranslate">10</code> should always be explicitly given.</p>]]></content>
+        <title type="html"><![CDATA[Lint: use concise arrows]]></title>
+        <id>https://github.com/mdn/content/pull/39647</id>
+        <link href="https://github.com/mdn/content/pull/39647"/>
+        <updated>2025-05-23T11:56:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Our style guide explicitly requires the use of concise arrows <code class="notranslate">(a) =&gt; b</code> over <code class="notranslate">(a) =&gt; { return b; }</code>.</p>]]></content>
         <author>
             <name>Josh-Cena</name>
             <email>Josh-Cena@noreply.github.com</email>
             <uri>https://github.com/Josh-Cena</uri>
         </author>
-        <published>2025-05-23T09:09:55.000Z</published>
+        <published>2025-05-23T11:07:32.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lint: use concise assignment operators]]></title>
         <id>https://github.com/mdn/content/pull/39643</id>
         <link href="https://github.com/mdn/content/pull/39643"/>
-        <updated>2025-05-23T09:12:40.000Z</updated>
+        <updated>2025-05-23T11:48:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Prefer <code class="notranslate">a += b</code> to <code class="notranslate">a = a + b</code> for more concise and less bug-prone code.</p>]]></content>
         <author>
             <name>Josh-Cena</name>
@@ -128,7 +128,7 @@
         <title type="html"><![CDATA[FF139 Relnote - SVG discard removed]]></title>
         <id>https://github.com/mdn/content/pull/39637</id>
         <link href="https://github.com/mdn/content/pull/39637"/>
-        <updated>2025-05-23T03:53:05.000Z</updated>
+        <updated>2025-05-23T11:43:49.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 (uplifted from FF140) removes experimental support for the SVG <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard" rel="nofollow"><code class="notranslate">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href="https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement" rel="nofollow"><code class="notranslate">SVGDiscardElement</code></a> interface added to release in FF136.</p>
 <p dir="auto">This adds a note about the removal in FF139. Note, that is now the main version, so haven't needed to push to a non-main branch.<br>
 If this was just experimental I wouldn't have done anything, but since <code class="notranslate">SVGDiscardElement</code> was actually released (possibly by accident since the element wasn't) had to.</p>
@@ -251,7 +251,7 @@ I've removed the experimental feature entirely as it never released.</p>
         <title type="html"><![CDATA[Remove empty learn modules]]></title>
         <id>https://github.com/mdn/content/pull/39610</id>
         <link href="https://github.com/mdn/content/pull/39610"/>
-        <updated>2025-05-23T09:55:27.000Z</updated>
+        <updated>2025-05-23T12:00:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">When I reorganized the MDN learn area, I included the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Transform_animate" rel="nofollow">Transform and animate CSS</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Security_privacy" rel="nofollow">Security and privacy</a> modules to make the structure as consistent as possible with the <a href="https://developer.mozilla.org/en-US/curriculum/" rel="nofollow">MDN Curriculum</a>.</p>

@@ -6,11 +6,11 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><code class=\"notranslate\">parseInt</code> tries to guess the radix if it's not explicitly provided, which often leads to unintended behavior. A radix of <code class=\"notranslate\">10</code> should always be explicitly given.</p>",
-            "url": "https://github.com/mdn/content/pull/39644",
-            "title": "Lint: use parseInt with a radix",
-            "date_modified": "2025-05-23T09:11:55.000Z",
-            "date_published": "2025-05-23T09:09:55.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Our style guide explicitly requires the use of concise arrows <code class=\"notranslate\">(a) =&gt; b</code> over <code class=\"notranslate\">(a) =&gt; { return b; }</code>.</p>",
+            "url": "https://github.com/mdn/content/pull/39647",
+            "title": "Lint: use concise arrows",
+            "date_modified": "2025-05-23T11:56:22.000Z",
+            "date_published": "2025-05-23T11:07:32.000Z",
             "author": {
                 "name": "Josh-Cena",
                 "url": "https://github.com/Josh-Cena"
@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Prefer <code class=\"notranslate\">a += b</code> to <code class=\"notranslate\">a = a + b</code> for more concise and less bug-prone code.</p>",
             "url": "https://github.com/mdn/content/pull/39643",
             "title": "Lint: use concise assignment operators",
-            "date_modified": "2025-05-23T09:12:40.000Z",
+            "date_modified": "2025-05-23T11:48:54.000Z",
             "date_published": "2025-05-23T09:06:09.000Z",
             "author": {
                 "name": "Josh-Cena",
@@ -86,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF139 (uplifted from FF140) removes experimental support for the SVG <a href=\"https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard\" rel=\"nofollow\"><code class=\"notranslate\">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement\" rel=\"nofollow\"><code class=\"notranslate\">SVGDiscardElement</code></a> interface added to release in FF136.</p>\n<p dir=\"auto\">This adds a note about the removal in FF139. Note, that is now the main version, so haven't needed to push to a non-main branch.<br>\nIf this was just experimental I wouldn't have done anything, but since <code class=\"notranslate\">SVGDiscardElement</code> was actually released (possibly by accident since the element wasn't) had to.</p>\n<p dir=\"auto\">Associated docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083558552\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39618\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39618/hovercard\" href=\"https://github.com/mdn/content/issues/39618\">#39618</a></p>",
             "url": "https://github.com/mdn/content/pull/39637",
             "title": "FF139 Relnote - SVG discard removed",
-            "date_modified": "2025-05-23T03:53:05.000Z",
+            "date_modified": "2025-05-23T11:43:49.000Z",
             "date_published": "2025-05-23T03:51:05.000Z",
             "author": {
                 "name": "hamishwillee",
@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">When I reorganized the MDN learn area, I included the <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Transform_animate\" rel=\"nofollow\">Transform and animate CSS</a> and <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Security_privacy\" rel=\"nofollow\">Security and privacy</a> modules to make the structure as consistent as possible with the <a href=\"https://developer.mozilla.org/en-US/curriculum/\" rel=\"nofollow\">MDN Curriculum</a>.</p>\n<p dir=\"auto\">However, they are not real modules — they are just landing page skeletons — so they provide no value over the equivalent curriculum pages.</p>\n<p dir=\"auto\">We have therefore decided to remove them for now.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39610",
             "title": "Remove empty learn modules",
-            "date_modified": "2025-05-23T09:55:27.000Z",
+            "date_modified": "2025-05-23T12:00:28.000Z",
             "date_published": "2025-05-22T12:46:55.000Z",
             "author": {
                 "name": "chrisdavidmills",

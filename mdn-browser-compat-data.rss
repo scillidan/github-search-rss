@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-23T11:01:18.902Z</updated>
+    <updated>2025-05-23T12:01:52.234Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -157,25 +157,6 @@ I checked, and 138 is the correct shipping version for Chrome. I'm not sure of t
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-21T16:00:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Firefox impl_url for CSS `prefers-reduced-transparency`]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26863</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26863"/>
-        <updated>2025-05-21T08:55:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
-<p dir="auto">Updates Firefox bug for the CSS <code class="notranslate">prefers-reduced-transparency</code> media feature.</p>
-<h4 dir="auto">Test results and supporting details</h4>
-<p dir="auto">The old bug covering the implementation was fixed, the new bug is about enabling the feature by default.</p>
-<h4 dir="auto">Related issues</h4>
-
-]]></content>
-        <author>
-            <name>caugner</name>
-            <email>caugner@noreply.github.com</email>
-            <uri>https://github.com/caugner</uri>
-        </author>
-        <published>2025-05-21T08:54:46.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Firefox 135 added fractional coordinates for pointer events]]></title>
