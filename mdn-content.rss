@@ -2,35 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-23T16:01:26.433Z</updated>
+    <updated>2025-05-23T17:01:34.967Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[Add short-title for CSS/Learn/Privacy/PWA landing pages]]></title>
-        <id>https://github.com/mdn/content/pull/39650</id>
-        <link href="https://github.com/mdn/content/pull/39650"/>
-        <updated>2025-05-23T16:00:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Adds short-title for the CSS/Learn/Privacy/PWA (root) landing pages.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">This should allow us to remove <a href="https://github.com/mdn/rari/blob/5a2ead64bb8d4f46f9c548b942072838fb686281/crates/rari-doc/src/helpers/title.rs#L6-L16">this title mapping</a> in rari.</p>
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>caugner</name>
-            <email>caugner@noreply.github.com</email>
-            <uri>https://github.com/caugner</uri>
-        </author>
-        <published>2025-05-23T15:58:11.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Technical review: Add doc for the scope_extensions manifest member]]></title>
         <id>https://github.com/mdn/content/pull/39649</id>
@@ -56,49 +32,6 @@
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-23T15:34:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat(http): Improve header titles, short-titles]]></title>
-        <id>https://github.com/mdn/content/pull/39648</id>
-        <link href="https://github.com/mdn/content/pull/39648"/>
-        <updated>2025-05-23T13:19:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">In this PR, I'm adding more content/context to page titles and using current <code class="notranslate">titles</code> -&gt; <code class="notranslate">short-title</code>s.</p>
-<p dir="auto"><strong>Additions:</strong></p>
-<ul dir="auto">
-<li><code class="notranslate">short-title</code> for HTTP headers and methods</li>
-</ul>
-<p dir="auto"><strong>Changes:</strong></p>
-<ul dir="auto">
-<li>Update <code class="notranslate">title</code> to say if it's a header, a Permissions-Policy or CSP directive, and that <code class="notranslate">CONNECT</code> etc. all refers to request methods.</li>
-</ul>
-<p dir="auto">For example all header pages:</p>
-<div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="title: Accept-CH"><pre class="notranslate"><span class="pl-ent">title</span>: <span class="pl-s">Accept-CH</span></pre></div>
-<p dir="auto">become</p>
-<div class="highlight highlight-source-diff notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="-title: Accept-CH
-+title: Accept-CH header
-+short-title: Accept-CH"><pre class="notranslate"><span class="pl-md"><span class="pl-md">-</span>title: Accept-CH</span>
-<span class="pl-mi1"><span class="pl-mi1">+</span>title: Accept-CH header</span>
-<span class="pl-mi1"><span class="pl-mi1">+</span>short-title: Accept-CH</span></pre></div>
-<p dir="auto">And all CSP/Permissions Policy directives:</p>
-<div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="title: &quot;CSP: script-src&quot;"><pre class="notranslate"><span class="pl-ent">title</span>: <span class="pl-s"><span class="pl-pds">"</span>CSP: script-src<span class="pl-pds">"</span></span></pre></div>
-<p dir="auto">Become:</p>
-<div class="highlight highlight-source-diff notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="-title: &quot;CSP: script-src&quot;
-+title: &quot;Content-Security-Policy: script-src directive&quot;
-+short-title: script-src"><pre class="notranslate"><span class="pl-md"><span class="pl-md">-</span>title: "CSP: script-src"</span>
-<span class="pl-mi1"><span class="pl-mi1">+</span>title: "Content-Security-Policy: script-src directive"</span>
-<span class="pl-mi1"><span class="pl-mi1">+</span>short-title: script-src</span></pre></div>
-<p dir="auto">The same change is repeated through the whole section.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3052450141" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39472" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39472/hovercard" href="https://github.com/mdn/content/pull/39472">#39472</a></li>
-</ul>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-23T12:43:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Technical review: Document canvas context lang attribute]]></title>
@@ -404,5 +337,43 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/zhangenming</uri>
         </author>
         <published>2025-05-20T01:36:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chore: Change ints to doubles for ProgressEvent properties]]></title>
+        <id>https://github.com/mdn/content/pull/39574</id>
+        <link href="https://github.com/mdn/content/pull/39574"/>
+        <updated>2025-05-23T06:23:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
+<p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
+<ul dir="auto">
+<li><a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ" rel="nofollow">Chromium Intent to Ship</a></li>
+<li><a href="https://bugs.webkit.org/show_bug.cgi?id=288688" rel="nofollow">WebKit bug</a></li>
+<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1943649" rel="nofollow">Gecko bug</a></li>
+</ul>
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #641.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2883460957" data-permission-text="Title is private" data-url="https://github.com/mdn/mdn/issues/641" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/641/hovercard" href="https://github.com/mdn/mdn/issues/641">mdn/mdn#641</a></p>]]></content>
+        <author>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
+        </author>
+        <published>2025-05-19T11:24:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAuthn PRF extension docs]]></title>
+        <id>https://github.com/mdn/content/pull/39570</id>
+        <link href="https://github.com/mdn/content/pull/39570"/>
+        <updated>2025-05-23T01:05:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 adds full desktop support for the PRF extension. This adds docs.</p>
+<p dir="auto">Draft, as I am seeking review from engineering first as per <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>
+Questions inline</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024518451" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39302" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39302/hovercard" href="https://github.com/mdn/content/issues/39302">#39302</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-19T06:08:16.000Z</published>
     </entry>
 </feed>

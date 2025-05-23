@@ -6,17 +6,6 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Adds short-title for the CSS/Learn/Privacy/PWA (root) landing pages.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">This should allow us to remove <a href=\"https://github.com/mdn/rari/blob/5a2ead64bb8d4f46f9c548b942072838fb686281/crates/rari-doc/src/helpers/title.rs#L6-L16\">this title mapping</a> in rari.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39650",
-            "title": "Add short-title for CSS/Learn/Privacy/PWA landing pages",
-            "date_modified": "2025-05-23T16:00:31.000Z",
-            "date_published": "2025-05-23T15:58:11.000Z",
-            "author": {
-                "name": "caugner",
-                "url": "https://github.com/caugner"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Chrome 138 supports the <code class=\"notranslate\">scope_extensions</code> webapp manifest member; see <a href=\"https://chromestatus.com/feature/5746537956114432\" rel=\"nofollow\">https://chromestatus.com/feature/5746537956114432</a> for details.</p>\n<p dir=\"auto\">This PR adds a reference page for the new member.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39649",
             "title": "Technical review: Add doc for the scope_extensions manifest member",
@@ -25,17 +14,6 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">In this PR, I'm adding more content/context to page titles and using current <code class=\"notranslate\">titles</code> -&gt; <code class=\"notranslate\">short-title</code>s.</p>\n<p dir=\"auto\"><strong>Additions:</strong></p>\n<ul dir=\"auto\">\n<li><code class=\"notranslate\">short-title</code> for HTTP headers and methods</li>\n</ul>\n<p dir=\"auto\"><strong>Changes:</strong></p>\n<ul dir=\"auto\">\n<li>Update <code class=\"notranslate\">title</code> to say if it's a header, a Permissions-Policy or CSP directive, and that <code class=\"notranslate\">CONNECT</code> etc. all refers to request methods.</li>\n</ul>\n<p dir=\"auto\">For example all header pages:</p>\n<div class=\"highlight highlight-source-yaml notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"title: Accept-CH\"><pre class=\"notranslate\"><span class=\"pl-ent\">title</span>: <span class=\"pl-s\">Accept-CH</span></pre></div>\n<p dir=\"auto\">become</p>\n<div class=\"highlight highlight-source-diff notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"-title: Accept-CH\n+title: Accept-CH header\n+short-title: Accept-CH\"><pre class=\"notranslate\"><span class=\"pl-md\"><span class=\"pl-md\">-</span>title: Accept-CH</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span>title: Accept-CH header</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span>short-title: Accept-CH</span></pre></div>\n<p dir=\"auto\">And all CSP/Permissions Policy directives:</p>\n<div class=\"highlight highlight-source-yaml notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"title: &quot;CSP: script-src&quot;\"><pre class=\"notranslate\"><span class=\"pl-ent\">title</span>: <span class=\"pl-s\"><span class=\"pl-pds\">\"</span>CSP: script-src<span class=\"pl-pds\">\"</span></span></pre></div>\n<p dir=\"auto\">Become:</p>\n<div class=\"highlight highlight-source-diff notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"-title: &quot;CSP: script-src&quot;\n+title: &quot;Content-Security-Policy: script-src directive&quot;\n+short-title: script-src\"><pre class=\"notranslate\"><span class=\"pl-md\"><span class=\"pl-md\">-</span>title: \"CSP: script-src\"</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span>title: \"Content-Security-Policy: script-src directive\"</span>\n<span class=\"pl-mi1\"><span class=\"pl-mi1\">+</span>short-title: script-src</span></pre></div>\n<p dir=\"auto\">The same change is repeated through the whole section.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3052450141\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39472\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39472/hovercard\" href=\"https://github.com/mdn/content/pull/39472\">#39472</a></li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39648",
-            "title": "feat(http): Improve header titles, short-titles",
-            "date_modified": "2025-05-23T13:19:09.000Z",
-            "date_published": "2025-05-23T12:43:35.000Z",
-            "author": {
-                "name": "bsmth",
-                "url": "https://github.com/bsmth"
             }
         },
         {
@@ -223,6 +201,28 @@
             "author": {
                 "name": "zhangenming",
                 "url": "https://github.com/zhangenming"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The docs are explicit about ints here, and changes have landed allowing doubles:</p>\n<p dir=\"auto\"><a href=\"https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded\" rel=\"nofollow\">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>\n<ul dir=\"auto\">\n<li><a href=\"https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ\" rel=\"nofollow\">Chromium Intent to Ship</a></li>\n<li><a href=\"https://bugs.webkit.org/show_bug.cgi?id=288688\" rel=\"nofollow\">WebKit bug</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1943649\" rel=\"nofollow\">Gecko bug</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #641.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2883460957\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/mdn/issues/641\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/641/hovercard\" href=\"https://github.com/mdn/mdn/issues/641\">mdn/mdn#641</a></p>",
+            "url": "https://github.com/mdn/content/pull/39574",
+            "title": "chore: Change ints to doubles for ProgressEvent properties",
+            "date_modified": "2025-05-23T06:23:19.000Z",
+            "date_published": "2025-05-19T11:24:17.000Z",
+            "author": {
+                "name": "bsmth",
+                "url": "https://github.com/bsmth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF139 adds full desktop support for the PRF extension. This adds docs.</p>\n<p dir=\"auto\">Draft, as I am seeking review from engineering first as per <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>\nQuestions inline</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3024518451\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39302\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39302/hovercard\" href=\"https://github.com/mdn/content/issues/39302\">#39302</a></p>",
+            "url": "https://github.com/mdn/content/pull/39570",
+            "title": "WebAuthn PRF extension docs",
+            "date_modified": "2025-05-23T01:05:27.000Z",
+            "date_published": "2025-05-19T06:08:16.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
             }
         }
     ]
