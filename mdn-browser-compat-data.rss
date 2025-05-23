@@ -2,34 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-23T17:01:34.416Z</updated>
+    <updated>2025-05-23T18:01:29.990Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[FF140 Notification.actions .maxactions_static behind pref]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26885</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26885"/>
-        <updated>2025-05-23T06:17:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 puts <a href="https://developer.mozilla.org/en-US/docs/Web/API/Notification/maxActions_static" rel="nofollow"><code class="notranslate">Notification.maxActions</code></a> behind the pref <code class="notranslate">dom.webnotifications.actions.enabled</code> which is enabled in nightly, along with <a href="https://developer.mozilla.org/en-US/docs/Web/API/Notification/actions" rel="nofollow"><code class="notranslate">Notification.actions</code></a>) in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1963263" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1963263</a></p>
-<p dir="auto">The effect on desktop is simple -  <code class="notranslate">maxActions</code> was published, but is now enabled in preview. <code class="notranslate">actions</code> stays the same - in preview.</p>
-<p dir="auto">The bug also changes the pref to false in android.<br>
-I tried to indicate this but the tools stripped it out.<br>
-It looks to me like the current docs indicate that if I have a nightly version of FF on my phone it should work (?) - but that is not the case. I guess this is right?</p>
-<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083563978" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39620" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39620/hovercard" href="https://github.com/mdn/content/issues/39620">mdn/content#39620</a></p>]]></content>
-        <author>
-            <name>hamishwillee</name>
-            <email>hamishwillee@noreply.github.com</email>
-            <uri>https://github.com/hamishwillee</uri>
-        </author>
-        <published>2025-05-23T06:03:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ff139 remove svg discard element]]></title>
+        <title type="html"><![CDATA[Firefox 139 removes SVG discard element again]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26883</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26883"/>
-        <updated>2025-05-23T16:54:49.000Z</updated>
+        <updated>2025-05-23T17:15:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 removes experimental support for the SVG <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard" rel="nofollow"><code class="notranslate">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href="https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement" rel="nofollow"><code class="notranslate">SVGDiscardElement</code></a> interface added to release in FF136 in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1958839" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1958839</a></p>
 <p dir="auto">I've removed the experimental feature entirely as it never released.</p>
 <p dir="auto">For <code class="notranslate">SVGDiscardElement</code> I've added the remove version, which is technically correct. Note though, this was pretty unsusable, and I suspect unused. It should have been behind pref IMO. So you might want to delete that too.</p>
@@ -41,45 +23,6 @@ It looks to me like the current docs indicate that if I have a nightly version o
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-05-23T03:25:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FF140 TaskSignal.any() in nightly]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26882</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26882"/>
-        <updated>2025-05-23T01:33:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 supports <a href="https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static" rel="nofollow"><code class="notranslate">TaskSignal.any()</code></a> in nightly in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1964407" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>
-<p dir="auto">This adds the preview version.</p>
-<p dir="auto">Related work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083815432" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39627" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39627/hovercard" href="https://github.com/mdn/content/issues/39627">mdn/content#39627</a></p>]]></content>
-        <author>
-            <name>hamishwillee</name>
-            <email>hamishwillee@noreply.github.com</email>
-            <uri>https://github.com/hamishwillee</uri>
-        </author>
-        <published>2025-05-23T01:32:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add note on ChromeOS Badging API support]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26878</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26878"/>
-        <updated>2025-05-22T17:41:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5588957?u=fb4173ce4f07a2a10a27f53afb59de4055ec0ca4&v=4" width="64" height="64" alt=""/><br/>
-<h4 dir="auto">Summary</h4>
-
-<p dir="auto">Although the Badging API is not supported on most Linux systems it is supported on ChromeOS since version 91: <a href="https://github.com/chromium/chromium/commit/539930833a2f4df4d163211834fe530974520e05">Badging for Chrome OS: API usage overrides notifications · chromium/chromium@5399308</a></p>
-<h4 dir="auto">Test results and supporting details</h4>
-
-
-<p dir="auto">Various blog posts, personal usage on Chromebooks in the past, etc. I did not attempt to find and run ChromeOS 90 and 91 to confirm personally when the feature was made available.</p>
-<h4 dir="auto">Related issues</h4>
-
-
-<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3080259964" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26869" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26869/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26869">#26869</a></p>]]></content>
-        <author>
-            <name>mfulton26</name>
-            <email>mfulton26@noreply.github.com</email>
-            <uri>https://github.com/mfulton26</uri>
-        </author>
-        <published>2025-05-22T17:40:08.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bug-1965007 added removeInfo to tabGroups.onRemoved]]></title>
@@ -114,31 +57,6 @@ It looks to me like the current docs indicate that if I have a nightly version o
             <uri>https://github.com/caugner</uri>
         </author>
         <published>2025-05-21T08:51:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paint timing chrome updates]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26858</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26858"/>
-        <updated>2025-05-21T22:49:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8446860?u=05b4d25f8fcda71df908d10aa790579661f66dde&v=4" width="64" height="64" alt=""/><br/>
-<h4 dir="auto">Summary</h4>
-<p dir="auto">Updates Chrome's support for <code class="notranslate">PerformancePaintTiming</code>, whose named entries appear to have been placed behind a launch flag since version 114.</p>
-
-<h4 dir="auto">Test results and supporting details</h4>
-
-<p dir="auto"><code class="notranslate">All matched files use Prettier code style!</code><br>
-<code class="notranslate">All data passed linting!</code></p>
-
-<h4 dir="auto">Related issues</h4>
-
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #26857.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3078614016" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26857" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26857/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26857">#26857</a></p>
-]]></content>
-        <author>
-            <name>whalderman</name>
-            <email>whalderman@noreply.github.com</email>
-            <uri>https://github.com/whalderman</uri>
-        </author>
-        <published>2025-05-21T02:29:47.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Firefox Android 128 enabled residentKey support]]></title>
@@ -207,7 +125,7 @@ It looks to me like the current docs indicate that if I have a nightly version o
         <title type="html"><![CDATA[Remaining sanitizer methods]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26815</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26815"/>
-        <updated>2025-05-20T20:41:28.000Z</updated>
+        <updated>2025-05-23T17:03:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 adds remaining sanitizer method/options behind flag in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1959727" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1959727</a></p>
 <p dir="auto">Once FF140 becomes nightly, these would change to "preview".</p>
 <p dir="auto">Changes are:</p>
@@ -276,5 +194,79 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/queengooborg</uri>
         </author>
         <published>2025-05-06T22:22:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unmerge the `Feature-Policy` and `Permissions-Policy` headers]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26708</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26708"/>
+        <updated>2025-05-15T11:04:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64103?u=428d3c27c9cd7efc648e17dfe5a4321c3f8e44d2&v=4" width="64" height="64" alt=""/><br/>
+<h4 dir="auto">Summary</h4>
+<p dir="auto">This PR breaks the "alternate name" <code class="notranslate">Feature-Policy</code> into its own feature entries. See <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2860134395" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/25950" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/25950/hovercard" href="https://github.com/mdn/browser-compat-data/issues/25950">#25950</a> for further discussion.</p>
+
+<h4 dir="auto">Test results and supporting details</h4>
+<p dir="auto">There are a few issues I have not resolved:</p>
+<ul dir="auto">
+<li>Should we track the individual features/permission names under <code class="notranslate">Feature-Policy</code>, <code class="notranslate">Permissions-Policy</code>, both, or neither? I've (tentatively) tracked them in both, to preserve the continuity of many of the permissions existing <em>before</em> <code class="notranslate">Permissions-Policy</code>.</li>
+<li>Should the <code class="notranslate">Feature-policy</code> features link to any MDN pages (since they're actually for PP)? As a matter of convenience, I did not remove the links from the FP file, but I could do so.</li>
+<li>Should the <code class="notranslate">Feature-policy</code> features link specs? As a matter of convenience, I did not remove the links from the FP file, but I could do so.</li>
+</ul>
+
+
+<h4 dir="auto">Related issues</h4>
+<ul dir="auto">
+<li><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2860134395" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/25950" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/25950/hovercard" href="https://github.com/mdn/browser-compat-data/issues/25950">#25950</a></li>
+</ul>
+
+]]></content>
+        <author>
+            <name>ddbeck</name>
+            <email>ddbeck@noreply.github.com</email>
+            <uri>https://github.com/ddbeck</uri>
+        </author>
+        <published>2025-05-05T18:46:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove api.SnapEvent.SnapEvent from BCD]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26687</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26687"/>
+        <updated>2025-05-07T19:08:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR removes the <code class="notranslate">SnapEvent</code> member of the <code class="notranslate">SnapEvent</code> API from BCD. The collector reports that the constructor is an illegal constructor in Chromium.</p>
+<p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent</a></p>]]></content>
+        <author>
+            <name>queengooborg</name>
+            <email>queengooborg@noreply.github.com</email>
+            <uri>https://github.com/queengooborg</uri>
+        </author>
+        <published>2025-05-01T14:08:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Firefox data for api.SVGElement.load_event]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26686</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26686"/>
+        <updated>2025-05-07T19:05:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Firefox and Firefox Android for the <code class="notranslate">load_event</code> member of the <code class="notranslate">SVGElement</code> API. The <code class="notranslate">alternative_name</code> property was incorrectly used in this context.</p>]]></content>
+        <author>
+            <name>queengooborg</name>
+            <email>queengooborg@noreply.github.com</email>
+            <uri>https://github.com/queengooborg</uri>
+        </author>
+        <published>2025-05-01T13:19:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notification maxActions in preview]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26657</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26657"/>
+        <updated>2025-05-23T17:16:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">According to <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1225110#c33" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1225110#c33</a> <code class="notranslate">Notification.maxActions</code> static property is nightly only, not release as indicated by <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2963633823" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26371" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26371/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26371">#26371</a></p>
+<p dir="auto">Note that I fixed up the <code class="notranslate">Notification.actions</code> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2978620018" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26450" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26450/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26450">#26450</a> but it wasn't obvious to me that this particular item was behind a pref (i.e. I thought the developers had made a mistake).</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2960215885" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/38886" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/38886/hovercard" href="https://github.com/mdn/content/issues/38886">mdn/content#38886</a></p>
+<p dir="auto"><strong>EDIT</strong> Actually, this was omitted and current value correct.. This may need to change, but is waiting on <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1963263" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1963263</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-04-28T23:26:20.000Z</published>
     </entry>
 </feed>
