@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-23T01:28:56.938Z</updated>
+    <updated>2025-05-23T02:30:36.426Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[FF140 Relnote - TaskSignal.any()]]></title>
+        <id>https://github.com/mdn/content/pull/39635</id>
+        <link href="https://github.com/mdn/content/pull/39635"/>
+        <updated>2025-05-23T02:12:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 supports <a href="https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static" rel="nofollow"><code class="notranslate">TaskSignal.any()</code></a> in nightly in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1964407" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>
+<p dir="auto">This adds a release note entry (in the experimental section)</p>
+<p dir="auto">NOTE, AFAIK this should go into a firefox/140 branch. In draft until I work out where that went.</p>
+<p dir="auto">Related work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083815432" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39627" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39627/hovercard" href="https://github.com/mdn/content/issues/39627">#39627</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-23T02:10:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FF140 TaskSignal.any() - added to expr feat]]></title>
+        <id>https://github.com/mdn/content/pull/39634</id>
+        <link href="https://github.com/mdn/content/pull/39634"/>
+        <updated>2025-05-23T01:57:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 supports <a href="https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static" rel="nofollow"><code class="notranslate">TaskSignal.any()</code></a> in nightly in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1964407" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>
+<p dir="auto">This adds a minor tweak to the docs to link to priority definitions. It also updates the experimental features to note that in FF140 the API is feature complete.</p>
+<p dir="auto">Related work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083815432" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39627" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39627/hovercard" href="https://github.com/mdn/content/issues/39627">#39627</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-23T01:55:05.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add prose to clarify that the invalid HTML is intentional]]></title>
         <id>https://github.com/mdn/content/pull/39631</id>
@@ -210,7 +241,7 @@
         <title type="html"><![CDATA[add Forbids  value `auto`]]></title>
         <id>https://github.com/mdn/content/pull/39578</id>
         <link href="https://github.com/mdn/content/pull/39578"/>
-        <updated>2025-05-23T01:16:59.000Z</updated>
+        <updated>2025-05-23T01:45:58.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/21235555?v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">according to <a href="https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto" rel="nofollow">https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto</a>.</p>
@@ -374,63 +405,5 @@ indicates that the content has been compressed using the gzip coding and then ch
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-13T07:43:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARIA heading role: aria-level is required]]></title>
-        <id>https://github.com/mdn/content/pull/39482</id>
-        <link href="https://github.com/mdn/content/pull/39482"/>
-        <updated>2025-05-22T03:15:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43677?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<p dir="auto">Changes the description of the ARIA heading role’s aria-level attribute to state that it is required, rather than stating that it defaults to 2.</p>
-<h3 dir="auto">Motivation</h3>
-
-<p dir="auto">See the <a href="https://www.w3.org/TR/wai-aria-1.3/#heading" rel="nofollow">ARIA 1.3 specification for heading</a>:</p>
-<blockquote>
-<p dir="auto">To ensure elements with a role of heading are organized into a logical outline, authors MUST use the aria-level attribute to indicate the proper nesting level.</p>
-</blockquote>
-<h3 dir="auto">Additional details</h3>
-
-<p dir="auto">The MDN page on the aria-level role already states that the heading role is required.</p>
-<p dir="auto">I’m not sure where the “If no level is present, a value of 2 is the default” claim comes from.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-<p dir="auto">None.</p>
-]]></content>
-        <author>
-            <name>js-choi</name>
-            <email>js-choi@noreply.github.com</email>
-            <uri>https://github.com/js-choi</uri>
-        </author>
-        <published>2025-05-12T01:26:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add an example to search for multi-byte pattern in an array]]></title>
-        <id>https://github.com/mdn/content/pull/39479</id>
-        <link href="https://github.com/mdn/content/pull/39479"/>
-        <updated>2025-05-21T17:45:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10849366?v=4" width="64" height="64" alt=""/><br/><p dir="auto">And manipulate the array directly.</p>
-
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">There was no example for manipulating the array directly without converting the whole array to a string first.</p>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>def00111</name>
-            <email>def00111@noreply.github.com</email>
-            <uri>https://github.com/def00111</uri>
-        </author>
-        <published>2025-05-11T18:31:10.000Z</published>
     </entry>
 </feed>
