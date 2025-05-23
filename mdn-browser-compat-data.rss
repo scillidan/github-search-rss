@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-23T06:01:30.568Z</updated>
+    <updated>2025-05-23T07:01:21.908Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[FF140 Notification.actions .maxactions_static behind pref]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26885</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26885"/>
+        <updated>2025-05-23T06:17:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 puts <a href="https://developer.mozilla.org/en-US/docs/Web/API/Notification/maxActions_static" rel="nofollow"><code class="notranslate">Notification.maxActions</code></a> behind the pref <code class="notranslate">dom.webnotifications.actions.enabled</code> which is enabled in nightly, along with <a href="https://developer.mozilla.org/en-US/docs/Web/API/Notification/actions" rel="nofollow"><code class="notranslate">Notification.actions</code></a>) in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1963263" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1963263</a></p>
+<p dir="auto">The effect on desktop is simple -  <code class="notranslate">maxActions</code> was published, but is now enabled in preview. <code class="notranslate">actions</code> stays the same - in preview.</p>
+<p dir="auto">The bug also changes the pref to false in android.<br>
+I tried to indicate this but the tools stripped it out.<br>
+It looks to me like the current docs indicate that if I have a nightly version of FF on my phone it should work (?) - but that is not the case. I guess this is right?</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083563978" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39620" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39620/hovercard" href="https://github.com/mdn/content/issues/39620">mdn/content#39620</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-23T06:03:27.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FF140 Serializes `<` and `>` in attributes]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26884</id>
@@ -340,26 +358,5 @@ I checked, and 138 is the correct shipping version for Chrome. I'm not sure of t
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-05-15T23:49:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26795</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26795"/>
-        <updated>2025-05-14T23:33:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
-<p dir="auto">Provide the updates necessary for <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1550032" rel="nofollow">Bug 1550032</a> Change cookie API to explicitly support sameSite=none. Specifically:</p>
-<ul dir="auto">
-<li>To note the introduction of <code class="notranslate">unspecified</code> to <code class="notranslate">cookie.SameSiteStatus</code></li>
-<li>That <code class="notranslate">unspecified</code> is now the default value for <code class="notranslate">sameSite</code> in <code class="notranslate">cookies.set()</code>.</li>
-</ul>
-<h4 dir="auto">Related issues</h4>
-<p dir="auto">MDN documentation changes made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062530122" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39512" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39512/hovercard" href="https://github.com/mdn/content/pull/39512">mdn/content#39512</a>.<br>
-Release note update made in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3062615757" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39513" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39513/hovercard" href="https://github.com/mdn/content/pull/39513">mdn/content#39513</a>.</p>]]></content>
-        <author>
-            <name>rebloor</name>
-            <email>rebloor@noreply.github.com</email>
-            <uri>https://github.com/rebloor</uri>
-        </author>
-        <published>2025-05-14T09:36:47.000Z</published>
     </entry>
 </feed>

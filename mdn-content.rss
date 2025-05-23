@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-23T06:01:31.029Z</updated>
+    <updated>2025-05-23T07:01:22.454Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[FF140 Relnote: Notification.maxActions unpublished to nightly]]></title>
+        <id>https://github.com/mdn/content/pull/39640</id>
+        <link href="https://github.com/mdn/content/pull/39640"/>
+        <updated>2025-05-23T06:22:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 puts <a href="https://developer.mozilla.org/en-US/docs/Web/API/Notification/maxActions_static" rel="nofollow"><code class="notranslate">Notification.maxActions</code></a> behind the pref <code class="notranslate">dom.webnotifications.actions.enabled</code> which is enabled in nightly - it was previously released in FF138.</p>
+<p dir="auto">This adds a note to the release note, which is in the experimental features section.</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083563978" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39620" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39620/hovercard" href="https://github.com/mdn/content/issues/39620">#39620</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-23T06:20:37.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FF140 escaping `<` and `>` to `&lt;` and `&gt;` in attributes when serializing HTML]]></title>
         <id>https://github.com/mdn/content/pull/39639</id>
@@ -27,10 +42,9 @@
         <title type="html"><![CDATA[FF140 Relnote: Serializes < and > in attributes]]></title>
         <id>https://github.com/mdn/content/pull/39638</id>
         <link href="https://github.com/mdn/content/pull/39638"/>
-        <updated>2025-05-23T04:26:04.000Z</updated>
+        <updated>2025-05-23T06:23:16.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 ships support for escaping <code class="notranslate">&lt;</code> and <code class="notranslate">&gt;</code> to <code class="notranslate">&amp;lt;</code> and <code class="notranslate">&amp;gt;</code> in attributes when serializing HTML in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1962084" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1962084</a>. This affects all the obvious methods like innerHTML, outerHTML, getHTML.</p>
 <p dir="auto">This adds a release note for the feature.</p>
-<p dir="auto">NOTE, AFAIK this should go into a firefox/140 branch. In draft until I work out where that went.</p>
 <p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083817699" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39628" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39628/hovercard" href="https://github.com/mdn/content/issues/39628">#39628</a></p>]]></content>
         <author>
             <name>hamishwillee</name>
@@ -76,10 +90,9 @@ I've removed the experimental feature entirely as it never released.</p>
         <title type="html"><![CDATA[FF140 Relnote - TaskSignal.any()]]></title>
         <id>https://github.com/mdn/content/pull/39635</id>
         <link href="https://github.com/mdn/content/pull/39635"/>
-        <updated>2025-05-23T02:12:12.000Z</updated>
+        <updated>2025-05-23T06:24:01.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 supports <a href="https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static" rel="nofollow"><code class="notranslate">TaskSignal.any()</code></a> in nightly in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1964407" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>
 <p dir="auto">This adds a release note entry (in the experimental section)</p>
-<p dir="auto">NOTE, AFAIK this should go into a firefox/140 branch. In draft until I work out where that went.</p>
 <p dir="auto">Related work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083815432" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39627" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39627/hovercard" href="https://github.com/mdn/content/issues/39627">#39627</a></p>]]></content>
         <author>
             <name>hamishwillee</name>
@@ -107,7 +120,7 @@ I've removed the experimental feature entirely as it never released.</p>
         <title type="html"><![CDATA[Add prose to clarify that the invalid HTML is intentional]]></title>
         <id>https://github.com/mdn/content/pull/39631</id>
         <link href="https://github.com/mdn/content/pull/39631"/>
-        <updated>2025-05-22T23:39:09.000Z</updated>
+        <updated>2025-05-23T06:17:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">This PR updates the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists#unordered_lists" rel="nofollow">Unordered lists</a> section in the Learn area to address the concern raised in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083442580" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39611" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39611/hovercard" href="https://github.com/mdn/content/issues/39611">#39611</a>.</p>
@@ -318,7 +331,7 @@ I've removed the experimental feature entirely as it never released.</p>
         <title type="html"><![CDATA[chore: Change ints to doubles for ProgressEvent properties]]></title>
         <id>https://github.com/mdn/content/pull/39574</id>
         <link href="https://github.com/mdn/content/pull/39574"/>
-        <updated>2025-05-22T15:08:21.000Z</updated>
+        <updated>2025-05-23T06:23:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
 <p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
@@ -351,22 +364,5 @@ Questions inline</p>
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-05-19T06:08:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edit credentials summary similar to spec]]></title>
-        <id>https://github.com/mdn/content/pull/39569</id>
-        <link href="https://github.com/mdn/content/pull/39569"/>
-        <updated>2025-05-21T00:07:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Spec:</p>
-<blockquote>
-<p dir="auto">Credentials are HTTP cookies, TLS client certificates, and authentication entries (for HTTP authentication).</p>
-</blockquote>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39561.">Closes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3072075294" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39561" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39561/hovercard" href="https://github.com/mdn/content/issues/39561">#39561</a></p>]]></content>
-        <author>
-            <name>DanKaplanSES</name>
-            <email>DanKaplanSES@noreply.github.com</email>
-            <uri>https://github.com/DanKaplanSES</uri>
-        </author>
-        <published>2025-05-19T05:23:06.000Z</published>
     </entry>
 </feed>
