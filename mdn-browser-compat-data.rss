@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-23T14:01:31.926Z</updated>
+    <updated>2025-05-23T15:01:37.233Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -148,7 +148,7 @@ I checked, and 138 is the correct shipping version for Chrome. I'm not sure of t
         <title type="html"><![CDATA[Bug-1965007 added removeInfo to tabGroups.onRemoved]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26872</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26872"/>
-        <updated>2025-05-21T23:40:54.000Z</updated>
+        <updated>2025-05-23T14:02:24.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
 <p dir="auto">Add the <code class="notranslate">removeInfo</code> listener argument to <code class="notranslate">tabGroups.onRemoved</code>. This change was made <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1965007" rel="nofollow">Bug 1965007</a> tabGroups.onRemoved not firing when window is closed and documented on MDN in <a href="https://github.com/mdn/content/pull/39370" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39370/hovercard">Addition of the webextensions.api.tabGroups documentation #39370</a></p>]]></content>
         <author>
