@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-23T22:01:24.034Z</updated>
+    <updated>2025-05-23T23:01:31.037Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -78,7 +78,7 @@
         <title type="html"><![CDATA[FF140 escaping `<` and `>` to `&lt;` and `&gt;` in attributes when serializing HTML]]></title>
         <id>https://github.com/mdn/content/pull/39639</id>
         <link href="https://github.com/mdn/content/pull/39639"/>
-        <updated>2025-05-23T05:00:19.000Z</updated>
+        <updated>2025-05-23T23:01:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 ships support for escaping <code class="notranslate">&lt;</code> and <code class="notranslate">&gt;</code> to <code class="notranslate">&amp;lt;</code> and <code class="notranslate">&amp;gt;</code> in attributes when serializing HTML in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1962084" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1962084</a>. This affects all the obvious methods like innerHTML, outerHTML, getHTML etc.</p>
 <p dir="auto">This PR removes the info in the experimental features page (the addition to Relnote is in a separate PR).</p>
 <p dir="auto">I also added a note to the end of each of the affected methods pointing down to the browser compatibility for this feature. Note that the feature is non standard, but is expected to be standardized soon.</p>
