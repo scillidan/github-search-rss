@@ -6,6 +6,28 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Chrome 136 supports the lang attribute for on- and off-screen canvas 2D drawing contexts: see <a href=\"https://chromestatus.com/feature/5066778773028864\" rel=\"nofollow\">https://chromestatus.com/feature/5066778773028864</a>.</p>\n<p dir=\"auto\">This PR adds documentation for the new attribute.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39642",
+            "title": "Technical review: Document canvas context lang attribute",
+            "date_modified": "2025-05-23T09:01:23.000Z",
+            "date_published": "2025-05-23T08:59:30.000Z",
+            "author": {
+                "name": "chrisdavidmills",
+                "url": "https://github.com/chrisdavidmills"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">It is explicitly written in our style guide that control flow should be concise to avoid unreachable code or unexpected states. This PR fixes reports from several rules:</p>\n<ul dir=\"auto\">\n<li><code class=\"notranslate\">no-else-return</code></li>\n<li><code class=\"notranslate\">no-useless-return</code></li>\n<li><code class=\"notranslate\">logical-assignment-operators</code></li>\n<li><code class=\"notranslate\">no-throw-literal</code></li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/39641",
+            "title": "Lint: remove unnecessary if/else/return",
+            "date_modified": "2025-05-23T09:01:35.000Z",
+            "date_published": "2025-05-23T08:59:03.000Z",
+            "author": {
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 puts <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Notification/maxActions_static\" rel=\"nofollow\"><code class=\"notranslate\">Notification.maxActions</code></a> behind the pref <code class=\"notranslate\">dom.webnotifications.actions.enabled</code> which is enabled in nightly - it was previously released in FF138.</p>\n<p dir=\"auto\">This adds a note to the release note, which is in the experimental features section.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083563978\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39620\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39620/hovercard\" href=\"https://github.com/mdn/content/issues/39620\">#39620</a></p>",
             "url": "https://github.com/mdn/content/pull/39640",
             "title": "FF140 Relnote: Notification.maxActions unpublished to nightly",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "zhangenming",
                 "url": "https://github.com/zhangenming"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The docs are explicit about ints here, and changes have landed allowing doubles:</p>\n<p dir=\"auto\"><a href=\"https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded\" rel=\"nofollow\">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>\n<ul dir=\"auto\">\n<li><a href=\"https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ\" rel=\"nofollow\">Chromium Intent to Ship</a></li>\n<li><a href=\"https://bugs.webkit.org/show_bug.cgi?id=288688\" rel=\"nofollow\">WebKit bug</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1943649\" rel=\"nofollow\">Gecko bug</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #641.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2883460957\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/mdn/issues/641\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/641/hovercard\" href=\"https://github.com/mdn/mdn/issues/641\">mdn/mdn#641</a></p>",
-            "url": "https://github.com/mdn/content/pull/39574",
-            "title": "chore: Change ints to doubles for ProgressEvent properties",
-            "date_modified": "2025-05-23T06:23:19.000Z",
-            "date_published": "2025-05-19T11:24:17.000Z",
-            "author": {
-                "name": "bsmth",
-                "url": "https://github.com/bsmth"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF139 adds full desktop support for the PRF extension. This adds docs.</p>\n<p dir=\"auto\">Draft, as I am seeking review from engineering first as per <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>\nQuestions inline</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3024518451\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39302\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39302/hovercard\" href=\"https://github.com/mdn/content/issues/39302\">#39302</a></p>",
-            "url": "https://github.com/mdn/content/pull/39570",
-            "title": "WebAuthn PRF extension docs",
-            "date_modified": "2025-05-23T01:05:27.000Z",
-            "date_published": "2025-05-19T06:08:16.000Z",
-            "author": {
-                "name": "hamishwillee",
-                "url": "https://github.com/hamishwillee"
             }
         }
     ]

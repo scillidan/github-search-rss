@@ -2,11 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-23T08:01:35.074Z</updated>
+    <updated>2025-05-23T09:01:36.628Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Technical review: Document canvas context lang attribute]]></title>
+        <id>https://github.com/mdn/content/pull/39642</id>
+        <link href="https://github.com/mdn/content/pull/39642"/>
+        <updated>2025-05-23T09:01:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Chrome 136 supports the lang attribute for on- and off-screen canvas 2D drawing contexts: see <a href="https://chromestatus.com/feature/5066778773028864" rel="nofollow">https://chromestatus.com/feature/5066778773028864</a>.</p>
+<p dir="auto">This PR adds documentation for the new attribute.</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-23T08:59:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lint: remove unnecessary if/else/return]]></title>
+        <id>https://github.com/mdn/content/pull/39641</id>
+        <link href="https://github.com/mdn/content/pull/39641"/>
+        <updated>2025-05-23T09:01:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">It is explicitly written in our style guide that control flow should be concise to avoid unreachable code or unexpected states. This PR fixes reports from several rules:</p>
+<ul dir="auto">
+<li><code class="notranslate">no-else-return</code></li>
+<li><code class="notranslate">no-useless-return</code></li>
+<li><code class="notranslate">logical-assignment-operators</code></li>
+<li><code class="notranslate">no-throw-literal</code></li>
+</ul>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-23T08:59:03.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FF140 Relnote: Notification.maxActions unpublished to nightly]]></title>
         <id>https://github.com/mdn/content/pull/39640</id>
@@ -326,43 +371,5 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/zhangenming</uri>
         </author>
         <published>2025-05-20T01:36:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chore: Change ints to doubles for ProgressEvent properties]]></title>
-        <id>https://github.com/mdn/content/pull/39574</id>
-        <link href="https://github.com/mdn/content/pull/39574"/>
-        <updated>2025-05-23T06:23:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
-<p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
-<ul dir="auto">
-<li><a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ" rel="nofollow">Chromium Intent to Ship</a></li>
-<li><a href="https://bugs.webkit.org/show_bug.cgi?id=288688" rel="nofollow">WebKit bug</a></li>
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1943649" rel="nofollow">Gecko bug</a></li>
-</ul>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #641.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2883460957" data-permission-text="Title is private" data-url="https://github.com/mdn/mdn/issues/641" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/641/hovercard" href="https://github.com/mdn/mdn/issues/641">mdn/mdn#641</a></p>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-19T11:24:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAuthn PRF extension docs]]></title>
-        <id>https://github.com/mdn/content/pull/39570</id>
-        <link href="https://github.com/mdn/content/pull/39570"/>
-        <updated>2025-05-23T01:05:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 adds full desktop support for the PRF extension. This adds docs.</p>
-<p dir="auto">Draft, as I am seeking review from engineering first as per <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>
-Questions inline</p>
-<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024518451" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39302" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39302/hovercard" href="https://github.com/mdn/content/issues/39302">#39302</a></p>]]></content>
-        <author>
-            <name>hamishwillee</name>
-            <email>hamishwillee@noreply.github.com</email>
-            <uri>https://github.com/hamishwillee</uri>
-        </author>
-        <published>2025-05-19T06:08:16.000Z</published>
     </entry>
 </feed>
