@@ -2,24 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-24T04:01:25.758Z</updated>
+    <updated>2025-05-24T05:01:31.173Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Synchronize with BCD v6.0.17]]></title>
-        <id>https://github.com/mdn/content/pull/39655</id>
-        <link href="https://github.com/mdn/content/pull/39655"/>
-        <updated>2025-05-24T01:51:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87750369?u=ccc1f52005708ae16bcb50e325e02145bff0ef7d&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://github.com/mdn/browser-compat-data/releases/tag/v6.0.17">BCD release v6.0.17</a></p>
-<p dir="auto">/cc cc/ <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/bsmth/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/bsmth">@bsmth</a> <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/wbamberg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/wbamberg">@wbamberg</a></p>]]></content>
+        <title type="html"><![CDATA[Lint: use modern syntax, object shorthand/exponentiation/regex literal]]></title>
+        <id>https://github.com/mdn/content/pull/39657</id>
+        <link href="https://github.com/mdn/content/pull/39657"/>
+        <updated>2025-05-24T04:43:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Our style guide prescribes the use of modern syntax. This PR enforces the use of:</p>
+<ul dir="auto">
+<li>Object shorthand, including method syntax and <code class="notranslate">a: a</code> =&gt; <code class="notranslate">a</code></li>
+<li>Regex literals instead of <code class="notranslate">new RegExp</code></li>
+<li>Exponentiation <code class="notranslate">**</code> instead of <code class="notranslate">Math.pow</code></li>
+</ul>]]></content>
         <author>
-            <name>OnkarRuikar</name>
-            <email>OnkarRuikar@noreply.github.com</email>
-            <uri>https://github.com/OnkarRuikar</uri>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
         </author>
-        <published>2025-05-24T01:49:19.000Z</published>
+        <published>2025-05-24T04:41:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix content issues]]></title>
+        <id>https://github.com/mdn/content/pull/39656</id>
+        <link href="https://github.com/mdn/content/pull/39656"/>
+        <updated>2025-05-24T04:15:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Fix broken anchors, broken links, and missing space</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-24T04:13:09.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Update InterfaceData based on WebRef]]></title>
@@ -291,7 +308,7 @@ I've removed the experimental feature entirely as it never released.</p>
         <title type="html"><![CDATA[Remove unnecessary pseudo-namespace declarations.]]></title>
         <id>https://github.com/mdn/content/pull/39598</id>
         <link href="https://github.com/mdn/content/pull/39598"/>
-        <updated>2025-05-23T13:22:02.000Z</updated>
+        <updated>2025-05-24T04:11:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/171505395?u=0eea447f52ff97c023c31b8aa015063efb662777&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Given that the example is apparently embedded in HTML5, the <code class="notranslate">xmlns</code> attributes are useless.</p>]]></content>
         <author>
             <name>meiqinyan</name>
@@ -361,20 +378,5 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/samuel871211</uri>
         </author>
         <published>2025-05-20T14:08:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improves the explanation for the application-name metadata]]></title>
-        <id>https://github.com/mdn/content/pull/39584</id>
-        <link href="https://github.com/mdn/content/pull/39584"/>
-        <updated>2025-05-24T03:27:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13982547?u=ddbc70a31ce7638bb9a797a9efa6caff8519e544&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Adds an example on providing localized <code class="notranslate">application-name</code> using the <code class="notranslate">lang</code> attribute.</p>
-<h3 dir="auto">Link to specification  - <a href="https://html.spec.whatwg.org/multipage/semantics.html#meta-application-name" rel="nofollow">application-name</a></h3>]]></content>
-        <author>
-            <name>ajuchacko</name>
-            <email>ajuchacko@noreply.github.com</email>
-            <uri>https://github.com/ajuchacko</uri>
-        </author>
-        <published>2025-05-20T10:38:01.000Z</published>
     </entry>
 </feed>
