@@ -2,11 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-23T23:01:30.429Z</updated>
+    <updated>2025-05-24T00:04:16.313Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add speculation-rules target_hint and clear-site-data support]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26893</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26893"/>
+        <updated>2025-05-24T00:02:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="64" height="64" alt=""/><br/>
+<h4 dir="auto">Summary</h4>
+
+<p dir="auto">Chrome 138 will add two new features for Speculation Rules:</p>
+<ul dir="auto">
+<li><a href="https://chromestatus.com/feature/5162540351094784" rel="nofollow"><code class="notranslate">target_hint</code></a></li>
+<li><a href="https://chromestatus.com/feature/4755745652080640" rel="nofollow"><code class="notranslate">clear-site-data</code></a></li>
+</ul>
+<p dir="auto">This will probably be picked up by BCD collector soon, but there's a note I want to add to <code class="notranslate">target_hint</code>, and I have the docs in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3087733660" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39652" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39652/hovercard" href="https://github.com/mdn/content/pull/39652">mdn/content#39652</a> so thought I'd go ahead and raise this.</p>
+<p dir="auto">Clear-site-data</p>
+<p dir="auto">Chrome Status link: <a href="https://chromestatus.com/feature/4755745652080640" rel="nofollow">https://chromestatus.com/feature/4755745652080640</a><br>
+Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md">https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md</a></p>
+<h4 dir="auto">Test results and supporting details</h4>
+
+
+<p dir="auto"><strong><code class="notranslate">target_hint</code></strong></p>
+<p dir="auto">Chrome Status link: <a href="https://chromestatus.com/feature/5162540351094784" rel="nofollow">https://chromestatus.com/feature/5162540351094784</a><br>
+Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/triggers.md#window-name-targeting-hints">https://github.com/WICG/nav-speculation/blob/main/triggers.md#window-name-targeting-hints</a></p>
+<p dir="auto"><strong><code class="notranslate">Clear-site-data</code></strong></p>
+<p dir="auto">Chrome Status link: <a href="https://chromestatus.com/feature/4755745652080640" rel="nofollow">https://chromestatus.com/feature/4755745652080640</a><br>
+Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md">https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md</a></p>
+<h4 dir="auto">Related issues</h4>
+
+<p dir="auto">See content PR here: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3087733660" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39652" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39652/hovercard" href="https://github.com/mdn/content/pull/39652">mdn/content#39652</a></p>
+]]></content>
+        <author>
+            <name>tunetheweb</name>
+            <email>tunetheweb@noreply.github.com</email>
+            <uri>https://github.com/tunetheweb</uri>
+        </author>
+        <published>2025-05-24T00:01:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefox 139 removes SVG discard element again]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26883</id>
@@ -125,7 +162,7 @@
         <title type="html"><![CDATA[Remaining sanitizer methods]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26815</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26815"/>
-        <updated>2025-05-23T17:03:17.000Z</updated>
+        <updated>2025-05-23T23:13:34.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 adds remaining sanitizer method/options behind flag in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1959727" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1959727</a></p>
 <p dir="auto">Once FF140 becomes nightly, these would change to "preview".</p>
 <p dir="auto">Changes are:</p>
@@ -252,21 +289,5 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/queengooborg</uri>
         </author>
         <published>2025-05-01T13:19:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notification maxActions in preview]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26657</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26657"/>
-        <updated>2025-05-23T17:16:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">According to <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1225110#c33" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1225110#c33</a> <code class="notranslate">Notification.maxActions</code> static property is nightly only, not release as indicated by <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2963633823" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26371" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26371/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26371">#26371</a></p>
-<p dir="auto">Note that I fixed up the <code class="notranslate">Notification.actions</code> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2978620018" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26450" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26450/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26450">#26450</a> but it wasn't obvious to me that this particular item was behind a pref (i.e. I thought the developers had made a mistake).</p>
-<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2960215885" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/38886" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/38886/hovercard" href="https://github.com/mdn/content/issues/38886">mdn/content#38886</a></p>
-<p dir="auto"><strong>EDIT</strong> Actually, this was omitted and current value correct.. This may need to change, but is waiting on <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1963263" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1963263</a></p>]]></content>
-        <author>
-            <name>hamishwillee</name>
-            <email>hamishwillee@noreply.github.com</email>
-            <uri>https://github.com/hamishwillee</uri>
-        </author>
-        <published>2025-04-28T23:26:20.000Z</published>
     </entry>
 </feed>

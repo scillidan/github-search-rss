@@ -2,11 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-23T23:01:31.037Z</updated>
+    <updated>2025-05-24T00:04:16.882Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add docs for Speculation Rules features: target_hint and clear-site-data]]></title>
+        <id>https://github.com/mdn/content/pull/39652</id>
+        <link href="https://github.com/mdn/content/pull/39652"/>
+        <updated>2025-05-24T00:01:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+
+<p dir="auto">Chrome 138 will add two new features for Speculation Rules:</p>
+<ul dir="auto">
+<li><a href="https://chromestatus.com/feature/5162540351094784" rel="nofollow"><code class="notranslate">target_hint</code></a></li>
+<li><a href="https://chromestatus.com/feature/4755745652080640" rel="nofollow"><code class="notranslate">clear-site-data</code></a></li>
+</ul>
+<h3 dir="auto">Motivation</h3>
+
+<p dir="auto">New features</p>
+<h3 dir="auto">Additional details</h3>
+
+<p dir="auto"><strong><code class="notranslate">target_hint</code></strong></p>
+<p dir="auto">Chrome Status link: <a href="https://chromestatus.com/feature/5162540351094784" rel="nofollow">https://chromestatus.com/feature/5162540351094784</a><br>
+Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/triggers.md#window-name-targeting-hints">https://github.com/WICG/nav-speculation/blob/main/triggers.md#window-name-targeting-hints</a></p>
+<p dir="auto"><strong><code class="notranslate">Clear-site-data</code></strong></p>
+<p dir="auto">Chrome Status link: <a href="https://chromestatus.com/feature/4755745652080640" rel="nofollow">https://chromestatus.com/feature/4755745652080640</a><br>
+Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md">https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md</a></p>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+<p dir="auto">BCD PR: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3087745447" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26893" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26893/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26893">mdn/browser-compat-data#26893</a></p>
+]]></content>
+        <author>
+            <name>tunetheweb</name>
+            <email>tunetheweb@noreply.github.com</email>
+            <uri>https://github.com/tunetheweb</uri>
+        </author>
+        <published>2025-05-23T23:47:53.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Technical review: Add doc for the scope_extensions manifest member]]></title>
         <id>https://github.com/mdn/content/pull/39649</id>
@@ -359,21 +396,5 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/bsmth</uri>
         </author>
         <published>2025-05-19T11:24:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAuthn PRF extension docs]]></title>
-        <id>https://github.com/mdn/content/pull/39570</id>
-        <link href="https://github.com/mdn/content/pull/39570"/>
-        <updated>2025-05-23T01:05:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 adds full desktop support for the PRF extension. This adds docs.</p>
-<p dir="auto">Draft, as I am seeking review from engineering first as per <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>
-Questions inline</p>
-<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024518451" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39302" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39302/hovercard" href="https://github.com/mdn/content/issues/39302">#39302</a></p>]]></content>
-        <author>
-            <name>hamishwillee</name>
-            <email>hamishwillee@noreply.github.com</email>
-            <uri>https://github.com/hamishwillee</uri>
-        </author>
-        <published>2025-05-19T06:08:16.000Z</published>
     </entry>
 </feed>
