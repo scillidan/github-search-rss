@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-25T15:01:27.976Z</updated>
+    <updated>2025-05-25T16:01:27.849Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Clarify that align-items: stretch can also shrink overflowing items]]></title>
+        <id>https://github.com/mdn/content/pull/39673</id>
+        <link href="https://github.com/mdn/content/pull/39673"/>
+        <updated>2025-05-25T15:47:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Clarified the description of <code class="notranslate">align-items: stretch</code> to note that it can also shrink overflowing items, not only enlarge smaller ones, while still respecting width and height limits.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">This change improves accuracy. The previous description implied that only smaller items are affected, but in practice, <code class="notranslate">align-items: stretch</code> also causes oversized auto-sized items to shrink to fit the alignment container.</p>
+<h3 dir="auto">Additional details</h3>
+<p dir="auto">This aligns the MDN documentation with the actual behavior described in the CSS Box Alignment specification and observed in browser implementations.</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39491.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3058023589" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39491" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39491/hovercard" href="https://github.com/mdn/content/issues/39491">#39491</a></p>]]></content>
+        <author>
+            <name>farizadam</name>
+            <email>farizadam@noreply.github.com</email>
+            <uri>https://github.com/farizadam</uri>
+        </author>
+        <published>2025-05-25T15:45:33.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Make the `getMessage` function for the javascript example more robust.]]></title>
         <id>https://github.com/mdn/content/pull/39672</id>
@@ -363,22 +384,5 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-05-23T01:55:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add the default value indicator in prose]]></title>
-        <id>https://github.com/mdn/content/pull/39626</id>
-        <link href="https://github.com/mdn/content/pull/39626"/>
-        <updated>2025-05-24T05:36:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">As pointed out by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/caugner/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/caugner">@caugner</a>, the <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/content-visibility#values" rel="nofollow">content-visibility</a> property page doesn't explicitly mention in prose what the default value is. This PR adds that sentence.</p>
-<p dir="auto">I looked at a few more pages randomly and added the similar "default value" statement in the "Values" section.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">To provide default value info alongside the value's description in addition to the info being present in the Formal definition section.</p>]]></content>
-        <author>
-            <name>dipikabh</name>
-            <email>dipikabh@noreply.github.com</email>
-            <uri>https://github.com/dipikabh</uri>
-        </author>
-        <published>2025-05-22T15:34:56.000Z</published>
     </entry>
 </feed>
