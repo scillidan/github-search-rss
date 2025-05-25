@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-25T10:01:22.464Z</updated>
+    <updated>2025-05-25T11:01:24.043Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Fix invalid SVG syntax]]></title>
+        <id>https://github.com/mdn/content/pull/39669</id>
+        <link href="https://github.com/mdn/content/pull/39669"/>
+        <updated>2025-05-25T10:43:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This code should be merged with the next few sections</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-25T10:14:31.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lint: prefer Object.hasOwn, avoid eval]]></title>
         <id>https://github.com/mdn/content/pull/39668</id>
@@ -348,18 +361,5 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/wbamberg</uri>
         </author>
         <published>2025-05-21T19:01:27.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove unnecessary pseudo-namespace declarations.]]></title>
-        <id>https://github.com/mdn/content/pull/39598</id>
-        <link href="https://github.com/mdn/content/pull/39598"/>
-        <updated>2025-05-24T04:11:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/171505395?u=0eea447f52ff97c023c31b8aa015063efb662777&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Given that the example is apparently embedded in HTML5, the <code class="notranslate">xmlns</code> attributes are useless.</p>]]></content>
-        <author>
-            <name>meiqinyan</name>
-            <email>meiqinyan@noreply.github.com</email>
-            <uri>https://github.com/meiqinyan</uri>
-        </author>
-        <published>2025-05-21T09:53:40.000Z</published>
     </entry>
 </feed>

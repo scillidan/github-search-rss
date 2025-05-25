@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This code should be merged with the next few sections</p>",
+            "url": "https://github.com/mdn/content/pull/39669",
+            "title": "Fix invalid SVG syntax",
+            "date_modified": "2025-05-25T10:43:01.000Z",
+            "date_published": "2025-05-25T10:14:31.000Z",
+            "author": {
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Remove usage of <code class=\"notranslate\">hasOwnProperty</code> to promote good practices. Avoid unnecessary usage of <code class=\"notranslate\">eval</code>.</p>",
             "url": "https://github.com/mdn/content/pull/39668",
             "title": "Lint: prefer Object.hasOwn, avoid eval",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wbamberg",
                 "url": "https://github.com/wbamberg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/171505395?u=0eea447f52ff97c023c31b8aa015063efb662777&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Given that the example is apparently embedded in HTML5, the <code class=\"notranslate\">xmlns</code> attributes are useless.</p>",
-            "url": "https://github.com/mdn/content/pull/39598",
-            "title": "Remove unnecessary pseudo-namespace declarations.",
-            "date_modified": "2025-05-24T04:11:17.000Z",
-            "date_published": "2025-05-21T09:53:40.000Z",
-            "author": {
-                "name": "meiqinyan",
-                "url": "https://github.com/meiqinyan"
             }
         }
     ]
