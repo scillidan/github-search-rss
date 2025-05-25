@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Avoid some features that commonly indicate subtle bugs:</p>\n<ul dir=\"auto\">\n<li>Loose equality is forbidden by our style guide</li>\n<li>Numeric literals that don't evaluate to the value they represent. I also <span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #37617.\">fixed</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2782453141\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/37617\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/37617/hovercard\" href=\"https://github.com/mdn/content/issues/37617\">#37617</a> so I don't have to type so many numeric literals</li>\n<li>Avoid constant binary expressions (those whose result is deterministic)</li>\n<li>Removed one example that involves sparse arrays since typed arrays can't be sparse anyway</li>\n</ul>",
+            "url": "https://github.com/mdn/content/pull/39667",
+            "title": "Lint: use strict equality, avoid numeric loss of precision",
+            "date_modified": "2025-05-25T08:54:47.000Z",
+            "date_published": "2025-05-25T08:52:42.000Z",
+            "author": {
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Our coding style guide prescribes the use of arrow functions for callbacks, and function declarations for creating identifier bindings. This PR removes most usage of function expressions.</p>",
             "url": "https://github.com/mdn/content/pull/39666",
             "title": "Lint: migrate function expressions to arrow functions or declarations",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "dletorey",
                 "url": "https://github.com/dletorey"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46565?u=4899240c775ecf60df7fbf978bb290e63f11f5cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Confirm support for Opus and Vorbis in Ogg containers on Safari 18.4+</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">People providing audio content on the web want to know what formats they must support.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<ul dir=\"auto\">\n<li><a href=\"https://webkit.org/blog/16574/webkit-features-in-safari-18-4/\" rel=\"nofollow\">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39592",
-            "title": "Record Safari 18.4+ support for Opus in Ogg containers",
-            "date_modified": "2025-05-22T19:47:18.000Z",
-            "date_published": "2025-05-20T16:30:33.000Z",
-            "author": {
-                "name": "acdha",
-                "url": "https://github.com/acdha"
             }
         }
     ]
