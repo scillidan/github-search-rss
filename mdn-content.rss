@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-25T11:01:24.043Z</updated>
+    <updated>2025-05-25T12:01:38.474Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Remove unnecessary `await` and `async` keywords.]]></title>
+        <id>https://github.com/mdn/content/pull/39670</id>
+        <link href="https://github.com/mdn/content/pull/39670"/>
+        <updated>2025-05-25T11:50:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26916078?u=ae3b6dc567b716a44e450bacef5e1a8de9fc9c5c&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><code class="notranslate">process.stdout.write</code> does not return a promise, it returns a boolean indicating whether it's okay to keep writing or if you should wait for the drain event (<code class="notranslate">true</code> indicates okay to keep writing). Since there's no promise to await, both <code class="notranslate">await</code> keywords can be removed. Since there are no other await keywords in this function, the <code class="notranslate">async</code> keyword can also be removed. Since the function no longer awaits the first write, this fixes a bug where multiple unawaited calls to sendMessage would cause only the header to be written over and over as each call hits the first write call, but then waits for the next process tick to do the second write call, causing a bug.</p>
+
+<h3 dir="auto">Description</h3>
+
+<p dir="auto">Remove unnecessary keywords which may mislead readers who are attempting to adapt the code.</p>
+<h3 dir="auto">Motivation</h3>
+
+<p dir="auto">Removing the await keywords makes the code more robust, as multiple unawaited calls to sendMessage will do the correct thing by sending each message over to the extension side, instead of writing the header over and over. It helps readers to not struggle so much trying to figure out why it isn't working.</p>
+<h3 dir="auto">Additional details</h3>
+
+<p dir="auto"><a href="https://nodejs.org/api/stream.html#writablewritechunk-encoding-callback" rel="nofollow">https://nodejs.org/api/stream.html#writablewritechunk-encoding-callback</a></p>
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>qdirks</name>
+            <email>qdirks@noreply.github.com</email>
+            <uri>https://github.com/qdirks</uri>
+        </author>
+        <published>2025-05-25T11:29:06.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fix invalid SVG syntax]]></title>
         <id>https://github.com/mdn/content/pull/39669</id>
@@ -348,18 +376,5 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-22T14:18:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add MITM guide]]></title>
-        <id>https://github.com/mdn/content/pull/39604</id>
-        <link href="https://github.com/mdn/content/pull/39604"/>
-        <updated>2025-05-21T19:03:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Add a page on Manipulator in the Middle attacks.</p>]]></content>
-        <author>
-            <name>wbamberg</name>
-            <email>wbamberg@noreply.github.com</email>
-            <uri>https://github.com/wbamberg</uri>
-        </author>
-        <published>2025-05-21T19:01:27.000Z</published>
     </entry>
 </feed>

@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26916078?u=ae3b6dc567b716a44e450bacef5e1a8de9fc9c5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><code class=\"notranslate\">process.stdout.write</code> does not return a promise, it returns a boolean indicating whether it's okay to keep writing or if you should wait for the drain event (<code class=\"notranslate\">true</code> indicates okay to keep writing). Since there's no promise to await, both <code class=\"notranslate\">await</code> keywords can be removed. Since there are no other await keywords in this function, the <code class=\"notranslate\">async</code> keyword can also be removed. Since the function no longer awaits the first write, this fixes a bug where multiple unawaited calls to sendMessage would cause only the header to be written over and over as each call hits the first write call, but then waits for the next process tick to do the second write call, causing a bug.</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Remove unnecessary keywords which may mislead readers who are attempting to adapt the code.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Removing the await keywords makes the code more robust, as multiple unawaited calls to sendMessage will do the correct thing by sending each message over to the extension side, instead of writing the header over and over. It helps readers to not struggle so much trying to figure out why it isn't working.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\"><a href=\"https://nodejs.org/api/stream.html#writablewritechunk-encoding-callback\" rel=\"nofollow\">https://nodejs.org/api/stream.html#writablewritechunk-encoding-callback</a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39670",
+            "title": "Remove unnecessary `await` and `async` keywords.",
+            "date_modified": "2025-05-25T11:50:35.000Z",
+            "date_published": "2025-05-25T11:29:06.000Z",
+            "author": {
+                "name": "qdirks",
+                "url": "https://github.com/qdirks"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This code should be merged with the next few sections</p>",
             "url": "https://github.com/mdn/content/pull/39669",
             "title": "Fix invalid SVG syntax",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Add a page on Manipulator in the Middle attacks.</p>",
-            "url": "https://github.com/mdn/content/pull/39604",
-            "title": "Add MITM guide",
-            "date_modified": "2025-05-21T19:03:21.000Z",
-            "date_published": "2025-05-21T19:01:27.000Z",
-            "author": {
-                "name": "wbamberg",
-                "url": "https://github.com/wbamberg"
             }
         }
     ]
