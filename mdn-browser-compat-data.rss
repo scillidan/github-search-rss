@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-25T00:05:08.495Z</updated>
+    <updated>2025-05-25T01:29:19.916Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Add speculation-rules target_hint and clear-site-data support]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26893</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26893"/>
-        <updated>2025-05-24T00:26:04.000Z</updated>
+        <updated>2025-05-25T00:40:11.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 
@@ -52,7 +52,7 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
         <title type="html"><![CDATA[Firefox 139 removes SVG discard element again]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26883</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26883"/>
-        <updated>2025-05-23T17:15:31.000Z</updated>
+        <updated>2025-05-25T00:41:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 removes experimental support for the SVG <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard" rel="nofollow"><code class="notranslate">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href="https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement" rel="nofollow"><code class="notranslate">SVGDiscardElement</code></a> interface added to release in FF136 in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1958839" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1958839</a></p>
 <p dir="auto">I've removed the experimental feature entirely as it never released.</p>
 <p dir="auto">For <code class="notranslate">SVGDiscardElement</code> I've added the remove version, which is technically correct. Note though, this was pretty unsusable, and I suspect unused. It should have been behind pref IMO. So you might want to delete that too.</p>
@@ -69,7 +69,7 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
         <title type="html"><![CDATA[Bug-1965007 added removeInfo to tabGroups.onRemoved]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26872</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26872"/>
-        <updated>2025-05-23T14:02:24.000Z</updated>
+        <updated>2025-05-25T00:41:35.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
 <p dir="auto">Add the <code class="notranslate">removeInfo</code> listener argument to <code class="notranslate">tabGroups.onRemoved</code>. This change was made <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1965007" rel="nofollow">Bug 1965007</a> tabGroups.onRemoved not firing when window is closed and documented on MDN in <a href="https://github.com/mdn/content/pull/39370" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39370/hovercard">Addition of the webextensions.api.tabGroups documentation #39370</a></p>]]></content>
         <author>
@@ -83,7 +83,7 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
         <title type="html"><![CDATA[Firefox 135 added fractional coordinates for pointer events]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26862</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26862"/>
-        <updated>2025-05-23T16:25:36.000Z</updated>
+        <updated>2025-05-25T00:42:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">Firefox 135 added fractional coordinates for pointer events</p>
@@ -103,7 +103,7 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
         <title type="html"><![CDATA[Firefox Android 128 enabled residentKey support]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26856</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26856"/>
-        <updated>2025-05-23T16:37:48.000Z</updated>
+        <updated>2025-05-25T00:42:33.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">Firefox Android 128 enabled residentKey support</p>
@@ -150,7 +150,7 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
         <title type="html"><![CDATA[Firefox 139 supports Pseudo-random function extension (prf) in `CredentialsContainer`]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26828</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26828"/>
-        <updated>2025-05-20T14:23:17.000Z</updated>
+        <updated>2025-05-25T00:42:49.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">The PRF extension <a href="https://w3c.github.io/webauthn/#prf-extension" rel="nofollow">in spec here</a> (and <a href="https://github.com/w3c/webauthn/wiki/Explainer:-PRF-extension">explainer here</a>) is supported in desktop on FF139. The explanation of FF support is a bit more complex - see  <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c5" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c5</a> - and is now captured by this subfeature.</p>
 <p dir="auto">This is not implemented in chrome according to <a href="https://chromestatus.com/feature/5138422207348736" rel="nofollow">https://chromestatus.com/feature/5138422207348736</a></p>
 <p dir="auto">This is supposed to be implemented in Safari according to <a href="https://medium.com/@corbado_tech/automatic-passkey-upgrade-prf-extension-related-origins-18667123006f" rel="nofollow">https://medium.com/@corbado_tech/automatic-passkey-upgrade-prf-extension-related-origins-18667123006f</a> but latest info I can find from April says it isn't - see Apple forum info here <a href="https://developer.apple.com/forums/thread/774112" rel="nofollow">https://developer.apple.com/forums/thread/774112</a></p>
@@ -166,7 +166,7 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
         <title type="html"><![CDATA[Remaining sanitizer methods]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26815</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26815"/>
-        <updated>2025-05-23T23:13:34.000Z</updated>
+        <updated>2025-05-25T00:48:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 adds remaining sanitizer method/options behind flag in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1959727" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1959727</a></p>
 <p dir="auto">Once FF140 becomes nightly, these would change to "preview".</p>
 <p dir="auto">Changes are:</p>
@@ -209,7 +209,7 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
         <title type="html"><![CDATA[Update Safari data for line-clamp CSS property]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26771</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26771"/>
-        <updated>2025-05-13T12:45:45.000Z</updated>
+        <updated>2025-05-25T00:47:56.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Safari (Desktop and iOS/iPadOS) for the <code class="notranslate">line-clamp</code> CSS property. The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.13.0).</p>
 <p dir="auto"><em>Check out the <a href="https://github.com/openwebdocs/mdn-bcd-collector#reviewing-bcd-changes">collector's guide on how to review this PR</a>.</em></p>
 <p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/css/properties/line-clamp" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/css/properties/line-clamp</a></p>
@@ -225,7 +225,7 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
         <title type="html"><![CDATA[Update Chromium data for api.AudioParam.setTargetAtTime]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26722</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26722"/>
-        <updated>2025-05-07T21:22:39.000Z</updated>
+        <updated>2025-05-25T00:43:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Chromium (Chrome, Opera, Samsung Internet, WebView Android) for the <code class="notranslate">setTargetAtTime</code> member of the <code class="notranslate">AudioParam</code> API. The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.12.13).</p>
 <p dir="auto"><em>Check out the <a href="https://github.com/openwebdocs/mdn-bcd-collector#reviewing-bcd-changes">collector's guide on how to review this PR</a>.</em></p>
 <p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/AudioParam/setTargetAtTime" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/AudioParam/setTargetAtTime</a></p>]]></content>
@@ -271,7 +271,7 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
         <title type="html"><![CDATA[Remove api.SnapEvent.SnapEvent from BCD]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26687</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26687"/>
-        <updated>2025-05-07T19:08:25.000Z</updated>
+        <updated>2025-05-25T00:47:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR removes the <code class="notranslate">SnapEvent</code> member of the <code class="notranslate">SnapEvent</code> API from BCD. The collector reports that the constructor is an illegal constructor in Chromium.</p>
 <p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent</a></p>]]></content>
         <author>
