@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-25T05:01:23.405Z</updated>
+    <updated>2025-05-25T06:01:30.711Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Lint: migrate function expressions to arrow functions or declarations]]></title>
+        <id>https://github.com/mdn/content/pull/39666</id>
+        <link href="https://github.com/mdn/content/pull/39666"/>
+        <updated>2025-05-25T05:56:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Our coding style guide prescribes the use of arrow functions for callbacks, and function declarations for creating identifier bindings. This PR removes most usage of function expressions.</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-25T05:53:59.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lint: prefer for...of loops over plain for loops]]></title>
         <id>https://github.com/mdn/content/pull/39661</id>
@@ -365,18 +378,5 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/acdha</uri>
         </author>
         <published>2025-05-20T16:30:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[doc[sandbox]: remove `HTMLDialogElement.showModal` from `allow-popups`]]></title>
-        <id>https://github.com/mdn/content/pull/39586</id>
-        <link href="https://github.com/mdn/content/pull/39586"/>
-        <updated>2025-05-21T02:32:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55658154?u=72eb5d6b966bd3197516e3205b1e2f4962df3cc6&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Relates to <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3071706129" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39556" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39556/hovercard" href="https://github.com/mdn/content/pull/39556">#39556</a>, <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3076334443" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39580" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39580/hovercard" href="https://github.com/mdn/content/pull/39580">#39580</a> and <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3076533484" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39583" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39583/hovercard" href="https://github.com/mdn/content/pull/39583">#39583</a></p>]]></content>
-        <author>
-            <name>samuel871211</name>
-            <email>samuel871211@noreply.github.com</email>
-            <uri>https://github.com/samuel871211</uri>
-        </author>
-        <published>2025-05-20T14:08:04.000Z</published>
     </entry>
 </feed>
