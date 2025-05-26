@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-25T23:01:22.186Z</updated>
+    <updated>2025-05-26T00:04:57.922Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Clarify rules for rel="noopener" and cross origin]]></title>
+        <id>https://github.com/mdn/content/pull/39675</id>
+        <link href="https://github.com/mdn/content/pull/39675"/>
+        <updated>2025-05-25T23:30:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/125713293?v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">I clarified that <code class="notranslate">rel="noopener"</code> should be used for cross-origin links</p>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">This is my first time contributing to an OSP!!! And MDN Docs has helped me a lot with my Web Dev journey and I would like to thank them by contributing to their OSP!!</p>
+
+<h3 dir="auto">Additional details</h3>
+<p dir="auto">I saw an issue targetting this issue so I decided it would be perfect for my first contribution so I'm making these changes because it clarifies when and when not to use <code class="notranslate">noopener</code> in your HTML file!</p>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39344.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3032980774" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39344" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39344/hovercard" href="https://github.com/mdn/content/issues/39344">#39344</a></p>
+
+
+
+]]></content>
+        <author>
+            <name>Khaspper</name>
+            <email>Khaspper@noreply.github.com</email>
+            <uri>https://github.com/Khaspper</uri>
+        </author>
+        <published>2025-05-25T23:29:58.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clarify that align-items: stretch can also shrink overflowing items]]></title>
         <id>https://github.com/mdn/content/pull/39673</id>
@@ -369,20 +397,5 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-05-23T02:10:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FF140 TaskSignal.any() - added to expr feat]]></title>
-        <id>https://github.com/mdn/content/pull/39634</id>
-        <link href="https://github.com/mdn/content/pull/39634"/>
-        <updated>2025-05-23T01:57:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 supports <a href="https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static" rel="nofollow"><code class="notranslate">TaskSignal.any()</code></a> in nightly in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1964407" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>
-<p dir="auto">This adds a minor tweak to the docs to link to priority definitions. It also updates the experimental features to note that in FF140 the API is feature complete.</p>
-<p dir="auto">Related work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083815432" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39627" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39627/hovercard" href="https://github.com/mdn/content/issues/39627">#39627</a></p>]]></content>
-        <author>
-            <name>hamishwillee</name>
-            <email>hamishwillee@noreply.github.com</email>
-            <uri>https://github.com/hamishwillee</uri>
-        </author>
-        <published>2025-05-23T01:55:05.000Z</published>
     </entry>
 </feed>

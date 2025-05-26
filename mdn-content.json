@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125713293?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">I clarified that <code class=\"notranslate\">rel=\"noopener\"</code> should be used for cross-origin links</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">This is my first time contributing to an OSP!!! And MDN Docs has helped me a lot with my Web Dev journey and I would like to thank them by contributing to their OSP!!</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">I saw an issue targetting this issue so I decided it would be perfect for my first contribution so I'm making these changes because it clarifies when and when not to use <code class=\"notranslate\">noopener</code> in your HTML file!</p>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39344.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3032980774\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39344\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39344/hovercard\" href=\"https://github.com/mdn/content/issues/39344\">#39344</a></p>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39675",
+            "title": "Clarify rules for rel=\"noopener\" and cross origin",
+            "date_modified": "2025-05-25T23:30:23.000Z",
+            "date_published": "2025-05-25T23:29:58.000Z",
+            "author": {
+                "name": "Khaspper",
+                "url": "https://github.com/Khaspper"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Clarified the description of <code class=\"notranslate\">align-items: stretch</code> to note that it can also shrink overflowing items, not only enlarge smaller ones, while still respecting width and height limits.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">This change improves accuracy. The previous description implied that only smaller items are affected, but in practice, <code class=\"notranslate\">align-items: stretch</code> also causes oversized auto-sized items to shrink to fit the alignment container.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">This aligns the MDN documentation with the actual behavior described in the CSS Box Alignment specification and observed in browser implementations.</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39491.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3058023589\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39491\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39491/hovercard\" href=\"https://github.com/mdn/content/issues/39491\">#39491</a></p>",
             "url": "https://github.com/mdn/content/pull/39673",
             "title": "Clarify that align-items: stretch can also shrink overflowing items",
@@ -209,17 +220,6 @@
             "title": "FF140 Relnote - TaskSignal.any()",
             "date_modified": "2025-05-23T06:24:01.000Z",
             "date_published": "2025-05-23T02:10:15.000Z",
-            "author": {
-                "name": "hamishwillee",
-                "url": "https://github.com/hamishwillee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 supports <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static\" rel=\"nofollow\"><code class=\"notranslate\">TaskSignal.any()</code></a> in nightly in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1964407\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>\n<p dir=\"auto\">This adds a minor tweak to the docs to link to priority definitions. It also updates the experimental features to note that in FF140 the API is feature complete.</p>\n<p dir=\"auto\">Related work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083815432\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39627\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39627/hovercard\" href=\"https://github.com/mdn/content/issues/39627\">#39627</a></p>",
-            "url": "https://github.com/mdn/content/pull/39634",
-            "title": "FF140 TaskSignal.any() - added to expr feat",
-            "date_modified": "2025-05-23T01:57:04.000Z",
-            "date_published": "2025-05-23T01:55:05.000Z",
             "author": {
                 "name": "hamishwillee",
                 "url": "https://github.com/hamishwillee"
