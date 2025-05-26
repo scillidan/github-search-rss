@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-26T18:01:30.286Z</updated>
+    <updated>2025-05-26T19:01:25.575Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -126,7 +126,7 @@
         <title type="html"><![CDATA[FF140 Relnote/Expr Feat: Dialog closeBy attribute]]></title>
         <id>https://github.com/mdn/content/pull/39680</id>
         <link href="https://github.com/mdn/content/pull/39680"/>
-        <updated>2025-05-26T07:32:34.000Z</updated>
+        <updated>2025-05-26T18:45:59.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 enables the <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/closedBy" rel="nofollow"><code class="notranslate">HTMLDialogElement.closedBy</code></a> property and <code class="notranslate">&lt;dialog&gt;</code> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog#closedby" rel="nofollow"><code class="notranslate">closedby</code></a> attribute in Nightly (pref <code class="notranslate">dom.dialog.light-dismiss.enabled</code> ) in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1964077" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1964077</a></p>
 <p dir="auto">This adds an experimental feature update and corresponding note in the release notes.</p>
 <p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083565475" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39621" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39621/hovercard" href="https://github.com/mdn/content/issues/39621">#39621</a></p>]]></content>
@@ -156,7 +156,7 @@
         <title type="html"><![CDATA[FF140 Relnote/Expr Atomics.waitAsync()]]></title>
         <id>https://github.com/mdn/content/pull/39678</id>
         <link href="https://github.com/mdn/content/pull/39678"/>
-        <updated>2025-05-26T06:47:30.000Z</updated>
+        <updated>2025-05-26T18:45:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 adds support for <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/waitAsync" rel="nofollow"><code class="notranslate">Atomics.waitAsync()</code></a> behind a pref in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1467846" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1467846</a></p>
 <p dir="auto">This adds the release info and experimental features updates.</p>
 <p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083534404" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39615" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39615/hovercard" href="https://github.com/mdn/content/issues/39615">#39615</a></p>]]></content>
@@ -171,7 +171,7 @@
         <title type="html"><![CDATA[FF140 Relnote: Cookie Store API]]></title>
         <id>https://github.com/mdn/content/pull/39676</id>
         <link href="https://github.com/mdn/content/pull/39676"/>
-        <updated>2025-05-26T04:58:04.000Z</updated>
+        <updated>2025-05-26T18:45:56.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 reenables the cookie store API in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1958875" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1958875</a></p>
 <p dir="auto">This adds the release note that was reverted in FF136 in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2959112561" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/38867" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/38867/hovercard" href="https://github.com/mdn/content/pull/38867">#38867</a> (with minor modifications).</p>
 <p dir="auto">It also makes "tweaks" to the API overview.</p>
@@ -210,27 +210,6 @@
             <uri>https://github.com/Khaspper</uri>
         </author>
         <published>2025-05-25T23:29:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarify that align-items: stretch can also shrink overflowing items]]></title>
-        <id>https://github.com/mdn/content/pull/39673</id>
-        <link href="https://github.com/mdn/content/pull/39673"/>
-        <updated>2025-05-25T15:47:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/165586925?u=6d43601892aeb133437bb3f53783109ff67e6834&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Clarified the description of <code class="notranslate">align-items: stretch</code> to note that it can also shrink overflowing items, not only enlarge smaller ones, while still respecting width and height limits.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">This change improves accuracy. The previous description implied that only smaller items are affected, but in practice, <code class="notranslate">align-items: stretch</code> also causes oversized auto-sized items to shrink to fit the alignment container.</p>
-<h3 dir="auto">Additional details</h3>
-<p dir="auto">This aligns the MDN documentation with the actual behavior described in the CSS Box Alignment specification and observed in browser implementations.</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39491.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3058023589" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39491" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39491/hovercard" href="https://github.com/mdn/content/issues/39491">#39491</a></p>]]></content>
-        <author>
-            <name>farizadam</name>
-            <email>farizadam@noreply.github.com</email>
-            <uri>https://github.com/farizadam</uri>
-        </author>
-        <published>2025-05-25T15:45:33.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Make the `getMessage` function for the javascript example more robust.]]></title>
@@ -440,5 +419,31 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-23T15:34:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical review: Document canvas context lang attribute]]></title>
+        <id>https://github.com/mdn/content/pull/39642</id>
+        <link href="https://github.com/mdn/content/pull/39642"/>
+        <updated>2025-05-26T09:59:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Chrome 136 supports the lang attribute for on- and off-screen canvas 2D drawing contexts: see <a href="https://chromestatus.com/feature/5066778773028864" rel="nofollow">https://chromestatus.com/feature/5066778773028864</a>.</p>
+<p dir="auto">This PR adds documentation for the new attribute.</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-23T08:59:30.000Z</published>
     </entry>
 </feed>
