@@ -2,11 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-26T14:01:34.086Z</updated>
+    <updated>2025-05-26T15:01:32.447Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Bump @octokit/rest from 21.1.1 to 22.0.0]]></title>
+        <id>https://github.com/mdn/content/pull/39687</id>
+        <link href="https://github.com/mdn/content/pull/39687"/>
+        <updated>2025-05-26T14:55:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/29110?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Bumps <a href="https://github.com/octokit/rest.js">@octokit/rest</a> from 21.1.1 to 22.0.0.</p>
+<details>
+<summary>Release notes</summary>
+<p dir="auto"><em>Sourced from <a href="https://github.com/octokit/rest.js/releases"><code class="notranslate">@​octokit/rest</code>'s releases</a>.</em></p>
+<blockquote>
+<h2 dir="auto">v22.0.0</h2>
+<h1 dir="auto"><a href="https://github.com/octokit/rest.js/compare/v21.1.1...v22.0.0">22.0.0</a> (2025-05-25)</h1>
+<h3 dir="auto">Bug Fixes</h3>
+<ul dir="auto">
+<li><strong>deps:</strong> update octokit monorepo (major) (<a href="https://redirect.github.com/octokit/rest.js/issues/504">#504</a>) (<a href="https://github.com/octokit/rest.js/commit/77530abd535b0c97017de24a035018d36ba93f71">77530ab</a>)</li>
+</ul>
+<h3 dir="auto">BREAKING CHANGES</h3>
+<ul dir="auto">
+<li><strong>deps:</strong> Drop support for NodeJS v18</li>
+<li><strong>deps:</strong> Remove deprecated Projects endpoints</li>
+<li><strong>deps:</strong> Remove deprecated Copilot usage metrics endpoints</li>
+</ul>
+</blockquote>
+</details>
+<details>
+<summary>Commits</summary>
+<ul dir="auto">
+<li><a href="https://github.com/octokit/rest.js/commit/77530abd535b0c97017de24a035018d36ba93f71"><code class="notranslate">77530ab</code></a> fix(deps): update octokit monorepo (major) (<a href="https://redirect.github.com/octokit/rest.js/issues/504">#504</a>)</li>
+<li><a href="https://github.com/octokit/rest.js/commit/d07b71998ebebe63fa715516fc853f65bfeef3dd"><code class="notranslate">d07b719</code></a> build(deps): Bump vite from 6.2.5 to 6.3.4 (<a href="https://redirect.github.com/octokit/rest.js/issues/509">#509</a>)</li>
+<li><a href="https://github.com/octokit/rest.js/commit/61b76da989daeac6df414f22a96aeb477ff4c9dc"><code class="notranslate">61b76da</code></a> build(deps-dev): Bump http-proxy-middleware from 2.0.7 to 2.0.9 (<a href="https://redirect.github.com/octokit/rest.js/issues/505">#505</a>)</li>
+<li><a href="https://github.com/octokit/rest.js/commit/1710669f79cd31f08047d30798bbaa2cc2506c21"><code class="notranslate">1710669</code></a> chore(deps): update dependency undici to v6.21.2 [security] (<a href="https://redirect.github.com/octokit/rest.js/issues/513">#513</a>)</li>
+<li><a href="https://github.com/octokit/rest.js/commit/8ef1473ed6fc5a38c772e1376c5145f5b9278130"><code class="notranslate">8ef1473</code></a> build(deps): Bump vite from 6.0.11 to 6.2.5 (<a href="https://redirect.github.com/octokit/rest.js/issues/503">#503</a>)</li>
+<li><a href="https://github.com/octokit/rest.js/commit/1e8306b0b97c2d95012356400ce1e16cceb61c70"><code class="notranslate">1e8306b</code></a> build(deps): Bump webpack-dev-middleware and gatsby in /docs (<a href="https://redirect.github.com/octokit/rest.js/issues/497">#497</a>)</li>
+<li><a href="https://github.com/octokit/rest.js/commit/3db059550773d894254b4236ab362ace8bf333e4"><code class="notranslate">3db0595</code></a> build(deps): Bump send and express in /docs (<a href="https://redirect.github.com/octokit/rest.js/issues/490">#490</a>)</li>
+<li><a href="https://github.com/octokit/rest.js/commit/27f09dd20648501b7ba4e39f205fc5cf56d4f3fa"><code class="notranslate">27f09dd</code></a> build(deps-dev): Bump webpack from 5.93.0 to 5.98.0 in /docs (<a href="https://redirect.github.com/octokit/rest.js/issues/494">#494</a>)</li>
+<li><a href="https://github.com/octokit/rest.js/commit/005b147e64ece73b5d020b90300b86e3a992de62"><code class="notranslate">005b147</code></a> chore(deps): update dependency prismjs to v1.30.0 [security] (<a href="https://redirect.github.com/octokit/rest.js/issues/493">#493</a>)</li>
+<li><a href="https://github.com/octokit/rest.js/commit/35177309f6457fa5b6c2bb1c9070b60eb93fd591"><code class="notranslate">3517730</code></a> chore(deps): update dependency semantic-release-plugin-update-version-in-file...</li>
+<li>See full diff in <a href="https://github.com/octokit/rest.js/compare/v21.1.1...v22.0.0">compare view</a></li>
+</ul>
+</details>
+<br>
+<p dir="auto"><a href="https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores"><img src="https://camo.githubusercontent.com/bcc3a55567b79f8a422ebf7a1f014fbb9abd6987a9efe926e564b696eec03bbe/68747470733a2f2f646570656e6461626f742d6261646765732e6769746875626170702e636f6d2f6261646765732f636f6d7061746962696c6974795f73636f72653f646570656e64656e63792d6e616d653d406f63746f6b69742f72657374267061636b6167652d6d616e616765723d6e706d5f616e645f7961726e2670726576696f75732d76657273696f6e3d32312e312e31266e65772d76657273696f6e3d32322e302e30" alt="Dependabot compatibility score" data-canonical-src="https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@octokit/rest&amp;package-manager=npm_and_yarn&amp;previous-version=21.1.1&amp;new-version=22.0.0" style="max-width: 100%;"></a></p>
+<p dir="auto">Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting <code class="notranslate">@dependabot rebase</code>.</p>
+<hr>
+<details>
+<summary>Dependabot commands and options</summary>
+<br>
+<p dir="auto">You can trigger Dependabot actions by commenting on this PR:</p>
+<ul dir="auto">
+<li><code class="notranslate">@dependabot rebase</code> will rebase this PR</li>
+<li><code class="notranslate">@dependabot recreate</code> will recreate this PR, overwriting any edits that have been made to it</li>
+<li><code class="notranslate">@dependabot merge</code> will merge this PR after your CI passes on it</li>
+<li><code class="notranslate">@dependabot squash and merge</code> will squash and merge this PR after your CI passes on it</li>
+<li><code class="notranslate">@dependabot cancel merge</code> will cancel a previously requested merge and block automerging</li>
+<li><code class="notranslate">@dependabot reopen</code> will reopen this PR if it is closed</li>
+<li><code class="notranslate">@dependabot close</code> will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually</li>
+<li><code class="notranslate">@dependabot show &lt;dependency name&gt; ignore conditions</code> will show all of the ignore conditions of the specified dependency</li>
+<li><code class="notranslate">@dependabot ignore this major version</code> will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)</li>
+<li><code class="notranslate">@dependabot ignore this minor version</code> will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)</li>
+<li><code class="notranslate">@dependabot ignore this dependency</code> will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)</li>
+</ul>
+</details>]]></content>
+        <author>
+            <name>dependabot</name>
+            <email>dependabot@noreply.github.com</email>
+            <uri>https://github.com/apps/dependabot</uri>
+        </author>
+        <published>2025-05-26T14:54:21.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lint: fix CSS syntax and some antipatterns]]></title>
         <id>https://github.com/mdn/content/pull/39685</id>
@@ -381,31 +450,5 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-23T15:34:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technical review: Document canvas context lang attribute]]></title>
-        <id>https://github.com/mdn/content/pull/39642</id>
-        <link href="https://github.com/mdn/content/pull/39642"/>
-        <updated>2025-05-26T09:59:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Chrome 136 supports the lang attribute for on- and off-screen canvas 2D drawing contexts: see <a href="https://chromestatus.com/feature/5066778773028864" rel="nofollow">https://chromestatus.com/feature/5066778773028864</a>.</p>
-<p dir="auto">This PR adds documentation for the new attribute.</p>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>chrisdavidmills</name>
-            <email>chrisdavidmills@noreply.github.com</email>
-            <uri>https://github.com/chrisdavidmills</uri>
-        </author>
-        <published>2025-05-23T08:59:30.000Z</published>
     </entry>
 </feed>
