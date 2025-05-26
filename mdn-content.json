@@ -6,17 +6,6 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/49113249?u=f4418c6cf440024c83b708f52b59d21cbf6ba050&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">revert <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3073310663\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39573\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39573/hovercard\" href=\"https://github.com/mdn/content/pull/39573\">#39573</a></p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
-            "url": "https://github.com/mdn/content/pull/39684",
-            "title": "Update index.md",
-            "date_modified": "2025-05-26T10:02:47.000Z",
-            "date_published": "2025-05-26T08:40:45.000Z",
-            "author": {
-                "name": "HomyeeKing",
-                "url": "https://github.com/HomyeeKing"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Part of <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2629335942\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/36615\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/36615/hovercard\" href=\"https://github.com/mdn/content/issues/36615\">#36615</a></p>",
             "url": "https://github.com/mdn/content/pull/39683",
             "title": "Replace some w3.org/TR links with editor drafts",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 ships support for escaping <code class=\"notranslate\">&lt;</code> and <code class=\"notranslate\">&gt;</code> to <code class=\"notranslate\">&amp;lt;</code> and <code class=\"notranslate\">&amp;gt;</code> in attributes when serializing HTML in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1962084\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1962084</a>. This affects all the obvious methods like innerHTML, outerHTML, getHTML etc.</p>\n<p dir=\"auto\">This PR removes the info in the experimental features page (the addition to Relnote is in a separate PR).</p>\n<p dir=\"auto\">I also added a note to the end of each of the affected methods pointing down to the browser compatibility for this feature. Note that the feature is non standard, but is expected to be standardized soon.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083817699\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39628\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39628/hovercard\" href=\"https://github.com/mdn/content/issues/39628\">#39628</a></p>",
+            "url": "https://github.com/mdn/content/pull/39639",
+            "title": "FF140 escaping `<` and `>` to `&lt;` and `&gt;` in attributes when serializing HTML",
+            "date_modified": "2025-05-26T04:18:17.000Z",
+            "date_published": "2025-05-23T04:57:55.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
             }
         }
     ]

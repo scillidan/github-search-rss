@@ -2,36 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-26T10:05:11.255Z</updated>
+    <updated>2025-05-26T11:01:16.591Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[Update index.md]]></title>
-        <id>https://github.com/mdn/content/pull/39684</id>
-        <link href="https://github.com/mdn/content/pull/39684"/>
-        <updated>2025-05-26T10:02:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49113249?u=f4418c6cf440024c83b708f52b59d21cbf6ba050&v=4" width="64" height="64" alt=""/><br/><p dir="auto">revert <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3073310663" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39573" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39573/hovercard" href="https://github.com/mdn/content/pull/39573">#39573</a></p>
-
-<h3 dir="auto">Description</h3>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>HomyeeKing</name>
-            <email>HomyeeKing@noreply.github.com</email>
-            <uri>https://github.com/HomyeeKing</uri>
-        </author>
-        <published>2025-05-26T08:40:45.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Replace some w3.org/TR links with editor drafts]]></title>
         <id>https://github.com/mdn/content/pull/39683</id>
@@ -413,5 +388,21 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-23T08:59:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FF140 escaping `<` and `>` to `&lt;` and `&gt;` in attributes when serializing HTML]]></title>
+        <id>https://github.com/mdn/content/pull/39639</id>
+        <link href="https://github.com/mdn/content/pull/39639"/>
+        <updated>2025-05-26T04:18:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 ships support for escaping <code class="notranslate">&lt;</code> and <code class="notranslate">&gt;</code> to <code class="notranslate">&amp;lt;</code> and <code class="notranslate">&amp;gt;</code> in attributes when serializing HTML in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1962084" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1962084</a>. This affects all the obvious methods like innerHTML, outerHTML, getHTML etc.</p>
+<p dir="auto">This PR removes the info in the experimental features page (the addition to Relnote is in a separate PR).</p>
+<p dir="auto">I also added a note to the end of each of the affected methods pointing down to the browser compatibility for this feature. Note that the feature is non standard, but is expected to be standardized soon.</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083817699" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39628" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39628/hovercard" href="https://github.com/mdn/content/issues/39628">#39628</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-23T04:57:55.000Z</published>
     </entry>
 </feed>
