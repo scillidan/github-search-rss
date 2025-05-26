@@ -6,6 +6,39 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This improves the docs for <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/waitAsync\" rel=\"nofollow\"><code class=\"notranslate\">Atomics.waitAsync()</code></a> and <code class=\"notranslate\">Atomics.wait()</code>. I found them a little unclear. I think it helps to link to <code class=\"notranslate\">notify()</code> earlier.</p>\n<p dir=\"auto\">Notes about what/why inline</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083534404\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39615\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39615/hovercard\" href=\"https://github.com/mdn/content/issues/39615\">#39615</a></p>",
+            "url": "https://github.com/mdn/content/pull/39679",
+            "title": "Atomics.wait()/waitAsync() improvements",
+            "date_modified": "2025-05-26T06:52:42.000Z",
+            "date_published": "2025-05-26T06:48:29.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 adds support for <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/waitAsync\" rel=\"nofollow\"><code class=\"notranslate\">Atomics.waitAsync()</code></a> behind a pref in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1467846\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1467846</a></p>\n<p dir=\"auto\">This adds the release info and experimental features updates.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083534404\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39615\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39615/hovercard\" href=\"https://github.com/mdn/content/issues/39615\">#39615</a></p>",
+            "url": "https://github.com/mdn/content/pull/39678",
+            "title": "FF140 Relnote/Expr Atomics.waitAsync()",
+            "date_modified": "2025-05-26T06:47:30.000Z",
+            "date_published": "2025-05-26T06:45:21.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39671.\">Fix</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3089261496\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39671\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39671/hovercard\" href=\"https://github.com/mdn/content/issues/39671\">#39671</a></p>",
+            "url": "https://github.com/mdn/content/pull/39677",
+            "title": "Make String.p.pad{End,Start} articles consistent",
+            "date_modified": "2025-05-26T06:20:14.000Z",
+            "date_published": "2025-05-26T06:18:16.000Z",
+            "author": {
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 reenables the cookie store API in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1958875\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1958875</a></p>\n<p dir=\"auto\">This adds the release note that was reverted in FF136 in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2959112561\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/38867\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/38867/hovercard\" href=\"https://github.com/mdn/content/pull/38867\">#38867</a> (with minor modifications).</p>\n<p dir=\"auto\">It also makes \"tweaks\" to the API overview.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083525571\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39612\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39612/hovercard\" href=\"https://github.com/mdn/content/issues/39612\">#39612</a></p>",
             "url": "https://github.com/mdn/content/pull/39676",
             "title": "FF140 Relnote: Cookie Store API",
@@ -17,7 +50,7 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125713293?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">I clarified that <code class=\"notranslate\">rel=\"noopener\"</code> should be used for cross-origin links</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">This is my first time contributing to an OSP!!! And MDN Docs has helped me a lot with my Web Dev journey and I would like to thank them by contributing to their OSP!!</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">I saw an issue targetting this issue so I decided it would be perfect for my first contribution so I'm making these changes because it clarifies when and when not to use <code class=\"notranslate\">noopener</code> in your HTML file!</p>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39344.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3032980774\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39344\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39344/hovercard\" href=\"https://github.com/mdn/content/issues/39344\">#39344</a></p>\n\n\n\n",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125713293?u=8637438378d83c08c61580360e51dbfdf7e06f27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">I clarified that <code class=\"notranslate\">rel=\"noopener\"</code> should be used for cross-origin links</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">This is my first time contributing to an OSP!!! And MDN Docs has helped me a lot with my Web Dev journey and I would like to thank them by contributing to their OSP!!</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">I saw an issue targetting this issue so I decided it would be perfect for my first contribution so I'm making these changes because it clarifies when and when not to use <code class=\"notranslate\">noopener</code> in your HTML file!</p>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39344.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3032980774\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39344\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39344/hovercard\" href=\"https://github.com/mdn/content/issues/39344\">#39344</a></p>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39675",
             "title": "Clarify rules for rel=\"noopener\" and cross origin",
             "date_modified": "2025-05-26T02:47:02.000Z",
@@ -130,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Chrome 138 will add two new features for Speculation Rules:</p>\n<ul dir=\"auto\">\n<li><a href=\"https://chromestatus.com/feature/5162540351094784\" rel=\"nofollow\"><code class=\"notranslate\">target_hint</code></a></li>\n<li><a href=\"https://chromestatus.com/feature/4755745652080640\" rel=\"nofollow\"><code class=\"notranslate\">clear-site-data</code></a></li>\n</ul>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">New features</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\"><strong><code class=\"notranslate\">target_hint</code></strong></p>\n<p dir=\"auto\">Chrome Status link: <a href=\"https://chromestatus.com/feature/5162540351094784\" rel=\"nofollow\">https://chromestatus.com/feature/5162540351094784</a><br>\nExplainer link: <a href=\"https://github.com/WICG/nav-speculation/blob/main/triggers.md#window-name-targeting-hints\">https://github.com/WICG/nav-speculation/blob/main/triggers.md#window-name-targeting-hints</a></p>\n<p dir=\"auto\"><strong><code class=\"notranslate\">Clear-site-data</code></strong></p>\n<p dir=\"auto\">Chrome Status link: <a href=\"https://chromestatus.com/feature/4755745652080640\" rel=\"nofollow\">https://chromestatus.com/feature/4755745652080640</a><br>\nExplainer link: <a href=\"https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md\">https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md</a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\">BCD PR: <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3087745447\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26893\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26893/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/26893\">mdn/browser-compat-data#26893</a></p>\n",
             "url": "https://github.com/mdn/content/pull/39652",
             "title": "Add docs for Speculation Rules features: target_hint and clear-site-data",
-            "date_modified": "2025-05-26T06:01:31.000Z",
+            "date_modified": "2025-05-26T06:14:07.000Z",
             "date_published": "2025-05-23T23:47:53.000Z",
             "author": {
                 "name": "tunetheweb",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "hamishwillee",
                 "url": "https://github.com/hamishwillee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 supports <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static\" rel=\"nofollow\"><code class=\"notranslate\">TaskSignal.any()</code></a> in nightly in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1964407\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>\n<p dir=\"auto\">This adds a release note entry (in the experimental section)</p>\n<p dir=\"auto\">Related work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083815432\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39627\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39627/hovercard\" href=\"https://github.com/mdn/content/issues/39627\">#39627</a></p>",
-            "url": "https://github.com/mdn/content/pull/39635",
-            "title": "FF140 Relnote - TaskSignal.any()",
-            "date_modified": "2025-05-26T01:15:45.000Z",
-            "date_published": "2025-05-23T02:10:15.000Z",
-            "author": {
-                "name": "hamishwillee",
-                "url": "https://github.com/hamishwillee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 supports <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static\" rel=\"nofollow\"><code class=\"notranslate\">TaskSignal.any()</code></a> in nightly in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1964407\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>\n<p dir=\"auto\">This adds a minor tweak to the docs to link to priority definitions. It also updates the experimental features to note that in FF140 the API is feature complete.</p>\n<p dir=\"auto\">Related work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083815432\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39627\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39627/hovercard\" href=\"https://github.com/mdn/content/issues/39627\">#39627</a></p>",
-            "url": "https://github.com/mdn/content/pull/39634",
-            "title": "FF140 TaskSignal.any() - added to expr feat",
-            "date_modified": "2025-05-23T01:57:04.000Z",
-            "date_published": "2025-05-23T01:55:05.000Z",
-            "author": {
-                "name": "hamishwillee",
-                "url": "https://github.com/hamishwillee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">As pointed out by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/caugner/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/caugner\">@caugner</a>, the <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/content-visibility#values\" rel=\"nofollow\">content-visibility</a> property page doesn't explicitly mention in prose what the default value is. This PR adds that sentence.</p>\n<p dir=\"auto\">I looked at a few more pages randomly and added the similar \"default value\" statement in the \"Values\" section.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">To provide default value info alongside the value's description in addition to the info being present in the Formal definition section.</p>",
-            "url": "https://github.com/mdn/content/pull/39626",
-            "title": "Add the default value indicator in prose",
-            "date_modified": "2025-05-24T05:36:56.000Z",
-            "date_published": "2025-05-22T15:34:56.000Z",
-            "author": {
-                "name": "dipikabh",
-                "url": "https://github.com/dipikabh"
             }
         }
     ]
