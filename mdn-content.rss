@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-26T16:01:30.956Z</updated>
+    <updated>2025-05-26T17:01:22.824Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Array.fromAsync() mapFn does not always have its input awaited]]></title>
+        <id>https://github.com/mdn/content/pull/39690</id>
+        <link href="https://github.com/mdn/content/pull/39690"/>
+        <updated>2025-05-26T16:48:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39688.">Fix</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3091638362" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39688" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39688/hovercard" href="https://github.com/mdn/content/issues/39688">#39688</a>.</p>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/js-choi/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/js-choi">@js-choi</a></p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-26T16:46:46.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bump @octokit/rest from 21.1.1 to 22.0.0]]></title>
         <id>https://github.com/mdn/content/pull/39687</id>
@@ -424,31 +438,5 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/tunetheweb</uri>
         </author>
         <published>2025-05-23T23:47:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technical review: Add doc for the scope_extensions manifest member]]></title>
-        <id>https://github.com/mdn/content/pull/39649</id>
-        <link href="https://github.com/mdn/content/pull/39649"/>
-        <updated>2025-05-23T15:35:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Chrome 138 supports the <code class="notranslate">scope_extensions</code> webapp manifest member; see <a href="https://chromestatus.com/feature/5746537956114432" rel="nofollow">https://chromestatus.com/feature/5746537956114432</a> for details.</p>
-<p dir="auto">This PR adds a reference page for the new member.</p>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>chrisdavidmills</name>
-            <email>chrisdavidmills@noreply.github.com</email>
-            <uri>https://github.com/chrisdavidmills</uri>
-        </author>
-        <published>2025-05-23T15:34:02.000Z</published>
     </entry>
 </feed>
