@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-26T00:04:57.922Z</updated>
+    <updated>2025-05-26T01:29:15.618Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -203,19 +203,6 @@
         <published>2025-05-24T04:41:06.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remove link to nonexistent page]]></title>
-        <id>https://github.com/mdn/content/pull/39656</id>
-        <link href="https://github.com/mdn/content/pull/39656"/>
-        <updated>2025-05-24T10:57:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Remnant from <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3073894238" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39575" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39575/hovercard" href="https://github.com/mdn/content/pull/39575">#39575</a></p>]]></content>
-        <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
-        </author>
-        <published>2025-05-24T04:13:09.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Add docs for Speculation Rules features: target_hint and clear-site-data]]></title>
         <id>https://github.com/mdn/content/pull/39652</id>
         <link href="https://github.com/mdn/content/pull/39652"/>
@@ -305,21 +292,6 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
         <published>2025-05-23T08:59:30.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FF140 Relnote: Notification.maxActions unpublished to nightly]]></title>
-        <id>https://github.com/mdn/content/pull/39640</id>
-        <link href="https://github.com/mdn/content/pull/39640"/>
-        <updated>2025-05-23T15:53:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 puts <a href="https://developer.mozilla.org/en-US/docs/Web/API/Notification/maxActions_static" rel="nofollow"><code class="notranslate">Notification.maxActions</code></a> behind the pref <code class="notranslate">dom.webnotifications.actions.enabled</code> which is enabled in nightly - it was previously released in FF138.</p>
-<p dir="auto">This adds a note to the release note, which is in the experimental features section.</p>
-<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083563978" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39620" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39620/hovercard" href="https://github.com/mdn/content/issues/39620">#39620</a></p>]]></content>
-        <author>
-            <name>hamishwillee</name>
-            <email>hamishwillee@noreply.github.com</email>
-            <uri>https://github.com/hamishwillee</uri>
-        </author>
-        <published>2025-05-23T06:20:37.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FF140 escaping `<` and `>` to `&lt;` and `&gt;` in attributes when serializing HTML]]></title>
         <id>https://github.com/mdn/content/pull/39639</id>
         <link href="https://github.com/mdn/content/pull/39639"/>
@@ -367,27 +339,10 @@ If this was just experimental I wouldn't have done anything, but since <code cla
         <published>2025-05-23T03:51:05.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FF139 SVG discard element and api removed - expr feature too]]></title>
-        <id>https://github.com/mdn/content/pull/39636</id>
-        <link href="https://github.com/mdn/content/pull/39636"/>
-        <updated>2025-05-23T12:17:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 (uplifted from FF140) removes experimental support for the SVG <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard" rel="nofollow"><code class="notranslate">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href="https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement" rel="nofollow"><code class="notranslate">SVGDiscardElement</code></a> interface added to release in FF136.<br>
-I've removed the experimental feature entirely as it never released.</p>
-<p dir="auto">This updates <code class="notranslate">SVGDiscardElement</code> and <code class="notranslate">&lt;discard&gt;</code> to revert the status from experimental to deprecated. Nothing else needs to be done at this point. Perhaps not necessary - not sure if the BCD updater syncs that.</p>
-<p dir="auto">Also removed the entry from experimental features page. This is a permanent removal.</p>
-<p dir="auto">Associated docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083558552" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39618" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39618/hovercard" href="https://github.com/mdn/content/issues/39618">#39618</a></p>]]></content>
-        <author>
-            <name>hamishwillee</name>
-            <email>hamishwillee@noreply.github.com</email>
-            <uri>https://github.com/hamishwillee</uri>
-        </author>
-        <published>2025-05-23T03:36:20.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FF140 Relnote - TaskSignal.any()]]></title>
         <id>https://github.com/mdn/content/pull/39635</id>
         <link href="https://github.com/mdn/content/pull/39635"/>
-        <updated>2025-05-23T06:24:01.000Z</updated>
+        <updated>2025-05-26T01:15:45.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 supports <a href="https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static" rel="nofollow"><code class="notranslate">TaskSignal.any()</code></a> in nightly in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1964407" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>
 <p dir="auto">This adds a release note entry (in the experimental section)</p>
 <p dir="auto">Related work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083815432" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39627" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39627/hovercard" href="https://github.com/mdn/content/issues/39627">#39627</a></p>]]></content>
@@ -397,5 +352,62 @@ I've removed the experimental feature entirely as it never released.</p>
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-05-23T02:10:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FF140 TaskSignal.any() - added to expr feat]]></title>
+        <id>https://github.com/mdn/content/pull/39634</id>
+        <link href="https://github.com/mdn/content/pull/39634"/>
+        <updated>2025-05-23T01:57:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 supports <a href="https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static" rel="nofollow"><code class="notranslate">TaskSignal.any()</code></a> in nightly in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1964407" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>
+<p dir="auto">This adds a minor tweak to the docs to link to priority definitions. It also updates the experimental features to note that in FF140 the API is feature complete.</p>
+<p dir="auto">Related work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083815432" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39627" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39627/hovercard" href="https://github.com/mdn/content/issues/39627">#39627</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-23T01:55:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add the default value indicator in prose]]></title>
+        <id>https://github.com/mdn/content/pull/39626</id>
+        <link href="https://github.com/mdn/content/pull/39626"/>
+        <updated>2025-05-24T05:36:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">As pointed out by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/caugner/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/caugner">@caugner</a>, the <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/content-visibility#values" rel="nofollow">content-visibility</a> property page doesn't explicitly mention in prose what the default value is. This PR adds that sentence.</p>
+<p dir="auto">I looked at a few more pages randomly and added the similar "default value" statement in the "Values" section.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">To provide default value info alongside the value's description in addition to the info being present in the Formal definition section.</p>]]></content>
+        <author>
+            <name>dipikabh</name>
+            <email>dipikabh@noreply.github.com</email>
+            <uri>https://github.com/dipikabh</uri>
+        </author>
+        <published>2025-05-22T15:34:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve version control consistentency]]></title>
+        <id>https://github.com/mdn/content/pull/39616</id>
+        <link href="https://github.com/mdn/content/pull/39616"/>
+        <updated>2025-05-23T14:47:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">This PR updates the structure of the <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Version_control" rel="nofollow">Version control</a> learning module so that it is more consistent with other learn modules.</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-22T14:18:32.000Z</published>
     </entry>
 </feed>

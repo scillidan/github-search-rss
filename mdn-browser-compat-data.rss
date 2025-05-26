@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-26T00:04:57.256Z</updated>
+    <updated>2025-05-26T01:29:14.908Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[HTTP Cache-Control stale-while-revalidate is standard]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26895</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26895"/>
+        <updated>2025-05-26T01:04:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">The <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control#stale-while-revalidate" rel="nofollow">stale-while-revalidate</a> indicates non standard, but it is in the linked standard.</p>
+<p dir="auto">Note that this standard also has <code class="notranslate">stale-if-error</code>. As far as I can tell that isn't supported in any browsers, but the CDNs etc widely support it.</p>
+<p dir="auto">Fell out of looking at <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3089389467" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39674" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39674/hovercard?comment_id=2907943249&amp;comment_type=issue_comment" href="https://github.com/mdn/content/issues/39674#issuecomment-2907943249">mdn/content#39674 (comment)</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-26T01:03:15.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add speculation-rules target_hint and clear-site-data support]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26893</id>
@@ -280,18 +295,5 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/queengooborg</uri>
         </author>
         <published>2025-05-01T14:08:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Firefox data for api.SVGElement.load_event]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26686</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26686"/>
-        <updated>2025-05-07T19:05:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Firefox and Firefox Android for the <code class="notranslate">load_event</code> member of the <code class="notranslate">SVGElement</code> API. The <code class="notranslate">alternative_name</code> property was incorrectly used in this context.</p>]]></content>
-        <author>
-            <name>queengooborg</name>
-            <email>queengooborg@noreply.github.com</email>
-            <uri>https://github.com/queengooborg</uri>
-        </author>
-        <published>2025-05-01T13:19:14.000Z</published>
     </entry>
 </feed>

@@ -116,17 +116,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Remnant from <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3073894238\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39575\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39575/hovercard\" href=\"https://github.com/mdn/content/pull/39575\">#39575</a></p>",
-            "url": "https://github.com/mdn/content/pull/39656",
-            "title": "Remove link to nonexistent page",
-            "date_modified": "2025-05-24T10:57:39.000Z",
-            "date_published": "2025-05-24T04:13:09.000Z",
-            "author": {
-                "name": "Josh-Cena",
-                "url": "https://github.com/Josh-Cena"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Chrome 138 will add two new features for Speculation Rules:</p>\n<ul dir=\"auto\">\n<li><a href=\"https://chromestatus.com/feature/5162540351094784\" rel=\"nofollow\"><code class=\"notranslate\">target_hint</code></a></li>\n<li><a href=\"https://chromestatus.com/feature/4755745652080640\" rel=\"nofollow\"><code class=\"notranslate\">clear-site-data</code></a></li>\n</ul>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">New features</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\"><strong><code class=\"notranslate\">target_hint</code></strong></p>\n<p dir=\"auto\">Chrome Status link: <a href=\"https://chromestatus.com/feature/5162540351094784\" rel=\"nofollow\">https://chromestatus.com/feature/5162540351094784</a><br>\nExplainer link: <a href=\"https://github.com/WICG/nav-speculation/blob/main/triggers.md#window-name-targeting-hints\">https://github.com/WICG/nav-speculation/blob/main/triggers.md#window-name-targeting-hints</a></p>\n<p dir=\"auto\"><strong><code class=\"notranslate\">Clear-site-data</code></strong></p>\n<p dir=\"auto\">Chrome Status link: <a href=\"https://chromestatus.com/feature/4755745652080640\" rel=\"nofollow\">https://chromestatus.com/feature/4755745652080640</a><br>\nExplainer link: <a href=\"https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md\">https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md</a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n<p dir=\"auto\">BCD PR: <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3087745447\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26893\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26893/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/26893\">mdn/browser-compat-data#26893</a></p>\n",
             "url": "https://github.com/mdn/content/pull/39652",
             "title": "Add docs for Speculation Rules features: target_hint and clear-site-data",
@@ -157,17 +146,6 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 puts <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Notification/maxActions_static\" rel=\"nofollow\"><code class=\"notranslate\">Notification.maxActions</code></a> behind the pref <code class=\"notranslate\">dom.webnotifications.actions.enabled</code> which is enabled in nightly - it was previously released in FF138.</p>\n<p dir=\"auto\">This adds a note to the release note, which is in the experimental features section.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083563978\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39620\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39620/hovercard\" href=\"https://github.com/mdn/content/issues/39620\">#39620</a></p>",
-            "url": "https://github.com/mdn/content/pull/39640",
-            "title": "FF140 Relnote: Notification.maxActions unpublished to nightly",
-            "date_modified": "2025-05-23T15:53:57.000Z",
-            "date_published": "2025-05-23T06:20:37.000Z",
-            "author": {
-                "name": "hamishwillee",
-                "url": "https://github.com/hamishwillee"
             }
         },
         {
@@ -204,25 +182,47 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF139 (uplifted from FF140) removes experimental support for the SVG <a href=\"https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard\" rel=\"nofollow\"><code class=\"notranslate\">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement\" rel=\"nofollow\"><code class=\"notranslate\">SVGDiscardElement</code></a> interface added to release in FF136.<br>\nI've removed the experimental feature entirely as it never released.</p>\n<p dir=\"auto\">This updates <code class=\"notranslate\">SVGDiscardElement</code> and <code class=\"notranslate\">&lt;discard&gt;</code> to revert the status from experimental to deprecated. Nothing else needs to be done at this point. Perhaps not necessary - not sure if the BCD updater syncs that.</p>\n<p dir=\"auto\">Also removed the entry from experimental features page. This is a permanent removal.</p>\n<p dir=\"auto\">Associated docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083558552\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39618\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39618/hovercard\" href=\"https://github.com/mdn/content/issues/39618\">#39618</a></p>",
-            "url": "https://github.com/mdn/content/pull/39636",
-            "title": "FF139 SVG discard element and api removed - expr feature too",
-            "date_modified": "2025-05-23T12:17:11.000Z",
-            "date_published": "2025-05-23T03:36:20.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 supports <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static\" rel=\"nofollow\"><code class=\"notranslate\">TaskSignal.any()</code></a> in nightly in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1964407\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>\n<p dir=\"auto\">This adds a release note entry (in the experimental section)</p>\n<p dir=\"auto\">Related work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083815432\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39627\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39627/hovercard\" href=\"https://github.com/mdn/content/issues/39627\">#39627</a></p>",
+            "url": "https://github.com/mdn/content/pull/39635",
+            "title": "FF140 Relnote - TaskSignal.any()",
+            "date_modified": "2025-05-26T01:15:45.000Z",
+            "date_published": "2025-05-23T02:10:15.000Z",
             "author": {
                 "name": "hamishwillee",
                 "url": "https://github.com/hamishwillee"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 supports <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static\" rel=\"nofollow\"><code class=\"notranslate\">TaskSignal.any()</code></a> in nightly in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1964407\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>\n<p dir=\"auto\">This adds a release note entry (in the experimental section)</p>\n<p dir=\"auto\">Related work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083815432\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39627\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39627/hovercard\" href=\"https://github.com/mdn/content/issues/39627\">#39627</a></p>",
-            "url": "https://github.com/mdn/content/pull/39635",
-            "title": "FF140 Relnote - TaskSignal.any()",
-            "date_modified": "2025-05-23T06:24:01.000Z",
-            "date_published": "2025-05-23T02:10:15.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 supports <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/TaskSignal/any_static\" rel=\"nofollow\"><code class=\"notranslate\">TaskSignal.any()</code></a> in nightly in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1964407\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1964407</a></p>\n<p dir=\"auto\">This adds a minor tweak to the docs to link to priority definitions. It also updates the experimental features to note that in FF140 the API is feature complete.</p>\n<p dir=\"auto\">Related work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083815432\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39627\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39627/hovercard\" href=\"https://github.com/mdn/content/issues/39627\">#39627</a></p>",
+            "url": "https://github.com/mdn/content/pull/39634",
+            "title": "FF140 TaskSignal.any() - added to expr feat",
+            "date_modified": "2025-05-23T01:57:04.000Z",
+            "date_published": "2025-05-23T01:55:05.000Z",
             "author": {
                 "name": "hamishwillee",
                 "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23019147?u=4c0de81596ced64dc067dea5686f7ca2912db0cb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">As pointed out by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/caugner/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/caugner\">@caugner</a>, the <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/content-visibility#values\" rel=\"nofollow\">content-visibility</a> property page doesn't explicitly mention in prose what the default value is. This PR adds that sentence.</p>\n<p dir=\"auto\">I looked at a few more pages randomly and added the similar \"default value\" statement in the \"Values\" section.</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">To provide default value info alongside the value's description in addition to the info being present in the Formal definition section.</p>",
+            "url": "https://github.com/mdn/content/pull/39626",
+            "title": "Add the default value indicator in prose",
+            "date_modified": "2025-05-24T05:36:56.000Z",
+            "date_published": "2025-05-22T15:34:56.000Z",
+            "author": {
+                "name": "dipikabh",
+                "url": "https://github.com/dipikabh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR updates the structure of the <a href=\"https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Version_control\" rel=\"nofollow\">Version control</a> learning module so that it is more consistent with other learn modules.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39616",
+            "title": "Improve version control consistentency",
+            "date_modified": "2025-05-23T14:47:29.000Z",
+            "date_published": "2025-05-22T14:18:32.000Z",
+            "author": {
+                "name": "chrisdavidmills",
+                "url": "https://github.com/chrisdavidmills"
             }
         }
     ]
