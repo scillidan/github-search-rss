@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-26T13:09:09.526Z</updated>
+    <updated>2025-05-26T14:01:33.271Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[SVG <use>: Add data point for omitting fragments to reference external root elem…]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26906</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26906"/>
+        <updated>2025-05-26T13:41:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">…ents</p>
+
+<h4 dir="auto">Summary</h4>
+<p dir="auto">In Chrome 137, you can now omit the fragment in an SVG <code class="notranslate">&lt;use&gt;</code> element <code class="notranslate">href</code> when referencing an external SVG file, to reference the SVG root element. See <a href="https://chromestatus.com/feature/5128141573718016" rel="nofollow">https://chromestatus.com/feature/5128141573718016</a>.</p>
+<p dir="auto">This PR adds a data point for this update.</p>
+
+<h4 dir="auto">Test results and supporting details</h4>
+
+
+<h4 dir="auto">Related issues</h4>
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-26T13:40:37.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FF140 Atomics.awaitAsync() behind pref]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26898</id>
@@ -256,19 +280,5 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/ddbeck</uri>
         </author>
         <published>2025-05-05T18:46:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove api.SnapEvent.SnapEvent from BCD]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26687</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26687"/>
-        <updated>2025-05-25T00:47:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR removes the <code class="notranslate">SnapEvent</code> member of the <code class="notranslate">SnapEvent</code> API from BCD. The collector reports that the constructor is an illegal constructor in Chromium.</p>
-<p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent</a></p>]]></content>
-        <author>
-            <name>queengooborg</name>
-            <email>queengooborg@noreply.github.com</email>
-            <uri>https://github.com/queengooborg</uri>
-        </author>
-        <published>2025-05-01T14:08:44.000Z</published>
     </entry>
 </feed>

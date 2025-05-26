@@ -6,6 +6,17 @@
     "description": "mdn/browser-compat-data update data on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">…ents</p>\n\n<h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">In Chrome 137, you can now omit the fragment in an SVG <code class=\"notranslate\">&lt;use&gt;</code> element <code class=\"notranslate\">href</code> when referencing an external SVG file, to reference the SVG root element. See <a href=\"https://chromestatus.com/feature/5128141573718016\" rel=\"nofollow\">https://chromestatus.com/feature/5128141573718016</a>.</p>\n<p dir=\"auto\">This PR adds a data point for this update.</p>\n\n<h4 dir=\"auto\">Test results and supporting details</h4>\n\n\n<h4 dir=\"auto\">Related issues</h4>\n\n",
+            "url": "https://github.com/mdn/browser-compat-data/pull/26906",
+            "title": "SVG <use>: Add data point for omitting fragments to reference external root elem…",
+            "date_modified": "2025-05-26T13:41:31.000Z",
+            "date_published": "2025-05-26T13:40:37.000Z",
+            "author": {
+                "name": "chrisdavidmills",
+                "url": "https://github.com/chrisdavidmills"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 adds support for <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/waitAsync\" rel=\"nofollow\"><code class=\"notranslate\">Atomics.waitAsync()</code></a> behind a pref in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1467846\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1467846</a></p>\n<p dir=\"auto\">This adds the release info.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083534404\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39615\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39615/hovercard\" href=\"https://github.com/mdn/content/issues/39615\">mdn/content#39615</a></p>",
             "url": "https://github.com/mdn/browser-compat-data/pull/26898",
             "title": "FF140 Atomics.awaitAsync() behind pref",
@@ -135,17 +146,6 @@
             "author": {
                 "name": "ddbeck",
                 "url": "https://github.com/ddbeck"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This PR removes the <code class=\"notranslate\">SnapEvent</code> member of the <code class=\"notranslate\">SnapEvent</code> API from BCD. The collector reports that the constructor is an illegal constructor in Chromium.</p>\n<p dir=\"auto\">Tests Used: <a href=\"https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent\" rel=\"nofollow\">https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent</a></p>",
-            "url": "https://github.com/mdn/browser-compat-data/pull/26687",
-            "title": "Remove api.SnapEvent.SnapEvent from BCD",
-            "date_modified": "2025-05-25T00:47:38.000Z",
-            "date_published": "2025-05-01T14:08:44.000Z",
-            "author": {
-                "name": "queengooborg",
-                "url": "https://github.com/queengooborg"
             }
         }
     ]
