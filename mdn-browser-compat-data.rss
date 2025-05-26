@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-26T05:01:28.281Z</updated>
+    <updated>2025-05-26T06:01:42.108Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[FF140 Atomics.awaitAsync() behind pref]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26898</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26898"/>
+        <updated>2025-05-26T05:44:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 adds support for <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/waitAsync" rel="nofollow"><code class="notranslate">Atomics.waitAsync()</code></a> behind a pref in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1467846" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1467846</a></p>
+<p dir="auto">This adds the release info.</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083534404" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39615" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39615/hovercard" href="https://github.com/mdn/content/issues/39615">mdn/content#39615</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-26T05:43:04.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTTP Cache-Control stale-while-revalidate is standard]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26895</id>
@@ -281,19 +296,5 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/ddbeck</uri>
         </author>
         <published>2025-05-05T18:46:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove api.SnapEvent.SnapEvent from BCD]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26687</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26687"/>
-        <updated>2025-05-25T00:47:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR removes the <code class="notranslate">SnapEvent</code> member of the <code class="notranslate">SnapEvent</code> API from BCD. The collector reports that the constructor is an illegal constructor in Chromium.</p>
-<p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent</a></p>]]></content>
-        <author>
-            <name>queengooborg</name>
-            <email>queengooborg@noreply.github.com</email>
-            <uri>https://github.com/queengooborg</uri>
-        </author>
-        <published>2025-05-01T14:08:44.000Z</published>
     </entry>
 </feed>

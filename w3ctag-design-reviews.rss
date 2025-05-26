@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss</id>
     <title>w3ctag/design-reviews Design Issues</title>
-    <updated>2025-05-26T05:01:23.158Z</updated>
+    <updated>2025-05-26T06:01:36.883Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/w3ctag-design-reviews.rss"/>
     <subtitle>w3ctag/design-reviews Design Issues on GitHub</subtitle>
@@ -11,16 +11,16 @@
         <title type="html"><![CDATA[env(preferred-text-scale)]]></title>
         <id>https://github.com/w3ctag/design-reviews/issues/1101</id>
         <link href="https://github.com/w3ctag/design-reviews/issues/1101"/>
-        <updated>2025-05-23T00:33:06.000Z</updated>
+        <updated>2025-05-26T05:17:34.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1801875?u=92afa3d31284ac2b8bc5876f1641458ba3e05a4c&v=4" width="64" height="64" alt=""/><br/><p dir="auto">こんにちは TAG-さん!</p>
 <p dir="auto">I'm requesting a TAG review of env(preferred-text-scale)</p>
 <p dir="auto">Operating systems and web browsers provide global accessibility settings for the user to increase their system text scale. Authors would like to respect the user’s text scale settings but have trouble doing so today. We propose to provide authors with access to the user’s system font scale factor by adding a new CSS environment variable -- <code class="notranslate">env(preferred-text-scale)</code>.</p>
 <ul dir="auto">
-<li>Explainer¹: <a href="https://davidsgrogan.github.io/env-explainer.html" rel="nofollow">https://davidsgrogan.github.io/env-explainer.html</a></li>
+<li>Explainer¹: <a href="https://github.com/w3c/csswg-drafts/blob/main/css-env-1/explainers/env-preferred-text-scale.md">https://github.com/w3c/csswg-drafts/blob/main/css-env-1/explainers/env-preferred-text-scale.md</a></li>
 <li>Specification: <a href="https://drafts.csswg.org/css-env-1/#text-zoom" rel="nofollow">https://drafts.csswg.org/css-env-1/#text-zoom</a></li>
 <li>WPT Tests: Only internal tests due to lack of support for OS font scale setting in WPT. see <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="354825741" data-permission-text="Title is private" data-url="https://github.com/web-platform-tests/wpt/issues/12725" data-hovercard-type="issue" data-hovercard-url="/web-platform-tests/wpt/issues/12725/hovercard" href="https://github.com/web-platform-tests/wpt/issues/12725">web-platform-tests/wpt#12725</a></li>
 <li>User research:</li>
-<li>Security and Privacy self-review²: No security issues. Fingerprinting issues have been raised (exposing user preferences) and mitigated (bucketing). It's worth noting that drive-by sites already have access to this information, just non-ergonomically. See <a href="https://davidsgrogan.github.io/env-explainer.html#h.8bgh57iyzpo5" rel="nofollow">https://davidsgrogan.github.io/env-explainer.html#h.8bgh57iyzpo5</a> for a description of how google.com currently derives this preference.</li>
+<li>Security and Privacy self-review²: No security issues. Fingerprinting issues have been raised (exposing user preferences) and mitigated (bucketing). It's worth noting that drive-by sites already have access to this information, just non-ergonomically. See <a href="https://github.com/w3c/csswg-drafts/blob/main/css-env-1/explainers/env-preferred-text-scale.md#measuring-text">https://github.com/w3c/csswg-drafts/blob/main/css-env-1/explainers/env-preferred-text-scale.md#measuring-text</a> for a description of how google.com currently derives this preference.</li>
 <li>GitHub repo:</li>
 <li>Primary contacts:
 <ul dir="auto">
@@ -42,7 +42,7 @@
 <li>Chromium comments: Positive</li>
 <li>Mozilla comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3053487040" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1229" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1229/hovercard" href="https://github.com/mozilla/standards-positions/issues/1229">mozilla/standards-positions#1229</a></li>
 <li>WebKit comments: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3084756190" data-permission-text="Title is private" data-url="https://github.com/WebKit/standards-positions/issues/499" data-hovercard-type="issue" data-hovercard-url="/WebKit/standards-positions/issues/499/hovercard" href="https://github.com/WebKit/standards-positions/issues/499">WebKit/standards-positions#499</a></li>
-<li>An author initiated this proposal in the WG. <a href="https://davidsgrogan.github.io/env-explainer.html#h.ggc9hbja4vu6" rel="nofollow">https://davidsgrogan.github.io/env-explainer.html#h.ggc9hbja4vu6</a> has links to authors asking for help getting this information, and descriptions of the lengths authors currently go to to get this information.</li>
+<li>An author initiated this proposal in the WG. <a href="https://github.com/w3c/csswg-drafts/blob/main/css-env-1/explainers/env-preferred-text-scale.md#how-authors-detect-and-respond-to-os-level-font-setting">https://github.com/w3c/csswg-drafts/blob/main/css-env-1/explainers/env-preferred-text-scale.md#how-authors-detect-and-respond-to-os-level-font-setting</a> has links to authors asking for help getting this information, and descriptions of the lengths authors currently go to to get this information.</li>
 </ul>
 </li>
 <li>Major unresolved issues with or opposition to this specification:</li>

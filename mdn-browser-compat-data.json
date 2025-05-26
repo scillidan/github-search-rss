@@ -6,6 +6,17 @@
     "description": "mdn/browser-compat-data update data on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 adds support for <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/waitAsync\" rel=\"nofollow\"><code class=\"notranslate\">Atomics.waitAsync()</code></a> behind a pref in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1467846\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1467846</a></p>\n<p dir=\"auto\">This adds the release info.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083534404\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39615\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39615/hovercard\" href=\"https://github.com/mdn/content/issues/39615\">mdn/content#39615</a></p>",
+            "url": "https://github.com/mdn/browser-compat-data/pull/26898",
+            "title": "FF140 Atomics.awaitAsync() behind pref",
+            "date_modified": "2025-05-26T05:44:00.000Z",
+            "date_published": "2025-05-26T05:43:04.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control#stale-while-revalidate\" rel=\"nofollow\">stale-while-revalidate</a> indicates non standard, but it is in the linked standard.</p>\n<p dir=\"auto\">Note that this standard also has <code class=\"notranslate\">stale-if-error</code>. As far as I can tell that isn't supported in any browsers, but the CDNs etc widely support it.</p>\n<p dir=\"auto\">Fell out of looking at <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3089389467\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39674\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39674/hovercard?comment_id=2907943249&amp;comment_type=issue_comment\" href=\"https://github.com/mdn/content/issues/39674#issuecomment-2907943249\">mdn/content#39674 (comment)</a></p>",
             "url": "https://github.com/mdn/browser-compat-data/pull/26895",
             "title": "HTTP Cache-Control stale-while-revalidate is standard",
@@ -146,17 +157,6 @@
             "author": {
                 "name": "ddbeck",
                 "url": "https://github.com/ddbeck"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This PR removes the <code class=\"notranslate\">SnapEvent</code> member of the <code class=\"notranslate\">SnapEvent</code> API from BCD. The collector reports that the constructor is an illegal constructor in Chromium.</p>\n<p dir=\"auto\">Tests Used: <a href=\"https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent\" rel=\"nofollow\">https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent</a></p>",
-            "url": "https://github.com/mdn/browser-compat-data/pull/26687",
-            "title": "Remove api.SnapEvent.SnapEvent from BCD",
-            "date_modified": "2025-05-25T00:47:38.000Z",
-            "date_published": "2025-05-01T14:08:44.000Z",
-            "author": {
-                "name": "queengooborg",
-                "url": "https://github.com/queengooborg"
             }
         }
     ]
