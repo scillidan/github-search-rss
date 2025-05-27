@@ -6,28 +6,6 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11093698?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">To replace the places where <code class=\"notranslate\">#a71e14<span class=\"ml-1 d-inline-block border circle color-border-subtle\" style=\"background-color: #a71e14; height: 8px; width: 8px;\"></span></code> is referred to as \"blue\" with \"red\"</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">It will help reduce the confusion as the visual examples show a red hue instead of a blue one</p>\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">Refer to the color picker at <a href=\"https://mdn.github.io/css-examples/tools/color-picker/\" rel=\"nofollow\">https://mdn.github.io/css-examples/tools/color-picker/</a> with <code class=\"notranslate\">#a71e14<span class=\"ml-1 d-inline-block border circle color-border-subtle\" style=\"background-color: #a71e14; height: 8px; width: 8px;\"></span></code> hex value</p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\">None</p>",
-            "url": "https://github.com/mdn/content/pull/39700",
-            "title": "Replace \"blue\" with \"red\" where referring to the hex code #a71e14",
-            "date_modified": "2025-05-27T07:48:38.000Z",
-            "date_published": "2025-05-27T07:48:14.000Z",
-            "author": {
-                "name": "Chevindu",
-                "url": "https://github.com/Chevindu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The page is gone so these assets are unused</p>",
-            "url": "https://github.com/mdn/content/pull/39696",
-            "title": "Remove unused assets in <discard> folder",
-            "date_modified": "2025-05-27T07:44:10.000Z",
-            "date_published": "2025-05-27T06:52:10.000Z",
-            "author": {
-                "name": "Josh-Cena",
-                "url": "https://github.com/Josh-Cena"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 adds suppor for the <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Element/pointerrawupdate_event\" rel=\"nofollow\"><code class=\"notranslate\">pointerrawupdate</code> event</a> in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1550462\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1550462</a></p>\n<p dir=\"auto\">This adds a release note (based on the FF release note) and also updates the docs for the element slightly to capture when you would use this event (and not), and its bubble, cancel, composed properties.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083533207\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39614\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39614/hovercard\" href=\"https://github.com/mdn/content/issues/39614\">#39614</a></p>",
             "url": "https://github.com/mdn/content/pull/39695",
             "title": "FF140 pointerrawupdate event - relnote/docs",
@@ -47,17 +25,6 @@
             "author": {
                 "name": "hamishwillee",
                 "url": "https://github.com/hamishwillee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39688.\">Fix</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3091638362\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39688\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39688/hovercard\" href=\"https://github.com/mdn/content/issues/39688\">#39688</a>.</p>\n<p dir=\"auto\"><a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/js-choi/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/js-choi\">@js-choi</a></p>",
-            "url": "https://github.com/mdn/content/pull/39690",
-            "title": "Array.fromAsync() mapFn does not always have its input awaited",
-            "date_modified": "2025-05-27T00:32:12.000Z",
-            "date_published": "2025-05-26T16:46:46.000Z",
-            "author": {
-                "name": "Josh-Cena",
-                "url": "https://github.com/Josh-Cena"
             }
         },
         {
@@ -119,7 +86,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26916078?u=ae3b6dc567b716a44e450bacef5e1a8de9fc9c5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The old getMessage function had a bug where if you made multiple unawaited calls to the function, it wouldn't behave correctly because previous reads had not yet completed, and all you were doing was reading 4 bytes at a time from the input into the header buffer. It also had a bug of not reading the correct amount of data, because the buffer given to the read function was not exactly sized for the expected message size, so it was possible that the amount of data that you got back was larger than the size that the header indicated if the extension had sent more than one message.</p>\n<p dir=\"auto\">The new getMessage function solves both of those issues. The first issue is solved by using a promise and a while loop to trap the execution of extra calls at the top of the function while there is already a read in progress. Each call to getMessage is let through the trap one at a time as a read completes. If there are no pending reads, then a call to getMessage does not get trapped at the top of the function, because the read promise will be null, and so the loop will be skipped. The other issue is solved by using buffers which are appropriately sized according to the header information. I think this is also more succinct, since the old <code class=\"notranslate\">readFullAsync</code> ultimately ended up doing that anyway at the end by passing the data array to the Uint8Array constructor. If you just create it from the header information and pass it directly to the read function, you can avoid dispatching to another function, and it prevents a bug.</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Make the getMessage function better for the javascript example.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">The change will prevent the bugs I described, which makes it easier to develop a native messaging extension for the next person, I hope.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\"><a href=\"https://nodejs.org/api/fs.html#filehandlereadbuffer-options\" rel=\"nofollow\">https://nodejs.org/api/fs.html#filehandlereadbuffer-options</a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39672",
             "title": "Make the `getMessage` function for the javascript example more robust.",
-            "date_modified": "2025-05-27T04:00:15.000Z",
+            "date_modified": "2025-05-27T08:44:39.000Z",
             "date_published": "2025-05-25T12:41:16.000Z",
             "author": {
                 "name": "qdirks",
@@ -130,7 +97,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/26916078?u=ae3b6dc567b716a44e450bacef5e1a8de9fc9c5c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><code class=\"notranslate\">process.stdout.write</code> does not return a promise, it returns a boolean indicating whether it's okay to keep writing or if you should wait for the drain event (<code class=\"notranslate\">true</code> indicates okay to keep writing). Since there's no promise to await, both <code class=\"notranslate\">await</code> keywords can be removed. Since there are no other await keywords in this function, the <code class=\"notranslate\">async</code> keyword can also be removed. Since the function no longer awaits the first write, this fixes a bug where multiple unawaited calls to sendMessage would cause only the header to be written over and over as each call hits the first write call, but then waits for the next process tick to do the second write call, causing a bug.</p>\n\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Remove unnecessary keywords which may mislead readers who are attempting to adapt the code.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Removing the await keywords makes the code more robust, as multiple unawaited calls to sendMessage will do the correct thing by sending each message over to the extension side, instead of writing the header over and over. It helps readers to not struggle so much trying to figure out why it isn't working.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\"><a href=\"https://nodejs.org/api/stream.html#writablewritechunk-encoding-callback\" rel=\"nofollow\">https://nodejs.org/api/stream.html#writablewritechunk-encoding-callback</a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39670",
             "title": "Remove unnecessary `await` and `async` keywords.",
-            "date_modified": "2025-05-26T17:40:42.000Z",
+            "date_modified": "2025-05-27T08:59:28.000Z",
             "date_published": "2025-05-25T11:29:06.000Z",
             "author": {
                 "name": "qdirks",
@@ -223,6 +190,39 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Chrome 136 supports the lang attribute for on- and off-screen canvas 2D drawing contexts: see <a href=\"https://chromestatus.com/feature/5066778773028864\" rel=\"nofollow\">https://chromestatus.com/feature/5066778773028864</a>.</p>\n<p dir=\"auto\">This PR adds documentation for the new attribute.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39642",
+            "title": "Technical review: Document canvas context lang attribute",
+            "date_modified": "2025-05-26T09:59:21.000Z",
+            "date_published": "2025-05-23T08:59:30.000Z",
+            "author": {
+                "name": "chrisdavidmills",
+                "url": "https://github.com/chrisdavidmills"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF139 (uplifted from FF140) removes experimental support for the SVG <a href=\"https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard\" rel=\"nofollow\"><code class=\"notranslate\">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement\" rel=\"nofollow\"><code class=\"notranslate\">SVGDiscardElement</code></a> interface added to release in FF136.</p>\n<p dir=\"auto\">This adds a note about the removal in FF139. Note, that is now the main version, so haven't needed to push to a non-main branch.<br>\nIf this was just experimental I wouldn't have done anything, but since <code class=\"notranslate\">SVGDiscardElement</code> was actually released (possibly by accident since the element wasn't) had to.</p>\n<p dir=\"auto\">Associated docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083558552\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39618\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39618/hovercard\" href=\"https://github.com/mdn/content/issues/39618\">#39618</a></p>",
+            "url": "https://github.com/mdn/content/pull/39637",
+            "title": "FF139 Relnote - SVG discard removed",
+            "date_modified": "2025-05-26T02:26:23.000Z",
+            "date_published": "2025-05-23T03:51:05.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Add a page on Manipulator in the Middle attacks.</p>",
+            "url": "https://github.com/mdn/content/pull/39604",
+            "title": "Add MITM guide",
+            "date_modified": "2025-05-27T05:19:46.000Z",
+            "date_published": "2025-05-21T19:01:27.000Z",
+            "author": {
+                "name": "wbamberg",
+                "url": "https://github.com/wbamberg"
             }
         }
     ]
