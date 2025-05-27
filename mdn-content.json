@@ -6,6 +6,17 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9440351?u=12ca3351bcb3eb2cb1865c80051f437cd9433ec0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The second and third <code class=\"notranslate\">console.log()</code> in the first example on <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal/Instant/from#examples\" rel=\"nofollow\">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal/Instant/from#examples</a> use <code class=\"notranslate\">instant</code> instead of <code class=\"notranslate\">instant2</code>/<code class=\"notranslate\">instant3</code></p>",
+            "url": "https://github.com/mdn/content/pull/39713",
+            "title": "Correct variables in console.log",
+            "date_modified": "2025-05-27T21:22:10.000Z",
+            "date_published": "2025-05-27T21:20:07.000Z",
+            "author": {
+                "name": "mikoMK",
+                "url": "https://github.com/mikoMK"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23744935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Updates the <code class=\"notranslate\">document.adoptedStyleSheets</code> documentation to use the newer <code class=\"notranslate\">document.adoptedStyleSheets .push</code> method.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Previously, changing <code class=\"notranslate\">document.adoptedStylesheets</code> only worked by assigning a new array. But the spec was updated to allow using the push method, which seems easier.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\"><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1910086995\" data-permission-text=\"Title is private\" data-url=\"https://github.com/GoogleChrome/web.dev/issues/10412\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/GoogleChrome/web.dev/pull/10412/hovercard\" href=\"https://github.com/GoogleChrome/web.dev/pull/10412\">GoogleChrome/web.dev#10412</a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39711",
             "title": "Update document.adoptedStyleSheets to use newer push method",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The title is used in lots of child pages and it's quite long. We can get rid of some redundancy here by making the title of the root page a little shorter.</p>",
             "url": "https://github.com/mdn/content/pull/39708",
             "title": "chore(glossary): Use a shorter page title",
-            "date_modified": "2025-05-27T15:59:16.000Z",
+            "date_modified": "2025-05-27T21:24:36.000Z",
             "date_published": "2025-05-27T15:57:10.000Z",
             "author": {
                 "name": "bsmth",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Add a page on Manipulator in the Middle attacks.</p>",
-            "url": "https://github.com/mdn/content/pull/39604",
-            "title": "Add MITM guide",
-            "date_modified": "2025-05-27T05:19:46.000Z",
-            "date_published": "2025-05-21T19:01:27.000Z",
-            "author": {
-                "name": "wbamberg",
-                "url": "https://github.com/wbamberg"
             }
         }
     ]
