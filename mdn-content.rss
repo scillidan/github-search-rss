@@ -2,11 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-27T15:01:37.121Z</updated>
+    <updated>2025-05-27T16:01:32.891Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[chore(glossary): Use a shorter page title]]></title>
+        <id>https://github.com/mdn/content/pull/39708</id>
+        <link href="https://github.com/mdn/content/pull/39708"/>
+        <updated>2025-05-27T15:59:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">The title is used in lots of child pages and it's quite long. We can get rid of some redundancy here by making the title of the root page a little shorter.</p>]]></content>
+        <author>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
+        </author>
+        <published>2025-05-27T15:57:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Pull Request Template]]></title>
+        <id>https://github.com/mdn/content/pull/39707</id>
+        <link href="https://github.com/mdn/content/pull/39707"/>
+        <updated>2025-05-27T15:34:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18158596?u=0bdf89552175d35b91967acb2bdc1378bbec05f8&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Added the following to the PR Template:</p>
+<ol dir="auto">
+<li>Link to writing guidelines.</li>
+<li>Reminder: Spammy PRs will be banned.</li>
+</ol>
+
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">This should serve as a reminder for contributors to read the writing guidelines before submitting a PR, and ensure they read what happens when folks submit spam.</p>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>pransh15</name>
+            <email>pransh15@noreply.github.com</email>
+            <uri>https://github.com/pransh15</uri>
+        </author>
+        <published>2025-05-27T15:21:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chore(http): Update language-detector and translator directives, page templates]]></title>
+        <id>https://github.com/mdn/content/pull/39706</id>
+        <link href="https://github.com/mdn/content/pull/39706"/>
+        <updated>2025-05-27T15:10:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">These two permissions policy directives were in-flight while my title/short-title PR was merged.</p>
+<h3 dir="auto">Motivation</h3>
+<p dir="auto">Making the section uniform, updating writing guidelines</p>
+<h3 dir="auto">Related issues and pull requests</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3086257094" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39648" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39648/hovercard" href="https://github.com/mdn/content/pull/39648">#39648</a></li>
+</ul>]]></content>
+        <author>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
+        </author>
+        <published>2025-05-27T15:08:26.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bump yargs from 17.7.2 to 18.0.0]]></title>
         <id>https://github.com/mdn/content/pull/39705</id>
@@ -304,7 +368,7 @@
         <title type="html"><![CDATA[Add docs for Speculation Rules features: target_hint and clear-site-data]]></title>
         <id>https://github.com/mdn/content/pull/39652</id>
         <link href="https://github.com/mdn/content/pull/39652"/>
-        <updated>2025-05-27T03:36:53.000Z</updated>
+        <updated>2025-05-27T15:59:12.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 
@@ -450,67 +514,5 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/acdha</uri>
         </author>
         <published>2025-05-20T16:30:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improves the explanation for the application-name metadata]]></title>
-        <id>https://github.com/mdn/content/pull/39584</id>
-        <link href="https://github.com/mdn/content/pull/39584"/>
-        <updated>2025-05-24T03:27:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/13982547?u=ddbc70a31ce7638bb9a797a9efa6caff8519e544&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Adds an example on providing localized <code class="notranslate">application-name</code> using the <code class="notranslate">lang</code> attribute.</p>
-<h3 dir="auto">Link to specification  - <a href="https://html.spec.whatwg.org/multipage/semantics.html#meta-application-name" rel="nofollow">application-name</a></h3>]]></content>
-        <author>
-            <name>ajuchacko</name>
-            <email>ajuchacko@noreply.github.com</email>
-            <uri>https://github.com/ajuchacko</uri>
-        </author>
-        <published>2025-05-20T10:38:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add Forbids  value `auto`]]></title>
-        <id>https://github.com/mdn/content/pull/39578</id>
-        <link href="https://github.com/mdn/content/pull/39578"/>
-        <updated>2025-05-23T01:45:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/21235555?v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">according to <a href="https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto" rel="nofollow">https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto</a>.</p>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>zhangenming</name>
-            <email>zhangenming@noreply.github.com</email>
-            <uri>https://github.com/zhangenming</uri>
-        </author>
-        <published>2025-05-20T01:36:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chore: Change ints to doubles for ProgressEvent properties]]></title>
-        <id>https://github.com/mdn/content/pull/39574</id>
-        <link href="https://github.com/mdn/content/pull/39574"/>
-        <updated>2025-05-23T06:23:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
-<p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
-<ul dir="auto">
-<li><a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ" rel="nofollow">Chromium Intent to Ship</a></li>
-<li><a href="https://bugs.webkit.org/show_bug.cgi?id=288688" rel="nofollow">WebKit bug</a></li>
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1943649" rel="nofollow">Gecko bug</a></li>
-</ul>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #641.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2883460957" data-permission-text="Title is private" data-url="https://github.com/mdn/mdn/issues/641" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/641/hovercard" href="https://github.com/mdn/mdn/issues/641">mdn/mdn#641</a></p>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-19T11:24:17.000Z</published>
     </entry>
 </feed>
