@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-27T16:01:32.891Z</updated>
+    <updated>2025-05-27T17:01:33.331Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Lint: replace string concatenation with template strings]]></title>
+        <id>https://github.com/mdn/content/pull/39709</id>
+        <link href="https://github.com/mdn/content/pull/39709"/>
+        <updated>2025-05-27T16:37:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Our style guide requires using template literals instead of string concatenation. This PR fixes all remaining cases.</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-27T16:35:12.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[chore(glossary): Use a shorter page title]]></title>
         <id>https://github.com/mdn/content/pull/39708</id>
@@ -25,7 +38,7 @@
         <title type="html"><![CDATA[Update Pull Request Template]]></title>
         <id>https://github.com/mdn/content/pull/39707</id>
         <link href="https://github.com/mdn/content/pull/39707"/>
-        <updated>2025-05-27T15:34:47.000Z</updated>
+        <updated>2025-05-27T16:06:07.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/18158596?u=0bdf89552175d35b91967acb2bdc1378bbec05f8&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">Added the following to the PR Template:</p>
@@ -368,7 +381,7 @@
         <title type="html"><![CDATA[Add docs for Speculation Rules features: target_hint and clear-site-data]]></title>
         <id>https://github.com/mdn/content/pull/39652</id>
         <link href="https://github.com/mdn/content/pull/39652"/>
-        <updated>2025-05-27T15:59:12.000Z</updated>
+        <updated>2025-05-27T16:29:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 
@@ -494,25 +507,5 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/dletorey</uri>
         </author>
         <published>2025-05-20T17:34:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Record Safari 18.4+ support for Opus in Ogg containers]]></title>
-        <id>https://github.com/mdn/content/pull/39592</id>
-        <link href="https://github.com/mdn/content/pull/39592"/>
-        <updated>2025-05-22T19:47:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46565?u=4899240c775ecf60df7fbf978bb290e63f11f5cc&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">Confirm support for Opus and Vorbis in Ogg containers on Safari 18.4+</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">People providing audio content on the web want to know what formats they must support.</p>
-<h3 dir="auto">Additional details</h3>
-<ul dir="auto">
-<li><a href="https://webkit.org/blog/16574/webkit-features-in-safari-18-4/" rel="nofollow">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></li>
-</ul>]]></content>
-        <author>
-            <name>acdha</name>
-            <email>acdha@noreply.github.com</email>
-            <uri>https://github.com/acdha</uri>
-        </author>
-        <published>2025-05-20T16:30:33.000Z</published>
     </entry>
 </feed>
