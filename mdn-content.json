@@ -6,17 +6,6 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">These pages are missing text before the first h2</p>",
-            "url": "https://github.com/mdn/content/pull/39712",
-            "title": "chore(fx): pages missing text before first h2",
-            "date_modified": "2025-05-27T18:44:20.000Z",
-            "date_published": "2025-05-27T18:42:17.000Z",
-            "author": {
-                "name": "bsmth",
-                "url": "https://github.com/bsmth"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/23744935?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n\n<p dir=\"auto\">Updates the <code class=\"notranslate\">document.adoptedStyleSheets</code> documentation to use the newer <code class=\"notranslate\">document.adoptedStyleSheets .push</code> method.</p>\n<h3 dir=\"auto\">Motivation</h3>\n\n<p dir=\"auto\">Previously, changing <code class=\"notranslate\">document.adoptedStylesheets</code> only worked by assigning a new array. But the spec was updated to allow using the push method, which seems easier.</p>\n<h3 dir=\"auto\">Additional details</h3>\n\n<p dir=\"auto\"><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1910086995\" data-permission-text=\"Title is private\" data-url=\"https://github.com/GoogleChrome/web.dev/issues/10412\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/GoogleChrome/web.dev/pull/10412/hovercard\" href=\"https://github.com/GoogleChrome/web.dev/pull/10412\">GoogleChrome/web.dev#10412</a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39711",
             "title": "Update document.adoptedStyleSheets to use newer push method",
@@ -31,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1920698?u=80e0df2f3ffbf0a547fcd5de43b58ae6e7f0c641&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">This PR adds API documentation about the proposed HTML Model element, a browser-native feature for the in-line display of 3D content. It includes illustrations of some core concepts like perspective, lighting and appropriate file formats.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">The Model element is a totally new web feature and it'll be exceptionally difficult to add documentation in a piecemeal fashion. I'm hoping that this covers the core concepts enough to author new pages from, and matches the MDN house style well <em>enough</em> that other folks can improve them to the point that they are real!</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">I am submitting provisional documentation for the HTML model element, a feature that is the major source of discussion in the W3C Immersive Web CG (<a href=\"https://github.com/immersive-web/model-element/\">https://github.com/immersive-web/model-element/</a> )<br>\nand which is available as a feature preview in visionOS 2.4. I am an editor of the specification and have been facilitating the discussion around it.</p>\n<p dir=\"auto\">While the specification doesn’t have a lot of detail, the API in visionOS is based on the consensus discussion in the CG, and is described in the Model Element explainer: (<a href=\"https://github.com/immersive-web/model-element/blob/main/explainer.md\">https://github.com/immersive-web/model-element/blob/main/explainer.md</a> )</p>\n<p dir=\"auto\">There is also a WebGL/WebXR-based interactive explainer demo available here:<br>\n<a href=\"https://immersive-web.github.io/model-element/explainer_demo.html\" rel=\"nofollow\">https://immersive-web.github.io/model-element/explainer_demo.html</a></p>\n<p dir=\"auto\">We also have public samples being contributed by multiple browser vendors in the model element samples repository.<br>\n<a href=\"https://immersive-web.github.io/model-element-samples/\" rel=\"nofollow\">https://immersive-web.github.io/model-element-samples/</a></p>\n<p dir=\"auto\">We have previously submitted related additions to the WHATWG HTML specification as via an introductory issue and initial PR for the specification stub.<br>\n<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2773648494\" data-permission-text=\"Title is private\" data-url=\"https://github.com/whatwg/html/issues/10901\" data-hovercard-type=\"issue\" data-hovercard-url=\"/whatwg/html/issues/10901/hovercard\" href=\"https://github.com/whatwg/html/issues/10901\">whatwg/html#10901</a><br>\n<a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2973354937\" data-permission-text=\"Title is private\" data-url=\"https://github.com/whatwg/html/issues/11191\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/whatwg/html/pull/11191/hovercard\" href=\"https://github.com/whatwg/html/pull/11191\">whatwg/html#11191</a></p>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<h4 dir=\"auto\">WHATWG/HTML</h4>\n<ul dir=\"auto\">\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2773648494\" data-permission-text=\"Title is private\" data-url=\"https://github.com/whatwg/html/issues/10901\" data-hovercard-type=\"issue\" data-hovercard-url=\"/whatwg/html/issues/10901/hovercard\" href=\"https://github.com/whatwg/html/issues/10901\">whatwg/html#10901</a></li>\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2973354937\" data-permission-text=\"Title is private\" data-url=\"https://github.com/whatwg/html/issues/11191\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/whatwg/html/pull/11191/hovercard\" href=\"https://github.com/whatwg/html/pull/11191\">whatwg/html#11191</a></li>\n</ul>\n<h4 dir=\"auto\">the Web Platform Tests repository</h4>\n<ul dir=\"auto\">\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2954293275\" data-permission-text=\"Title is private\" data-url=\"https://github.com/web-platform-tests/wpt/issues/51667\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/web-platform-tests/wpt/pull/51667/hovercard\" href=\"https://github.com/web-platform-tests/wpt/pull/51667\">web-platform-tests/wpt#51667</a></li>\n</ul>\n<h4 dir=\"auto\">HTML-ARIA</h4>\n<ul dir=\"auto\">\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2973050152\" data-permission-text=\"Title is private\" data-url=\"https://github.com/w3c/aria/issues/2508\" data-hovercard-type=\"issue\" data-hovercard-url=\"/w3c/aria/issues/2508/hovercard\" href=\"https://github.com/w3c/aria/issues/2508\">w3c/aria#2508</a></li>\n</ul>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39710",
             "title": "Proposed documentation for proposed Model element",
-            "date_modified": "2025-05-27T20:00:08.000Z",
+            "date_modified": "2025-05-27T20:49:51.000Z",
             "date_published": "2025-05-27T18:21:01.000Z",
             "author": {
                 "name": "zachernuk",
@@ -64,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18158596?u=0bdf89552175d35b91967acb2bdc1378bbec05f8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Added the following to the PR Template:</p>\n<ol dir=\"auto\">\n<li>Link to writing guidelines.</li>\n<li>Reminder: Spammy PRs will be banned.</li>\n</ol>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">This should serve as a reminder for contributors to read the writing guidelines before submitting a PR, and ensure they read what happens when folks submit spam.</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39707",
             "title": "Update Pull Request Template",
-            "date_modified": "2025-05-27T16:06:07.000Z",
+            "date_modified": "2025-05-27T20:54:32.000Z",
             "date_published": "2025-05-27T15:21:51.000Z",
             "author": {
                 "name": "pransh15",
@@ -141,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125713293?u=8637438378d83c08c61580360e51dbfdf7e06f27&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">I clarified that <code class=\"notranslate\">rel=\"noopener\"</code> should be used for cross-origin links</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">This is my first time contributing to an OSP!!! And MDN Docs has helped me a lot with my Web Dev journey and I would like to thank them by contributing to their OSP!!</p>\n\n<h3 dir=\"auto\">Additional details</h3>\n<p dir=\"auto\">I saw an issue targetting this issue so I decided it would be perfect for my first contribution so I'm making these changes because it clarifies when and when not to use <code class=\"notranslate\">noopener</code> in your HTML file!</p>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39344.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3032980774\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39344\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39344/hovercard\" href=\"https://github.com/mdn/content/issues/39344\">#39344</a></p>\n\n\n\n",
             "url": "https://github.com/mdn/content/pull/39675",
             "title": "Clarify rules for rel=\"noopener\" and cross origin",
-            "date_modified": "2025-05-26T02:47:02.000Z",
+            "date_modified": "2025-05-27T20:02:22.000Z",
             "date_published": "2025-05-25T23:29:58.000Z",
             "author": {
                 "name": "Khaspper",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "chrisdavidmills",
                 "url": "https://github.com/chrisdavidmills"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Add a page on Manipulator in the Middle attacks.</p>",
+            "url": "https://github.com/mdn/content/pull/39604",
+            "title": "Add MITM guide",
+            "date_modified": "2025-05-27T05:19:46.000Z",
+            "date_published": "2025-05-21T19:01:27.000Z",
+            "author": {
+                "name": "wbamberg",
+                "url": "https://github.com/wbamberg"
             }
         }
     ]
