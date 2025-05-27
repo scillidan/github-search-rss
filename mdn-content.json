@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Part of <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2629335942\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/36615\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/36615/hovercard\" href=\"https://github.com/mdn/content/issues/36615\">#36615</a></p>",
             "url": "https://github.com/mdn/content/pull/39683",
             "title": "Replace some w3.org/TR links with editor drafts",
-            "date_modified": "2025-05-27T02:58:02.000Z",
+            "date_modified": "2025-05-27T12:59:35.000Z",
             "date_published": "2025-05-26T08:40:37.000Z",
             "author": {
                 "name": "Josh-Cena",
@@ -116,33 +116,11 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Avoid some features that commonly indicate subtle bugs:</p>\n<ul dir=\"auto\">\n<li>Loose equality is forbidden by our style guide</li>\n<li>Numeric literals that don't evaluate to the value they represent. I also <span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #37617.\">fixed</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2782453141\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/37617\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/37617/hovercard\" href=\"https://github.com/mdn/content/issues/37617\">#37617</a> so I don't have to type so many numeric literals</li>\n<li>Avoid constant binary expressions (those whose result is deterministic)</li>\n<li>Removed one example that involves sparse arrays since typed arrays can't be sparse anyway</li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39667",
-            "title": "Lint: use strict equality, avoid numeric loss of precision",
-            "date_modified": "2025-05-25T08:54:47.000Z",
-            "date_published": "2025-05-25T08:52:42.000Z",
-            "author": {
-                "name": "Josh-Cena",
-                "url": "https://github.com/Josh-Cena"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Our coding style guide prescribes the use of arrow functions for callbacks, and function declarations for creating identifier bindings. This PR removes most usage of function expressions.</p>",
             "url": "https://github.com/mdn/content/pull/39666",
             "title": "Lint: migrate function expressions to arrow functions or declarations",
-            "date_modified": "2025-05-27T11:23:18.000Z",
+            "date_modified": "2025-05-27T13:09:15.000Z",
             "date_published": "2025-05-25T05:53:59.000Z",
-            "author": {
-                "name": "Josh-Cena",
-                "url": "https://github.com/Josh-Cena"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Our style guide prescribes the use of modern syntax. This PR enforces the use of:</p>\n<ul dir=\"auto\">\n<li>Object shorthand, including method syntax and <code class=\"notranslate\">a: a</code> =&gt; <code class=\"notranslate\">a</code></li>\n<li>Regex literals instead of <code class=\"notranslate\">new RegExp</code></li>\n<li>Exponentiation <code class=\"notranslate\">**</code> instead of <code class=\"notranslate\">Math.pow</code></li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39657",
-            "title": "Lint: use modern syntax, object shorthand/exponentiation/regex literal",
-            "date_modified": "2025-05-24T04:43:17.000Z",
-            "date_published": "2025-05-24T04:41:06.000Z",
             "author": {
                 "name": "Josh-Cena",
                 "url": "https://github.com/Josh-Cena"
@@ -223,6 +201,28 @@
             "author": {
                 "name": "acdha",
                 "url": "https://github.com/acdha"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13982547?u=ddbc70a31ce7638bb9a797a9efa6caff8519e544&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Adds an example on providing localized <code class=\"notranslate\">application-name</code> using the <code class=\"notranslate\">lang</code> attribute.</p>\n<h3 dir=\"auto\">Link to specification  - <a href=\"https://html.spec.whatwg.org/multipage/semantics.html#meta-application-name\" rel=\"nofollow\">application-name</a></h3>",
+            "url": "https://github.com/mdn/content/pull/39584",
+            "title": "Improves the explanation for the application-name metadata",
+            "date_modified": "2025-05-24T03:27:35.000Z",
+            "date_published": "2025-05-20T10:38:01.000Z",
+            "author": {
+                "name": "ajuchacko",
+                "url": "https://github.com/ajuchacko"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21235555?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">according to <a href=\"https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto\" rel=\"nofollow\">https://drafts.csswg.org/css-grid/#line-placement:~:text=In%20all%20the%20above%20productions%2C%20the%20%3Ccustom%2Dident%3E%20additionally%20excludes%20the%20keywords%20span%20and%20auto</a>.</p>\n\n<h3 dir=\"auto\">Motivation</h3>\n\n<h3 dir=\"auto\">Additional details</h3>\n\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n\n\n\n",
+            "url": "https://github.com/mdn/content/pull/39578",
+            "title": "add Forbids  value `auto`",
+            "date_modified": "2025-05-23T01:45:58.000Z",
+            "date_published": "2025-05-20T01:36:17.000Z",
+            "author": {
+                "name": "zhangenming",
+                "url": "https://github.com/zhangenming"
             }
         }
     ]

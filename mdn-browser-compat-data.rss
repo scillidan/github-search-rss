@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-27T12:01:42.704Z</updated>
+    <updated>2025-05-27T13:10:44.132Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -63,20 +63,6 @@ tsx scripts/update-browser-releases/index.ts --all</p>
             <uri>https://github.com/mdn-bot</uri>
         </author>
         <published>2025-05-27T04:39:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revert "Chrome 87 + Safari 14.1 supported single `<number>` as `<ratio>`"]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26907</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26907"/>
-        <updated>2025-05-26T18:13:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Reverts <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3077170432" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26849" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26849/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26849">#26849</a></p>
-<p dir="auto">See <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3077170432" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26849" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26849/hovercard?comment_id=2908611555&amp;comment_type=issue_comment" href="https://github.com/mdn/browser-compat-data/pull/26849#issuecomment-2908611555">#26849 (comment)</a></p>]]></content>
-        <author>
-            <name>caugner</name>
-            <email>caugner@noreply.github.com</email>
-            <uri>https://github.com/caugner</uri>
-        </author>
-        <published>2025-05-26T18:12:33.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SVG <use>: Add data point for omitting fragments to reference external root elem…]]></title>
@@ -305,5 +291,20 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/queengooborg</uri>
         </author>
         <published>2025-05-10T08:25:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Chromium data for api.AudioParam.setTargetAtTime]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26722</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26722"/>
+        <updated>2025-05-25T00:43:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Chromium (Chrome, Opera, Samsung Internet, WebView Android) for the <code class="notranslate">setTargetAtTime</code> member of the <code class="notranslate">AudioParam</code> API. The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.12.13).</p>
+<p dir="auto"><em>Check out the <a href="https://github.com/openwebdocs/mdn-bcd-collector#reviewing-bcd-changes">collector's guide on how to review this PR</a>.</em></p>
+<p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/AudioParam/setTargetAtTime" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/AudioParam/setTargetAtTime</a></p>]]></content>
+        <author>
+            <name>queengooborg</name>
+            <email>queengooborg@noreply.github.com</email>
+            <uri>https://github.com/queengooborg</uri>
+        </author>
+        <published>2025-05-06T22:22:44.000Z</published>
     </entry>
 </feed>
