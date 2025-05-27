@@ -6,10 +6,21 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3085161103\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39639\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39639/hovercard\" href=\"https://github.com/mdn/content/pull/39639\">#39639</a> merged a tiny bit prematurely, before I could roll out the agreed wording in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3085161103\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39639\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/content/pull/39639/hovercard?comment_id=2106479451&amp;comment_type=review_comment\" href=\"https://github.com/mdn/content/pull/39639#discussion_r2106479451\">#39639 (comment)</a> everywhere. This updates the other places for consistency.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083817699\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39628\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39628/hovercard\" href=\"https://github.com/mdn/content/issues/39628\">#39628</a></p>",
+            "url": "https://github.com/mdn/content/pull/39694",
+            "title": "Serializing < and > - consistent wording on mutation XSS",
+            "date_modified": "2025-05-27T00:07:51.000Z",
+            "date_published": "2025-05-27T00:05:39.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39688.\">Fix</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3091638362\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39688\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39688/hovercard\" href=\"https://github.com/mdn/content/issues/39688\">#39688</a>.</p>\n<p dir=\"auto\"><a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/js-choi/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/js-choi\">@js-choi</a></p>",
             "url": "https://github.com/mdn/content/pull/39690",
             "title": "Array.fromAsync() mapFn does not always have its input awaited",
-            "date_modified": "2025-05-26T16:48:48.000Z",
+            "date_modified": "2025-05-27T00:32:12.000Z",
             "date_published": "2025-05-26T16:46:46.000Z",
             "author": {
                 "name": "Josh-Cena",
@@ -53,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF140 enables the <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/closedBy\" rel=\"nofollow\"><code class=\"notranslate\">HTMLDialogElement.closedBy</code></a> property and <code class=\"notranslate\">&lt;dialog&gt;</code> <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog#closedby\" rel=\"nofollow\"><code class=\"notranslate\">closedby</code></a> attribute in Nightly (pref <code class=\"notranslate\">dom.dialog.light-dismiss.enabled</code> ) in <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1964077\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1964077</a></p>\n<p dir=\"auto\">This adds an experimental feature update and corresponding note in the release notes.</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083565475\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39621\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39621/hovercard\" href=\"https://github.com/mdn/content/issues/39621\">#39621</a></p>",
             "url": "https://github.com/mdn/content/pull/39680",
             "title": "FF140 Relnote/Expr Feat: Dialog closeBy attribute",
-            "date_modified": "2025-05-26T21:15:52.000Z",
+            "date_modified": "2025-05-27T00:58:07.000Z",
             "date_published": "2025-05-26T07:28:56.000Z",
             "author": {
                 "name": "hamishwillee",
@@ -64,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This improves the docs for <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/waitAsync\" rel=\"nofollow\"><code class=\"notranslate\">Atomics.waitAsync()</code></a> and <code class=\"notranslate\">Atomics.wait()</code>. I found them a little unclear. I think it helps to link to <code class=\"notranslate\">notify()</code> earlier.</p>\n<p dir=\"auto\">Notes about what/why inline</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3083534404\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39615\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39615/hovercard\" href=\"https://github.com/mdn/content/issues/39615\">#39615</a></p>",
             "url": "https://github.com/mdn/content/pull/39679",
             "title": "Atomics.wait()/waitAsync() improvements",
-            "date_modified": "2025-05-26T12:06:31.000Z",
+            "date_modified": "2025-05-27T01:26:50.000Z",
             "date_published": "2025-05-26T06:48:29.000Z",
             "author": {
                 "name": "hamishwillee",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "hamishwillee",
                 "url": "https://github.com/hamishwillee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Add a page on Manipulator in the Middle attacks.</p>",
-            "url": "https://github.com/mdn/content/pull/39604",
-            "title": "Add MITM guide",
-            "date_modified": "2025-05-26T23:24:40.000Z",
-            "date_published": "2025-05-21T19:01:27.000Z",
-            "author": {
-                "name": "wbamberg",
-                "url": "https://github.com/wbamberg"
             }
         }
     ]
