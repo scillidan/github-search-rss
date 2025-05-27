@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-27T05:01:25.101Z</updated>
+    <updated>2025-05-27T06:01:35.072Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[FF140 pointerrawupdate event - relnote/docs]]></title>
+        <id>https://github.com/mdn/content/pull/39695</id>
+        <link href="https://github.com/mdn/content/pull/39695"/>
+        <updated>2025-05-27T05:33:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 adds suppor for the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/pointerrawupdate_event" rel="nofollow"><code class="notranslate">pointerrawupdate</code> event</a> in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1550462" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1550462</a></p>
+<p dir="auto">This adds a release note (based on the FF release note) and also updates the docs for the element slightly to capture when you would use this event (and not), and its bubble, cancel, composed properties.</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083533207" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39614" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39614/hovercard" href="https://github.com/mdn/content/issues/39614">#39614</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-27T05:30:20.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Serializing < and > - consistent wording on mutation XSS]]></title>
         <id>https://github.com/mdn/content/pull/39694</id>
@@ -428,21 +443,5 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-23T08:59:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FF139 Relnote - SVG discard removed]]></title>
-        <id>https://github.com/mdn/content/pull/39637</id>
-        <link href="https://github.com/mdn/content/pull/39637"/>
-        <updated>2025-05-26T02:26:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 (uplifted from FF140) removes experimental support for the SVG <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/discard" rel="nofollow"><code class="notranslate">&lt;discard&gt;</code></a> element added behind pref in FF136, and the <a href="https://developer.mozilla.org/en-US/docs/Web/API/SVGDiscardElement" rel="nofollow"><code class="notranslate">SVGDiscardElement</code></a> interface added to release in FF136.</p>
-<p dir="auto">This adds a note about the removal in FF139. Note, that is now the main version, so haven't needed to push to a non-main branch.<br>
-If this was just experimental I wouldn't have done anything, but since <code class="notranslate">SVGDiscardElement</code> was actually released (possibly by accident since the element wasn't) had to.</p>
-<p dir="auto">Associated docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083558552" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39618" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39618/hovercard" href="https://github.com/mdn/content/issues/39618">#39618</a></p>]]></content>
-        <author>
-            <name>hamishwillee</name>
-            <email>hamishwillee@noreply.github.com</email>
-            <uri>https://github.com/hamishwillee</uri>
-        </author>
-        <published>2025-05-23T03:51:05.000Z</published>
     </entry>
 </feed>
