@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-28T01:29:01.207Z</updated>
+    <updated>2025-05-28T02:30:56.023Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Synchronize with BCD v6.0.18]]></title>
+        <id>https://github.com/mdn/content/pull/39715</id>
+        <link href="https://github.com/mdn/content/pull/39715"/>
+        <updated>2025-05-28T01:56:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87750369?u=ccc1f52005708ae16bcb50e325e02145bff0ef7d&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://github.com/mdn/browser-compat-data/releases/tag/v6.0.18">BCD release v6.0.18</a></p>
+<p dir="auto">/cc cc/ <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/bsmth/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/bsmth">@bsmth</a> <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/wbamberg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/wbamberg">@wbamberg</a></p>]]></content>
+        <author>
+            <name>OnkarRuikar</name>
+            <email>OnkarRuikar@noreply.github.com</email>
+            <uri>https://github.com/OnkarRuikar</uri>
+        </author>
+        <published>2025-05-28T01:54:58.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fix: auto-cleanup by bot]]></title>
         <id>https://github.com/mdn/content/pull/39714</id>
@@ -311,7 +325,7 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <title type="html"><![CDATA[FF140 pointerrawupdate event - relnote/docs]]></title>
         <id>https://github.com/mdn/content/pull/39695</id>
         <link href="https://github.com/mdn/content/pull/39695"/>
-        <updated>2025-05-27T05:33:39.000Z</updated>
+        <updated>2025-05-28T01:31:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 adds suppor for the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/pointerrawupdate_event" rel="nofollow"><code class="notranslate">pointerrawupdate</code> event</a> in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1550462" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1550462</a></p>
 <p dir="auto">This adds a release note (based on the FF release note) and also updates the docs for the element slightly to capture when you would use this event (and not), and its bubble, cancel, composed properties.</p>
 <p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083533207" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39614" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39614/hovercard" href="https://github.com/mdn/content/issues/39614">#39614</a></p>]]></content>
@@ -381,7 +395,7 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <title type="html"><![CDATA[Make the `getMessage` function for the javascript example more robust.]]></title>
         <id>https://github.com/mdn/content/pull/39672</id>
         <link href="https://github.com/mdn/content/pull/39672"/>
-        <updated>2025-05-27T19:50:11.000Z</updated>
+        <updated>2025-05-28T02:19:13.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26916078?u=ae3b6dc567b716a44e450bacef5e1a8de9fc9c5c&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The old getMessage function had a bug where if you made multiple unawaited calls to the function, it wouldn't behave correctly because previous reads had not yet completed, and all you were doing was reading 4 bytes at a time from the input into the header buffer. It also had a bug of not reading the correct amount of data, because the buffer given to the read function was not exactly sized for the expected message size, so it was possible that the amount of data that you got back was larger than the size that the header indicated if the extension had sent more than one message.</p>
 <p dir="auto">The new getMessage function solves both of those issues. The first issue is solved by using a promise and a while loop to trap the execution of extra calls at the top of the function while there is already a read in progress. Each call to getMessage is let through the trap one at a time as a read completes. If there are no pending reads, then a call to getMessage does not get trapped at the top of the function, because the read promise will be null, and so the loop will be skipped. The other issue is solved by using buffers which are appropriately sized according to the header information. I think this is also more succinct, since the old <code class="notranslate">readFullAsync</code> ultimately ended up doing that anyway at the end by passing the data array to the Uint8Array constructor. If you just create it from the header information and pass it directly to the read function, you can avoid dispatching to another function, and it prevents a bug.</p>
 
@@ -451,7 +465,7 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <title type="html"><![CDATA[Lint: migrate function expressions to arrow functions or declarations]]></title>
         <id>https://github.com/mdn/content/pull/39666</id>
         <link href="https://github.com/mdn/content/pull/39666"/>
-        <updated>2025-05-27T13:09:15.000Z</updated>
+        <updated>2025-05-28T02:23:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Our coding style guide prescribes the use of arrow functions for callbacks, and function declarations for creating identifier bindings. This PR removes most usage of function expressions.</p>]]></content>
         <author>
             <name>Josh-Cena</name>
@@ -496,31 +510,5 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/tunetheweb</uri>
         </author>
         <published>2025-05-23T23:47:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technical review: Add doc for the scope_extensions manifest member]]></title>
-        <id>https://github.com/mdn/content/pull/39649</id>
-        <link href="https://github.com/mdn/content/pull/39649"/>
-        <updated>2025-05-27T22:21:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Chrome 138 supports the <code class="notranslate">scope_extensions</code> webapp manifest member; see <a href="https://chromestatus.com/feature/5746537956114432" rel="nofollow">https://chromestatus.com/feature/5746537956114432</a> for details.</p>
-<p dir="auto">This PR adds a reference page for the new member.</p>
-
-<h3 dir="auto">Motivation</h3>
-
-<h3 dir="auto">Additional details</h3>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
-        <author>
-            <name>chrisdavidmills</name>
-            <email>chrisdavidmills@noreply.github.com</email>
-            <uri>https://github.com/chrisdavidmills</uri>
-        </author>
-        <published>2025-05-23T15:34:02.000Z</published>
     </entry>
 </feed>
