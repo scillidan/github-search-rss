@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-28T07:01:43.882Z</updated>
+    <updated>2025-05-28T08:01:40.514Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Synchronize with BCD v6.0.18]]></title>
         <id>https://github.com/mdn/content/pull/39715</id>
         <link href="https://github.com/mdn/content/pull/39715"/>
-        <updated>2025-05-28T01:56:58.000Z</updated>
+        <updated>2025-05-28T07:46:32.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87750369?u=ccc1f52005708ae16bcb50e325e02145bff0ef7d&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://github.com/mdn/browser-compat-data/releases/tag/v6.0.18">BCD release v6.0.18</a></p>
 <p dir="auto">/cc cc/ <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/bsmth/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/bsmth">@bsmth</a> <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/wbamberg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/wbamberg">@wbamberg</a></p>]]></content>
         <author>
@@ -110,20 +110,6 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <published>2025-05-27T16:35:12.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[chore(glossary): Use a shorter page title]]></title>
-        <id>https://github.com/mdn/content/pull/39708</id>
-        <link href="https://github.com/mdn/content/pull/39708"/>
-        <updated>2025-05-27T21:24:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">The title is used in lots of child pages and it's quite long. We can get rid of some redundancy here by making the title of the root page a little shorter.</p>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-27T15:57:10.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Update Pull Request Template]]></title>
         <id>https://github.com/mdn/content/pull/39707</id>
         <link href="https://github.com/mdn/content/pull/39707"/>
@@ -152,26 +138,6 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
             <uri>https://github.com/pransh15</uri>
         </author>
         <published>2025-05-27T15:21:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chore(http): Update language-detector and translator directives, page templates]]></title>
-        <id>https://github.com/mdn/content/pull/39706</id>
-        <link href="https://github.com/mdn/content/pull/39706"/>
-        <updated>2025-05-27T15:10:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">These two permissions policy directives were in-flight while my title/short-title PR was merged.</p>
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">Making the section uniform, updating writing guidelines</p>
-<h3 dir="auto">Related issues and pull requests</h3>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3086257094" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39648" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39648/hovercard" href="https://github.com/mdn/content/pull/39648">#39648</a></li>
-</ul>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-27T15:08:26.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bump yargs from 17.7.2 to 18.0.0]]></title>
@@ -425,7 +391,7 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <title type="html"><![CDATA[Fix invalid SVG syntax]]></title>
         <id>https://github.com/mdn/content/pull/39669</id>
         <link href="https://github.com/mdn/content/pull/39669"/>
-        <updated>2025-05-25T10:43:01.000Z</updated>
+        <updated>2025-05-28T07:51:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This code should be merged with the next few sections</p>]]></content>
         <author>
             <name>Josh-Cena</name>
@@ -535,5 +501,47 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-23T08:59:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add MITM guide]]></title>
+        <id>https://github.com/mdn/content/pull/39604</id>
+        <link href="https://github.com/mdn/content/pull/39604"/>
+        <updated>2025-05-27T05:19:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Add a page on Manipulator in the Middle attacks.</p>]]></content>
+        <author>
+            <name>wbamberg</name>
+            <email>wbamberg@noreply.github.com</email>
+            <uri>https://github.com/wbamberg</uri>
+        </author>
+        <published>2025-05-21T19:01:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat(css): Update the view-transition-class page]]></title>
+        <id>https://github.com/mdn/content/pull/39593</id>
+        <link href="https://github.com/mdn/content/pull/39593"/>
+        <updated>2025-05-27T13:13:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/286386?u=bc4894b945491e0834d2306dade7fef748ddf698&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<ul dir="auto">
+<li>Added <code class="notranslate">view-transition-class</code> page</li>
+</ul>
+<h3 dir="auto">Motivation</h3>
+<ul dir="auto">
+<li>Working on <a href="https://github.com/mdn/content/issues/39305" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39305/hovercard">issue #39305</a></li>
+</ul>
+<h3 dir="auto">Related issues and pull requests</h3>
+<ul dir="auto">
+<li><a href="https://github.com/mdn/browser-compat-data/pull/26851" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26851/hovercard">BCD PR</a></li>
+<li><a href="https://github.com/mdn/content/pull/39588" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39588/hovercard">Firefox Release Note PR</a></li>
+</ul>
+<h2 dir="auto">Depends on</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2823920008" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/37901" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/37901/hovercard" href="https://github.com/mdn/content/pull/37901">#37901</a></li>
+</ul>]]></content>
+        <author>
+            <name>dletorey</name>
+            <email>dletorey@noreply.github.com</email>
+            <uri>https://github.com/dletorey</uri>
+        </author>
+        <published>2025-05-20T17:34:39.000Z</published>
     </entry>
 </feed>
