@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-28T15:01:45.243Z</updated>
+    <updated>2025-05-28T16:01:40.085Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Fix remaining problems of text stuck to code/link]]></title>
+        <id>https://github.com/mdn/content/pull/39722</id>
+        <link href="https://github.com/mdn/content/pull/39722"/>
+        <updated>2025-05-28T15:05:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Some minor remaining typesetting issues</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-28T15:02:01.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synchronize with BCD v6.0.18]]></title>
         <id>https://github.com/mdn/content/pull/39715</id>
@@ -506,27 +519,5 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/ajuchacko</uri>
         </author>
         <published>2025-05-20T10:38:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chore: Change ints to doubles for ProgressEvent properties]]></title>
-        <id>https://github.com/mdn/content/pull/39574</id>
-        <link href="https://github.com/mdn/content/pull/39574"/>
-        <updated>2025-05-23T06:23:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
-<p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
-<ul dir="auto">
-<li><a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ" rel="nofollow">Chromium Intent to Ship</a></li>
-<li><a href="https://bugs.webkit.org/show_bug.cgi?id=288688" rel="nofollow">WebKit bug</a></li>
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1943649" rel="nofollow">Gecko bug</a></li>
-</ul>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #641.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2883460957" data-permission-text="Title is private" data-url="https://github.com/mdn/mdn/issues/641" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/641/hovercard" href="https://github.com/mdn/mdn/issues/641">mdn/mdn#641</a></p>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-19T11:24:17.000Z</published>
     </entry>
 </feed>
