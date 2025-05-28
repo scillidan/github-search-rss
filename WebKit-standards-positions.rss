@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/WebKit-standards-positions.rss</id>
     <title>WebKit/standards-positions Issues</title>
-    <updated>2025-05-28T11:01:27.464Z</updated>
+    <updated>2025-05-28T12:01:53.802Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/WebKit-standards-positions.rss"/>
     <subtitle>WebKit/standards-positions Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS Anchored Fallback Container Queries]]></title>
+        <id>https://github.com/WebKit/standards-positions/issues/501</id>
+        <link href="https://github.com/WebKit/standards-positions/issues/501"/>
+        <updated>2025-05-28T11:35:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/889557?u=b3d895be6da41f1dc1c1433b2a2c33ab021b5514&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">WebKittens</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Title of the proposal</h3>
+<p dir="auto">CSS Anchored Fallback Container Queries</p>
+<h3 dir="auto">URL to the spec</h3>
+<p dir="auto">TBD</p>
+<h3 dir="auto">URL to the spec's repository</h3>
+<p dir="auto"><a href="https://github.com/w3c/csswg-drafts">https://github.com/w3c/csswg-drafts</a></p>
+<h3 dir="auto">Issue Tracker URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Explainer URL</h3>
+<p dir="auto"><a href="https://github.com/w3c/csswg-drafts/blob/main/css-anchor-position-1/anchored_container_query.md">https://github.com/w3c/csswg-drafts/blob/main/css-anchor-position-1/anchored_container_query.md</a></p>
+<h3 dir="auto">TAG Design Review URL</h3>
+<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3097005323" data-permission-text="Title is private" data-url="https://github.com/w3ctag/design-reviews/issues/1103" data-hovercard-type="issue" data-hovercard-url="/w3ctag/design-reviews/issues/1103/hovercard" href="https://github.com/w3ctag/design-reviews/issues/1103">w3ctag/design-reviews#1103</a></p>
+<h3 dir="auto">Mozilla standards-positions issue URL</h3>
+<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3097022278" data-permission-text="Title is private" data-url="https://github.com/mozilla/standards-positions/issues/1236" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1236/hovercard" href="https://github.com/mozilla/standards-positions/issues/1236">mozilla/standards-positions#1236</a></p>
+<h3 dir="auto">WebKit Bugzilla URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Radar URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Description</h3>
+<p dir="auto">This is a proposal to add <code class="notranslate">@container anchored(fallback)</code> to style descendants of anchor positioned elements based on which of <code class="notranslate">position-try-fallbacks</code> is applied.</p>]]></content>
+        <author>
+            <name>lilles</name>
+            <email>lilles@noreply.github.com</email>
+            <uri>https://github.com/lilles</uri>
+        </author>
+        <published>2025-05-28T11:35:53.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You]]></title>
         <id>https://github.com/WebKit/standards-positions/issues/500</id>
@@ -550,7 +584,7 @@ We would appreciate WebKit's position on this proposal. If there are any concern
 Some of the concerns above (not about privacy nor obfuscation) are also <a href="https://github.com/webmachinelearning/webnn/issues/840" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/840/hovercard">in the WebNN Github Repo</a>.</li>
 </ol>
 <p dir="auto">In a single image, this is what they propose (copied from their repository):</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzAzODcsIm5iZiI6MTc0ODQzMDA4NywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyOFQxMTAxMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOTY4YzhkMmZhMWRkMGZmZjAzODYyN2I1MTkzNzI0OTBlMzZkMWJjNGE4NGIxNWQyYTg2YzIyOTI1NDlhNTFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fEPc5YI_YdEWinibEsTEKn8E2xNYep9yk4ZmdSdry4c"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzAzODcsIm5iZiI6MTc0ODQzMDA4NywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyOFQxMTAxMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOTY4YzhkMmZhMWRkMGZmZjAzODYyN2I1MTkzNzI0OTBlMzZkMWJjNGE4NGIxNWQyYTg2YzIyOTI1NDlhNTFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fEPc5YI_YdEWinibEsTEKn8E2xNYep9yk4ZmdSdry4c" alt="Image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzQwMTMsIm5iZiI6MTc0ODQzMzcxMywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyOFQxMjAxNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZDkzMTg3ZTdjODk5MDk3MWU4ZjFmYWY4NDdkMWQxNjFkZDQzZjc0MWExYTI0NmJjY2MxNzE3NWUyMTYzNjVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LKVAGjAXC2p4Z22NMeecG3jj3ueX1wxlgRp-083iBVQ"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzQwMTMsIm5iZiI6MTc0ODQzMzcxMywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyOFQxMjAxNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZDkzMTg3ZTdjODk5MDk3MWU4ZjFmYWY4NDdkMWQxNjFkZDQzZjc0MWExYTI0NmJjY2MxNzE3NWUyMTYzNjVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LKVAGjAXC2p4Z22NMeecG3jj3ueX1wxlgRp-083iBVQ" alt="Image" style="max-width: 100%;"></a></p>
 <p dir="auto"><strong>Misc.</strong>: Mozilla <a href="https://github.com/mozilla/standards-positions/issues/1215" data-hovercard-type="issue" data-hovercard-url="/mozilla/standards-positions/issues/1215/hovercard">does have an issue about it</a>, just not a position yet.</p>]]></content>
         <author>
             <name>iampi31415</name>
@@ -690,7 +724,7 @@ Some of the concerns above (not about privacy nor obfuscation) are also <a href=
 <h3 dir="auto">Description</h3>
 <h1 dir="auto"><a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/SystemStatusIcon/explainer.md">System Status Icons for Installed desktop Web Apps</a></h1>
 <p dir="auto"><a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/SystemStatusIcon/explainer.md">This proposal</a> aims to provide installed desktop web apps with a UX affordance available to native apps. In macOS, this is the concept of a "menu extra", and in macOS it "exposes app-specific functionality using an icon that appears in the menu bar when your app is running, even when it’s not the frontmost app".</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzAzODcsIm5iZiI6MTc0ODQzMDA4NywicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI4VDExMDEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ1Mzk4YjhhNThkMGQ0ODAzMjczNWNhZTMzMzBlZTczNzI4YjIyMTQ0Y2FkZmNiODQ3MmY1NzRjNDI4NThlYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R3SkOAyruB8T5XjBD6lSiTGgqy5qmPjaXot4sRX3-Ic"><img src="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzAzODcsIm5iZiI6MTc0ODQzMDA4NywicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI4VDExMDEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ1Mzk4YjhhNThkMGQ0ODAzMjczNWNhZTMzMzBlZTczNzI4YjIyMTQ0Y2FkZmNiODQ3MmY1NzRjNDI4NThlYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R3SkOAyruB8T5XjBD6lSiTGgqy5qmPjaXot4sRX3-Ic" alt="Image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzQwMTMsIm5iZiI6MTc0ODQzMzcxMywicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI4VDEyMDE1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4MTM0YjA3ZGM3NmI1YjNhMDFiOGNmZjQ3ZTllNDhmYTcwNmU0ZmJkNDk5NWYxNDQxM2YwN2JjMjE2MzY0ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bq_-9BbrhFJQovORR93_pkEMj1WtX6QVyagGc-ACcaA"><img src="https://private-user-images.githubusercontent.com/73939538/436008045-9446bc7e-9778-4def-8290-64a0efed87e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzQwMTMsIm5iZiI6MTc0ODQzMzcxMywicGF0aCI6Ii83MzkzOTUzOC80MzYwMDgwNDUtOTQ0NmJjN2UtOTc3OC00ZGVmLTgyOTAtNjRhMGVmZWQ4N2U3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI4VDEyMDE1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4MTM0YjA3ZGM3NmI1YjNhMDFiOGNmZjQ3ZTllNDhmYTcwNmU0ZmJkNDk5NWYxNDQxM2YwN2JjMjE2MzY0ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bq_-9BbrhFJQovORR93_pkEMj1WtX6QVyagGc-ACcaA" alt="Image" style="max-width: 100%;"></a></p>
 <p dir="auto">This can be useful for a plethora of cases, as seen in VPN software, video players, IM clients use it today.</p>
 <p dir="auto">We think enabling this optional feature for web apps elevates an app's UX and benefits the end user. I am very keen on reading your comments about this possible future feature.</p>
 <p dir="auto">Thanks!</p>
@@ -701,40 +735,5 @@ Some of the concerns above (not about privacy nor obfuscation) are also <a href=
             <uri>https://github.com/diekus</uri>
         </author>
         <published>2025-04-22T09:37:41.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Screen based Keyboard Lock API]]></title>
-        <id>https://github.com/WebKit/standards-positions/issues/481</id>
-        <link href="https://github.com/WebKit/standards-positions/issues/481"/>
-        <updated>2025-04-19T03:47:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1542365?u=cfa60eee9c5710f75befa02c787eb7af6884c523&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">WebKittens</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Title of the proposal</h3>
-<p dir="auto">Full Screen based Keyboard Lock API</p>
-<h3 dir="auto">URL to the spec</h3>
-<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2017642826" data-permission-text="Title is private" data-url="https://github.com/whatwg/fullscreen/issues/231" data-hovercard-type="issue" data-hovercard-url="/whatwg/fullscreen/issues/231/hovercard" href="https://github.com/whatwg/fullscreen/issues/231">whatwg/fullscreen#231</a></p>
-<h3 dir="auto">URL to the spec's repository</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Issue Tracker URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Explainer URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">TAG Design Review URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Mozilla standards-positions issue URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">WebKit Bugzilla URL</h3>
-<p dir="auto"><a href="https://bugs.webkit.org/show_bug.cgi?id=265923" rel="nofollow">https://bugs.webkit.org/show_bug.cgi?id=265923</a></p>
-<h3 dir="auto">Radar URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Description</h3>
-<p dir="auto">As of today, there are two different implementation ideas for the Keyboard Lock API.</p>
-<p dir="auto">I would like to propose the unified implementation of the Keyboard Lock API across Chromium, Mozilla, and WebKit, ensuring consistent behavior and user experience.</p>]]></content>
-        <author>
-            <name>xingri</name>
-            <email>xingri@noreply.github.com</email>
-            <uri>https://github.com/xingri</uri>
-        </author>
-        <published>2025-04-19T03:42:44.000Z</published>
     </entry>
 </feed>

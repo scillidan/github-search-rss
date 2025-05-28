@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mozilla-standards-positions.rss</id>
     <title>mozilla/standards-positions Issues</title>
-    <updated>2025-05-28T11:01:25.986Z</updated>
+    <updated>2025-05-28T12:01:53.174Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mozilla-standards-positions.rss"/>
     <subtitle>mozilla/standards-positions Issues on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS Anchored Fallback Container Queries]]></title>
+        <id>https://github.com/mozilla/standards-positions/issues/1236</id>
+        <link href="https://github.com/mozilla/standards-positions/issues/1236"/>
+        <updated>2025-05-28T11:30:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/889557?u=b3d895be6da41f1dc1c1433b2a2c33ab021b5514&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Specification title</h3>
+<p dir="auto">CSS Anchored Fallback Container Queries</p>
+<h3 dir="auto">Specification or proposal URL (if available)</h3>
+<p dir="auto"><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1472061771" data-permission-text="Title is private" data-url="https://github.com/w3c/csswg-drafts/issues/8171" data-hovercard-type="issue" data-hovercard-url="/w3c/csswg-drafts/issues/8171/hovercard" href="https://github.com/w3c/csswg-drafts/issues/8171">w3c/csswg-drafts#8171</a></p>
+<h3 dir="auto">Explainer URL (if available)</h3>
+<p dir="auto"><a href="https://github.com/w3c/csswg-drafts/blob/main/css-anchor-position-1/anchored_container_query.md">https://github.com/w3c/csswg-drafts/blob/main/css-anchor-position-1/anchored_container_query.md</a></p>
+<h3 dir="auto">Proposal author(s)</h3>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/lilles/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/lilles">@lilles</a></p>
+<h3 dir="auto">MDN URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Caniuse.com URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Bugzilla URL</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Mozillians who can provide input</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">WebKit standards-position</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Other information</h3>
+<p dir="auto"><em>No response</em></p>]]></content>
+        <author>
+            <name>lilles</name>
+            <email>lilles@noreply.github.com</email>
+            <uri>https://github.com/lilles</uri>
+        </author>
+        <published>2025-05-28T11:30:25.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[getComputedStyle() returns true visited colors]]></title>
         <id>https://github.com/mozilla/standards-positions/issues/1234</id>
@@ -621,7 +653,7 @@ Previously brought up in a WHATNOT (<a href="https://github.com/whatwg/html/issu
 </ol>
 <p dir="auto">Some of those questions are also <a href="https://github.com/webmachinelearning/webnn/issues/840" data-hovercard-type="issue" data-hovercard-url="/webmachinelearning/webnn/issues/840/hovercard">in the WebNN Github Repo</a>.</p>
 <p dir="auto">In a single image, this is what they propose (copied from their repository):</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzAzODUsIm5iZiI6MTc0ODQzMDA4NSwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyOFQxMTAxMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNDFhZWY2Yjg4ODc5ODRmNWUzZmQ5YzAxN2EwNGJjMGIzYTEyN2NhZGYzZGE5MzUzZjhiMzRmMTBkOGVjMzVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SHwOMLug_FFTEs_ssBB4qVuYjAJ3kOoD2LoJ8k9bYs4"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzAzODUsIm5iZiI6MTc0ODQzMDA4NSwicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyOFQxMTAxMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNDFhZWY2Yjg4ODc5ODRmNWUzZmQ5YzAxN2EwNGJjMGIzYTEyN2NhZGYzZGE5MzUzZjhiMzRmMTBkOGVjMzVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SHwOMLug_FFTEs_ssBB4qVuYjAJ3kOoD2LoJ8k9bYs4" alt="Image" style="max-width: 100%;"></a></p>]]></content>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzQwMTMsIm5iZiI6MTc0ODQzMzcxMywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyOFQxMjAxNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZDkzMTg3ZTdjODk5MDk3MWU4ZjFmYWY4NDdkMWQxNjFkZDQzZjc0MWExYTI0NmJjY2MxNzE3NWUyMTYzNjVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LKVAGjAXC2p4Z22NMeecG3jj3ueX1wxlgRp-083iBVQ"><img src="https://private-user-images.githubusercontent.com/202419735/438754209-777470a2-df60-44d8-8723-5991faa6fb2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0MzQwMTMsIm5iZiI6MTc0ODQzMzcxMywicGF0aCI6Ii8yMDI0MTk3MzUvNDM4NzU0MjA5LTc3NzQ3MGEyLWRmNjAtNDRkOC04NzIzLTU5OTFmYWE2ZmIyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyOFQxMjAxNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZDkzMTg3ZTdjODk5MDk3MWU4ZjFmYWY4NDdkMWQxNjFkZDQzZjc0MWExYTI0NmJjY2MxNzE3NWUyMTYzNjVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LKVAGjAXC2p4Z22NMeecG3jj3ueX1wxlgRp-083iBVQ" alt="Image" style="max-width: 100%;"></a></p>]]></content>
         <author>
             <name>iampi31415</name>
             <email>iampi31415@noreply.github.com</email>
@@ -693,38 +725,5 @@ Previously brought up in a WHATNOT (<a href="https://github.com/whatwg/html/issu
             <uri>https://github.com/saschanaz</uri>
         </author>
         <published>2025-04-28T14:48:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML <a> ping attribute]]></title>
-        <id>https://github.com/mozilla/standards-positions/issues/1212</id>
-        <link href="https://github.com/mozilla/standards-positions/issues/1212"/>
-        <updated>2025-05-22T20:02:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1415162?v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Specification title</h3>
-<p dir="auto">HTML <code class="notranslate">&lt;a&gt;</code> ping attribute</p>
-<h3 dir="auto">Specification or proposal URL (if available)</h3>
-<p dir="auto"><a href="https://html.spec.whatwg.org/#hyperlink-auditing" rel="nofollow">https://html.spec.whatwg.org/#hyperlink-auditing</a></p>
-<h3 dir="auto">Explainer URL (if available)</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Proposal author(s)</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">MDN URL</h3>
-<p dir="auto"><a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLAnchorElement/ping" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/API/HTMLAnchorElement/ping</a></p>
-<h3 dir="auto">Caniuse.com URL</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Bugzilla URL</h3>
-<p dir="auto"><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=951104" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=951104</a></p>
-<h3 dir="auto">Mozillians who can provide input</h3>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/zcorpan/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/zcorpan">@zcorpan</a> <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/mozfreddyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mozfreddyb">@mozfreddyb</a></p>
-<h3 dir="auto">WebKit standards-position</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">Other information</h3>
-<p dir="auto">Gecko implementation predates the current specification. It's also been disabled by default in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=415168" rel="nofollow">Bug 415168</a> since 2008.</p>
-<p dir="auto">We've had a <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1885787" rel="nofollow">bug report</a> due to the lack of this.</p>]]></content>
-        <author>
-            <name>hsinyi</name>
-            <email>hsinyi@noreply.github.com</email>
-            <uri>https://github.com/hsinyi</uri>
-        </author>
-        <published>2025-04-25T13:43:12.000Z</published>
     </entry>
 </feed>
