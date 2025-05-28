@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-28T03:20:07.285Z</updated>
+    <updated>2025-05-28T04:03:17.428Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -20,19 +20,6 @@
             <uri>https://github.com/OnkarRuikar</uri>
         </author>
         <published>2025-05-28T01:54:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Correct variables in console.log]]></title>
-        <id>https://github.com/mdn/content/pull/39713</id>
-        <link href="https://github.com/mdn/content/pull/39713"/>
-        <updated>2025-05-27T21:22:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9440351?u=12ca3351bcb3eb2cb1865c80051f437cd9433ec0&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The second and third <code class="notranslate">console.log()</code> in the first example on <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal/Instant/from#examples" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal/Instant/from#examples</a> use <code class="notranslate">instant</code> instead of <code class="notranslate">instant2</code>/<code class="notranslate">instant3</code></p>]]></content>
-        <author>
-            <name>mikoMK</name>
-            <email>mikoMK@noreply.github.com</email>
-            <uri>https://github.com/mikoMK</uri>
-        </author>
-        <published>2025-05-27T21:20:07.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Update document.adoptedStyleSheets to use newer push method]]></title>
@@ -65,7 +52,7 @@
         <title type="html"><![CDATA[Proposed documentation for proposed Model element]]></title>
         <id>https://github.com/mdn/content/pull/39710</id>
         <link href="https://github.com/mdn/content/pull/39710"/>
-        <updated>2025-05-27T22:05:13.000Z</updated>
+        <updated>2025-05-28T03:33:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1920698?u=80e0df2f3ffbf0a547fcd5de43b58ae6e7f0c641&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">This PR adds API documentation about the proposed HTML Model element, a browser-native feature for the in-line display of 3D content. It includes illustrations of some core concepts like perspective, lighting and appropriate file formats.</p>
@@ -522,5 +509,31 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-23T15:34:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical review: Document canvas context lang attribute]]></title>
+        <id>https://github.com/mdn/content/pull/39642</id>
+        <link href="https://github.com/mdn/content/pull/39642"/>
+        <updated>2025-05-27T17:35:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Chrome 136 supports the lang attribute for on- and off-screen canvas 2D drawing contexts: see <a href="https://chromestatus.com/feature/5066778773028864" rel="nofollow">https://chromestatus.com/feature/5066778773028864</a>.</p>
+<p dir="auto">This PR adds documentation for the new attribute.</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-23T08:59:30.000Z</published>
     </entry>
 </feed>
