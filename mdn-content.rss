@@ -2,36 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-28T09:01:28.085Z</updated>
+    <updated>2025-05-28T10:01:46.256Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Update `tl;dr` enum to remove the semicolon]]></title>
-        <id>https://github.com/mdn/content/pull/39716</id>
-        <link href="https://github.com/mdn/content/pull/39716"/>
-        <updated>2025-05-28T08:45:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/145676?u=d9e4353115d1dcae2ff7be06802522be0a4323df&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">Update <code class="notranslate">tl;dr</code> enum to remove the semicolon</p>
-
-<h3 dir="auto">Motivation</h3>
-
-<p dir="auto"><a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/webmachinelearning/writing-assistance-apis/commit/d1d11c913b85ee765eb671504d24feb98f9a424a/hovercard" href="https://github.com/webmachinelearning/writing-assistance-apis/commit/d1d11c913b85ee765eb671504d24feb98f9a424a">webmachinelearning/writing-assistance-apis@<tt>d1d11c9</tt></a></p>
-<h3 dir="auto">Additional details</h3>
-
+        <title type="html"><![CDATA[chore(fx): Prepare relnotes, 139 now stable]]></title>
+        <id>https://github.com/mdn/content/pull/39717</id>
+        <link href="https://github.com/mdn/content/pull/39717"/>
+        <updated>2025-05-28T09:20:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">Release notes for 139</p>
 <h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-]]></content>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024534749" data-permission-text="Title is private" data-url="https://github.com/mdn/mdn/issues/668" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/668/hovercard" href="https://github.com/mdn/mdn/issues/668">mdn/mdn#668</a></li>
+</ul>]]></content>
         <author>
-            <name>tomayac</name>
-            <email>tomayac@noreply.github.com</email>
-            <uri>https://github.com/tomayac</uri>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
         </author>
-        <published>2025-05-28T08:43:19.000Z</published>
+        <published>2025-05-28T09:06:07.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Synchronize with BCD v6.0.18]]></title>
@@ -480,7 +472,7 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
         <title type="html"><![CDATA[Technical review: Add doc for the scope_extensions manifest member]]></title>
         <id>https://github.com/mdn/content/pull/39649</id>
         <link href="https://github.com/mdn/content/pull/39649"/>
-        <updated>2025-05-27T22:21:59.000Z</updated>
+        <updated>2025-05-28T09:48:01.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">Chrome 138 supports the <code class="notranslate">scope_extensions</code> webapp manifest member; see <a href="https://chromestatus.com/feature/5746537956114432" rel="nofollow">https://chromestatus.com/feature/5746537956114432</a> for details.</p>
@@ -503,10 +495,10 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
         <published>2025-05-23T15:34:02.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Technical review: Document canvas context lang attribute]]></title>
+        <title type="html"><![CDATA[Editorial review: Document canvas context lang attribute]]></title>
         <id>https://github.com/mdn/content/pull/39642</id>
         <link href="https://github.com/mdn/content/pull/39642"/>
-        <updated>2025-05-27T17:35:04.000Z</updated>
+        <updated>2025-05-28T09:27:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 <p dir="auto">Chrome 136 supports the lang attribute for on- and off-screen canvas 2D drawing contexts: see <a href="https://chromestatus.com/feature/5066778773028864" rel="nofollow">https://chromestatus.com/feature/5066778773028864</a>.</p>
