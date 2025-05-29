@@ -6,10 +6,21 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Compared to the original code I also did some modernization</p>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The code is already in the page, so it's relatively trivial to migrate to live samples.</p>\n<p dir=\"auto\"><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1237891052\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/16120\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/16120/hovercard\" href=\"https://github.com/mdn/content/issues/16120\">#16120</a></p>",
+            "url": "https://github.com/mdn/content/pull/39728",
+            "title": "Internalize closure example jsfiddle",
+            "date_modified": "2025-05-29T05:53:25.000Z",
+            "date_published": "2025-05-29T05:50:54.000Z",
+            "author": {
+                "name": "Josh-Cena",
+                "url": "https://github.com/Josh-Cena"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Compared to the original code I also did some modernization.</p>\n<p dir=\"auto\"><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1237891052\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/16120\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/16120/hovercard\" href=\"https://github.com/mdn/content/issues/16120\">#16120</a></p>",
             "url": "https://github.com/mdn/content/pull/39727",
             "title": "Internalize arc interactive codepen",
-            "date_modified": "2025-05-29T04:29:36.000Z",
+            "date_modified": "2025-05-29T05:52:27.000Z",
             "date_published": "2025-05-29T04:27:32.000Z",
             "author": {
                 "name": "Josh-Cena",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "wbamberg",
                 "url": "https://github.com/wbamberg"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46565?u=4899240c775ecf60df7fbf978bb290e63f11f5cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">Confirm support for Opus and Vorbis in Ogg containers on Safari 18.4+</p>\n<h3 dir=\"auto\">Motivation</h3>\n<p dir=\"auto\">People providing audio content on the web want to know what formats they must support.</p>\n<h3 dir=\"auto\">Additional details</h3>\n<ul dir=\"auto\">\n<li><a href=\"https://webkit.org/blog/16574/webkit-features-in-safari-18-4/\" rel=\"nofollow\">https://webkit.org/blog/16574/webkit-features-in-safari-18-4/</a></li>\n</ul>",
-            "url": "https://github.com/mdn/content/pull/39592",
-            "title": "Record Safari 18.4+ support for Opus in Ogg containers",
-            "date_modified": "2025-05-28T13:13:40.000Z",
-            "date_published": "2025-05-20T16:30:33.000Z",
-            "author": {
-                "name": "acdha",
-                "url": "https://github.com/acdha"
             }
         }
     ]
