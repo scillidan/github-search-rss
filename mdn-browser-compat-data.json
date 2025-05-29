@@ -6,17 +6,6 @@
     "description": "mdn/browser-compat-data update data on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/19503293?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h4 dir=\"auto\">Summary</h4>\n<p dir=\"auto\">Update availability of <code class=\"notranslate\">FileSystemWritableFileStream</code> for Safari.</p>\n<h4 dir=\"auto\">Test results and supporting details</h4>\n<p dir=\"auto\">Safari TP starts to support <code class=\"notranslate\">FileSystemWritableFileStream</code> since version 215.<br>\nVerified by loading <a href=\"https://mdn-bcd-collector.gooborg.com/tests/api/FileSystemWritableFileStream\" rel=\"nofollow\">https://mdn-bcd-collector.gooborg.com/tests/api/FileSystemWritableFileStream</a> in STP.</p>\n<h4 dir=\"auto\">Related issues</h4>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #26919.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3095878333\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26919\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/browser-compat-data/issues/26919/hovercard\" href=\"https://github.com/mdn/browser-compat-data/issues/26919\">#26919</a>.</p>",
-            "url": "https://github.com/mdn/browser-compat-data/pull/26939",
-            "title": "Safari TP adds support for FileSystemWritableFileStream",
-            "date_modified": "2025-05-29T21:07:14.000Z",
-            "date_published": "2025-05-29T18:29:41.000Z",
-            "author": {
-                "name": "szewai",
-                "url": "https://github.com/szewai"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/349114?u=1185d4fc45f5ff4c4a592b30a4dd2bb5cd1b7128&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The <a class=\"user-mention notranslate\" data-hovercard-type=\"organization\" data-hovercard-url=\"/orgs/openwebdocs/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/openwebdocs\">@openwebdocs</a> <a href=\"https://github.com/openwebdocs/mdn-bcd-collector\">BCD collector project</a> v10.13.1 found new features shipping in Chrome 138 beta which was released yesterday. Currently, the collector covers about 90% of BCD, so the following list might not be exhaustive. Also, if a feature is in Chrome Canary/behind origin trials/enrollment, it is not considered here.</p>\n<p dir=\"auto\">With this PR, BCD considers the following 57 features as shipping in Chrome 138:</p>\n<ul dir=\"auto\">\n<li>api.CreateMonitor</li>\n<li>api.CreateMonitor.downloadprogress_event</li>\n<li>api.LanguageDetector</li>\n<li>api.LanguageDetector.availability_static</li>\n<li>api.LanguageDetector.create_static</li>\n<li>api.LanguageDetector.destroy</li>\n<li>api.LanguageDetector.detect</li>\n<li>api.LanguageDetector.expectedInputLanguages</li>\n<li>api.LanguageDetector.inputQuota</li>\n<li>api.LanguageDetector.measureInputUsage</li>\n<li>api.PushSubscriptionChangeEvent</li>\n<li>api.PushSubscriptionChangeEvent.PushSubscriptionChangeEvent</li>\n<li>api.PushSubscriptionChangeEvent.newSubscription</li>\n<li>api.PushSubscriptionChangeEvent.oldSubscription</li>\n<li>api.ServiceWorkerGlobalScope.pushsubscriptionchange_event</li>\n<li>api.Summarizer</li>\n<li>api.Summarizer.availability_static</li>\n<li>api.Summarizer.create_static</li>\n<li>api.Summarizer.destroy</li>\n<li>api.Summarizer.expectedContextLanguages</li>\n<li>api.Summarizer.expectedInputLanguages</li>\n<li>api.Summarizer.format</li>\n<li>api.Summarizer.inputQuota</li>\n<li>api.Summarizer.length</li>\n<li>api.Summarizer.measureInputUsage</li>\n<li>api.Summarizer.outputLanguage</li>\n<li>api.Summarizer.sharedContext</li>\n<li>api.Summarizer.summarize</li>\n<li>api.Summarizer.summarizeStreaming</li>\n<li>api.Summarizer.type</li>\n<li>api.Translator</li>\n<li>api.Translator.availability_static</li>\n<li>api.Translator.create_static</li>\n<li>api.Translator.destroy</li>\n<li>api.Translator.inputQuota</li>\n<li>api.Translator.measureInputUsage</li>\n<li>api.Translator.sourceLanguage</li>\n<li>api.Translator.targetLanguage</li>\n<li>api.Translator.translate</li>\n<li>api.Translator.translateStreaming</li>\n<li>api.VideoFrame.flip</li>\n<li>api.VideoFrame.rotation</li>\n<li>api.Viewport</li>\n<li>api.Viewport.segments</li>\n<li>api.Window.viewport</li>\n<li>css.properties.height.stretch</li>\n<li>css.properties.max-height.stretch</li>\n<li>css.properties.max-width.stretch</li>\n<li>css.properties.min-height.stretch</li>\n<li>css.properties.min-width.stretch</li>\n<li>css.properties.width.stretch</li>\n<li>css.types.abs</li>\n<li>html.elements.script.type.speculationrules.target_hint</li>\n<li>http.headers.Clear-Site-Data.prefetchCache</li>\n<li>http.headers.Clear-Site-Data.prerenderCache</li>\n<li>http.headers.Permissions-Policy.summarizer</li>\n<li>manifests.webapp.scope_extensions</li>\n</ul>\n<p dir=\"auto\">(several keys were updated in separate PRs, in particular those for the LLM features)</p>\n<p dir=\"auto\">See also the 138 \"Enabled by default\" column on <a href=\"https://chromestatus.com/roadmap\" rel=\"nofollow\">https://chromestatus.com/roadmap</a> and <a href=\"https://developer.chrome.com/blog/chrome-138-beta\" rel=\"nofollow\">https://developer.chrome.com/blog/chrome-138-beta</a></p>",
             "url": "https://github.com/mdn/browser-compat-data/pull/26937",
             "title": "Updates for Chrome 138 beta",
@@ -168,6 +157,17 @@
             "author": {
                 "name": "ddbeck",
                 "url": "https://github.com/ddbeck"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This PR removes the <code class=\"notranslate\">SnapEvent</code> member of the <code class=\"notranslate\">SnapEvent</code> API from BCD. The collector reports that the constructor is an illegal constructor in Chromium.</p>\n<p dir=\"auto\">Tests Used: <a href=\"https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent\" rel=\"nofollow\">https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent</a></p>",
+            "url": "https://github.com/mdn/browser-compat-data/pull/26687",
+            "title": "Remove api.SnapEvent.SnapEvent from BCD",
+            "date_modified": "2025-05-25T00:47:38.000Z",
+            "date_published": "2025-05-01T14:08:44.000Z",
+            "author": {
+                "name": "queengooborg",
+                "url": "https://github.com/queengooborg"
             }
         }
     ]
