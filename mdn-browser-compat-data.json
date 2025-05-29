@@ -158,6 +158,17 @@
                 "name": "caugner",
                 "url": "https://github.com/caugner"
             }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This PR updates and corrects version values for Firefox and Firefox Android for the <code class=\"notranslate\">permission_screen-wake-lock</code> member of the <code class=\"notranslate\">Permissions</code> API. The data comes from the <a href=\"https://mdn-bcd-collector.gooborg.com\" rel=\"nofollow\">mdn-bcd-collector</a> project (v10.12.11).</p>\n<p dir=\"auto\"><em>Check out the <a href=\"https://github.com/openwebdocs/mdn-bcd-collector#reviewing-bcd-changes\">collector's guide on how to review this PR</a>.</em></p>\n<p dir=\"auto\">Tests Used: <a href=\"https://mdn-bcd-collector.gooborg.com/tests/api/Permissions/permission_screen-wake-lock\" rel=\"nofollow\">https://mdn-bcd-collector.gooborg.com/tests/api/Permissions/permission_screen-wake-lock</a></p>",
+            "url": "https://github.com/mdn/browser-compat-data/pull/26566",
+            "title": "Firefox 122 added `screen-wake-lock` permission",
+            "date_modified": "2025-05-13T17:15:41.000Z",
+            "date_published": "2025-04-20T11:52:49.000Z",
+            "author": {
+                "name": "queengooborg",
+                "url": "https://github.com/queengooborg"
+            }
         }
     ]
 }
