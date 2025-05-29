@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-29T06:01:35.470Z</updated>
+    <updated>2025-05-29T07:01:30.796Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Internalize role="timer" codepen demo]]></title>
+        <id>https://github.com/mdn/content/pull/39729</id>
+        <link href="https://github.com/mdn/content/pull/39729"/>
+        <updated>2025-05-29T06:59:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This example is straightforward. I copied it over, modernized the code, and added some explanations.</p>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-05-29T06:57:54.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Internalize closure example jsfiddle]]></title>
         <id>https://github.com/mdn/content/pull/39728</id>
@@ -415,7 +428,7 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <title type="html"><![CDATA[Add docs for Speculation Rules features: target_hint and clear-site-data]]></title>
         <id>https://github.com/mdn/content/pull/39652</id>
         <link href="https://github.com/mdn/content/pull/39652"/>
-        <updated>2025-05-27T16:29:06.000Z</updated>
+        <updated>2025-05-29T06:51:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="64" height="64" alt=""/><br/>
 <h3 dir="auto">Description</h3>
 
@@ -499,18 +512,5 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-23T08:59:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add MITM guide]]></title>
-        <id>https://github.com/mdn/content/pull/39604</id>
-        <link href="https://github.com/mdn/content/pull/39604"/>
-        <updated>2025-05-28T21:26:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Add a page on Manipulator in the Middle attacks.</p>]]></content>
-        <author>
-            <name>wbamberg</name>
-            <email>wbamberg@noreply.github.com</email>
-            <uri>https://github.com/wbamberg</uri>
-        </author>
-        <published>2025-05-21T19:01:27.000Z</published>
     </entry>
 </feed>
