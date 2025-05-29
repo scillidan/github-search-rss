@@ -2,11 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-29T15:01:32.828Z</updated>
+    <updated>2025-05-29T16:01:32.011Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Updates for Chrome 138 beta]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26937</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26937"/>
+        <updated>2025-05-29T15:31:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/349114?u=1185d4fc45f5ff4c4a592b30a4dd2bb5cd1b7128&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/openwebdocs/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/openwebdocs">@openwebdocs</a> <a href="https://github.com/openwebdocs/mdn-bcd-collector">BCD collector project</a> v10.13.1 found new features shipping in Chrome 138 beta which was released yesterday. Currently, the collector covers about 90% of BCD, so the following list might not be exhaustive. Also, if a feature is in Chrome Canary/behind origin trials/enrollment, it is not considered here.</p>
+<p dir="auto">With this PR, BCD considers the following 57 features as shipping in Chrome 138:</p>
+<ul dir="auto">
+<li>api.CreateMonitor</li>
+<li>api.CreateMonitor.downloadprogress_event</li>
+<li>api.LanguageDetector</li>
+<li>api.LanguageDetector.availability_static</li>
+<li>api.LanguageDetector.create_static</li>
+<li>api.LanguageDetector.destroy</li>
+<li>api.LanguageDetector.detect</li>
+<li>api.LanguageDetector.expectedInputLanguages</li>
+<li>api.LanguageDetector.inputQuota</li>
+<li>api.LanguageDetector.measureInputUsage</li>
+<li>api.PushSubscriptionChangeEvent</li>
+<li>api.PushSubscriptionChangeEvent.PushSubscriptionChangeEvent</li>
+<li>api.PushSubscriptionChangeEvent.newSubscription</li>
+<li>api.PushSubscriptionChangeEvent.oldSubscription</li>
+<li>api.ServiceWorkerGlobalScope.pushsubscriptionchange_event</li>
+<li>api.Summarizer</li>
+<li>api.Summarizer.availability_static</li>
+<li>api.Summarizer.create_static</li>
+<li>api.Summarizer.destroy</li>
+<li>api.Summarizer.expectedContextLanguages</li>
+<li>api.Summarizer.expectedInputLanguages</li>
+<li>api.Summarizer.format</li>
+<li>api.Summarizer.inputQuota</li>
+<li>api.Summarizer.length</li>
+<li>api.Summarizer.measureInputUsage</li>
+<li>api.Summarizer.outputLanguage</li>
+<li>api.Summarizer.sharedContext</li>
+<li>api.Summarizer.summarize</li>
+<li>api.Summarizer.summarizeStreaming</li>
+<li>api.Summarizer.type</li>
+<li>api.Translator</li>
+<li>api.Translator.availability_static</li>
+<li>api.Translator.create_static</li>
+<li>api.Translator.destroy</li>
+<li>api.Translator.inputQuota</li>
+<li>api.Translator.measureInputUsage</li>
+<li>api.Translator.sourceLanguage</li>
+<li>api.Translator.targetLanguage</li>
+<li>api.Translator.translate</li>
+<li>api.Translator.translateStreaming</li>
+<li>api.VideoFrame.flip</li>
+<li>api.VideoFrame.rotation</li>
+<li>api.Viewport</li>
+<li>api.Viewport.segments</li>
+<li>api.Window.viewport</li>
+<li>css.properties.height.stretch</li>
+<li>css.properties.max-height.stretch</li>
+<li>css.properties.max-width.stretch</li>
+<li>css.properties.min-height.stretch</li>
+<li>css.properties.min-width.stretch</li>
+<li>css.properties.width.stretch</li>
+<li>css.types.abs</li>
+<li>html.elements.script.type.speculationrules.target_hint</li>
+<li>http.headers.Clear-Site-Data.prefetchCache</li>
+<li>http.headers.Clear-Site-Data.prerenderCache</li>
+<li>http.headers.Permissions-Policy.summarizer</li>
+<li>manifests.webapp.scope_extensions</li>
+</ul>
+<p dir="auto">(several keys were updated in separate PRs, in particular those for the LLM features)</p>
+<p dir="auto">See also the 138 "Enabled by default" column on <a href="https://chromestatus.com/roadmap" rel="nofollow">https://chromestatus.com/roadmap</a> and <a href="https://developer.chrome.com/blog/chrome-138-beta" rel="nofollow">https://developer.chrome.com/blog/chrome-138-beta</a></p>]]></content>
+        <author>
+            <name>Elchi3</name>
+            <email>Elchi3@noreply.github.com</email>
+            <uri>https://github.com/Elchi3</uri>
+        </author>
+        <published>2025-05-29T15:30:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Deno verison + RegExp.escape]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26936</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26936"/>
+        <updated>2025-05-29T16:00:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/71637999?u=4e231e0005e221701a26a319d0cababf216ef975&v=4" width="64" height="64" alt=""/><br/>
+<h4 dir="auto">Summary</h4>
+<p dir="auto">Add new Deno version</p>
+<p dir="auto">Update support for <code class="notranslate">RegExp.escape()</code> in Deno.</p>
+<h4 dir="auto">Test results and supporting details</h4>
+
+
+<p dir="auto">Deno <a href="https://deno.com/blog/v2.3" rel="nofollow">v2.3 released</a>.</p>
+<p dir="auto">RegExp.escape() is supported in Deno since <a href="https://github.com/denoland/deno/pull/29186" data-hovercard-type="pull_request" data-hovercard-url="/denoland/deno/pull/29186/hovercard">v2.3.2</a>.</p>
+<p dir="auto">See <a href="https://github.com/denoland/deno/releases/tag/v2.3.3">v2.3.3 release notes</a>.</p>
+<h4 dir="auto">Related issues</h4>
+
+]]></content>
+        <author>
+            <name>finxol</name>
+            <email>finxol@noreply.github.com</email>
+            <uri>https://github.com/finxol</uri>
+        </author>
+        <published>2025-05-29T15:11:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add data points for Chrome 137 WebGPU additions]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26935</id>
@@ -262,44 +362,5 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/queengooborg</uri>
         </author>
         <published>2025-05-01T14:08:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Firefox data for api.SVGElement.load_event]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26686</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26686"/>
-        <updated>2025-05-07T19:05:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Firefox and Firefox Android for the <code class="notranslate">load_event</code> member of the <code class="notranslate">SVGElement</code> API. The <code class="notranslate">alternative_name</code> property was incorrectly used in this context.</p>]]></content>
-        <author>
-            <name>queengooborg</name>
-            <email>queengooborg@noreply.github.com</email>
-            <uri>https://github.com/queengooborg</uri>
-        </author>
-        <published>2025-05-01T13:19:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Safari + iOS data for optgroup.disabled]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26644</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26644"/>
-        <updated>2025-05-27T15:53:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/301798?u=655c6341a7e8431056ec79000d0dfcfc715f679c&v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
-<p dir="auto">Record incomplete support for the disabled attribute on optgroup elements in desktop Safari v6 and current versions of iOS Safari.</p>
-<h4 dir="auto">Test results and supporting details</h4>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/caugner/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/caugner">@caugner</a> created <a href="https://output.jsbin.com/moqafahuhe" rel="nofollow">a JS Bin test case</a> and was able to reproduce back to iOS 11.2.</p>
-<p dir="auto">I tested in:</p>
-<ul dir="auto">
-<li>Safari 17.6 on MacOS 12.7.6 - passes</li>
-<li>Safari 18.4 on MacOS 15.4.1 - passes</li>
-<li>iOS 18.3.1 - <strong>fails</strong></li>
-</ul>
-<p dir="auto">Commit history found from <a href="https://bugs.webkit.org/show_bug.cgi?id=87614" rel="nofollow">bug 87614</a> suggests this issue was <strong>likely present in desktop Safari 6</strong> (introduced in 536.11), but fixed by version 7 (fix merged in 537.43.1). I'm unable to test whether it was actually working properly earlier.</p>
-<p dir="auto">There is <a href="https://bugs.webkit.org/show_bug.cgi?id=227042" rel="nofollow">an unresolved bug for iOS and iPadOS</a>.</p>
-<h4 dir="auto">Related issues</h4>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #26219.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2920698731" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26219" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26219/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26219">#26219</a></p>]]></content>
-        <author>
-            <name>telic</name>
-            <email>telic@noreply.github.com</email>
-            <uri>https://github.com/telic</uri>
-        </author>
-        <published>2025-04-27T22:47:11.000Z</published>
     </entry>
 </feed>

@@ -2,29 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-29T15:01:33.461Z</updated>
+    <updated>2025-05-29T16:01:32.825Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[WebExt: cleanup useless tag of year]]></title>
-        <id>https://github.com/mdn/content/pull/39731</id>
-        <link href="https://github.com/mdn/content/pull/39731"/>
-        <updated>2025-05-29T14:40:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/41184947?u=dc63bc6f8b1d2895c923fdd8689b2d487d329945&v=4" width="64" height="64" alt=""/><br/><div class="highlight highlight-source-diff notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="  - : Fired when the page used the [history API (2011)](/en-US/docs/Web/API/History_API) to update the URL displayed in the browser's location bar.
-  - : Fired when the page used the [history API](/en-US/docs/Web/API/History_API) to update the URL displayed in the browser's location bar."><pre class="notranslate">  - : Fired when the page used the [history API (2011)](/en-US/docs/Web/API/History_API) to update the URL displayed in the browser's location bar.
-  - : Fired when the page used the [history API](/en-US/docs/Web/API/History_API) to update the URL displayed in the browser's location bar.</pre></div>
-<p dir="auto">the mark of year (2011) was added in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1340940152" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/19644" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/19644/hovercard" href="https://github.com/mdn/content/pull/19644">#19644</a> (ref:<a href="https://github.com/mdn/content/pull/19644/files#diff-f3e7ba440cefdb995b0dcd70ea3cc161e66ce1370dde036d80941a212251fd13">https://github.com/mdn/content/pull/19644/files#diff-f3e7ba440cefdb995b0dcd70ea3cc161e66ce1370dde036d80941a212251fd13</a>), which seems to be a little bit useless.</p>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Josh-Cena/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Josh-Cena">@Josh-Cena</a> removed the first mark of year in a later cleanup, but missed? the second mark of year<br>
-(<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2552028280" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/36070" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/36070/hovercard" href="https://github.com/mdn/content/pull/36070">#36070</a>, ref:<a href="https://github.com/mdn/content/pull/36070/files#diff-f3e7ba440cefdb995b0dcd70ea3cc161e66ce1370dde036d80941a212251fd13">https://github.com/mdn/content/pull/36070/files#diff-f3e7ba440cefdb995b0dcd70ea3cc161e66ce1370dde036d80941a212251fd13</a>)</p>
-<p dir="auto">per <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/yin1999/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/yin1999">@yin1999</a>'s suggestion and my perspective, may the second tag be removed as well as it seems to be a little bit useless here?</p>]]></content>
+        <title type="html"><![CDATA[Technical review: Update docs for Chrome 137 WebGPU additions]]></title>
+        <id>https://github.com/mdn/content/pull/39732</id>
+        <link href="https://github.com/mdn/content/pull/39732"/>
+        <updated>2025-05-29T15:19:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+
+
+
+
+<hr>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Chrome 137 supports the following WebGPU updates:</p>
+<ul dir="auto">
+<li>When using <a href="https://developer.mozilla.org/en-US/docs/Web/API/GPUCommandEncoder/copyBufferToBuffer" rel="nofollow">copyBufferToBuffer()</a>, you can omit the offsets and the <code class="notranslate">size</code> parameter when copying the entire buffer. See <a href="https://developer.chrome.com/blog/new-in-webgpu-137?hl=en#buffers_copy_without_specifying_offsets_and_size" rel="nofollow">https://developer.chrome.com/blog/new-in-webgpu-137?hl=en#buffers_copy_without_specifying_offsets_and_size</a>.</li>
+<li>When creating a <code class="notranslate">GPUBindGroup</code> using <a href="https://developer.mozilla.org/en-US/docs/Web/API/GPUDevice/createBindGroup" rel="nofollow"><code class="notranslate">createBindGroup()</code></a>, you can specify a <code class="notranslate">GPUTextureView</code> in place of a <code class="notranslate">GPUExternalTexture</code>. See <a href="https://developer.chrome.com/blog/new-in-webgpu-137?hl=en#use_texture_view_for_externaltexture_binding" rel="nofollow">https://developer.chrome.com/blog/new-in-webgpu-137?hl=en#use_texture_view_for_externaltexture_binding</a></li>
+</ul>
+<p dir="auto">This PR updates the docs to include details of both.</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+]]></content>
         <author>
-            <name>PassionPenguin</name>
-            <email>PassionPenguin@noreply.github.com</email>
-            <uri>https://github.com/PassionPenguin</uri>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
         </author>
-        <published>2025-05-29T14:33:52.000Z</published>
+        <published>2025-05-29T15:17:01.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Update index.md]]></title>
