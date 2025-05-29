@@ -2,11 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-29T14:01:25.088Z</updated>
+    <updated>2025-05-29T15:01:32.828Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Add data points for Chrome 137 WebGPU additions]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26935</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26935"/>
+        <updated>2025-05-29T14:42:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h4 dir="auto">Summary</h4>
+<p dir="auto">Chrome 137 supports the following WebGPU updates:</p>
+<ul dir="auto">
+<li>When using <a href="https://developer.mozilla.org/en-US/docs/Web/API/GPUCommandEncoder/copyBufferToBuffer" rel="nofollow">copyBufferToBuffer()</a>, you can omit the offsets and the <code class="notranslate">size</code> parameter when copying the entire buffer. See <a href="https://developer.chrome.com/blog/new-in-webgpu-137?hl=en#buffers_copy_without_specifying_offsets_and_size" rel="nofollow">https://developer.chrome.com/blog/new-in-webgpu-137?hl=en#buffers_copy_without_specifying_offsets_and_size</a>.</li>
+<li>When creating a <code class="notranslate">GPUBindGroup</code> using <a href="https://developer.mozilla.org/en-US/docs/Web/API/GPUDevice/createBindGroup" rel="nofollow"><code class="notranslate">createBindGroup()</code></a>, you can specify a <code class="notranslate">GPUTextureView</code> in place of a <code class="notranslate">GPUExternalTexture</code>. See <a href="https://developer.chrome.com/blog/new-in-webgpu-137?hl=en#use_texture_view_for_externaltexture_binding" rel="nofollow">https://developer.chrome.com/blog/new-in-webgpu-137?hl=en#use_texture_view_for_externaltexture_binding</a></li>
+</ul>
+<p dir="auto">This PR adds data point for both those features.</p>
+
+<h4 dir="auto">Test results and supporting details</h4>
+
+
+<h4 dir="auto">Related issues</h4>
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-29T14:41:53.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update browser releases]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26931</id>
@@ -274,32 +301,5 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/telic</uri>
         </author>
         <published>2025-04-27T22:47:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sync `css.types.attr` with CSS Values 5 extensions]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26624</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26624"/>
-        <updated>2025-05-25T00:47:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
-<h4 dir="auto">Summary</h4>
-<p dir="auto">Changes:</p>
-<ul dir="auto">
-<li>Removed <code class="notranslate">type-or-unit</code> subfeature: <code class="notranslate">frequency</code>.</li>
-<li>Renamed <code class="notranslate">fallback</code> to <code class="notranslate">fallback-value</code>.</li>
-<li>Renamed <code class="notranslate">type-or-unit</code> to <code class="notranslate">type_function</code>.</li>
-<li>Wrapped all keywords in fences.</li>
-<li>Added subfeatures: <code class="notranslate">custom-ident</code>, <code class="notranslate">ident</code>, <code class="notranslate">image</code>, <code class="notranslate">length-percentage</code>, <code class="notranslate">resolution</code>, <code class="notranslate">string</code>, <code class="notranslate">transform-function</code>.</li>
-</ul>
-<h4 dir="auto">Test results and supporting details</h4>
-
-
-<h4 dir="auto">Related issues</h4>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #25618.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2778237762" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/25618" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/25618/hovercard" href="https://github.com/mdn/browser-compat-data/issues/25618">#25618</a>.</p>]]></content>
-        <author>
-            <name>caugner</name>
-            <email>caugner@noreply.github.com</email>
-            <uri>https://github.com/caugner</uri>
-        </author>
-        <published>2025-04-25T16:14:28.000Z</published>
     </entry>
 </feed>
