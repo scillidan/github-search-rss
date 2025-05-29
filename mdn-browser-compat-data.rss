@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-29T18:01:31.767Z</updated>
+    <updated>2025-05-29T19:01:30.551Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Safari TP adds support for FileSystemWritableFileStream]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26939</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26939"/>
+        <updated>2025-05-29T18:30:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19503293?v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
+<p dir="auto">Update availability of <code class="notranslate">FileSystemWritableFileStream</code> for Safari.</p>
+<h4 dir="auto">Test results and supporting details</h4>
+<p dir="auto">Safari TP starts to support <code class="notranslate">FileSystemWritableFileStream</code> since version 215.<br>
+Verified by loading <a href="https://mdn-bcd-collector.gooborg.com/tests/api/FileSystemWritableFileStream" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/FileSystemWritableFileStream</a> in STP.</p>
+<h4 dir="auto">Related issues</h4>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #26919.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3095878333" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26919" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/26919/hovercard" href="https://github.com/mdn/browser-compat-data/issues/26919">#26919</a>.</p>]]></content>
+        <author>
+            <name>szewai</name>
+            <email>szewai@noreply.github.com</email>
+            <uri>https://github.com/szewai</uri>
+        </author>
+        <published>2025-05-29T18:29:41.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Updates for Chrome 138 beta]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26937</id>
@@ -86,7 +105,7 @@
         <title type="html"><![CDATA[Add Deno verison + RegExp.escape]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26936</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26936"/>
-        <updated>2025-05-29T17:55:42.000Z</updated>
+        <updated>2025-05-29T18:27:01.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/71637999?u=4e231e0005e221701a26a319d0cababf216ef975&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">Add new Deno version</p>
@@ -348,19 +367,5 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/ddbeck</uri>
         </author>
         <published>2025-05-05T18:46:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove api.SnapEvent.SnapEvent from BCD]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26687</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26687"/>
-        <updated>2025-05-25T00:47:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR removes the <code class="notranslate">SnapEvent</code> member of the <code class="notranslate">SnapEvent</code> API from BCD. The collector reports that the constructor is an illegal constructor in Chromium.</p>
-<p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent</a></p>]]></content>
-        <author>
-            <name>queengooborg</name>
-            <email>queengooborg@noreply.github.com</email>
-            <uri>https://github.com/queengooborg</uri>
-        </author>
-        <published>2025-05-01T14:08:44.000Z</published>
     </entry>
 </feed>
