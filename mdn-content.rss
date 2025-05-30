@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-30T16:01:33.731Z</updated>
+    <updated>2025-05-30T17:01:24.985Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -461,19 +461,6 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <published>2025-05-23T08:59:30.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add MITM guide]]></title>
-        <id>https://github.com/mdn/content/pull/39604</id>
-        <link href="https://github.com/mdn/content/pull/39604"/>
-        <updated>2025-05-28T21:26:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Add a page on Manipulator in the Middle attacks.</p>]]></content>
-        <author>
-            <name>wbamberg</name>
-            <email>wbamberg@noreply.github.com</email>
-            <uri>https://github.com/wbamberg</uri>
-        </author>
-        <published>2025-05-21T19:01:27.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Record Safari 18.4+ support for Opus in Ogg containers]]></title>
         <id>https://github.com/mdn/content/pull/39592</id>
         <link href="https://github.com/mdn/content/pull/39592"/>
@@ -545,5 +532,22 @@ Questions inline</p>
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-05-19T06:08:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit credentials summary similar to spec]]></title>
+        <id>https://github.com/mdn/content/pull/39569</id>
+        <link href="https://github.com/mdn/content/pull/39569"/>
+        <updated>2025-05-26T22:29:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Spec:</p>
+<blockquote>
+<p dir="auto">Credentials are HTTP cookies, TLS client certificates, and authentication entries (for HTTP authentication).</p>
+</blockquote>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39561.">Closes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3072075294" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39561" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39561/hovercard" href="https://github.com/mdn/content/issues/39561">#39561</a></p>]]></content>
+        <author>
+            <name>DanKaplanSES</name>
+            <email>DanKaplanSES@noreply.github.com</email>
+            <uri>https://github.com/DanKaplanSES</uri>
+        </author>
+        <published>2025-05-19T05:23:06.000Z</published>
     </entry>
 </feed>
