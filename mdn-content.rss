@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-30T00:04:37.149Z</updated>
+    <updated>2025-05-30T01:28:56.413Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[FF140 Relnote - CookieStore API update]]></title>
+        <id>https://github.com/mdn/content/pull/39734</id>
+        <link href="https://github.com/mdn/content/pull/39734"/>
+        <updated>2025-05-30T00:55:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">This fixes the FF140 Cookie Store API release note updated in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3089995791" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39676" data-hovercard-type="pull_request" data-hovercard-url="/mdn/content/pull/39676/hovercard" href="https://github.com/mdn/content/pull/39676">#39676</a>.</p>
+<p dir="auto">BCD shows that the whole API is supported (the missing bits were implemented in the short window while this was unpublished and not tagged as dev-docs-needed).</p>
+<p dir="auto">This updates the docs to match. Note that I believe the comment about the returned properties to still be true, but I'm querying that in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1958875#c15" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1958875#c15</a></p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083525571" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39612" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39612/hovercard" href="https://github.com/mdn/content/issues/39612">#39612</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-30T00:50:53.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Technical review: Update docs for Chrome 137 WebGPU additions]]></title>
         <id>https://github.com/mdn/content/pull/39732</id>
@@ -45,7 +61,7 @@
         <title type="html"><![CDATA[fit-content: explain browser computation]]></title>
         <id>https://github.com/mdn/content/pull/39730</id>
         <link href="https://github.com/mdn/content/pull/39730"/>
-        <updated>2025-05-29T20:49:39.000Z</updated>
+        <updated>2025-05-30T00:58:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/27722774?v=4" width="64" height="64" alt=""/><br/>
 
 
@@ -348,21 +364,6 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <published>2025-05-27T09:24:21.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FF140 pointerrawupdate event - relnote/docs]]></title>
-        <id>https://github.com/mdn/content/pull/39695</id>
-        <link href="https://github.com/mdn/content/pull/39695"/>
-        <updated>2025-05-28T16:28:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF140 adds suppor for the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/pointerrawupdate_event" rel="nofollow"><code class="notranslate">pointerrawupdate</code> event</a> in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1550462" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1550462</a></p>
-<p dir="auto">This adds a release note (based on the FF release note) and also updates the docs for the element slightly to capture when you would use this event (and not), and its bubble, cancel, composed properties.</p>
-<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3083533207" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39614" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39614/hovercard" href="https://github.com/mdn/content/issues/39614">#39614</a></p>]]></content>
-        <author>
-            <name>hamishwillee</name>
-            <email>hamishwillee@noreply.github.com</email>
-            <uri>https://github.com/hamishwillee</uri>
-        </author>
-        <published>2025-05-27T05:30:20.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Serializing < and > - consistent wording on mutation XSS]]></title>
         <id>https://github.com/mdn/content/pull/39694</id>
         <link href="https://github.com/mdn/content/pull/39694"/>
@@ -408,7 +409,7 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <title type="html"><![CDATA[Make the `getMessage` function for the javascript example more robust.]]></title>
         <id>https://github.com/mdn/content/pull/39672</id>
         <link href="https://github.com/mdn/content/pull/39672"/>
-        <updated>2025-05-29T18:04:34.000Z</updated>
+        <updated>2025-05-30T01:01:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26916078?u=ae3b6dc567b716a44e450bacef5e1a8de9fc9c5c&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The old getMessage function had a bug where if you made multiple unawaited calls to the function, it wouldn't behave correctly because previous reads had not yet completed, and all you were doing was reading 4 bytes at a time from the input into the header buffer. It also had a bug of not reading the correct amount of data, because the buffer given to the read function was not exactly sized for the expected message size, so it was possible that the amount of data that you got back was larger than the size that the header indicated if the extension had sent more than one message.</p>
 <p dir="auto">The new getMessage function solves both of those issues. The first issue is solved by using a promise and a while loop to trap the execution of extra calls at the top of the function while there is already a read in progress. Each call to getMessage is let through the trap one at a time as a read completes. If there are no pending reads, then a call to getMessage does not get trapped at the top of the function, because the read promise will be null, and so the loop will be skipped. The other issue is solved by using buffers which are appropriately sized according to the header information. I think this is also more succinct, since the old <code class="notranslate">readFullAsync</code> ultimately ended up doing that anyway at the end by passing the data array to the Uint8Array constructor. If you just create it from the header information and pass it directly to the read function, you can avoid dispatching to another function, and it prevents a bug.</p>
 
