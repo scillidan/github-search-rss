@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-30T06:01:34.786Z</updated>
+    <updated>2025-05-30T07:01:29.660Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -21,81 +21,6 @@
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-05-30T01:27:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updates for Chrome 138 beta]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26937</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26937"/>
-        <updated>2025-05-29T16:38:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/349114?u=1185d4fc45f5ff4c4a592b30a4dd2bb5cd1b7128&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/openwebdocs/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/openwebdocs">@openwebdocs</a> <a href="https://github.com/openwebdocs/mdn-bcd-collector">BCD collector project</a> v10.13.1 found new features shipping in Chrome 138 beta which was released yesterday. Currently, the collector covers about 90% of BCD, so the following list might not be exhaustive. Also, if a feature is in Chrome Canary/behind origin trials/enrollment, it is not considered here.</p>
-<p dir="auto">With this PR, BCD considers the following 57 features as shipping in Chrome 138:</p>
-<ul dir="auto">
-<li>api.CreateMonitor</li>
-<li>api.CreateMonitor.downloadprogress_event</li>
-<li>api.LanguageDetector</li>
-<li>api.LanguageDetector.availability_static</li>
-<li>api.LanguageDetector.create_static</li>
-<li>api.LanguageDetector.destroy</li>
-<li>api.LanguageDetector.detect</li>
-<li>api.LanguageDetector.expectedInputLanguages</li>
-<li>api.LanguageDetector.inputQuota</li>
-<li>api.LanguageDetector.measureInputUsage</li>
-<li>api.PushSubscriptionChangeEvent</li>
-<li>api.PushSubscriptionChangeEvent.PushSubscriptionChangeEvent</li>
-<li>api.PushSubscriptionChangeEvent.newSubscription</li>
-<li>api.PushSubscriptionChangeEvent.oldSubscription</li>
-<li>api.ServiceWorkerGlobalScope.pushsubscriptionchange_event</li>
-<li>api.Summarizer</li>
-<li>api.Summarizer.availability_static</li>
-<li>api.Summarizer.create_static</li>
-<li>api.Summarizer.destroy</li>
-<li>api.Summarizer.expectedContextLanguages</li>
-<li>api.Summarizer.expectedInputLanguages</li>
-<li>api.Summarizer.format</li>
-<li>api.Summarizer.inputQuota</li>
-<li>api.Summarizer.length</li>
-<li>api.Summarizer.measureInputUsage</li>
-<li>api.Summarizer.outputLanguage</li>
-<li>api.Summarizer.sharedContext</li>
-<li>api.Summarizer.summarize</li>
-<li>api.Summarizer.summarizeStreaming</li>
-<li>api.Summarizer.type</li>
-<li>api.Translator</li>
-<li>api.Translator.availability_static</li>
-<li>api.Translator.create_static</li>
-<li>api.Translator.destroy</li>
-<li>api.Translator.inputQuota</li>
-<li>api.Translator.measureInputUsage</li>
-<li>api.Translator.sourceLanguage</li>
-<li>api.Translator.targetLanguage</li>
-<li>api.Translator.translate</li>
-<li>api.Translator.translateStreaming</li>
-<li>api.VideoFrame.flip</li>
-<li>api.VideoFrame.rotation</li>
-<li>api.Viewport</li>
-<li>api.Viewport.segments</li>
-<li>api.Window.viewport</li>
-<li>css.properties.height.stretch</li>
-<li>css.properties.max-height.stretch</li>
-<li>css.properties.max-width.stretch</li>
-<li>css.properties.min-height.stretch</li>
-<li>css.properties.min-width.stretch</li>
-<li>css.properties.width.stretch</li>
-<li>css.types.abs</li>
-<li>html.elements.script.type.speculationrules.target_hint</li>
-<li>http.headers.Clear-Site-Data.prefetchCache</li>
-<li>http.headers.Clear-Site-Data.prerenderCache</li>
-<li>http.headers.Permissions-Policy.summarizer</li>
-<li>manifests.webapp.scope_extensions</li>
-</ul>
-<p dir="auto">(several keys were updated in separate PRs, in particular those for the LLM features)</p>
-<p dir="auto">See also the 138 "Enabled by default" column on <a href="https://chromestatus.com/roadmap" rel="nofollow">https://chromestatus.com/roadmap</a> and <a href="https://developer.chrome.com/blog/chrome-138-beta" rel="nofollow">https://developer.chrome.com/blog/chrome-138-beta</a></p>]]></content>
-        <author>
-            <name>Elchi3</name>
-            <email>Elchi3@noreply.github.com</email>
-            <uri>https://github.com/Elchi3</uri>
-        </author>
-        <published>2025-05-29T15:30:09.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Add Deno verison + RegExp.escape]]></title>
@@ -148,31 +73,6 @@
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-29T14:41:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update browser releases]]></title>
-        <id>https://github.com/mdn/browser-compat-data/pull/26931</id>
-        <link href="https://github.com/mdn/browser-compat-data/pull/26931"/>
-        <updated>2025-05-30T04:39:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108879845?u=eeb9306682180ab80521c80fd8f46609fe3c6770&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The output of the <code class="notranslate">update-browser-releases</code> script is:</p>
-<blockquote>
-<p dir="auto">@mdn/browser-compat-data@6.0.18 update-browser-releases<br>
-tsx scripts/update-browser-releases/index.ts --all</p>
-</blockquote>
-<h3 dir="auto">Updates for Edge for Desktop</h3>
-<ul dir="auto">
-<li>New status for edge 137: current, previously beta.</li>
-<li>New release notes for edge 138: <a href="https://learn.microsoft.com/en-us/microsoft-edge/web-platform/release-notes/138" rel="nofollow">https://learn.microsoft.com/en-us/microsoft-edge/web-platform/release-notes/138</a>, previously undefined.</li>
-<li>New status for edge 136: retired, previously current.</li>
-</ul>
-<div class="markdown-alert markdown-alert-note" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-info mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg>Note</p><p dir="auto"><strong>Opera for Android</strong>: No release announcement found among 26 items in <a href="https://forums.opera.com/category/20.rss" rel="nofollow">this RSS feed</a>.</p>
-</div>]]></content>
-        <author>
-            <name>mdn-bot</name>
-            <email>mdn-bot@noreply.github.com</email>
-            <uri>https://github.com/mdn-bot</uri>
-        </author>
-        <published>2025-05-29T04:39:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Update web-features tags]]></title>
@@ -365,5 +265,32 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
             <uri>https://github.com/ddbeck</uri>
         </author>
         <published>2025-05-05T18:46:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove api.SnapEvent.SnapEvent from BCD]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26687</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26687"/>
+        <updated>2025-05-25T00:47:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR removes the <code class="notranslate">SnapEvent</code> member of the <code class="notranslate">SnapEvent</code> API from BCD. The collector reports that the constructor is an illegal constructor in Chromium.</p>
+<p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/SnapEvent/SnapEvent</a></p>]]></content>
+        <author>
+            <name>queengooborg</name>
+            <email>queengooborg@noreply.github.com</email>
+            <uri>https://github.com/queengooborg</uri>
+        </author>
+        <published>2025-05-01T14:08:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Firefox data for api.SVGElement.load_event]]></title>
+        <id>https://github.com/mdn/browser-compat-data/pull/26686</id>
+        <link href="https://github.com/mdn/browser-compat-data/pull/26686"/>
+        <updated>2025-05-07T19:05:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Firefox and Firefox Android for the <code class="notranslate">load_event</code> member of the <code class="notranslate">SVGElement</code> API. The <code class="notranslate">alternative_name</code> property was incorrectly used in this context.</p>]]></content>
+        <author>
+            <name>queengooborg</name>
+            <email>queengooborg@noreply.github.com</email>
+            <uri>https://github.com/queengooborg</uri>
+        </author>
+        <published>2025-05-01T13:19:14.000Z</published>
     </entry>
 </feed>
