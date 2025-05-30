@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-30T04:03:28.731Z</updated>
+    <updated>2025-05-30T05:01:30.278Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -395,7 +395,7 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <title type="html"><![CDATA[Make the `getMessage` function for the javascript example more robust.]]></title>
         <id>https://github.com/mdn/content/pull/39672</id>
         <link href="https://github.com/mdn/content/pull/39672"/>
-        <updated>2025-05-30T02:55:59.000Z</updated>
+        <updated>2025-05-30T04:11:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26916078?u=ae3b6dc567b716a44e450bacef5e1a8de9fc9c5c&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The old getMessage function had a bug where if you made multiple unawaited calls to the function, it wouldn't behave correctly because previous reads had not yet completed, and all you were doing was reading 4 bytes at a time from the input into the header buffer. It also had a bug of not reading the correct amount of data, because the buffer given to the read function was not exactly sized for the expected message size, so it was possible that the amount of data that you got back was larger than the size that the header indicated if the extension had sent more than one message.</p>
 <p dir="auto">The new getMessage function solves both of those issues. The first issue is solved by using a promise and a while loop to trap the execution of extra calls at the top of the function while there is already a read in progress. Each call to getMessage is let through the trap one at a time as a read completes. If there are no pending reads, then a call to getMessage does not get trapped at the top of the function, because the read promise will be null, and so the loop will be skipped. The other issue is solved by using buffers which are appropriately sized according to the header information. I think this is also more succinct, since the old <code class="notranslate">readFullAsync</code> ultimately ended up doing that anyway at the end by passing the data array to the Uint8Array constructor. If you just create it from the header information and pass it directly to the read function, you can avoid dispatching to another function, and it prevents a bug.</p>
 
@@ -475,43 +475,6 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <published>2025-05-25T05:53:59.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add docs for Speculation Rules features: target_hint and clear-site-data]]></title>
-        <id>https://github.com/mdn/content/pull/39652</id>
-        <link href="https://github.com/mdn/content/pull/39652"/>
-        <updated>2025-05-30T03:54:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10931297?u=600cfcb4c4e709dfbc66b328147d846ee87b1e51&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-
-<p dir="auto">Chrome 138 will add two new features for Speculation Rules:</p>
-<ul dir="auto">
-<li><a href="https://chromestatus.com/feature/5162540351094784" rel="nofollow"><code class="notranslate">target_hint</code></a></li>
-<li><a href="https://chromestatus.com/feature/4755745652080640" rel="nofollow"><code class="notranslate">clear-site-data</code></a></li>
-</ul>
-<h3 dir="auto">Motivation</h3>
-
-<p dir="auto">New features</p>
-<h3 dir="auto">Additional details</h3>
-
-<p dir="auto"><strong><code class="notranslate">target_hint</code></strong></p>
-<p dir="auto">Chrome Status link: <a href="https://chromestatus.com/feature/5162540351094784" rel="nofollow">https://chromestatus.com/feature/5162540351094784</a><br>
-Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/triggers.md#window-name-targeting-hints">https://github.com/WICG/nav-speculation/blob/main/triggers.md#window-name-targeting-hints</a></p>
-<p dir="auto"><strong><code class="notranslate">Clear-site-data</code></strong></p>
-<p dir="auto">Chrome Status link: <a href="https://chromestatus.com/feature/4755745652080640" rel="nofollow">https://chromestatus.com/feature/4755745652080640</a><br>
-Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md">https://github.com/WICG/nav-speculation/blob/main/clear-site-data-integration.md</a></p>
-<h3 dir="auto">Related issues and pull requests</h3>
-
-
-
-<p dir="auto">BCD PR: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3087745447" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26893" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26893/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26893">mdn/browser-compat-data#26893</a></p>
-]]></content>
-        <author>
-            <name>tunetheweb</name>
-            <email>tunetheweb@noreply.github.com</email>
-            <uri>https://github.com/tunetheweb</uri>
-        </author>
-        <published>2025-05-23T23:47:53.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Technical review: Add doc for the scope_extensions manifest member]]></title>
         <id>https://github.com/mdn/content/pull/39649</id>
         <link href="https://github.com/mdn/content/pull/39649"/>
@@ -536,5 +499,31 @@ Explainer link: <a href="https://github.com/WICG/nav-speculation/blob/main/clear
             <uri>https://github.com/chrisdavidmills</uri>
         </author>
         <published>2025-05-23T15:34:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editorial review: Document canvas context lang attribute]]></title>
+        <id>https://github.com/mdn/content/pull/39642</id>
+        <link href="https://github.com/mdn/content/pull/39642"/>
+        <updated>2025-05-29T23:46:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
+<h3 dir="auto">Description</h3>
+<p dir="auto">Chrome 136 supports the lang attribute for on- and off-screen canvas 2D drawing contexts: see <a href="https://chromestatus.com/feature/5066778773028864" rel="nofollow">https://chromestatus.com/feature/5066778773028864</a>.</p>
+<p dir="auto">This PR adds documentation for the new attribute.</p>
+
+<h3 dir="auto">Motivation</h3>
+
+<h3 dir="auto">Additional details</h3>
+
+<h3 dir="auto">Related issues and pull requests</h3>
+
+
+
+]]></content>
+        <author>
+            <name>chrisdavidmills</name>
+            <email>chrisdavidmills@noreply.github.com</email>
+            <uri>https://github.com/chrisdavidmills</uri>
+        </author>
+        <published>2025-05-23T08:59:30.000Z</published>
     </entry>
 </feed>
