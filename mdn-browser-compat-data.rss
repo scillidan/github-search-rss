@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-05-30T21:01:19.800Z</updated>
+    <updated>2025-05-30T22:01:25.782Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[enhance(build): add `ie: { version_added: false }` at build time]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26949</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26949"/>
-        <updated>2025-05-30T15:54:57.000Z</updated>
+        <updated>2025-05-30T21:53:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">Removes all occurrences of <code class="notranslate">ie: { version_added: false }</code> from the repository, adding them at build time instead.</p>
