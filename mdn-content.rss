@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-30T18:01:37.813Z</updated>
+    <updated>2025-05-30T19:01:26.975Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Update attacks nav]]></title>
+        <id>https://github.com/mdn/content/pull/39736</id>
+        <link href="https://github.com/mdn/content/pull/39736"/>
+        <updated>2025-05-30T18:57:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">...</p>]]></content>
+        <author>
+            <name>wbamberg</name>
+            <email>wbamberg@noreply.github.com</email>
+            <uri>https://github.com/wbamberg</uri>
+        </author>
+        <published>2025-05-30T18:48:29.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FF140 Relnote - CookieStore API update]]></title>
         <id>https://github.com/mdn/content/pull/39734</id>
@@ -532,22 +545,5 @@ Questions inline</p>
             <uri>https://github.com/hamishwillee</uri>
         </author>
         <published>2025-05-19T06:08:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edit credentials summary similar to spec]]></title>
-        <id>https://github.com/mdn/content/pull/39569</id>
-        <link href="https://github.com/mdn/content/pull/39569"/>
-        <updated>2025-05-26T22:29:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Spec:</p>
-<blockquote>
-<p dir="auto">Credentials are HTTP cookies, TLS client certificates, and authentication entries (for HTTP authentication).</p>
-</blockquote>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39561.">Closes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3072075294" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39561" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39561/hovercard" href="https://github.com/mdn/content/issues/39561">#39561</a></p>]]></content>
-        <author>
-            <name>DanKaplanSES</name>
-            <email>DanKaplanSES@noreply.github.com</email>
-            <uri>https://github.com/DanKaplanSES</uri>
-        </author>
-        <published>2025-05-19T05:23:06.000Z</published>
     </entry>
 </feed>
