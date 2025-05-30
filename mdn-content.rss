@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-30T14:01:34.235Z</updated>
+    <updated>2025-05-30T15:01:30.843Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -187,19 +187,6 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
             <uri>https://github.com/zachernuk</uri>
         </author>
         <published>2025-05-27T18:21:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lint: replace string concatenation with template strings, replace unary plus with Number()]]></title>
-        <id>https://github.com/mdn/content/pull/39709</id>
-        <link href="https://github.com/mdn/content/pull/39709"/>
-        <updated>2025-05-30T12:54:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Our style guide requires using template literals instead of string concatenation. This PR fixes all remaining cases.</p>]]></content>
-        <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
-        </author>
-        <published>2025-05-27T16:35:12.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bump yargs from 17.7.2 to 18.0.0]]></title>
@@ -422,19 +409,6 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <published>2025-05-25T11:29:06.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fix invalid SVG syntax]]></title>
-        <id>https://github.com/mdn/content/pull/39669</id>
-        <link href="https://github.com/mdn/content/pull/39669"/>
-        <updated>2025-05-30T13:56:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This code should be merged with the next few sections</p>]]></content>
-        <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
-        </author>
-        <published>2025-05-25T10:14:31.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Technical review: Add doc for the scope_extensions manifest member]]></title>
         <id>https://github.com/mdn/content/pull/39649</id>
         <link href="https://github.com/mdn/content/pull/39649"/>
@@ -533,5 +507,43 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
             <uri>https://github.com/ajuchacko</uri>
         </author>
         <published>2025-05-20T10:38:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chore: Change ints to 'number' for ProgressEvent properties]]></title>
+        <id>https://github.com/mdn/content/pull/39574</id>
+        <link href="https://github.com/mdn/content/pull/39574"/>
+        <updated>2025-05-30T10:48:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
+<p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
+<ul dir="auto">
+<li><a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ" rel="nofollow">Chromium Intent to Ship</a></li>
+<li><a href="https://bugs.webkit.org/show_bug.cgi?id=288688" rel="nofollow">WebKit bug</a></li>
+<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1943649" rel="nofollow">Gecko bug</a></li>
+</ul>
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #641.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2883460957" data-permission-text="Title is private" data-url="https://github.com/mdn/mdn/issues/641" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/641/hovercard" href="https://github.com/mdn/mdn/issues/641">mdn/mdn#641</a></p>]]></content>
+        <author>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
+        </author>
+        <published>2025-05-19T11:24:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAuthn PRF extension docs]]></title>
+        <id>https://github.com/mdn/content/pull/39570</id>
+        <link href="https://github.com/mdn/content/pull/39570"/>
+        <updated>2025-05-30T04:24:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 adds full desktop support for the PRF extension. This adds docs.</p>
+<p dir="auto">Draft, as I am seeking review from engineering first as per <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>
+Questions inline</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024518451" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39302" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39302/hovercard" href="https://github.com/mdn/content/issues/39302">#39302</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-19T06:08:16.000Z</published>
     </entry>
 </feed>
