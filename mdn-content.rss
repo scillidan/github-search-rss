@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-05-31T12:02:04.198Z</updated>
+    <updated>2025-05-31T13:07:24.378Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -350,34 +350,6 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <published>2025-05-27T00:05:39.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clarify rules for rel="noopener" and cross origin]]></title>
-        <id>https://github.com/mdn/content/pull/39675</id>
-        <link href="https://github.com/mdn/content/pull/39675"/>
-        <updated>2025-05-27T20:02:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/125713293?u=8637438378d83c08c61580360e51dbfdf7e06f27&v=4" width="64" height="64" alt=""/><br/>
-<h3 dir="auto">Description</h3>
-<p dir="auto">I clarified that <code class="notranslate">rel="noopener"</code> should be used for cross-origin links</p>
-
-<h3 dir="auto">Motivation</h3>
-<p dir="auto">This is my first time contributing to an OSP!!! And MDN Docs has helped me a lot with my Web Dev journey and I would like to thank them by contributing to their OSP!!</p>
-
-<h3 dir="auto">Additional details</h3>
-<p dir="auto">I saw an issue targetting this issue so I decided it would be perfect for my first contribution so I'm making these changes because it clarifies when and when not to use <code class="notranslate">noopener</code> in your HTML file!</p>
-
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39344.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3032980774" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39344" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39344/hovercard" href="https://github.com/mdn/content/issues/39344">#39344</a></p>
-
-
-
-]]></content>
-        <author>
-            <name>Khaspper</name>
-            <email>Khaspper@noreply.github.com</email>
-            <uri>https://github.com/Khaspper</uri>
-        </author>
-        <published>2025-05-25T23:29:58.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Make the `getMessage` function for the javascript example more robust.]]></title>
         <id>https://github.com/mdn/content/pull/39672</id>
         <link href="https://github.com/mdn/content/pull/39672"/>
@@ -542,5 +514,21 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
             <uri>https://github.com/bsmth</uri>
         </author>
         <published>2025-05-19T11:24:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAuthn PRF extension docs]]></title>
+        <id>https://github.com/mdn/content/pull/39570</id>
+        <link href="https://github.com/mdn/content/pull/39570"/>
+        <updated>2025-05-30T04:24:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 adds full desktop support for the PRF extension. This adds docs.</p>
+<p dir="auto">Draft, as I am seeking review from engineering first as per <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>
+Questions inline</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024518451" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39302" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39302/hovercard" href="https://github.com/mdn/content/issues/39302">#39302</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-19T06:08:16.000Z</published>
     </entry>
 </feed>
