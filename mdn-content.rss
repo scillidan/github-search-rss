@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-06-01T21:01:22.675Z</updated>
+    <updated>2025-06-01T22:01:25.478Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -56,8 +56,15 @@
         <title type="html"><![CDATA[Update attacks nav]]></title>
         <id>https://github.com/mdn/content/pull/39736</id>
         <link href="https://github.com/mdn/content/pull/39736"/>
-        <updated>2025-06-01T02:52:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">...</p>]]></content>
+        <updated>2025-06-01T21:07:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR does some plumbing and updates around the new "Attacks" pages that we have:</p>
+<ul dir="auto">
+<li>delete <a href="https://developer.mozilla.org/en-US/docs/Web/Security/Types_of_attacks" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/Security/Types_of_attacks</a> and redirect to <a href="https://developer.mozilla.org/en-US/docs/Web/Security/Attacks" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/Security/Attacks</a></li>
+<li>delete the old pages on clickjacking and CSRF, and redirect to the new pages</li>
+<li>rewrite the glossary pages for CSRF and XSS</li>
+<li>update various other links to point to the new attacks pages.</li>
+</ul>
+<p dir="auto">The only bit of "Types of attacks" we're losing is the bit on session fixation. I wasn't too sure what to do about this. I don't think the existing text there is particularly helpful, but I'm not ready to write something about this yet. For now I've linked to OWASP instead for session fixation.</p>]]></content>
         <author>
             <name>wbamberg</name>
             <email>wbamberg@noreply.github.com</email>
