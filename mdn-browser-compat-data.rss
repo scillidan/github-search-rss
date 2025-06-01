@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss</id>
     <title>mdn/browser-compat-data update data</title>
-    <updated>2025-06-01T02:43:03.523Z</updated>
+    <updated>2025-06-01T03:29:40.231Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-browser-compat-data.rss"/>
     <subtitle>mdn/browser-compat-data update data on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Update Chromium data for print-color-adjust CSS property]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26955</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26955"/>
-        <updated>2025-05-31T23:23:31.000Z</updated>
+        <updated>2025-06-01T02:43:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Chromium (Chrome, Opera, Samsung Internet, WebView Android) for the <code class="notranslate">print-color-adjust</code> CSS property. This sets the downstream browser(s) to mirror from their upstream counterpart.</p>]]></content>
         <author>
             <name>queengooborg</name>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[Update Edge data for api.Window.getDigitalGoodsService]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26952</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26952"/>
-        <updated>2025-05-30T23:37:31.000Z</updated>
+        <updated>2025-06-01T02:43:21.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Microsoft Edge for the <code class="notranslate">getDigitalGoodsService</code> member of the <code class="notranslate">Window</code> API. The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.13.2).</p>
 <p dir="auto"><em>Check out the <a href="https://github.com/openwebdocs/mdn-bcd-collector#reviewing-bcd-changes">collector's guide on how to review this PR</a>.</em></p>
 <p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/Window/getDigitalGoodsService" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/Window/getDigitalGoodsService</a></p>]]></content>
@@ -39,7 +39,7 @@
         <title type="html"><![CDATA[enhance(build): add `ie: { version_added: false }` at build time]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26949</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26949"/>
-        <updated>2025-05-30T21:53:54.000Z</updated>
+        <updated>2025-06-01T02:44:03.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">Removes all occurrences of <code class="notranslate">ie: { version_added: false }</code> from the repository, adding them at build time instead.</p>
@@ -59,7 +59,7 @@
         <title type="html"><![CDATA[Add data points for Chrome 137 WebGPU additions]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26935</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26935"/>
-        <updated>2025-05-30T16:50:44.000Z</updated>
+        <updated>2025-06-01T02:44:20.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47647?u=2fbfc431a85d357f00c0146d5e55b425b7f00a3d&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">Chrome 137 supports the following WebGPU updates:</p>
@@ -87,7 +87,7 @@
         <title type="html"><![CDATA[HTTP Cache-Control stale-while-revalidate is standard]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26895</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26895"/>
-        <updated>2025-05-29T23:32:08.000Z</updated>
+        <updated>2025-06-01T02:44:35.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">The <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control#stale-while-revalidate" rel="nofollow">stale-while-revalidate</a> indicates non standard, but it is in the linked standard.</p>
 <p dir="auto">Note that this standard also has <code class="notranslate">stale-if-error</code>. As far as I can tell that isn't supported in any browsers, but the CDNs etc widely support it.</p>
 <p dir="auto">Fell out of looking at <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3089389467" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39674" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39674/hovercard?comment_id=2907943249&amp;comment_type=issue_comment" href="https://github.com/mdn/content/issues/39674#issuecomment-2907943249">mdn/content#39674 (comment)</a></p>]]></content>
@@ -119,7 +119,7 @@
         <title type="html"><![CDATA[Add the lack of proper gamut mapping in OKLch and Oklab. The browser support is thus only parial.]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26841</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26841"/>
-        <updated>2025-05-23T16:57:45.000Z</updated>
+        <updated>2025-06-01T02:44:58.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54515?u=b3091d8543234ab43ceedae962b178688740b617&v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
 <p dir="auto">The current browser implementation of gamut mapping is buggy and not spec compliant. This has accessibility ramifications (the spec ensures that color contrast is preserved, even if a color is beyond what a user can display, but browser don't respect that invariant in their implementation).</p>
 <h4 dir="auto">Test results and supporting details</h4>
@@ -146,7 +146,7 @@
         <title type="html"><![CDATA[Bug-1550032 addition of unspecified to webextension.api.cookie.SameSiteStatus]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26795</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26795"/>
-        <updated>2025-06-01T00:30:24.000Z</updated>
+        <updated>2025-06-01T02:45:13.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7352080?v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
 <p dir="auto">Provide the updates necessary for <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1550032" rel="nofollow">Bug 1550032</a> Change cookie API to explicitly support sameSite=none. Specifically:</p>
 <ul dir="auto">
@@ -198,7 +198,7 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
         <title type="html"><![CDATA[Unmerge the `Feature-Policy` and `Permissions-Policy` headers]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26708</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26708"/>
-        <updated>2025-05-15T11:04:50.000Z</updated>
+        <updated>2025-06-01T02:45:48.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64103?u=428d3c27c9cd7efc648e17dfe5a4321c3f8e44d2&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">This PR breaks the "alternate name" <code class="notranslate">Feature-Policy</code> into its own feature entries. See <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2860134395" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/25950" data-hovercard-type="issue" data-hovercard-url="/mdn/browser-compat-data/issues/25950/hovercard" href="https://github.com/mdn/browser-compat-data/issues/25950">#25950</a> for further discussion.</p>
@@ -243,7 +243,7 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
         <title type="html"><![CDATA[Update Firefox data for api.SVGElement.load_event]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26686</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26686"/>
-        <updated>2025-05-07T19:05:13.000Z</updated>
+        <updated>2025-06-01T02:46:09.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Firefox and Firefox Android for the <code class="notranslate">load_event</code> member of the <code class="notranslate">SVGElement</code> API. The <code class="notranslate">alternative_name</code> property was incorrectly used in this context.</p>]]></content>
         <author>
             <name>queengooborg</name>
@@ -256,7 +256,7 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
         <title type="html"><![CDATA[Update Safari + iOS data for optgroup.disabled]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26644</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26644"/>
-        <updated>2025-05-27T15:53:08.000Z</updated>
+        <updated>2025-06-01T02:46:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/301798?u=655c6341a7e8431056ec79000d0dfcfc715f679c&v=4" width="64" height="64" alt=""/><br/><h4 dir="auto">Summary</h4>
 <p dir="auto">Record incomplete support for the disabled attribute on optgroup elements in desktop Safari v6 and current versions of iOS Safari.</p>
 <h4 dir="auto">Test results and supporting details</h4>
@@ -282,7 +282,7 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
         <title type="html"><![CDATA[Sync `css.types.attr` with CSS Values 5 extensions]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26624</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26624"/>
-        <updated>2025-05-25T00:47:11.000Z</updated>
+        <updated>2025-06-01T02:46:44.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/495429?u=2f3b9dd03c6c4a961d44a632fe1976c73fa19e1f&v=4" width="64" height="64" alt=""/><br/>
 <h4 dir="auto">Summary</h4>
 <p dir="auto">Changes:</p>
@@ -309,7 +309,7 @@ Release note update made in <a class="issue-link js-issue-link" data-error-text=
         <title type="html"><![CDATA[Firefox 122 added `screen-wake-lock` permission]]></title>
         <id>https://github.com/mdn/browser-compat-data/pull/26566</id>
         <link href="https://github.com/mdn/browser-compat-data/pull/26566"/>
-        <updated>2025-05-13T17:15:41.000Z</updated>
+        <updated>2025-06-01T02:47:00.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5179191?u=8dd92441fba3cb438759ee98862670ba56f2c67d&v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR updates and corrects version values for Firefox and Firefox Android for the <code class="notranslate">permission_screen-wake-lock</code> member of the <code class="notranslate">Permissions</code> API. The data comes from the <a href="https://mdn-bcd-collector.gooborg.com" rel="nofollow">mdn-bcd-collector</a> project (v10.12.11).</p>
 <p dir="auto"><em>Check out the <a href="https://github.com/openwebdocs/mdn-bcd-collector#reviewing-bcd-changes">collector's guide on how to review this PR</a>.</em></p>
 <p dir="auto">Tests Used: <a href="https://mdn-bcd-collector.gooborg.com/tests/api/Permissions/permission_screen-wake-lock" rel="nofollow">https://mdn-bcd-collector.gooborg.com/tests/api/Permissions/permission_screen-wake-lock</a></p>]]></content>
