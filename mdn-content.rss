@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-06-01T14:01:15.188Z</updated>
+    <updated>2025-06-01T15:01:20.324Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Extract inline script/style into separate CSS/HTML blocks]]></title>
+        <id>https://github.com/mdn/content/pull/39744</id>
+        <link href="https://github.com/mdn/content/pull/39744"/>
+        <updated>2025-06-01T14:21:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">I'm avoiding all <code class="notranslate">style</code> and <code class="notranslate">on*</code> attributes and <code class="notranslate">&lt;script&gt;</code> and <code class="notranslate">&lt;style&gt;</code> tags. There are a lot of benefits of this:</p>
+<ol dir="auto">
+<li>Better static analysis (most linters can't work on embedded CSS/JS <em>by default</em>; my checker can, but Prettier cannot)</li>
+<li>Promote good practice of decoupling HTML from CSS/JS</li>
+<li>Avoid CSP problems</li>
+<li>Easier for the reader to separate different parts of the application</li>
+</ol>]]></content>
+        <author>
+            <name>Josh-Cena</name>
+            <email>Josh-Cena@noreply.github.com</email>
+            <uri>https://github.com/Josh-Cena</uri>
+        </author>
+        <published>2025-06-01T14:19:56.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New guide: mask shorthand]]></title>
         <id>https://github.com/mdn/content/pull/39739</id>
@@ -505,27 +524,5 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
             <uri>https://github.com/ajuchacko</uri>
         </author>
         <published>2025-05-20T10:38:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chore: Change ints to 'number' for ProgressEvent properties]]></title>
-        <id>https://github.com/mdn/content/pull/39574</id>
-        <link href="https://github.com/mdn/content/pull/39574"/>
-        <updated>2025-05-30T10:48:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
-<p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
-<p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
-<ul dir="auto">
-<li><a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ" rel="nofollow">Chromium Intent to Ship</a></li>
-<li><a href="https://bugs.webkit.org/show_bug.cgi?id=288688" rel="nofollow">WebKit bug</a></li>
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1943649" rel="nofollow">Gecko bug</a></li>
-</ul>
-<h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #641.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2883460957" data-permission-text="Title is private" data-url="https://github.com/mdn/mdn/issues/641" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/641/hovercard" href="https://github.com/mdn/mdn/issues/641">mdn/mdn#641</a></p>]]></content>
-        <author>
-            <name>bsmth</name>
-            <email>bsmth@noreply.github.com</email>
-            <uri>https://github.com/bsmth</uri>
-        </author>
-        <published>2025-05-19T11:24:17.000Z</published>
     </entry>
 </feed>
