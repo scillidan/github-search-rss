@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-06-02T12:02:14.959Z</updated>
+    <updated>2025-06-02T13:10:43.225Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -484,7 +484,7 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <title type="html"><![CDATA[chore: Change ints to 'number' for ProgressEvent properties]]></title>
         <id>https://github.com/mdn/content/pull/39574</id>
         <link href="https://github.com/mdn/content/pull/39574"/>
-        <updated>2025-06-02T11:03:02.000Z</updated>
+        <updated>2025-06-02T12:05:03.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
 <blockquote>
 <p dir="auto">This allows specifications to use ProgressEvents while not necessarily giving away the exact number of bytes, for example by using numbers between 0 and 1 … with 6 decimal digits</p>
