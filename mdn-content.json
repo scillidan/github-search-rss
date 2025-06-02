@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">I'm avoiding all <code class=\"notranslate\">style</code> and <code class=\"notranslate\">on*</code> attributes and <code class=\"notranslate\">&lt;script&gt;</code> and <code class=\"notranslate\">&lt;style&gt;</code> tags. There are a lot of benefits of this:</p>\n<ol dir=\"auto\">\n<li>Better static analysis (most linters can't work on embedded CSS/JS <em>by default</em>; my checker can, but Prettier cannot)</li>\n<li>Promote good practice of decoupling HTML from CSS/JS</li>\n<li>Avoid CSP problems</li>\n<li>Easier for the reader to separate different parts of the application</li>\n</ol>",
             "url": "https://github.com/mdn/content/pull/39744",
             "title": "Extract inline script/style into separate CSS/HTML blocks",
-            "date_modified": "2025-06-01T14:21:56.000Z",
+            "date_modified": "2025-06-02T08:05:21.000Z",
             "date_published": "2025-06-01T14:19:56.000Z",
             "author": {
                 "name": "Josh-Cena",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Fix some broken CSS</p>",
             "url": "https://github.com/mdn/content/pull/39738",
             "title": "Fix invalid CSS syntax",
-            "date_modified": "2025-05-31T08:45:39.000Z",
+            "date_modified": "2025-06-02T08:13:45.000Z",
             "date_published": "2025-05-31T08:43:25.000Z",
             "author": {
                 "name": "Josh-Cena",
