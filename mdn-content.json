@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/432915?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This PR does some plumbing and updates around the new \"Attacks\" pages that we have:</p>\n<ul dir=\"auto\">\n<li>delete <a href=\"https://developer.mozilla.org/en-US/docs/Web/Security/Types_of_attacks\" rel=\"nofollow\">https://developer.mozilla.org/en-US/docs/Web/Security/Types_of_attacks</a> and redirect to <a href=\"https://developer.mozilla.org/en-US/docs/Web/Security/Attacks\" rel=\"nofollow\">https://developer.mozilla.org/en-US/docs/Web/Security/Attacks</a></li>\n<li>delete the old pages on clickjacking and CSRF, and redirect to the new pages</li>\n<li>rewrite the glossary pages for CSRF and XSS</li>\n<li>update various other links to point to the new attacks pages.</li>\n</ul>\n<p dir=\"auto\">The only bit of \"Types of attacks\" we're losing is the bit on session fixation. I wasn't too sure what to do about this. I don't think the existing text there is particularly helpful, but I'm not ready to write something about this yet. For now I've linked to OWASP instead for session fixation.</p>",
             "url": "https://github.com/mdn/content/pull/39736",
             "title": "Update attacks nav",
-            "date_modified": "2025-06-01T21:07:48.000Z",
+            "date_modified": "2025-06-02T00:04:56.000Z",
             "date_published": "2025-05-30T18:48:29.000Z",
             "author": {
                 "name": "wbamberg",
