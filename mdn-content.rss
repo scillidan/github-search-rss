@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-06-02T01:29:10.997Z</updated>
+    <updated>2025-06-02T02:33:27.364Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
@@ -51,26 +51,6 @@
             <uri>https://github.com/Josh-Cena</uri>
         </author>
         <published>2025-05-31T08:43:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update attacks nav]]></title>
-        <id>https://github.com/mdn/content/pull/39736</id>
-        <link href="https://github.com/mdn/content/pull/39736"/>
-        <updated>2025-06-02T00:58:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/432915?v=4" width="64" height="64" alt=""/><br/><p dir="auto">This PR does some plumbing and updates around the new "Attacks" pages that we have:</p>
-<ul dir="auto">
-<li>delete <a href="https://developer.mozilla.org/en-US/docs/Web/Security/Types_of_attacks" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/Security/Types_of_attacks</a> and redirect to <a href="https://developer.mozilla.org/en-US/docs/Web/Security/Attacks" rel="nofollow">https://developer.mozilla.org/en-US/docs/Web/Security/Attacks</a></li>
-<li>delete the old pages on clickjacking and CSRF, and redirect to the new pages</li>
-<li>rewrite the glossary pages for CSRF and XSS</li>
-<li>update various other links to point to the new attacks pages.</li>
-</ul>
-<p dir="auto">The only bit of "Types of attacks" we're losing is the bit on session fixation. I wasn't too sure what to do about this. I don't think the existing text there is particularly helpful, but I'm not ready to write something about this yet. For now I've linked to OWASP instead for session fixation.</p>]]></content>
-        <author>
-            <name>wbamberg</name>
-            <email>wbamberg@noreply.github.com</email>
-            <uri>https://github.com/wbamberg</uri>
-        </author>
-        <published>2025-05-30T18:48:29.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[FF140 Relnote - CookieStore API update]]></title>
@@ -531,5 +511,27 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
             <uri>https://github.com/ajuchacko</uri>
         </author>
         <published>2025-05-20T10:38:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chore: Change ints to 'number' for ProgressEvent properties]]></title>
+        <id>https://github.com/mdn/content/pull/39574</id>
+        <link href="https://github.com/mdn/content/pull/39574"/>
+        <updated>2025-05-30T10:48:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
+<p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
+<ul dir="auto">
+<li><a href="https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ" rel="nofollow">Chromium Intent to Ship</a></li>
+<li><a href="https://bugs.webkit.org/show_bug.cgi?id=288688" rel="nofollow">WebKit bug</a></li>
+<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1943649" rel="nofollow">Gecko bug</a></li>
+</ul>
+<h3 dir="auto">Related issues and pull requests</h3>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #641.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2883460957" data-permission-text="Title is private" data-url="https://github.com/mdn/mdn/issues/641" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/641/hovercard" href="https://github.com/mdn/mdn/issues/641">mdn/mdn#641</a></p>]]></content>
+        <author>
+            <name>bsmth</name>
+            <email>bsmth@noreply.github.com</email>
+            <uri>https://github.com/bsmth</uri>
+        </author>
+        <published>2025-05-19T11:24:17.000Z</published>
     </entry>
 </feed>
