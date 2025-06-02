@@ -6,17 +6,6 @@
     "description": "mdn/content update content on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">I'm avoiding all <code class=\"notranslate\">style</code> and <code class=\"notranslate\">on*</code> attributes and <code class=\"notranslate\">&lt;script&gt;</code> and <code class=\"notranslate\">&lt;style&gt;</code> tags. There are a lot of benefits of this:</p>\n<ol dir=\"auto\">\n<li>Better static analysis (most linters can't work on embedded CSS/JS <em>by default</em>; my checker can, but Prettier cannot)</li>\n<li>Promote good practice of decoupling HTML from CSS/JS</li>\n<li>Avoid CSP problems</li>\n<li>Easier for the reader to separate different parts of the application</li>\n</ol>",
-            "url": "https://github.com/mdn/content/pull/39744",
-            "title": "Extract inline script/style into separate CSS/HTML blocks",
-            "date_modified": "2025-06-02T08:05:21.000Z",
-            "date_published": "2025-06-01T14:19:56.000Z",
-            "author": {
-                "name": "Josh-Cena",
-                "url": "https://github.com/Josh-Cena"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">i am working on a much deeper guide about all the properties, so that link is red in this PR, but since this is done and that is taking a while, PRing this now.</p>",
             "url": "https://github.com/mdn/content/pull/39739",
             "title": "New guide: mask shorthand",
@@ -25,17 +14,6 @@
             "author": {
                 "name": "estelle",
                 "url": "https://github.com/estelle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Fix some broken CSS</p>",
-            "url": "https://github.com/mdn/content/pull/39738",
-            "title": "Fix invalid CSS syntax",
-            "date_modified": "2025-06-02T08:13:45.000Z",
-            "date_published": "2025-05-31T08:43:25.000Z",
-            "author": {
-                "name": "Josh-Cena",
-                "url": "https://github.com/Josh-Cena"
             }
         },
         {
@@ -215,14 +193,36 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<p dir=\"auto\">The docs are explicit about ints here, and changes have landed allowing doubles:</p>\n<p dir=\"auto\"><a href=\"https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded\" rel=\"nofollow\">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>\n<ul dir=\"auto\">\n<li><a href=\"https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ\" rel=\"nofollow\">Chromium Intent to Ship</a></li>\n<li><a href=\"https://bugs.webkit.org/show_bug.cgi?id=288688\" rel=\"nofollow\">WebKit bug</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1943649\" rel=\"nofollow\">Gecko bug</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #641.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2883460957\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/mdn/issues/641\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/641/hovercard\" href=\"https://github.com/mdn/mdn/issues/641\">mdn/mdn#641</a></p>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h3 dir=\"auto\">Description</h3>\n<blockquote>\n<p dir=\"auto\">This allows specifications to use ProgressEvents while not necessarily giving away the exact number of bytes, for example by using numbers between 0 and 1 … with 6 decimal digits</p>\n</blockquote>\n<p dir=\"auto\">The docs are explicit about ints here, and changes have landed allowing doubles:</p>\n<p dir=\"auto\"><a href=\"https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded\" rel=\"nofollow\">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>\n<ul dir=\"auto\">\n<li><a href=\"https://groups.google.com/a/chromium.org/g/blink-dev/c/NKF_KvkO3kE/m/ewIhz61dAAAJ\" rel=\"nofollow\">Chromium Intent to Ship</a></li>\n<li><a href=\"https://bugs.webkit.org/show_bug.cgi?id=288688\" rel=\"nofollow\">WebKit bug</a></li>\n<li><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1943649\" rel=\"nofollow\">Gecko bug</a></li>\n</ul>\n<h3 dir=\"auto\">Related issues and pull requests</h3>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #641.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2883460957\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/mdn/issues/641\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/mdn/issues/641/hovercard\" href=\"https://github.com/mdn/mdn/issues/641\">mdn/mdn#641</a></p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> BCD: <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3109670711\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/browser-compat-data/issues/26956\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/mdn/browser-compat-data/pull/26956/hovercard\" href=\"https://github.com/mdn/browser-compat-data/pull/26956\">mdn/browser-compat-data#26956</a></li>\n</ul>",
             "url": "https://github.com/mdn/content/pull/39574",
             "title": "chore: Change ints to 'number' for ProgressEvent properties",
-            "date_modified": "2025-06-02T10:41:19.000Z",
+            "date_modified": "2025-06-02T11:03:02.000Z",
             "date_published": "2025-05-19T11:24:17.000Z",
             "author": {
                 "name": "bsmth",
                 "url": "https://github.com/bsmth"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5368500?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">FF139 adds full desktop support for the PRF extension. This adds docs.</p>\n<p dir=\"auto\">Draft, as I am seeking review from engineering first as per <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6\" rel=\"nofollow\">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>\nQuestions inline</p>\n<p dir=\"auto\">Related docs work can be tracked in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3024518451\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39302\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39302/hovercard\" href=\"https://github.com/mdn/content/issues/39302\">#39302</a></p>",
+            "url": "https://github.com/mdn/content/pull/39570",
+            "title": "WebAuthn PRF extension docs",
+            "date_modified": "2025-06-01T23:19:53.000Z",
+            "date_published": "2025-05-19T06:08:16.000Z",
+            "author": {
+                "name": "hamishwillee",
+                "url": "https://github.com/hamishwillee"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/373675?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Spec:</p>\n<blockquote>\n<p dir=\"auto\">Credentials are HTTP cookies, TLS client certificates, and authentication entries (for HTTP authentication).</p>\n</blockquote>\n<p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #39561.\">Closes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3072075294\" data-permission-text=\"Title is private\" data-url=\"https://github.com/mdn/content/issues/39561\" data-hovercard-type=\"issue\" data-hovercard-url=\"/mdn/content/issues/39561/hovercard\" href=\"https://github.com/mdn/content/issues/39561\">#39561</a></p>",
+            "url": "https://github.com/mdn/content/pull/39569",
+            "title": "Edit credentials summary similar to spec",
+            "date_modified": "2025-05-26T22:29:12.000Z",
+            "date_published": "2025-05-19T05:23:06.000Z",
+            "author": {
+                "name": "DanKaplanSES",
+                "url": "https://github.com/DanKaplanSES"
             }
         }
     ]

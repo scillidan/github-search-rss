@@ -2,30 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/mdn-content.rss</id>
     <title>mdn/content update content</title>
-    <updated>2025-06-02T11:01:32.945Z</updated>
+    <updated>2025-06-02T12:02:14.959Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/mdn-content.rss"/>
     <subtitle>mdn/content update content on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[Extract inline script/style into separate CSS/HTML blocks]]></title>
-        <id>https://github.com/mdn/content/pull/39744</id>
-        <link href="https://github.com/mdn/content/pull/39744"/>
-        <updated>2025-06-02T08:05:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">I'm avoiding all <code class="notranslate">style</code> and <code class="notranslate">on*</code> attributes and <code class="notranslate">&lt;script&gt;</code> and <code class="notranslate">&lt;style&gt;</code> tags. There are a lot of benefits of this:</p>
-<ol dir="auto">
-<li>Better static analysis (most linters can't work on embedded CSS/JS <em>by default</em>; my checker can, but Prettier cannot)</li>
-<li>Promote good practice of decoupling HTML from CSS/JS</li>
-<li>Avoid CSP problems</li>
-<li>Easier for the reader to separate different parts of the application</li>
-</ol>]]></content>
-        <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
-        </author>
-        <published>2025-06-01T14:19:56.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[New guide: mask shorthand]]></title>
         <id>https://github.com/mdn/content/pull/39739</id>
@@ -38,19 +19,6 @@
             <uri>https://github.com/estelle</uri>
         </author>
         <published>2025-05-31T18:30:40.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix invalid CSS syntax]]></title>
-        <id>https://github.com/mdn/content/pull/39738</id>
-        <link href="https://github.com/mdn/content/pull/39738"/>
-        <updated>2025-06-02T08:13:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/55398995?u=9f6a9837c9879eceb0abde487a338b92d4e206fc&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Fix some broken CSS</p>]]></content>
-        <author>
-            <name>Josh-Cena</name>
-            <email>Josh-Cena@noreply.github.com</email>
-            <uri>https://github.com/Josh-Cena</uri>
-        </author>
-        <published>2025-05-31T08:43:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[FF140 Relnote - CookieStore API update]]></title>
@@ -516,8 +484,11 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
         <title type="html"><![CDATA[chore: Change ints to 'number' for ProgressEvent properties]]></title>
         <id>https://github.com/mdn/content/pull/39574</id>
         <link href="https://github.com/mdn/content/pull/39574"/>
-        <updated>2025-06-02T10:41:19.000Z</updated>
+        <updated>2025-06-02T11:03:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43580235?u=cae42d5a371dd041072ce6d85a1808de05535be8&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Description</h3>
+<blockquote>
+<p dir="auto">This allows specifications to use ProgressEvents while not necessarily giving away the exact number of bytes, for example by using numbers between 0 and 1 … with 6 decimal digits</p>
+</blockquote>
 <p dir="auto">The docs are explicit about ints here, and changes have landed allowing doubles:</p>
 <p dir="auto"><a href="https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded" rel="nofollow">https://xhr.spec.whatwg.org/#dom-progresseventinit-loaded</a></p>
 <ul dir="auto">
@@ -526,12 +497,48 @@ and which is available as a feature preview in visionOS 2.4. I am an editor of t
 <li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1943649" rel="nofollow">Gecko bug</a></li>
 </ul>
 <h3 dir="auto">Related issues and pull requests</h3>
-<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #641.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2883460957" data-permission-text="Title is private" data-url="https://github.com/mdn/mdn/issues/641" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/641/hovercard" href="https://github.com/mdn/mdn/issues/641">mdn/mdn#641</a></p>]]></content>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #641.">Fixes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2883460957" data-permission-text="Title is private" data-url="https://github.com/mdn/mdn/issues/641" data-hovercard-type="issue" data-hovercard-url="/mdn/mdn/issues/641/hovercard" href="https://github.com/mdn/mdn/issues/641">mdn/mdn#641</a></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> BCD: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3109670711" data-permission-text="Title is private" data-url="https://github.com/mdn/browser-compat-data/issues/26956" data-hovercard-type="pull_request" data-hovercard-url="/mdn/browser-compat-data/pull/26956/hovercard" href="https://github.com/mdn/browser-compat-data/pull/26956">mdn/browser-compat-data#26956</a></li>
+</ul>]]></content>
         <author>
             <name>bsmth</name>
             <email>bsmth@noreply.github.com</email>
             <uri>https://github.com/bsmth</uri>
         </author>
         <published>2025-05-19T11:24:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAuthn PRF extension docs]]></title>
+        <id>https://github.com/mdn/content/pull/39570</id>
+        <link href="https://github.com/mdn/content/pull/39570"/>
+        <updated>2025-06-01T23:19:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5368500?v=4" width="64" height="64" alt=""/><br/><p dir="auto">FF139 adds full desktop support for the PRF extension. This adds docs.</p>
+<p dir="auto">Draft, as I am seeking review from engineering first as per <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6" rel="nofollow">https://bugzilla.mozilla.org/show_bug.cgi?id=1935280#c6</a>.<br>
+Questions inline</p>
+<p dir="auto">Related docs work can be tracked in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3024518451" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39302" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39302/hovercard" href="https://github.com/mdn/content/issues/39302">#39302</a></p>]]></content>
+        <author>
+            <name>hamishwillee</name>
+            <email>hamishwillee@noreply.github.com</email>
+            <uri>https://github.com/hamishwillee</uri>
+        </author>
+        <published>2025-05-19T06:08:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit credentials summary similar to spec]]></title>
+        <id>https://github.com/mdn/content/pull/39569</id>
+        <link href="https://github.com/mdn/content/pull/39569"/>
+        <updated>2025-05-26T22:29:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/373675?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Spec:</p>
+<blockquote>
+<p dir="auto">Credentials are HTTP cookies, TLS client certificates, and authentication entries (for HTTP authentication).</p>
+</blockquote>
+<p dir="auto"><span class="issue-keyword tooltipped tooltipped-se" aria-label="This pull request closes issue #39561.">Closes</span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3072075294" data-permission-text="Title is private" data-url="https://github.com/mdn/content/issues/39561" data-hovercard-type="issue" data-hovercard-url="/mdn/content/issues/39561/hovercard" href="https://github.com/mdn/content/issues/39561">#39561</a></p>]]></content>
+        <author>
+            <name>DanKaplanSES</name>
+            <email>DanKaplanSES@noreply.github.com</email>
+            <uri>https://github.com/DanKaplanSES</uri>
+        </author>
+        <published>2025-05-19T05:23:06.000Z</published>
     </entry>
 </feed>
