@@ -21,6 +21,12 @@ export const SEARCH_ITEMS: RSSItem[] = [
         title: "keypirinha",
         query: "keypirinha sort:updated-desc",
         TYPE: "REPOSITORY",
-        link: `${BASE_URL}/keypirinha-repo.json`
+        link: `${BASE_URL}/keypirinha.json`
+    },
+    {
+        title: "sphinx",
+        query: "sphinx sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/sphinx.json`
     }
 ];
