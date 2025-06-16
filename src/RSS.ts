@@ -34,5 +34,11 @@ export const SEARCH_ITEMS: RSSItem[] = [
         query: "mdbook language:rust sort:updated-desc",
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/mdbook.json`
-    }
+    },
+    {
+        title: "clink",
+        query: "clink language:lua sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/clink.json`
+    },
 ];
