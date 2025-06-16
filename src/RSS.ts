@@ -25,7 +25,13 @@ export const SEARCH_ITEMS: RSSItem[] = [
     },
     {
         title: "sphinx",
-        query: "sphinx sort:updated-desc",
+        query: "sphinx language:python sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/sphinx.json`
+    },
+    {
+        title: "mdbook",
+        query: "sphinx language:rust sort:updated-desc",
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/sphinx.json`
     }
