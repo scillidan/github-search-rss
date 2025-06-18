@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-06-18T09:27:44.392Z</updated>
+    <updated>2025-06-18T10:27:03.508Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[emuell/luals-docs-gen: Lua API documentation generator for mdbooks]]></title>
+        <id>https://github.com/emuell/luals-docs-gen</id>
+        <link href="https://github.com/emuell/luals-docs-gen"/>
+        <updated>2025-06-18T10:26:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11521600?u=45c75eeb10d6e299b0499bafb571a1a1ce756fa5&v=4" width="64" height="64" alt=""/><br/><div>Lua API documentation generator for mdbooks</div>]]></content>
+        <author>
+            <name>emuell</name>
+            <email>emuell@noreply.github.com</email>
+            <uri>https://github.com/emuell</uri>
+        </author>
+        <published>2025-01-20T08:40:48.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VectorInstitute/mdbook-github-authors: A preprocessor for mdbook that creates chapter-level contributor sections featuring authors' GitHub profiles.]]></title>
         <id>https://github.com/VectorInstitute/mdbook-github-authors</id>
@@ -180,7 +193,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2025-06-18T09:17:42.000Z</updated>
+        <updated>2025-06-18T10:04:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/tommilligan</uri>
         </author>
         <published>2022-02-17T02:28:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EngosSoftware/yapp: Yet another preprocessor for mdBook]]></title>
-        <id>https://github.com/EngosSoftware/yapp</id>
-        <link href="https://github.com/EngosSoftware/yapp"/>
-        <updated>2025-06-05T16:19:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/139374188?v=4" width="64" height="64" alt=""/><br/><div>Yet another preprocessor for mdBook</div>]]></content>
-        <author>
-            <name>EngosSoftware</name>
-            <email>EngosSoftware@noreply.github.com</email>
-            <uri>https://github.com/EngosSoftware</uri>
-        </author>
-        <published>2023-11-09T08:48:49.000Z</published>
     </entry>
 </feed>
