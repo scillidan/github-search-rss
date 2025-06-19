@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-06-19T07:24:13.673Z</updated>
+    <updated>2025-06-19T08:33:16.502Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[sphinx-doc/sphinx: The Sphinx documentation generator]]></title>
+        <id>https://github.com/sphinx-doc/sphinx</id>
+        <link href="https://github.com/sphinx-doc/sphinx"/>
+        <updated>2025-06-19T08:23:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9928167?v=4" width="64" height="64" alt=""/><br/><div>The Sphinx documentation generator</div>]]></content>
+        <author>
+            <name>sphinx-doc</name>
+            <email>sphinx-doc@noreply.github.com</email>
+            <uri>https://github.com/sphinx-doc</uri>
+        </author>
+        <published>2015-01-02T10:53:28.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
         <id>https://github.com/readthedocs/readthedocs.org</id>
         <link href="https://github.com/readthedocs/readthedocs.org"/>
-        <updated>2025-06-19T07:12:39.000Z</updated>
+        <updated>2025-06-19T07:52:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
         <author>
             <name>readthedocs</name>
@@ -19,6 +32,19 @@
             <uri>https://github.com/readthedocs</uri>
         </author>
         <published>2010-08-16T19:18:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[t-doc-org/common: Common functionality]]></title>
+        <id>https://github.com/t-doc-org/common</id>
+        <link href="https://github.com/t-doc-org/common"/>
+        <updated>2025-06-19T07:35:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/160118493?v=4" width="64" height="64" alt=""/><br/><div>Common functionality</div>]]></content>
+        <author>
+            <name>t-doc-org</name>
+            <email>t-doc-org@noreply.github.com</email>
+            <uri>https://github.com/t-doc-org</uri>
+        </author>
+        <published>2024-07-23T12:24:21.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ryu22e/cookiecutter-sphinx-revealjs: Cookiecutter Template for sphinx-revealjs]]></title>
@@ -58,19 +84,6 @@
             <uri>https://github.com/esphome</uri>
         </author>
         <published>2018-05-13T09:37:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sphinx-doc/sphinx: The Sphinx documentation generator]]></title>
-        <id>https://github.com/sphinx-doc/sphinx</id>
-        <link href="https://github.com/sphinx-doc/sphinx"/>
-        <updated>2025-06-19T07:05:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9928167?v=4" width="64" height="64" alt=""/><br/><div>The Sphinx documentation generator</div>]]></content>
-        <author>
-            <name>sphinx-doc</name>
-            <email>sphinx-doc@noreply.github.com</email>
-            <uri>https://github.com/sphinx-doc</uri>
-        </author>
-        <published>2015-01-02T10:53:28.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[sphinx-doc/sphinx-doc-translations: Translations for Sphinx's documentation]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/TGAC</uri>
         </author>
         <published>2018-01-04T14:22:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ben-spiller/sphinx-autodocgen: Extension for the Sphinx documentation generator that automatically generates .rst files for your Python modules]]></title>
-        <id>https://github.com/ben-spiller/sphinx-autodocgen</id>
-        <link href="https://github.com/ben-spiller/sphinx-autodocgen"/>
-        <updated>2025-06-18T14:20:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11992588?u=f3365cede45a9dcdacc7b60d7d08da2454faca92&v=4" width="64" height="64" alt=""/><br/><div>Extension for the Sphinx documentation generator that automatically generates .rst files for your Python modules</div>]]></content>
-        <author>
-            <name>ben-spiller</name>
-            <email>ben-spiller@noreply.github.com</email>
-            <uri>https://github.com/ben-spiller</uri>
-        </author>
-        <published>2020-09-06T19:29:45.000Z</published>
     </entry>
 </feed>
