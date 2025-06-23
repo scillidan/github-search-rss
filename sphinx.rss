@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-06-23T15:27:49.156Z</updated>
+    <updated>2025-06-23T16:33:00.254Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[sphinx-doc/sphinx: The Sphinx documentation generator]]></title>
+        <id>https://github.com/sphinx-doc/sphinx</id>
+        <link href="https://github.com/sphinx-doc/sphinx"/>
+        <updated>2025-06-23T16:04:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9928167?v=4" width="64" height="64" alt=""/><br/><div>The Sphinx documentation generator</div>]]></content>
+        <author>
+            <name>sphinx-doc</name>
+            <email>sphinx-doc@noreply.github.com</email>
+            <uri>https://github.com/sphinx-doc</uri>
+        </author>
+        <published>2015-01-02T10:53:28.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[melexis/jira-traceability: Sphinx plugin for creating Jira tickets based on traceable items]]></title>
         <id>https://github.com/melexis/jira-traceability</id>
@@ -37,7 +50,7 @@
         <title type="html"><![CDATA[pydata/pydata-sphinx-theme: A clean, three-column Sphinx theme with Bootstrap for the PyData community]]></title>
         <id>https://github.com/pydata/pydata-sphinx-theme</id>
         <link href="https://github.com/pydata/pydata-sphinx-theme"/>
-        <updated>2025-06-23T11:13:50.000Z</updated>
+        <updated>2025-06-23T15:41:09.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1284191?v=4" width="64" height="64" alt=""/><br/><div>A clean, three-column Sphinx theme with Bootstrap for the PyData community</div>]]></content>
         <author>
             <name>pydata</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/sbrunner</uri>
         </author>
         <published>2013-10-13T09:05:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[scylladb/sphinx-scylladb-theme: The documentation toolchain for Scylla projects.]]></title>
-        <id>https://github.com/scylladb/sphinx-scylladb-theme</id>
-        <link href="https://github.com/scylladb/sphinx-scylladb-theme"/>
-        <updated>2025-06-23T04:35:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14364730?v=4" width="64" height="64" alt=""/><br/><div>The documentation toolchain for Scylla projects.</div>]]></content>
-        <author>
-            <name>scylladb</name>
-            <email>scylladb@noreply.github.com</email>
-            <uri>https://github.com/scylladb</uri>
-        </author>
-        <published>2020-02-29T10:53:43.000Z</published>
     </entry>
 </feed>
