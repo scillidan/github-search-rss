@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/goldendict.rss</id>
     <title>goldendict</title>
-    <updated>2025-06-25T10:28:02.486Z</updated>
+    <updated>2025-06-25T11:21:51.952Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/goldendict.rss"/>
     <subtitle>goldendict on GitHub</subtitle>
@@ -97,19 +97,6 @@
             <uri>https://github.com/jaydenlo08</uri>
         </author>
         <published>2023-02-10T22:02:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[techjfs/ocr-tool: 【WIP】使用RapidOCR/PaddleOCR实现的一个OCR小工具。可以屏幕框选取词、鼠标停靠取词。可以搭配支持命令行的软件使用，比如GoldenDict-ng]]></title>
-        <id>https://github.com/techjfs/ocr-tool</id>
-        <link href="https://github.com/techjfs/ocr-tool"/>
-        <updated>2025-06-01T08:54:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/102205509?v=4" width="64" height="64" alt=""/><br/><div>【WIP】使用RapidOCR/PaddleOCR实现的一个OCR小工具。可以屏幕框选取词、鼠标停靠取词。可以搭配支持命令行的软件使用，比如GoldenDict-ng</div>]]></content>
-        <author>
-            <name>techjfs</name>
-            <email>techjfs@noreply.github.com</email>
-            <uri>https://github.com/techjfs</uri>
-        </author>
-        <published>2025-05-12T09:07:01.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[kzelda/MyGoldenDict: My personal goldendict-dictionaries collection]]></title>
@@ -266,5 +253,18 @@
             <uri>https://github.com/yozhic</uri>
         </author>
         <published>2021-07-01T17:13:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nonwill/GoldenDict-OCR: GoldenDict++：内置大量的官方版本问题的修正；先期添加了一个简单的插件机制，并基于该机制接入了多个 OCR 划词 和 音频播放 引擎；后期在增强易用性的基础上为提高查询效率、减少运行时 CPU 及 内存 占用、降低代码维护难度，完全重构了所有的实现；将来的目标是将功能扩展和词典格式处理抽象为完整的插件实现，以进一步增强应用的扩展性和可维护性。]]></title>
+        <id>https://github.com/nonwill/GoldenDict-OCR</id>
+        <link href="https://github.com/nonwill/GoldenDict-OCR"/>
+        <updated>2025-06-18T15:31:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46510529?u=91351a9ce20bd148a83ddcff14786bacfbf2a79c&v=4" width="64" height="64" alt=""/><br/><div>GoldenDict++：内置大量的官方版本问题的修正；先期添加了一个简单的插件机制，并基于该机制接入了多个 OCR 划词 和 音频播放 引擎；后期在增强易用性的基础上为提高查询效率、减少运行时 CPU 及 内存 占用、降低代码维护难度，完全重构了所有的实现；将来的目标是将功能扩展和词典格式处理抽象为完整的插件实现，以进一步增强应用的扩展性和可维护性。</div>]]></content>
+        <author>
+            <name>nonwill</name>
+            <email>nonwill@noreply.github.com</email>
+            <uri>https://github.com/nonwill</uri>
+        </author>
+        <published>2022-04-06T16:18:32.000Z</published>
     </entry>
 </feed>

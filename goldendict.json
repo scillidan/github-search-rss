@@ -83,17 +83,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/102205509?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>【WIP】使用RapidOCR/PaddleOCR实现的一个OCR小工具。可以屏幕框选取词、鼠标停靠取词。可以搭配支持命令行的软件使用，比如GoldenDict-ng</div>",
-            "url": "https://github.com/techjfs/ocr-tool",
-            "title": "techjfs/ocr-tool: 【WIP】使用RapidOCR/PaddleOCR实现的一个OCR小工具。可以屏幕框选取词、鼠标停靠取词。可以搭配支持命令行的软件使用，比如GoldenDict-ng",
-            "date_modified": "2025-06-01T08:54:34.000Z",
-            "date_published": "2025-05-12T09:07:01.000Z",
-            "author": {
-                "name": "techjfs",
-                "url": "https://github.com/techjfs"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/592467?u=9d32da4cf9d9e97e135241856ae361d2eb86cff1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My personal goldendict-dictionaries collection</div>",
             "url": "https://github.com/kzelda/MyGoldenDict",
             "title": "kzelda/MyGoldenDict: My personal goldendict-dictionaries collection",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "yozhic",
                 "url": "https://github.com/yozhic"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46510529?u=91351a9ce20bd148a83ddcff14786bacfbf2a79c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>GoldenDict++：内置大量的官方版本问题的修正；先期添加了一个简单的插件机制，并基于该机制接入了多个 OCR 划词 和 音频播放 引擎；后期在增强易用性的基础上为提高查询效率、减少运行时 CPU 及 内存 占用、降低代码维护难度，完全重构了所有的实现；将来的目标是将功能扩展和词典格式处理抽象为完整的插件实现，以进一步增强应用的扩展性和可维护性。</div>",
+            "url": "https://github.com/nonwill/GoldenDict-OCR",
+            "title": "nonwill/GoldenDict-OCR: GoldenDict++：内置大量的官方版本问题的修正；先期添加了一个简单的插件机制，并基于该机制接入了多个 OCR 划词 和 音频播放 引擎；后期在增强易用性的基础上为提高查询效率、减少运行时 CPU 及 内存 占用、降低代码维护难度，完全重构了所有的实现；将来的目标是将功能扩展和词典格式处理抽象为完整的插件实现，以进一步增强应用的扩展性和可维护性。",
+            "date_modified": "2025-06-18T15:31:15.000Z",
+            "date_published": "2022-04-06T16:18:32.000Z",
+            "author": {
+                "name": "nonwill",
+                "url": "https://github.com/nonwill"
             }
         }
     ]
