@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-07-13T19:19:23.150Z</updated>
+    <updated>2025-07-13T20:26:11.769Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[python-project-templates/yardang: yardang is a Python library for generating Sphinx documentation]]></title>
+        <id>https://github.com/python-project-templates/yardang</id>
+        <link href="https://github.com/python-project-templates/yardang"/>
+        <updated>2025-07-13T20:20:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/137446063?v=4" width="64" height="64" alt=""/><br/><div>yardang is a Python library for generating Sphinx documentation</div>]]></content>
+        <author>
+            <name>python-project-templates</name>
+            <email>python-project-templates@noreply.github.com</email>
+            <uri>https://github.com/python-project-templates</uri>
+        </author>
+        <published>2024-07-21T17:23:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quadra-Ryo/Easy-versioning-sphinx: A Sphinx extension/tool to manage multi-version and multi-language documentation builds without relying on ReadTheDocs. It automatically detects versions and languages, injects version switchers into your Markdown files, and builds all variants locally.]]></title>
         <id>https://github.com/Quadra-Ryo/Easy-versioning-sphinx</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/adamtheturtle</uri>
         </author>
         <published>2025-01-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[llimeht/hatch-sphinx: Hatchling build plugin for Sphinx documentation]]></title>
-        <id>https://github.com/llimeht/hatch-sphinx</id>
-        <link href="https://github.com/llimeht/hatch-sphinx"/>
-        <updated>2025-07-12T08:22:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8267996?u=64a29c9e33d20a7f6f30ab73f7397e8aee05a492&v=4" width="64" height="64" alt=""/><br/><div>Hatchling build plugin for Sphinx documentation</div>]]></content>
-        <author>
-            <name>llimeht</name>
-            <email>llimeht@noreply.github.com</email>
-            <uri>https://github.com/llimeht</uri>
-        </author>
-        <published>2024-12-03T04:23:54.000Z</published>
     </entry>
 </feed>
