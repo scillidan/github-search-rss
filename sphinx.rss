@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-07-16T02:09:07.146Z</updated>
+    <updated>2025-07-16T04:00:18.121Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[pyvista/pyvista-doc-translations: translated docs for pyvista official document]]></title>
+        <id>https://github.com/pyvista/pyvista-doc-translations</id>
+        <link href="https://github.com/pyvista/pyvista-doc-translations"/>
+        <updated>2025-07-16T03:28:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/50384771?v=4" width="64" height="64" alt=""/><br/><div>translated docs for pyvista official document</div>]]></content>
+        <author>
+            <name>pyvista</name>
+            <email>pyvista@noreply.github.com</email>
+            <uri>https://github.com/pyvista</uri>
+        </author>
+        <published>2020-08-05T08:36:39.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[python-project-templates/yardang: yardang is a Python library for generating Sphinx documentation]]></title>
         <id>https://github.com/python-project-templates/yardang</id>
@@ -45,6 +58,19 @@
             <uri>https://github.com/adamtheturtle</uri>
         </author>
         <published>2024-12-29T12:05:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
+        <id>https://github.com/readthedocs/readthedocs.org</id>
+        <link href="https://github.com/readthedocs/readthedocs.org"/>
+        <updated>2025-07-16T03:01:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
+        <author>
+            <name>readthedocs</name>
+            <email>readthedocs@noreply.github.com</email>
+            <uri>https://github.com/readthedocs</uri>
+        </author>
+        <published>2010-08-16T19:18:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[spokawanvit/test_netlify: Testing netlify + sphinx autodoc]]></title>
@@ -123,19 +149,6 @@
             <uri>https://github.com/spacetelescope</uri>
         </author>
         <published>2017-11-06T17:31:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
-        <id>https://github.com/readthedocs/readthedocs.org</id>
-        <link href="https://github.com/readthedocs/readthedocs.org"/>
-        <updated>2025-07-15T17:54:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
-        <author>
-            <name>readthedocs</name>
-            <email>readthedocs@noreply.github.com</email>
-            <uri>https://github.com/readthedocs</uri>
-        </author>
-        <published>2010-08-16T19:18:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jahn-junior/sphinx-ext-template: Draft template for sphinx extension repositories.]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/sphinx-contrib</uri>
         </author>
         <published>2020-02-19T16:25:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[djeada/Flask-Minimal: The purpose of this template is to provide a starting point for creating new Flask apps that require more than the bare minimum. The README provides instructions for installation on Unix/MacOS as well as using Docker. Additionally, it explains how to generate documentation using Sphinx. ]]></title>
-        <id>https://github.com/djeada/Flask-Minimal</id>
-        <link href="https://github.com/djeada/Flask-Minimal"/>
-        <updated>2025-07-15T08:28:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37275728?u=0d4f04cd03c390311b7039c4d7f69eb2dc5c2485&v=4" width="64" height="64" alt=""/><br/><div>The purpose of this template is to provide a starting point for creating new Flask apps that require more than the bare minimum. The README provides instructions for installation on Unix/MacOS as well as using Docker. Additionally, it explains how to generate documentation using Sphinx. </div>]]></content>
-        <author>
-            <name>djeada</name>
-            <email>djeada@noreply.github.com</email>
-            <uri>https://github.com/djeada</uri>
-        </author>
-        <published>2021-04-17T22:18:46.000Z</published>
     </entry>
 </feed>
