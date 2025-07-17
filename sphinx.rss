@@ -2,23 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-07-16T23:25:27.378Z</updated>
+    <updated>2025-07-17T02:09:24.087Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[Quadra-Ryo/Easy-versioning-sphinx: A Sphinx extension/tool to manage multi-version and multi-language documentation builds without relying on ReadTheDocs. It automatically detects versions and languages, injects version switchers into your Markdown files, and builds all variants locally.]]></title>
-        <id>https://github.com/Quadra-Ryo/Easy-versioning-sphinx</id>
-        <link href="https://github.com/Quadra-Ryo/Easy-versioning-sphinx"/>
-        <updated>2025-07-16T23:18:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84318519?u=8053bf7d6e1cf0f57caaba731902ef23c119c14f&v=4" width="64" height="64" alt=""/><br/><div>A Sphinx extension/tool to manage multi-version and multi-language documentation builds without relying on ReadTheDocs. It automatically detects versions and languages, injects version switchers into your Markdown files, and builds all variants locally.</div>]]></content>
+        <title type="html"><![CDATA[canonical/canonical-sphinx-extensions: Sphinx extensions used by Canonical]]></title>
+        <id>https://github.com/canonical/canonical-sphinx-extensions</id>
+        <link href="https://github.com/canonical/canonical-sphinx-extensions"/>
+        <updated>2025-07-17T02:07:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53057619?v=4" width="64" height="64" alt=""/><br/><div>Sphinx extensions used by Canonical</div>]]></content>
         <author>
-            <name>Quadra-Ryo</name>
-            <email>Quadra-Ryo@noreply.github.com</email>
-            <uri>https://github.com/Quadra-Ryo</uri>
+            <name>canonical</name>
+            <email>canonical@noreply.github.com</email>
+            <uri>https://github.com/canonical</uri>
         </author>
-        <published>2025-07-08T17:49:59.000Z</published>
+        <published>2022-03-30T07:37:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tkoyama010/tvtk-doc-translations: translated docs for tvtk official document]]></title>
+        <id>https://github.com/tkoyama010/tvtk-doc-translations</id>
+        <link href="https://github.com/tkoyama010/tvtk-doc-translations"/>
+        <updated>2025-07-17T00:37:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7513610?u=cd20fc90e54eff349d40cc4cfd5bb53130c7c613&v=4" width="64" height="64" alt=""/><br/><div>translated docs for tvtk official document</div>]]></content>
+        <author>
+            <name>tkoyama010</name>
+            <email>tkoyama010@noreply.github.com</email>
+            <uri>https://github.com/tkoyama010</uri>
+        </author>
+        <published>2020-05-29T21:47:01.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[pyvista/pyvista-doc-translations: translated docs for pyvista official document]]></title>
@@ -45,32 +58,6 @@
             <uri>https://github.com/readthedocs</uri>
         </author>
         <published>2010-08-16T19:18:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[canonical/canonical-sphinx-extensions: Sphinx extensions used by Canonical]]></title>
-        <id>https://github.com/canonical/canonical-sphinx-extensions</id>
-        <link href="https://github.com/canonical/canonical-sphinx-extensions"/>
-        <updated>2025-07-16T21:37:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53057619?v=4" width="64" height="64" alt=""/><br/><div>Sphinx extensions used by Canonical</div>]]></content>
-        <author>
-            <name>canonical</name>
-            <email>canonical@noreply.github.com</email>
-            <uri>https://github.com/canonical</uri>
-        </author>
-        <published>2022-03-30T07:37:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tkoyama010/tvtk-doc-translations: translated docs for tvtk official document]]></title>
-        <id>https://github.com/tkoyama010/tvtk-doc-translations</id>
-        <link href="https://github.com/tkoyama010/tvtk-doc-translations"/>
-        <updated>2025-07-16T20:33:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7513610?u=cd20fc90e54eff349d40cc4cfd5bb53130c7c613&v=4" width="64" height="64" alt=""/><br/><div>translated docs for tvtk official document</div>]]></content>
-        <author>
-            <name>tkoyama010</name>
-            <email>tkoyama010@noreply.github.com</email>
-            <uri>https://github.com/tkoyama010</uri>
-        </author>
-        <published>2020-05-29T21:47:01.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[spacetelescope/jwql: The James Webb Space Telescope Quicklook Application]]></title>
@@ -266,5 +253,18 @@
             <uri>https://github.com/adamtheturtle</uri>
         </author>
         <published>2024-12-29T12:05:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[spokawanvit/test_netlify: Testing netlify + sphinx autodoc]]></title>
+        <id>https://github.com/spokawanvit/test_netlify</id>
+        <link href="https://github.com/spokawanvit/test_netlify"/>
+        <updated>2025-07-15T20:51:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/39176437?v=4" width="64" height="64" alt=""/><br/><div>Testing netlify + sphinx autodoc</div>]]></content>
+        <author>
+            <name>spokawanvit</name>
+            <email>spokawanvit@noreply.github.com</email>
+            <uri>https://github.com/spokawanvit</uri>
+        </author>
+        <published>2025-07-15T20:31:47.000Z</published>
     </entry>
 </feed>
