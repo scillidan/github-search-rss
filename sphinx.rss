@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-08-10T19:19:33.230Z</updated>
+    <updated>2025-08-10T20:27:02.721Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
@@ -151,6 +151,19 @@
         <published>2020-05-29T21:47:01.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
+        <id>https://github.com/readthedocs/readthedocs.org</id>
+        <link href="https://github.com/readthedocs/readthedocs.org"/>
+        <updated>2025-08-10T20:26:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
+        <author>
+            <name>readthedocs</name>
+            <email>readthedocs@noreply.github.com</email>
+            <uri>https://github.com/readthedocs</uri>
+        </author>
+        <published>2010-08-16T19:18:06.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[speedyleion/sphinx-c-autodoc: Use C with sphinx.ext.autodoc]]></title>
         <id>https://github.com/speedyleion/sphinx-c-autodoc</id>
         <link href="https://github.com/speedyleion/sphinx-c-autodoc"/>
@@ -253,18 +266,5 @@
             <uri>https://github.com/openstack</uri>
         </author>
         <published>2017-05-05T18:18:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yjmantilla/package_template: A template for a python package leveraging sphinx for documentation and github actions.]]></title>
-        <id>https://github.com/yjmantilla/package_template</id>
-        <link href="https://github.com/yjmantilla/package_template"/>
-        <updated>2025-08-09T01:47:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36543115?u=277e8afaf01fdf4552a9daff95c4b6d96101dd3e&v=4" width="64" height="64" alt=""/><br/><div>A template for a python package leveraging sphinx for documentation and github actions.</div>]]></content>
-        <author>
-            <name>yjmantilla</name>
-            <email>yjmantilla@noreply.github.com</email>
-            <uri>https://github.com/yjmantilla</uri>
-        </author>
-        <published>2025-08-08T23:33:20.000Z</published>
     </entry>
 </feed>
