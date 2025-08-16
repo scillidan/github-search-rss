@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-08-16T10:24:16.081Z</updated>
+    <updated>2025-08-16T11:19:02.147Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[canonical/pydantic-kitbash: Sphinx extension to auto-generate YAML reference documentation from Pydantic models.]]></title>
+        <id>https://github.com/canonical/pydantic-kitbash</id>
+        <link href="https://github.com/canonical/pydantic-kitbash"/>
+        <updated>2025-08-16T10:39:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53057619?v=4" width="64" height="64" alt=""/><br/><div>Sphinx extension to auto-generate YAML reference documentation from Pydantic models.</div>]]></content>
+        <author>
+            <name>canonical</name>
+            <email>canonical@noreply.github.com</email>
+            <uri>https://github.com/canonical</uri>
+        </author>
+        <published>2025-03-14T17:05:25.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[git-pull/gp-libs: Incubator for pytest and sphinx helpers for git-pull python projects]]></title>
         <id>https://github.com/git-pull/gp-libs</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/adamtheturtle</uri>
         </author>
         <published>2018-11-11T20:49:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
-        <id>https://github.com/readthedocs/readthedocs.org</id>
-        <link href="https://github.com/readthedocs/readthedocs.org"/>
-        <updated>2025-08-15T16:36:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
-        <author>
-            <name>readthedocs</name>
-            <email>readthedocs@noreply.github.com</email>
-            <uri>https://github.com/readthedocs</uri>
-        </author>
-        <published>2010-08-16T19:18:06.000Z</published>
     </entry>
 </feed>
