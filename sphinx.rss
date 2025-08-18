@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-08-18T11:22:39.882Z</updated>
+    <updated>2025-08-18T12:55:34.865Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[asdf-format/sphinx-asdf: Plugin for sphinx for generating documentation from ASDF schemas]]></title>
+        <id>https://github.com/asdf-format/sphinx-asdf</id>
+        <link href="https://github.com/asdf-format/sphinx-asdf"/>
+        <updated>2025-08-18T12:11:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66382551?v=4" width="64" height="64" alt=""/><br/><div>Plugin for sphinx for generating documentation from ASDF schemas</div>]]></content>
+        <author>
+            <name>asdf-format</name>
+            <email>asdf-format@noreply.github.com</email>
+            <uri>https://github.com/asdf-format</uri>
+        </author>
+        <published>2019-03-21T20:40:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mscheltienne/bibclean: A simple bibtex file cleaner for files to be fed to a sphinx documentation build with sphinxcontrib-bibtex.]]></title>
+        <id>https://github.com/mscheltienne/bibclean</id>
+        <link href="https://github.com/mscheltienne/bibclean"/>
+        <updated>2025-08-18T11:56:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/73893616?u=8d59a17fb1004c2e90c7d830a03bc72f803631cb&v=4" width="64" height="64" alt=""/><br/><div>A simple bibtex file cleaner for files to be fed to a sphinx documentation build with sphinxcontrib-bibtex.</div>]]></content>
+        <author>
+            <name>mscheltienne</name>
+            <email>mscheltienne@noreply.github.com</email>
+            <uri>https://github.com/mscheltienne</uri>
+        </author>
+        <published>2022-10-12T13:43:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAP/invoke-plugin-for-sphinx: A plugin for Sphinx which let's you document invoke tasks.]]></title>
+        <id>https://github.com/SAP/invoke-plugin-for-sphinx</id>
+        <link href="https://github.com/SAP/invoke-plugin-for-sphinx"/>
+        <updated>2025-08-18T11:52:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2531208?v=4" width="64" height="64" alt=""/><br/><div>A plugin for Sphinx which let's you document invoke tasks.</div>]]></content>
+        <author>
+            <name>SAP</name>
+            <email>SAP@noreply.github.com</email>
+            <uri>https://github.com/SAP</uri>
+        </author>
+        <published>2023-03-15T08:57:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SAP/swagger-plugin-for-sphinx: A sphinx plugin which renders a OpenAPI specification with Swagger.]]></title>
         <id>https://github.com/SAP/swagger-plugin-for-sphinx</id>
@@ -227,44 +266,5 @@
             <uri>https://github.com/VelocityLapse</uri>
         </author>
         <published>2024-10-03T03:54:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[prokoudine/ardour-manual-sphinx: Port of the Ardour manual to Sphinx]]></title>
-        <id>https://github.com/prokoudine/ardour-manual-sphinx</id>
-        <link href="https://github.com/prokoudine/ardour-manual-sphinx"/>
-        <updated>2025-08-17T15:02:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57467?u=b2bc7ae015627830e0bed24db57fe1594e753595&v=4" width="64" height="64" alt=""/><br/><div>Port of the Ardour manual to Sphinx</div>]]></content>
-        <author>
-            <name>prokoudine</name>
-            <email>prokoudine@noreply.github.com</email>
-            <uri>https://github.com/prokoudine</uri>
-        </author>
-        <published>2025-07-17T20:26:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jucacrispim/aphotoblog: a photoblog extention to sphinx]]></title>
-        <id>https://github.com/jucacrispim/aphotoblog</id>
-        <link href="https://github.com/jucacrispim/aphotoblog"/>
-        <updated>2025-08-17T14:11:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/181743?v=4" width="64" height="64" alt=""/><br/><div>a photoblog extention to sphinx</div>]]></content>
-        <author>
-            <name>jucacrispim</name>
-            <email>jucacrispim@noreply.github.com</email>
-            <uri>https://github.com/jucacrispim</uri>
-        </author>
-        <published>2025-08-17T14:10:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nieyixin/sphinx_blog: A blog site build with Sphinx]]></title>
-        <id>https://github.com/nieyixin/sphinx_blog</id>
-        <link href="https://github.com/nieyixin/sphinx_blog"/>
-        <updated>2025-08-17T12:50:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/146108591?v=4" width="64" height="64" alt=""/><br/><div>A blog site build with Sphinx</div>]]></content>
-        <author>
-            <name>nieyixin</name>
-            <email>nieyixin@noreply.github.com</email>
-            <uri>https://github.com/nieyixin</uri>
-        </author>
-        <published>2024-03-12T14:30:20.000Z</published>
     </entry>
 </feed>
