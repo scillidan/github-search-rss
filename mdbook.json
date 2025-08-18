@@ -6,6 +6,17 @@
     "description": "mdbook on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43995067?u=b018fed22aa02f8b85c6e36b8bfa74a1c7446f78&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)</div>",
+            "url": "https://github.com/HollowMan6/mdbook-pdf",
+            "title": "HollowMan6/mdbook-pdf: A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)",
+            "date_modified": "2025-08-18T08:23:07.000Z",
+            "date_published": "2022-01-18T11:09:43.000Z",
+            "author": {
+                "name": "HollowMan6",
+                "url": "https://github.com/HollowMan6"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168635003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugins for mdBook.</div>",
             "url": "https://github.com/RustForWeb/mdbook-plugins",
             "title": "RustForWeb/mdbook-plugins: Plugins for mdBook.",
@@ -42,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5430905?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>",
             "url": "https://github.com/rust-lang/mdBook",
             "title": "rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust",
-            "date_modified": "2025-08-18T06:59:50.000Z",
+            "date_modified": "2025-08-18T07:40:26.000Z",
             "date_published": "2015-07-07T00:57:25.000Z",
             "author": {
                 "name": "rust-lang",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "swesmith",
                 "url": "https://github.com/swesmith"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/888526?u=1f0dffd72891ec3ec115670913f7742616a4716d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.</div>",
-            "url": "https://github.com/boozook/mdbook-svgbob",
-            "title": "boozook/mdbook-svgbob: SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.",
-            "date_modified": "2025-08-17T07:27:37.000Z",
-            "date_published": "2020-04-11T09:57:00.000Z",
-            "author": {
-                "name": "boozook",
-                "url": "https://github.com/boozook"
             }
         }
     ]

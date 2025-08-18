@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-08-18T07:27:20.192Z</updated>
+    <updated>2025-08-18T08:36:08.975Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[HollowMan6/mdbook-pdf: A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)]]></title>
+        <id>https://github.com/HollowMan6/mdbook-pdf</id>
+        <link href="https://github.com/HollowMan6/mdbook-pdf"/>
+        <updated>2025-08-18T08:23:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43995067?u=b018fed22aa02f8b85c6e36b8bfa74a1c7446f78&v=4" width="64" height="64" alt=""/><br/><div>A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)</div>]]></content>
+        <author>
+            <name>HollowMan6</name>
+            <email>HollowMan6@noreply.github.com</email>
+            <uri>https://github.com/HollowMan6</uri>
+        </author>
+        <published>2022-01-18T11:09:43.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RustForWeb/mdbook-plugins: Plugins for mdBook.]]></title>
         <id>https://github.com/RustForWeb/mdbook-plugins</id>
@@ -50,7 +63,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2025-08-18T06:59:50.000Z</updated>
+        <updated>2025-08-18T07:40:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/swesmith</uri>
         </author>
         <published>2025-08-03T19:57:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[boozook/mdbook-svgbob: SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.]]></title>
-        <id>https://github.com/boozook/mdbook-svgbob</id>
-        <link href="https://github.com/boozook/mdbook-svgbob"/>
-        <updated>2025-08-17T07:27:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/888526?u=1f0dffd72891ec3ec115670913f7742616a4716d&v=4" width="64" height="64" alt=""/><br/><div>SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.</div>]]></content>
-        <author>
-            <name>boozook</name>
-            <email>boozook@noreply.github.com</email>
-            <uri>https://github.com/boozook</uri>
-        </author>
-        <published>2020-04-11T09:57:00.000Z</published>
     </entry>
 </feed>
