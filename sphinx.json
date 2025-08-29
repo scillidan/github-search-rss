@@ -6,14 +6,47 @@
     "description": "sphinx on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7628018?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Documentation site</div>",
+            "url": "https://github.com/syncthing/docs",
+            "title": "syncthing/docs: Documentation site",
+            "date_modified": "2025-08-29T15:11:20.000Z",
+            "date_published": "2015-05-26T07:38:21.000Z",
+            "author": {
+                "name": "syncthing",
+                "url": "https://github.com/syncthing"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159718?u=380aeb7f080829a640b73b3b78e3c18e3945dce4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🌈 Drop-in replacement for Click to make user-friendly and colorful CLI</div>",
             "url": "https://github.com/kdeldycke/click-extra",
             "title": "kdeldycke/click-extra: 🌈 Drop-in replacement for Click to make user-friendly and colorful CLI",
-            "date_modified": "2025-08-29T14:22:08.000Z",
+            "date_modified": "2025-08-29T15:05:44.000Z",
             "date_published": "2021-10-18T08:02:27.000Z",
             "author": {
                 "name": "kdeldycke",
                 "url": "https://github.com/kdeldycke"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/31936682?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An RST directive for injecting a Towncrier-generated changelog draft containing fragments for the unreleased (next) project version. Demo: <a href=\"https://ansible-pylibssh.rtfd.io/changelog\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://ansible-pylibssh.rtfd.io/changelog</a>. Docs: <a href=\"https://sphinxcontrib-towncrier.rtfd.io\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://sphinxcontrib-towncrier.rtfd.io</a></div>",
+            "url": "https://github.com/sphinx-contrib/sphinxcontrib-towncrier",
+            "title": "sphinx-contrib/sphinxcontrib-towncrier: An RST directive for injecting a Towncrier-generated changelog draft containing fragments for the unreleased (next) project version. Demo: https://ansible-pylibssh.rtfd.io/changelog. Docs: https://sphinxcontrib-towncrier.rtfd.io",
+            "date_modified": "2025-08-29T15:03:06.000Z",
+            "date_published": "2020-08-01T14:27:02.000Z",
+            "author": {
+                "name": "sphinx-contrib",
+                "url": "https://github.com/sphinx-contrib"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1962581?u=66dff86645f88c92a4a9530c3e1b14f3d289ff95&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sphinx extension for creating accessible, JavaScript-free, filterable content tabs.</div>",
+            "url": "https://github.com/aputtu/sphinx-filter-tabs",
+            "title": "aputtu/sphinx-filter-tabs: A Sphinx extension for creating accessible, JavaScript-free, filterable content tabs.",
+            "date_modified": "2025-08-29T14:27:52.000Z",
+            "date_published": "2025-08-12T09:16:21.000Z",
+            "author": {
+                "name": "aputtu",
+                "url": "https://github.com/aputtu"
             }
         },
         {
@@ -25,6 +58,17 @@
             "author": {
                 "name": "pyiron",
                 "url": "https://github.com/pyiron"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45919759?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Source for esphome.io documentation files.</div>",
+            "url": "https://github.com/esphome/esphome-docs",
+            "title": "esphome/esphome-docs: Source for esphome.io documentation files.",
+            "date_modified": "2025-08-29T14:58:07.000Z",
+            "date_published": "2018-05-13T09:37:21.000Z",
+            "author": {
+                "name": "esphome",
+                "url": "https://github.com/esphome"
             }
         },
         {
@@ -171,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/45919759?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Source for esphome.io documentation files.</div>",
-            "url": "https://github.com/esphome/esphome-docs",
-            "title": "esphome/esphome-docs: Source for esphome.io documentation files.",
-            "date_modified": "2025-08-29T00:39:09.000Z",
-            "date_published": "2018-05-13T09:37:21.000Z",
-            "author": {
-                "name": "esphome",
-                "url": "https://github.com/esphome"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7513610?u=cd20fc90e54eff349d40cc4cfd5bb53130c7c613&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>translated docs for tvtk official document</div>",
             "url": "https://github.com/tkoyama010/tvtk-doc-translations",
             "title": "tkoyama010/tvtk-doc-translations: translated docs for tvtk official document",
@@ -190,39 +223,6 @@
             "author": {
                 "name": "tkoyama010",
                 "url": "https://github.com/tkoyama010"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2250871?u=95a57f4044c28cf505471c9df8838a4a5e481788&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Easily manage and represent the OSInt data you have collected</div>",
-            "url": "https://github.com/bibi21000/sphinxcontrib-osint",
-            "title": "bibi21000/sphinxcontrib-osint: Easily manage and represent the OSInt data you have collected",
-            "date_modified": "2025-08-29T00:05:48.000Z",
-            "date_published": "2025-05-30T16:41:14.000Z",
-            "author": {
-                "name": "bibi21000",
-                "url": "https://github.com/bibi21000"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277061?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My website - Sphinx, RST, and CI/CD publishing</div>",
-            "url": "https://github.com/aholmes/aaronholmes.net",
-            "title": "aholmes/aaronholmes.net: My website - Sphinx, RST, and CI/CD publishing",
-            "date_modified": "2025-08-28T23:27:23.000Z",
-            "date_published": "2025-07-30T21:10:58.000Z",
-            "author": {
-                "name": "aholmes",
-                "url": "https://github.com/aholmes"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/53057619?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sphinx extension to auto-generate YAML reference documentation from Pydantic models. </div>",
-            "url": "https://github.com/canonical/pydantic-kitbash",
-            "title": "canonical/pydantic-kitbash: Sphinx extension to auto-generate YAML reference documentation from Pydantic models. ",
-            "date_modified": "2025-08-28T23:22:50.000Z",
-            "date_published": "2025-03-14T17:05:25.000Z",
-            "author": {
-                "name": "canonical",
-                "url": "https://github.com/canonical"
             }
         }
     ]
