@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-09-01T11:19:29.253Z</updated>
+    <updated>2025-09-01T12:51:20.434Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[lmbollen/mdbook-drawio: A tool to include drawio diagrams in your mdbook]]></title>
+        <id>https://github.com/lmbollen/mdbook-drawio</id>
+        <link href="https://github.com/lmbollen/mdbook-drawio"/>
+        <updated>2025-09-01T12:26:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10373227?u=5222cf7feff7696819a5ffcf2273c613d61f4302&v=4" width="64" height="64" alt=""/><br/><div>A tool to include drawio diagrams in your mdbook</div>]]></content>
+        <author>
+            <name>lmbollen</name>
+            <email>lmbollen@noreply.github.com</email>
+            <uri>https://github.com/lmbollen</uri>
+        </author>
+        <published>2025-09-01T10:06:03.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[joshrotenberg/mdbook-lint: An mdbook linting tool]]></title>
         <id>https://github.com/joshrotenberg/mdbook-lint</id>
@@ -63,7 +76,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2025-09-01T07:14:21.000Z</updated>
+        <updated>2025-09-01T12:40:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/sspaeti</uri>
         </author>
         <published>2023-06-12T15:54:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[joshrotenberg/mdbook-lint-zed: A Zed editor extension that provides real-time markdown linting for mdBook projects using the mdbook-lint LSP server]]></title>
-        <id>https://github.com/joshrotenberg/mdbook-lint-zed</id>
-        <link href="https://github.com/joshrotenberg/mdbook-lint-zed"/>
-        <updated>2025-08-07T14:10:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3231?u=21706b30fa46c6302cfc2bbc46d583c0eb01704e&v=4" width="64" height="64" alt=""/><br/><div>A Zed editor extension that provides real-time markdown linting for mdBook projects using the mdbook-lint LSP server</div>]]></content>
-        <author>
-            <name>joshrotenberg</name>
-            <email>joshrotenberg@noreply.github.com</email>
-            <uri>https://github.com/joshrotenberg</uri>
-        </author>
-        <published>2025-08-07T14:06:56.000Z</published>
     </entry>
 </feed>
