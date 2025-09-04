@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-09-04T05:22:00.435Z</updated>
+    <updated>2025-09-04T06:33:56.082Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[mythmon/mdbook-rust-doc: Embed Rust doc comments directly into mdBook chapters]]></title>
+        <id>https://github.com/mythmon/mdbook-rust-doc</id>
+        <link href="https://github.com/mythmon/mdbook-rust-doc"/>
+        <updated>2025-09-04T06:19:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/305049?u=edd23c4de8d430053cf24a460f7af80047998acd&v=4" width="64" height="64" alt=""/><br/><div>Embed Rust doc comments directly into mdBook chapters</div>]]></content>
+        <author>
+            <name>mythmon</name>
+            <email>mythmon@noreply.github.com</email>
+            <uri>https://github.com/mythmon</uri>
+        </author>
+        <published>2021-09-30T21:31:31.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/arminha</uri>
         </author>
         <published>2020-05-06T19:57:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sspaeti/mdbook-sspaeti: Convert Wikilinks to my Second Brain links, automatically and validates them.]]></title>
-        <id>https://github.com/sspaeti/mdbook-sspaeti</id>
-        <link href="https://github.com/sspaeti/mdbook-sspaeti"/>
-        <updated>2025-08-08T18:55:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/689199?v=4" width="64" height="64" alt=""/><br/><div>Convert Wikilinks to my Second Brain links, automatically and validates them.</div>]]></content>
-        <author>
-            <name>sspaeti</name>
-            <email>sspaeti@noreply.github.com</email>
-            <uri>https://github.com/sspaeti</uri>
-        </author>
-        <published>2023-06-12T15:54:48.000Z</published>
     </entry>
 </feed>
