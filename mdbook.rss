@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-09-10T22:21:11.271Z</updated>
+    <updated>2025-09-10T23:19:57.107Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[rust-lang/book: The Rust Programming Language]]></title>
+        <id>https://github.com/rust-lang/book</id>
+        <link href="https://github.com/rust-lang/book"/>
+        <updated>2025-09-10T22:56:06.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>The Rust Programming Language</div>]]></content>
+        <author>
+            <name>rust-lang</name>
+            <email>rust-lang@noreply.github.com</email>
+            <uri>https://github.com/rust-lang</uri>
+        </author>
+        <published>2015-12-11T22:49:49.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BUB97/mdbook-translator]]></title>
         <id>https://github.com/BUB97/mdbook-translator</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/codedstructure</uri>
         </author>
         <published>2024-09-25T13:51:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cdsupina/mdbook-bom: Processor for generating bills of materials from mdbook front matter.]]></title>
-        <id>https://github.com/cdsupina/mdbook-bom</id>
-        <link href="https://github.com/cdsupina/mdbook-bom"/>
-        <updated>2025-08-28T20:36:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15306815?u=46d402a243307feba473fe6691795d34991ea354&v=4" width="64" height="64" alt=""/><br/><div>Processor for generating bills of materials from mdbook front matter.</div>]]></content>
-        <author>
-            <name>cdsupina</name>
-            <email>cdsupina@noreply.github.com</email>
-            <uri>https://github.com/cdsupina</uri>
-        </author>
-        <published>2025-08-25T23:15:05.000Z</published>
     </entry>
 </feed>
