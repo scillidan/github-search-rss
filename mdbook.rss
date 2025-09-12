@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-09-12T22:20:07.441Z</updated>
+    <updated>2025-09-12T23:19:10.453Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2025-09-12T21:14:30.000Z</updated>
+        <updated>2025-09-12T23:14:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -45,19 +45,6 @@
             <uri>https://github.com/rust-lang</uri>
         </author>
         <published>2015-12-11T22:49:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUB97/mdbook-translator]]></title>
-        <id>https://github.com/BUB97/mdbook-translator</id>
-        <link href="https://github.com/BUB97/mdbook-translator"/>
-        <updated>2025-09-12T14:37:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38171815?u=10b5f2d39a738f9e2820fc9fa4ec02f6639c3d39&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>BUB97</name>
-            <email>BUB97@noreply.github.com</email>
-            <uri>https://github.com/BUB97</uri>
-        </author>
-        <published>2025-09-04T07:30:40.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[danieleades/mdbook-d2: D2 diagram generator plugin for MdBook]]></title>
@@ -151,19 +138,6 @@
         <published>2024-07-11T15:20:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[camerondugan/mdbook-tiny: A tiny html renderer for mdbook WIP]]></title>
-        <id>https://github.com/camerondugan/mdbook-tiny</id>
-        <link href="https://github.com/camerondugan/mdbook-tiny"/>
-        <updated>2025-09-07T19:39:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54632731?u=f0c735d57bd5980238823031f870684ae3552ecc&v=4" width="64" height="64" alt=""/><br/><div>A tiny html renderer for mdbook WIP</div>]]></content>
-        <author>
-            <name>camerondugan</name>
-            <email>camerondugan@noreply.github.com</email>
-            <uri>https://github.com/camerondugan</uri>
-        </author>
-        <published>2025-09-06T23:02:15.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dylanowen/mdbook-graphviz]]></title>
         <id>https://github.com/dylanowen/mdbook-graphviz</id>
         <link href="https://github.com/dylanowen/mdbook-graphviz"/>
@@ -255,16 +229,42 @@
         <published>2023-12-04T05:07:20.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[QBayLogic/mdbook-drawio: A tool to include drawio diagrams in your mdbook]]></title>
-        <id>https://github.com/QBayLogic/mdbook-drawio</id>
-        <link href="https://github.com/QBayLogic/mdbook-drawio"/>
-        <updated>2025-09-02T13:33:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/16059461?v=4" width="64" height="64" alt=""/><br/><div>A tool to include drawio diagrams in your mdbook</div>]]></content>
+        <title type="html"><![CDATA[boozook/mdbook-svgbob: SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.]]></title>
+        <id>https://github.com/boozook/mdbook-svgbob</id>
+        <link href="https://github.com/boozook/mdbook-svgbob"/>
+        <updated>2025-09-12T09:34:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/888526?u=1f0dffd72891ec3ec115670913f7742616a4716d&v=4" width="64" height="64" alt=""/><br/><div>SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.</div>]]></content>
         <author>
-            <name>QBayLogic</name>
-            <email>QBayLogic@noreply.github.com</email>
-            <uri>https://github.com/QBayLogic</uri>
+            <name>boozook</name>
+            <email>boozook@noreply.github.com</email>
+            <uri>https://github.com/boozook</uri>
         </author>
-        <published>2025-09-01T10:06:03.000Z</published>
+        <published>2020-04-11T09:57:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[joshrotenberg/mdbook-lint: An mdbook linting tool]]></title>
+        <id>https://github.com/joshrotenberg/mdbook-lint</id>
+        <link href="https://github.com/joshrotenberg/mdbook-lint"/>
+        <updated>2025-09-02T00:50:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3231?u=21706b30fa46c6302cfc2bbc46d583c0eb01704e&v=4" width="64" height="64" alt=""/><br/><div>An mdbook linting tool</div>]]></content>
+        <author>
+            <name>joshrotenberg</name>
+            <email>joshrotenberg@noreply.github.com</email>
+            <uri>https://github.com/joshrotenberg</uri>
+        </author>
+        <published>2025-08-04T01:27:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[codedstructure/mdbook-svgdx: An mdbook preprocessor to convert svgdx code blocks into inline SVG diagrams]]></title>
+        <id>https://github.com/codedstructure/mdbook-svgdx</id>
+        <link href="https://github.com/codedstructure/mdbook-svgdx"/>
+        <updated>2025-08-31T07:06:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/477909?u=a77b1a4f847515887bd8a82e8b287160c78db187&v=4" width="64" height="64" alt=""/><br/><div>An mdbook preprocessor to convert svgdx code blocks into inline SVG diagrams</div>]]></content>
+        <author>
+            <name>codedstructure</name>
+            <email>codedstructure@noreply.github.com</email>
+            <uri>https://github.com/codedstructure</uri>
+        </author>
+        <published>2024-09-25T13:51:10.000Z</published>
     </entry>
 </feed>
