@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-09-18T07:22:29.100Z</updated>
+    <updated>2025-09-18T08:30:04.216Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
@@ -45,6 +45,19 @@
             <uri>https://github.com/rust-lang</uri>
         </author>
         <published>2015-12-11T22:49:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lambdalisue/rs-mdbook-alerts: mdBook preprocessor to add GitHub Flavored Markdown's Alerts to your book]]></title>
+        <id>https://github.com/lambdalisue/rs-mdbook-alerts</id>
+        <link href="https://github.com/lambdalisue/rs-mdbook-alerts"/>
+        <updated>2025-09-18T07:56:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/546312?v=4" width="64" height="64" alt=""/><br/><div>mdBook preprocessor to add GitHub Flavored Markdown's Alerts to your book</div>]]></content>
+        <author>
+            <name>lambdalisue</name>
+            <email>lambdalisue@noreply.github.com</email>
+            <uri>https://github.com/lambdalisue</uri>
+        </author>
+        <published>2024-01-14T17:57:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Roms1383/mdbook-codeblocks: A mdbook preprocessor to prepend customizable vignette to code blocks.]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/esp-rs</uri>
         </author>
         <published>2023-04-26T09:26:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mythmon/mdbook-rust-doc: Embed Rust doc comments directly into mdBook chapters]]></title>
-        <id>https://github.com/mythmon/mdbook-rust-doc</id>
-        <link href="https://github.com/mythmon/mdbook-rust-doc"/>
-        <updated>2025-09-04T06:19:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/305049?u=edd23c4de8d430053cf24a460f7af80047998acd&v=4" width="64" height="64" alt=""/><br/><div>Embed Rust doc comments directly into mdBook chapters</div>]]></content>
-        <author>
-            <name>mythmon</name>
-            <email>mythmon@noreply.github.com</email>
-            <uri>https://github.com/mythmon</uri>
-        </author>
-        <published>2021-09-30T21:31:31.000Z</published>
     </entry>
 </feed>
