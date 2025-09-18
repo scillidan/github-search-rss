@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-09-18T11:18:29.498Z</updated>
+    <updated>2025-09-18T12:48:48.838Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[rust-lang/book: The Rust Programming Language]]></title>
+        <id>https://github.com/rust-lang/book</id>
+        <link href="https://github.com/rust-lang/book"/>
+        <updated>2025-09-18T11:49:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>The Rust Programming Language</div>]]></content>
+        <author>
+            <name>rust-lang</name>
+            <email>rust-lang@noreply.github.com</email>
+            <uri>https://github.com/rust-lang</uri>
+        </author>
+        <published>2015-12-11T22:49:49.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2025-09-18T07:05:35.000Z</updated>
+        <updated>2025-09-18T12:07:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -32,19 +45,6 @@
             <uri>https://github.com/HollowMan6</uri>
         </author>
         <published>2022-01-18T11:09:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rust-lang/book: The Rust Programming Language]]></title>
-        <id>https://github.com/rust-lang/book</id>
-        <link href="https://github.com/rust-lang/book"/>
-        <updated>2025-09-17T13:05:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>The Rust Programming Language</div>]]></content>
-        <author>
-            <name>rust-lang</name>
-            <email>rust-lang@noreply.github.com</email>
-            <uri>https://github.com/rust-lang</uri>
-        </author>
-        <published>2015-12-11T22:49:49.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[lambdalisue/rs-mdbook-alerts: mdBook preprocessor to add GitHub Flavored Markdown's Alerts to your book]]></title>
