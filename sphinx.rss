@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-09-22T22:21:08.276Z</updated>
+    <updated>2025-09-22T23:20:37.208Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[chapel-lang/sphinxcontrib-chapeldomain: Chapel domain for Sphinx.]]></title>
+        <id>https://github.com/chapel-lang/sphinxcontrib-chapeldomain</id>
+        <link href="https://github.com/chapel-lang/sphinxcontrib-chapeldomain"/>
+        <updated>2025-09-22T22:25:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7597261?v=4" width="64" height="64" alt=""/><br/><div>Chapel domain for Sphinx.</div>]]></content>
+        <author>
+            <name>chapel-lang</name>
+            <email>chapel-lang@noreply.github.com</email>
+            <uri>https://github.com/chapel-lang</uri>
+        </author>
+        <published>2015-01-27T00:57:13.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sphinx-gallery/sphinx-gallery: Sphinx extension for automatic generation of an example gallery]]></title>
         <id>https://github.com/sphinx-gallery/sphinx-gallery</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Eshe0922</uri>
         </author>
         <published>2025-09-22T07:28:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[canonical/pydantic-kitbash: Sphinx extension to auto-generate YAML reference documentation from Pydantic models. ]]></title>
-        <id>https://github.com/canonical/pydantic-kitbash</id>
-        <link href="https://github.com/canonical/pydantic-kitbash"/>
-        <updated>2025-09-22T07:09:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53057619?v=4" width="64" height="64" alt=""/><br/><div>Sphinx extension to auto-generate YAML reference documentation from Pydantic models. </div>]]></content>
-        <author>
-            <name>canonical</name>
-            <email>canonical@noreply.github.com</email>
-            <uri>https://github.com/canonical</uri>
-        </author>
-        <published>2025-03-14T17:05:25.000Z</published>
     </entry>
 </feed>
