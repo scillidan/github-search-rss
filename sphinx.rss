@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-10-06T22:21:01.623Z</updated>
+    <updated>2025-10-06T23:20:26.472Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
+        <id>https://github.com/readthedocs/readthedocs.org</id>
+        <link href="https://github.com/readthedocs/readthedocs.org"/>
+        <updated>2025-10-06T22:38:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
+        <author>
+            <name>readthedocs</name>
+            <email>readthedocs@noreply.github.com</email>
+            <uri>https://github.com/readthedocs</uri>
+        </author>
+        <published>2010-08-16T19:18:06.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sunpy/ablog: ABlog for blogging with Sphinx]]></title>
         <id>https://github.com/sunpy/ablog</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/tox-dev</uri>
         </author>
         <published>2015-09-21T20:41:41.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[readthedocs/sphinx-autoapi: A new approach to API documentation in Sphinx.]]></title>
-        <id>https://github.com/readthedocs/sphinx-autoapi</id>
-        <link href="https://github.com/readthedocs/sphinx-autoapi"/>
-        <updated>2025-10-06T16:22:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>A new approach to API documentation in Sphinx.</div>]]></content>
-        <author>
-            <name>readthedocs</name>
-            <email>readthedocs@noreply.github.com</email>
-            <uri>https://github.com/readthedocs</uri>
-        </author>
-        <published>2015-05-29T19:32:28.000Z</published>
     </entry>
 </feed>
