@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-10-14T07:23:49.015Z</updated>
+    <updated>2025-10-14T08:30:11.113Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[esp-rs/no_std-training: Getting-started guide on using the Rust with Espressif SoCs using no_std.]]></title>
+        <id>https://github.com/esp-rs/no_std-training</id>
+        <link href="https://github.com/esp-rs/no_std-training"/>
+        <updated>2025-10-14T08:06:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46717278?v=4" width="64" height="64" alt=""/><br/><div>Getting-started guide on using the Rust with Espressif SoCs using no_std.</div>]]></content>
+        <author>
+            <name>esp-rs</name>
+            <email>esp-rs@noreply.github.com</email>
+            <uri>https://github.com/esp-rs</uri>
+        </author>
+        <published>2023-04-26T09:26:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MR-Addict/mdbook-embedify: A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.]]></title>
+        <id>https://github.com/MR-Addict/mdbook-embedify</id>
+        <link href="https://github.com/MR-Addict/mdbook-embedify"/>
+        <updated>2025-10-14T07:27:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75357598?u=bff59f47c1dc512b4f9c86a36cf5b8a4636d7b46&v=4" width="64" height="64" alt=""/><br/><div>A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.</div>]]></content>
+        <author>
+            <name>MR-Addict</name>
+            <email>MR-Addict@noreply.github.com</email>
+            <uri>https://github.com/MR-Addict</uri>
+        </author>
+        <published>2024-01-09T17:47:37.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[szabgab/mdbooks.code-maven.com: Collection of Public mdBooks]]></title>
         <id>https://github.com/szabgab/mdbooks.code-maven.com</id>
@@ -219,7 +245,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2025-10-13T23:35:05.000Z</updated>
+        <updated>2025-10-14T08:06:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/camerondugan</uri>
         </author>
         <published>2025-09-06T23:02:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[madbrain/mdbook-codetags: mdBook preprocessor to build code snippets from sources. Largely stolen from Robert Nystrom in crafting compilers]]></title>
-        <id>https://github.com/madbrain/mdbook-codetags</id>
-        <link href="https://github.com/madbrain/mdbook-codetags"/>
-        <updated>2025-09-25T20:28:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3942933?v=4" width="64" height="64" alt=""/><br/><div>mdBook preprocessor to build code snippets from sources. Largely stolen from Robert Nystrom in crafting compilers</div>]]></content>
-        <author>
-            <name>madbrain</name>
-            <email>madbrain@noreply.github.com</email>
-            <uri>https://github.com/madbrain</uri>
-        </author>
-        <published>2025-09-21T18:05:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[slowsage/mdbook-pagetoc: Table of contents for mdbook (in sidebar)]]></title>
-        <id>https://github.com/slowsage/mdbook-pagetoc</id>
-        <link href="https://github.com/slowsage/mdbook-pagetoc"/>
-        <updated>2025-09-25T16:25:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84777606?v=4" width="64" height="64" alt=""/><br/><div>Table of contents for mdbook (in sidebar)</div>]]></content>
-        <author>
-            <name>slowsage</name>
-            <email>slowsage@noreply.github.com</email>
-            <uri>https://github.com/slowsage</uri>
-        </author>
-        <published>2022-04-04T22:02:05.000Z</published>
     </entry>
 </feed>
