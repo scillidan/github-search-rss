@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-10-16T09:26:53.369Z</updated>
+    <updated>2025-10-16T10:27:08.369Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[nocomplexity/linkaudit: Linkaudit is a CLI tool to check for broken links in Sphinx or JupyterBook documents.]]></title>
+        <id>https://github.com/nocomplexity/linkaudit</id>
+        <link href="https://github.com/nocomplexity/linkaudit"/>
+        <updated>2025-10-16T10:00:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12949360?u=7b2a55f47b6a0a3966816df03fd534b596b18ee6&v=4" width="64" height="64" alt=""/><br/><div>Linkaudit is a CLI tool to check for broken links in Sphinx or JupyterBook documents.</div>]]></content>
+        <author>
+            <name>nocomplexity</name>
+            <email>nocomplexity@noreply.github.com</email>
+            <uri>https://github.com/nocomplexity</uri>
+        </author>
+        <published>2025-04-05T14:27:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[esphome/esphome-docs: Source for esphome.io documentation files.]]></title>
+        <id>https://github.com/esphome/esphome-docs</id>
+        <link href="https://github.com/esphome/esphome-docs"/>
+        <updated>2025-10-16T10:00:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45919759?v=4" width="64" height="64" alt=""/><br/><div>Source for esphome.io documentation files.</div>]]></content>
+        <author>
+            <name>esphome</name>
+            <email>esphome@noreply.github.com</email>
+            <uri>https://github.com/esphome</uri>
+        </author>
+        <published>2018-05-13T09:37:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[idiap/auto-intersphinx: Auto-intersphinx: automatically generating intersphinx documentation links. This package provides a Sphinx extension that automatically links your project dependencies to the intersphinx catalog.]]></title>
+        <id>https://github.com/idiap/auto-intersphinx</id>
+        <link href="https://github.com/idiap/auto-intersphinx"/>
+        <updated>2025-10-16T09:58:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1338804?v=4" width="64" height="64" alt=""/><br/><div>Auto-intersphinx: automatically generating intersphinx documentation links. This package provides a Sphinx extension that automatically links your project dependencies to the intersphinx catalog.</div>]]></content>
+        <author>
+            <name>idiap</name>
+            <email>idiap@noreply.github.com</email>
+            <uri>https://github.com/idiap</uri>
+        </author>
+        <published>2024-07-05T08:39:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KnowageLabs/Knowage-Documentation: Documentation for Knowage Server]]></title>
+        <id>https://github.com/KnowageLabs/Knowage-Documentation</id>
+        <link href="https://github.com/KnowageLabs/Knowage-Documentation"/>
+        <updated>2025-10-16T09:32:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/27430370?v=4" width="64" height="64" alt=""/><br/><div>Documentation for Knowage Server</div>]]></content>
+        <author>
+            <name>KnowageLabs</name>
+            <email>KnowageLabs@noreply.github.com</email>
+            <uri>https://github.com/KnowageLabs</uri>
+        </author>
+        <published>2018-04-11T15:08:03.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ansys/pyconverter-xml2py: A Python wrapper to convert XML documentation into Python source code with its Sphinx documentation.]]></title>
         <id>https://github.com/ansys/pyconverter-xml2py</id>
@@ -19,19 +71,6 @@
             <uri>https://github.com/ansys</uri>
         </author>
         <published>2023-04-18T13:06:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KnowageLabs/Knowage-Documentation: Documentation for Knowage Server]]></title>
-        <id>https://github.com/KnowageLabs/Knowage-Documentation</id>
-        <link href="https://github.com/KnowageLabs/Knowage-Documentation"/>
-        <updated>2025-10-16T09:12:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/27430370?v=4" width="64" height="64" alt=""/><br/><div>Documentation for Knowage Server</div>]]></content>
-        <author>
-            <name>KnowageLabs</name>
-            <email>KnowageLabs@noreply.github.com</email>
-            <uri>https://github.com/KnowageLabs</uri>
-        </author>
-        <published>2018-04-11T15:08:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[rmoralespp/sphinxlinter: A lightweight Python linter for checking Sphinx docstrings]]></title>
@@ -227,44 +266,5 @@
             <uri>https://github.com/tkoyama010</uri>
         </author>
         <published>2020-05-29T21:47:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[attakei/sphinx-revealjs: HTML Presentation builder for Pythonista]]></title>
-        <id>https://github.com/attakei/sphinx-revealjs</id>
-        <link href="https://github.com/attakei/sphinx-revealjs"/>
-        <updated>2025-10-15T22:32:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/668834?u=5afcc5948b65d0a50e48b5fa14e7e0cdf382bf62&v=4" width="64" height="64" alt=""/><br/><div>HTML Presentation builder for Pythonista</div>]]></content>
-        <author>
-            <name>attakei</name>
-            <email>attakei@noreply.github.com</email>
-            <uri>https://github.com/attakei</uri>
-        </author>
-        <published>2018-10-30T04:52:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[getodk/docs: The documentation for all the ODK tools. This is one of the most popular artifacts our community produces. It's built in Sphinx. ✨📚✨]]></title>
-        <id>https://github.com/getodk/docs</id>
-        <link href="https://github.com/getodk/docs"/>
-        <updated>2025-10-15T21:24:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6222985?v=4" width="64" height="64" alt=""/><br/><div>The documentation for all the ODK tools. This is one of the most popular artifacts our community produces. It's built in Sphinx. ✨📚✨</div>]]></content>
-        <author>
-            <name>getodk</name>
-            <email>getodk@noreply.github.com</email>
-            <uri>https://github.com/getodk</uri>
-        </author>
-        <published>2017-05-30T17:45:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[brightway-lca/brightway-documentation: 📚🌿 readthedocs.org Sphinx Documentation for Brightway]]></title>
-        <id>https://github.com/brightway-lca/brightway-documentation</id>
-        <link href="https://github.com/brightway-lca/brightway-documentation"/>
-        <updated>2025-10-15T20:11:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26960762?v=4" width="64" height="64" alt=""/><br/><div>📚🌿 readthedocs.org Sphinx Documentation for Brightway</div>]]></content>
-        <author>
-            <name>brightway-lca</name>
-            <email>brightway-lca@noreply.github.com</email>
-            <uri>https://github.com/brightway-lca</uri>
-        </author>
-        <published>2022-09-29T05:14:46.000Z</published>
     </entry>
 </feed>
