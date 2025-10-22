@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-10-22T08:34:29.811Z</updated>
+    <updated>2025-10-22T09:28:14.183Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[mekras/sphinx-doc: Docker image of Sphinx documentation generator]]></title>
+        <id>https://github.com/mekras/sphinx-doc</id>
+        <link href="https://github.com/mekras/sphinx-doc"/>
+        <updated>2025-10-22T09:21:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/192067?u=efb6281d8823ae79cc31f2c316eb095b39abec98&v=4" width="64" height="64" alt=""/><br/><div>Docker image of Sphinx documentation generator</div>]]></content>
+        <author>
+            <name>mekras</name>
+            <email>mekras@noreply.github.com</email>
+            <uri>https://github.com/mekras</uri>
+        </author>
+        <published>2019-02-13T12:21:36.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KnowageLabs/Knowage-Documentation: Documentation for Knowage Server]]></title>
         <id>https://github.com/KnowageLabs/Knowage-Documentation</id>
         <link href="https://github.com/KnowageLabs/Knowage-Documentation"/>
-        <updated>2025-10-22T08:26:51.000Z</updated>
+        <updated>2025-10-22T08:58:16.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/27430370?v=4" width="64" height="64" alt=""/><br/><div>Documentation for Knowage Server</div>]]></content>
         <author>
             <name>KnowageLabs</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/pyodide</uri>
         </author>
         <published>2017-01-31T19:11:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[andreascaglioni/python-project-template: A small python project to showcase good programming and software practices such as testing, documentation, CI/CD.  This project implements a small dependence-free Calculator API (Operation, OperationRegistry, Calculator) that can register and compose simple mathematical operations.]]></title>
-        <id>https://github.com/andreascaglioni/python-project-template</id>
-        <link href="https://github.com/andreascaglioni/python-project-template"/>
-        <updated>2025-10-21T12:21:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/32566292?u=fc5683cd76ce64f361cc7b733aca23025fc68e99&v=4" width="64" height="64" alt=""/><br/><div>A small python project to showcase good programming and software practices such as testing, documentation, CI/CD.  This project implements a small dependence-free Calculator API (Operation, OperationRegistry, Calculator) that can register and compose simple mathematical operations.</div>]]></content>
-        <author>
-            <name>andreascaglioni</name>
-            <email>andreascaglioni@noreply.github.com</email>
-            <uri>https://github.com/andreascaglioni</uri>
-        </author>
-        <published>2025-10-10T16:16:16.000Z</published>
     </entry>
 </feed>
