@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-11-04T19:19:51.873Z</updated>
+    <updated>2025-11-04T20:28:28.778Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[astropy/sphinx-astropy: Sphinx functionality for Astropy]]></title>
+        <id>https://github.com/astropy/sphinx-astropy</id>
+        <link href="https://github.com/astropy/sphinx-astropy"/>
+        <updated>2025-11-04T20:25:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/847984?v=4" width="64" height="64" alt=""/><br/><div>Sphinx functionality for Astropy</div>]]></content>
+        <author>
+            <name>astropy</name>
+            <email>astropy@noreply.github.com</email>
+            <uri>https://github.com/astropy</uri>
+        </author>
+        <published>2018-01-29T15:17:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[astropy/sphinx-automodapi: Sphinx extension for generating API documentation]]></title>
+        <id>https://github.com/astropy/sphinx-automodapi</id>
+        <link href="https://github.com/astropy/sphinx-automodapi"/>
+        <updated>2025-11-04T20:21:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/847984?v=4" width="64" height="64" alt=""/><br/><div>Sphinx extension for generating API documentation</div>]]></content>
+        <author>
+            <name>astropy</name>
+            <email>astropy@noreply.github.com</email>
+            <uri>https://github.com/astropy</uri>
+        </author>
+        <published>2016-11-06T23:08:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
+        <id>https://github.com/readthedocs/readthedocs.org</id>
+        <link href="https://github.com/readthedocs/readthedocs.org"/>
+        <updated>2025-11-04T20:05:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
+        <author>
+            <name>readthedocs</name>
+            <email>readthedocs@noreply.github.com</email>
+            <uri>https://github.com/readthedocs</uri>
+        </author>
+        <published>2010-08-16T19:18:06.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sphinx-doc/sphinx: The Sphinx documentation generator]]></title>
         <id>https://github.com/sphinx-doc/sphinx</id>
@@ -71,19 +110,6 @@
             <uri>https://github.com/KnowageLabs</uri>
         </author>
         <published>2018-04-11T15:08:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
-        <id>https://github.com/readthedocs/readthedocs.org</id>
-        <link href="https://github.com/readthedocs/readthedocs.org"/>
-        <updated>2025-11-04T16:34:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
-        <author>
-            <name>readthedocs</name>
-            <email>readthedocs@noreply.github.com</email>
-            <uri>https://github.com/readthedocs</uri>
-        </author>
-        <published>2010-08-16T19:18:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peopl3s/clean-architecture-fastapi-project-template: Clean architecture FastAPI project template ]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/ftnext</uri>
         </author>
         <published>2025-11-02T13:24:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyFavoriteColorIsRain/Sphinx5: Zadanie 5 ze sphinxa.]]></title>
-        <id>https://github.com/MyFavoriteColorIsRain/Sphinx5</id>
-        <link href="https://github.com/MyFavoriteColorIsRain/Sphinx5"/>
-        <updated>2025-11-04T11:13:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/102030614?v=4" width="64" height="64" alt=""/><br/><div>Zadanie 5 ze sphinxa.</div>]]></content>
-        <author>
-            <name>MyFavoriteColorIsRain</name>
-            <email>MyFavoriteColorIsRain@noreply.github.com</email>
-            <uri>https://github.com/MyFavoriteColorIsRain</uri>
-        </author>
-        <published>2025-11-04T11:12:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[python-jsonschema/sphinx-json-schema-spec: Sphinx interlinking support for the JSON Schema specifications]]></title>
-        <id>https://github.com/python-jsonschema/sphinx-json-schema-spec</id>
-        <link href="https://github.com/python-jsonschema/sphinx-json-schema-spec"/>
-        <updated>2025-11-04T11:05:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/100241624?v=4" width="64" height="64" alt=""/><br/><div>Sphinx interlinking support for the JSON Schema specifications</div>]]></content>
-        <author>
-            <name>python-jsonschema</name>
-            <email>python-jsonschema@noreply.github.com</email>
-            <uri>https://github.com/python-jsonschema</uri>
-        </author>
-        <published>2022-08-17T07:57:16.000Z</published>
     </entry>
 </feed>
