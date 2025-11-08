@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-11-08T17:18:57.948Z</updated>
+    <updated>2025-11-08T18:32:00.743Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[HollowMan6/mdbook-pdf: A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)]]></title>
+        <id>https://github.com/HollowMan6/mdbook-pdf</id>
+        <link href="https://github.com/HollowMan6/mdbook-pdf"/>
+        <updated>2025-11-08T17:37:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43995067?u=b018fed22aa02f8b85c6e36b8bfa74a1c7446f78&v=4" width="64" height="64" alt=""/><br/><div>A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)</div>]]></content>
+        <author>
+            <name>HollowMan6</name>
+            <email>HollowMan6@noreply.github.com</email>
+            <uri>https://github.com/HollowMan6</uri>
+        </author>
+        <published>2022-01-18T11:09:43.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[rust-lang/book: The Rust Programming Language]]></title>
         <id>https://github.com/rust-lang/book</id>
         <link href="https://github.com/rust-lang/book"/>
-        <updated>2025-11-08T17:11:08.000Z</updated>
+        <updated>2025-11-08T17:59:50.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>The Rust Programming Language</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/CompEng0001</uri>
         </author>
         <published>2025-10-09T05:42:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CompEng0001/mdbook-gitinfo: An mdBook preprocessor to inject Git commit metadata into generated books]]></title>
-        <id>https://github.com/CompEng0001/mdbook-gitinfo</id>
-        <link href="https://github.com/CompEng0001/mdbook-gitinfo"/>
-        <updated>2025-10-29T07:47:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/40290417?u=77c1fe932d4f18cf33d1140b9fc4be83dec9ae02&v=4" width="64" height="64" alt=""/><br/><div>An mdBook preprocessor to inject Git commit metadata into generated books</div>]]></content>
-        <author>
-            <name>CompEng0001</name>
-            <email>CompEng0001@noreply.github.com</email>
-            <uri>https://github.com/CompEng0001</uri>
-        </author>
-        <published>2025-06-24T14:04:37.000Z</published>
     </entry>
 </feed>
