@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-11-22T15:22:27.573Z</updated>
+    <updated>2025-11-22T16:28:39.473Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[max-heller/mdbook-pandoc: A mdbook backend powered by Pandoc.]]></title>
+        <id>https://github.com/max-heller/mdbook-pandoc</id>
+        <link href="https://github.com/max-heller/mdbook-pandoc"/>
+        <updated>2025-11-22T15:22:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25730408?u=2e71007bb7176f6e37c7195c02dfe57cbca122d3&v=4" width="64" height="64" alt=""/><br/><div>A mdbook backend powered by Pandoc.</div>]]></content>
+        <author>
+            <name>max-heller</name>
+            <email>max-heller@noreply.github.com</email>
+            <uri>https://github.com/max-heller</uri>
+        </author>
+        <published>2023-11-16T04:43:08.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[daviddrysdale/mdbook-shiftinclude:  mdBook preprocessor for file inclusion with shift]]></title>
         <id>https://github.com/daviddrysdale/mdbook-shiftinclude</id>
@@ -128,7 +141,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2025-11-22T01:55:57.000Z</updated>
+        <updated>2025-11-22T15:45:56.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/google</uri>
         </author>
         <published>2023-03-21T15:57:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[badboy/mdbook-mermaid: A preprocessor for mdbook to add mermaid support]]></title>
-        <id>https://github.com/badboy/mdbook-mermaid</id>
-        <link href="https://github.com/badboy/mdbook-mermaid"/>
-        <updated>2025-11-19T11:14:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2129?u=3e8cc2f7e6368ad40230cc4a65c4798f40e7f433&v=4" width="64" height="64" alt=""/><br/><div>A preprocessor for mdbook to add mermaid support</div>]]></content>
-        <author>
-            <name>badboy</name>
-            <email>badboy@noreply.github.com</email>
-            <uri>https://github.com/badboy</uri>
-        </author>
-        <published>2018-07-18T13:42:52.000Z</published>
     </entry>
 </feed>
