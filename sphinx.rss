@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-11-25T15:28:42.994Z</updated>
+    <updated>2025-11-25T16:34:56.132Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[theislab/scanpydoc: Collection of Sphinx extensions similar to (but more flexible than) numpydoc]]></title>
+        <id>https://github.com/theislab/scanpydoc</id>
+        <link href="https://github.com/theislab/scanpydoc"/>
+        <updated>2025-11-25T16:20:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22319415?v=4" width="64" height="64" alt=""/><br/><div>Collection of Sphinx extensions similar to (but more flexible than) numpydoc</div>]]></content>
+        <author>
+            <name>theislab</name>
+            <email>theislab@noreply.github.com</email>
+            <uri>https://github.com/theislab</uri>
+        </author>
+        <published>2019-01-03T14:28:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
+        <id>https://github.com/readthedocs/readthedocs.org</id>
+        <link href="https://github.com/readthedocs/readthedocs.org"/>
+        <updated>2025-11-25T16:02:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
+        <author>
+            <name>readthedocs</name>
+            <email>readthedocs@noreply.github.com</email>
+            <uri>https://github.com/readthedocs</uri>
+        </author>
+        <published>2010-08-16T19:18:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adamtheturtle/sphinx-notionbuilder: Sphinx builder for Notion]]></title>
+        <id>https://github.com/adamtheturtle/sphinx-notionbuilder</id>
+        <link href="https://github.com/adamtheturtle/sphinx-notionbuilder"/>
+        <updated>2025-11-25T15:33:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/797801?u=8405c059930dd979d8a80924bfca8162762b61c1&v=4" width="64" height="64" alt=""/><br/><div>Sphinx builder for Notion</div>]]></content>
+        <author>
+            <name>adamtheturtle</name>
+            <email>adamtheturtle@noreply.github.com</email>
+            <uri>https://github.com/adamtheturtle</uri>
+        </author>
+        <published>2025-08-19T09:48:59.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[useblocks/sphinx-needs: Adds needs/requirements to sphinx]]></title>
         <id>https://github.com/useblocks/sphinx-needs</id>
@@ -34,19 +73,6 @@
         <published>2022-09-03T21:02:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
-        <id>https://github.com/readthedocs/readthedocs.org</id>
-        <link href="https://github.com/readthedocs/readthedocs.org"/>
-        <updated>2025-11-25T14:58:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
-        <author>
-            <name>readthedocs</name>
-            <email>readthedocs@noreply.github.com</email>
-            <uri>https://github.com/readthedocs</uri>
-        </author>
-        <published>2010-08-16T19:18:06.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Institut-Quantique-UdeS/Presentation-Plateforme-CHP: Code source du site internet (Sphinx) présentant les ressources disponibles à l'IQ]]></title>
         <id>https://github.com/Institut-Quantique-UdeS/Presentation-Plateforme-CHP</id>
         <link href="https://github.com/Institut-Quantique-UdeS/Presentation-Plateforme-CHP"/>
@@ -58,19 +84,6 @@
             <uri>https://github.com/Institut-Quantique-UdeS</uri>
         </author>
         <published>2022-05-19T15:26:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adamtheturtle/sphinx-notionbuilder: Sphinx builder for Notion]]></title>
-        <id>https://github.com/adamtheturtle/sphinx-notionbuilder</id>
-        <link href="https://github.com/adamtheturtle/sphinx-notionbuilder"/>
-        <updated>2025-11-25T14:34:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/797801?u=8405c059930dd979d8a80924bfca8162762b61c1&v=4" width="64" height="64" alt=""/><br/><div>Sphinx builder for Notion</div>]]></content>
-        <author>
-            <name>adamtheturtle</name>
-            <email>adamtheturtle@noreply.github.com</email>
-            <uri>https://github.com/adamtheturtle</uri>
-        </author>
-        <published>2025-08-19T09:48:59.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[cenZO00/autopack: 🚀 Simplify running, sharing, and shipping Hugging Face models with autopack; it quantizes and exports to multiple formats effortlessly.]]></title>
@@ -245,7 +258,7 @@
         <title type="html"><![CDATA[sphinx-doc/sphinx: The Sphinx documentation generator]]></title>
         <id>https://github.com/sphinx-doc/sphinx</id>
         <link href="https://github.com/sphinx-doc/sphinx"/>
-        <updated>2025-11-25T13:40:32.000Z</updated>
+        <updated>2025-11-25T16:24:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9928167?v=4" width="64" height="64" alt=""/><br/><div>The Sphinx documentation generator</div>]]></content>
         <author>
             <name>sphinx-doc</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/sphinx-doc</uri>
         </author>
         <published>2015-01-02T10:53:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ansys/ansys-sphinx-theme: Ansys corporate theme for Sphinx pages]]></title>
-        <id>https://github.com/ansys/ansys-sphinx-theme</id>
-        <link href="https://github.com/ansys/ansys-sphinx-theme"/>
-        <updated>2025-11-25T05:41:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/66023092?v=4" width="64" height="64" alt=""/><br/><div>Ansys corporate theme for Sphinx pages</div>]]></content>
-        <author>
-            <name>ansys</name>
-            <email>ansys@noreply.github.com</email>
-            <uri>https://github.com/ansys</uri>
-        </author>
-        <published>2021-05-24T16:14:20.000Z</published>
     </entry>
 </feed>
