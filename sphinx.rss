@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-11-26T13:38:24.922Z</updated>
+    <updated>2025-11-26T14:27:10.014Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[coldfix/sphinx-code-tabs: Sphinx extension for adding alternative code-blocks as selectable tabs]]></title>
+        <id>https://github.com/coldfix/sphinx-code-tabs</id>
+        <link href="https://github.com/coldfix/sphinx-code-tabs"/>
+        <updated>2025-11-26T14:07:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1816880?v=4" width="64" height="64" alt=""/><br/><div>Sphinx extension for adding alternative code-blocks as selectable tabs</div>]]></content>
+        <author>
+            <name>coldfix</name>
+            <email>coldfix@noreply.github.com</email>
+            <uri>https://github.com/coldfix</uri>
+        </author>
+        <published>2020-10-10T01:32:28.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
         <id>https://github.com/readthedocs/readthedocs.org</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/casangi</uri>
         </author>
         <published>2020-07-02T13:18:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[git-pull/gp-libs: Incubator for pytest and sphinx helpers for git-pull python projects]]></title>
-        <id>https://github.com/git-pull/gp-libs</id>
-        <link href="https://github.com/git-pull/gp-libs"/>
-        <updated>2025-11-25T21:28:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1690793?v=4" width="64" height="64" alt=""/><br/><div>Incubator for pytest and sphinx helpers for git-pull python projects</div>]]></content>
-        <author>
-            <name>git-pull</name>
-            <email>git-pull@noreply.github.com</email>
-            <uri>https://github.com/git-pull</uri>
-        </author>
-        <published>2022-09-03T21:02:26.000Z</published>
     </entry>
 </feed>
