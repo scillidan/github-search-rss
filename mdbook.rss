@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2025-11-27T23:23:06.144Z</updated>
+    <updated>2025-11-28T01:56:56.596Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[lzanini/mdbook-katex: A preprocessor for mdBook, rendering LaTex equations to HTML at build time.]]></title>
+        <id>https://github.com/lzanini/mdbook-katex</id>
+        <link href="https://github.com/lzanini/mdbook-katex"/>
+        <updated>2025-11-28T00:44:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/71221149?v=4" width="64" height="64" alt=""/><br/><div>A preprocessor for mdBook, rendering LaTex equations to HTML at build time.</div>]]></content>
+        <author>
+            <name>lzanini</name>
+            <email>lzanini@noreply.github.com</email>
+            <uri>https://github.com/lzanini</uri>
+        </author>
+        <published>2020-11-18T00:47:39.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VinEckSie/sealed-in-rust: 📘 Sealed in Rust — Learn cryptography by coding it in Rust. From XOR to Ed25519 — domain-driven, real-world systems, safe crates, and ZKP-ready code.]]></title>
         <id>https://github.com/VinEckSie/sealed-in-rust</id>
@@ -154,7 +167,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2025-11-27T21:06:28.000Z</updated>
+        <updated>2025-11-28T00:32:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/marxin</uri>
         </author>
         <published>2024-10-22T03:26:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[codedstructure/mdbook-svgdx: An mdbook preprocessor to convert svgdx code blocks into inline SVG diagrams]]></title>
-        <id>https://github.com/codedstructure/mdbook-svgdx</id>
-        <link href="https://github.com/codedstructure/mdbook-svgdx"/>
-        <updated>2025-11-23T17:45:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/477909?u=a77b1a4f847515887bd8a82e8b287160c78db187&v=4" width="64" height="64" alt=""/><br/><div>An mdbook preprocessor to convert svgdx code blocks into inline SVG diagrams</div>]]></content>
-        <author>
-            <name>codedstructure</name>
-            <email>codedstructure@noreply.github.com</email>
-            <uri>https://github.com/codedstructure</uri>
-        </author>
-        <published>2024-09-25T13:51:10.000Z</published>
     </entry>
 </feed>

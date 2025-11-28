@@ -6,6 +6,17 @@
     "description": "mdbook on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/71221149?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A preprocessor for mdBook, rendering LaTex equations to HTML at build time.</div>",
+            "url": "https://github.com/lzanini/mdbook-katex",
+            "title": "lzanini/mdbook-katex: A preprocessor for mdBook, rendering LaTex equations to HTML at build time.",
+            "date_modified": "2025-11-28T00:44:57.000Z",
+            "date_published": "2020-11-18T00:47:39.000Z",
+            "author": {
+                "name": "lzanini",
+                "url": "https://github.com/lzanini"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/159125909?u=018def8607e363374f77a9680c60d67166aebadb&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>📘 Sealed in Rust — Learn cryptography by coding it in Rust. From XOR to Ed25519 — domain-driven, real-world systems, safe crates, and ZKP-ready code.</div>",
             "url": "https://github.com/VinEckSie/sealed-in-rust",
             "title": "VinEckSie/sealed-in-rust: 📘 Sealed in Rust — Learn cryptography by coding it in Rust. From XOR to Ed25519 — domain-driven, real-world systems, safe crates, and ZKP-ready code.",
@@ -130,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5430905?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>",
             "url": "https://github.com/rust-lang/mdBook",
             "title": "rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust",
-            "date_modified": "2025-11-27T21:06:28.000Z",
+            "date_modified": "2025-11-28T00:32:06.000Z",
             "date_published": "2015-07-07T00:57:25.000Z",
             "author": {
                 "name": "rust-lang",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "marxin",
                 "url": "https://github.com/marxin"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/477909?u=a77b1a4f847515887bd8a82e8b287160c78db187&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>An mdbook preprocessor to convert svgdx code blocks into inline SVG diagrams</div>",
-            "url": "https://github.com/codedstructure/mdbook-svgdx",
-            "title": "codedstructure/mdbook-svgdx: An mdbook preprocessor to convert svgdx code blocks into inline SVG diagrams",
-            "date_modified": "2025-11-23T17:45:12.000Z",
-            "date_published": "2024-09-25T13:51:10.000Z",
-            "author": {
-                "name": "codedstructure",
-                "url": "https://github.com/codedstructure"
             }
         }
     ]
