@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-12-09T16:34:27.541Z</updated>
+    <updated>2025-12-09T17:25:57.356Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[sphinx-toolbox/extras_require_demos: Demonstrations of the "extras_require" Sphinx extension.]]></title>
+        <id>https://github.com/sphinx-toolbox/extras_require_demos</id>
+        <link href="https://github.com/sphinx-toolbox/extras_require_demos"/>
+        <updated>2025-12-09T16:50:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75883961?v=4" width="64" height="64" alt=""/><br/><div>Demonstrations of the "extras_require" Sphinx extension.</div>]]></content>
+        <author>
+            <name>sphinx-toolbox</name>
+            <email>sphinx-toolbox@noreply.github.com</email>
+            <uri>https://github.com/sphinx-toolbox</uri>
+        </author>
+        <published>2020-07-17T07:47:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[canonical/pydantic-kitbash: Sphinx extension to auto-generate YAML reference documentation from Pydantic models. ]]></title>
+        <id>https://github.com/canonical/pydantic-kitbash</id>
+        <link href="https://github.com/canonical/pydantic-kitbash"/>
+        <updated>2025-12-09T16:48:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53057619?v=4" width="64" height="64" alt=""/><br/><div>Sphinx extension to auto-generate YAML reference documentation from Pydantic models. </div>]]></content>
+        <author>
+            <name>canonical</name>
+            <email>canonical@noreply.github.com</email>
+            <uri>https://github.com/canonical</uri>
+        </author>
+        <published>2025-03-14T17:05:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jacobtomlinson/sphinx-llm: LLM extensions for Sphinx]]></title>
+        <id>https://github.com/jacobtomlinson/sphinx-llm</id>
+        <link href="https://github.com/jacobtomlinson/sphinx-llm"/>
+        <updated>2025-12-09T16:35:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1610850?u=7ddae8ab809f082f5f8d2ef1603e47a5cd0bebf8&v=4" width="64" height="64" alt=""/><br/><div>LLM extensions for Sphinx</div>]]></content>
+        <author>
+            <name>jacobtomlinson</name>
+            <email>jacobtomlinson@noreply.github.com</email>
+            <uri>https://github.com/jacobtomlinson</uri>
+        </author>
+        <published>2024-11-28T09:28:27.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[theislab/scanpydoc: Collection of Sphinx extensions similar to (but more flexible than) numpydoc]]></title>
         <id>https://github.com/theislab/scanpydoc</id>
@@ -227,44 +266,5 @@
             <uri>https://github.com/TeachBooks</uri>
         </author>
         <published>2025-11-11T13:24:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sphinx-toolbox/sphinx-pyproject: Move some of your Sphinx configuration into pyproject.toml]]></title>
-        <id>https://github.com/sphinx-toolbox/sphinx-pyproject</id>
-        <link href="https://github.com/sphinx-toolbox/sphinx-pyproject"/>
-        <updated>2025-12-09T09:34:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75883961?v=4" width="64" height="64" alt=""/><br/><div>Move some of your Sphinx configuration into pyproject.toml</div>]]></content>
-        <author>
-            <name>sphinx-toolbox</name>
-            <email>sphinx-toolbox@noreply.github.com</email>
-            <uri>https://github.com/sphinx-toolbox</uri>
-        </author>
-        <published>2021-03-22T21:54:57.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sphinx-toolbox/sphinx-debuginfo: A Sphinx extension to include debugging information in the output.]]></title>
-        <id>https://github.com/sphinx-toolbox/sphinx-debuginfo</id>
-        <link href="https://github.com/sphinx-toolbox/sphinx-debuginfo"/>
-        <updated>2025-12-09T09:30:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75883961?v=4" width="64" height="64" alt=""/><br/><div>A Sphinx extension to include debugging information in the output.</div>]]></content>
-        <author>
-            <name>sphinx-toolbox</name>
-            <email>sphinx-toolbox@noreply.github.com</email>
-            <uri>https://github.com/sphinx-toolbox</uri>
-        </author>
-        <published>2021-03-09T12:07:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAP/invoke-plugin-for-sphinx: A plugin for Sphinx which let's you document invoke tasks.]]></title>
-        <id>https://github.com/SAP/invoke-plugin-for-sphinx</id>
-        <link href="https://github.com/SAP/invoke-plugin-for-sphinx"/>
-        <updated>2025-12-09T08:00:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2531208?v=4" width="64" height="64" alt=""/><br/><div>A plugin for Sphinx which let's you document invoke tasks.</div>]]></content>
-        <author>
-            <name>SAP</name>
-            <email>SAP@noreply.github.com</email>
-            <uri>https://github.com/SAP</uri>
-        </author>
-        <published>2023-03-15T08:57:23.000Z</published>
     </entry>
 </feed>
