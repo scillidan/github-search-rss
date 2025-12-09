@@ -6,6 +6,61 @@
     "description": "sphinx on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75883961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sphinx extension to show default values in documentation.</div>",
+            "url": "https://github.com/sphinx-toolbox/default_values",
+            "title": "sphinx-toolbox/default_values: Sphinx extension to show default values in documentation.",
+            "date_modified": "2025-12-09T22:10:25.000Z",
+            "date_published": "2020-07-25T16:51:19.000Z",
+            "author": {
+                "name": "sphinx-toolbox",
+                "url": "https://github.com/sphinx-toolbox"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1610850?u=7ddae8ab809f082f5f8d2ef1603e47a5cd0bebf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LLM extensions for Sphinx</div>",
+            "url": "https://github.com/jacobtomlinson/sphinx-llm",
+            "title": "jacobtomlinson/sphinx-llm: LLM extensions for Sphinx",
+            "date_modified": "2025-12-09T22:05:13.000Z",
+            "date_published": "2024-11-28T09:28:27.000Z",
+            "author": {
+                "name": "jacobtomlinson",
+                "url": "https://github.com/jacobtomlinson"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8050853?u=b636e1761278becfb9ea7344e43f01929cf87cf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extension to flake8-rst-docstrings to filter out warnings related to Sphinx's built in options.</div>",
+            "url": "https://github.com/domdfcoding/flake8-rst-docstrings-sphinx",
+            "title": "domdfcoding/flake8-rst-docstrings-sphinx: Extension to flake8-rst-docstrings to filter out warnings related to Sphinx's built in options.",
+            "date_modified": "2025-12-09T21:45:33.000Z",
+            "date_published": "2020-10-21T22:09:45.000Z",
+            "author": {
+                "name": "domdfcoding",
+                "url": "https://github.com/domdfcoding"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75883961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Populate the Sphinx 'intersphinx_mapping' dictionary from the project's requirements.</div>",
+            "url": "https://github.com/sphinx-toolbox/seed_intersphinx_mapping",
+            "title": "sphinx-toolbox/seed_intersphinx_mapping: Populate the Sphinx 'intersphinx_mapping' dictionary from the project's requirements.",
+            "date_modified": "2025-12-09T21:37:57.000Z",
+            "date_published": "2020-08-18T21:05:23.000Z",
+            "author": {
+                "name": "sphinx-toolbox",
+                "url": "https://github.com/sphinx-toolbox"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8050853?u=b636e1761278becfb9ea7344e43f01929cf87cf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tools to expand Python's enum module.</div>",
+            "url": "https://github.com/domdfcoding/enum_tools",
+            "title": "domdfcoding/enum_tools: Tools to expand Python's enum module.",
+            "date_modified": "2025-12-09T21:35:47.000Z",
+            "date_published": "2020-06-10T08:27:36.000Z",
+            "author": {
+                "name": "domdfcoding",
+                "url": "https://github.com/domdfcoding"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/212126999?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🚀 Simplify running, sharing, and shipping Hugging Face models with autopack; it quantizes and exports to multiple formats effortlessly.</div>",
             "url": "https://github.com/cenZO00/autopack",
             "title": "cenZO00/autopack: 🚀 Simplify running, sharing, and shipping Hugging Face models with autopack; it quantizes and exports to multiple formats effortlessly.",
@@ -25,28 +80,6 @@
             "author": {
                 "name": "readthedocs",
                 "url": "https://github.com/readthedocs"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1610850?u=7ddae8ab809f082f5f8d2ef1603e47a5cd0bebf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>LLM extensions for Sphinx</div>",
-            "url": "https://github.com/jacobtomlinson/sphinx-llm",
-            "title": "jacobtomlinson/sphinx-llm: LLM extensions for Sphinx",
-            "date_modified": "2025-12-09T18:24:59.000Z",
-            "date_published": "2024-11-28T09:28:27.000Z",
-            "author": {
-                "name": "jacobtomlinson",
-                "url": "https://github.com/jacobtomlinson"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8050853?u=b636e1761278becfb9ea7344e43f01929cf87cf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Tools to expand Python's enum module.</div>",
-            "url": "https://github.com/domdfcoding/enum_tools",
-            "title": "domdfcoding/enum_tools: Tools to expand Python's enum module.",
-            "date_modified": "2025-12-09T18:24:06.000Z",
-            "date_published": "2020-06-10T08:27:36.000Z",
-            "author": {
-                "name": "domdfcoding",
-                "url": "https://github.com/domdfcoding"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "python-jsonschema",
                 "url": "https://github.com/python-jsonschema"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/797801?u=8405c059930dd979d8a80924bfca8162762b61c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Extensions for Sphinx which allow substitutions</div>",
-            "url": "https://github.com/adamtheturtle/sphinx-substitution-extensions",
-            "title": "adamtheturtle/sphinx-substitution-extensions: Extensions for Sphinx which allow substitutions",
-            "date_modified": "2025-12-09T11:10:21.000Z",
-            "date_published": "2018-11-11T20:49:44.000Z",
-            "author": {
-                "name": "adamtheturtle",
-                "url": "https://github.com/adamtheturtle"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8050853?u=b636e1761278becfb9ea7344e43f01929cf87cf8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This module does nothing.</div>",
-            "url": "https://github.com/domdfcoding/dummy_wx",
-            "title": "domdfcoding/dummy_wx: This module does nothing.",
-            "date_modified": "2025-12-09T10:21:36.000Z",
-            "date_published": "2019-07-11T19:21:13.000Z",
-            "author": {
-                "name": "domdfcoding",
-                "url": "https://github.com/domdfcoding"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88681382?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Flake8 plugin to check docstrings for double backticked strings which should be links to the Python documentation.</div>",
-            "url": "https://github.com/python-formate/flake8-sphinx-links",
-            "title": "python-formate/flake8-sphinx-links: A Flake8 plugin to check docstrings for double backticked strings which should be links to the Python documentation.",
-            "date_modified": "2025-12-09T10:20:41.000Z",
-            "date_published": "2020-07-15T07:04:38.000Z",
-            "author": {
-                "name": "python-formate",
-                "url": "https://github.com/python-formate"
             }
         }
     ]
