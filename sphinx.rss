@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2025-12-28T02:23:51.812Z</updated>
+    <updated>2025-12-28T04:10:56.290Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[xinetzone/tao: Dive into Python!]]></title>
+        <id>https://github.com/xinetzone/tao</id>
+        <link href="https://github.com/xinetzone/tao"/>
+        <updated>2025-12-28T03:39:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30319120?u=0d3fb34207ca80a1243883965127e4749a0f01c2&v=4" width="64" height="64" alt=""/><br/><div>Dive into Python!</div>]]></content>
+        <author>
+            <name>xinetzone</name>
+            <email>xinetzone@noreply.github.com</email>
+            <uri>https://github.com/xinetzone</uri>
+        </author>
+        <published>2021-12-12T13:30:56.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[jshwi/docsig: Check signature params for proper documentation]]></title>
         <id>https://github.com/jshwi/docsig</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/sphinx-toolbox</uri>
         </author>
         <published>2021-03-09T12:07:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sphinx-toolbox/sphinx-jinja2-compat: Patches Jinja2 v3 to restore compatibility with earlier Sphinx versions.]]></title>
-        <id>https://github.com/sphinx-toolbox/sphinx-jinja2-compat</id>
-        <link href="https://github.com/sphinx-toolbox/sphinx-jinja2-compat"/>
-        <updated>2025-12-26T18:53:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75883961?v=4" width="64" height="64" alt=""/><br/><div>Patches Jinja2 v3 to restore compatibility with earlier Sphinx versions.</div>]]></content>
-        <author>
-            <name>sphinx-toolbox</name>
-            <email>sphinx-toolbox@noreply.github.com</email>
-            <uri>https://github.com/sphinx-toolbox</uri>
-        </author>
-        <published>2022-03-29T16:43:59.000Z</published>
     </entry>
 </feed>
