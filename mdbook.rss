@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2026-01-01T11:23:29.511Z</updated>
+    <updated>2026-01-01T12:55:08.349Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
@@ -19,6 +19,19 @@
             <uri>https://github.com/danieleades</uri>
         </author>
         <published>2022-12-24T09:40:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
+        <id>https://github.com/rust-lang/mdBook</id>
+        <link href="https://github.com/rust-lang/mdBook"/>
+        <updated>2026-01-01T11:41:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
+        <author>
+            <name>rust-lang</name>
+            <email>rust-lang@noreply.github.com</email>
+            <uri>https://github.com/rust-lang</uri>
+        </author>
+        <published>2015-07-07T00:57:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[dcampbell24/mdbook-djot: Djot plugin for mdBook.]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/aRustyDev</uri>
         </author>
         <published>2025-12-23T07:04:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aRustyDev/mdbook-ref-resolver: MDBook preprocessor to expand short references (adr:, docs:, gh:, etc.) to full paths]]></title>
-        <id>https://github.com/aRustyDev/mdbook-ref-resolver</id>
-        <link href="https://github.com/aRustyDev/mdbook-ref-resolver"/>
-        <updated>2025-12-23T06:45:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36318507?u=53e48f89fa0e38a8e7aa77d3adfba17afd72c638&v=4" width="64" height="64" alt=""/><br/><div>MDBook preprocessor to expand short references (adr:, docs:, gh:, etc.) to full paths</div>]]></content>
-        <author>
-            <name>aRustyDev</name>
-            <email>aRustyDev@noreply.github.com</email>
-            <uri>https://github.com/aRustyDev</uri>
-        </author>
-        <published>2025-12-23T05:06:43.000Z</published>
     </entry>
 </feed>
