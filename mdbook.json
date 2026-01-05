@@ -6,10 +6,21 @@
     "description": "mdbook on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/168635003?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Plugins for mdBook.</div>",
+            "url": "https://github.com/RustForWeb/mdbook-plugins",
+            "title": "RustForWeb/mdbook-plugins: Plugins for mdBook.",
+            "date_modified": "2026-01-05T00:37:49.000Z",
+            "date_published": "2024-07-11T15:20:03.000Z",
+            "author": {
+                "name": "RustForWeb",
+                "url": "https://github.com/RustForWeb"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/36318507?u=53e48f89fa0e38a8e7aa77d3adfba17afd72c638&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>HTMX-enhanced alternative backend for mdBook with server-side rendering, authorization, and audience scopes</div>",
             "url": "https://github.com/aRustyDev/mdbook-htmx",
             "title": "aRustyDev/mdbook-htmx: HTMX-enhanced alternative backend for mdBook with server-side rendering, authorization, and audience scopes",
-            "date_modified": "2026-01-04T23:19:26.000Z",
+            "date_modified": "2026-01-04T23:35:14.000Z",
             "date_published": "2026-01-04T22:29:39.000Z",
             "author": {
                 "name": "aRustyDev",
@@ -163,7 +174,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5430905?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>",
             "url": "https://github.com/rust-lang/mdBook",
             "title": "rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust",
-            "date_modified": "2026-01-04T20:50:38.000Z",
+            "date_modified": "2026-01-05T01:09:03.000Z",
             "date_published": "2015-07-07T00:57:25.000Z",
             "author": {
                 "name": "rust-lang",
@@ -212,17 +223,6 @@
             "author": {
                 "name": "guyernest",
                 "url": "https://github.com/guyernest"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/21016014?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A mdbook preprocessor to prepend customizable vignette to code blocks.</div>",
-            "url": "https://github.com/Roms1383/mdbook-codeblocks",
-            "title": "Roms1383/mdbook-codeblocks: A mdbook preprocessor to prepend customizable vignette to code blocks.",
-            "date_modified": "2025-12-30T19:37:45.000Z",
-            "date_published": "2023-04-23T02:27:08.000Z",
-            "author": {
-                "name": "Roms1383",
-                "url": "https://github.com/Roms1383"
             }
         }
     ]
