@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2026-01-30T17:39:15.726Z</updated>
+    <updated>2026-01-30T18:53:42.327Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[cgroening/rs-mdbook-obsidian-links: mdBook preprocessor to convert Obsidian wiki-links ([[link#section|text]]) to standard Markdown links]]></title>
+        <id>https://github.com/cgroening/rs-mdbook-obsidian-links</id>
+        <link href="https://github.com/cgroening/rs-mdbook-obsidian-links"/>
+        <updated>2026-01-30T18:02:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/114770097?v=4" width="64" height="64" alt=""/><br/><div>mdBook preprocessor to convert Obsidian wiki-links ([[link#section|text]]) to standard Markdown links</div>]]></content>
+        <author>
+            <name>cgroening</name>
+            <email>cgroening@noreply.github.com</email>
+            <uri>https://github.com/cgroening</uri>
+        </author>
+        <published>2026-01-30T17:49:27.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[saylesss88/mdbook-content-collections: mdbook preprocessor to bring Astro style content collections to mdbook]]></title>
         <id>https://github.com/saylesss88/mdbook-content-collections</id>
@@ -154,7 +167,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2026-01-30T08:21:37.000Z</updated>
+        <updated>2026-01-30T18:15:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/ferrous-systems</uri>
         </author>
         <published>2023-04-18T13:28:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HollowMan6/mdbook-pdf: A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)]]></title>
-        <id>https://github.com/HollowMan6/mdbook-pdf</id>
-        <link href="https://github.com/HollowMan6/mdbook-pdf"/>
-        <updated>2026-01-25T22:21:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/43995067?u=b018fed22aa02f8b85c6e36b8bfa74a1c7446f78&v=4" width="64" height="64" alt=""/><br/><div>A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)</div>]]></content>
-        <author>
-            <name>HollowMan6</name>
-            <email>HollowMan6@noreply.github.com</email>
-            <uri>https://github.com/HollowMan6</uri>
-        </author>
-        <published>2022-01-18T11:09:43.000Z</published>
     </entry>
 </feed>
