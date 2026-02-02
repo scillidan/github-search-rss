@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2026-02-02T05:03:12.755Z</updated>
+    <updated>2026-02-02T07:10:17.139Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[google/mdbook-i18n-helpers: Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.]]></title>
+        <id>https://github.com/google/mdbook-i18n-helpers</id>
+        <link href="https://github.com/google/mdbook-i18n-helpers"/>
+        <updated>2026-02-02T05:03:17.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="64" height="64" alt=""/><br/><div>Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.</div>]]></content>
+        <author>
+            <name>google</name>
+            <email>google@noreply.github.com</email>
+            <uri>https://github.com/google</uri>
+        </author>
+        <published>2023-03-21T15:57:18.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CoralPink/mdbook-tailor: This is a preprocessor for mdbook. Explicitly setting the width and height of image elements will reduce layout deviations and improve CLS.]]></title>
         <id>https://github.com/CoralPink/mdbook-tailor</id>
@@ -76,7 +89,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2026-02-02T01:22:30.000Z</updated>
+        <updated>2026-02-02T06:30:18.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/francisco-perez-sorrosal</uri>
         </author>
         <published>2021-02-09T07:05:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[obox-systems/wasi-mdbook-demo]]></title>
-        <id>https://github.com/obox-systems/wasi-mdbook-demo</id>
-        <link href="https://github.com/obox-systems/wasi-mdbook-demo"/>
-        <updated>2026-01-20T13:26:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96278591?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>obox-systems</name>
-            <email>obox-systems@noreply.github.com</email>
-            <uri>https://github.com/obox-systems</uri>
-        </author>
-        <published>2023-10-11T01:39:20.000Z</published>
     </entry>
 </feed>
