@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2026-02-03T21:40:58.015Z</updated>
+    <updated>2026-02-03T22:36:31.380Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[CoralPink/mdbook-tailor: This is a preprocessor for mdbook. Explicitly setting the width and height of image elements will reduce layout deviations and improve CLS.]]></title>
+        <id>https://github.com/CoralPink/mdbook-tailor</id>
+        <link href="https://github.com/CoralPink/mdbook-tailor"/>
+        <updated>2026-02-03T22:12:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30016220?u=463337c35925ead47f8f73de9ebaa90f1680ea41&v=4" width="64" height="64" alt=""/><br/><div>This is a preprocessor for mdbook. Explicitly setting the width and height of image elements will reduce layout deviations and improve CLS.</div>]]></content>
+        <author>
+            <name>CoralPink</name>
+            <email>CoralPink@noreply.github.com</email>
+            <uri>https://github.com/CoralPink</uri>
+        </author>
+        <published>2023-03-14T09:38:48.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RustForWeb/mdbook-plugins: Plugins for mdBook.]]></title>
         <id>https://github.com/RustForWeb/mdbook-plugins</id>
@@ -19,6 +32,19 @@
             <uri>https://github.com/RustForWeb</uri>
         </author>
         <published>2024-07-11T15:20:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
+        <id>https://github.com/rust-lang/mdBook</id>
+        <link href="https://github.com/rust-lang/mdBook"/>
+        <updated>2026-02-03T22:11:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
+        <author>
+            <name>rust-lang</name>
+            <email>rust-lang@noreply.github.com</email>
+            <uri>https://github.com/rust-lang</uri>
+        </author>
+        <published>2015-07-07T00:57:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MR-Addict/mdbook-embedify: A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.]]></title>
@@ -73,19 +99,6 @@
         <published>2025-08-04T01:27:18.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
-        <id>https://github.com/rust-lang/mdBook</id>
-        <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2026-02-03T16:25:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
-        <author>
-            <name>rust-lang</name>
-            <email>rust-lang@noreply.github.com</email>
-            <uri>https://github.com/rust-lang</uri>
-        </author>
-        <published>2015-07-07T00:57:25.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ferrous-systems/mdslides: A tool for turning mdbooks into slide shows]]></title>
         <id>https://github.com/ferrous-systems/mdslides</id>
         <link href="https://github.com/ferrous-systems/mdslides"/>
@@ -123,19 +136,6 @@
             <uri>https://github.com/google</uri>
         </author>
         <published>2023-03-21T15:57:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoralPink/mdbook-tailor: This is a preprocessor for mdbook. Explicitly setting the width and height of image elements will reduce layout deviations and improve CLS.]]></title>
-        <id>https://github.com/CoralPink/mdbook-tailor</id>
-        <link href="https://github.com/CoralPink/mdbook-tailor"/>
-        <updated>2026-02-02T04:46:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30016220?u=463337c35925ead47f8f73de9ebaa90f1680ea41&v=4" width="64" height="64" alt=""/><br/><div>This is a preprocessor for mdbook. Explicitly setting the width and height of image elements will reduce layout deviations and improve CLS.</div>]]></content>
-        <author>
-            <name>CoralPink</name>
-            <email>CoralPink@noreply.github.com</email>
-            <uri>https://github.com/CoralPink</uri>
-        </author>
-        <published>2023-03-14T09:38:48.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[john-cd/mdbook-utils: Tools to manage links, reference definitions, and code examples in Markdown files, especially `mdbook` source directories.]]></title>
