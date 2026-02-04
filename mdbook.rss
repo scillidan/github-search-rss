@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2026-02-04T07:01:21.024Z</updated>
+    <updated>2026-02-04T08:52:47.747Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[MR-Addict/mdbook-embedify: A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.]]></title>
+        <id>https://github.com/MR-Addict/mdbook-embedify</id>
+        <link href="https://github.com/MR-Addict/mdbook-embedify"/>
+        <updated>2026-02-04T08:31:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75357598?u=bff59f47c1dc512b4f9c86a36cf5b8a4636d7b46&v=4" width="64" height="64" alt=""/><br/><div>A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.</div>]]></content>
+        <author>
+            <name>MR-Addict</name>
+            <email>MR-Addict@noreply.github.com</email>
+            <uri>https://github.com/MR-Addict</uri>
+        </author>
+        <published>2024-01-09T17:47:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[boozook/mdbook-svgbob: SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.]]></title>
+        <id>https://github.com/boozook/mdbook-svgbob</id>
+        <link href="https://github.com/boozook/mdbook-svgbob"/>
+        <updated>2026-02-04T07:52:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/888526?u=1f0dffd72891ec3ec115670913f7742616a4716d&v=4" width="64" height="64" alt=""/><br/><div>SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.</div>]]></content>
+        <author>
+            <name>boozook</name>
+            <email>boozook@noreply.github.com</email>
+            <uri>https://github.com/boozook</uri>
+        </author>
+        <published>2020-04-11T09:57:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[daviddrysdale/mdbook-asciidoc: mdBook backend for AsciiDoc generation]]></title>
+        <id>https://github.com/daviddrysdale/mdbook-asciidoc</id>
+        <link href="https://github.com/daviddrysdale/mdbook-asciidoc"/>
+        <updated>2026-02-04T07:25:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/457208?v=4" width="64" height="64" alt=""/><br/><div>mdBook backend for AsciiDoc generation</div>]]></content>
+        <author>
+            <name>daviddrysdale</name>
+            <email>daviddrysdale@noreply.github.com</email>
+            <uri>https://github.com/daviddrysdale</uri>
+        </author>
+        <published>2023-09-16T09:47:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[daviddrysdale/mdbook-shiftinclude:  mdBook preprocessor for file inclusion with shift]]></title>
+        <id>https://github.com/daviddrysdale/mdbook-shiftinclude</id>
+        <link href="https://github.com/daviddrysdale/mdbook-shiftinclude"/>
+        <updated>2026-02-04T07:24:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/457208?v=4" width="64" height="64" alt=""/><br/><div> mdBook preprocessor for file inclusion with shift</div>]]></content>
+        <author>
+            <name>daviddrysdale</name>
+            <email>daviddrysdale@noreply.github.com</email>
+            <uri>https://github.com/daviddrysdale</uri>
+        </author>
+        <published>2024-03-30T08:26:38.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CoralPink/mdbook-tailor: This is a preprocessor for mdbook. Explicitly setting the width and height of image elements will reduce layout deviations and improve CLS.]]></title>
         <id>https://github.com/CoralPink/mdbook-tailor</id>
@@ -24,7 +76,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2026-02-04T05:25:46.000Z</updated>
+        <updated>2026-02-04T08:10:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -37,7 +89,7 @@
         <title type="html"><![CDATA[rust-lang/book: The Rust Programming Language]]></title>
         <id>https://github.com/rust-lang/book</id>
         <link href="https://github.com/rust-lang/book"/>
-        <updated>2026-02-04T01:33:45.000Z</updated>
+        <updated>2026-02-04T07:12:09.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>The Rust Programming Language</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -58,19 +110,6 @@
             <uri>https://github.com/RustForWeb</uri>
         </author>
         <published>2024-07-11T15:20:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MR-Addict/mdbook-embedify: A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.]]></title>
-        <id>https://github.com/MR-Addict/mdbook-embedify</id>
-        <link href="https://github.com/MR-Addict/mdbook-embedify"/>
-        <updated>2026-02-03T16:45:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75357598?u=bff59f47c1dc512b4f9c86a36cf5b8a4636d7b46&v=4" width="64" height="64" alt=""/><br/><div>A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.</div>]]></content>
-        <author>
-            <name>MR-Addict</name>
-            <email>MR-Addict@noreply.github.com</email>
-            <uri>https://github.com/MR-Addict</uri>
-        </author>
-        <published>2024-01-09T17:47:37.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Roms1383/mdbook-codeblocks: A mdbook preprocessor to prepend customizable vignette to code blocks.]]></title>
@@ -216,19 +255,6 @@
         <published>2025-11-28T21:15:28.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[daviddrysdale/mdbook-shiftinclude:  mdBook preprocessor for file inclusion with shift]]></title>
-        <id>https://github.com/daviddrysdale/mdbook-shiftinclude</id>
-        <link href="https://github.com/daviddrysdale/mdbook-shiftinclude"/>
-        <updated>2026-01-30T06:25:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/457208?v=4" width="64" height="64" alt=""/><br/><div> mdBook preprocessor for file inclusion with shift</div>]]></content>
-        <author>
-            <name>daviddrysdale</name>
-            <email>daviddrysdale@noreply.github.com</email>
-            <uri>https://github.com/daviddrysdale</uri>
-        </author>
-        <published>2024-03-30T08:26:38.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[saylesss88/mdbook-rss-feed: mdbook preprocessor that generates a full-content RSS 2.0 feed]]></title>
         <id>https://github.com/saylesss88/mdbook-rss-feed</id>
         <link href="https://github.com/saylesss88/mdbook-rss-feed"/>
@@ -240,31 +266,5 @@
             <uri>https://github.com/saylesss88</uri>
         </author>
         <published>2025-11-23T23:38:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[topiary/mdbook-manmunge: mdBook pre- and post-processor for Topiary manpages]]></title>
-        <id>https://github.com/topiary/mdbook-manmunge</id>
-        <link href="https://github.com/topiary/mdbook-manmunge"/>
-        <updated>2026-01-29T20:01:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11251274?v=4" width="64" height="64" alt=""/><br/><div>mdBook pre- and post-processor for Topiary manpages</div>]]></content>
-        <author>
-            <name>topiary</name>
-            <email>topiary@noreply.github.com</email>
-            <uri>https://github.com/topiary</uri>
-        </author>
-        <published>2026-01-26T15:18:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[esp-rs/no_std-training: Getting-started guide on using the Rust with Espressif SoCs using no_std.]]></title>
-        <id>https://github.com/esp-rs/no_std-training</id>
-        <link href="https://github.com/esp-rs/no_std-training"/>
-        <updated>2026-01-26T15:17:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/46717278?v=4" width="64" height="64" alt=""/><br/><div>Getting-started guide on using the Rust with Espressif SoCs using no_std.</div>]]></content>
-        <author>
-            <name>esp-rs</name>
-            <email>esp-rs@noreply.github.com</email>
-            <uri>https://github.com/esp-rs</uri>
-        </author>
-        <published>2023-04-26T09:26:29.000Z</published>
     </entry>
 </feed>

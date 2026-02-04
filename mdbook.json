@@ -6,6 +6,50 @@
     "description": "mdbook on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75357598?u=bff59f47c1dc512b4f9c86a36cf5b8a4636d7b46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.</div>",
+            "url": "https://github.com/MR-Addict/mdbook-embedify",
+            "title": "MR-Addict/mdbook-embedify: A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.",
+            "date_modified": "2026-02-04T08:31:48.000Z",
+            "date_published": "2024-01-09T17:47:37.000Z",
+            "author": {
+                "name": "MR-Addict",
+                "url": "https://github.com/MR-Addict"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/888526?u=1f0dffd72891ec3ec115670913f7742616a4716d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.</div>",
+            "url": "https://github.com/boozook/mdbook-svgbob",
+            "title": "boozook/mdbook-svgbob: SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.",
+            "date_modified": "2026-02-04T07:52:02.000Z",
+            "date_published": "2020-04-11T09:57:00.000Z",
+            "author": {
+                "name": "boozook",
+                "url": "https://github.com/boozook"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/457208?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mdBook backend for AsciiDoc generation</div>",
+            "url": "https://github.com/daviddrysdale/mdbook-asciidoc",
+            "title": "daviddrysdale/mdbook-asciidoc: mdBook backend for AsciiDoc generation",
+            "date_modified": "2026-02-04T07:25:20.000Z",
+            "date_published": "2023-09-16T09:47:43.000Z",
+            "author": {
+                "name": "daviddrysdale",
+                "url": "https://github.com/daviddrysdale"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/457208?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> mdBook preprocessor for file inclusion with shift</div>",
+            "url": "https://github.com/daviddrysdale/mdbook-shiftinclude",
+            "title": "daviddrysdale/mdbook-shiftinclude:  mdBook preprocessor for file inclusion with shift",
+            "date_modified": "2026-02-04T07:24:30.000Z",
+            "date_published": "2024-03-30T08:26:38.000Z",
+            "author": {
+                "name": "daviddrysdale",
+                "url": "https://github.com/daviddrysdale"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/30016220?u=463337c35925ead47f8f73de9ebaa90f1680ea41&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>This is a preprocessor for mdbook. Explicitly setting the width and height of image elements will reduce layout deviations and improve CLS.</div>",
             "url": "https://github.com/CoralPink/mdbook-tailor",
             "title": "CoralPink/mdbook-tailor: This is a preprocessor for mdbook. Explicitly setting the width and height of image elements will reduce layout deviations and improve CLS.",
@@ -20,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5430905?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>",
             "url": "https://github.com/rust-lang/mdBook",
             "title": "rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust",
-            "date_modified": "2026-02-04T05:25:46.000Z",
+            "date_modified": "2026-02-04T08:10:51.000Z",
             "date_published": "2015-07-07T00:57:25.000Z",
             "author": {
                 "name": "rust-lang",
@@ -31,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5430905?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The Rust Programming Language</div>",
             "url": "https://github.com/rust-lang/book",
             "title": "rust-lang/book: The Rust Programming Language",
-            "date_modified": "2026-02-04T01:33:45.000Z",
+            "date_modified": "2026-02-04T07:12:09.000Z",
             "date_published": "2015-12-11T22:49:49.000Z",
             "author": {
                 "name": "rust-lang",
@@ -47,17 +91,6 @@
             "author": {
                 "name": "RustForWeb",
                 "url": "https://github.com/RustForWeb"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75357598?u=bff59f47c1dc512b4f9c86a36cf5b8a4636d7b46&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.</div>",
-            "url": "https://github.com/MR-Addict/mdbook-embedify",
-            "title": "MR-Addict/mdbook-embedify: A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.",
-            "date_modified": "2026-02-03T16:45:58.000Z",
-            "date_published": "2024-01-09T17:47:37.000Z",
-            "author": {
-                "name": "MR-Addict",
-                "url": "https://github.com/MR-Addict"
             }
         },
         {
@@ -182,17 +215,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/457208?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div> mdBook preprocessor for file inclusion with shift</div>",
-            "url": "https://github.com/daviddrysdale/mdbook-shiftinclude",
-            "title": "daviddrysdale/mdbook-shiftinclude:  mdBook preprocessor for file inclusion with shift",
-            "date_modified": "2026-01-30T06:25:06.000Z",
-            "date_published": "2024-03-30T08:26:38.000Z",
-            "author": {
-                "name": "daviddrysdale",
-                "url": "https://github.com/daviddrysdale"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/209646716?u=a4bf26bf2c2c6f3b918fef01688936fd20c9ebb8&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mdbook preprocessor that generates a full-content RSS 2.0 feed</div>",
             "url": "https://github.com/saylesss88/mdbook-rss-feed",
             "title": "saylesss88/mdbook-rss-feed: mdbook preprocessor that generates a full-content RSS 2.0 feed",
@@ -201,28 +223,6 @@
             "author": {
                 "name": "saylesss88",
                 "url": "https://github.com/saylesss88"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/11251274?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>mdBook pre- and post-processor for Topiary manpages</div>",
-            "url": "https://github.com/topiary/mdbook-manmunge",
-            "title": "topiary/mdbook-manmunge: mdBook pre- and post-processor for Topiary manpages",
-            "date_modified": "2026-01-29T20:01:13.000Z",
-            "date_published": "2026-01-26T15:18:16.000Z",
-            "author": {
-                "name": "topiary",
-                "url": "https://github.com/topiary"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/46717278?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Getting-started guide on using the Rust with Espressif SoCs using no_std.</div>",
-            "url": "https://github.com/esp-rs/no_std-training",
-            "title": "esp-rs/no_std-training: Getting-started guide on using the Rust with Espressif SoCs using no_std.",
-            "date_modified": "2026-01-26T15:17:57.000Z",
-            "date_published": "2023-04-26T09:26:29.000Z",
-            "author": {
-                "name": "esp-rs",
-                "url": "https://github.com/esp-rs"
             }
         }
     ]
