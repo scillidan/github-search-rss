@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2026-02-05T10:49:55.227Z</updated>
+    <updated>2026-02-05T11:39:42.291Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[badboy/mdbook-mermaid: A preprocessor for mdbook to add mermaid support]]></title>
+        <id>https://github.com/badboy/mdbook-mermaid</id>
+        <link href="https://github.com/badboy/mdbook-mermaid"/>
+        <updated>2026-02-05T10:57:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2129?u=3e8cc2f7e6368ad40230cc4a65c4798f40e7f433&v=4" width="64" height="64" alt=""/><br/><div>A preprocessor for mdbook to add mermaid support</div>]]></content>
+        <author>
+            <name>badboy</name>
+            <email>badboy@noreply.github.com</email>
+            <uri>https://github.com/badboy</uri>
+        </author>
+        <published>2018-07-18T13:42:52.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MR-Addict/mdbook-embedify: A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.]]></title>
         <id>https://github.com/MR-Addict/mdbook-embedify</id>
         <link href="https://github.com/MR-Addict/mdbook-embedify"/>
-        <updated>2026-02-05T10:11:33.000Z</updated>
+        <updated>2026-02-05T10:50:00.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75357598?u=bff59f47c1dc512b4f9c86a36cf5b8a4636d7b46&v=4" width="64" height="64" alt=""/><br/><div>A rust based mdbook preprocessor plugin that allows you to embed apps to your book, like youtube, codepen, giscus and many other apps.</div>]]></content>
         <author>
             <name>MR-Addict</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/john-cd</uri>
         </author>
         <published>2024-02-01T07:00:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[danieleades/mdbook-d2: D2 diagram generator plugin for MdBook]]></title>
-        <id>https://github.com/danieleades/mdbook-d2</id>
-        <link href="https://github.com/danieleades/mdbook-d2"/>
-        <updated>2026-02-01T05:24:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33452915?u=38f16a01dee41738ea81d30376a7c0df3c175f5e&v=4" width="64" height="64" alt=""/><br/><div>D2 diagram generator plugin for MdBook</div>]]></content>
-        <author>
-            <name>danieleades</name>
-            <email>danieleades@noreply.github.com</email>
-            <uri>https://github.com/danieleades</uri>
-        </author>
-        <published>2022-12-24T09:40:00.000Z</published>
     </entry>
 </feed>
