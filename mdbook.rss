@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2026-02-06T19:43:28.488Z</updated>
+    <updated>2026-02-06T20:40:45.773Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[sitandr/mdbook-typst-highlight: Mdbook preprocessor to highlight Typst code (temporary solution until a good highlight.js syntax appears)]]></title>
+        <id>https://github.com/sitandr/mdbook-typst-highlight</id>
+        <link href="https://github.com/sitandr/mdbook-typst-highlight"/>
+        <updated>2026-02-06T19:49:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60141933?v=4" width="64" height="64" alt=""/><br/><div>Mdbook preprocessor to highlight Typst code (temporary solution until a good highlight.js syntax appears)</div>]]></content>
+        <author>
+            <name>sitandr</name>
+            <email>sitandr@noreply.github.com</email>
+            <uri>https://github.com/sitandr</uri>
+        </author>
+        <published>2023-09-24T18:20:16.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[szabgab/mdbooks.code-maven.com: Collection of Public mdBooks]]></title>
         <id>https://github.com/szabgab/mdbooks.code-maven.com</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/shinolab</uri>
         </author>
         <published>2025-03-04T02:17:15.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[google/mdbook-i18n-helpers: Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.]]></title>
-        <id>https://github.com/google/mdbook-i18n-helpers</id>
-        <link href="https://github.com/google/mdbook-i18n-helpers"/>
-        <updated>2026-02-02T05:03:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="64" height="64" alt=""/><br/><div>Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.</div>]]></content>
-        <author>
-            <name>google</name>
-            <email>google@noreply.github.com</email>
-            <uri>https://github.com/google</uri>
-        </author>
-        <published>2023-03-21T15:57:18.000Z</published>
     </entry>
 </feed>
