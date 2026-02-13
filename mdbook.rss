@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2026-02-13T13:14:55.397Z</updated>
+    <updated>2026-02-13T14:49:10.801Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[cpelsser/rust-mdbook]]></title>
+        <id>https://github.com/cpelsser/rust-mdbook</id>
+        <link href="https://github.com/cpelsser/rust-mdbook"/>
+        <updated>2026-02-13T13:47:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8623557?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>cpelsser</name>
+            <email>cpelsser@noreply.github.com</email>
+            <uri>https://github.com/cpelsser</uri>
+        </author>
+        <published>2023-02-09T21:35:32.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[daviddrysdale/mdbook-indexing: mdBook preprocessor for indexing]]></title>
         <id>https://github.com/daviddrysdale/mdbook-indexing</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/duskmoon314</uri>
         </author>
         <published>2023-12-04T05:07:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sitandr/mdbook-typst-highlight: Mdbook preprocessor to highlight Typst code (temporary solution until a good highlight.js syntax appears)]]></title>
-        <id>https://github.com/sitandr/mdbook-typst-highlight</id>
-        <link href="https://github.com/sitandr/mdbook-typst-highlight"/>
-        <updated>2026-02-06T19:49:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/60141933?v=4" width="64" height="64" alt=""/><br/><div>Mdbook preprocessor to highlight Typst code (temporary solution until a good highlight.js syntax appears)</div>]]></content>
-        <author>
-            <name>sitandr</name>
-            <email>sitandr@noreply.github.com</email>
-            <uri>https://github.com/sitandr</uri>
-        </author>
-        <published>2023-09-24T18:20:16.000Z</published>
     </entry>
 </feed>
