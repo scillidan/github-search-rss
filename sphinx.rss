@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2026-02-28T10:30:09.055Z</updated>
+    <updated>2026-02-28T11:25:13.158Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Cleanroom-Labs/cleanroom-technical-docs: Aggregated Sphinx documentation for all Cleanroom labs projects.]]></title>
         <id>https://github.com/Cleanroom-Labs/cleanroom-technical-docs</id>
         <link href="https://github.com/Cleanroom-Labs/cleanroom-technical-docs"/>
-        <updated>2026-02-28T10:16:08.000Z</updated>
+        <updated>2026-02-28T10:59:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/253114370?v=4" width="64" height="64" alt=""/><br/><div>Aggregated Sphinx documentation for all Cleanroom labs projects.</div>]]></content>
         <author>
             <name>Cleanroom-Labs</name>
@@ -19,6 +19,19 @@
             <uri>https://github.com/Cleanroom-Labs</uri>
         </author>
         <published>2026-02-01T07:36:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git-pull/gp-libs: Incubator for pytest and sphinx helpers for git-pull python projects]]></title>
+        <id>https://github.com/git-pull/gp-libs</id>
+        <link href="https://github.com/git-pull/gp-libs"/>
+        <updated>2026-02-28T10:41:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1690793?v=4" width="64" height="64" alt=""/><br/><div>Incubator for pytest and sphinx helpers for git-pull python projects</div>]]></content>
+        <author>
+            <name>git-pull</name>
+            <email>git-pull@noreply.github.com</email>
+            <uri>https://github.com/git-pull</uri>
+        </author>
+        <published>2022-09-03T21:02:26.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[adamtheturtle/sphinx-confluencebuilder-bridge: Bridge from `sphinx-confluencebuilder` directives to other builders]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/tonyler</uri>
         </author>
         <published>2026-02-27T14:18:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[documatt/sphinx-reredirects: The extension for Sphinx documentation projects that handles redirects for moved pages. Based on the its configuration, the extension generates HTML pages with meta refresh redirects to the new page location.]]></title>
-        <id>https://github.com/documatt/sphinx-reredirects</id>
-        <link href="https://github.com/documatt/sphinx-reredirects"/>
-        <updated>2026-02-27T19:58:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/72378195?v=4" width="64" height="64" alt=""/><br/><div>The extension for Sphinx documentation projects that handles redirects for moved pages. Based on the its configuration, the extension generates HTML pages with meta refresh redirects to the new page location.</div>]]></content>
-        <author>
-            <name>documatt</name>
-            <email>documatt@noreply.github.com</email>
-            <uri>https://github.com/documatt</uri>
-        </author>
-        <published>2022-07-27T09:29:15.000Z</published>
     </entry>
 </feed>
