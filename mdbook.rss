@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2026-03-01T21:29:13.393Z</updated>
+    <updated>2026-03-01T22:30:49.212Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
+        <id>https://github.com/rust-lang/mdBook</id>
+        <link href="https://github.com/rust-lang/mdBook"/>
+        <updated>2026-03-01T22:19:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
+        <author>
+            <name>rust-lang</name>
+            <email>rust-lang@noreply.github.com</email>
+            <uri>https://github.com/rust-lang</uri>
+        </author>
+        <published>2015-07-07T00:57:25.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tonywu6/mdbookkit: mdbook toolkit]]></title>
         <id>https://github.com/tonywu6/mdbookkit</id>
@@ -45,19 +58,6 @@
             <uri>https://github.com/Wybxc</uri>
         </author>
         <published>2024-06-27T07:27:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
-        <id>https://github.com/rust-lang/mdBook</id>
-        <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2026-03-01T19:43:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
-        <author>
-            <name>rust-lang</name>
-            <email>rust-lang@noreply.github.com</email>
-            <uri>https://github.com/rust-lang</uri>
-        </author>
-        <published>2015-07-07T00:57:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[marxin/mdbook-linkcheck2: A backend for `mdbook` which will check your links for you.]]></title>
