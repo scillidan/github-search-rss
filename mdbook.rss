@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/mdbook.rss</id>
     <title>mdbook</title>
-    <updated>2026-03-03T23:33:39.425Z</updated>
+    <updated>2026-03-04T02:34:58.859Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/mdbook.rss"/>
     <subtitle>mdbook on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[joshrotenberg/mdbook-lint: An mdbook linting tool]]></title>
+        <id>https://github.com/joshrotenberg/mdbook-lint</id>
+        <link href="https://github.com/joshrotenberg/mdbook-lint"/>
+        <updated>2026-03-04T01:23:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3231?u=21706b30fa46c6302cfc2bbc46d583c0eb01704e&v=4" width="64" height="64" alt=""/><br/><div>An mdbook linting tool</div>]]></content>
+        <author>
+            <name>joshrotenberg</name>
+            <email>joshrotenberg@noreply.github.com</email>
+            <uri>https://github.com/joshrotenberg</uri>
+        </author>
+        <published>2025-08-04T01:27:18.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alviner/mdbook-mermaid: mdbook preprocessor that renders mermaid diagrams to inline SVG]]></title>
         <id>https://github.com/Alviner/mdbook-mermaid</id>
@@ -128,7 +141,7 @@
         <title type="html"><![CDATA[rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust]]></title>
         <id>https://github.com/rust-lang/mdBook</id>
         <link href="https://github.com/rust-lang/mdBook"/>
-        <updated>2026-03-03T23:18:41.000Z</updated>
+        <updated>2026-03-04T00:56:13.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5430905?v=4" width="64" height="64" alt=""/><br/><div>Create book from markdown files. Like Gitbook but implemented in Rust</div>]]></content>
         <author>
             <name>rust-lang</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Roms1383</uri>
         </author>
         <published>2023-04-23T02:27:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xd009642/mdbook-chess: An mdbook preprocessing plugin to generate chess boards]]></title>
-        <id>https://github.com/xd009642/mdbook-chess</id>
-        <link href="https://github.com/xd009642/mdbook-chess"/>
-        <updated>2026-02-24T03:47:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3472518?u=9ed94dde46fe05a83305ccf44703dbb1e89f2e1d&v=4" width="64" height="64" alt=""/><br/><div>An mdbook preprocessing plugin to generate chess boards</div>]]></content>
-        <author>
-            <name>xd009642</name>
-            <email>xd009642@noreply.github.com</email>
-            <uri>https://github.com/xd009642</uri>
-        </author>
-        <published>2022-08-06T14:24:25.000Z</published>
     </entry>
 </feed>
