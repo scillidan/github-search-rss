@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/sphinx.rss</id>
     <title>sphinx</title>
-    <updated>2026-03-30T10:22:10.654Z</updated>
+    <updated>2026-03-30T11:56:38.688Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/sphinx.rss"/>
     <subtitle>sphinx on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[python-project-templates/yardang: yardang is a Python library for generating Sphinx documentation]]></title>
+        <id>https://github.com/python-project-templates/yardang</id>
+        <link href="https://github.com/python-project-templates/yardang"/>
+        <updated>2026-03-30T11:48:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/137446063?v=4" width="64" height="64" alt=""/><br/><div>yardang is a Python library for generating Sphinx documentation</div>]]></content>
+        <author>
+            <name>python-project-templates</name>
+            <email>python-project-templates@noreply.github.com</email>
+            <uri>https://github.com/python-project-templates</uri>
+        </author>
+        <published>2024-07-21T17:23:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[peacock0803sz/sphinx-rglob-toctree]]></title>
+        <id>https://github.com/peacock0803sz/sphinx-rglob-toctree</id>
+        <link href="https://github.com/peacock0803sz/sphinx-rglob-toctree"/>
+        <updated>2026-03-30T11:44:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33555487?u=d3935c48fedfa6b195529bc281fd5072c221fbf3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>peacock0803sz</name>
+            <email>peacock0803sz@noreply.github.com</email>
+            <uri>https://github.com/peacock0803sz</uri>
+        </author>
+        <published>2026-03-29T12:02:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pydata/pydata-sphinx-theme: A clean, three-column Sphinx theme with Bootstrap for the PyData community]]></title>
+        <id>https://github.com/pydata/pydata-sphinx-theme</id>
+        <link href="https://github.com/pydata/pydata-sphinx-theme"/>
+        <updated>2026-03-30T11:21:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1284191?v=4" width="64" height="64" alt=""/><br/><div>A clean, three-column Sphinx theme with Bootstrap for the PyData community</div>]]></content>
+        <author>
+            <name>pydata</name>
+            <email>pydata@noreply.github.com</email>
+            <uri>https://github.com/pydata</uri>
+        </author>
+        <published>2018-04-19T15:37:27.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[neomutt/docs: 📚 NeoMutt Docs]]></title>
         <id>https://github.com/neomutt/docs</id>
@@ -19,6 +58,19 @@
             <uri>https://github.com/neomutt</uri>
         </author>
         <published>2025-11-30T01:42:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
+        <id>https://github.com/readthedocs/readthedocs.org</id>
+        <link href="https://github.com/readthedocs/readthedocs.org"/>
+        <updated>2026-03-30T10:43:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
+        <author>
+            <name>readthedocs</name>
+            <email>readthedocs@noreply.github.com</email>
+            <uri>https://github.com/readthedocs</uri>
+        </author>
+        <published>2010-08-16T19:18:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[localizethedocs/python-docs-l10n: Localization of The Python Documentation]]></title>
@@ -110,19 +162,6 @@
             <uri>https://github.com/cenZO00</uri>
         </author>
         <published>2025-09-29T23:11:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[readthedocs/readthedocs.org: The source code that powers readthedocs.org]]></title>
-        <id>https://github.com/readthedocs/readthedocs.org</id>
-        <link href="https://github.com/readthedocs/readthedocs.org"/>
-        <updated>2026-03-30T05:59:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/366329?v=4" width="64" height="64" alt=""/><br/><div>The source code that powers readthedocs.org</div>]]></content>
-        <author>
-            <name>readthedocs</name>
-            <email>readthedocs@noreply.github.com</email>
-            <uri>https://github.com/readthedocs</uri>
-        </author>
-        <published>2010-08-16T19:18:06.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Normanwillful908/palletizer: Enable flexible, high-throughput palletizing for any robot arm or gripper with a unified, open-source software foundation.]]></title>
@@ -227,44 +266,5 @@
             <uri>https://github.com/SAP</uri>
         </author>
         <published>2022-03-10T09:02:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAP/invoke-plugin-for-sphinx: A plugin for Sphinx which let's you document invoke tasks.]]></title>
-        <id>https://github.com/SAP/invoke-plugin-for-sphinx</id>
-        <link href="https://github.com/SAP/invoke-plugin-for-sphinx"/>
-        <updated>2026-03-30T00:44:17.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2531208?v=4" width="64" height="64" alt=""/><br/><div>A plugin for Sphinx which let's you document invoke tasks.</div>]]></content>
-        <author>
-            <name>SAP</name>
-            <email>SAP@noreply.github.com</email>
-            <uri>https://github.com/SAP</uri>
-        </author>
-        <published>2023-03-15T08:57:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adamtheturtle/sphinx-notionbuilder: Sphinx builder for Notion]]></title>
-        <id>https://github.com/adamtheturtle/sphinx-notionbuilder</id>
-        <link href="https://github.com/adamtheturtle/sphinx-notionbuilder"/>
-        <updated>2026-03-30T00:39:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/797801?u=8405c059930dd979d8a80924bfca8162762b61c1&v=4" width="64" height="64" alt=""/><br/><div>Sphinx builder for Notion</div>]]></content>
-        <author>
-            <name>adamtheturtle</name>
-            <email>adamtheturtle@noreply.github.com</email>
-            <uri>https://github.com/adamtheturtle</uri>
-        </author>
-        <published>2025-08-19T09:48:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sphinx-doc/sphinx: The Sphinx documentation generator]]></title>
-        <id>https://github.com/sphinx-doc/sphinx</id>
-        <link href="https://github.com/sphinx-doc/sphinx"/>
-        <updated>2026-03-30T05:54:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9928167?v=4" width="64" height="64" alt=""/><br/><div>The Sphinx documentation generator</div>]]></content>
-        <author>
-            <name>sphinx-doc</name>
-            <email>sphinx-doc@noreply.github.com</email>
-            <uri>https://github.com/sphinx-doc</uri>
-        </author>
-        <published>2015-01-02T10:53:28.000Z</published>
     </entry>
 </feed>
