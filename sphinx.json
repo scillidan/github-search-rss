@@ -6,6 +6,72 @@
     "description": "sphinx on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20345659?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Render CLI arguments (sub-commands friendly) defined by the argparse module.</div>",
+            "url": "https://github.com/tox-dev/sphinx-argparse-cli",
+            "title": "tox-dev/sphinx-argparse-cli: Render CLI arguments (sub-commands friendly) defined by the argparse module.",
+            "date_modified": "2026-04-07T22:29:01.000Z",
+            "date_published": "2021-02-05T00:17:52.000Z",
+            "author": {
+                "name": "tox-dev",
+                "url": "https://github.com/tox-dev"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/251350093?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A set of Sphinx directives for Ewoks</div>",
+            "url": "https://github.com/ewoks-kit/ewokssphinx",
+            "title": "ewoks-kit/ewokssphinx: A set of Sphinx directives for Ewoks",
+            "date_modified": "2026-04-07T22:15:02.000Z",
+            "date_published": "2026-02-14T14:20:51.000Z",
+            "author": {
+                "name": "ewoks-kit",
+                "url": "https://github.com/ewoks-kit"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8630600?u=d1242ba0f38966f4f2318d9814cf6d12efe68f75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Manage your specifications with git, render them as PDF and HTML</div>",
+            "url": "https://github.com/agagniere/speky",
+            "title": "agagniere/speky: Manage your specifications with git, render them as PDF and HTML",
+            "date_modified": "2026-04-07T22:10:40.000Z",
+            "date_published": "2025-05-21T23:57:45.000Z",
+            "author": {
+                "name": "agagniere",
+                "url": "https://github.com/agagniere"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75883961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Move some of your Sphinx configuration into pyproject.toml</div>",
+            "url": "https://github.com/sphinx-toolbox/sphinx-pyproject",
+            "title": "sphinx-toolbox/sphinx-pyproject: Move some of your Sphinx configuration into pyproject.toml",
+            "date_modified": "2026-04-07T22:10:14.000Z",
+            "date_published": "2021-03-22T21:54:57.000Z",
+            "author": {
+                "name": "sphinx-toolbox",
+                "url": "https://github.com/sphinx-toolbox"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/88681382?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Flake8 plugin to check docstrings for double backticked strings which should be links to the Python documentation.</div>",
+            "url": "https://github.com/python-formate/flake8-sphinx-links",
+            "title": "python-formate/flake8-sphinx-links: A Flake8 plugin to check docstrings for double backticked strings which should be links to the Python documentation.",
+            "date_modified": "2026-04-07T22:02:54.000Z",
+            "date_published": "2020-07-15T07:04:38.000Z",
+            "author": {
+                "name": "python-formate",
+                "url": "https://github.com/python-formate"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75883961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Sphinx extension to include debugging information in the output.</div>",
+            "url": "https://github.com/sphinx-toolbox/sphinx-debuginfo",
+            "title": "sphinx-toolbox/sphinx-debuginfo: A Sphinx extension to include debugging information in the output.",
+            "date_modified": "2026-04-07T21:55:21.000Z",
+            "date_published": "2021-03-09T12:07:09.000Z",
+            "author": {
+                "name": "sphinx-toolbox",
+                "url": "https://github.com/sphinx-toolbox"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75883961?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Display a warning at the top of module documentation that it has additional requirements.</div>",
             "url": "https://github.com/sphinx-toolbox/extras_require",
             "title": "sphinx-toolbox/extras_require: Display a warning at the top of module documentation that it has additional requirements.",
@@ -36,17 +102,6 @@
             "author": {
                 "name": "cenZO00",
                 "url": "https://github.com/cenZO00"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8630600?u=d1242ba0f38966f4f2318d9814cf6d12efe68f75&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Manage your specifications with git, render them as PDF and HTML</div>",
-            "url": "https://github.com/agagniere/speky",
-            "title": "agagniere/speky: Manage your specifications with git, render them as PDF and HTML",
-            "date_modified": "2026-04-07T21:34:49.000Z",
-            "date_published": "2025-05-21T23:57:45.000Z",
-            "author": {
-                "name": "agagniere",
-                "url": "https://github.com/agagniere"
             }
         },
         {
@@ -168,61 +223,6 @@
             "author": {
                 "name": "neomutt",
                 "url": "https://github.com/neomutt"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2531208?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for Sphinx which let's you document invoke tasks.</div>",
-            "url": "https://github.com/SAP/invoke-plugin-for-sphinx",
-            "title": "SAP/invoke-plugin-for-sphinx: A plugin for Sphinx which let's you document invoke tasks.",
-            "date_modified": "2026-04-07T18:51:52.000Z",
-            "date_published": "2023-03-15T08:57:23.000Z",
-            "author": {
-                "name": "SAP",
-                "url": "https://github.com/SAP"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/195868995?u=3e709403212f27cbe1bc12b0afe87553b66bf007&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Template Cookiecutter para proyectos de Data Science con uv, Sphinx y estructura modular</div>",
-            "url": "https://github.com/cacelass/dskit",
-            "title": "cacelass/dskit: Template Cookiecutter para proyectos de Data Science con uv, Sphinx y estructura modular",
-            "date_modified": "2026-04-07T18:46:46.000Z",
-            "date_published": "2025-06-30T15:12:56.000Z",
-            "author": {
-                "name": "cacelass",
-                "url": "https://github.com/cacelass"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54733945?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Sphinx extension for easily adding reusable external links.</div>",
-            "url": "https://github.com/finleyfamily/sphinxcontrib.external-links",
-            "title": "finleyfamily/sphinxcontrib.external-links: Sphinx extension for easily adding reusable external links.",
-            "date_modified": "2026-04-07T17:20:40.000Z",
-            "date_published": "2024-03-27T18:21:53.000Z",
-            "author": {
-                "name": "finleyfamily",
-                "url": "https://github.com/finleyfamily"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/844779?u=004c4172b3f8cf9ba00a4e14bf1e6939cfc74c36&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Schulungsmaterialen für den Aufbau und die Nutzung einer Forschungsinfrastruktur auf Basis von Jupyter Notebooks: <a href=\"https://cusy.io/de/seminare\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://cusy.io/de/seminare</a></div>",
-            "url": "https://github.com/veit/jupyter-tutorial-de",
-            "title": "veit/jupyter-tutorial-de: Schulungsmaterialen für den Aufbau und die Nutzung einer Forschungsinfrastruktur auf Basis von Jupyter Notebooks: https://cusy.io/de/seminare",
-            "date_modified": "2026-04-07T17:15:19.000Z",
-            "date_published": "2020-10-26T13:23:29.000Z",
-            "author": {
-                "name": "veit",
-                "url": "https://github.com/veit"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/366329?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>The source code that powers readthedocs.org</div>",
-            "url": "https://github.com/readthedocs/readthedocs.org",
-            "title": "readthedocs/readthedocs.org: The source code that powers readthedocs.org",
-            "date_modified": "2026-04-07T17:10:14.000Z",
-            "date_published": "2010-08-16T19:18:06.000Z",
-            "author": {
-                "name": "readthedocs",
-                "url": "https://github.com/readthedocs"
             }
         }
     ]
