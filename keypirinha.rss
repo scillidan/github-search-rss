@@ -2,17 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/keypirinha.rss</id>
     <title>keypirinha</title>
-    <updated>2026-05-13T09:47:52.665Z</updated>
+    <updated>2026-05-13T12:08:42.711Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/keypirinha.rss"/>
     <subtitle>keypirinha on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[scillidan/keyprinha-cheatsheet: Search and display cheatsheets.]]></title>
+        <title type="html"><![CDATA[scillidan/keypirinha-bookmark-txt: Search bookmarks.]]></title>
+        <id>https://github.com/scillidan/keypirinha-bookmark-txt</id>
+        <link href="https://github.com/scillidan/keypirinha-bookmark-txt"/>
+        <updated>2026-05-13T11:39:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19889610?u=7e1ff7dcced85796679ba7a0cdbfad65197e9f54&v=4" width="64" height="64" alt=""/><br/><div>Search bookmarks.</div>]]></content>
+        <author>
+            <name>scillidan</name>
+            <email>scillidan@noreply.github.com</email>
+            <uri>https://github.com/scillidan</uri>
+        </author>
+        <published>2026-05-13T11:15:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[scillidan/keyprinha-cheatsheet: Search cheatsheets.]]></title>
         <id>https://github.com/scillidan/keyprinha-cheatsheet</id>
         <link href="https://github.com/scillidan/keyprinha-cheatsheet"/>
-        <updated>2026-05-12T13:43:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19889610?u=7e1ff7dcced85796679ba7a0cdbfad65197e9f54&v=4" width="64" height="64" alt=""/><br/><div>Search and display cheatsheets.</div>]]></content>
+        <updated>2026-05-13T11:39:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19889610?u=7e1ff7dcced85796679ba7a0cdbfad65197e9f54&v=4" width="64" height="64" alt=""/><br/><div>Search cheatsheets.</div>]]></content>
         <author>
             <name>scillidan</name>
             <email>scillidan@noreply.github.com</email>
@@ -253,18 +266,5 @@
             <uri>https://github.com/ueffel</uri>
         </author>
         <published>2018-02-27T22:32:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[shainave/dracula-keypirinha: A dark theme for the Keypirinha launcher, based on Dracula.]]></title>
-        <id>https://github.com/shainave/dracula-keypirinha</id>
-        <link href="https://github.com/shainave/dracula-keypirinha"/>
-        <updated>2025-06-03T00:43:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/33133491?u=283db718c45bb4caa503495f8db94754336ebd95&v=4" width="64" height="64" alt=""/><br/><div>A dark theme for the Keypirinha launcher, based on Dracula.</div>]]></content>
-        <author>
-            <name>shainave</name>
-            <email>shainave@noreply.github.com</email>
-            <uri>https://github.com/shainave</uri>
-        </author>
-        <published>2025-05-31T17:15:15.000Z</published>
     </entry>
 </feed>
