@@ -12,39 +12,21 @@ const BASE_URL = "https://scillidan.github.io/github-search-rss";
 // https://docs.github.com/en/graphql/reference/queries#searchresultitemconnection
 export const SEARCH_ITEMS: RSSItem[] = [
     {
+        title: "yazi",
+        query: "yazi language:lua sort:updated-desc",
+        TYPE: "REPOSITORY",
+        link: `${BASE_URL}/yazi.json`
+    },
+    {
         title: "clink",
         query: "clink language:lua sort:updated-desc",
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/clink.json`
     },
     {
-        title: "cmder",
-        query: "cmder language:lua sort:updated-desc",
-        TYPE: "REPOSITORY",
-        link: `${BASE_URL}/cmder.json`
-    },
-    {
-        title: "goldendict",
-        query: "goldendict sort:updated-desc",
-        TYPE: "REPOSITORY",
-        link: `${BASE_URL}/goldendict.json`
-    },
-    {
         title: "keypirinha",
         query: "keypirinha sort:updated-desc",
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/keypirinha.json`
-    },
-    {
-        title: "mdbook",
-        query: "mdbook language:rust sort:updated-desc",
-        TYPE: "REPOSITORY",
-        link: `${BASE_URL}/mdbook.json`
-    },
-    {
-        title: "sphinx",
-        query: "sphinx language:python sort:updated-desc",
-        TYPE: "REPOSITORY",
-        link: `${BASE_URL}/sphinx.json`
-    },
+    }
 ];
