@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/yazi.rss</id>
     <title>yazi</title>
-    <updated>2026-07-11T21:57:06.644Z</updated>
+    <updated>2026-07-11T22:58:52.372Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/yazi.rss"/>
     <subtitle>yazi on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Timbo74/dotfiles: First steps in an attempt to manage all the (good and bad) changes I make to my dot files.]]></title>
+        <id>https://github.com/Timbo74/dotfiles</id>
+        <link href="https://github.com/Timbo74/dotfiles"/>
+        <updated>2026-07-11T22:54:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47041442?u=86bbc570782cdc8157887a736fd7e8e9b65801d4&v=4" width="64" height="64" alt=""/><br/><div>First steps in an attempt to manage all the (good and bad) changes I make to my dot files.</div>]]></content>
+        <author>
+            <name>Timbo74</name>
+            <email>Timbo74@noreply.github.com</email>
+            <uri>https://github.com/Timbo74</uri>
+        </author>
+        <published>2026-07-11T03:15:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[azinsharaf/dotfiles: my dotfiles managed by chezmoi]]></title>
         <id>https://github.com/azinsharaf/dotfiles</id>
         <link href="https://github.com/azinsharaf/dotfiles"/>
-        <updated>2026-07-11T21:43:52.000Z</updated>
+        <updated>2026-07-11T22:13:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10101468?v=4" width="64" height="64" alt=""/><br/><div>my dotfiles managed by chezmoi</div>]]></content>
         <author>
             <name>azinsharaf</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/mikavilpas</uri>
         </author>
         <published>2024-02-25T13:33:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[stellarjmr/osc7.yazi: Emit OSC 7 on yazi directory change so terminals like Ghostty inherit cwd in new splits/tabs.]]></title>
-        <id>https://github.com/stellarjmr/osc7.yazi</id>
-        <link href="https://github.com/stellarjmr/osc7.yazi"/>
-        <updated>2026-07-10T07:17:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/219479939?u=55eb57df8fbdcc4cb5096b62fe460fbb1922151e&v=4" width="64" height="64" alt=""/><br/><div>Emit OSC 7 on yazi directory change so terminals like Ghostty inherit cwd in new splits/tabs.</div>]]></content>
-        <author>
-            <name>stellarjmr</name>
-            <email>stellarjmr@noreply.github.com</email>
-            <uri>https://github.com/stellarjmr</uri>
-        </author>
-        <published>2026-04-18T13:41:24.000Z</published>
     </entry>
 </feed>
