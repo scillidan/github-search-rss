@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scillidan.github.io/github-search-rss/yazi.rss</id>
     <title>yazi</title>
-    <updated>2026-08-03T07:33:41.557Z</updated>
+    <updated>2026-08-03T11:32:23.015Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://scillidan.github.io/github-search-rss/yazi.rss"/>
     <subtitle>yazi on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[0xlichi/dockerized-dev: A personal Arch Linux dev container with Neovim, Yazi, Starship, and more. Passwords are set using Docker BuildKit secrets so they are never stored in image layers or visible in docker history.]]></title>
+        <id>https://github.com/0xlichi/dockerized-dev</id>
+        <link href="https://github.com/0xlichi/dockerized-dev"/>
+        <updated>2026-08-03T10:02:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/237986995?u=e435ad15e6d363dc449e629170ad7502e22b403f&v=4" width="64" height="64" alt=""/><br/><div>A personal Arch Linux dev container with Neovim, Yazi, Starship, and more. Passwords are set using Docker BuildKit secrets so they are never stored in image layers or visible in docker history.</div>]]></content>
+        <author>
+            <name>0xlichi</name>
+            <email>0xlichi@noreply.github.com</email>
+            <uri>https://github.com/0xlichi</uri>
+        </author>
+        <published>2026-06-28T14:55:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sahilsasane/dotfiles: Personal macOS development dotfiles for Zsh, tmux, Neovim, Kitty, Ghostty, and terminal tooling.]]></title>
+        <id>https://github.com/sahilsasane/dotfiles</id>
+        <link href="https://github.com/sahilsasane/dotfiles"/>
+        <updated>2026-08-03T08:08:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84409956?u=7e2b14256922d3773ad2401ca49e414fede1d054&v=4" width="64" height="64" alt=""/><br/><div>Personal macOS development dotfiles for Zsh, tmux, Neovim, Kitty, Ghostty, and terminal tooling.</div>]]></content>
+        <author>
+            <name>sahilsasane</name>
+            <email>sahilsasane@noreply.github.com</email>
+            <uri>https://github.com/sahilsasane</uri>
+        </author>
+        <published>2026-04-04T07:37:36.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[yazi-rs/plugins: Place code snippets from docs into this monorepo, so that users can update more easily via package manager.]]></title>
         <id>https://github.com/yazi-rs/plugins</id>
@@ -240,31 +266,5 @@
             <uri>https://github.com/azinsharaf</uri>
         </author>
         <published>2024-02-14T01:52:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sahilsasane/dotfiles: Personal macOS development dotfiles for Zsh, tmux, Neovim, Kitty, Ghostty, and terminal tooling.]]></title>
-        <id>https://github.com/sahilsasane/dotfiles</id>
-        <link href="https://github.com/sahilsasane/dotfiles"/>
-        <updated>2026-08-01T17:23:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/84409956?u=7e2b14256922d3773ad2401ca49e414fede1d054&v=4" width="64" height="64" alt=""/><br/><div>Personal macOS development dotfiles for Zsh, tmux, Neovim, Kitty, Ghostty, and terminal tooling.</div>]]></content>
-        <author>
-            <name>sahilsasane</name>
-            <email>sahilsasane@noreply.github.com</email>
-            <uri>https://github.com/sahilsasane</uri>
-        </author>
-        <published>2026-04-04T07:37:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hammamiomar/dotfiles: macOS terminal environment: neovim, tmux, yazi, ghostty, aerospace]]></title>
-        <id>https://github.com/hammamiomar/dotfiles</id>
-        <link href="https://github.com/hammamiomar/dotfiles"/>
-        <updated>2026-08-01T02:33:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47250693?u=e61ab238d6dea7a062a897551bced05ba4548b6d&v=4" width="64" height="64" alt=""/><br/><div>macOS terminal environment: neovim, tmux, yazi, ghostty, aerospace</div>]]></content>
-        <author>
-            <name>hammamiomar</name>
-            <email>hammamiomar@noreply.github.com</email>
-            <uri>https://github.com/hammamiomar</uri>
-        </author>
-        <published>2026-07-31T20:59:15.000Z</published>
     </entry>
 </feed>
