@@ -6,6 +6,72 @@
     "description": "yazi on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18657542?u=f6f3b2b7f0ead549c1a2168a845cd58cb71449c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal macOS dotfiles managed with chezmoi: neovim, tmux, zsh, ghostty, aerospace, karabiner, with age-encrypted secrets</div>",
+            "url": "https://github.com/achandrapaul/terminal-setup",
+            "title": "achandrapaul/terminal-setup: Personal macOS dotfiles managed with chezmoi: neovim, tmux, zsh, ghostty, aerospace, karabiner, with age-encrypted secrets",
+            "date_modified": "2026-10-22T09:28:52.000Z",
+            "date_published": "2026-10-04T13:19:12.000Z",
+            "author": {
+                "name": "achandrapaul",
+                "url": "https://github.com/achandrapaul"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/65400197?u=75d01c3addafcbefc0ae705478b5bed17e58047f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My dotfiles containing a herbstluftwm config with eww widgets, a NeoVim configuration with out-of-the-box support for multiple (programming) languages and other configuration files.</div>",
+            "url": "https://github.com/fzahner/dotfiles",
+            "title": "fzahner/dotfiles: My dotfiles containing a herbstluftwm config with eww widgets, a NeoVim configuration with out-of-the-box support for multiple (programming) languages and other configuration files.",
+            "date_modified": "2026-10-22T09:02:35.000Z",
+            "date_published": "2024-12-09T13:01:25.000Z",
+            "author": {
+                "name": "fzahner",
+                "url": "https://github.com/fzahner"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7403160?u=e5c15c8b4da41e65052bfef1804fc6f980d707dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin to browse and restore Restic snapshots without FUSE. Snapshots appear as real folders with 0-byte placeholders, loaded lazily; files are fetched only on demand. Metadata preview, multi-select restore, SFTP support.</div>",
+            "url": "https://github.com/goldfix/yazi-plugin-restic",
+            "title": "goldfix/yazi-plugin-restic: Yazi plugin to browse and restore Restic snapshots without FUSE. Snapshots appear as real folders with 0-byte placeholders, loaded lazily; files are fetched only on demand. Metadata preview, multi-select restore, SFTP support.",
+            "date_modified": "2026-10-22T08:38:47.000Z",
+            "date_published": "2026-10-20T12:50:27.000Z",
+            "author": {
+                "name": "goldfix",
+                "url": "https://github.com/goldfix"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/231621498?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>custom yazi configuration.</div>",
+            "url": "https://github.com/joel-a4817/yazi",
+            "title": "joel-a4817/yazi: custom yazi configuration.",
+            "date_modified": "2026-10-22T06:51:52.000Z",
+            "date_published": "2025-12-28T00:43:33.000Z",
+            "author": {
+                "name": "joel-a4817",
+                "url": "https://github.com/joel-a4817"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105212754?u=6e48df012d0fbc73f065ce18236e87607b97c4a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight, recoverable, terminal-only workspace for remote development, built around tmux and Neovim / 轻量、可恢复、以 tmux 和 Neovim 为核心的纯终端远程开发工作区</div>",
+            "url": "https://github.com/beixiyo/dotfiles",
+            "title": "beixiyo/dotfiles: A lightweight, recoverable, terminal-only workspace for remote development, built around tmux and Neovim / 轻量、可恢复、以 tmux 和 Neovim 为核心的纯终端远程开发工作区",
+            "date_modified": "2026-10-22T06:50:38.000Z",
+            "date_published": "2026-07-14T08:21:41.000Z",
+            "author": {
+                "name": "beixiyo",
+                "url": "https://github.com/beixiyo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64137875?u=560f37754f82ac03b056609429491ee33ebba1af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>plugins for the yazi file manager</div>",
+            "url": "https://github.com/AminurAlam/yazi-plugins",
+            "title": "AminurAlam/yazi-plugins: plugins for the yazi file manager",
+            "date_modified": "2026-10-22T04:44:02.000Z",
+            "date_published": "2025-10-08T07:22:08.000Z",
+            "author": {
+                "name": "AminurAlam",
+                "url": "https://github.com/AminurAlam"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
             "url": "https://github.com/mikavilpas/yazi.nvim",
             "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
@@ -14,17 +80,6 @@
             "author": {
                 "name": "mikavilpas",
                 "url": "https://github.com/mikavilpas"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7403160?u=e5c15c8b4da41e65052bfef1804fc6f980d707dd&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin to browse and restore Restic snapshots without FUSE. Snapshots appear as real folders with 0-byte placeholders, loaded lazily; files are fetched only on demand. Metadata preview, multi-select restore, SFTP support.</div>",
-            "url": "https://github.com/goldfix/yazi-plugin-restic",
-            "title": "goldfix/yazi-plugin-restic: Yazi plugin to browse and restore Restic snapshots without FUSE. Snapshots appear as real folders with 0-byte placeholders, loaded lazily; files are fetched only on demand. Metadata preview, multi-select restore, SFTP support.",
-            "date_modified": "2026-10-21T20:15:07.000Z",
-            "date_published": "2026-10-20T12:50:27.000Z",
-            "author": {
-                "name": "goldfix",
-                "url": "https://github.com/goldfix"
             }
         },
         {
@@ -39,21 +94,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/64137875?u=560f37754f82ac03b056609429491ee33ebba1af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>plugins for the yazi file manager</div>",
-            "url": "https://github.com/AminurAlam/yazi-plugins",
-            "title": "AminurAlam/yazi-plugins: plugins for the yazi file manager",
-            "date_modified": "2026-10-21T16:43:20.000Z",
-            "date_published": "2025-10-08T07:22:08.000Z",
-            "author": {
-                "name": "AminurAlam",
-                "url": "https://github.com/AminurAlam"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/248618479?u=705f9d5e2661297b2d99964156c7b804c94aecce&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>鸭子的配置文件仓库，包含所有配置文件直接可用</div>",
             "url": "https://github.com/linxuan-sys/yazi",
             "title": "linxuan-sys/yazi: 鸭子的配置文件仓库，包含所有配置文件直接可用",
-            "date_modified": "2026-10-21T11:38:16.000Z",
+            "date_modified": "2026-10-22T07:59:04.000Z",
             "date_published": "2026-03-11T16:31:17.000Z",
             "author": {
                 "name": "linxuan-sys",
@@ -102,17 +146,6 @@
             "author": {
                 "name": "frankittee",
                 "url": "https://github.com/frankittee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105212754?u=6e48df012d0fbc73f065ce18236e87607b97c4a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight, recoverable, terminal-only workspace for remote development, built around tmux and Neovim / 轻量、可恢复、以 tmux 和 Neovim 为核心的纯终端远程开发工作区</div>",
-            "url": "https://github.com/beixiyo/dotfiles",
-            "title": "beixiyo/dotfiles: A lightweight, recoverable, terminal-only workspace for remote development, built around tmux and Neovim / 轻量、可恢复、以 tmux 和 Neovim 为核心的纯终端远程开发工作区",
-            "date_modified": "2026-10-21T09:30:33.000Z",
-            "date_published": "2026-07-14T08:21:41.000Z",
-            "author": {
-                "name": "beixiyo",
-                "url": "https://github.com/beixiyo"
             }
         },
         {
@@ -190,39 +223,6 @@
             "author": {
                 "name": "tomafuyu",
                 "url": "https://github.com/tomafuyu"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18657542?u=f6f3b2b7f0ead549c1a2168a845cd58cb71449c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal macOS dotfiles managed with chezmoi: neovim, tmux, zsh, ghostty, aerospace, karabiner, with age-encrypted secrets</div>",
-            "url": "https://github.com/achandrapaul/terminal-setup",
-            "title": "achandrapaul/terminal-setup: Personal macOS dotfiles managed with chezmoi: neovim, tmux, zsh, ghostty, aerospace, karabiner, with age-encrypted secrets",
-            "date_modified": "2026-10-20T15:34:12.000Z",
-            "date_published": "2026-10-04T13:19:12.000Z",
-            "author": {
-                "name": "achandrapaul",
-                "url": "https://github.com/achandrapaul"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22383655?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>yazi plugin for copy &amp; move files/dirs using fzf fuzzy search</div>",
-            "url": "https://github.com/mega-Meta/copyto.yazi",
-            "title": "mega-Meta/copyto.yazi: yazi plugin for copy & move files/dirs using fzf fuzzy search",
-            "date_modified": "2026-10-20T14:18:43.000Z",
-            "date_published": "2026-10-19T19:59:12.000Z",
-            "author": {
-                "name": "mega-Meta",
-                "url": "https://github.com/mega-Meta"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/167700566?u=80979dfc5bee763f1c4fa043fe29411546e777c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browse Git changes and preview staged, unstaged, and untracked file diffs in Yazi</div>",
-            "url": "https://github.com/WhoSowSee/whatchanged.yazi",
-            "title": "WhoSowSee/whatchanged.yazi: Browse Git changes and preview staged, unstaged, and untracked file diffs in Yazi",
-            "date_modified": "2026-10-20T12:24:34.000Z",
-            "date_published": "2026-10-16T07:51:10.000Z",
-            "author": {
-                "name": "WhoSowSee",
-                "url": "https://github.com/WhoSowSee"
             }
         }
     ]
