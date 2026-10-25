@@ -6,6 +6,72 @@
     "description": "yazi on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/18657542?u=f6f3b2b7f0ead549c1a2168a845cd58cb71449c7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal macOS dotfiles managed with chezmoi: neovim, tmux, zsh, ghostty, aerospace, karabiner, with age-encrypted secrets</div>",
+            "url": "https://github.com/achandrapaul/terminal-setup",
+            "title": "achandrapaul/terminal-setup: Personal macOS dotfiles managed with chezmoi: neovim, tmux, zsh, ghostty, aerospace, karabiner, with age-encrypted secrets",
+            "date_modified": "2026-10-25T10:52:58.000Z",
+            "date_published": "2026-10-04T13:19:12.000Z",
+            "author": {
+                "name": "achandrapaul",
+                "url": "https://github.com/achandrapaul"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16268238?u=c3ed35d1b48b4b56acdb4bb34112f03d684bdc0a&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My neovim config</div>",
+            "url": "https://github.com/joelazar/nvim-config",
+            "title": "joelazar/nvim-config: My neovim config",
+            "date_modified": "2026-10-25T10:39:04.000Z",
+            "date_published": "2021-08-02T18:09:02.000Z",
+            "author": {
+                "name": "joelazar",
+                "url": "https://github.com/joelazar"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
+            "url": "https://github.com/mikavilpas/yazi.nvim",
+            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
+            "date_modified": "2026-10-25T08:50:03.000Z",
+            "date_published": "2024-02-25T13:33:19.000Z",
+            "author": {
+                "name": "mikavilpas",
+                "url": "https://github.com/mikavilpas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13987584?u=189708368c51432f9f99d58d757b75c4c0a94423&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin that uses duckdb to preview data files.</div>",
+            "url": "https://github.com/stevencarpenter/duckdb.yazi",
+            "title": "stevencarpenter/duckdb.yazi: Yazi plugin that uses duckdb to preview data files.",
+            "date_modified": "2026-10-25T06:50:51.000Z",
+            "date_published": "2026-01-25T05:45:38.000Z",
+            "author": {
+                "name": "stevencarpenter",
+                "url": "https://github.com/stevencarpenter"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14933197?u=479fdd291dd96a56bf2f1fd58997552cdfb42bc0&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Center media previews in Yazi: the image, and the metadata under it, aligned in the middle of the preview pane.</div>",
+            "url": "https://github.com/ENEmyr/center-media.yazi",
+            "title": "ENEmyr/center-media.yazi: Center media previews in Yazi: the image, and the metadata under it, aligned in the middle of the preview pane.",
+            "date_modified": "2026-10-25T06:45:03.000Z",
+            "date_published": "2026-09-19T22:08:35.000Z",
+            "author": {
+                "name": "ENEmyr",
+                "url": "https://github.com/ENEmyr"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60695?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Clickable right-click context menu and double-click open for Yazi</div>",
+            "url": "https://github.com/lostofctrl/yazi-contextmenu",
+            "title": "lostofctrl/yazi-contextmenu: Clickable right-click context menu and double-click open for Yazi",
+            "date_modified": "2026-10-25T06:38:45.000Z",
+            "date_published": "2026-10-24T18:08:12.000Z",
+            "author": {
+                "name": "lostofctrl",
+                "url": "https://github.com/lostofctrl"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105212754?u=6e48df012d0fbc73f065ce18236e87607b97c4a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight, recoverable, terminal-only workspace for remote development, built around tmux and Neovim / 轻量、可恢复、以 tmux 和 Neovim 为核心的纯终端远程开发工作区</div>",
             "url": "https://github.com/beixiyo/dotfiles",
             "title": "beixiyo/dotfiles: A lightweight, recoverable, terminal-only workspace for remote development, built around tmux and Neovim / 轻量、可恢复、以 tmux 和 Neovim 为核心的纯终端远程开发工作区",
@@ -39,17 +105,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
-            "url": "https://github.com/mikavilpas/yazi.nvim",
-            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2026-10-24T20:41:34.000Z",
-            "date_published": "2024-02-25T13:33:19.000Z",
-            "author": {
-                "name": "mikavilpas",
-                "url": "https://github.com/mikavilpas"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/16944548?u=62356f940fcb2d83afd46aa699ca7fff4fca4bb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>picker for your remotes</div>",
             "url": "https://github.com/cwelsys/remotes.yazi",
             "title": "cwelsys/remotes.yazi: picker for your remotes",
@@ -58,17 +113,6 @@
             "author": {
                 "name": "cwelsys",
                 "url": "https://github.com/cwelsys"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/60695?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Clickable right-click context menu and double-click open for Yazi</div>",
-            "url": "https://github.com/lostofctrl/yazi-contextmenu",
-            "title": "lostofctrl/yazi-contextmenu: Clickable right-click context menu and double-click open for Yazi",
-            "date_modified": "2026-10-24T18:08:23.000Z",
-            "date_published": "2026-10-24T18:08:12.000Z",
-            "author": {
-                "name": "lostofctrl",
-                "url": "https://github.com/lostofctrl"
             }
         },
         {
@@ -171,58 +215,14 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/13987584?u=189708368c51432f9f99d58d757b75c4c0a94423&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin that uses duckdb to preview data files.</div>",
-            "url": "https://github.com/stevencarpenter/duckdb.yazi",
-            "title": "stevencarpenter/duckdb.yazi: Yazi plugin that uses duckdb to preview data files.",
-            "date_modified": "2026-10-24T03:10:47.000Z",
-            "date_published": "2026-01-25T05:45:38.000Z",
-            "author": {
-                "name": "stevencarpenter",
-                "url": "https://github.com/stevencarpenter"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39483124?u=5005634d0aca7b399fb7a3917b5e51859028b690&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🤖💤 High-contrast, Futuristic &amp; Vibrant Neovim Colorscheme</div>",
             "url": "https://github.com/scottmckendry/cyberdream.nvim",
             "title": "scottmckendry/cyberdream.nvim: 🤖💤 High-contrast, Futuristic & Vibrant Neovim Colorscheme",
-            "date_modified": "2026-10-24T00:10:51.000Z",
+            "date_modified": "2026-10-25T09:52:06.000Z",
             "date_published": "2023-12-21T03:44:41.000Z",
             "author": {
                 "name": "scottmckendry",
                 "url": "https://github.com/scottmckendry"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/167700566?u=80979dfc5bee763f1c4fa043fe29411546e777c9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browse Git changes and preview staged, unstaged, and untracked file diffs in Yazi</div>",
-            "url": "https://github.com/WhoSowSee/whatchanged.yazi",
-            "title": "WhoSowSee/whatchanged.yazi: Browse Git changes and preview staged, unstaged, and untracked file diffs in Yazi",
-            "date_modified": "2026-10-23T22:38:36.000Z",
-            "date_published": "2026-10-16T07:51:10.000Z",
-            "author": {
-                "name": "WhoSowSee",
-                "url": "https://github.com/WhoSowSee"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43703308?u=8ed24367ad1586b508d7535300ef29f30937f572&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A highly customized mouseless development environment for Arch Linux, featuring Hyprland, Neovim, Tmux, Zsh, and Ghostty configurations.</div>",
-            "url": "https://github.com/Pairadux/dotfiles",
-            "title": "Pairadux/dotfiles: A highly customized mouseless development environment for Arch Linux, featuring Hyprland, Neovim, Tmux, Zsh, and Ghostty configurations.",
-            "date_modified": "2026-10-23T19:53:55.000Z",
-            "date_published": "2024-02-13T15:39:41.000Z",
-            "author": {
-                "name": "Pairadux",
-                "url": "https://github.com/Pairadux"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69900055?u=9501ca86e1e4bc3fa49884e6c4c8d5f2ee04434f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Linux dotfiles and configs based on homebrew</div>",
-            "url": "https://github.com/ZeiZel/dotfiles",
-            "title": "ZeiZel/dotfiles: Linux dotfiles and configs based on homebrew",
-            "date_modified": "2026-10-24T21:42:46.000Z",
-            "date_published": "2024-10-01T18:05:06.000Z",
-            "author": {
-                "name": "ZeiZel",
-                "url": "https://github.com/ZeiZel"
             }
         }
     ]
