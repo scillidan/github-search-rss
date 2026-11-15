@@ -6,11 +6,44 @@
     "description": "yazi on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: toggle the parent and preview panes at runtime, and hide the header line</div>",
-            "url": "https://github.com/yazi-contrib/layout.yazi",
-            "title": "yazi-contrib/layout.yazi: Yazi plugin: toggle the parent and preview panes at runtime, and hide the header line",
-            "date_modified": "2026-11-15T16:30:48.000Z",
-            "date_published": "2026-11-15T16:30:38.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/970921?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Browse S3, R2 and any rclone remote in yazi. No macFUSE needed on macOS.</div>",
+            "url": "https://github.com/wrichert/rclone.yazi",
+            "title": "wrichert/rclone.yazi: Browse S3, R2 and any rclone remote in yazi. No macFUSE needed on macOS.",
+            "date_modified": "2026-11-15T20:24:32.000Z",
+            "date_published": "2026-11-15T20:24:23.000Z",
+            "author": {
+                "name": "wrichert",
+                "url": "https://github.com/wrichert"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: send files with Taildrop to a device of your tailnet, and take the files that came</div>",
+            "url": "https://github.com/yazi-contrib/tailscale.yazi",
+            "title": "yazi-contrib/tailscale.yazi: Yazi plugin: send files with Taildrop to a device of your tailnet, and take the files that came",
+            "date_modified": "2026-11-15T19:22:11.000Z",
+            "date_published": "2026-11-15T19:22:01.000Z",
+            "author": {
+                "name": "yazi-contrib",
+                "url": "https://github.com/yazi-contrib"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: file and folder pickers with fzf that use the variables of fzf for its key bindings</div>",
+            "url": "https://github.com/yazi-contrib/finder.yazi",
+            "title": "yazi-contrib/finder.yazi: Yazi plugin: file and folder pickers with fzf that use the variables of fzf for its key bindings",
+            "date_modified": "2026-11-15T18:52:44.000Z",
+            "date_published": "2026-11-15T18:45:23.000Z",
+            "author": {
+                "name": "yazi-contrib",
+                "url": "https://github.com/yazi-contrib"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: a status line with the path, owner and mtime, and optionally a starship prompt</div>",
+            "url": "https://github.com/yazi-contrib/starship.yazi",
+            "title": "yazi-contrib/starship.yazi: Yazi plugin: a status line with the path, owner and mtime, and optionally a starship prompt",
+            "date_modified": "2026-11-15T17:27:34.000Z",
+            "date_published": "2026-11-15T16:30:47.000Z",
             "author": {
                 "name": "yazi-contrib",
                 "url": "https://github.com/yazi-contrib"
@@ -28,14 +61,69 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: a status line with the path, owner and mtime, and optionally a starship prompt</div>",
-            "url": "https://github.com/yazi-contrib/starship.yazi",
-            "title": "yazi-contrib/starship.yazi: Yazi plugin: a status line with the path, owner and mtime, and optionally a starship prompt",
-            "date_modified": "2026-11-15T16:45:03.000Z",
-            "date_published": "2026-11-15T16:30:47.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: mount rclone remotes, go to the mount point and unmount, with the mounts under a folder of your choice</div>",
+            "url": "https://github.com/yazi-contrib/rclone.yazi",
+            "title": "yazi-contrib/rclone.yazi: Yazi plugin: mount rclone remotes, go to the mount point and unmount, with the mounts under a folder of your choice",
+            "date_modified": "2026-11-15T20:36:04.000Z",
+            "date_published": "2026-11-15T20:35:54.000Z",
             "author": {
                 "name": "yazi-contrib",
                 "url": "https://github.com/yazi-contrib"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162886164?u=065df152ae5357754b328aac5fdabb844c7898c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Мой конфиг yazi без FAR-режима (форк ~/.config/yazi)</div>",
+            "url": "https://github.com/PHONE1X/yazi-nofar",
+            "title": "PHONE1X/yazi-nofar: Мой конфиг yazi без FAR-режима (форк ~/.config/yazi)",
+            "date_modified": "2026-11-13T10:40:14.000Z",
+            "date_published": "2026-11-13T10:40:04.000Z",
+            "author": {
+                "name": "PHONE1X",
+                "url": "https://github.com/PHONE1X"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44099524?u=91e594c1988245d9582e45a96713e00d9f6ebf9d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Dark colour scheme with rust-orange, teal, and peach accents</div>",
+            "url": "https://github.com/cjber/oxide",
+            "title": "cjber/oxide: Dark colour scheme with rust-orange, teal, and peach accents",
+            "date_modified": "2026-11-11T00:44:52.000Z",
+            "date_published": "2026-05-18T11:03:31.000Z",
+            "author": {
+                "name": "cjber",
+                "url": "https://github.com/cjber"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
+            "url": "https://github.com/mikavilpas/yazi.nvim",
+            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
+            "date_modified": "2026-11-15T11:33:22.000Z",
+            "date_published": "2024-02-25T13:33:19.000Z",
+            "author": {
+                "name": "mikavilpas",
+                "url": "https://github.com/mikavilpas"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/89351731?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>⚙️ User-specific configuration files for Unix-like systems</div>",
+            "url": "https://github.com/n4vysh/dotfiles",
+            "title": "n4vysh/dotfiles: ⚙️ User-specific configuration files for Unix-like systems",
+            "date_modified": "2026-11-09T05:31:02.000Z",
+            "date_published": "2023-04-29T09:04:55.000Z",
+            "author": {
+                "name": "n4vysh",
+                "url": "https://github.com/n4vysh"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136863723?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>WezTerm + Yazi + micro terminal setup for macOS (ssh-aware splits, file sidebar, markdown preview)</div>",
+            "url": "https://github.com/RyanKim17920/dotfiles",
+            "title": "RyanKim17920/dotfiles: WezTerm + Yazi + micro terminal setup for macOS (ssh-aware splits, file sidebar, markdown preview)",
+            "date_modified": "2026-11-12T16:42:29.000Z",
+            "date_published": "2026-10-11T21:34:10.000Z",
+            "author": {
+                "name": "RyanKim17920",
+                "url": "https://github.com/RyanKim17920"
             }
         },
         {
@@ -69,17 +157,6 @@
             "author": {
                 "name": "beixiyo",
                 "url": "https://github.com/beixiyo"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
-            "url": "https://github.com/mikavilpas/yazi.nvim",
-            "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2026-11-15T11:33:22.000Z",
-            "date_published": "2024-02-25T13:33:19.000Z",
-            "author": {
-                "name": "mikavilpas",
-                "url": "https://github.com/mikavilpas"
             }
         },
         {
@@ -146,83 +223,6 @@
             "author": {
                 "name": "jabbathenut",
                 "url": "https://github.com/jabbathenut"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/125735430?u=ed591fbbf38d27810ee85f639e5fec5a08ed7166&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Session restore plugin for yazi file manager</div>",
-            "url": "https://github.com/pakhromov/autosave.yazi",
-            "title": "pakhromov/autosave.yazi: Session restore plugin for yazi file manager",
-            "date_modified": "2026-11-13T23:28:44.000Z",
-            "date_published": "2026-04-25T16:22:52.000Z",
-            "author": {
-                "name": "pakhromov",
-                "url": "https://github.com/pakhromov"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/356072198?u=997589bf119439a84a985afc74589d5697529fb7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Neovim, Wezterm, Yazi(+ rg, fd, fzf)の設定と手順を記載しています。</div>",
-            "url": "https://github.com/norder-lab/dotfiles",
-            "title": "norder-lab/dotfiles: Neovim, Wezterm, Yazi(+ rg, fd, fzf)の設定と手順を記載しています。",
-            "date_modified": "2026-11-13T19:40:27.000Z",
-            "date_published": "2026-11-13T19:39:08.000Z",
-            "author": {
-                "name": "norder-lab",
-                "url": "https://github.com/norder-lab"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116632007?u=968ecebc4d6cd9d9b6c91d8b2fe618e5eb6bcd76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My dotfiles for Neovim, Alacritty, Ghostty, Yazi, and shell configs. Managed with a simple bash sync script.</div>",
-            "url": "https://github.com/nlkli/dotfiles",
-            "title": "nlkli/dotfiles: My dotfiles for Neovim, Alacritty, Ghostty, Yazi, and shell configs. Managed with a simple bash sync script.",
-            "date_modified": "2026-11-08T00:37:10.000Z",
-            "date_published": "2025-11-14T22:28:02.000Z",
-            "author": {
-                "name": "nlkli",
-                "url": "https://github.com/nlkli"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/259730189?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minimalistic and cli focused hyprland config using uwsm, kitty, waybar, fuzzel, yazi, mako, grimblast, nvim, ripdrag</div>",
-            "url": "https://github.com/reitererkvn/dotfiles",
-            "title": "reitererkvn/dotfiles: minimalistic and cli focused hyprland config using uwsm, kitty, waybar, fuzzel, yazi, mako, grimblast, nvim, ripdrag",
-            "date_modified": "2026-10-30T23:51:32.000Z",
-            "date_published": "2026-03-14T11:22:43.000Z",
-            "author": {
-                "name": "reitererkvn",
-                "url": "https://github.com/reitererkvn"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136994883?u=5855669dd49127fe45d44f82d3a7092d77beb183&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔧 Collection of my configuration files and settings</div>",
-            "url": "https://github.com/Noxmor/.dotfiles",
-            "title": "Noxmor/.dotfiles: 🔧 Collection of my configuration files and settings",
-            "date_modified": "2026-11-07T02:30:47.000Z",
-            "date_published": "2024-04-27T10:10:15.000Z",
-            "author": {
-                "name": "Noxmor",
-                "url": "https://github.com/Noxmor"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12671313?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A plugin for yazi (<a href=\"https://github.com/sxyazi/yazi\" class=\"Link--inTextBlock\">https://github.com/sxyazi/yazi</a>) to preview audio files with a spectrogram, waveform and metadata</div>",
-            "url": "https://github.com/empeeby/audio-peek",
-            "title": "empeeby/audio-peek: A plugin for yazi (https://github.com/sxyazi/yazi) to preview audio files with a spectrogram, waveform and metadata",
-            "date_modified": "2026-08-01T19:56:39.000Z",
-            "date_published": "2026-07-07T15:27:11.000Z",
-            "author": {
-                "name": "empeeby",
-                "url": "https://github.com/empeeby"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/162886164?u=065df152ae5357754b328aac5fdabb844c7898c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Мой конфиг yazi без FAR-режима (форк ~/.config/yazi)</div>",
-            "url": "https://github.com/PHONE1X/yazi-nofar",
-            "title": "PHONE1X/yazi-nofar: Мой конфиг yazi без FAR-режима (форк ~/.config/yazi)",
-            "date_modified": "2026-11-13T10:40:14.000Z",
-            "date_published": "2026-11-13T10:40:04.000Z",
-            "author": {
-                "name": "PHONE1X",
-                "url": "https://github.com/PHONE1X"
             }
         }
     ]
