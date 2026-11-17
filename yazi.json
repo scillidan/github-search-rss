@@ -6,10 +6,43 @@
     "description": "yazi on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69184168?u=3eef000f4578b0e8aff1200b76303431ca70dc3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terminal odaklı geliştirme ortamı: nvim + LazyVim + yerel LLM, zellij, yazi, ghostty (stow)</div>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/116632007?u=968ecebc4d6cd9d9b6c91d8b2fe618e5eb6bcd76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>My dotfiles for Neovim, Alacritty, Ghostty, Yazi, and shell configs. Managed with a simple bash sync script.</div>",
+            "url": "https://github.com/nlkli/dotfiles",
+            "title": "nlkli/dotfiles: My dotfiles for Neovim, Alacritty, Ghostty, Yazi, and shell configs. Managed with a simple bash sync script.",
+            "date_modified": "2026-11-08T00:37:10.000Z",
+            "date_published": "2025-11-14T22:28:02.000Z",
+            "author": {
+                "name": "nlkli",
+                "url": "https://github.com/nlkli"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69900055?u=9501ca86e1e4bc3fa49884e6c4c8d5f2ee04434f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Linux dotfiles and configs based on homebrew</div>",
+            "url": "https://github.com/ZeiZel/dotfiles",
+            "title": "ZeiZel/dotfiles: Linux dotfiles and configs based on homebrew",
+            "date_modified": "2026-11-17T17:06:08.000Z",
+            "date_published": "2024-10-01T18:05:06.000Z",
+            "author": {
+                "name": "ZeiZel",
+                "url": "https://github.com/ZeiZel"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/105212754?u=6e48df012d0fbc73f065ce18236e87607b97c4a5&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A lightweight, recoverable, terminal-only workspace for remote development, built around tmux and Neovim / 轻量、可恢复、以 tmux 和 Neovim 为核心的纯终端远程开发工作区</div>",
+            "url": "https://github.com/beixiyo/dotfiles",
+            "title": "beixiyo/dotfiles: A lightweight, recoverable, terminal-only workspace for remote development, built around tmux and Neovim / 轻量、可恢复、以 tmux 和 Neovim 为核心的纯终端远程开发工作区",
+            "date_modified": "2026-11-12T11:06:05.000Z",
+            "date_published": "2026-07-14T08:21:41.000Z",
+            "author": {
+                "name": "beixiyo",
+                "url": "https://github.com/beixiyo"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/69184168?u=3eef000f4578b0e8aff1200b76303431ca70dc3e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Terminal-centric dev environment: nvim + LazyVim + local LLM, zellij, yazi, ghostty (stow)</div>",
             "url": "https://github.com/mefistofeles00/dotfiles",
-            "title": "mefistofeles00/dotfiles: Terminal odaklı geliştirme ortamı: nvim + LazyVim + yerel LLM, zellij, yazi, ghostty (stow)",
-            "date_modified": "2026-11-17T12:47:53.000Z",
+            "title": "mefistofeles00/dotfiles: Terminal-centric dev environment: nvim + LazyVim + local LLM, zellij, yazi, ghostty (stow)",
+            "date_modified": "2026-11-17T13:07:23.000Z",
             "date_published": "2026-11-17T12:47:41.000Z",
             "author": {
                 "name": "mefistofeles00",
@@ -42,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/300791?u=77a4d6cccceefe5859c5641f66801b17f673d2d1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>A Neovim Plugin for the yazi terminal file manager</div>",
             "url": "https://github.com/mikavilpas/yazi.nvim",
             "title": "mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager",
-            "date_modified": "2026-11-17T10:32:19.000Z",
+            "date_modified": "2026-11-17T17:48:22.000Z",
             "date_published": "2024-02-25T13:33:19.000Z",
             "author": {
                 "name": "mikavilpas",
@@ -187,39 +220,6 @@
             "title": "yazi-contrib/starship.yazi: Yazi plugin: a status line with the path, owner and mtime, and optionally a starship prompt",
             "date_modified": "2026-11-15T17:27:34.000Z",
             "date_published": "2026-11-15T16:30:47.000Z",
-            "author": {
-                "name": "yazi-contrib",
-                "url": "https://github.com/yazi-contrib"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: centered, enlarged previews of images, SVGs and PDF pages</div>",
-            "url": "https://github.com/yazi-contrib/viewer.yazi",
-            "title": "yazi-contrib/viewer.yazi: Yazi plugin: centered, enlarged previews of images, SVGs and PDF pages",
-            "date_modified": "2026-11-15T16:30:38.000Z",
-            "date_published": "2026-11-15T16:30:29.000Z",
-            "author": {
-                "name": "yazi-contrib",
-                "url": "https://github.com/yazi-contrib"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: file and folder pickers with fzf that use the variables of fzf for its key bindings</div>",
-            "url": "https://github.com/yazi-contrib/finder.yazi",
-            "title": "yazi-contrib/finder.yazi: Yazi plugin: file and folder pickers with fzf that use the variables of fzf for its key bindings",
-            "date_modified": "2026-11-15T18:52:44.000Z",
-            "date_published": "2026-11-15T18:45:23.000Z",
-            "author": {
-                "name": "yazi-contrib",
-                "url": "https://github.com/yazi-contrib"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: mount rclone remotes, go to the mount point and unmount, with the mounts under a folder of your choice</div>",
-            "url": "https://github.com/yazi-contrib/rclone.yazi",
-            "title": "yazi-contrib/rclone.yazi: Yazi plugin: mount rclone remotes, go to the mount point and unmount, with the mounts under a folder of your choice",
-            "date_modified": "2026-11-15T20:36:04.000Z",
-            "date_published": "2026-11-15T20:35:54.000Z",
             "author": {
                 "name": "yazi-contrib",
                 "url": "https://github.com/yazi-contrib"
