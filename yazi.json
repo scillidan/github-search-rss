@@ -6,6 +6,61 @@
     "description": "yazi on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/24836612?u=c709423ede8d05b822c634566e47b5cf5c9745cc&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Development environment configuration files</div>",
+            "url": "https://github.com/sth4rley/cfg",
+            "title": "sth4rley/cfg: Development environment configuration files",
+            "date_modified": "2026-11-06T02:39:30.000Z",
+            "date_published": "2022-09-04T15:34:21.000Z",
+            "author": {
+                "name": "sth4rley",
+                "url": "https://github.com/sth4rley"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/106315692?u=e0f66f26c301f9772860ecbc91ff9d6f70472b15&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>minimal zsh runner in yazi</div>",
+            "url": "https://github.com/FramedStone/zsh-runner.yazi",
+            "title": "FramedStone/zsh-runner.yazi: minimal zsh runner in yazi",
+            "date_modified": "2026-11-24T01:11:41.000Z",
+            "date_published": "2026-11-24T00:59:22.000Z",
+            "author": {
+                "name": "FramedStone",
+                "url": "https://github.com/FramedStone"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35106942?u=80d5bb007ab56917f8ae775ed3c01ccf659ee2f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal Darwin system flake</div>",
+            "url": "https://github.com/mathjiajia/nix-darwin",
+            "title": "mathjiajia/nix-darwin: Personal Darwin system flake",
+            "date_modified": "2026-11-19T07:25:03.000Z",
+            "date_published": "2024-10-08T16:31:52.000Z",
+            "author": {
+                "name": "mathjiajia",
+                "url": "https://github.com/mathjiajia"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6154?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>yazi plugin - select files with pattern</div>",
+            "url": "https://github.com/blackdaemon/select-filter.yazi",
+            "title": "blackdaemon/select-filter.yazi: yazi plugin - select files with pattern",
+            "date_modified": "2026-11-23T21:25:04.000Z",
+            "date_published": "2026-11-23T21:20:41.000Z",
+            "author": {
+                "name": "blackdaemon",
+                "url": "https://github.com/blackdaemon"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/37911404?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>npm/pip/conda package with minimal neovim, terax, yazi, zsh and kanata setup</div>",
+            "url": "https://github.com/YeferYV/RetroVim",
+            "title": "YeferYV/RetroVim: npm/pip/conda package with minimal neovim, terax, yazi, zsh and kanata setup",
+            "date_modified": "2026-11-05T07:17:16.000Z",
+            "date_published": "2022-07-21T15:42:52.000Z",
+            "author": {
+                "name": "YeferYV",
+                "url": "https://github.com/YeferYV"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/72756162?u=5a627797a60aead3ed2023d17644d1f9e7ed67cf&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Compare one selected entry with the hovered entry using Git by default or a command template of your choice.</div>",
             "url": "https://github.com/ser-redeye/diff.yazi",
             "title": "ser-redeye/diff.yazi: Compare one selected entry with the hovered entry using Git by default or a command template of your choice.",
@@ -149,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/35106942?u=80d5bb007ab56917f8ae775ed3c01ccf659ee2f4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Personal Darwin system flake</div>",
-            "url": "https://github.com/mathjiajia/nix-darwin",
-            "title": "mathjiajia/nix-darwin: Personal Darwin system flake",
-            "date_modified": "2026-11-19T07:25:03.000Z",
-            "date_published": "2024-10-08T16:31:52.000Z",
-            "author": {
-                "name": "mathjiajia",
-                "url": "https://github.com/mathjiajia"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: send files with Taildrop to a device of your tailnet, and take the files that came</div>",
             "url": "https://github.com/yazi-contrib/tailscale.yazi",
             "title": "yazi-contrib/tailscale.yazi: Yazi plugin: send files with Taildrop to a device of your tailnet, and take the files that came",
@@ -179,50 +223,6 @@
             "author": {
                 "name": "yazi-contrib",
                 "url": "https://github.com/yazi-contrib"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/357024417?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugin: mount rclone remotes, go to the mount point and unmount, with the mounts under a folder of your choice</div>",
-            "url": "https://github.com/yazi-contrib/rclone.yazi",
-            "title": "yazi-contrib/rclone.yazi: Yazi plugin: mount rclone remotes, go to the mount point and unmount, with the mounts under a folder of your choice",
-            "date_modified": "2026-11-15T20:36:04.000Z",
-            "date_published": "2026-11-15T20:35:54.000Z",
-            "author": {
-                "name": "yazi-contrib",
-                "url": "https://github.com/yazi-contrib"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4753752?u=1cb3657c2903f2543d736b6a8e00e527e33693fe&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Shrink smartphone photos and videos to a smaller copy from inside Yazi — one keypress over a selection, with live progress</div>",
-            "url": "https://github.com/guttermonk/compactinator.yazi",
-            "title": "guttermonk/compactinator.yazi: Shrink smartphone photos and videos to a smaller copy from inside Yazi — one keypress over a selection, with live progress",
-            "date_modified": "2026-11-18T20:37:29.000Z",
-            "date_published": "2026-11-18T20:32:18.000Z",
-            "author": {
-                "name": "guttermonk",
-                "url": "https://github.com/guttermonk"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/139607733?u=05220182dfb7da5f73042cbed3bc55a905b87416&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>Yazi plugins for Linux and MacOS</div>",
-            "url": "https://github.com/deppess/yazi-plugins",
-            "title": "deppess/yazi-plugins: Yazi plugins for Linux and MacOS",
-            "date_modified": "2026-11-15T02:37:04.000Z",
-            "date_published": "2026-06-24T07:31:03.000Z",
-            "author": {
-                "name": "deppess",
-                "url": "https://github.com/deppess"
-            }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/136994883?u=5855669dd49127fe45d44f82d3a7092d77beb183&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div>🔧 Collection of my configuration files and settings</div>",
-            "url": "https://github.com/Noxmor/.dotfiles",
-            "title": "Noxmor/.dotfiles: 🔧 Collection of my configuration files and settings",
-            "date_modified": "2026-11-07T02:30:47.000Z",
-            "date_published": "2024-04-27T10:10:15.000Z",
-            "author": {
-                "name": "Noxmor",
-                "url": "https://github.com/Noxmor"
             }
         }
     ]
